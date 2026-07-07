@@ -61,12 +61,65 @@ tr:hover td{background:var(--bg3)}
 .bili-stat{text-align:center;padding:12px;background:var(--bg3);border-radius:8px}
 .bili-stat .v{font-size:20px;font-weight:700;color:#fb7299}
 .bili-stat .l{font-size:11px;color:var(--t2);margin-top:2px}
-/* 모바일 */
+/* 모바일 최적화 */
 @media(max-width:768px){
-.sb{width:60px}.sb-logo{font-size:14px;padding:12px 8px}.sb a span:not(.icon){display:none}.sb-divider{display:none}
-.mn{margin-left:60px;padding:16px}
-.kpis{grid-template-columns:repeat(2,1fr)}.bili-stats{grid-template-columns:1fr}
+/* 사이드바 → 하단 탭바로 변환 */
+.sb{width:100%!important;height:auto!important;position:fixed!important;bottom:0!important;top:auto!important;border-right:none!important;border-top:1px solid var(--border)!important;padding:0!important;display:flex!important;justify-content:space-around!important;z-index:200!important;background:var(--bg2)!important}
+.sb-logo,.sb-divider,#ad-sidebar{display:none!important}
+.sb a{flex-direction:column!important;gap:2px!important;padding:8px 4px!important;border-left:none!important;border-bottom:3px solid transparent!important;font-size:10px!important;min-width:0!important;flex:1!important}
+.sb a.on{border-left:none!important;border-bottom-color:var(--accent)!important;background:none!important}
+.sb a span.icon{font-size:20px!important}
+.sb a span:not(.icon){font-size:9px!important;display:block!important;text-align:center!important;white-space:nowrap!important;overflow:hidden!important;text-overflow:ellipsis!important}
+/* 메인 영역 */
+.mn{margin-left:0!important;margin-bottom:60px!important;padding:12px!important}
+.mobile-country{display:block!important}
+.sb .country-filter,.sb-divider,.sb-logo,#ad-sidebar{display:none!important}
+.header{margin-bottom:14px!important;flex-wrap:wrap!important;gap:8px}
+.header h1{font-size:18px!important}
+/* KPI 카드 */
+.kpis{grid-template-columns:repeat(2,1fr)!important;gap:8px!important}
+.kpi{padding:12px!important;border-radius:10px!important}
+.kpi .v{font-size:22px!important}
+.kpi .l{font-size:10px!important}
+.kpi .s{font-size:9px!important}
+/* 카드 */
+.card{padding:12px!important;border-radius:10px!important;margin-bottom:12px!important}
+.card h3{font-size:14px!important;margin-bottom:10px!important}
+/* 테이블 — 가로 스크롤 + 첫 두 열만 sticky */
+table{font-size:11px!important;display:block!important;overflow-x:auto!important;white-space:nowrap!important;-webkit-overflow-scrolling:touch}
+th,td{padding:6px 8px!important}
+th{font-size:10px!important;position:sticky;top:0;background:var(--bg2);z-index:1}
+/* 검색 */
+.search{font-size:13px!important;padding:8px 12px!important;margin-bottom:10px!important}
+/* 광고 영역 축소 */
+#ad-bottom{min-height:50px!important;margin:12px 0!important}
+/* 라인 차트 컨테이너 */
+canvas{max-width:100%!important}
 }
+/* 태블릿 */
+@media(max-width:1024px) and (min-width:769px){
+.mn{padding:16px 20px!important}
+.kpis{grid-template-columns:repeat(3,1fr)!important}
+}
+/* 작은 모바일 (320px) */
+@media(max-width:380px){
+.kpis{grid-template-columns:1fr!important}
+.kpi{padding:10px!important}
+.kpi .v{font-size:18px!important}
+.sb a span:not(.icon){font-size:8px!important}
+.mn{padding:8px!important}
+}
+/* 다크모드에서 스크롤바 */
+::-webkit-scrollbar{width:6px;height:6px}
+::-webkit-scrollbar-track{background:var(--bg)}
+::-webkit-scrollbar-thumb{background:var(--border);border-radius:3px}
+/* 터치 디바이스 — 클릭 영역 확대 */
+@media(hover:none){
+th,td,.sb a,.kpi,.card{cursor:default!important}
+.sb a{padding:10px 4px!important}
+}
+/* 안전 영역 (노치/iPhone) */
+@supports(padding:max(0px)){.sb{padding-bottom:max(8px,env(safe-area-inset-bottom))!important}}
 </style>
 </head>
 <body>
@@ -81,9 +134,9 @@ tr:hover td{background:var(--bg3)}
 <a onclick="showTab('news',this)"><span class="icon">📰</span><span>뉴스</span></a>
 <a onclick="showTab('calendar',this)"><span class="icon">📅</span><span>캘린더</span></a>
 <div class="sb-divider">국가</div>
-<a onclick="filterCountry('all',this)"><span class="icon">🌐</span><span>전체</span></a>
-<a onclick="filterCountry('kr',this)"><span class="icon">🇰🇷</span><span>한국</span></a>
-<a onclick="filterCountry('cn',this)"><span class="icon">🇨🇳</span><span>중국</span></a>
+<a onclick="filterCountry('all',this)" class="country-filter"><span class="icon">🌐</span><span>전체</span></a>
+<a onclick="filterCountry('kr',this)" class="country-filter"><span class="icon">🇰🇷</span><span>한국</span></a>
+<a onclick="filterCountry('cn',this)" class="country-filter"><span class="icon">🇨🇳</span><span>중국</span></a>
 <div class="sb-divider">광고</div>
 <div id="ad-sidebar" style="padding:12px 16px;min-height:250px"></div>
 </nav>
@@ -91,8 +144,13 @@ tr:hover td{background:var(--bg3)}
 <div class="mn">
 <div class="header">
 <h1 id="page-title">종합 현황</h1>
-<div style="display:flex;align-items:center;gap:12px">
-<span class="meta" id="update-time">2026-07-08 08:07</span>
+<div style="display:flex;align-items:center;gap:8px">
+<select class="mobile-country" onchange="filterCountry(this.value)" style="display:none;padding:6px 10px;border-radius:8px;border:1px solid var(--border);background:var(--bg2);color:var(--t1);font-size:12px">
+<option value="all">🌐 전체</option>
+<option value="kr">🇰🇷 한국</option>
+<option value="cn">🇨🇳 중국</option>
+</select>
+<span class="meta" id="update-time">2026-07-08 08:29</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 </div>
 </div>
