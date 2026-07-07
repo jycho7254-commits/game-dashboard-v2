@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>게임 대시보드 v2 | KR+CN 통합 분석</title>
+<link href="https://fonts.googleapis.com/css2?family=Pretendard:wght@300;400;500;700&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+<style>
+:root{--bg:#0f1117;--bg2:#1a1d28;--bg3:#252836;--t1:#e4e6eb;--t2:#9ca3af;--t3:#6b7280;--border:#2d3142;--accent:#667eea;--accent2:#764ba2;--pos:#10b981;--neg:#ef4444;--neu:#6b7280;--warn:#f59e0b}
+.light{--bg:#f5f7fa;--bg2:#fff;--bg3:#f0f2f5;--t1:#1a1d28;--t2:#4b5563;--t3:#9ca3af;--border:#e5e7eb}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Pretendard',sans-serif;background:var(--bg);color:var(--t1);font-size:14px;line-height:1.6}
+.container{display:flex;min-height:100vh}
+/* 사이드바 */
+.sb{width:220px;background:var(--bg2);border-right:1px solid var(--border);padding:16px 0;position:fixed;height:100vh;overflow-y:auto;z-index:100}
+.sb-logo{padding:16px 20px;font-size:18px;font-weight:700;color:var(--accent)}
+.sb-logo small{display:block;font-size:11px;color:var(--t3);font-weight:400;margin-top:2px}
+.sb a{display:flex;align-items:center;gap:10px;padding:10px 20px;color:var(--t2);text-decoration:none;font-size:14px;cursor:pointer;transition:.2s;border-left:3px solid transparent}
+.sb a:hover{background:var(--bg3);color:var(--t1)}
+.sb a.on{color:var(--accent);border-left-color:var(--accent);background:var(--bg3)}
+.sb a span.icon{font-size:18px}
+.sb-divider{padding:12px 20px 6px;font-size:11px;color:var(--t3);text-transform:uppercase;letter-spacing:1px}
+/* 메인 */
+.mn{margin-left:220px;flex:1;padding:24px 32px;min-width:0}
+.header{display:flex;align-items:center;justify-content:space-between;margin-bottom:24px}
+.header h1{font-size:24px;font-weight:700}
+.header .meta{font-size:12px;color:var(--t2)}
+.header button{padding:6px 14px;border-radius:8px;border:1px solid var(--border);background:var(--bg2);color:var(--t1);cursor:pointer;font-size:12px}
+/* 탭 콘텐츠 */
+.tc{display:none}.tc.on{display:block}
+/* KPI 카드 */
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:14px;margin-bottom:24px}
+.kpi{background:var(--bg2);border-radius:12px;padding:18px;border:1px solid var(--border)}
+.kpi .v{font-size:28px;font-weight:700;margin:4px 0}
+.kpi .l{font-size:12px;color:var(--t2)}
+.kpi .s{font-size:11px;color:var(--t3)}
+.kpi.pos .v{color:var(--pos)}.kpi.neg .v{color:var(--neg)}.kpi.warn .v{color:var(--warn)}
+/* 테이블 */
+.card{background:var(--bg2);border-radius:12px;padding:20px;border:1px solid var(--border);margin-bottom:16px}
+.card h3{font-size:16px;margin-bottom:14px}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th{text-align:left;padding:10px 12px;border-bottom:2px solid var(--border);color:var(--t2);font-weight:500;font-size:12px;cursor:pointer}
+td{padding:10px 12px;border-bottom:1px solid var(--border)}
+tr:hover td{background:var(--bg3)}
+/* 여론 지수 게이지 */
+.gauge{display:inline-block;width:60px;height:60px;border-radius:50%;position:relative;flex-shrink:0}
+.gauge::after{content:attr(data-value);position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);font-size:16px;font-weight:700}
+/* 국기 */
+.flag{font-size:16px;margin-right:4px}
+/* 검색 */
+.search{width:100%;padding:10px 16px;border-radius:8px;border:1px solid var(--border);background:var(--bg2);color:var(--t1);font-size:14px;margin-bottom:16px;outline:none}
+.search:focus{border-color:var(--accent)}
+/* 태그 */
+.tag{display:inline-block;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:500}
+.tag.pos{background:rgba(16,185,129,.15);color:var(--pos)}
+.tag.neg{background:rgba(239,68,68,.15);color:var(--neg)}
+.tag.neu{background:rgba(107,114,128,.15);color:var(--neu)}
+/* Bilibili 섹션 */
+.bili-stats{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:12px}
+.bili-stat{text-align:center;padding:12px;background:var(--bg3);border-radius:8px}
+.bili-stat .v{font-size:20px;font-weight:700;color:#fb7299}
+.bili-stat .l{font-size:11px;color:var(--t2);margin-top:2px}
+/* 모바일 */
+@media(max-width:768px){
+.sb{width:60px}.sb-logo{font-size:14px;padding:12px 8px}.sb a span:not(.icon){display:none}.sb-divider{display:none}
+.mn{margin-left:60px;padding:16px}
+.kpis{grid-template-columns:repeat(2,1fr)}.bili-stats{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+<div class="container">
+<nav class="sb">
+<div class="sb-logo">🎮 GameDash<small>v2.0 KR+CN</small></div>
+<a class="on" onclick="showTab('overview',this)"><span class="icon">📊</span><span>종합</span></a>
+<a onclick="showTab('rank',this)"><span class="icon">🏆</span><span>매출 순위</span></a>
+<a onclick="showTab('sentiment',this)"><span class="icon">💬</span><span>여론 분석</span></a>
+<a onclick="showTab('bilibili',this)"><span class="icon">📺</span><span>Bilibili</span></a>
+<a onclick="showTab('marketing',this)"><span class="icon">📢</span><span>마케팅</span></a>
+<a onclick="showTab('news',this)"><span class="icon">📰</span><span>뉴스</span></a>
+<a onclick="showTab('calendar',this)"><span class="icon">📅</span><span>캘린더</span></a>
+<div class="sb-divider">국가</div>
+<a onclick="filterCountry('all',this)"><span class="icon">🌐</span><span>전체</span></a>
+<a onclick="filterCountry('kr',this)"><span class="icon">🇰🇷</span><span>한국</span></a>
+<a onclick="filterCountry('cn',this)"><span class="icon">🇨🇳</span><span>중국</span></a>
+</nav>
+
+<div class="mn">
+<div class="header">
+<h1 id="page-title">종합 현황</h1>
+<div style="display:flex;align-items:center;gap:12px">
+<span class="meta" id="update-time">2026-07-08 07:53</span>
+<button id="theme-toggle" onclick="toggleTheme()">다크</button>
+</div>
+</div>
+
+<!-- 종합 -->
+<div id="tab-overview" class="tc on">
+<div class="kpis">
+<div class="kpi"><div class="l">추적 게임</div><div class="v" id="ov-games">50</div><div class="s">KR+CN 통합</div></div>
+<div class="kpi"><div class="l">DC 게시글</div><div class="v" id="ov-dc">1,983</div><div class="s">최근 수집</div></div>
+<div class="kpi"><div class="l">Bilibili 영상</div><div class="v" id="ov-bili">916</div><div class="s">74.0M 재생</div></div>
+<div class="kpi warn"><div class="l">GP 평균 평점</div><div class="v" id="ov-rating">3.8</div><div class="s">50게임</div></div>
+<div class="kpi"><div class="l">여론 지수 평균</div><div class="v" id="ov-sent">42</div><div class="s">50점 만점</div></div>
+</div>
+<div class="card">
+<h3>📈 매출 Top 10 (한국 Google Play)</h3>
+<table id="ov-rank"><thead><tr><th>#</th><th>게임</th><th>개발사</th><th>평점</th><th>여론</th></tr></thead><tbody></tbody></table>
+</div>
+<div class="card">
+<h3>🔥 인기 Bilibili (중국)</h3>
+<table id="ov-bili-rank"><thead><tr><th>#</th><th>게임</th><th>영상 수</th><th>총 재생</th><th>댓글</th></tr></thead><tbody></tbody></table>
+</div>
+</div>
+
+<!-- 매출 순위 -->
+<div id="tab-rank" class="tc">
+<input class="search" placeholder="게임명/개발사 검색..." oninput="renderRank(this.value)" id="rank-search">
+<div class="card">
+<h3>🏆 매출 Top 50</h3>
+<table id="rank-table"><thead><tr><th>#</th><th>게임</th><th>개발사</th><th>퍼블리셔</th><th>장르</th><th>평점</th></tr></thead><tbody></tbody></table>
+</div>
+</div>
+
+<!-- 여론 분석 -->
+<div id="tab-sentiment" class="tc">
+<div class="kpis">
+<div class="kpi"><div class="l">분석 게시글</div><div class="v">1,983</div><div class="s">DC 모바일</div></div>
+<div class="kpi pos"><div class="l">평균 긍정</div><div class="v">3%</div></div>
+<div class="kpi neg"><div class="l">평균 부정</div><div class="v">6%</div></div>
+<div class="kpi"><div class="l">평균 중립</div><div class="v">88%</div></div>
+</div>
+<input class="search" placeholder="게임명 검색..." oninput="renderSentiment(this.value)" id="sent-search">
+<div class="card">
+<h3>💬 게임별 여론 지수</h3>
+<table id="sent-table"><thead><tr><th>게임</th><th>여론 지수</th><th>긍정</th><th>부정</th><th>중립</th><th>트렌드</th><th>게시글</th></tr></thead><tbody></tbody></table>
+</div>
+</div>
+
+<!-- Bilibili -->
+<div id="tab-bilibili" class="tc">
+<div class="kpis">
+<div class="kpi"><div class="l">분석 영상</div><div class="v">911</div></div>
+<div class="kpi"><div class="l">총 재생</div><div class="v">73M</div></div>
+<div class="kpi"><div class="l">총 댓글</div><div class="v">326K</div></div>
+<div class="kpi"><div class="l">업로더</div><div class="v">800+</div></div>
+</div>
+<input class="search" placeholder="게임명 검색..." oninput="renderBilibili(this.value)" id="bili-search">
+<div class="card">
+<h3>📺 Bilibili 게임별 인기도</h3>
+<table id="bili-table"><thead><tr><th>게임</th><th>영상</th><th>총 재생</th><th>평균 재생</th><th>댓글</th><th>업로더</th></tr></thead><tbody></tbody></table>
+</div>
+</div>
+
+<!-- 마케팅 -->
+<div id="tab-marketing" class="tc">
+<div class="card"><h3>📢 마케팅 활동 (준비 중)</h3><p style="color:var(--t2);padding:20px">Phase 2에서 구현 예정</p></div>
+</div>
+<!-- 뉴스 -->
+<div id="tab-news" class="tc">
+<div class="card"><h3>📰 게임 뉴스 (준비 중)</h3><p style="color:var(--t2);padding:20px">Phase 2에서 구현 예정</p></div>
+</div>
+<!-- 캘린더 -->
+<div id="tab-calendar" class="tc">
+<div class="card"><h3>📅 게임 캘린더 (준비 중)</h3><p style="color:var(--t2);padding:20px">Phase 2에서 구현 예정</p></div>
+</div>
+
+</div>
+</div>
+
+<script>
+// 데이터 인라인 삽입 (빌드 시 치환)
+const GP = [{"title": "SOL: enchant", "developer": "넷마블", "publisher": "넷마블", "genre": "MMORPG", "rating": 2.25}, {"title": "오딘: 발할라 라이징", "developer": "라이온하트스튜디오", "publisher": "카카오게임즈", "genre": "MMORPG", "rating": 4.55}, {"title": "WOS: 화이트아웃 서바이벌", "developer": "센추리게임즈", "publisher": "센추리게임즈", "genre": "서바이벌", "rating": 4.46}, {"title": "리니지M", "developer": "엔씨소프트", "publisher": "엔씨소프트", "genre": "MMORPG", "rating": 2.61}, {"title": "킹샷:Kingshot", "developer": "센추리게임즈", "publisher": "센추리게임즈", "genre": "타워 디펜스", "rating": 4.58}, {"title": "마비노기 모바일", "developer": "넥슨 데브캣", "publisher": "넥슨", "genre": "RPG", "rating": 2.51}, {"title": "로얄 매치 Royal Match", "developer": "드림게임즈", "publisher": "드림게임즈", "genre": "퍼즐", "rating": 4.61}, {"title": "메이플 키우기", "developer": "넥슨", "publisher": "넥슨", "genre": "방치형 RPG", "rating": 4.34}, {"title": "라스트 워: 서바이벌", "developer": "퍼스트펀", "publisher": "퍼스트펀", "genre": "서바이벌", "rating": 4.81}, {"title": "가십하버: 합성 & 스토리 게임", "developer": "마이크로펀", "publisher": "마이크로펀", "genre": "합성", "rating": 4.41}, {"title": "로블록스 (Roblox)", "developer": "로블록스 코퍼레이션", "publisher": "로블록스 코퍼레이션", "genre": "메타버스", "rating": 3.75}, {"title": "명조:워더링 웨이브 × 사이버펑크 콜라보", "developer": "쿠로게임즈", "publisher": "쿠로게임즈", "genre": "RPG", "rating": 4.65}, {"title": "승리의 여신: 니케", "developer": "시프트업", "publisher": "레벨 인피니트", "genre": "RPG", "rating": 4.83}, {"title": "운빨존많겜", "developer": "일일퍼센트", "publisher": "일일퍼센트", "genre": "액션", "rating": 4.35}, {"title": "Limbus Company", "developer": "프로젝트문", "publisher": "프로젝트문", "genre": "RPG", "rating": 4.52}, {"title": "트릭컬 리바이브", "developer": "에피드게임즈", "publisher": "에피드게임즈", "genre": "RPG", "rating": 4.8}, {"title": "씨사이드 익스케이프: 합성 & 스토리 게임", "developer": "마이크로펀", "publisher": "마이크로펀", "genre": "합성", "rating": 4.4}, {"title": "라스트 Z: 서바이벌 슈터", "developer": "오므니로조", "publisher": "오므니로조", "genre": "서바이벌", "rating": 4.76}, {"title": "라스트 어사일럼: 페스트", "developer": "삼십칠게임즈", "publisher": "삼십칠게임즈", "genre": "액션", "rating": 4.87}, {"title": "꿈의 정원 (Gardenscapes)", "developer": "플레이릭스", "publisher": "플레이릭스", "genre": "퍼즐", "rating": 4.71}, {"title": "토이 삼국", "developer": "라이노스", "publisher": "라이노스", "genre": "전략", "rating": 4.82}, {"title": "한게임 포커", "developer": "NHN", "publisher": "NHN", "genre": "보드", "rating": 4.34}, {"title": "테이스티 트레블: 합성 게임", "developer": "센추리게임즈", "publisher": "센추리게임즈", "genre": "합성", "rating": 4.83}, {"title": "우마무스메 프리티 더비", "developer": "사이게임스", "publisher": "카카오게임즈", "genre": "육성", "rating": 4.48}, {"title": "로얄 킹덤 (Royal Kingdom)", "developer": "드림게임즈", "publisher": "드림게임즈", "genre": "퍼즐", "rating": 4.6}, {"title": "한게임포커 클래식 : 7포커 홀덤 섯다 훌라 슬롯", "developer": "NHN", "publisher": "NHN", "genre": "보드", "rating": 4.52}, {"title": "소녀전선2: 망명", "developer": "하오플레이", "publisher": "하오플레이", "genre": "RPG", "rating": 4.28}, {"title": "컴투스프로야구V26", "developer": "컴투스", "publisher": "컴투스", "genre": "스포츠", "rating": 4.5}, {"title": "냥코 대전쟁", "developer": "포노스", "publisher": "포노스", "genre": "타워 디펜스", "rating": 4.14}, {"title": "젠레스 존 제로", "developer": "미하요(호요버스)", "publisher": "미하요(호요버스)", "genre": "RPG", "rating": 3.32}, {"title": "세븐나이츠 리버스", "developer": "넷마블", "publisher": "넷마블", "genre": "RPG", "rating": 3.95}, {"title": "리니지W", "developer": "엔씨소프트", "publisher": "엔씨소프트", "genre": "MMORPG", "rating": 3.73}, {"title": "FC 모바일", "developer": "EA", "publisher": "넥슨", "genre": "스포츠", "rating": 3.06}, {"title": "드래곤빌리지3", "developer": "하이브로우", "publisher": "하이브로우", "genre": "육성", "rating": 4.81}, {"title": "뱀피르", "developer": "넷마블", "publisher": "넷마블", "genre": "RPG", "rating": 4.31}, {"title": "EA SPORTS FC Online M", "developer": "EA", "publisher": "넥슨", "genre": "스포츠", "rating": 2.26}, {"title": "뮤 모나크2", "developer": "웹젠", "publisher": "웹젠", "genre": "MMORPG", "rating": 4.18}, {"title": "S.O.S: 스테이트 오브 서바이벌", "developer": "킹스그룹", "publisher": "펀플러스", "genre": "서바이벌", "rating": 4.43}, {"title": "I9: 인페르노 나인", "developer": "레니우", "publisher": "레니우", "genre": "RPG", "rating": 4.54}, {"title": "이환", "developer": "N2E", "publisher": "N2E", "genre": "RPG", "rating": 4.63}, {"title": "협타디: 협동 타워 디펜스", "developer": "슈퍼매직", "publisher": "슈퍼매직", "genre": "타워 디펜스", "rating": 4.59}, {"title": "붕괴: 스타레일", "developer": "미하요(호요버스)", "publisher": "미하요(호요버스)", "genre": "RPG", "rating": 3.68}, {"title": "캔디크러쉬사가 (Candy Crush Saga)", "developer": "킹", "publisher": "킹", "genre": "퍼즐", "rating": 4.56}, {"title": "브롤스타즈", "developer": "슈퍼셀", "publisher": "슈퍼셀", "genre": "액션", "rating": 3.7}, {"title": "탑 히어로즈", "developer": "리버게임", "publisher": "리버게임", "genre": "RPG", "rating": 4.81}, {"title": "레이븐2", "developer": "넷마블", "publisher": "넷마블", "genre": "RPG", "rating": 4.12}, {"title": "핫레스토랑: 머지&쿠킹", "developer": "마이크로펀", "publisher": "마이크로펀", "genre": "합성", "rating": 4.79}, {"title": "호드 워:어벤저의 소환", "developer": "조이투게더", "publisher": "조이투게더", "genre": "전략", "rating": 4.77}, {"title": "Disney Solitaire", "developer": "슈퍼플레이", "publisher": "슈퍼플레이", "genre": "카드", "rating": 4.79}, {"title": "꿈의 집 (Homescapes)", "developer": "플레이릭스", "publisher": "플레이릭스", "genre": "퍼즐", "rating": 4.67}];
+const DC = {"SOL: enchant": {"total_posts": 49, "positive_pct": 10, "negative_pct": 8, "neutral_pct": 81}, "리니지M": {"total_posts": 56, "positive_pct": 1, "negative_pct": 12, "neutral_pct": 85}, "킹샷:Kingshot": {"total_posts": 45, "positive_pct": 6, "negative_pct": 22, "neutral_pct": 71}, "마비노기 모바일": {"total_posts": 53, "positive_pct": 3, "negative_pct": 1, "neutral_pct": 94}, "로얄 매치 Royal Match": {"total_posts": 53, "positive_pct": 0, "negative_pct": 0, "neutral_pct": 100}, "가십하버: 합성 & 스토리 게임": {"total_posts": 52, "positive_pct": 0, "negative_pct": 7, "neutral_pct": 92}, "로블록스 (Roblox)": {"total_posts": 48, "positive_pct": 10, "negative_pct": 10, "neutral_pct": 79}, "명조:워더링 웨이브 × 사이버펑크 콜라보": {"total_posts": 42, "positive_pct": 4, "negative_pct": 4, "neutral_pct": 90}, "승리의 여신: 니케": {"total_posts": 43, "positive_pct": 2, "negative_pct": 0, "neutral_pct": 97}, "운빨존많겜": {"total_posts": 48, "positive_pct": 0, "negative_pct": 2, "neutral_pct": 97}, "Limbus Company": {"total_posts": 37, "positive_pct": 2, "negative_pct": 2, "neutral_pct": 94}, "트릭컬 리바이브": {"total_posts": 40, "positive_pct": 0, "negative_pct": 2, "neutral_pct": 97}, "라스트 어사일럼: 페스트": {"total_posts": 49, "positive_pct": 4, "negative_pct": 26, "neutral_pct": 69}, "한게임 포커": {"total_posts": 48, "positive_pct": 2, "negative_pct": 10, "neutral_pct": 87}, "우마무스메 프리티 더비": {"total_posts": 58, "positive_pct": 1, "negative_pct": 0, "neutral_pct": 98}, "한게임포커 클래식 : 7포커 홀덤 섯다 훌라 슬롯": {"total_posts": 48, "positive_pct": 2, "negative_pct": 10, "neutral_pct": 87}, "소녀전선2: 망명": {"total_posts": 43, "positive_pct": 0, "negative_pct": 4, "neutral_pct": 95}, "컴투스프로야구V26": {"total_posts": 43, "positive_pct": 0, "negative_pct": 4, "neutral_pct": 95}, "젠레스 존 제로": {"total_posts": 19, "positive_pct": 21, "negative_pct": 0, "neutral_pct": 78}, "세븐나이츠 리버스": {"total_posts": 39, "positive_pct": 2, "negative_pct": 2, "neutral_pct": 94}, "리니지W": {"total_posts": 56, "positive_pct": 1, "negative_pct": 19, "neutral_pct": 78}, "FC 모바일": {"total_posts": 10, "positive_pct": 20, "negative_pct": 0, "neutral_pct": 80}, "드래곤빌리지3": {"total_posts": 48, "positive_pct": 8, "negative_pct": 0, "neutral_pct": 91}, "뱀피르": {"total_posts": 38, "positive_pct": 2, "negative_pct": 0, "neutral_pct": 97}, "뮤 모나크2": {"total_posts": 16, "positive_pct": 18, "negative_pct": 18, "neutral_pct": 62}, "S.O.S: 스테이트 오브 서바이벌": {"total_posts": 55, "positive_pct": 0, "negative_pct": 0, "neutral_pct": 100}, "I9: 인페르노 나인": {"total_posts": 32, "positive_pct": 0, "negative_pct": 0, "neutral_pct": 100}, "브롤스타즈": {"total_posts": 51, "positive_pct": 5, "negative_pct": 9, "neutral_pct": 84}, "탑 히어로즈": {"total_posts": 55, "positive_pct": 5, "negative_pct": 18, "neutral_pct": 76}, "레이븐2": {"total_posts": 56, "positive_pct": 3, "negative_pct": 5, "neutral_pct": 91}, "Disney Solitaire": {"total_posts": 50, "positive_pct": 4, "negative_pct": 4, "neutral_pct": 92}, "꿈의 집 (Homescapes)": {"total_posts": 57, "positive_pct": 0, "negative_pct": 10, "neutral_pct": 89}, "메이플 키우기": {"total_posts": 50, "positive_pct": 0, "negative_pct": 4, "neutral_pct": 96}, "붕괴: 스타레일": {"total_posts": 55, "positive_pct": 0, "negative_pct": 1, "neutral_pct": 98}, "오딘: 발할라 라이징": {"total_posts": 52, "positive_pct": 0, "negative_pct": 11, "neutral_pct": 88}, "WOS: 화이트아웃 서바이벌": {"total_posts": 45, "positive_pct": 2, "negative_pct": 17, "neutral_pct": 80}, "라스트 워: 서바이벌": {"total_posts": 45, "positive_pct": 4, "negative_pct": 20, "neutral_pct": 75}, "이환": {"total_posts": 40, "positive_pct": 2, "negative_pct": 12, "neutral_pct": 85}, "꿈의 정원 (Gardenscapes)": {"total_posts": 55, "positive_pct": 1, "negative_pct": 14, "neutral_pct": 83}, "로얄 킹덤 (Royal Kingdom)": {"total_posts": 42, "positive_pct": 0, "negative_pct": 0, "neutral_pct": 100}, "협타디: 협동 타워 디펜스": {"total_posts": 16, "positive_pct": 6, "negative_pct": 0, "neutral_pct": 93}, "캔디크러쉬사가 (Candy Crush Saga": {"total_posts": 57, "positive_pct": 7, "negative_pct": 10, "neutral_pct": 82}, "냥코 대전쟁": {"total_posts": 39, "positive_pct": 0, "negative_pct": 0, "neutral_pct": 100}, "EA SPORTS FC Online M": {"total_posts": 50, "positive_pct": 6, "negative_pct": 6, "neutral_pct": 88}};
+const BILI = {"SOL: enchant": {"total_videos": 20, "quality_videos": 18, "total_plays": 1277323, "avg_play": 70962, "total_comments": 5143, "unique_authors": 14}, "오딘: 발할라 라이징": {"total_videos": 20, "quality_videos": 20, "total_plays": 643955, "avg_play": 32197, "total_comments": 1731, "unique_authors": 20}, "WOS: 화이트아웃 서바이벌": {"total_videos": 20, "quality_videos": 20, "total_plays": 1086465, "avg_play": 54323, "total_comments": 369, "unique_authors": 13}, "리니지M": {"total_videos": 20, "quality_videos": 18, "total_plays": 456218, "avg_play": 25345, "total_comments": 398, "unique_authors": 16}, "킹샷:Kingshot": {"total_videos": 20, "quality_videos": 16, "total_plays": 222524, "avg_play": 13907, "total_comments": 271, "unique_authors": 16}, "마비노기 모바일": {"total_videos": 20, "quality_videos": 17, "total_plays": 182754, "avg_play": 10750, "total_comments": 466, "unique_authors": 11}, "로얄 매치 Royal Match": {"total_videos": 20, "quality_videos": 20, "total_plays": 490535, "avg_play": 24526, "total_comments": 1407, "unique_authors": 17}, "메이플 키우기": {"total_videos": 20, "quality_videos": 20, "total_plays": 357442, "avg_play": 17872, "total_comments": 276, "unique_authors": 15}, "라스트 워: 서바이벌": {"total_videos": 20, "quality_videos": 20, "total_plays": 888234, "avg_play": 44411, "total_comments": 2431, "unique_authors": 18}, "가십하버: 합성 & 스토리 게임": {"total_videos": 20, "quality_videos": 19, "total_plays": 113987, "avg_play": 5999, "total_comments": 290, "unique_authors": 14}, "로블록스 (Roblox)": {"total_videos": 20, "quality_videos": 20, "total_plays": 1503246, "avg_play": 75162, "total_comments": 2744, "unique_authors": 16}, "명조:워더링 웨이브 × 사이버펑크 콜라보": {"total_videos": 20, "quality_videos": 19, "total_plays": 2368752, "avg_play": 124671, "total_comments": 4662, "unique_authors": 19}, "승리의 여신: 니케": {"total_videos": 20, "quality_videos": 20, "total_plays": 2377450, "avg_play": 118872, "total_comments": 1193, "unique_authors": 18}, "운빨존많겜": {"total_videos": 20, "quality_videos": 18, "total_plays": 4559620, "avg_play": 253312, "total_comments": 534, "unique_authors": 18}, "Limbus Company": {"total_videos": 20, "quality_videos": 17, "total_plays": 5473927, "avg_play": 321995, "total_comments": 114322, "unique_authors": 14}, "트릭컬 리바이브": {"total_videos": 20, "quality_videos": 20, "total_plays": 1313492, "avg_play": 65674, "total_comments": 9423, "unique_authors": 12}, "씨사이드 익스케이프: 합성 & 스토리 게임": {"total_videos": 20, "quality_videos": 19, "total_plays": 151766, "avg_play": 7987, "total_comments": 132, "unique_authors": 15}, "라스트 Z: 서바이벌 슈터": {"total_videos": 20, "quality_videos": 19, "total_plays": 3013667, "avg_play": 158614, "total_comments": 2316, "unique_authors": 17}, "라스트 어사일럼: 페스트": {"total_videos": 20, "quality_videos": 19, "total_plays": 1226824, "avg_play": 64569, "total_comments": 1424, "unique_authors": 19}, "꿈의 정원 (Gardenscapes)": {"total_videos": 20, "quality_videos": 19, "total_plays": 164039, "avg_play": 8633, "total_comments": 276, "unique_authors": 11}, "토이 삼국": {"total_videos": 20, "quality_videos": 20, "total_plays": 4969324, "avg_play": 248466, "total_comments": 2539, "unique_authors": 16}, "한게임 포커": {"total_videos": 20, "quality_videos": 18, "total_plays": 692547, "avg_play": 38474, "total_comments": 4856, "unique_authors": 18}, "테이스티 트레블: 합성 게임": {"total_videos": 20, "quality_videos": 18, "total_plays": 256279, "avg_play": 14237, "total_comments": 313, "unique_authors": 15}, "우마무스메 프리티 더비": {"total_videos": 20, "quality_videos": 20, "total_plays": 2998147, "avg_play": 149907, "total_comments": 19602, "unique_authors": 18}, "로얄 킹덤 (Royal Kingdom)": {"total_videos": 20, "quality_videos": 18, "total_plays": 868614, "avg_play": 48256, "total_comments": 15052, "unique_authors": 14}, "한게임포커 클래식 : 7포커 홀덤 섯다 훌라 슬롯": {"total_videos": 20, "quality_videos": 20, "total_plays": 164763, "avg_play": 8238, "total_comments": 33, "unique_authors": 19}, "소녀전선2: 망명": {"total_videos": 20, "quality_videos": 19, "total_plays": 1607174, "avg_play": 84588, "total_comments": 2018, "unique_authors": 16}, "컴투스프로야구V26": {"total_videos": 20, "quality_videos": 19, "total_plays": 176056, "avg_play": 9266, "total_comments": 69, "unique_authors": 19}, "냥코 대전쟁": {"total_videos": 20, "quality_videos": 20, "total_plays": 2141124, "avg_play": 107056, "total_comments": 192, "unique_authors": 19}, "젠레스 존 제로": {"total_videos": 20, "quality_videos": 5, "total_plays": 485963, "avg_play": 97192, "total_comments": 409, "unique_authors": 5}, "세븐나이츠 리버스": {"total_videos": 20, "quality_videos": 20, "total_plays": 419851, "avg_play": 20992, "total_comments": 524, "unique_authors": 19}, "리니지W": {"total_videos": 20, "quality_videos": 20, "total_plays": 192541, "avg_play": 9627, "total_comments": 111, "unique_authors": 18}, "FC 모바일": {"total_videos": 20, "quality_videos": 20, "total_plays": 1099516, "avg_play": 54975, "total_comments": 6353, "unique_authors": 18}, "드래곤빌리지3": {"total_videos": 20, "quality_videos": 20, "total_plays": 1709008, "avg_play": 85450, "total_comments": 2622, "unique_authors": 19}, "뱀피르": {"total_videos": 20, "quality_videos": 20, "total_plays": 2074042, "avg_play": 103702, "total_comments": 5785, "unique_authors": 19}, "EA SPORTS FC Online M": {"total_videos": 20, "quality_videos": 15, "total_plays": 119964, "avg_play": 7997, "total_comments": 152, "unique_authors": 13}, "뮤 모나크2": {"total_videos": 20, "quality_videos": 18, "total_plays": 114647, "avg_play": 6369, "total_comments": 72, "unique_authors": 17}, "S.O.S: 스테이트 오브 서바이벌": {"total_videos": 20, "quality_videos": 19, "total_plays": 9460664, "avg_play": 497929, "total_comments": 20661, "unique_authors": 15}, "I9: 인페르노 나인": {"total_videos": 20, "quality_videos": 14, "total_plays": 432708, "avg_play": 30907, "total_comments": 481, "unique_authors": 13}, "이환": {"total_videos": 20, "quality_videos": 20, "total_plays": 3646465, "avg_play": 182323, "total_comments": 3234, "unique_authors": 18}, "협타디: 협동 타워 디펜스": {"total_videos": 20, "quality_videos": 20, "total_plays": 3305724, "avg_play": 165286, "total_comments": 816, "unique_authors": 19}, "붕괴: 스타레일": {"total_videos": 20, "quality_videos": 4, "total_plays": 253750, "avg_play": 63437, "total_comments": 158, "unique_authors": 4}, "캔디크러쉬사가 (Candy Crush Saga)": {"total_videos": 20, "quality_videos": 20, "total_plays": 16420, "avg_play": 821, "total_comments": 3, "unique_authors": 6}, "브롤스타즈": {"total_videos": 20, "quality_videos": 20, "total_plays": 2051186, "avg_play": 102559, "total_comments": 2880, "unique_authors": 19}, "탑 히어로즈": {"total_videos": 20, "quality_videos": 19, "total_plays": 688757, "avg_play": 36250, "total_comments": 496, "unique_authors": 17}, "레이븐2": {"total_videos": 20, "quality_videos": 20, "total_plays": 1460409, "avg_play": 73020, "total_comments": 15594, "unique_authors": 19}, "핫레스토랑: 머지&쿠킹": {"total_videos": 20, "quality_videos": 20, "total_plays": 2525028, "avg_play": 126251, "total_comments": 68584, "unique_authors": 18}, "호드 워:어벤저의 소환": {"total_videos": 20, "quality_videos": 20, "total_plays": 2132203, "avg_play": 106610, "total_comments": 2820, "unique_authors": 19}, "Disney Solitaire": {"total_videos": 20, "quality_videos": 17, "total_plays": 35590, "avg_play": 2093, "total_comments": 18, "unique_authors": 14}, "꿈의 집 (Homescapes)": {"total_videos": 20, "quality_videos": 15, "total_plays": 52562, "avg_play": 3504, "total_comments": 208, "unique_authors": 9}};
+
+let countryFilter = 'all';
+
+function showTab(tab,el){
+document.querySelectorAll('.tc').forEach(t=>t.classList.remove('on'));
+document.querySelectorAll('.sb a').forEach(a=>a.classList.remove('on'));
+document.getElementById('tab-'+tab)?.classList.add('on');
+el?.classList.add('on');
+const titles={overview:'종합 현황',rank:'매출 순위',sentiment:'여론 분석',bilibili:'Bilibili',marketing:'마케팅',news:'뉴스',calendar:'캘린더'};
+document.getElementById('page-title').textContent=titles[tab]||'';
+}
+
+function filterCountry(c,el){
+countryFilter=c;
+document.querySelectorAll('.sb a').forEach(a=>a.classList.remove('on'));
+el?.classList.add('on');
+renderRank('');
+renderBilibili('');
+}
+
+function toggleTheme(){
+document.body.classList.toggle('light');
+const dark=!document.body.classList.contains('light');
+document.getElementById('theme-toggle').textContent=dark?'다크':'라이트';
+localStorage.setItem('theme',dark?'dark':'light');
+}
+if(localStorage.getItem('theme')==='light'){document.body.classList.add('light');document.getElementById('theme-toggle').textContent='라이트'}
+
+function fmt(n){if(n>=1e6)return (n/1e6).toFixed(1)+'M';if(n>=1e3)return (n/1e3).toFixed(1)+'K';return n}
+
+function renderRank(q){
+q=(q||'').toLowerCase();
+const tbody=document.querySelector('#rank-table tbody');if(!tbody)return;
+let games=[...GP];
+if(q)games=games.filter(g=>(g.title||'').toLowerCase().includes(q)||(g.developer||'').toLowerCase().includes(q));
+games=games.slice(0,50);
+tbody.innerHTML=games.map((g,i)=>`<tr>
+<td>${i+1}</td>
+<td>${g.title||''}</td><td>${g.developer||''}</td><td>${g.publisher||''}</td><td>${g.genre||''}</td>
+<td>${(g.rating||0).toFixed(1)}⭐</td></tr>`).join('');
+}
+
+function renderSentiment(q){
+q=(q||'').toLowerCase();
+const tbody=document.querySelector('#sent-table tbody');if(!tbody)return;
+let entries=Object.entries(DC).filter(([g,v])=>!q||g.toLowerCase().includes(q));
+tbody.innerHTML=entries.map(([g,v])=>{
+const pos=v.positive_pct||0,neg=v.negative_pct||0,neu=v.neutral_pct||0;
+const idx=Math.max(0,Math.min(100,50+(pos-neg)*5));
+const label=idx>55?'pos':idx<45?'neg':'neu';
+const trend=pos>neg+5?'📈 상승':neg>pos+5?'📉 하락':'➡️ 보합';
+return `<tr>
+<td>${g}</td>
+<td><span class="tag ${label}">${idx}</span></td>
+<td class="tag pos">${pos}%</td>
+<td class="tag neg">${neg}%</td>
+<td class="tag neu">${neu}%</td>
+<td>${trend}</td>
+<td>${v.total_posts||0}</td></tr>`;
+}).join('');
+}
+
+function renderBilibili(q){
+q=(q||'').toLowerCase();
+const tbody=document.querySelector('#bili-table tbody');if(!tbody)return;
+let entries=Object.entries(BILI).filter(([g,v])=>v&&!q||v&&g.toLowerCase().includes(q));
+entries.sort((a,b)=>(b[1]?.total_plays||0)-(a[1]?.total_plays||0));
+tbody.innerHTML=entries.map(([g,v])=>{
+if(!v)return '';
+return `<tr>
+<td>${g}</td><td>${v.quality_videos||0}</td>
+<td>${fmt(v.total_plays||0)}</td><td>${fmt(v.avg_play||0)}</td>
+<td>${fmt(v.total_comments||0)}</td><td>${v.unique_authors||0}</td></tr>`;
+}).join('');
+}
+
+// 종합 탭 로드
+function loadOverview(){
+// Top 10 순위
+const tbody1=document.querySelector('#ov-rank tbody');
+if(tbody1&&GP.length){
+tbody1.innerHTML=GP.slice(0,10).map((g,i)=>`<tr>
+<td>${i+1}</td><td>${g.title||''}</td><td>${g.developer||''}</td>
+<td>${(g.rating||0).toFixed(1)}⭐</td><td>-</td></tr>`).join('');
+}
+// Bilibili Top 5
+const tbody2=document.querySelector('#ov-bili-rank tbody');
+if(tbody2){
+let entries=Object.entries(BILI).filter(([g,v])=>v).sort((a,b)=>(b[1]?.total_plays||0)-(a[1]?.total_plays||0));
+tbody2.innerHTML=entries.slice(0,5).map(([g,v])=>`<tr>
+<td>${g}</td><td>${v.quality_videos||0}</td>
+<td>${fmt(v.total_plays||0)}</td><td>${fmt(v.total_comments||0)}</td></tr>`).join('');
+}
+}
+
+// 초기 로드
+loadOverview();
+renderRank('');
+renderSentiment('');
+renderBilibili('');
+</script>
+
+</body>
+</html>
