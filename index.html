@@ -84,21 +84,22 @@ tr:hover td{background:var(--bg3)}
 <a onclick="filterCountry('all',this)"><span class="icon">🌐</span><span>전체</span></a>
 <a onclick="filterCountry('kr',this)"><span class="icon">🇰🇷</span><span>한국</span></a>
 <a onclick="filterCountry('cn',this)"><span class="icon">🇨🇳</span><span>중국</span></a>
+<div class="sb-divider">광고</div>
+<div id="ad-sidebar" style="padding:12px 16px;min-height:250px"></div>
 </nav>
 
 <div class="mn">
 <div class="header">
 <h1 id="page-title">종합 현황</h1>
 <div style="display:flex;align-items:center;gap:12px">
-<span class="meta" id="update-time">2026-07-08 07:53</span>
+<span class="meta" id="update-time">2026-07-08 08:07</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 </div>
 </div>
 
 <!-- 종합 -->
 <div id="tab-overview" class="tc on">
-<div class="kpis">
-<div class="kpi"><div class="l">추적 게임</div><div class="v" id="ov-games">50</div><div class="s">KR+CN 통합</div></div>
+<div class="kpis"><div class="kpi"><div class="l">추적 게임</div><div class="v" id="ov-games">50</div><div class="s">KR+CN 통합</div></div>
 <div class="kpi"><div class="l">DC 게시글</div><div class="v" id="ov-dc">1,983</div><div class="s">최근 수집</div></div>
 <div class="kpi"><div class="l">Bilibili 영상</div><div class="v" id="ov-bili">916</div><div class="s">74.0M 재생</div></div>
 <div class="kpi warn"><div class="l">GP 평균 평점</div><div class="v" id="ov-rating">3.8</div><div class="s">50게임</div></div>
@@ -112,6 +113,8 @@ tr:hover td{background:var(--bg3)}
 <h3>🔥 인기 Bilibili (중국)</h3>
 <table id="ov-bili-rank"><thead><tr><th>#</th><th>게임</th><th>영상 수</th><th>총 재생</th><th>댓글</th></tr></thead><tbody></tbody></table>
 </div>
+<!-- 광고: 종합 탭 하단 -->
+<div id="ad-bottom" class="ad-container" style="margin:20px 0;text-align:center;min-height:90px"></div>
 </div>
 
 <!-- 매출 순위 -->
@@ -274,6 +277,28 @@ loadOverview();
 renderRank('');
 renderSentiment('');
 renderBilibili('');
+</script>
+
+<!-- 구글 애드센스 -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script>
+<script>
+// 광고 초기화
+function initAds(){
+// 사이드바 광고
+const adSidebar=document.getElementById('ad-sidebar');
+if(adSidebar && typeof adsbygoogle!=='undefined'){
+adSidebar.innerHTML='<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-XXXXXXXXXXXXXXXX" data-ad-slot="1111111111" data-ad-format="auto" data-full-width-responsive="true"></ins>';
+(adsbygoogle=window.adsbygoogle||[]).push({});
+}
+// 하단 광고
+const adBottom=document.getElementById('ad-bottom');
+if(adBottom && typeof adsbygoogle!=='undefined'){
+adBottom.innerHTML='<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-XXXXXXXXXXXXXXXX" data-ad-slot="2222222222" data-ad-format="horizontal" data-full-width-responsive="true"></ins>';
+(adsbygoogle=window.adsbygoogle||[]).push({});
+}
+}
+// 광고 슬롯 초기화 (페이지 로드 후)
+document.addEventListener('DOMContentLoaded',function(){try{initAds()}catch(e){}});
 </script>
 
 </body>
