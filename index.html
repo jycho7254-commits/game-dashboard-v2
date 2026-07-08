@@ -98,7 +98,7 @@ th,td{padding:5px 6px!important}.country-tabs{gap:4px}.ctab{padding:4px 10px;fon
 <div class="header">
 <h1 id="page-title">종합 현황</h1>
 <div style="display:flex;align-items:center;gap:8px">
-<span class="meta" id="update-time">2026-07-08 19:27</span>
+<span class="meta" id="update-time">2026-07-08 19:33</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 </div>
 </div>
@@ -279,13 +279,28 @@ function loadOverview(){
 const data=getRankData();
 const kpis=document.getElementById('ov-kpis');
 if(!kpis)return;
-const flag=CFLAGS[country],name=CNAMES[country];
+// KPI — 국가별 소스
+const isKR=country==='kr'||country==='all';
+const isCN=country==='cn'||country==='all';
+const isJP=country==='jp'||country==='all';
+let kpiExtra='';
+if(isKR){
 const dcCount=Object.values(DC||{}).reduce((s,v)=>s+(v.total_posts||0),0);
+kpiExtra+=`<div class="kpi"><div class="l">DC 게시글</div><div class="v">${dcCount.toLocaleString()}</div><div class="s">한국</div></div>`;
+}
+if(isCN){
 const biliCount=Object.values(BILI||{}).filter(v=>v).length;
+kpiExtra+=`<div class="kpi"><div class="l">Bilibili 영상</div><div class="v">${biliCount}</div><div class="s">중국</div></div>`;
+}
+if(isJP){
+const twData=SJP||{};
+const twCount=Object.values(twData).filter(v=>v?.sources?.twitter).length;
+const twViews=Object.values(twData).reduce((s,v)=>s+((v?.sources?.twitter?.views)||0),0);
+kpiExtra+=`<div class="kpi"><div class="l">X/Twitter</div><div class="v">${twCount}</div><div class="s">${(twViews/1e6).toFixed(1)}M 조회</div></div>`;
+}
 kpis.innerHTML=`
-<div class="kpi"><div class="l">추적 게임</div><div class="v">${data.length}</div><div class="s">${flag} ${name}</div></div>
-${country!=='cn'?`<div class="kpi"><div class="l">DC 게시글</div><div class="v">${dcCount.toLocaleString()}</div><div class="s">한국 커뮤니티</div></div>`:''}
-${country!=='kr'?`<div class="kpi"><div class="l">Bilibili 영상</div><div class="v">${biliCount}</div><div class="s">중국</div></div>`:''}
+<div class="kpi"><div class="l">추적 게임</div><div class="v">${data.length}</div><div class="s">${CFLAGS[country]} ${CNAMES[country]}</div></div>
+${kpiExtra}
 <div class="kpi warn"><div class="l">평균 평점</div><div class="v">${data.length?(data.reduce((s,g)=>s+(g.rating||0),0)/data.length).toFixed(1):'-'}</div></div>
 `;
 // Top 10
