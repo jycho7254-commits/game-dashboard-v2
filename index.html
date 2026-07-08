@@ -59,7 +59,10 @@ tr:hover td{background:var(--bg3);cursor:pointer}
 .cal-day .day-num{font-weight:600;font-size:11px}
 .cal-day .day-event{font-size:8px;color:var(--t2);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;margin-top:1px}
 .cal-day.other-month{opacity:.3}
-@media(max-width:768px){.cal-day{min-height:36px}.cal-day .day-event{display:none}}
+@media(max-width:768px){
+.cal-day{min-height:40px;padding:2px;font-size:10px}.cal-day .day-event{font-size:7px;display:block!important;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.cal-grid{gap:1px}
+}
 /* 스크롤바 */
 ::-webkit-scrollbar{width:6px;height:6px}::-webkit-scrollbar-track{background:var(--bg)}::-webkit-scrollbar-thumb{background:var(--border);border-radius:3px}
 /* 모바일 */
@@ -98,7 +101,7 @@ th,td{padding:5px 6px!important}.country-tabs{gap:4px}.ctab{padding:4px 10px;fon
 <div class="header">
 <h1 id="page-title">종합 현황</h1>
 <div style="display:flex;align-items:center;gap:8px">
-<span class="meta" id="update-time">2026-07-08 19:41</span>
+<span class="meta" id="update-time">2026-07-08 19:52</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 </div>
 </div>
@@ -547,19 +550,36 @@ if(sentCn&&Object.keys(SCN||{}).some(k=>k.includes(gameName.slice(0,3))||gameNam
 if(sentJp){sentHTML+=`<p>🇯🇵 일본: 지수 ${sentJp.index||'?'} (${sentJp.trend||'?'}) — ${sentJp.summary?.slice(0,60)||''}</p>`}
 if(!sentHTML)sentHTML='<p style="color:var(--t3)">데이터 없음</p>';
 document.getElementById('modal-sentiment').innerHTML=sentHTML;
-// 영상 — 최근 7일 업로드 현황
+// 영상 — 최근 7일 업로드 현황 + 링크
 let vidHTML='';
 if(biliData){
 const topVids=biliData.top_videos||[];
 vidHTML+=`<div style="margin-bottom:8px"><strong>🇨🇳 Bilibili</strong> — ${biliData.quality_videos||0}영상, ${fmt(biliData.total_plays||0)}재생, ${fmt(biliData.total_comments||0)}댓글</div>`;
 if(topVids.length){
 vidHTML+='<div style="font-size:12px;margin-left:8px">';
-topVids.forEach(v=>{vidHTML+=`<div style="margin-bottom:3px">▸ ${v.title||v.get?.('title','')||''} (${fmt(v.play||0)}재생)</div>`});
+topVids.forEach(v=>{
+const vidTitle=v.title||'';
+const vidPlays=fmt(v.play||0);
+const vidAuthor=v.author?(' · '+v.author):'';
+vidHTML+=`<div style="margin-bottom:4px">▸ <a href="https://search.bilibili.com/all?keyword=${encodeURIComponent(gameName)}" target="_blank" style="color:var(--accent);text-decoration:none">${vidTitle}</a> (${vidPlays}재생${vidAuthor})</div>`;
+});
+vidHTML+=`<div style="margin-top:4px"><a href="https://search.bilibili.com/all?keyword=${encodeURIComponent(gameName)}&order=pubdate" target="_blank" style="color:var(--accent);font-size:11px">→ Bilibili에서 최근 영상 전체 보기</a></div>`;
 vidHTML+='</div>';
+}else{
+vidHTML+=`<div style="margin-left:8px"><a href="https://search.bilibili.com/all?keyword=${encodeURIComponent(gameName)}&order=pubdate" target="_blank" style="color:var(--accent);font-size:12px">→ Bilibili에서 최근 영상 보기</a></div>`;
 }
 }
 if(ytData){
+const topVids=ytData.top_videos||[];
 vidHTML+=`<div style="margin-top:8px"><strong>🇰🇷 YouTube</strong> — ${ytData.total_videos||ytData.quality_videos||0}영상, ${fmt(ytData.total_views||ytData.total_plays||0)}조회</div>`;
+if(topVids.length){
+vidHTML+='<div style="font-size:12px;margin-left:8px">';
+topVids.forEach(v=>{
+vidHTML+=`<div style="margin-bottom:4px">▸ <a href="https://www.youtube.com/results?search_query=${encodeURIComponent(gameName)}&sp=CAMSAhAB" target="_blank" style="color:var(--accent);text-decoration:none">${v.title||''}</a> (${fmt(v.play||v.views||0)}조회)</div>`;
+});
+vidHTML+='</div>';
+}
+vidHTML+=`<div style="margin-top:4px"><a href="https://www.youtube.com/results?search_query=${encodeURIComponent(gameName)}&sp=CAMSAhAB" target="_blank" style="color:var(--accent);font-size:11px">→ YouTube에서 최근 영상 전체 보기</a></div>`;
 }
 if(!vidHTML)vidHTML='<p style="color:var(--t3)">최근 7일 영상 데이터 없음</p>';
 document.getElementById('modal-videos').innerHTML=vidHTML;
