@@ -95,7 +95,7 @@ th,td{padding:5px 6px!important}.country-tabs{gap:4px}.ctab{padding:4px 10px;fon
 <div class="header">
 <h1 id="page-title">종합 현황</h1>
 <div style="display:flex;align-items:center;gap:8px">
-<span class="meta" id="update-time">2026-07-12 03:06</span>
+<span class="meta" id="update-time">2026-07-12 08:09</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 </div>
 </div>
@@ -321,7 +321,10 @@ function showTab(tab,el){
   var titles={overview:'종합 현황',rank:'매출 순위',sentiment:'여론 분석',video:'인플루언서',marketing:'마케팅',news:'뉴스',calendar:'캘린더'};
   document.getElementById('page-title').textContent=titles[tab]||'';
   if(tab==='overview')loadOverview();
-  if(tab==='rank')renderRank(document.getElementById('rank-search')?document.getElementById('rank-search').value:'');
+  if(tab==='rank'){
+    if(country==='all')country='kr'; // 매출순위 기본 한국
+    renderRank(document.getElementById('rank-search')?document.getElementById('rank-search').value:'');
+  }
   if(tab==='sentiment')renderSentiment(document.getElementById('sent-search')?document.getElementById('sent-search').value:'');
   if(tab==='video')renderInfluencers(document.getElementById('inf-search')?document.getElementById('inf-search').value:'');
   if(tab==='marketing')renderMarketing();
@@ -441,42 +444,30 @@ function loadOverview(){
     });
   }
 
-  // 영상 카드
-  var vd=getVideoData();
-  var vEntries=Object.entries(vd).filter(function(pair){return pair[1]}).sort(function(a,b){
-    return (b[1].total_plays||b[1].total_views||0)-(a[1].total_plays||a[1].total_views||0);
-  });
+  // 국가별 매출 분석 (영상 대체)
   var vContainer=document.getElementById('ov-videos');
   if(vContainer){
-    var platform=(country==='cn')?'Bilibili':'YouTube';
-    var videoCards=vEntries.slice(0,5).map(function(pair){
-      var g=pair[0],v=pair[1];
-      var views=v.total_plays||v.total_views||0;
-      var comments=v.total_comments||0;
-      var videos=v.quality_videos||v.total_videos||0;
-      var topVids=v.top_videos||[];
-      var searchUrl=(country==='cn')
-        ?('https://search.bilibili.com/all?keyword='+encodeURIComponent(g)+'&order=pubdate')
-        :('https://www.youtube.com/results?search_query='+encodeURIComponent(g)+'&sp=CAMSAhAB');
-      var vidListHTML='';
-      if(topVids.length){
-        vidListHTML=topVids.slice(0,2).map(function(tv){
-          return '<div style="font-size:11px;color:var(--t2);margin-top:2px">▸ '+(tv.title||'')+' ('+fmt(tv.play||0)+'재생)</div>';
-        }).join('');
-      }
-      return '<div style="padding:10px;border:1px solid var(--border);border-radius:8px;background:var(--bg3)">'+
-        '<div style="display:flex;justify-content:space-between;align-items:center">'+
-        '<span style="font-weight:500">'+g+'</span>'+
-        '<a href="'+searchUrl+'" target="_blank" style="color:var(--accent);font-size:11px;text-decoration:none">'+platform+'에서 보기 →</a>'+
-        '</div>'+
-        '<div style="font-size:12px;color:var(--t2);margin-top:4px">'+videos+'영상 · '+fmt(views)+'조회 · '+fmt(comments)+'댓글</div>'+
-        vidListHTML+
+    var revTotal={kr:0,cn:0,jp:0};
+    (GP||[]).forEach(function(g){revTotal.kr+=(g.est_revenue||0)});
+    (CN||[]).forEach(function(g){revTotal.cn+=(g.est_revenue||0)});
+    (JP||[]).forEach(function(g){revTotal.jp+=(g.est_revenue||0)});
+    var revHTML='<div style="display:flex;gap:12px;flex-wrap:wrap;margin-bottom:12px">';
+    var countries=[['kr','한국',revTotal.kr,'#0066ff'],['cn','중국',revTotal.cn,'#ff4444'],['jp','일본',revTotal.jp,'#ff8800']];
+    countries.forEach(function(c){
+      var pct=c[2]/(revTotal.kr+revTotal.cn+revTotal.jp)*100;
+      revHTML+='<div style="flex:1;min-width:120px;padding:12px;border-radius:8px;background:var(--bg3);border:1px solid var(--border)">'+
+        '<div style="font-size:11px;color:var(--t2)">'+c[1]+'</div>'+
+        '<div style="font-size:20px;font-weight:700;color:'+c[3]+'">$'+(c[2]/1e6).toFixed(1)+'M</div>'+
+        '<div style="font-size:10px;color:var(--t3)">'+pct.toFixed(0)+'% 점유율</div>'+
+        '<div style="height:4px;background:var(--bg2);border-radius:2px;margin-top:4px"><div style="height:100%;width:'+pct+'%;background:'+c[3]+';border-radius:2px"></div></div>'+
         '</div>';
     });
-    vContainer.innerHTML=videoCards.join('')||'<p style="color:var(--t3)">영상 데이터 없음</p>';
+    revHTML+='</div>';
+    revHTML+='<div style="font-size:12px;color:var(--t3);margin-top:4px">한국 Top50 + 중국 Top50 + 일본 Top50 추정 월 매출 합계 | 환율 1,350원/$</div>';
+    vContainer.innerHTML=revHTML;
   }
 
-  // 종합 트렌드 분석
+  // 종합 트렌드 분석 — Top10 + 클릭 팝업
   var trendDiv=document.getElementById('ov-trends');
   if(trendDiv){
     var rankGames=displayData.slice(0,10);
@@ -496,10 +487,15 @@ function loadOverview(){
       var mktCount=mktList.filter(function(m){return (m.game||'').includes(gn.slice(0,5))}).length;
       var mktScore=Math.min(10,mktCount*3);
       var total=Math.round(revScore+sentScore+vidScore+mktScore);
-      if(idx<5){
-        var color=total>60?'#00ff88':total>40?'#ffaa00':'#ff6666';
-        trendRows.push('<div style="display:flex;justify-content:space-between;padding:6px 0;border-bottom:1px solid var(--border)"><span>'+(idx+1)+'. '+gn.slice(0,15)+'</span><span style="font-weight:600;color:'+color+'">'+total+'점</span></div>');
-      }
+      var color=total>60?'#00ff88':total>40?'#ffaa00':'#ff6666';
+      var escGn=escAttr(gn);
+      var detail='매출: $'+(rev/1e6).toFixed(1)+'M ('+revScore.toFixed(0)+'점/40)\\n'+
+        '여론: '+(sent?('지수 '+sent.index+' ('+sentScore.toFixed(0)+'점/30)'):'데이터 없음')+'\\n'+
+        '영상: '+(vid?(fmt(vid.total_plays||vid.total_views||0)+'조회 ('+vidScore.toFixed(0)+'점/20)'):('없음 ('+vidScore+'점/20)'))+'\\n'+
+        '마케팅: '+mktCount+'개 활동 ('+mktScore+'점/10)';
+      trendRows.push('<div onclick="alert(\''+escGn+'\\n종합 점수: '+total+'점\\n\\n'+detail+'\')" style="display:flex;justify-content:space-between;padding:6px 0;border-bottom:1px solid var(--border);cursor:pointer">'+
+        '<span>'+(idx+1)+'. '+gn.slice(0,15)+'</span>'+
+        '<span style="font-weight:600;color:'+color+'">'+total+'점</span></div>');
     });
     trendDiv.innerHTML=trendRows.join('')||'<p style="color:var(--t3)">데이터 없음</p>';
   }
@@ -796,7 +792,7 @@ function renderInfluencers(q){
     tbody.innerHTML='<tr><td colspan="6" style="text-align:center;color:var(--t2);padding:16px">데이터 없음</td></tr>';
     return;
   }
-  var rows=data.slice(0,50).map(function(inf,idx){
+  var rows=data.map(function(inf,idx){
     var sub=inf.subscribers||0;
     var avgV=inf.avg_views||0;
     var eng=inf.engagement_rate||0;
