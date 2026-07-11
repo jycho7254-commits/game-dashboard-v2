@@ -101,7 +101,7 @@ th,td{padding:5px 6px!important}.country-tabs{gap:4px}.ctab{padding:4px 10px;fon
 <div class="header">
 <h1 id="page-title">종합 현황</h1>
 <div style="display:flex;align-items:center;gap:8px">
-<span class="meta" id="update-time">2026-07-12 01:56</span>
+<span class="meta" id="update-time">2026-07-12 02:06</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 </div>
 </div>
@@ -713,6 +713,8 @@ sentHTML+=`<div style="font-size:13px;line-height:1.8;margin-bottom:12px">${deta
 // 외부 링크 — 소스별 검색
 sentHTML+='<div class="modal-sec"><h4>소스별 여론 확인</h4><div style="display:flex;flex-wrap:wrap;gap:6px">';
 if(country==='kr'||country==='all'){
+// 게임 다국어 매핑 — 중국/일본 플랫폼 검색용
+const GAME_I18N={'SOL: enchant':{'cn':'SOL: 附魔','jp':'SOL: エンチャント'},'SOL: 인챈트':{'cn':'SOL: 附魔','jp':'SOL: エンチャント'},'승리의 여신: 니케':{'cn':'胜利女神:NIKKE','jp':'勝利の女神:NIKKE'},'GODDESS OF VICTORY: NIKKE':{'cn':'胜利女神:NIKKE','jp':'勝利の女神:NIKKE'},'오딘: 발할라 라이징':{'cn':'奥丁: 英灵殿崛起','jp':'オーディン ヴァルハラライジング'},'WOS: 화이트아웃 서바이벌':{'cn':'无尽冬日','jp':'Whiteout Survival'},'명조: 워더링 웨이브':{'cn':'鸣潮','jp':'鳴潮'},'명조:워더링 웨이브 × 사이버펑크 콜라보':{'cn':'鸣潮','jp':'鳴潮'},'원신':{'cn':'原神','jp':'原神'},'Genshin Impact':{'cn':'原神','jp':'原神'},'붕괴: 스타레일':{'cn':'崩坏: 星穹铁道','jp':'崩壊: スターレイル'},'Honkai: Star Rail':{'cn':'崩坏: 星穹铁道','jp':'崩壊: スターレイル'},'젠레스 존 제로':{'cn':'绝区零','jp':'ゼンレスゾーンゼロ'},'Zenless Zone Zero':{'cn':'绝区零','jp':'ゼンレスゾーンゼロ'},'우마무스메 프리티 더비':{'cn':'赛马娘','jp':'ウマ娘 プリティーダービー'},'브롤스타즈':{'cn':'荒野乱斗','jp':'ブロスタ'},'Brawl Stars':{'cn':'荒野乱斗','jp':'ブロスタ'},'로블록스 (Roblox)':{'cn':'罗布乐思','jp':'Roblox'},'로얄 매치 Royal Match':{'cn':'Royal Match','jp':'Royal Match'},'리니지M':{'cn':'天堂M','jp':'リネージュM'},'리니지W':{'cn':'天堂W','jp':'リネージュW'},'FC 모바일':{'cn':'FC足球世界','jp':'EA SPORTS FC Mobile'},'마비노기 모바일':{'cn':'洛奇Mobile','jp':'マビノギモバイル'},'FGO':{'cn':'命运冠位指定','jp':'Fate/Grand Order'},'Fate/Grand Order':{'cn':'命运冠位指定','jp':'Fate/Grand Order'},'포켓몬GO':{'cn':'Pokémon GO','jp':'Pokémon GO'},'Pokémon GO':{'cn':'Pokémon GO','jp':'Pokémon GO'},'메이플 키우기':{'cn':'冒险岛M','jp':'メイプルストーリーM'},'트릭컬 리바이브':{'cn':'Trickcal','jp':'トリッカル'},'Limbus Company':{'cn':'边狱公司','jp':'リンバスカンパニー'},'라스트 워: 서바이벌':{'cn':'Last War','jp':'Last War'},'킹샷:Kingshot':{'cn':'Kingshot','jp':'Kingshot'},'세븐나이츠 리버스':{'cn':'七骑士:重生','jp':'セブンナイツ リバース'},'소녀전선2: 망명':{'cn':'少女前线2:追放','jp':'ドールズフロントライン2'},'냥코 대전쟁':{'cn':'猫咪大战争','jp':'にゃんこ大戦争'},'드래곤빌리지3':{'cn':'龙之乡3','jp':'ドラゴンビレッジ3'},'이환':{'cn':'NTE','jp':'NTE'},'가십하버: 합성 & 스토리 게임':{'cn':'Gossip Harbor','jp':'Gossip Harbor'},'로얄 킹덤 (Royal Kingdom)':{'cn':'Royal Kingdom','jp':'Royal Kingdom'},'꿈의 정원 (Gardenscapes)':{'cn':'梦幻花园','jp':'ガーデンスケイプ'},'꿈의 집 (Homescapes)':{'cn':'梦幻家园','jp':'ホームスケイプ'},'캔디크러쉬사가 (Candy Crush Saga)':{'cn':'糖果传奇','jp':'キャンディークラッシュ'},'eFootball':{'cn':'eFootball','jp':'eFootball'},'로스트아크 LOST ARK':{'cn':'命运方舟','jp':'ロストアーク'},'발로란트':{'cn':'无畏契约','jp':'ヴァロラント'},'배틀그라운드':{'cn':'绝地求生','jp':'PUBG'},'디아블로 이모탈':{'cn':'暗黑破坏神:不朽','jp':'ディアブロ イモータル'},};
 // DC 갤러리 직접 링크 — 게임명에서 갤러리 ID 매핑
 const DC_GAL_MAP={'SOL: enchant':'solehchant','리니지M':'lineagem','킹샷:Kingshot':'kingshot','마비노기 모바일':'mabinogimobile','로얄 매치 Royal Match':'royalmatch','가십하버: 합성 & 스토리 게임':'gossipharbor','로블록스 (Roblox)':'roblox','명조:워더링 웨이브 × 사이버펑크 콜라보':'wutheringwaves','승리의 여신: 니케':'gov','운빨존많겜':'onlyluckygame','Limbus Company':'limbuscompany','트릭컬 리바이브':'trickcal','라스트 어사일럼: 페스트':'lastasylum','한게임 포커':'poker','우마무스메 프리티 더비':'umamusu','한게임포커 클래식 : 7포커 홀덤 섯다 훌라 슬롯':'poker','소녀전선2: 망명':'gfl2','컴투스프로야구V26':'com2usbaseball','젠레스 존 제로':'zenless_zone_zero','세븐나이츠 리버스':'sevennightsrebirth','리니지W':'lineagew','FC 모바일':'mobilefifiaonline','드래곤빌리지3':'dragonvillage','뱀피르':'vampir','뮤 모나크2':'mumonarch2','S.O.S: 스테이트 오브 서바이벌':'sos','I9: 인페르노 나인':'i9','브롤스타즈':'brawl','탑 히어로즈':'topheroes','레이븐2':'raven2','Disney Solitaire':'disney','꿈의 집 (Homescapes)':'homescapes','메이플 키우기':'maplestorym','붕괴: 스타레일':'staraiload','오딘: 발할라 라이징':'vhr','WOS: 화이트아웃 서바이벌':'whiteoutsv','라스트 워: 서바이벌':'lwsmobile','이환':'nevernesstoeverness','꿈의 정원 (Gardenscapes)':'stopostin','로얄 킹덤 (Royal Kingdom)':'royalkimdom','협타디: 협동 타워 디펜스':'ctd','캔디크러쉬사가 (Candy Crush Saga)':'candycrush','냥코 대전쟁':'yavetwarch','테이스티 트레블: 합성 게임':'tastytravel','EA SPORTS FC Online M':'fifaonline','핫레스토랑: 머지&쿠킹':'hotrestaurant','호드 워:어벤저의 소환':'hordewar','토이 삼국':'toythreekingdoms','씨사이드 익스케이프: 합성 & 스토리 게임':'seasideescape','라스트 Z: 서바이벌 슈터':'lastz'};
 const dcGalId=DC_GAL_MAP[game];
@@ -722,14 +724,18 @@ sentHTML+=`<a href="https://www.google.com/search?q=${encodeURIComponent(game)}+
 sentHTML+=`<a href="https://play.google.com/store/search?q=${encodeURIComponent(game)}&c=apps" target="_blank" style="padding:4px 10px;border-radius:6px;background:#34a85320;color:#34a853;text-decoration:none;font-size:12px">Google Play</a>`;
 }
 if(country==='cn'||country==='all'){
-sentHTML+=`<a href="https://search.bilibili.com/all?keyword=${encodeURIComponent(game)}" target="_blank" style="padding:4px 10px;border-radius:6px;background:#fb729920;color:#fb7299;text-decoration:none;font-size:12px">Bilibili</a>`;
-sentHTML+=`<a href="https://www.taptap.cn/search/${encodeURIComponent(game)}" target="_blank" style="padding:4px 10px;border-radius:6px;background:#ffa50020;color:#ffa500;text-decoration:none;font-size:12px">TapTap</a>`;
-sentHTML+=`<a href="https://www.zhihu.com/search?q=${encodeURIComponent(game)}" target="_blank" style="padding:4px 10px;border-radius:6px;background:#0084ff20;color:#0084ff;text-decoration:none;font-size:12px">知乎</a>`;
+// 중국 플랫폼은 중국어 게임명으로 검색
+const cnGame=GAME_I18N[game]?.cn||game;
+sentHTML+=`<a href="https://search.bilibili.com/all?keyword=${encodeURIComponent(cnGame)}" target="_blank" style="padding:4px 10px;border-radius:6px;background:#fb729920;color:#fb7299;text-decoration:none;font-size:12px">Bilibili</a>`;
+sentHTML+=`<a href="https://www.taptap.cn/search/${encodeURIComponent(cnGame)}" target="_blank" style="padding:4px 10px;border-radius:6px;background:#ffa50020;color:#ffa500;text-decoration:none;font-size:12px">TapTap</a>`;
+sentHTML+=`<a href="https://www.zhihu.com/search?q=${encodeURIComponent(cnGame)}" target="_blank" style="padding:4px 10px;border-radius:6px;background:#0084ff20;color:#0084ff;text-decoration:none;font-size:12px">知乎</a>`;
 }
 if(country==='jp'||country==='all'){
-sentHTML+=`<a href="https://nitter.net/search?f=tweets&q=${encodeURIComponent(game)}" target="_blank" style="padding:4px 10px;border-radius:6px;background:#1da1f220;color:#1da1f2;text-decoration:none;font-size:12px">X/Twitter</a>`;
+// 일본 플랫폼은 일본어 게임명으로 검색
+const jpGame=GAME_I18N[game]?.jp||game;
+sentHTML+=`<a href="https://nitter.net/search?f=tweets&q=${encodeURIComponent(jpGame)}" target="_blank" style="padding:4px 10px;border-radius:6px;background:#1da1f220;color:#1da1f2;text-decoration:none;font-size:12px">X/Twitter</a>`;
 sentHTML+=`<a href="https://egg.5ch.net/test/read.cgi/applism/" target="_blank" style="padding:4px 10px;border-radius:6px;background:#20a02020;color:#20a020;text-decoration:none;font-size:12px">5ch</a>`;
-sentHTML+=`<a href="https://play.google.com/store/search?q=${encodeURIComponent(game)}&c=apps&hl=ja&gl=jp" target="_blank" style="padding:4px 10px;border-radius:6px;background:#34a85320;color:#34a853;text-decoration:none;font-size:12px">GP日本</a>`;
+sentHTML+=`<a href="https://play.google.com/store/search?q=${encodeURIComponent(jpGame)}&c=apps&hl=ja&gl=jp" target="_blank" style="padding:4px 10px;border-radius:6px;background:#34a85320;color:#34a853;text-decoration:none;font-size:12px">GP日本</a>`;
 }
 sentHTML+='</div></div>';
 // 게시글/리뷰/트윗 샘플
