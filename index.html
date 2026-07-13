@@ -95,7 +95,7 @@ th,td{padding:5px 6px!important}.country-tabs{gap:4px}.ctab{padding:4px 10px;fon
 <div class="header">
 <h1 id="page-title">종합 현황</h1>
 <div style="display:flex;align-items:center;gap:8px">
-<span class="meta" id="update-time">2026-07-13 19:35</span>
+<span class="meta" id="update-time">2026-07-13 19:44</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 </div>
 </div>
@@ -959,10 +959,18 @@ function renderNews(){
     list.innerHTML='<p style="color:var(--t2);padding:16px;text-align:center">데이터 수집 중</p>';
     return;
   }
-  var items=data.slice(0,20).map(function(n){
-    return '<div style="padding:10px 12px;border:1px solid var(--border);border-radius:8px;background:var(--bg3)">'+
-      '<div style="font-weight:500;font-size:13px;margin-bottom:3px">'+(n.title||'')+'</div>'+
-      '<div style="font-size:11px;color:var(--t2)">'+(n.source||'')+' · '+(n.date||'')+(n.game?' · '+n.game:'')+'</div></div>';
+  var items=data.slice(0,30).map(function(n){
+    var title=(n.title||'').replace(/\s+/g,' ').trim();
+    var url=n.url||'';
+    var source=n.source||'';
+    var date=n.date||'';
+    var countryFlag=n.country==='kr'?'KR':n.country==='cn'?'CN':n.country==='jp'?'JP':'';
+    var titleHTML=url
+      ?('<a href="'+url+'" target="_blank" style="color:var(--t1);text-decoration:none;font-weight:500;font-size:13px;display:block;margin-bottom:3px">'+title+'</a>')
+      :('<div style="font-weight:500;font-size:13px;margin-bottom:3px">'+title+'</div>');
+    return '<div style="padding:10px 12px;border:1px solid var(--border);border-radius:8px;background:var(--bg3);margin-bottom:6px">'+
+      titleHTML+
+      '<div style="font-size:11px;color:var(--t3)">'+countryFlag+' · '+source+(date?' · '+date:'')+'</div></div>';
   });
   list.innerHTML=items.join('');
 }
