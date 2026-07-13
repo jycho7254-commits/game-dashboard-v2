@@ -95,7 +95,7 @@ th,td{padding:5px 6px!important}.country-tabs{gap:4px}.ctab{padding:4px 10px;fon
 <div class="header">
 <h1 id="page-title">종합 현황</h1>
 <div style="display:flex;align-items:center;gap:8px">
-<span class="meta" id="update-time">2026-07-13 22:32</span>
+<span class="meta" id="update-time">2026-07-13 23:02</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 </div>
 </div>
@@ -159,12 +159,12 @@ th,td{padding:5px 6px!important}.country-tabs{gap:4px}.ctab{padding:4px 10px;fon
 </div>
 <input class="search" style="margin-bottom:12px" placeholder="인플루언서 검색..." oninput="renderInfluencers(this.value)" id="inf-search">
 <div class="kpis" id="inf-kpis"></div>
-<!-- 소프트콘 스타일: 플랫폼 랭킹 -->
+<!-- 한국 스트리밍 현황 (한국 탭에서만 표시) -->
+<div id="inf-softc-section" style="display:none">
 <div class="card"><h3>플랫폼별 현황</h3><div id="inf-platforms" style="display:flex;gap:8px;flex-wrap:wrap;margin-top:8px"></div></div>
-<!-- 소프트콘 스타일: 카테고리(게임) 랭킹 -->
 <div class="card"><h3>게임 카테고리 랭킹</h3><div id="inf-categories" style="margin-top:8px"></div></div>
-<!-- 소프트콘 스타일: 실시간 방송 랭킹 -->
-<div class="card"><h3>실시간 방송 랭킹 <small style="font-size:10px;color:var(--t3)">소프트콘 데이터</small></h3><div id="inf-streamers" style="margin-top:8px"></div></div>
+<div class="card"><h3>실시간 방송 랭킹</h3><div id="inf-streamers" style="margin-top:8px"></div></div>
+</div>
 <div class="card">
 <h3 id="inf-rank-title">인플루언서 랭킹</h3>
 <table id="inf-table" style="width:100%">
@@ -818,7 +818,13 @@ function renderInfluencers(q){
   });
   var total=allFiltered.length;
 
-  // 소프트콘: 플랫폼 랭킹
+  // 한국 탭에서만 스트리밍 현황 표시
+  var softcSection=document.getElementById('inf-softc-section');
+  if(softcSection){
+    softcSection.style.display=(infTab==='kr')?'block':'none';
+  }
+
+  // 플랫폼 랭킹
   var platDiv=document.getElementById('inf-platforms');
   if(platDiv && SOFTC && SOFTC.platforms){
     var platHTML=SOFTC.platforms.map(function(p){
