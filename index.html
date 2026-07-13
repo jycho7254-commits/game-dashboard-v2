@@ -95,7 +95,7 @@ th,td{padding:5px 6px!important}.country-tabs{gap:4px}.ctab{padding:4px 10px;fon
 <div class="header">
 <h1 id="page-title">종합 현황</h1>
 <div style="display:flex;align-items:center;gap:8px">
-<span class="meta" id="update-time">2026-07-13 14:20</span>
+<span class="meta" id="update-time">2026-07-13 19:01</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 </div>
 </div>
@@ -120,12 +120,16 @@ th,td{padding:5px 6px!important}.country-tabs{gap:4px}.ctab{padding:4px 10px;fon
 <!-- ===== 매출 순위 ===== -->
 <div id="tab-rank" class="tc">
 <div class="country-tabs" id="rank-ctabs">
-<div class="ctab on" onclick="setCountry('kr',this,'rank')">🇰🇷 한국</div>
-<div class="ctab" onclick="setCountry('cn',this,'rank')">🇨🇳 중국</div>
-<div class="ctab" onclick="setCountry('jp',this,'rank')">🇯🇵 일본</div>
+<div class="ctab on" onclick="setCountry('kr',this,'rank')">한국</div>
+<div class="ctab" onclick="setCountry('cn',this,'rank')">중국</div>
+<div class="ctab" onclick="setCountry('jp',this,'rank')">일본</div>
 </div>
 <input class="search" placeholder="게임명/개발사 검색..." oninput="renderRank(this.value)" id="rank-search">
-<div class="card"><h3 id="rank-title">🏆 한국 매출 Top 50</h3><table id="rank-table"><thead><tr><th>#</th><th>게임</th><th>개발사</th><th>장르</th><th>추정 매출</th></tr></thead><tbody></tbody></table></div>
+<div class="kpis" id="rank-kpis"></div>
+<div class="card"><h3>국가별 매출 비교</h3>
+<canvas id="rank-compare-chart" width="600" height="250" style="margin-top:8px"></canvas>
+</div>
+<div class="card"><h3 id="rank-title">한국 매출 Top 50</h3><table id="rank-table"><thead><tr><th>#</th><th>게임</th><th>개발사</th><th>장르</th><th>추정 매출</th></tr></thead><tbody></tbody></table></div>
 </div>
 
 <!-- ===== 여론 분석 ===== -->
@@ -524,7 +528,44 @@ function renderRank(q){
       '<td>'+(g.est_revenue_fmt||'-')+'</td></tr>';
   });
   tbody.innerHTML=rows.join('');
-  document.getElementById('rank-title').textContent='🏆 '+CFLAGS[country]+' '+CNAMES[country]+' 매출 Top '+games.length;
+  document.getElementById('rank-title').textContent=CFLAGS[country]+' '+CNAMES[country]+' 매출 Top '+games.length;
+
+  // KPI
+  var kpis=document.getElementById('rank-kpis');
+  if(kpis){
+    var totalRev=games.reduce(function(s,g){return s+(g.est_revenue||0)},0);
+    var top10=games.slice(0,10).reduce(function(s,g){return s+(g.est_revenue||0)},0);
+    var avgRev=games.length?totalRev/games.length:0;
+    kpis.innerHTML=
+      '<div class="kpi"><div class="l">총 매출</div><div class="v">$'+(totalRev/1e6).toFixed(1)+'M</div><div class="s">'+CNAMES[country]+'/월</div></div>'+
+      '<div class="kpi"><div class="l">Top10 매출</div><div class="v">$'+(top10/1e6).toFixed(1)+'M</div><div class="s">'+(top10/totalRev*100).toFixed(0)+'% 점유</div></div>'+
+      '<div class="kpi"><div class="l">평균 매출</div><div class="v">$'+(avgRev/1e3).toFixed(0)+'K</div><div class="s">게임당</div></div>'+
+      '<div class="kpi"><div class="l">추적 게임</div><div class="v">'+games.length+'</div><div class="s">'+CNAMES[country]+'</div></div>';
+  }
+
+  // 국가별 비교 차트
+  var chartCanvas=document.getElementById('rank-compare-chart');
+  if(chartCanvas){
+    var ctx=chartCanvas.getContext('2d');
+    if(window.rankChart)window.rankChart.destroy();
+    var krTop10=(GP||[]).slice(0,10).map(function(g){return g.est_revenue||0});
+    var cnTop10=(CN||[]).slice(0,10).map(function(g){return g.est_revenue||0});
+    var jpTop10=(JP||[]).slice(0,10).map(function(g){return g.est_revenue||0});
+    var labels=[];
+    for(var i=1;i<=10;i++){labels.push('#'+i)}
+    window.rankChart=new Chart(ctx,{
+      type:'bar',
+      data:{labels:labels,datasets:[
+        {label:'한국',data:krTop10,backgroundColor:'#0066ff99',borderRadius:3},
+        {label:'중국',data:cnTop10,backgroundColor:'#ff444499',borderRadius:3},
+        {label:'일본',data:jpTop10,backgroundColor:'#ff880099',borderRadius:3}
+      ]},
+      options:{responsive:true,plugins:{legend:{position:'top'}},
+        scales:{y:{title:{display:true,text:'추정 월 매출 (USD)'},ticks:{callback:function(v){return '$'+(v>=1e6?(v/1e6).toFixed(0)+'M':(v/1e3).toFixed(0)+'K')}}}},
+        tooltip:{callbacks:{label:function(c){return c.dataset.label+': $'+(c.raw>=1e6?(c.raw/1e6).toFixed(1)+'M':(c.raw/1e3).toFixed(0)+'K')}}}
+      }
+    });
+  }
 }
 
 // ===== 여론 분석 탭 =====
