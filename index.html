@@ -7,71 +7,125 @@
 <link href="https://fonts.googleapis.com/css2?family=Pretendard:wght@300;400;500;700&display=swap" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
 <style>
-:root{--bg:#0f1117;--bg2:#1a1d28;--bg3:#252836;--t1:#e4e6eb;--t2:#9ca3af;--t3:#6b7280;--border:#2d3142;--accent:#667eea;--accent2:#764ba2;--pos:#10b981;--neg:#ef4444;--neu:#6b7280;--warn:#f59e0b;--kr:#003468;--cn:#de2910;--jp:#bc002d}
-.light{--bg:#f5f7fa;--bg2:#fff;--bg3:#f0f2f5;--t1:#1a1d28;--t2:#4b5563;--t3:#9ca3af;--border:#e5e7eb}
+:root{
+  --bg:#151515;--sb-bg:#1b1b1b;
+  --fg-100:#fff;--fg-90:#ffffffe6;--fg-80:#ffffffcc;--fg-70:#ffffffb3;--fg-60:#ffffff99;--fg-50:#ffffff80;--fg-40:#ffffff66;--fg-30:#ffffff4d;--fg-20:#ffffff33;--fg-12:#ffffff1f;--fg-10:#ffffff1a;--fg-8:#ffffff14;--fg-7:#ffffff12;--fg-5:#ffffff0d;--fg-2:#ffffff05;
+  --border:var(--fg-10);
+  --t1:var(--fg-100);--t2:var(--fg-70);--t3:var(--fg-50);
+  --surface:var(--fg-7);--surface-2:var(--fg-5);--surface-hover:var(--fg-12);
+  --bg2:var(--surface);--bg3:var(--surface-hover);
+  --accent:#6366f1;--accent-soft:#6366f133;
+  --pos:#10b981;--neg:#ef4444;--neu:var(--fg-50);--warn:#f59e0b;
+  --kr:#3b82f6;--cn:#ef4444;--jp:#f59e0b;
+  --kr-soft:#3b82f626;--cn-soft:#ef444426;--jp-soft:#f59e0b26;
+  --radius-sm:6px;--radius:8px;--radius-lg:12px;
+  --shadow:0 1px 3px rgba(0,0,0,.4);
+}
+.light{
+  --bg:#f6f7f9;--sb-bg:#fff;
+  --fg-100:#0f172a;--fg-90:#1e293be6;--fg-80:#334155cc;--fg-70:#475569b3;--fg-60:#64748c99;--fg-50:#94a3b880;--fg-40:#94a3b866;--fg-30:#cbd5e14d;--fg-20:#cbd5e133;--fg-12:#cbd5e11f;--fg-10:#e2e8f01a;--fg-8:#e2e8f014;--fg-7:#e2e8f012;--fg-5:#e2e8f00d;--fg-2:#e2e8f005;
+  --border:#e2e8f0;--surface:#fff;--surface-2:#f1f5f9;--surface-hover:#f8fafc;
+  --bg2:var(--surface);--bg3:var(--surface-2);
+  --shadow:0 1px 3px rgba(0,0,0,.08);
+}
 *{margin:0;padding:0;box-sizing:border-box}
-body{font-family:'Pretendard',sans-serif;background:var(--bg);color:var(--t1);font-size:14px;line-height:1.6}
+body{font-family:'Pretendard',sans-serif;background:var(--bg);color:var(--t1);font-size:14px;line-height:1.6;font-feature-settings:"tnum"}
 .container{display:flex;min-height:100vh}
-.sb{width:220px;background:var(--bg2);border-right:1px solid var(--border);padding:16px 0;position:fixed;height:100vh;overflow-y:auto;z-index:100}
-.sb-logo{padding:16px 20px;font-size:18px;font-weight:700;color:var(--accent)}.sb-logo small{display:block;font-size:11px;color:var(--t3);font-weight:400;margin-top:2px}
-.sb a{display:flex;align-items:center;gap:10px;padding:10px 20px;color:var(--t2);text-decoration:none;font-size:14px;cursor:pointer;transition:.2s;border-left:3px solid transparent}
-.sb a:hover{background:var(--bg3);color:var(--t1)}.sb a.on{color:var(--accent);border-left-color:var(--accent);background:var(--bg3)}
-.sb a span.icon{font-size:18px}.sb-divider{padding:12px 20px 6px;font-size:11px;color:var(--t3);text-transform:uppercase;letter-spacing:1px}
-.mn{margin-left:220px;flex:1;padding:24px 32px;min-width:0}
-.header{display:flex;align-items:center;justify-content:space-between;margin-bottom:16px;flex-wrap:wrap;gap:8px}
-.header h1{font-size:22px;font-weight:700}.header .meta{font-size:12px;color:var(--t2)}
-.header button,.header select{padding:6px 14px;border-radius:8px;border:1px solid var(--border);background:var(--bg2);color:var(--t1);cursor:pointer;font-size:12px}
+.sb{width:232px;background:var(--sb-bg);border-right:1px solid var(--border);padding:14px 0;position:fixed;height:100vh;overflow-y:auto;z-index:100}
+.sb-logo{padding:14px 20px 18px;font-size:16px;font-weight:700;color:var(--t1);letter-spacing:-.3px}.sb-logo small{display:block;font-size:10px;color:var(--t3);font-weight:500;margin-top:3px;letter-spacing:1px;text-transform:uppercase}
+.sb a{display:flex;align-items:center;gap:10px;padding:9px 20px;color:var(--t2);text-decoration:none;font-size:13px;font-weight:500;cursor:pointer;transition:.15s;border-radius:0}
+.sb a:hover{background:var(--surface-hover);color:var(--t1)}.sb a.on{color:var(--t1);background:var(--fg-12);font-weight:600}
+.sb-divider{padding:16px 20px 6px;font-size:10px;color:var(--t3);text-transform:uppercase;letter-spacing:1.2px;font-weight:600}
+.mn{margin-left:232px;flex:1;padding:20px 28px;min-width:0;max-width:1280px}
+.header{display:flex;align-items:center;justify-content:space-between;margin-bottom:18px;flex-wrap:wrap;gap:8px}
+.header h1{font-size:20px;font-weight:700;letter-spacing:-.4px}.header .meta{font-size:11px;color:var(--t3);font-weight:500}
+.header button,.header select{padding:5px 12px;border-radius:var(--radius-sm);border:1px solid var(--border);background:var(--surface);color:var(--t1);cursor:pointer;font-size:12px;font-weight:500;transition:.15s}
+.header button:hover{background:var(--surface-hover)}
 .tc{display:none}.tc.on{display:block}
-.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin-bottom:20px}
-.kpi{background:var(--bg2);border-radius:12px;padding:16px;border:1px solid var(--border)}.kpi .v{font-size:26px;font-weight:700;margin:4px 0}.kpi .l{font-size:12px;color:var(--t2)}.kpi .s{font-size:11px;color:var(--t3)}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:10px;margin-bottom:18px}
+.kpi{background:var(--surface);border-radius:var(--radius);padding:14px 16px;border:1px solid var(--border)}.kpi .v{font-size:24px;font-weight:700;margin:3px 0;letter-spacing:-.5px}.kpi .l{font-size:11px;color:var(--t2);font-weight:500;text-transform:uppercase;letter-spacing:.4px}.kpi .s{font-size:11px;color:var(--t3);margin-top:2px}
 .kpi.pos .v{color:var(--pos)}.kpi.neg .v{color:var(--neg)}.kpi.warn .v{color:var(--warn)}
-.card{background:var(--bg2);border-radius:12px;padding:18px;border:1px solid var(--border);margin-bottom:14px}
-.card h3{font-size:15px;margin-bottom:12px}
+.card{background:var(--surface);border-radius:var(--radius);padding:16px 18px;border:1px solid var(--border);margin-bottom:12px}
+.card h3{font-size:14px;font-weight:600;margin-bottom:12px;display:flex;align-items:center;gap:8px}
 table{width:100%;border-collapse:collapse;font-size:13px}
-th{text-align:left;padding:8px 10px;border-bottom:2px solid var(--border);color:var(--t2);font-weight:500;font-size:12px;cursor:pointer;white-space:nowrap}
-td{padding:8px 10px;border-bottom:1px solid var(--border)}
-tr:hover td{background:var(--bg3);cursor:pointer}
-.tag{display:inline-block;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:500}
-.tag.pos{background:rgba(16,185,129,.15);color:var(--pos)}.tag.neg{background:rgba(239,68,68,.15);color:var(--neg)}.tag.neu{background:rgba(107,114,128,.15);color:var(--neu)}
+th{text-align:left;padding:8px 10px;border-bottom:1px solid var(--border);color:var(--t2);font-weight:600;font-size:11px;cursor:pointer;white-space:nowrap;text-transform:uppercase;letter-spacing:.3px}
+td{padding:9px 10px;border-bottom:1px solid var(--fg-5)}
+tr:hover td{background:var(--surface-hover);cursor:pointer}
+tr:last-child td{border-bottom:none}
+.tag{display:inline-block;padding:2px 8px;border-radius:var(--radius-sm);font-size:11px;font-weight:600}
+.tag.pos{background:var(--pos);color:#fff}.tag.neg{background:var(--neg);color:#fff}.tag.neu{background:var(--fg-12);color:var(--t2)}
 .flag{font-size:14px;margin-right:2px}
-.search{width:100%;padding:9px 14px;border-radius:8px;border:1px solid var(--border);background:var(--bg2);color:var(--t1);font-size:13px;margin-bottom:12px;outline:none}.search:focus{border-color:var(--accent)}
-.country-tabs{display:flex;gap:6px;margin-bottom:14px;flex-wrap:wrap}
-.ctab{padding:6px 14px;border-radius:20px;border:1px solid var(--border);background:var(--bg2);color:var(--t2);cursor:pointer;font-size:13px;font-weight:500;transition:.2s}
-.ctab.on{background:var(--accent);color:#fff;border-color:var(--accent)}
-.modal-bg{display:none;position:fixed;inset:0;background:rgba(0,0,0,.6);z-index:1000;justify-content:center;align-items:flex-start;padding:40px 20px;overflow-y:auto}
+.search{width:100%;padding:8px 14px;border-radius:var(--radius);border:1px solid var(--border);background:var(--surface);color:var(--t1);font-size:13px;margin-bottom:12px;outline:none;transition:.15s}.search:focus{border-color:var(--accent);background:var(--bg)}
+.country-tabs{display:inline-flex;gap:2px;margin-bottom:14px;flex-wrap:wrap;padding:3px;background:var(--fg-5);border-radius:var(--radius)}
+.ctab{padding:6px 14px;border-radius:var(--radius-sm);border:none;background:transparent;color:var(--t2);cursor:pointer;font-size:12px;font-weight:600;transition:.15s;white-space:nowrap}
+.ctab:hover{color:var(--t1)}
+.ctab.on{background:var(--surface);color:var(--t1);box-shadow:var(--shadow)}
+.modal-bg{display:none;position:fixed;inset:0;background:rgba(0,0,0,.65);backdrop-filter:blur(4px);z-index:1000;justify-content:center;align-items:flex-start;padding:40px 20px;overflow-y:auto}
 .modal-bg.on{display:flex}
-.modal{background:var(--bg2);border-radius:16px;max-width:700px;width:100%;padding:24px;border:1px solid var(--border);margin-bottom:40px}
-.modal h2{font-size:20px;margin-bottom:16px}.modal-close{float:right;cursor:pointer;font-size:24px;color:var(--t2)}
-.modal-sec{margin-bottom:16px}.modal-sec h4{font-size:13px;color:var(--t2);margin-bottom:6px;text-transform:uppercase;letter-spacing:.5px}
+.modal{background:var(--sb-bg);border-radius:var(--radius-lg);max-width:680px;width:100%;padding:24px;border:1px solid var(--border);margin-bottom:40px;box-shadow:0 20px 60px rgba(0,0,0,.5)}
+.modal h2{font-size:19px;font-weight:700;margin-bottom:18px;letter-spacing:-.3px}.modal-close{float:right;cursor:pointer;font-size:20px;color:var(--t3);line-height:1;width:28px;height:28px;display:inline-flex;align-items:center;justify-content:center;border-radius:var(--radius-sm);transition:.15s}.modal-close:hover{background:var(--surface-hover);color:var(--t1)}
+.modal-sec{margin-bottom:18px}.modal-sec h4{font-size:11px;color:var(--t2);margin-bottom:8px;text-transform:uppercase;letter-spacing:.6px;font-weight:600}
 .src-label{display:inline-block;padding:2px 6px;border-radius:4px;font-size:10px;font-weight:500;margin-right:4px}
-.src-dc{background:#e74c3c20;color:#e74c3c}.src-arca{background:#3498db20;color:#3498db}.src-yt{background:#ff000020;color:#ff0000}.src-gp{background:#34a85320;color:#34a853}
-.src-bili{background:#fb729920;color:#fb7299}.src-tap{background:#ffa50020;color:#ffa500}.src-weibo{background:#e6162d20;color:#e6162d}
+.src-dc{background:#e74c3c26;color:#ff6b6b}.src-arca{background:#3498db26;color:#5db8ff}.src-yt{background:#ff000026;color:#ff6b6b}.src-gp{background:#34a85326;color:#4ade80}
+.src-bili{background:#fb729926;color:#fb7299}.src-tap{background:#ffa50026;color:#ffb84d}.src-weibo{background:#e6162d26;color:#ff6b6b}
 .cal-grid{display:grid!important;grid-template-columns:repeat(7,1fr)!important;gap:2px;font-size:11px}
-.cal-dow{text-align:center;font-weight:600;padding:4px;color:var(--t2);font-size:10px}
-.cal-day{min-height:48px;padding:3px;background:var(--bg3);border-radius:4px;cursor:pointer;position:relative;transition:.2s}
-.cal-day:hover{background:var(--border)}
-.cal-day.today{border:2px solid var(--accent)}
-.cal-day.has-event::after{content:'';position:absolute;bottom:3px;right:3px;width:6px;height:6px;border-radius:50%;background:var(--accent)}
-.cal-day .day-num{font-weight:600;font-size:11px}
-.cal-day .day-event{font-size:8px;color:var(--t2);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;margin-top:1px}
+.cal-dow{text-align:center;font-weight:600;padding:6px 4px;color:var(--t2);font-size:10px;text-transform:uppercase;letter-spacing:.5px}
+.cal-day{min-height:54px;padding:4px;background:var(--surface);border-radius:var(--radius-sm);cursor:pointer;position:relative;transition:.15s;border:1px solid var(--border)}
+.cal-day:hover{background:var(--surface-hover)}
+.cal-day.today{border-color:var(--accent);background:var(--accent-soft)}
+.cal-day.has-event::after{content:'';position:absolute;top:5px;right:5px;width:6px;height:6px;border-radius:50%;background:var(--accent)}
+.cal-day .day-num{font-weight:600;font-size:12px;color:var(--t1)}
+.cal-day .day-event{font-size:8px;color:var(--t2);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;margin-top:2px;line-height:1.3}
 .cal-day.other-month{opacity:.3}
 @media(max-width:768px){
 .cal-day{min-height:40px;padding:2px;font-size:10px}.cal-day .day-event{font-size:7px;display:block!important;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .cal-grid{gap:1px}
 }
-::-webkit-scrollbar{width:6px;height:6px}::-webkit-scrollbar-track{background:var(--bg)}::-webkit-scrollbar-thumb{background:var(--border);border-radius:3px}
+::-webkit-scrollbar{width:6px;height:6px}::-webkit-scrollbar-track{background:var(--bg)}::-webkit-scrollbar-thumb{background:var(--fg-20);border-radius:3px}::-webkit-scrollbar-thumb:hover{background:var(--fg-30)}
+/* 게임 순위 카드 */
+.gcard-rank{display:flex;align-items:center;gap:12px;padding:10px 12px;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);cursor:pointer;transition:.15s}
+.gcard-rank:hover{background:var(--surface-hover);border-color:var(--fg-20)}
+.gcard-rank .grank{font-size:13px;font-weight:700;color:var(--fg-50);min-width:22px;text-align:center;font-variant-numeric:tabular-nums}
+.gcard-rank.top3 .grank{color:var(--accent)}
+.gcard-rank .gicon{width:34px;height:34px;border-radius:var(--radius-sm);flex-shrink:0;object-fit:cover}
+.gcard-rank .gicon-ph{width:34px;height:34px;border-radius:var(--radius-sm);flex-shrink:0;background:var(--fg-8);display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:700;color:var(--t2)}
+.gcard-rank .gmain{flex:1;min-width:0}
+.gcard-rank .gname{font-size:13px;font-weight:600;color:var(--t1);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.gcard-rank .gdev{font-size:11px;color:var(--t3);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.gcard-rank .gstack{width:120px;flex-shrink:0}
+.gcard-rank .gstack-bar{display:flex;height:7px;border-radius:4px;overflow:hidden;background:var(--fg-5);margin-bottom:3px}
+.gcard-rank .gstack-bar span{display:block;height:100%}
+.gcard-rank .gstack-legend{font-size:9px;color:var(--t3);font-variant-numeric:tabular-nums;white-space:nowrap}
+.gcard-rank .grev{font-size:14px;font-weight:700;color:var(--t1);font-variant-numeric:tabular-nums;min-width:64px;text-align:right}
+.gcard-rank .gbadge{font-size:9px;font-weight:700;padding:1px 5px;border-radius:3px;min-width:24px;text-align:center}
+@media(max-width:768px){.gcard-rank .gstack{display:none}.gcard-rank .gicon,.gcard-rank .gicon-ph{width:28px;height:28px}}
+/* 시장 점유율 */
+.mkt-share{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px}
+.mkt-share-item{flex:1;min-width:130px;padding:12px 14px;border-radius:var(--radius);background:var(--surface-2);border:1px solid var(--border)}
+.mkt-share-item .ms-label{font-size:11px;color:var(--t2);font-weight:500}
+.mkt-share-item .ms-val{font-size:20px;font-weight:700;margin:2px 0}
+.mkt-share-item .ms-pct{font-size:10px;color:var(--t3)}
+.mkt-share-item .ms-bar{height:4px;background:var(--fg-5);border-radius:2px;margin-top:5px;overflow:hidden}
+.mkt-share-item .ms-bar span{display:block;height:100%;border-radius:2px}
+/* 인플루언서 페이지네이션 */
+.inf-pager{display:flex;align-items:center;justify-content:center;gap:6px;margin-top:14px}
+.inf-pager button{padding:5px 11px;border-radius:var(--radius-sm);border:1px solid var(--border);background:var(--surface);color:var(--t2);cursor:pointer;font-size:12px;font-weight:600;transition:.15s}
+.inf-pager button:hover:not(:disabled){background:var(--surface-hover);color:var(--t1)}
+.inf-pager button.on{background:var(--accent);color:#fff;border-color:var(--accent)}
+.inf-pager button:disabled{opacity:.35;cursor:not-allowed}
+.inf-pager .pinfo{font-size:11px;color:var(--t3);margin:0 6px}
 @media(max-width:768px){
 .sb{width:100%!important;height:auto!important;position:fixed!important;bottom:0!important;top:auto!important;border-right:none!important;border-top:1px solid var(--border)!important;padding:0!important;display:flex!important;justify-content:space-around!important;z-index:200!important;overflow-x:auto!important}
 .sb-logo,.sb-divider,#ad-sidebar{display:none!important}
-.sb a{flex-direction:column!important;gap:2px!important;padding:6px 2px!important;border-left:none!important;border-bottom:3px solid transparent!important;font-size:9px!important;flex:1!important;min-width:0!important}
-.sb a.on{border-left:none!important;border-bottom-color:var(--accent)!important}
-.sb a span.icon{font-size:18px!important}.sb a span:not(.icon){font-size:8px!important;text-align:center!important;overflow:hidden!important;text-overflow:ellipsis!important;white-space:nowrap!important}
-.mn{margin-left:0!important;margin-bottom:56px!important;padding:10px!important}
-.header h1{font-size:16px!important}.kpis{grid-template-columns:repeat(2,1fr)!important;gap:8px!important}
-.kpi{padding:10px!important}.kpi .v{font-size:20px!important}
-.card{padding:12px!important}.card h3{font-size:13px!important}
+.sb a{flex-direction:column!important;gap:2px!important;padding:6px 2px!important;border-radius:0!important;font-size:9px!important;flex:1!important;min-width:0!important}
+.sb a.on{background:transparent!important;border-top:2px solid var(--accent)!important}
+.sb a span:not(.icon){font-size:8px!important;text-align:center!important;overflow:hidden!important;text-overflow:ellipsis!important;white-space:nowrap!important}
+.mn{margin-left:0!important;margin-bottom:56px!important;padding:12px!important;max-width:100%!important}
+.header h1{font-size:17px!important}.kpis{grid-template-columns:repeat(2,1fr)!important;gap:8px!important}
+.kpi{padding:11px!important}.kpi .v{font-size:19px!important}
+.card{padding:13px!important}.card h3{font-size:13px!important}
 table{font-size:11px!important;display:block!important;overflow-x:auto!important;white-space:nowrap!important}
-th,td{padding:5px 6px!important}.country-tabs{gap:4px}.ctab{padding:4px 10px;font-size:11px}
+th,td{padding:6px 7px!important}.country-tabs{gap:2px}.ctab{padding:5px 11px;font-size:11px}
 .modal{padding:16px!important;margin-bottom:20px}
 }
 @media(max-width:380px){.kpis{grid-template-columns:1fr!important}}
@@ -88,8 +142,7 @@ th,td{padding:5px 6px!important}.country-tabs{gap:4px}.ctab{padding:4px 10px;fon
 <a onclick="showTab('marketing',this)"><span>마케팅</span></a>
 <a onclick="showTab('news',this)"><span>뉴스</span></a>
 <a onclick="showTab('calendar',this)"><span>캘린더</span></a>
-<div class="sb-divider">광고</div>
-<div id="ad-sidebar" style="padding:12px 16px;min-height:250px"></div>
+<div id="ad-sidebar" style="padding:12px 16px;min-height:250px;display:none"></div>
 </nav>
 <div class="mn">
 <div class="header">
@@ -109,31 +162,11 @@ th,td{padding:5px 6px!important}.country-tabs{gap:4px}.ctab{padding:4px 10px;fon
 <div class="ctab" onclick="setCountry('jp',this)">일본</div>
 </div>
 <div class="kpis" id="ov-kpis"></div>
-<div class="card"><h3 id="ov-rank-title">매출 Top 10</h3>
-<canvas id="ov-revenue-chart" width="600" height="200" style="margin-top:8px"></canvas>
-<table id="ov-rank" style="margin-top:12px"><thead><tr><th>#</th><th>게임</th><th>개발사</th><th>추정 매출</th></tr></thead><tbody></tbody></table></div>
-<div class="card"><h3>게임 시장 인사이트</h3><div id="ov-videos" style="font-size:13px;line-height:1.8">
-<div style="display:flex;gap:12px;flex-wrap:wrap;margin-bottom:8px">
-<div style="flex:1;min-width:140px;padding:10px;border-radius:8px;background:var(--bg3);border:1px solid var(--border)">
-<div style="font-size:11px;color:var(--t2)">한국 Top1</div>
-<div style="font-weight:600">SOL: 인챈트</div>
-<div style="font-size:11px;color:var(--accent)">$9.5M/월</div>
-</div>
-<div style="flex:1;min-width:140px;padding:10px;border-radius:8px;background:var(--bg3);border:1px solid var(--border)">
-<div style="font-size:11px;color:var(--t2)">중국 Top1</div>
-<div style="font-weight:600">王者荣耀</div>
-<div style="font-size:11px;color:var(--accent)">$35M/월</div>
-</div>
-<div style="flex:1;min-width:140px;padding:10px;border-radius:8px;background:var(--bg3);border:1px solid var(--border)">
-<div style="font-size:11px;color:var(--t2)">일본 Top1</div>
-<div style="font-weight:600">Pokémon GO</div>
-<div style="font-size:11px;color:var(--accent)">$18M/월</div>
-</div>
-</div>
-<div style="padding:8px;border-left:3px solid var(--accent);background:var(--bg3);border-radius:0 8px 8px 0;margin-top:8px">
-<b>시장 요약:</b> 3개국 모바일 게임 Top50 추정 월 매출 합계 <b>$325M</b> (한국 $66M, 중국 $221M, 일본 $108M). 중국이 전체의 68% 차지. 3개국 공통 진출 게임: 원신, 니케, 명조, Whiteout Survival.
-</div>
-</div></div>
+<div class="card"><h3 id="ov-rank-title">게임 매출 순위</h3>
+<div id="ov-game-cards" style="display:flex;flex-direction:column;gap:6px"></div>
+<canvas id="ov-revenue-chart" width="600" height="200" style="margin-top:14px"></canvas>
+<table id="ov-rank" style="margin-top:14px;display:none"><thead><tr><th>#</th><th>게임</th><th>개발사</th><th>추정 매출</th></tr></thead><tbody></tbody></table></div>
+<div class="card"><h3>국가별 시장 점유율</h3><div id="ov-videos" style="font-size:13px;line-height:1.8"></div></div>
 <div class="card"><h3>종합 트렌드 분석</h3><div id="ov-trends" style="font-size:13px;line-height:1.8"></div></div>
 <div id="ad-bottom" style="margin:16px 0;text-align:center;min-height:90px"></div>
 </div>
@@ -156,13 +189,13 @@ th,td{padding:5px 6px!important}.country-tabs{gap:4px}.ctab{padding:4px 10px;fon
 <!-- ===== 여론 분석 ===== -->
 <div id="tab-sentiment" class="tc">
 <div class="country-tabs" id="sent-ctabs">
-<div class="ctab on" onclick="setCountry('kr',this,'sent')">🇰🇷 한국</div>
-<div class="ctab" onclick="setCountry('cn',this,'sent')">🇨🇳 중국</div>
-<div class="ctab" onclick="setCountry('jp',this,'sent')">🇯🇵 일본</div>
+<div class="ctab on" onclick="setCountry('kr',this,'sent')">한국</div>
+<div class="ctab" onclick="setCountry('cn',this,'sent')">중국</div>
+<div class="ctab" onclick="setCountry('jp',this,'sent')">일본</div>
 </div>
 <div class="kpis" id="sent-kpis"></div>
 <input class="search" placeholder="게임명 검색..." oninput="renderSentiment(this.value)" id="sent-search">
-<div class="card" id="sent-card"><h3 id="sent-title">💬 게임별 여론 지수</h3><table id="sent-table"><thead><tr><th>게임</th><th>소스</th><th>지수</th><th>긍정</th><th>부정</th><th>트렌드</th><th>샘플</th></tr></thead><tbody></tbody></table></div>
+<div class="card" id="sent-card"><h3 id="sent-title">게임별 여론 지수</h3><table id="sent-table"><thead><tr><th>게임</th><th>소스</th><th>지수</th><th>긍정</th><th>부정</th><th>트렌드</th><th>샘플</th></tr></thead><tbody></tbody></table></div>
 </div>
 
 <!-- ===== 인플루언서 ===== -->
@@ -173,10 +206,10 @@ th,td{padding:5px 6px!important}.country-tabs{gap:4px}.ctab{padding:4px 10px;fon
 <div class="ctab" onclick="setInfTab('jp',this)">일본</div>
 <div class="ctab" onclick="setInfTab('all',this)">전체</div>
 </div>
-<div style="display:flex;gap:6px;margin-bottom:12px">
-<button onclick="setInfFilter('all',this)" id="inf-filter-all" style="padding:6px 12px;border-radius:6px;border:1px solid var(--border);background:var(--accent);color:#fff;cursor:pointer;font-size:12px">전체</button>
-<button onclick="setInfFilter('official',this)" id="inf-filter-official" style="padding:6px 12px;border-radius:6px;border:1px solid var(--border);background:var(--bg2);color:var(--t1);cursor:pointer;font-size:12px">공식 채널</button>
-<button onclick="setInfFilter('personal',this)" id="inf-filter-personal" style="padding:6px 12px;border-radius:6px;border:1px solid var(--border);background:var(--bg2);color:var(--t1);cursor:pointer;font-size:12px">개인 크리에이터</button>
+<div class="country-tabs" style="margin-bottom:12px">
+<button onclick="setInfFilter('all',this)" id="inf-filter-all" class="ctab on">전체</button>
+<button onclick="setInfFilter('official',this)" id="inf-filter-official" class="ctab">공식 채널</button>
+<button onclick="setInfFilter('personal',this)" id="inf-filter-personal" class="ctab">개인 크리에이터</button>
 </div>
 <input class="search" style="margin-bottom:12px" placeholder="인플루언서 검색..." oninput="renderInfluencers(this.value)" id="inf-search">
 <div class="kpis" id="inf-kpis"></div>
@@ -205,34 +238,34 @@ th,td{padding:5px 6px!important}.country-tabs{gap:4px}.ctab{padding:4px 10px;fon
 <!-- ===== 마케팅 ===== -->
 <div id="tab-marketing" class="tc">
 <div class="country-tabs" id="mkt-ctabs">
-<div class="ctab on" onclick="setCountry('kr',this,'mkt')">🇰🇷 한국</div>
-<div class="ctab" onclick="setCountry('cn',this,'mkt')">🇨🇳 중국</div>
-<div class="ctab" onclick="setCountry('jp',this,'mkt')">🇯🇵 일본</div>
+<div class="ctab on" onclick="setCountry('kr',this,'mkt')">한국</div>
+<div class="ctab" onclick="setCountry('cn',this,'mkt')">중국</div>
+<div class="ctab" onclick="setCountry('jp',this,'mkt')">일본</div>
 </div>
 <div class="kpis" id="mkt-kpis"></div>
-<div class="card"><h3 id="mkt-title">📢 마케팅 활동 현황</h3><table id="mkt-table"><thead><tr><th>게임</th><th>마케팅 유형</th><th>상세</th><th>규모/점수</th></tr></thead><tbody></tbody></table></div>
+<div class="card"><h3 id="mkt-title">마케팅 활동 현황</h3><table id="mkt-table"><thead><tr><th>게임</th><th>마케팅 유형</th><th>상세</th><th>규모/점수</th></tr></thead><tbody></tbody></table></div>
 </div>
 
 <!-- ===== 뉴스 ===== -->
 <div id="tab-news" class="tc">
 <div class="country-tabs" id="news-ctabs">
-<div class="ctab on" onclick="setCountry('kr',this,'news')">🇰🇷 한국</div>
-<div class="ctab" onclick="setCountry('cn',this,'news')">🇨🇳 중국</div>
-<div class="ctab" onclick="setCountry('jp',this,'news')">🇯🇵 일본</div>
+<div class="ctab on" onclick="setCountry('kr',this,'news')">한국</div>
+<div class="ctab" onclick="setCountry('cn',this,'news')">중국</div>
+<div class="ctab" onclick="setCountry('jp',this,'news')">일본</div>
 </div>
-<div class="card"><h3>📰 최근 7일 뉴스</h3><div id="news-list" style="display:flex;flex-direction:column;gap:8px"></div></div>
+<div class="card"><h3>최근 7일 뉴스</h3><div id="news-list" style="display:flex;flex-direction:column;gap:8px"></div></div>
 </div>
 
 <!-- ===== 캘린더 ===== -->
 <div id="tab-calendar" class="tc">
 <div class="country-tabs" id="cal-ctabs">
-<div class="ctab on" onclick="setCountry('kr',this,'cal')">🇰🇷 한국</div>
-<div class="ctab" onclick="setCountry('cn',this,'cal')">🇨🇳 중국</div>
-<div class="ctab" onclick="setCountry('jp',this,'cal')">🇯🇵 일본</div>
+<div class="ctab on" onclick="setCountry('kr',this,'cal')">한국</div>
+<div class="ctab" onclick="setCountry('cn',this,'cal')">중국</div>
+<div class="ctab" onclick="setCountry('jp',this,'cal')">일본</div>
 </div>
 <div class="card">
 <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:12px">
-<h3 style="margin:0" id="cal-month-title">📅 2026년 7월</h3>
+<h3 style="margin:0" id="cal-month-title">2026년 7월</h3>
 <div>
 <button onclick="calNav(-1)" style="padding:4px 10px;border-radius:6px;border:1px solid var(--border);background:var(--bg2);color:var(--t1);cursor:pointer">‹</button>
 <button onclick="calNav(1)" style="padding:4px 10px;border-radius:6px;border:1px solid var(--border);background:var(--bg2);color:var(--t1);cursor:pointer;margin-left:4px">›</button>
@@ -249,23 +282,23 @@ th,td{padding:5px 6px!important}.country-tabs{gap:4px}.ctab{padding:4px 10px;fon
 <!-- ===== 게임 상세 모달 ===== -->
 <div class="modal-bg" id="game-modal" onclick="if(event.target===this)closeModal()">
 <div class="modal">
-<span class="modal-close" onclick="closeModal()">✕</span>
+<span class="modal-close" onclick="closeModal()">&times;</span>
 <h2 id="modal-title">게임명</h2>
-<div class="modal-sec" id="modal-chart-sec"><h4>📊 매출 순위 추이 (최근 7일)</h4><canvas id="modal-chart" width="600" height="200"></canvas></div>
-<div class="modal-sec"><h4>💬 여론 요약</h4><div id="modal-sentiment" style="font-size:13px;color:var(--t2)"></div></div>
-<div class="modal-sec" id="modal-videos-sec"><h4>🎬 최근 영상</h4><div id="modal-videos"></div></div>
+<div class="modal-sec" id="modal-chart-sec"><h4>매출 순위 추이 (최근 7일)</h4><canvas id="modal-chart" width="600" height="200"></canvas></div>
+<div class="modal-sec"><h4>여론 요약</h4><div id="modal-sentiment" style="font-size:13px;color:var(--t2)"></div></div>
+<div class="modal-sec" id="modal-videos-sec"><h4>최근 영상</h4><div id="modal-videos"></div></div>
 </div>
 </div>
 
 <!-- ===== 인플루언서 팝업 ===== -->
 <div class="modal-bg" id="inf-modal" onclick="if(event.target===this)closeInfPopup()">
 <div class="modal">
-<span class="modal-close" onclick="closeInfPopup()">✕</span>
+<span class="modal-close" onclick="closeInfPopup()">&times;</span>
 <h2>게임 인플루언서</h2>
 <div class="country-tabs">
-<div class="ctab on" onclick="setInfCountry('kr',this)">🇰🇷 한국</div>
-<div class="ctab" onclick="setInfCountry('cn',this)">🇨🇳 중국</div>
-<div class="ctab" onclick="setInfCountry('jp',this)">🇯🇵 일본</div>
+<div class="ctab on" onclick="setInfCountry('kr',this)">한국</div>
+<div class="ctab" onclick="setInfCountry('cn',this)">중국</div>
+<div class="ctab" onclick="setInfCountry('jp',this)">일본</div>
 </div>
 <div id="inf-list" style="margin-top:12px"></div>
 </div>
@@ -327,10 +360,49 @@ let infTab='kr';
 let infSortKey='subscribers';
 let infSortDir=1;
 let infFilter='all';
+let infPage=1;
+let infLastQuery='';
+function infGoPage(p){infPage=p;var searchEl=document.getElementById('inf-search');renderInfluencers(searchEl?searchEl.value:'');}
+// getInfList 결과의 전체 인덱스로 상세 모달 열기
+function openInfDetailByListIdx(listIdx){
+  var searchEl=document.getElementById('inf-search');
+  var list=getInfList(searchEl?searchEl.value:'');
+  if(listIdx>=0&&listIdx<list.length){
+    // 기존 openInfDetail는 원본 INF 배열 기준이므로, 전달은 이름으로 처리
+    openInfDetailByName(list[listIdx]);
+  }
+}
+function openInfDetailByName(inf){
+  if(!inf)return;
+  var bg=document.getElementById('inf-modal');
+  if(!bg)return;
+  bg.querySelector('h2').textContent=inf.name||'인플루언서';
+  var list=[inf];
+  var html=list.map(function(i,idx){
+    var sub=i.subscribers||0;
+    var avgV=i.avg_views||0;
+    var eng=i.engagement_rate||0;
+    var tier=i.tier||'D';
+    var games=(i.main_games||[]).slice(0,3).join(', ');
+    var platform=i.platform||'YouTube';
+    var officialTag=i.is_official?'<span style="color:var(--accent);font-size:10px;font-weight:600;margin-right:4px">공식</span>':'';
+    return '<table style="width:100%;font-size:13px;margin-top:8px"><tbody>'+
+      '<tr><td style="color:var(--t2);width:90px">플랫폼</td><td>'+platform+'</td></tr>'+
+      '<tr><td style="color:var(--t2)">구독자</td><td style="font-weight:600">'+fmtSub(sub)+'</td></tr>'+
+      '<tr><td style="color:var(--t2)">평균조회</td><td>'+fmtSub(avgV)+'</td></tr>'+
+      '<tr><td style="color:var(--t2)">참여율</td><td>'+eng.toFixed(1)+'%</td></tr>'+
+      '<tr><td style="color:var(--t2)">등급</td><td><span style="padding:2px 8px;border-radius:4px;background:'+tierColor(tier)+'26;color:'+tierColor(tier)+';font-weight:700">'+tier+'</span></td></tr>'+
+      (games?'<tr><td style="color:var(--t2)">주요게임</td><td>'+officialTag+games+'</td></tr>':'')+
+      (i.channel_url?'<tr><td style="color:var(--t2)">채널</td><td><a href="'+i.channel_url+'" target="_blank" style="color:var(--accent);text-decoration:none">바로가기</a></td></tr>':'')+
+      '</tbody></table>';
+  }).join('');
+  bg.querySelector('#inf-list').innerHTML=html;
+  bg.classList.add('on');
+}
 let calDate=new Date();
 let calSelectedDate=null;
 
-const CFLAGS={kr:'🇰🇷',cn:'🇨🇳',jp:'🇯🇵',all:'🌐'};
+const CFLAGS={kr:'KR',cn:'CN',jp:'JP',all:'ALL'};
 const CNAMES={kr:'한국',cn:'중국',jp:'일본',all:'전체'};
 
 // ===== 게임 다국어 매핑 (KR/CN/JP) =====
@@ -484,7 +556,50 @@ function loadOverview(){
   kpiRows.push('<div class="kpi warn"><div class="l">평균 평점</div><div class="v">'+avgRating+'</div></div>');
   kpis.innerHTML=kpiRows.join('');
 
-  // Top 10 테이블
+  // Top 10 게임 카드 (3국 스택 막대 포함)
+  var gameCards=document.getElementById('ov-game-cards');
+  // 게임별 3국 매출 맵 (전체 모드에서 다국가 진출 게임 집계용)
+  var gameRevByCountry={};
+  function gameKey(t){return (t||'').toLowerCase().replace(/[^a-z0-9가-힣]/gi,'').slice(0,12)}
+  (GP||[]).forEach(function(g){var k=gameKey(g.title);if(!gameRevByCountry[k])gameRevByCountry[k]={kr:0,cn:0,jp:0,title:g.title};gameRevByCountry[k].kr+=(g.est_revenue||0)});
+  (CN||[]).forEach(function(g){var k=gameKey(g.title);if(!gameRevByCountry[k])gameRevByCountry[k]={kr:0,cn:0,jp:0,title:g.title};gameRevByCountry[k].cn+=(g.est_revenue||0)});
+  (JP||[]).forEach(function(g){var k=gameKey(g.title);if(!gameRevByCountry[k])gameRevByCountry[k]={kr:0,cn:0,jp:0,title:g.title};gameRevByCountry[k].jp+=(g.est_revenue||0)});
+
+  if(gameCards){
+    var cardHTML=displayData.slice(0,10).map(function(g,idx){
+      var rev=g.est_revenue_fmt||(g.est_revenue?'$'+(g.est_revenue/1e6).toFixed(1)+'M':'-');
+      var countryCode=g._c||country;
+      var countryCodeUp=countryCode==='kr'?'KR':countryCode==='cn'?'CN':countryCode==='jp'?'JP':'KR';
+      var iconHTML=g.icon?('<img class="gicon" src="'+g.icon+'" loading="lazy" onerror="this.style.display=\'none\';this.nextElementSibling.style.display=\'flex\'"><span class="gicon-ph" style="display:none">'+(g.title||'?').charAt(0)+'</span>'):'<span class="gicon-ph">'+(g.title||'?').charAt(0)+'</span>';
+      var gn=g.local_name||g.title||'';
+      var escGn=escAttr(gn);
+      // 3국 분포 계산
+      var k=gameKey(g.title);
+      var dist=gameRevByCountry[k]||{kr:countryCode==='kr'?(g.est_revenue||0):0,cn:countryCode==='cn'?(g.est_revenue||0):0,jp:countryCode==='jp'?(g.est_revenue||0):0};
+      var total=(dist.kr+dist.cn+dist.jp)||1;
+      var krP=Math.round(dist.kr/total*100),cnP=Math.round(dist.cn/total*100),jpP=100-krP-cnP;
+      var isMulti=(dist.kr>0&&dist.kr<total)||(dist.cn>0&&dist.cn<total)||(dist.jp>0&&dist.jp<total);
+      var stackHTML=isMulti?
+        '<div class="gstack"><div class="gstack-bar">'+
+        (dist.kr>0?'<span style="width:'+krP+'%;background:var(--kr)"></span>':'')+
+        (dist.cn>0?'<span style="width:'+cnP+'%;background:var(--cn)"></span>':'')+
+        (dist.jp>0?'<span style="width:'+jpP+'%;background:var(--jp)"></span>':'')+
+        '</div><div class="gstack-legend">'+(dist.kr>0?'KR '+krP+'% · ':'')+(dist.cn>0?'CN '+cnP+'% · ':'')+(dist.jp>0?'JP '+jpP+'%':'')+'</div></div>'
+        :'<div class="gstack"><div class="gstack-legend" style="text-align:center;color:var(--t3)">'+(countryCode==='cn'?'중국 단일':countryCode==='jp'?'일본 단일':'한국 단일')+'</div></div>';
+      var badgeColor=countryCode==='cn'?'var(--cn-soft);color:var(--cn)':countryCode==='jp'?'var(--jp-soft);color:var(--jp)':'var(--kr-soft);color:var(--kr)';
+      return '<div class="gcard-rank'+(idx<3?' top3':'')+'" onclick="openModal(\''+escGn+'\')">'+
+        '<span class="grank">'+(idx+1)+'</span>'+
+        iconHTML+
+        '<div class="gmain"><div class="gname">'+gn+'</div><div class="gdev">'+(g.developer||'').slice(0,18)+'</div></div>'+
+        stackHTML+
+        '<span class="gbadge" style="background:'+badgeColor+'">'+countryCodeUp+'</span>'+
+        '<span class="grev">'+rev+'</span>'+
+        '</div>';
+    });
+    gameCards.innerHTML=cardHTML.join('');
+  }
+
+  // 호환용 테이블도 채움 (숨김 상태)
   var tbody=document.querySelector('#ov-rank tbody');
   if(tbody){
     var topRows=displayData.slice(0,10).map(function(g){
@@ -496,7 +611,7 @@ function loadOverview(){
     });
     tbody.innerHTML=topRows.join('');
   }
-  document.getElementById('ov-rank-title').textContent=CFLAGS[country]+' '+CNAMES[country]+' 매출 Top 10';
+  document.getElementById('ov-rank-title').textContent=CFLAGS[country]+' '+CNAMES[country]+' 게임 매출 순위';
 
   // 차트
   var chartCanvas=document.getElementById('ov-revenue-chart');
@@ -508,7 +623,7 @@ function loadOverview(){
     var revData=top10.map(function(g){return g.est_revenue||Math.max(100000,1100000-(g.rank||1)*100000)});
     window.ovChart=new Chart(ctx,{
       type:'line',
-      data:{labels:labels,datasets:[{label:'추정 월 매출',data:revData,borderColor:'#667eea',backgroundColor:'#667eea22',fill:true,tension:0.3,pointRadius:5,pointBackgroundColor:'#667eea'}]},
+      data:{labels:labels,datasets:[{label:'추정 월 매출',data:revData,borderColor:'#6366f1',backgroundColor:'#6366f122',fill:true,tension:0.3,pointRadius:5,pointBackgroundColor:'#6366f1'}]},
       options:{responsive:true,
         plugins:{legend:{display:false},tooltip:{callbacks:{label:function(c){return '추정 매출: '+fmtRev(c.raw)}}}},
         scales:{y:{title:{display:true,text:'추정 월 매출 (USD)'},ticks:{callback:function(v){return fmtRev(v)}}}}
@@ -523,19 +638,19 @@ function loadOverview(){
     (GP||[]).forEach(function(g){revTotal.kr+=(g.est_revenue||0)});
     (CN||[]).forEach(function(g){revTotal.cn+=(g.est_revenue||0)});
     (JP||[]).forEach(function(g){revTotal.jp+=(g.est_revenue||0)});
-    var revHTML='<div style="display:flex;gap:12px;flex-wrap:wrap;margin-bottom:12px">';
-    var countries=[['kr','한국',revTotal.kr,'#0066ff'],['cn','중국',revTotal.cn,'#ff4444'],['jp','일본',revTotal.jp,'#ff8800']];
+    var revHTML='<div class="mkt-share">';
+    var countries=[['kr','한국',revTotal.kr,'var(--kr)'],['cn','중국',revTotal.cn,'var(--cn)'],['jp','일본',revTotal.jp,'var(--jp)']];
     countries.forEach(function(c){
       var pct=c[2]/(revTotal.kr+revTotal.cn+revTotal.jp)*100;
-      revHTML+='<div style="flex:1;min-width:120px;padding:12px;border-radius:8px;background:var(--bg3);border:1px solid var(--border)">'+
-        '<div style="font-size:11px;color:var(--t2)">'+c[1]+'</div>'+
-        '<div style="font-size:20px;font-weight:700;color:'+c[3]+'">$'+(c[2]/1e6).toFixed(1)+'M</div>'+
-        '<div style="font-size:10px;color:var(--t3)">'+pct.toFixed(0)+'% 점유율</div>'+
-        '<div style="height:4px;background:var(--bg2);border-radius:2px;margin-top:4px"><div style="height:100%;width:'+pct+'%;background:'+c[3]+';border-radius:2px"></div></div>'+
+      revHTML+='<div class="mkt-share-item">'+
+        '<div class="ms-label">'+c[1]+'</div>'+
+        '<div class="ms-val" style="color:'+c[3]+'">$'+(c[2]/1e6).toFixed(1)+'M</div>'+
+        '<div class="ms-pct">'+pct.toFixed(0)+'% 점유율</div>'+
+        '<div class="ms-bar"><span style="width:'+pct+'%;background:'+c[3]+'"></span></div>'+
         '</div>';
     });
     revHTML+='</div>';
-    revHTML+='<div style="font-size:12px;color:var(--t3);margin-top:4px">한국 Top50 + 중국 Top50 + 일본 Top50 추정 월 매출 합계 | 환율 1,350원/$</div>';
+    revHTML+='<div style="font-size:11px;color:var(--t3);margin-top:6px">한국 Top50 + 중국 Top50 + 일본 Top50 추정 월 매출 합계 · 환율 1,350원/$</div>';
     vContainer.innerHTML=revHTML;
   }
 
@@ -559,7 +674,7 @@ function loadOverview(){
       var mktCount=mktList.filter(function(m){return (m.game||'').includes(gn.slice(0,5))}).length;
       var mktScore=Math.min(10,mktCount*3);
       var total=Math.round(revScore+sentScore+vidScore+mktScore);
-      var color=total>60?'#00ff88':total>40?'#ffaa00':'#ff6666';
+      var color=total>60?'var(--pos)':total>40?'var(--warn)':'var(--neg)';
       var escGn=escAttr(gn);
       var detail='매출: $'+(rev/1e6).toFixed(1)+'M ('+revScore.toFixed(0)+'점/40)\\n'+
         '여론: '+(sent?('지수 '+sent.index+' ('+sentScore.toFixed(0)+'점/30)'):'데이터 없음')+'\\n'+
@@ -652,13 +767,13 @@ function renderSentiment(q){
   var sentFull={};
   if(country==='cn'){
     sentFull=SCN||{};srcLabel='bili';
-    sentTitle.textContent='💬 중국 여론 (Bilibili + TapTap)';
+    sentTitle.textContent='중국 여론 (Bilibili + TapTap)';
   }else if(country==='jp'){
     sentFull=SJP||{};srcLabel='gp';
-    sentTitle.textContent='💬 일본 여론 (Google Play 리뷰)';
+    sentTitle.textContent='일본 여론 (Google Play 리뷰)';
   }else{
     sentFull=SKR||{};srcLabel='dc';
-    sentTitle.textContent='💬 한국 여론 (DC + GP + YT 통합)';
+    sentTitle.textContent='한국 여론 (DC + GP + YT 통합)';
   }
 
   if(Object.keys(sentFull).length>0){
@@ -696,7 +811,7 @@ function renderSentiment(q){
     var g=pair[0],v=pair[1];
     var idx=v.index||50;
     var lbl=idx>55?'pos':idx<45?'neg':'neu';
-    var tr=v.trend==='상승'?'📈':v.trend==='하락'?'📉':'➡️';
+    var tr=v.trend==='상승'?'<span style="color:var(--pos)">▲</span>':v.trend==='하락'?'<span style="color:var(--neg)">▼</span>':'<span style="color:var(--t3)">▬</span>';
     var srcTag;
     if(srcLabel==='dc')srcTag='<span class="src-label src-dc">DC</span>';
     else if(srcLabel==='bili')srcTag='<span class="src-label src-bili">Bili</span>';
@@ -751,7 +866,7 @@ function openSentDetail(game,idx,trend,detail){
   parts.push('<div style="display:flex;gap:16px;margin-bottom:16px;align-items:center">');
   var idxColor=idx>55?'var(--pos)':idx<45?'var(--neg)':'var(--neu)';
   parts.push('<div style="text-align:center"><div style="font-size:36px;font-weight:700;color:'+idxColor+'">'+idx+'</div><div style="font-size:11px;color:var(--t2)">여론 지수 (0-100)</div></div>');
-  var trendIcon=trend==='상승'?'📈':trend==='하락'?'📉':'➡️';
+  var trendIcon=trend==='상승'?'<span style="color:var(--pos)">▲</span>':trend==='하락'?'<span style="color:var(--neg)">▼</span>':'<span style="color:var(--t3)">▬</span>';
   parts.push('<div style="text-align:center"><div style="font-size:24px">'+trendIcon+'</div><div style="font-size:11px;color:var(--t2)">'+trend+'</div></div>');
 
   // 키 이슈
@@ -765,7 +880,7 @@ function openSentDetail(game,idx,trend,detail){
   // 소스별 상세
   if(detail){
     var detailLines=detail.split('; ').filter(function(d){return d.trim()}).map(function(d){
-      return '<div style="padding:6px 0;border-bottom:1px solid var(--border)">📊 '+d+'</div>';
+      return '<div style="padding:6px 0;border-bottom:1px solid var(--border)">'+d+'</div>';
     });
     parts.push('<div style="font-size:13px;line-height:1.8;margin-bottom:12px">'+detailLines.join('')+'</div>');
   }
@@ -861,13 +976,15 @@ function openSentDetail(game,idx,trend,detail){
 // ===== 인플루언서 필터/정렬 =====
 function setInfFilter(f,el){
   infFilter=f;
-  document.querySelectorAll('[id^=inf-filter-]').forEach(function(b){b.style.background='var(--bg2)';b.style.color='var(--t1)'});
-  el.style.background='var(--accent)';el.style.color='#fff';
+  infPage=1;
+  el.parentElement.querySelectorAll('.ctab').forEach(function(b){b.classList.remove('on')});
+  el.classList.add('on');
   var searchEl=document.getElementById('inf-search');
   renderInfluencers(searchEl?searchEl.value:'');
 }
 function setInfTab(c,el){
   infTab=c;
+  infPage=1;
   el.parentElement.querySelectorAll('.ctab').forEach(function(t){t.classList.remove('on')});
   el.classList.add('on');
   var searchEl=document.getElementById('inf-search');
@@ -876,6 +993,7 @@ function setInfTab(c,el){
 function sortInf(key){
   if(infSortKey===key)infSortDir*=-1;
   else{infSortKey=key;infSortDir=-1}
+  infPage=1;
   var searchEl=document.getElementById('inf-search');
   renderInfluencers(searchEl?searchEl.value:'');
 }
@@ -976,35 +1094,68 @@ function renderInfluencers(q){
       '<div class="kpi"><div class="l">S등급</div><div class="v" style="color:#ff4444">'+sTier+'</div><div class="s">300만+</div></div>';
   }
 
-  // 테이블
+  // 테이블 (페이지네이션)
   var tbody=document.querySelector('#inf-table tbody');
   if(!tbody)return;
   var tabLabel2=infTab==='all'?'전체':(CNAMES[infTab]||'');
   document.getElementById('inf-rank-title').textContent=tabLabel2+' 인플루언서 랭킹';
 
+  // 기존 페이지네이터 제거
+  var oldPager=document.getElementById('inf-pager');
+  if(oldPager)oldPager.remove();
+
   if(!data.length){
-    tbody.innerHTML='<tr><td colspan="6" style="text-align:center;color:var(--t2);padding:16px">데이터 없음</td></tr>';
+    tbody.innerHTML='<tr><td colspan="6" style="text-align:center;color:var(--t2);padding:24px">데이터 없음</td></tr>';
     return;
   }
-  var rows=data.map(function(inf,idx){
+  var perPage=20;
+  var totalPages=Math.ceil(data.length/perPage);
+  if(infPage>totalPages)infPage=1;
+  if(infPage<1)infPage=1;
+  var startIdx=(infPage-1)*perPage;
+  var pageData=data.slice(startIdx,startIdx+perPage);
+  var rows=pageData.map(function(inf,i){
+    var globalIdx=startIdx+i; // getInfList 내 전체 인덱스 (openInfDetail용)
     var sub=inf.subscribers||0;
     var avgV=inf.avg_views||0;
     var eng=inf.engagement_rate||0;
     var tier=inf.tier||'D';
     var games=(inf.main_games||[]).slice(0,2).join(', ');
     var platform=inf.platform||'YouTube';
-    var officialTag=inf.is_official?'<span style="color:var(--accent);font-size:9px;border:1px solid var(--accent);padding:1px 3px;border-radius:2px;margin-right:3px">공식</span>':'';
-    return '<tr onclick="openInfDetail('+idx+')" style="cursor:pointer">'+
-      '<td>'+(idx+1)+'</td>'+
+    var officialTag=inf.is_official?'<span style="color:var(--accent);font-size:9px;border:1px solid var(--accent);padding:1px 4px;border-radius:3px;margin-right:4px;font-weight:600">공식</span>':'';
+    return '<tr onclick="openInfDetailByListIdx('+globalIdx+')" style="cursor:pointer">'+
+      '<td>'+(globalIdx+1)+'</td>'+
       '<td><div style="font-weight:500">'+officialTag+(inf.name||'')+'</div>'+
       '<div style="font-size:10px;color:var(--t3)">'+platform+(games?' · '+games:'')+'</div></td>'+
       '<td style="font-weight:600">'+fmtSub(sub)+'</td>'+
       '<td>'+fmtSub(avgV)+'</td>'+
       '<td>'+eng.toFixed(1)+'%</td>'+
-      '<td><span style="padding:2px 8px;border-radius:4px;background:'+tierColor(tier)+'20;color:'+tierColor(tier)+';font-weight:600">'+tier+'</span></td>'+
+      '<td><span style="padding:2px 8px;border-radius:4px;background:'+tierColor(tier)+'26;color:'+tierColor(tier)+';font-weight:700">'+tier+'</span></td>'+
       '</tr>';
   });
   tbody.innerHTML=rows.join('');
+
+  // 페이지네이터 추가
+  if(totalPages>1){
+    var tableCard=document.querySelector('#inf-table').closest('.card');
+    if(tableCard){
+      var pager=document.createElement('div');
+      pager.className='inf-pager';
+      pager.id='inf-pager';
+      var btns='';
+      btns+='<button onclick="infGoPage('+(infPage-1)+')" '+(infPage<=1?'disabled':'')+'>이전</button>';
+      // 페이지 번호 (최대 7개)
+      var pStart=Math.max(1,infPage-3),pEnd=Math.min(totalPages,pStart+6);
+      pStart=Math.max(1,pEnd-6);
+      for(var p=pStart;p<=pEnd;p++){
+        btns+='<button onclick="infGoPage('+p+')" class="'+(p===infPage?'on':'')+'">'+p+'</button>';
+      }
+      btns+='<button onclick="infGoPage('+(infPage+1)+')" '+(infPage>=totalPages?'disabled':'')+'>다음</button>';
+      btns+='<span class="pinfo">'+data.length+'명 중 '+(startIdx+1)+'-'+Math.min(startIdx+perPage,data.length)+'</span>';
+      pager.innerHTML=btns;
+      tableCard.appendChild(pager);
+    }
+  }
 }
 
 // ===== 인플루언서 상세 모달 =====
@@ -1063,7 +1214,7 @@ function renderMarketing(){
   var data=(MKT||[]).filter(function(m){return !m.country||m.country===country||country==='all'});
   var tbody=document.querySelector('#mkt-table tbody');
   if(!tbody)return;
-  document.getElementById('mkt-title').textContent='📢 '+CFLAGS[country]+' '+CNAMES[country]+' 마케팅 현황';
+  document.getElementById('mkt-title').textContent=CFLAGS[country]+' '+CNAMES[country]+' 마케팅 현황';
 
   if(!data.length){
     tbody.innerHTML='<tr><td colspan="5" style="text-align:center;color:var(--t2);padding:16px">데이터 없음</td></tr>';
@@ -1133,7 +1284,7 @@ function renderCalendar(){
   var grid=document.getElementById('cal-grid');
   if(!grid)return;
   var y=calDate.getFullYear(),m=calDate.getMonth();
-  document.getElementById('cal-month-title').textContent='📅 '+y+'년 '+(m+1)+'월';
+  document.getElementById('cal-month-title').textContent=y+'년 '+(m+1)+'월';
   var first=new Date(y,m,1),last=new Date(y,m+1,0);
   var startDow=first.getDay();
   var daysInMonth=last.getDate();
@@ -1246,15 +1397,15 @@ function openModal(gameName){
   var sentCn=SCN[gameName];
   var sentJp=SJP[gameName];
   var sentParts=[];
-  if(sentKr)sentParts.push('<p>🇰🇷 한국: 지수 '+sentKr.index+' ('+sentKr.trend+') — '+(sentKr.summary?sentKr.summary.slice(0,60):'')+'</p>');
+  if(sentKr)sentParts.push('<p><span style="display:inline-block;padding:1px 6px;border-radius:4px;background:var(--kr-soft);color:var(--kr);font-size:10px;font-weight:700;margin-right:6px">KR</span>한국: 지수 '+sentKr.index+' ('+sentKr.trend+') — '+(sentKr.summary?sentKr.summary.slice(0,60):'')+'</p>');
   if(sentCn&&Object.keys(SCN).some(function(k){return k.indexOf(gameName.slice(0,3))>=0||gameName.indexOf(k.slice(0,3))>=0})){
     var cnKey=Object.keys(SCN).find(function(k){return k.indexOf(gameName.slice(0,3))>=0||gameName.indexOf(k.slice(0,3))>=0});
     if(cnKey){
       var cnD=SCN[cnKey];
-      sentParts.push('<p>🇨🇳 중국: 지수 '+cnD.index+' ('+cnD.trend+') — '+(cnD.summary?cnD.summary.slice(0,60):'')+'</p>');
+      sentParts.push('<p><span style="display:inline-block;padding:1px 6px;border-radius:4px;background:var(--cn-soft);color:var(--cn);font-size:10px;font-weight:700;margin-right:6px">CN</span>중국: 지수 '+cnD.index+' ('+cnD.trend+') — '+(cnD.summary?cnD.summary.slice(0,60):'')+'</p>');
     }
   }
-  if(sentJp)sentParts.push('<p>🇯🇵 일본: 지수 '+(sentJp.index||'?')+' ('+(sentJp.trend||'?')+') — '+(sentJp.summary?sentJp.summary.slice(0,60):'')+'</p>');
+  if(sentJp)sentParts.push('<p><span style="display:inline-block;padding:1px 6px;border-radius:4px;background:var(--jp-soft);color:var(--jp);font-size:10px;font-weight:700;margin-right:6px">JP</span>일본: 지수 '+(sentJp.index||'?')+' ('+(sentJp.trend||'?')+') — '+(sentJp.summary?sentJp.summary.slice(0,60):'')+'</p>');
   if(!sentParts.length)sentParts.push('<p style="color:var(--t3)">데이터 없음</p>');
   document.getElementById('modal-sentiment').innerHTML=sentParts.join('');
 
@@ -1264,7 +1415,7 @@ function openModal(gameName){
   var vidParts=[];
   if(biliData&&!isKoreanGame(gameName)){
     var topVidsB=biliData.top_videos||[];
-    vidParts.push('<div style="margin-bottom:8px"><strong>🇨🇳 Bilibili</strong> — '+(biliData.quality_videos||0)+'영상, '+fmt(biliData.total_plays||0)+'재생, '+fmt(biliData.total_comments||0)+'댓글</div>');
+    vidParts.push('<div style="margin-bottom:8px"><strong><span style="display:inline-block;padding:1px 6px;border-radius:4px;background:var(--cn-soft);color:var(--cn);font-size:10px;font-weight:700;margin-right:6px">CN</span>Bilibili</strong> — '+(biliData.quality_videos||0)+'영상, '+fmt(biliData.total_plays||0)+'재생, '+fmt(biliData.total_comments||0)+'댓글</div>');
     if(topVidsB.length){
       vidParts.push('<div style="font-size:12px;margin-left:8px">');
       topVidsB.forEach(function(v){
@@ -1279,7 +1430,7 @@ function openModal(gameName){
   }
   if(ytData){
     var topVidsY=ytData.top_videos||[];
-    vidParts.push('<div style="margin-top:8px"><strong>🇰🇷 YouTube</strong> — '+(ytData.total_videos||ytData.quality_videos||0)+'영상, '+fmt(ytData.total_views||ytData.total_plays||0)+'조회</div>');
+    vidParts.push('<div style="margin-top:8px"><strong><span style="display:inline-block;padding:1px 6px;border-radius:4px;background:var(--kr-soft);color:var(--kr);font-size:10px;font-weight:700;margin-right:6px">KR</span>YouTube</strong> — '+(ytData.total_videos||ytData.quality_videos||0)+'영상, '+fmt(ytData.total_views||ytData.total_plays||0)+'조회</div>');
     if(topVidsY.length){
       vidParts.push('<div style="font-size:12px;margin-left:8px">');
       topVidsY.forEach(function(v){
@@ -1325,7 +1476,7 @@ function setInfCountry(c,el){
     var subText=sub>=10000?(sub/10000).toFixed(1)+'만':sub.toLocaleString();
     var url=i.channel_url||i.url||'';
     var platform=i.platform||'YouTube';
-    var platIcon=platform==='Bilibili'?'📺':'▶️';
+    var platIcon='';
     var nameHTML=url?('<a href="'+url+'" target="_blank" style="color:var(--accent);text-decoration:none">'+name+'</a>'):name;
     return '<tr><td>'+platIcon+' '+nameHTML+'</td><td>'+platform+'</td><td style="font-weight:600">'+subText+'</td><td>'+(i.category||'게임')+'</td></tr>';
   });
@@ -1334,15 +1485,39 @@ function setInfCountry(c,el){
 
 // ===== 초기 로드 =====
 loadOverview();
+// 헤더 업데이트 시간 동적 표시 (데이터 갱신시간 + 로드시간)
+(function(){
+  var utEl=document.getElementById('update-time');
+  if(utEl){
+    var parts=[];
+    // 소프트콘 실시간 데이터 갱신시간이 있으면 표시
+    if(typeof SOFTC!=='undefined'&&SOFTC&&SOFTC.fetched){
+      var fd=new Date(SOFTC.fetched);
+      parts.push('데이터 '+fd.toLocaleString('ko-KR',{month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit'}));
+    }
+    // 페이지 로드 시간
+    var now=new Date();
+    parts.push('로드 '+now.toLocaleTimeString('ko-KR',{hour:'2-digit',minute:'2-digit'}));
+    utEl.textContent=parts.join(' · ');
+  }
+})();
 
-// ===== 광고 슬롯 =====
+// ===== 광고 슬롯 (placeholder — 승인 전까지 숨김) =====
 function initAds(){
+  // AdSense ID가 placeholder 상태이므로 광고 슬롯을 숨김 처리.
+  // 실제 발행자 ID 발급 후 아래 주석 해제하여 활성화.
+  ['ad-sidebar','ad-bottom'].forEach(function(id){
+    var el=document.getElementById(id);
+    if(el)el.style.display='none';
+  });
+  /* var AD_CLIENT='ca-pub-XXXXXXXXXXXXXXXX';
   ['ad-sidebar','ad-bottom'].forEach(function(id){
     var el=document.getElementById(id);
     if(!el||typeof adsbygoogle==='undefined')return;
-    el.innerHTML='<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-XXXXXXXXXXXXXXXX" data-ad-slot="'+(id==='ad-sidebar'?'1111111111':'2222222222')+'" data-ad-format="auto" data-full-width-responsive="true"></ins>';
+    el.style.display='';
+    el.innerHTML='<ins class="adsbygoogle" style="display:block" data-ad-client="'+AD_CLIENT+'" data-ad-slot="'+(id==='ad-sidebar'?'1111111111':'2222222222')+'" data-ad-format="auto" data-full-width-responsive="true"></ins>';
     (adsbygoogle=window.adsbygoogle||[]).push({});
-  });
+  }); */
 }
 document.addEventListener('DOMContentLoaded',function(){try{initAds()}catch(e){}});
 </script>
