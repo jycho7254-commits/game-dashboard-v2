@@ -1,0 +1,1015 @@
+[
+  {
+    "game": "SOL: enchant",
+    "country": "kr",
+    "types": [
+      "바이럴",
+      "OOH/오프라인",
+      "콜라보"
+    ],
+    "viral": true,
+    "ua_ad": false,
+    "offline": true,
+    "collab": true,
+    "kol": false,
+    "detail": "바이럴, OOH/오프라인, 콜라보, (넷마블 대형 신작, 성수동 팝업스토어, 지하철 광고, 브랜드 콜라보)",
+    "scale": "대",
+    "score": 22
+  },
+  {
+    "game": "오딘: 발할라 라이징",
+    "country": "kr",
+    "types": [
+      "OOH/오프라인",
+      "콜라보",
+      "KOL/인플루언서"
+    ],
+    "viral": false,
+    "ua_ad": false,
+    "offline": true,
+    "collab": true,
+    "kol": true,
+    "detail": "OOH/오프라인, 콜라보, KOL/인플루언서, (카카오게임즈, 지하철/OOH 대규모, 다이소 콜라보, 유튜버 협찬)",
+    "scale": "대",
+    "score": 22
+  },
+  {
+    "game": "WOS: 화이트아웃 서바이벌",
+    "country": "kr",
+    "types": [],
+    "viral": false,
+    "ua_ad": false,
+    "offline": false,
+    "collab": false,
+    "kol": false,
+    "detail": "(센추리게임즈, 글로벌 UA 집중)",
+    "scale": "소",
+    "score": 0
+  },
+  {
+    "game": "리니지M",
+    "country": "kr",
+    "types": [
+      "OOH/오프라인",
+      "KOL/인플루언서"
+    ],
+    "viral": false,
+    "ua_ad": false,
+    "offline": true,
+    "collab": false,
+    "kol": true,
+    "detail": "OOH/오프라인, KOL/인플루언서, (엔씨소프트, 지하철 광고, 유튜버 협찬)",
+    "scale": "대",
+    "score": 15
+  },
+  {
+    "game": "킹샷:Kingshot",
+    "country": "kr",
+    "types": [],
+    "viral": false,
+    "ua_ad": false,
+    "offline": false,
+    "collab": false,
+    "kol": false,
+    "detail": "(센추리게임즈 신작, UA 집중)",
+    "scale": "소",
+    "score": 0
+  },
+  {
+    "game": "마비노기 모바일",
+    "country": "kr",
+    "types": [
+      "OOH/오프라인",
+      "콜라보",
+      "KOL/인플루언서"
+    ],
+    "viral": false,
+    "ua_ad": false,
+    "offline": true,
+    "collab": true,
+    "kol": true,
+    "detail": "OOH/오프라인, 콜라보, KOL/인플루언서, (넥슨 대형 신작, 팝업스토어, 지하철 광고, 브랜드 콜라보, 유튜버 협찬)",
+    "scale": "대",
+    "score": 22
+  },
+  {
+    "game": "로얄 매치 Royal Match",
+    "country": "kr",
+    "types": [
+      "바이럴",
+      "KOL/인플루언서"
+    ],
+    "viral": true,
+    "ua_ad": false,
+    "offline": false,
+    "collab": false,
+    "kol": true,
+    "detail": "바이럴, KOL/인플루언서, (드림게임즈, 글로벌 UA 집중)",
+    "scale": "중",
+    "score": 10
+  },
+  {
+    "game": "메이플 키우기",
+    "country": "kr",
+    "types": [
+      "UA광고"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": false,
+    "collab": false,
+    "kol": false,
+    "detail": "UA광고, (넥슨, Google Play UA)",
+    "scale": "소",
+    "score": 3
+  },
+  {
+    "game": "라스트 워: 서바이벌",
+    "country": "kr",
+    "types": [
+      "바이럴",
+      "KOL/인플루언서"
+    ],
+    "viral": true,
+    "ua_ad": false,
+    "offline": false,
+    "collab": false,
+    "kol": true,
+    "detail": "바이럴, KOL/인플루언서, (퍼스트펀, 글로벌 UA 집중)",
+    "scale": "중",
+    "score": 10
+  },
+  {
+    "game": "가십하버: 합성 & 스토리 게임",
+    "country": "kr",
+    "types": [
+      "UA광고",
+      "바이럴",
+      "KOL/인플루언서"
+    ],
+    "viral": true,
+    "ua_ad": true,
+    "offline": false,
+    "collab": false,
+    "kol": true,
+    "detail": "UA광고, 바이럴, KOL/인플루언서, (마이크로펀, 바이럴+KOL+UA 다채널)",
+    "scale": "중",
+    "score": 13
+  },
+  {
+    "game": "로블록스 (Roblox)",
+    "country": "kr",
+    "types": [
+      "바이럴",
+      "콜라보",
+      "KOL/인플루언서"
+    ],
+    "viral": true,
+    "ua_ad": false,
+    "offline": false,
+    "collab": true,
+    "kol": true,
+    "detail": "바이럴, 콜라보, KOL/인플루언서, (로블록스, 브랜드 콜라보 다수)",
+    "scale": "대",
+    "score": 17
+  },
+  {
+    "game": "명조:워더링 웨이브 × 사이버펑크 콜라보",
+    "country": "kr",
+    "types": [
+      "OOH/오프라인",
+      "콜라보",
+      "KOL/인플루언서"
+    ],
+    "viral": false,
+    "ua_ad": false,
+    "offline": true,
+    "collab": true,
+    "kol": true,
+    "detail": "OOH/오프라인, 콜라보, KOL/인플루언서, (쿠로게임즈, 사이버펑크 콜라보, 지하철 광고, 유튜버 협찬)",
+    "scale": "대",
+    "score": 22
+  },
+  {
+    "game": "승리의 여신: 니케",
+    "country": "kr",
+    "types": [
+      "OOH/오프라인",
+      "콜라보",
+      "KOL/인플루언서"
+    ],
+    "viral": false,
+    "ua_ad": false,
+    "offline": true,
+    "collab": true,
+    "kol": true,
+    "detail": "OOH/오프라인, 콜라보, KOL/인플루언서, (시프트업/레벨인피니트, 지하철 광고, 브랜드 콜라보, 유튜버 협찬)",
+    "scale": "대",
+    "score": 22
+  },
+  {
+    "game": "운빨존많겜",
+    "country": "kr",
+    "types": [
+      "UA광고"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": false,
+    "collab": false,
+    "kol": false,
+    "detail": "UA광고, (일일퍼센트, Google Play UA)",
+    "scale": "소",
+    "score": 3
+  },
+  {
+    "game": "Limbus Company",
+    "country": "kr",
+    "types": [
+      "바이럴",
+      "KOL/인플루언서"
+    ],
+    "viral": true,
+    "ua_ad": false,
+    "offline": false,
+    "collab": false,
+    "kol": true,
+    "detail": "바이럴, KOL/인플루언서, (프로젝트문, 유튜브 광고 영상)",
+    "scale": "중",
+    "score": 10
+  },
+  {
+    "game": "트릭컬 리바이브",
+    "country": "kr",
+    "types": [
+      "UA광고",
+      "바이럴",
+      "KOL/인플루언서"
+    ],
+    "viral": true,
+    "ua_ad": true,
+    "offline": false,
+    "collab": false,
+    "kol": true,
+    "detail": "UA광고, 바이럴, KOL/인플루언서, (에피드게임즈, 바이럴+KOL+UA)",
+    "scale": "중",
+    "score": 13
+  },
+  {
+    "game": "씨사이드 익스케이프: 합성 & 스토리 게임",
+    "country": "kr",
+    "types": [
+      "바이럴"
+    ],
+    "viral": true,
+    "ua_ad": false,
+    "offline": false,
+    "collab": false,
+    "kol": false,
+    "detail": "바이럴, (마이크로펀, 네이버 블로그 바이럴)",
+    "scale": "중",
+    "score": 5
+  },
+  {
+    "game": "라스트 Z: 서바이벌 슈터",
+    "country": "kr",
+    "types": [
+      "바이럴",
+      "KOL/인플루언서"
+    ],
+    "viral": true,
+    "ua_ad": false,
+    "offline": false,
+    "collab": false,
+    "kol": true,
+    "detail": "바이럴, KOL/인플루언서, (오므니로조, 유튜브 광고)",
+    "scale": "중",
+    "score": 10
+  },
+  {
+    "game": "라스트 어사일럼: 페스트",
+    "country": "kr",
+    "types": [
+      "바이럴"
+    ],
+    "viral": true,
+    "ua_ad": false,
+    "offline": false,
+    "collab": false,
+    "kol": false,
+    "detail": "바이럴, (삼십칠게임즈, 네이버 블로그 바이럴)",
+    "scale": "중",
+    "score": 5
+  },
+  {
+    "game": "꿈의 정원 (Gardenscapes)",
+    "country": "kr",
+    "types": [
+      "바이럴",
+      "KOL/인플루언서"
+    ],
+    "viral": true,
+    "ua_ad": false,
+    "offline": false,
+    "collab": false,
+    "kol": true,
+    "detail": "바이럴, KOL/인플루언서, (플레이릭스, 유튜브 광고+UA)",
+    "scale": "중",
+    "score": 10
+  },
+  {
+    "game": "王者荣耀",
+    "country": "cn",
+    "types": [
+      "UA광고",
+      "KOL/인플루언서",
+      "브랜딩",
+      "OOH/오프라인"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": true,
+    "collab": true,
+    "kol": true,
+    "detail": "UA광고, KOL/인플루언서, 브랜딩, OOH/오프라인, (텐센트 flaghip, 자오리잉/양양 셀럽 엔도스, TVC+OOH+게임 내 콘서트, 연간 수십억 마케팅)",
+    "scale": "대",
+    "score": 22
+  },
+  {
+    "game": "三角洲行动",
+    "country": "cn",
+    "types": [
+      "UA광고",
+      "KOL/인플루언서",
+      "브랜딩",
+      "OOH/오프라인"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": true,
+    "collab": true,
+    "kol": true,
+    "detail": "UA광고, KOL/인플루언서, 브랜딩, OOH/오프라인, (텐센트 신작 FPS, 대규모 UA+KOL+브랜딩, 빌리빌리/더우인 집중)",
+    "scale": "대",
+    "score": 22
+  },
+  {
+    "game": "和平精英",
+    "country": "cn",
+    "types": [
+      "UA광고",
+      "KOL/인플루언서",
+      "브랜딩",
+      "OOH/오프라인"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": true,
+    "collab": true,
+    "kol": true,
+    "detail": "UA광고, KOL/인플루언서, 브랜딩, OOH/오프라인, (텐센트 PUBG M, 셀럽 엔도스, e스포츠, OOH 대규모)",
+    "scale": "대",
+    "score": 22
+  },
+  {
+    "game": "梦幻西游",
+    "country": "cn",
+    "types": [
+      "UA광고",
+      "KOL/인플루언서",
+      "브랜딩",
+      "OOH/오프라인"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": true,
+    "collab": true,
+    "kol": true,
+    "detail": "UA광고, KOL/인플루언서, 브랜딩, OOH/오프라인, (네트이즈 장수 IP, 브랜딩+콜라보, 지속적 KOL 마케팅)",
+    "scale": "대",
+    "score": 22
+  },
+  {
+    "game": "无尽冬日",
+    "country": "cn",
+    "types": [
+      "UA광고",
+      "KOL/인플루언서",
+      "브랜딩",
+      "OOH/오프라인"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": true,
+    "collab": true,
+    "kol": true,
+    "detail": "UA광고, KOL/인플루언서, 브랜딩, OOH/오프라인, (Whiteout Survival 중국판, 대규모 UA+KOL, 더우인/빌리빌리 집중)",
+    "scale": "대",
+    "score": 22
+  },
+  {
+    "game": "三国杀",
+    "country": "cn",
+    "types": [
+      "UA광고",
+      "KOL/인플루언서",
+      "브랜딩"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": false,
+    "collab": true,
+    "kol": true,
+    "detail": "UA광고, KOL/인플루언서, 브랜딩, (유카 인기 카드게임, KOL+브랜딩, e스포츠)",
+    "scale": "중",
+    "score": 12
+  },
+  {
+    "game": "开心消消乐",
+    "country": "cn",
+    "types": [
+      "UA광고",
+      "브랜딩"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": false,
+    "collab": true,
+    "kol": false,
+    "detail": "UA광고, 브랜딩, (레위안 대형 매치3, 대규모 UA, TVC)",
+    "scale": "중",
+    "score": 7
+  },
+  {
+    "game": "无畏契约：源能行动",
+    "country": "cn",
+    "types": [
+      "UA광고",
+      "KOL/인플루언서",
+      "브랜딩"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": false,
+    "collab": true,
+    "kol": true,
+    "detail": "UA광고, KOL/인플루언서, 브랜딩, (텐센트 발로란트 모바일, KOL+e스포츠+브랜딩)",
+    "scale": "중",
+    "score": 12
+  },
+  {
+    "game": "蛋仔派对",
+    "country": "cn",
+    "types": [
+      "UA광고",
+      "KOL/인플루언서",
+      "브랜딩",
+      "OOH/오프라인"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": true,
+    "collab": true,
+    "kol": true,
+    "detail": "UA광고, KOL/인플루언서, 브랜딩, OOH/오프라인, (네트이즈 파티게임, 대규모 KOL+UA, 오프라인 이벤트)",
+    "scale": "대",
+    "score": 22
+  },
+  {
+    "game": "金铲铲之战",
+    "country": "cn",
+    "types": [
+      "UA광고",
+      "KOL/인플루언서",
+      "브랜딩"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": false,
+    "collab": true,
+    "kol": true,
+    "detail": "UA광고, KOL/인플루언서, 브랜딩, (텐센트 TFT 모바일, KOL+e스포츠+브랜딩)",
+    "scale": "중",
+    "score": 12
+  },
+  {
+    "game": "捕鱼大作战-街机打鱼游戏王者",
+    "country": "cn",
+    "types": [
+      "UA광고"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": false,
+    "collab": false,
+    "kol": false,
+    "detail": "UA광고, (투유 어류게임, UA 집중)",
+    "scale": "소",
+    "score": 3
+  },
+  {
+    "game": "向僵尸开炮-尸潮来袭",
+    "country": "cn",
+    "types": [
+      "UA광고",
+      "KOL/인플루언서"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": false,
+    "collab": false,
+    "kol": true,
+    "detail": "UA광고, KOL/인플루언서, (좀비 서바이벌, 더우인 KOL+UA)",
+    "scale": "중",
+    "score": 8
+  },
+  {
+    "game": "FC足球世界-杯赛",
+    "country": "cn",
+    "types": [
+      "UA광고",
+      "KOL/인플루언서",
+      "브랜딩"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": false,
+    "collab": true,
+    "kol": true,
+    "detail": "UA광고, KOL/인플루언서, 브랜딩, (텐센트 FIFA 모바일, KOL+브랜딩+e스포츠)",
+    "scale": "중",
+    "score": 12
+  },
+  {
+    "game": "原神·空月之歌",
+    "country": "cn",
+    "types": [
+      "UA광고",
+      "KOL/인플루언서",
+      "브랜딩",
+      "OOH/오프라인"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": true,
+    "collab": true,
+    "kol": true,
+    "detail": "UA광고, KOL/인플루언서, 브랜딩, OOH/오프라인, (미하요 원신 중국판, 대규모 브랜딩+콜라보+OOH)",
+    "scale": "대",
+    "score": 22
+  },
+  {
+    "game": "我的花园世界",
+    "country": "cn",
+    "types": [
+      "UA광고"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": false,
+    "collab": false,
+    "kol": false,
+    "detail": "UA광고, (소형 매치3, UA 집중)",
+    "scale": "소",
+    "score": 3
+  },
+  {
+    "game": "腾讯欢乐斗地主",
+    "country": "cn",
+    "types": [
+      "UA광고",
+      "브랜딩"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": false,
+    "collab": true,
+    "kol": false,
+    "detail": "UA광고, 브랜딩, (텐센트 투地主, 브랜딩+UA)",
+    "scale": "중",
+    "score": 7
+  },
+  {
+    "game": "部落冲突（Clash of Clans）",
+    "country": "cn",
+    "types": [
+      "UA광고",
+      "KOL/인플루언서",
+      "브랜딩"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": false,
+    "collab": true,
+    "kol": true,
+    "detail": "UA광고, KOL/인플루언서, 브랜딩, (텐센트 Coc 중국판, KOL+브랜딩+e스포츠)",
+    "scale": "중",
+    "score": 12
+  },
+  {
+    "game": "时尚百货城",
+    "country": "cn",
+    "types": [
+      "UA광고"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": false,
+    "collab": false,
+    "kol": false,
+    "detail": "UA광고, (소형 경영게임, UA 집중)",
+    "scale": "소",
+    "score": 3
+  },
+  {
+    "game": "火影忍者",
+    "country": "cn",
+    "types": [
+      "UA광고",
+      "KOL/인플루언서",
+      "브랜딩"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": false,
+    "collab": true,
+    "kol": true,
+    "detail": "UA광고, KOL/인플루언서, 브랜딩, (텐센트 나루토 모바일, IP 브랜딩+KOL)",
+    "scale": "중",
+    "score": 12
+  },
+  {
+    "game": "第五人格",
+    "country": "cn",
+    "types": [
+      "UA광고",
+      "KOL/인플루언서",
+      "브랜딩"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": false,
+    "collab": true,
+    "kol": true,
+    "detail": "UA광고, KOL/인플루언서, 브랜딩, (네트이즈 Identity V, KOL+브랜딩+콜라보)",
+    "scale": "중",
+    "score": 12
+  },
+  {
+    "game": "Genshin Impact",
+    "country": "jp",
+    "types": [
+      "TV광고",
+      "UA광고",
+      "KOL/인플루언서",
+      "콜라보",
+      "브랜딩"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": true,
+    "collab": true,
+    "kol": true,
+    "detail": "TV광고, UA광고, KOL/인플루언서, 콜라보, 브랜딩, (미하요, TV 애니메 광고+UA+KOL+브랜드 콜라보(우논, 로손)+대규모 브랜딩)",
+    "scale": "대",
+    "score": 24
+  },
+  {
+    "game": "GODDESS OF VICTORY: NIKKE",
+    "country": "jp",
+    "types": [
+      "TV광고",
+      "UA광고",
+      "KOL/인플루언서",
+      "콜라보",
+      "브랜딩"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": true,
+    "collab": true,
+    "kol": true,
+    "detail": "TV광고, UA광고, KOL/인플루언서, 콜라보, 브랜딩, (시프트업/레벨인피니트, TV광고+대규모 UA+KOL+콜라보(닛케, 롯데))",
+    "scale": "대",
+    "score": 24
+  },
+  {
+    "game": "Fate/Grand Order",
+    "country": "jp",
+    "types": [
+      "TV광고",
+      "KOL/인플루언서",
+      "콜라보",
+      "브랜딩"
+    ],
+    "viral": false,
+    "ua_ad": false,
+    "offline": true,
+    "collab": true,
+    "kol": true,
+    "detail": "TV광고, KOL/인플루언서, 콜라보, 브랜딩, (애니플렉스, TV 애니메 광고+KOL+콜라보(우논, Lawson)+장기 브랜딩)",
+    "scale": "대",
+    "score": 21
+  },
+  {
+    "game": "ウマ娘 プリティーダービー",
+    "country": "jp",
+    "types": [
+      "TV광고",
+      "UA광고",
+      "KOL/인플루언서",
+      "콜라보",
+      "브랜딩"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": true,
+    "collab": true,
+    "kol": true,
+    "detail": "TV광고, UA광고, KOL/인플루언서, 콜라보, 브랜딩, (사이게임즈, TV 애니메+대규모 브랜딩+콜라보(우논, JA전농)+KOL)",
+    "scale": "대",
+    "score": 24
+  },
+  {
+    "game": "Pokémon GO",
+    "country": "jp",
+    "types": [
+      "TV광고",
+      "UA광고",
+      "KOL/인플루언서",
+      "콜라보",
+      "브랜딩"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": true,
+    "collab": true,
+    "kol": true,
+    "detail": "TV광고, UA광고, KOL/인플루언서, 콜라보, 브랜딩, (나이앤틱, TV광고+글로벌 브랜드+콜라보(McDonald's, Starbucks)+KOL)",
+    "scale": "대",
+    "score": 24
+  },
+  {
+    "game": "モンスターストライク",
+    "country": "jp",
+    "types": [
+      "TV광고",
+      "UA광고",
+      "KOL/인플루언서",
+      "콜라보",
+      "브랜딩"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": true,
+    "collab": true,
+    "kol": true,
+    "detail": "TV광고, UA광고, KOL/인플루언서, 콜라보, 브랜딩, (믹시/XFLAG, TV광고 대규모+콜라보(유니버설, 우논)+KOL+브랜딩)",
+    "scale": "대",
+    "score": 24
+  },
+  {
+    "game": "Last War:Survival Game",
+    "country": "jp",
+    "types": [
+      "TV광고",
+      "UA광고",
+      "KOL/인플루언서"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": true,
+    "collab": false,
+    "kol": true,
+    "detail": "TV광고, UA광고, KOL/인플루언서, (FUNFLY, TV광고+대규모 UA+KOL)",
+    "scale": "중",
+    "score": 13
+  },
+  {
+    "game": "Whiteout Survival",
+    "country": "jp",
+    "types": [
+      "UA광고",
+      "KOL/인플루언서"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": false,
+    "collab": false,
+    "kol": true,
+    "detail": "UA광고, KOL/인플루언서, (센추리게임즈, 대규모 UA+KOL)",
+    "scale": "중",
+    "score": 8
+  },
+  {
+    "game": "Puzzles & Survival",
+    "country": "jp",
+    "types": [
+      "UA광고",
+      "KOL/인플루언서"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": false,
+    "collab": false,
+    "kol": true,
+    "detail": "UA광고, KOL/인플루언서, (37GAMES, UA+KOL 집중)",
+    "scale": "중",
+    "score": 8
+  },
+  {
+    "game": "SDガンダム ジージェネレーション エターナル",
+    "country": "jp",
+    "types": [
+      "TV광고",
+      "UA광고",
+      "KOL/인플루언서",
+      "콜라보",
+      "브랜딩"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": true,
+    "collab": true,
+    "kol": true,
+    "detail": "TV광고, UA광고, KOL/인플루언서, 콜라보, 브랜딩, (반다이남코, TV 애니메 광고+콜라보+KOL+브랜딩)",
+    "scale": "대",
+    "score": 24
+  },
+  {
+    "game": "Gossip Harbor®: Merge & Story",
+    "country": "jp",
+    "types": [
+      "UA광고"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": false,
+    "collab": false,
+    "kol": false,
+    "detail": "UA광고, (마이크로펀, UA 집중)",
+    "scale": "소",
+    "score": 3
+  },
+  {
+    "game": "パズル＆ドラゴンズ(Puzzle & Dragons)",
+    "country": "jp",
+    "types": [
+      "TV광고",
+      "UA광고",
+      "KOL/인플루언서",
+      "콜라보",
+      "브랜딩"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": true,
+    "collab": true,
+    "kol": true,
+    "detail": "TV광고, UA광고, KOL/인플루언서, 콜라보, 브랜딩, (군호, TV광고+콜라보(우논, 몬스터스트라이크)+KOL+브랜딩)",
+    "scale": "대",
+    "score": 24
+  },
+  {
+    "game": "Royal Match",
+    "country": "jp",
+    "types": [
+      "TV광고",
+      "UA광고",
+      "KOL/인플루언서"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": true,
+    "collab": false,
+    "kol": true,
+    "detail": "TV광고, UA광고, KOL/인플루언서, (드림게임즈, TV광고+대규모 UA+KOL)",
+    "scale": "중",
+    "score": 13
+  },
+  {
+    "game": "eFootball™",
+    "country": "jp",
+    "types": [
+      "TV광고",
+      "UA광고",
+      "KOL/인플루언서",
+      "콜라보",
+      "브랜딩"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": true,
+    "collab": true,
+    "kol": true,
+    "detail": "TV광고, UA광고, KOL/인플루언서, 콜라보, 브랜딩, (코나미, TV광고+콜라보(유명 선수)+KOL+브랜딩)",
+    "scale": "대",
+    "score": 24
+  },
+  {
+    "game": "Wuthering Waves × Cyberpunk",
+    "country": "jp",
+    "types": [
+      "UA광고",
+      "KOL/인플루언서",
+      "콜라보",
+      "브랜딩"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": false,
+    "collab": true,
+    "kol": true,
+    "detail": "UA광고, KOL/인플루언서, 콜라보, 브랜딩, (쿠로게임즈, 사이버펑크 콜라보+UA+KOL+브랜딩)",
+    "scale": "대",
+    "score": 19
+  },
+  {
+    "game": "トゥーンブラスト (Toon Blast)",
+    "country": "jp",
+    "types": [
+      "UA광고"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": false,
+    "collab": false,
+    "kol": false,
+    "detail": "UA광고, (Peak, UA 집중)",
+    "scale": "소",
+    "score": 3
+  },
+  {
+    "game": "Shadowverse: Worlds Beyond",
+    "country": "jp",
+    "types": [
+      "TV광고",
+      "UA광고",
+      "KOL/인플루언서",
+      "콜라보",
+      "브랜딩"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": true,
+    "collab": true,
+    "kol": true,
+    "detail": "TV광고, UA광고, KOL/인플루언서, 콜라보, 브랜딩, (사이게임즈, TV광고+콜라보+KOL+브랜딩)",
+    "scale": "대",
+    "score": 24
+  },
+  {
+    "game": "LINE：ディズニー ツムツム",
+    "country": "jp",
+    "types": [
+      "TV광고",
+      "UA광고",
+      "KOL/인플루언서",
+      "콜라보",
+      "브랜딩"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": true,
+    "collab": true,
+    "kol": true,
+    "detail": "TV광고, UA광고, KOL/인플루언서, 콜라보, 브랜딩, (LINE, TV광고+디즈니 콜라보+KOL+브랜딩)",
+    "scale": "대",
+    "score": 24
+  },
+  {
+    "game": "Kingshot",
+    "country": "jp",
+    "types": [
+      "UA광고",
+      "KOL/인플루언서"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": false,
+    "collab": false,
+    "kol": true,
+    "detail": "UA광고, KOL/인플루언서, (센추리게임즈, UA+KOL)",
+    "scale": "중",
+    "score": 8
+  },
+  {
+    "game": "Pokémon TCG Pocket",
+    "country": "jp",
+    "types": [
+      "TV광고",
+      "UA광고",
+      "KOL/인플루언서",
+      "콜라보",
+      "브랜딩"
+    ],
+    "viral": false,
+    "ua_ad": true,
+    "offline": true,
+    "collab": true,
+    "kol": true,
+    "detail": "TV광고, UA광고, KOL/인플루언서, 콜라보, 브랜딩, (포켓몬컴퍼니, TV광고+브랜드 콜라보+KOL+대규모 브랜딩)",
+    "scale": "대",
+    "score": 24
+  }
+]

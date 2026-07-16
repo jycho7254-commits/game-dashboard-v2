@@ -1,0 +1,191 @@
+{
+  "学園アイドルマスター": {
+    "threads": [
+      {
+        "id": "1783488062",
+        "title": "1: 【学マス】学園アイドルマスター943限目  (181)",
+        "sentiment": "neutral"
+      }
+    ],
+    "positive": 0,
+    "negative": 0,
+    "neutral": 1,
+    "index": 50,
+    "trend": "보합",
+    "total": 1,
+    "summary": "5ch 1スレッド (긍정 0/부정 0)",
+    "5ch_samples": [
+      "1: 【学マス】学園アイドルマスター943限目  (181)"
+    ]
+  },
+  "FEH": {
+    "threads": [
+      {
+        "id": "1783421629",
+        "title": "3: 【FEH】 ファイアーエムブレムヒーローズpart9295  (947)",
+        "sentiment": "neutral"
+      }
+    ],
+    "positive": 0,
+    "negative": 0,
+    "neutral": 1,
+    "index": 50,
+    "trend": "보합",
+    "total": 1,
+    "summary": "5ch 1スレッド (긍정 0/부정 0)",
+    "5ch_samples": [
+      "3: 【FEH】 ファイアーエムブレムヒーローズpart9295  (947)"
+    ]
+  },
+  "FGO": {
+    "threads": [
+      {
+        "id": "1783334437",
+        "title": "4: Fate/Grand Order 超まったりスレ☆1439  (360)",
+        "sentiment": "neutral"
+      },
+      {
+        "id": "1778746479",
+        "title": "16: Fate/Grand Order 無課金ﾜｯﾁｮｲ無しスレ229  (872)",
+        "sentiment": "negative"
+      },
+      {
+        "id": "1783438388",
+        "title": "26: Fate/Grand Order まったりスレ6513  (131)",
+        "sentiment": "neutral"
+      }
+    ],
+    "positive": 0,
+    "negative": 1,
+    "neutral": 2,
+    "index": 0,
+    "trend": "下락",
+    "total": 3,
+    "summary": "5ch 3スレッド (긍정 0/부정 1)",
+    "5ch_samples": [
+      "4: Fate/Grand Order 超まったりスレ☆1439  (360)",
+      "16: Fate/Grand Order 無課金ﾜｯﾁｮｲ無しスレ229  (872)",
+      "26: Fate/Grand Order まったりスレ6513  (131)"
+    ]
+  },
+  "アイドルマスター": {
+    "threads": [
+      {
+        "id": "1783352240",
+        "title": "11: 【ミリシタ】アイドルマスターミリオンライブ！ シアターデイズ Part5439  (674)",
+        "sentiment": "neutral"
+      },
+      {
+        "id": "1782716947",
+        "title": "29: 【シャニソン】アイドルマスター シャイニーカラーズ Song for Prism★52  (194)",
+        "sentiment": "neutral"
+      }
+    ],
+    "positive": 0,
+    "negative": 0,
+    "neutral": 2,
+    "index": 50,
+    "trend": "보합",
+    "total": 2,
+    "summary": "5ch 2スレッド (긍정 0/부정 0)",
+    "5ch_samples": [
+      "11: 【ミリシタ】アイドルマスターミリオンライブ！ シアターデイズ Part5439  (674)",
+      "29: 【シャニソン】アイドルマスター シャイニーカラーズ Song for Prism★52  ("
+    ]
+  },
+  "ドールズフロントライン": {
+    "threads": [
+      {
+        "id": "1782079064",
+        "title": "17: 【少女前線】ドールズフロントラインPart1173【ドルフロ】  (598)",
+        "sentiment": "neutral"
+      }
+    ],
+    "positive": 0,
+    "negative": 0,
+    "neutral": 1,
+    "index": 50,
+    "trend": "보합",
+    "total": 1,
+    "summary": "5ch 1スレッド (긍정 0/부정 0)",
+    "5ch_samples": [
+      "17: 【少女前線】ドールズフロントラインPart1173【ドルフロ】  (598)"
+    ]
+  },
+  "ブレソル": {
+    "threads": [
+      {
+        "id": "1782210085",
+        "title": "18: 【ブレソル】BLEACH Brave Souls 破道の三百三十一  (269)",
+        "sentiment": "neutral"
+      }
+    ],
+    "positive": 0,
+    "negative": 0,
+    "neutral": 1,
+    "index": 50,
+    "trend": "보합",
+    "total": 1,
+    "summary": "5ch 1スレッド (긍정 0/부정 0)",
+    "5ch_samples": [
+      "18: 【ブレソル】BLEACH Brave Souls 破道の三百三十一  (269)"
+    ]
+  },
+  "レスレリアーナ": {
+    "threads": [
+      {
+        "id": "1782468489",
+        "title": "30: 【レスレリ】レスレリアーナのアトリエ&#65374;忘れられた錬金術と極夜の解放者&#65374; Part189  (400)",
+        "sentiment": "neutral"
+      }
+    ],
+    "positive": 0,
+    "negative": 0,
+    "neutral": 1,
+    "index": 50,
+    "trend": "보합",
+    "total": 1,
+    "summary": "5ch 1スレッド (긍정 0/부정 0)",
+    "5ch_samples": [
+      "30: 【レスレリ】レスレリアーナのアトリエ&#65374;忘れられた錬金術と極夜の解放者&#653"
+    ]
+  },
+  "原神": {
+    "threads": [
+      {
+        "id": "1775929328",
+        "title": "32: 原神総合スレ Part3808  (457)",
+        "sentiment": "positive"
+      }
+    ],
+    "positive": 1,
+    "negative": 0,
+    "neutral": 0,
+    "index": 100,
+    "trend": "상승",
+    "total": 1,
+    "summary": "5ch 1スレッド (긍정 1/부정 0)",
+    "5ch_samples": [
+      "32: 原神総合スレ Part3808  (457)"
+    ]
+  },
+  "クラッシュフィーバー": {
+    "threads": [
+      {
+        "id": "1772358156",
+        "title": "37: 【P不在】クラッシュフィーバーver.340【クラフィ】  (497)",
+        "sentiment": "neutral"
+      }
+    ],
+    "positive": 0,
+    "negative": 0,
+    "neutral": 1,
+    "index": 50,
+    "trend": "보합",
+    "total": 1,
+    "summary": "5ch 1スレッド (긍정 0/부정 0)",
+    "5ch_samples": [
+      "37: 【P不在】クラッシュフィーバーver.340【クラフィ】  (497)"
+    ]
+  }
+}
