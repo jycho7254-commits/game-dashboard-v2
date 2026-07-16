@@ -1,131 +1,37 @@
 {
   "platforms": [
     {
+      "rank": 1,
       "name": "치지직",
       "viewers": "최고 457,384명",
-      "channels": "4,409 채널",
+      "channels": "4,566 채널",
       "peak": "최고 457,384명",
       "link": "https://chzzk.naver.com/live"
     },
     {
+      "rank": 2,
       "name": "SOOP",
       "viewers": "최고 381,103명",
-      "channels": "3,628 채널",
+      "channels": "3,783 채널",
       "peak": "최고 381,103명",
       "link": "https://www.sooplive.com/live/ranking"
     },
     {
+      "rank": 3,
       "name": "씨미",
       "viewers": "최고 7,262명",
-      "channels": "73 채널",
+      "channels": "75 채널",
       "peak": "최고 7,262명",
       "link": "https://www.seemi.live/live"
     },
     {
+      "rank": 4,
       "name": "트위치",
       "viewers": "최고 5,007명",
-      "channels": "136 채널",
+      "channels": "143 채널",
       "peak": "최고 5,007명",
       "link": "https://www.twitch.tv/directory"
     }
   ],
-  "categories": [
-    {
-      "rank": 1,
-      "game": "리그 오브 레전드",
-      "viewers": "120,916명",
-      "channels": "244 채널"
-    },
-    {
-      "rank": 2,
-      "game": "마인크래프트",
-      "viewers": "47,448명",
-      "channels": "98 채널"
-    },
-    {
-      "rank": 3,
-      "game": "스타크래프트",
-      "viewers": "34,879명",
-      "channels": "170 채널"
-    },
-    {
-      "rank": 4,
-      "game": "talk",
-      "viewers": "33,505명",
-      "channels": "632 채널"
-    },
-    {
-      "rank": 5,
-      "game": "리그 오브 레전드",
-      "viewers": "29,427명",
-      "channels": "293 채널"
-    },
-    {
-      "rank": 6,
-      "game": "토크/캠방",
-      "viewers": "23,119명",
-      "channels": "284 채널"
-    },
-    {
-      "rank": 7,
-      "game": "버추얼",
-      "viewers": "22,077명",
-      "channels": "364 채널"
-    },
-    {
-      "rank": 8,
-      "game": "마인크래프트",
-      "viewers": "20,243명",
-      "channels": "79 채널"
-    },
-    {
-      "rank": 9,
-      "game": "팰월드",
-      "viewers": "16,559명",
-      "channels": "242 채널"
-    },
-    {
-      "rank": 10,
-      "game": "메이플스토리",
-      "viewers": "12,784명",
-      "channels": "121 채널"
-    },
-    {
-      "rank": 11,
-      "game": "Esports World Cup",
-      "viewers": "12,239명",
-      "channels": "3 채널"
-    },
-    {
-      "rank": 12,
-      "game": "림버스 컴퍼니",
-      "viewers": "9,665명",
-      "channels": "34 채널"
-    },
-    {
-      "rank": 13,
-      "game": "메이플스토리",
-      "viewers": "8,316명",
-      "channels": "144 채널"
-    },
-    {
-      "rank": 14,
-      "game": "로스트아크",
-      "viewers": "8,247명",
-      "channels": "224 채널"
-    },
-    {
-      "rank": 15,
-      "game": "PUBG: 배틀그라운드",
-      "viewers": "7,663명",
-      "channels": "445 채널"
-    },
-    {
-      "rank": 16,
-      "game": "서든어택",
-      "viewers": "7,655명",
-      "channels": "469 채널"
-    }
-  ],
-  "fetched": "2026-07-16T11:18:26.086Z"
+  "fetched": "2026-07-16T11:32:03.807Z"
 }
