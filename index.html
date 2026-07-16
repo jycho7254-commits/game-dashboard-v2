@@ -95,7 +95,7 @@ th,td{padding:5px 6px!important}.country-tabs{gap:4px}.ctab{padding:4px 10px;fon
 <div class="header">
 <h1 id="page-title">종합 현황</h1>
 <div style="display:flex;align-items:center;gap:8px">
-<span class="meta" id="update-time">2026-07-16 21:03</span>
+<span class="meta" id="update-time">2026-07-16 21:08</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 </div>
 </div>
@@ -382,12 +382,9 @@ let calSelectedDate=null;
 const CFLAGS={kr:'🇰🇷',cn:'🇨🇳',jp:'🇯🇵',all:'🌐'};
 const CNAMES={kr:'한국',cn:'중국',jp:'일본',all:'전체'};
 
-// ===== 게임 다국어 매핑 (KR/CN/JP) =====
-const GAME_I18N=window.GAME_I18N||{};
+// ===== 게임 다국어 매핑 (KR/CN/JP) — loadData에서 GAME_I18N 로드됨 =====
 
-// ===== DC 갤러리 ID 매핑 =====
-const DC_GAL_MAP=window.DC_GAL_MAP||{};
-const ARCA_SLUG_MAP=window.ARCA_SLUG_MAP||{};
+// ===== DC 갤러리 ID 매핑 — loadData에서 로드됨 =====
 
 // ===== 유틸 =====
 function getIcon(g){
