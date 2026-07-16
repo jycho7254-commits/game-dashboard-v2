@@ -95,7 +95,7 @@ th,td{padding:5px 6px!important}.country-tabs{gap:4px}.ctab{padding:4px 10px;fon
 <div class="header">
 <h1 id="page-title">종합 현황</h1>
 <div style="display:flex;align-items:center;gap:8px">
-<span class="meta" id="update-time">2026-07-16 20:42</span>
+<span class="meta" id="update-time">2026-07-16 20:43</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 </div>
 </div>
@@ -293,6 +293,11 @@ function loadData(callback){
   function fetchJSON(name,url,target,isArray){
     pending++;
     fetch(url).then(function(r){return r.json()}).then(function(d){
+      // rankings에 _c (국가코드) 추가
+      if(name==='GP'){d.forEach(function(g){g._c='kr'})}
+      else if(name==='CN'){d.forEach(function(g){g._c='cn'})}
+      else if(name==='JP'){d.forEach(function(g){g._c='jp'})}
+      
       if(name==='NEWS'){NEWS=NEWS.concat(d)}
       else if(isArray){window[name]=d}
       else{window[name]=d}
@@ -641,7 +646,7 @@ function renderRank(q){
   if(!tbody)return;
   var rows=games.slice(0,50).map(function(g){
     var gn=escAttr(g.local_name||g.title||'');
-    var iconHTML=g.icon?('<img src="'+g.icon+'" style="width:18px;height:18px;border-radius:3px;vertical-align:middle;margin-right:3px">'):'';
+    var iconHTML=g.icon?('<img src="'+getIcon(g)+'" style="width:18px;height:18px;border-radius:3px;vertical-align:middle;margin-right:3px" onerror="this.style.display=\'none\'">'):'';
     return '<tr onclick="openModal(\''+gn+'\')">'+
       '<td>'+(g.rank||'')+'</td>'+
       '<td>'+iconHTML+(g.local_name||g.title||'')+'</td>'+
