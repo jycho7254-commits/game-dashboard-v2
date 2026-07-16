@@ -95,7 +95,7 @@ th,td{padding:5px 6px!important}.country-tabs{gap:4px}.ctab{padding:4px 10px;fon
 <div class="header">
 <h1 id="page-title">종합 현황</h1>
 <div style="display:flex;align-items:center;gap:8px">
-<span class="meta" id="update-time">2026-07-16 21:19</span>
+<span class="meta" id="update-time">2026-07-16 21:22</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 </div>
 </div>
@@ -342,12 +342,7 @@ const CNAMES={kr:'한국',cn:'중국',jp:'일본',all:'전체'};
 // ===== 유틸 =====
 function getIcon(g){
   if(!g||!g.icon)return '';
-  // 로컬 아이콘이 있으면 사용, 없으면 CDN 폴백
-  var base=(window.location.hostname.includes('github.io')?'./data/icons/':'');
-  if(g.app_id){
-    var localName=(g._c||'kr')+'_'+g.app_id.replace(/\./g,'_').replace(/:/g,'_')+'.webp';
-    return base+localName;
-  }
+  // CDN URL 그대로 사용 (인라인 방식)
   return g.icon;
 }
 function fmt(n){
