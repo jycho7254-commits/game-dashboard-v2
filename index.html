@@ -95,7 +95,7 @@ th,td{padding:5px 6px!important}.country-tabs{gap:4px}.ctab{padding:4px 10px;fon
 <div class="header">
 <h1 id="page-title">종합 현황</h1>
 <div style="display:flex;align-items:center;gap:8px">
-<span class="meta" id="update-time">2026-07-16 20:37</span>
+<span class="meta" id="update-time">2026-07-16 20:42</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 </div>
 </div>
@@ -385,6 +385,16 @@ const DC_GAL_MAP=window.DC_GAL_MAP||{};
 const ARCA_SLUG_MAP=window.ARCA_SLUG_MAP||{};
 
 // ===== 유틸 =====
+function getIcon(g){
+  if(!g||!g.icon)return '';
+  // 로컬 아이콘이 있으면 사용, 없으면 CDN 폴백
+  var base=(window.location.hostname.includes('github.io')?'./data/icons/':'');
+  if(g.app_id){
+    var localName=(g._c||'kr')+'_'+g.app_id.replace(/\./g,'_').replace(/:/g,'_')+'.webp';
+    return base+localName;
+  }
+  return g.icon;
+}
 function fmt(n){
   if(n>=1e9)return(n/1e9).toFixed(1)+'B';
   if(n>=1e6)return(n/1e6).toFixed(1)+'M';
@@ -534,7 +544,7 @@ function loadOverview(){
     var topRows=displayData.slice(0,10).map(function(g){
       var rev=g.est_revenue_fmt||(g.est_revenue?'$'+(g.est_revenue/1e6).toFixed(1)+'M':'-');
       var flag=g._c==='kr'?'KR':g._c==='cn'?'CN':g._c==='jp'?'JP':'';
-      var iconHTML=g.icon?('<img src="'+g.icon+'" style="width:18px;height:18px;border-radius:3px;vertical-align:middle;margin-right:3px">'):'';
+      var iconHTML=g.icon?('<img src="'+getIcon(g)+'" style="width:18px;height:18px;border-radius:3px;vertical-align:middle;margin-right:3px" onerror="this.style.display=\'none\'">'):'';
       var gn=escAttr(g.local_name||g.title||'');
       return '<tr onclick="openModal(\''+gn+'\')"><td>'+(flag||g.rank||1)+'</td><td>'+iconHTML+(g.local_name||g.title||'')+'</td><td>'+(g.developer||'').slice(0,15)+'</td><td style="font-weight:600;color:var(--accent)">'+rev+'</td></tr>';
     });
