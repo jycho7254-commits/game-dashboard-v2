@@ -1,0 +1,6 @@
+# 작업 도구 / 임시 파일
+.superpowers/
+
+# 로컬 백업 파일
+*.backup-original
+*.bak
