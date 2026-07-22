@@ -29,7 +29,7 @@
       "link": "https://seemi.live"
     }
   ],
-  "fetched": "2026-07-22T16:20:18",
+  "fetched": "2026-07-22T16:20:27",
   "streamers": [
     {
       "rank": 1,
@@ -299,6 +299,14 @@
       "link": "https://chzzk.naver.com/live/20118256"
     },
     {
+      "name": "도읍지",
+      "viewers": 724,
+      "category": "로스트아크",
+      "title": "3시 로스피 본캐대결",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20118453"
+    },
+    {
       "name": "쫀지",
       "viewers": 641,
       "category": "로스트아크",
@@ -313,6 +321,14 @@
       "title": "밸런스 패치 보다가 오후3시 로스피 출격 (고정댓글) [로스트아크]",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20119774"
+    },
+    {
+      "name": "리연 L",
+      "viewers": 456,
+      "category": "로스트아크",
+      "title": "리퍼연구소",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20118161"
     },
     {
       "name": "쿠온 레이 Planeta",
@@ -339,28 +355,12 @@
       "link": "https://chzzk.naver.com/live/20117610"
     },
     {
-      "name": "코워드",
-      "viewers": 146,
-      "category": "로스트아크",
-      "title": "밸패볼게요 (스포 밴)",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20117895"
-    },
-    {
-      "name": "에땁01",
+      "name": "박진규02",
       "viewers": 103,
       "category": "오버워치",
-      "title": "오늘은 일 하는 날입니다. [방송 성실하게 키기 2일차]",
+      "title": "2주 노방종 시작 티어 올릴게요 ㅋ",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20120725"
-    },
-    {
-      "name": "김주선",
-      "viewers": 90,
-      "category": "게임",
-      "title": "아침의 행복 명조 방송 반갑습니다\n",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20117840"
+      "link": "https://chzzk.naver.com/live/20118080"
     },
     {
       "name": "텔론",
@@ -379,14 +379,6 @@
       "link": "https://chzzk.naver.com/live/20118349"
     },
     {
-      "name": "유히히",
-      "viewers": 67,
-      "category": "게임",
-      "title": "루실라 에필로그 보러가요~",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20117841"
-    },
-    {
       "name": "왓구홍길동",
       "viewers": 52,
       "category": "배틀그라운드",
@@ -403,12 +395,12 @@
       "link": "https://chzzk.naver.com/live/20122232"
     },
     {
-      "name": "파오니",
-      "viewers": 38,
-      "category": "로스트아크",
-      "title": "[카마인] 숙제 충전 완룡",
+      "name": "aileen1",
+      "viewers": 39,
+      "category": "오버워치",
+      "title": "안녕하세요",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20118370"
+      "link": "https://chzzk.naver.com/live/20120878"
     },
     {
       "name": "카오스조커",
@@ -419,28 +411,12 @@
       "link": "https://chzzk.naver.com/live/20119843"
     },
     {
-      "name": "단시하",
-      "viewers": 34,
-      "category": "발로란트",
-      "title": "폐관수련해서 불멸가기 1일차",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20118531"
-    },
-    {
       "name": "양거북",
       "viewers": 34,
       "category": "스타크래프트",
       "title": "「치지직 양영호」 굳데이 커맨더",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20120064"
-    },
-    {
-      "name": "프로겐",
-      "viewers": 28,
-      "category": "오버워치",
-      "title": "대회 준비 하겠습니다.",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20119822"
     },
     {
       "name": "강결",
@@ -467,6 +443,38 @@
       "link": "https://chzzk.naver.com/live/20119428"
     },
     {
+      "name": "진짜김꼬비",
+      "viewers": 22,
+      "category": "오버워치",
+      "title": "사라져버린 아나 모스트 1의 아나 실력",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20121835"
+    },
+    {
+      "name": "송쿤",
+      "viewers": 19,
+      "category": "발로란트",
+      "title": "[아토즈] 배치 봐야딩 ㅎ🎵",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20118337"
+    },
+    {
+      "name": "야린아",
+      "viewers": 18,
+      "category": "마인크래프트",
+      "title": "마크 힐링 야생 서버 (시참)~~",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20120693"
+    },
+    {
+      "name": "리네 Renee",
+      "viewers": 17,
+      "category": "오버워치",
+      "title": "[V신입]💕🦫다이아 여정까지! 3포지 1티어씩 2일차👉리플 신청 1+1/",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20121008"
+    },
+    {
       "name": "이청멍",
       "viewers": 17,
       "category": "로스트아크",
@@ -475,28 +483,12 @@
       "link": "https://chzzk.naver.com/live/20119674"
     },
     {
-      "name": "백도화님",
+      "name": "오일오",
       "viewers": 16,
-      "category": "롤",
-      "title": "롤대녀 등쟝",
+      "category": "로스트아크",
+      "title": "다시 또 로요일 ι(˙◁˙ )/ 차징두동 세팅하고 레이드가기",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20122397"
-    },
-    {
-      "name": "니츈",
-      "viewers": 16,
-      "category": "마인크래프트",
-      "title": "[V/냉면서버] 탈출하고 시퍼...",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20119296"
-    },
-    {
-      "name": "킴이슬",
-      "viewers": 15,
-      "category": "오버워치",
-      "title": "메르시폐관수련 ㅇㅅㅇ",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20120906"
+      "link": "https://chzzk.naver.com/live/20118678"
     },
     {
       "name": "보듬",
@@ -507,52 +499,28 @@
       "link": "https://chzzk.naver.com/live/20119688"
     },
     {
-      "name": "만만수o",
-      "viewers": 14,
-      "category": "롤",
-      "title": "[롤 5:5 내전] 내전 가보자잇",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20121051"
-    },
-    {
-      "name": "콧노래를니뇨니뇨",
-      "viewers": 14,
-      "category": "오버워치",
-      "title": "ฅ/ᐠ｡ ̮｡ᐟ\\ฅ 제트팩캣 훈수가 필요해...",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20121382"
-    },
-    {
-      "name": "레코드진",
-      "viewers": 14,
-      "category": "로스트아크",
-      "title": "쫀아~로아 레이드 빠르게 달려볼게요~",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20117862"
-    },
-    {
-      "name": "함희루",
-      "viewers": 14,
-      "category": "로스트아크",
-      "title": "모코코상담O/짚톡룰렛 2000) 타겟다운 300억?",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20117730"
-    },
-    {
-      "name": "감자마왕",
+      "name": "달래곤",
       "viewers": 13,
-      "category": "오버워치",
-      "title": "[신입] 힐 챔5 30만 미션 ㄷㄷ 두가장",
+      "category": "마인크래프트",
+      "title": "[마인밸리] 오늘은 농장을 좀 손볼거에용",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20119635"
+      "link": "https://chzzk.naver.com/live/20119549"
     },
     {
-      "name": "가D",
+      "name": "잠옷고양이",
+      "viewers": 13,
+      "category": "마인크래프트",
+      "title": "실친서버 야생",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20120431"
+    },
+    {
+      "name": "타마고 아치",
       "viewers": 13,
       "category": "로스트아크",
-      "title": "날짜감각 사라진 사람의 얼렁뚱땅 수요일 스타트",
+      "title": "쿠폰) 무신사와함께하는로생한컷",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20117932"
+      "link": "https://chzzk.naver.com/live/20118264"
     },
     {
       "name": "소오올빈",
@@ -579,12 +547,12 @@
       "link": "https://chzzk.naver.com/live/20120716"
     },
     {
-      "name": "이르딘 leeruedin",
-      "viewers": 11,
-      "category": "마인크래프트",
-      "title": "[빙고서버] 으아아아아!!빙고 다 채워 버리겠어!!!",
+      "name": "나츠냐",
+      "viewers": 10,
+      "category": "롤",
+      "title": "[데뷔20일차] 롤대녀 첫 등장",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20118804"
+      "link": "https://chzzk.naver.com/live/20122241"
     },
     {
       "name": "탑만감1",
@@ -593,6 +561,46 @@
       "title": "마인크래프트 하드코어 가볍게 깨기",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20122332"
+    },
+    {
+      "name": "천미",
+      "viewers": 10,
+      "category": "마인크래프트",
+      "title": "[ 냉면서버 ] 비키니 안입을꺼임💚",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20110078"
+    },
+    {
+      "name": "빵짱",
+      "viewers": 10,
+      "category": "마인크래프트",
+      "title": "쿨돌아온 마크 하드코어런 3클째 도전  ㄱ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20117925"
+    },
+    {
+      "name": "다른이",
+      "viewers": 10,
+      "category": "마인크래프트",
+      "title": "[냉면서버] 조금만놀다 공겜하러가요",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20120246"
+    },
+    {
+      "name": "용사 팽동호",
+      "viewers": 10,
+      "category": "마인크래프트",
+      "title": "유입환영) 용사 팽동호입니다~! 저녁까지 마크 깔짝하고 갈게요~!! [🧊",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20121158"
+    },
+    {
+      "name": "페잣",
+      "viewers": 10,
+      "category": "로스트아크",
+      "title": "로요일 패치내역 살피고 주간 숙제(천상+지옥+할모시) 미리 해놓기!",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20118265"
     },
     {
       "name": "문수 moonsu",
@@ -627,20 +635,20 @@
       "link": "https://chzzk.naver.com/live/20122107"
     },
     {
-      "name": "응시z",
+      "name": "신노스케입니다",
       "viewers": 9,
-      "category": "마인크래프트",
-      "title": "[빙고서버] 페이지 좀 늘려주세요  #딜 룰렛 맛집",
+      "category": "오버워치",
+      "title": "탱딜 폐관수련",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20118033"
+      "link": "https://chzzk.naver.com/live/20116686"
     },
     {
-      "name": "마이클 춘례",
+      "name": "치치설빛",
       "viewers": 9,
       "category": "마인크래프트",
-      "title": "[냉면서버] 벌칙시작!! 24시간 노방종 + 12시간 금연  탈출 = 벌",
+      "title": "[냉면서버]  나가거나 못나가거나 둘 중 하나 ",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20118604"
+      "link": "https://chzzk.naver.com/live/20120740"
     },
     {
       "name": "청남방TV",
@@ -649,6 +657,14 @@
       "title": "[로스트아크] 로요일",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20118778"
+    },
+    {
+      "name": "안정빈",
+      "viewers": 9,
+      "category": "로스트아크",
+      "title": "이길 수 없어서 합류했더니 바로 암흑기 시작",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20117556"
     },
     {
       "name": "루루ㅇ",
@@ -673,22 +689,6 @@
       "title": "{유입환영/맞팔환영} 비도오고 그래서 롤과 토크가 생각이났어 (시참)",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20120702"
-    },
-    {
-      "name": "김잉설",
-      "viewers": 8,
-      "category": "오버워치",
-      "title": "김뉴비! 오늘은 실버에 가도록 하겠습니다 [미션환영]",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20121543"
-    },
-    {
-      "name": "윰 또",
-      "viewers": 8,
-      "category": "마인크래프트",
-      "title": "[티아서버] 서버 1일차 뉴비",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20117819"
     }
   ],
   "categories": [
