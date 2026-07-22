@@ -29,7 +29,7 @@
       "link": "https://seemi.live"
     }
   ],
-  "fetched": "2026-07-23T02:47:08",
+  "fetched": "2026-07-23T02:47:40",
   "streamers": [
     {
       "rank": 1,
@@ -323,12 +323,28 @@
       "link": "https://chzzk.naver.com/live/20125314"
     },
     {
+      "name": "이로나묭 치카",
+      "viewers": 399,
+      "category": "오버워치",
+      "title": "메이를 배워. 개쩔지도 몰라",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20126210"
+    },
+    {
       "name": "쩡니예",
       "viewers": 380,
       "category": "로스트아크",
       "title": "11시 스커vs스커 딜빵 광말구와 ",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20126586"
+    },
+    {
+      "name": "윤산삼",
+      "viewers": 267,
+      "category": "오버워치",
+      "title": "탱커 마스터 찍으면 100만원!!!!",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20130169"
     },
     {
       "name": "연비니",
@@ -361,14 +377,6 @@
       "title": "🐾 최저 시급 건슬",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20129680"
-    },
-    {
-      "name": "나무늘보OW",
-      "viewers": 106,
-      "category": "오버워치",
-      "title": "[미션환영] 오늘은 그마갑니다 *티맞 3만, 피드백 4만!",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20131716"
     },
     {
       "name": "해보자시리즈",
@@ -419,6 +427,14 @@
       "link": "https://chzzk.naver.com/live/20133353"
     },
     {
+      "name": "문창식",
+      "viewers": 34,
+      "category": "오버워치",
+      "title": "창식) 창PT 신청 받습니다!",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20128281"
+    },
+    {
       "name": "김 호빵",
       "viewers": 32,
       "category": "로스트아크",
@@ -441,22 +457,6 @@
       "title": "랭킹1등 놀이 Chpater.2 : 부캐 랭킹2등 찍기 ",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20133292"
-    },
-    {
-      "name": "토돌 Todol",
-      "viewers": 26,
-      "category": "배틀그라운드",
-      "title": "토돌 배그",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20127519"
-    },
-    {
-      "name": "사나야",
-      "viewers": 25,
-      "category": "오버워치",
-      "title": "[27일] 짜짜잔 누가 돌아왔게 골드 등장 ",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20125248"
     },
     {
       "name": "별풍이",
@@ -507,20 +507,12 @@
       "link": "https://chzzk.naver.com/live/20134455"
     },
     {
-      "name": "세피람",
+      "name": "전홀리",
       "viewers": 21,
       "category": "오버워치",
-      "title": "진짜골드탈출가능?",
+      "title": "술 담배 그리고 그륩",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20129558"
-    },
-    {
-      "name": "수잔 헌트",
-      "viewers": 21,
-      "category": "배틀그라운드",
-      "title": "새치동 후열 배그 w. 생이, 최화분, 애불 / 배그 동아리 인원 모집 ",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20127325"
+      "link": "https://chzzk.naver.com/live/20127944"
     },
     {
       "name": "이소심",
@@ -555,14 +547,6 @@
       "link": "https://chzzk.naver.com/live/20129482"
     },
     {
-      "name": "이 채린",
-      "viewers": 16,
-      "category": "배틀그라운드",
-      "title": "후열 빵야",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20121416"
-    },
-    {
       "name": "스누피",
       "viewers": 15,
       "category": "게임",
@@ -571,12 +555,36 @@
       "link": "https://chzzk.naver.com/live/20126568"
     },
     {
+      "name": "무화 Moohwa",
+      "viewers": 15,
+      "category": "오버워치",
+      "title": "어디까지 내려가는 거예여↘? [근성 청년]",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20124229"
+    },
+    {
+      "name": "고망지",
+      "viewers": 15,
+      "category": "배틀그라운드",
+      "title": "옵치로 떨어트린 자존감 올리기",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20122618"
+    },
+    {
       "name": "냥히히",
       "viewers": 14,
       "category": "게임",
       "title": "명조 4막1장 주저리 있는편 /퇴사해서 월급은 없어졌지만 냥히히는 있따 ",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20129435"
+    },
+    {
+      "name": "백 도 아",
+      "viewers": 14,
+      "category": "배틀그라운드",
+      "title": "수요일은 주보데이 ( •̀ ω •́ )✧",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20126331"
     },
     {
       "name": "김태호a",
@@ -593,30 +601,6 @@
       "title": "공포게임하다가 못해먹겠어서 롤",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20129733"
-    },
-    {
-      "name": "에아 Eadesu",
-      "viewers": 12,
-      "category": "오버워치",
-      "title": "오바와치",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20131627"
-    },
-    {
-      "name": "헬릭스",
-      "viewers": 12,
-      "category": "배틀그라운드",
-      "title": "짧배그 [노방종룰렛25일차]",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20119058"
-    },
-    {
-      "name": "생이 saeng e",
-      "viewers": 12,
-      "category": "배틀그라운드",
-      "title": "[새치동]신입 받아라🐰w. 최화분, 수잔헌트, 애불",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20125264"
     },
     {
       "name": "하남잘",
@@ -659,14 +643,6 @@
       "link": "https://chzzk.naver.com/live/20128674"
     },
     {
-      "name": "유나욘",
-      "viewers": 10,
-      "category": "배틀그라운드",
-      "title": " 욘욘이가 왔어욘 (w. 에시르) q(≧▽≦q)",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20124725"
-    },
-    {
       "name": "슝슝폴짝",
       "viewers": 9,
       "category": "게임",
@@ -681,6 +657,30 @@
       "title": "명조 시작한지 백만년전 난 왜 아직도 1챕에서 끝을 내지 못하고 있는가 ",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20131495"
+    },
+    {
+      "name": "해령임둥",
+      "viewers": 9,
+      "category": "오버워치",
+      "title": "옵. (부계 50승을 위한 빠대 시참)",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20131422"
+    },
+    {
+      "name": "마이클 춘례",
+      "viewers": 9,
+      "category": "배틀그라운드",
+      "title": "잔베리스무디 ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20118604"
+    },
+    {
+      "name": "최화분",
+      "viewers": 9,
+      "category": "배틀그라운드",
+      "title": "[새치동] 신입부원과 같이 놀기 w. 묘린, 수잔 헌트, 생이 🥕ฅ₍ᐢ•",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20125888"
     },
     {
       "name": "배유니",
