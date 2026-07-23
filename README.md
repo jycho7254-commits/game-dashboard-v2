@@ -89,6 +89,38 @@ game_dashboard_v2/
 - **압축**: `json.dumps(data, ensure_ascii=False, separators=(',',':'))`로 경량화
 - **배포**: GitHub Pages (KR/CN 2개 repo)
 
+### 데이터 폴더 구조
+```
+data/
+├── rankings/           # 매출 순위
+│   ├── kr_rankings.json      # 한국 Top50
+│   ├── cn_rankings.json      # 중국 Top50
+│   └── jp_rankings.json      # 일본 Top50
+├── sentiment/          # 여론 데이터
+│   ├── kr_sentiment_full.json
+│   ├── cn_sentiment_full.json
+│   ├── jp_sentiment_full.json
+│   └── dc_sentiment_v2.json
+├── influencers/        # 인플루언서
+│   └── all_influencers.json
+├── media/              # 영상/뉴스/마케팅
+│   ├── yt_full_data.json
+│   ├── bilibili_data.json
+│   ├── kr_news.json
+│   ├── cn_news.json
+│   ├── jp_news.json
+│   └── all_marketing.json
+├── softc/              # 실시간 스트리밍
+│   ├── softc_data.json       # fetch 새로고침용
+│   └── chzzk_live.json
+├── icons/              # 아이콘 백업
+│   ├── icon_backup_kr.json
+│   ├── icon_backup_jp.json
+│   └── icon_backup_cn.json
+├── backup/             # 임시/중간 파일
+└── scripts/            # 데이터 수집 스크립트
+```
+
 ### 실시간 데이터
 - **치지직 API**: `api.chzzk.naver.com` (인증 없이 가능)
 - **SOOP**: 소프트콘 CDP 크롤링 (Chrome 9223 포트)
