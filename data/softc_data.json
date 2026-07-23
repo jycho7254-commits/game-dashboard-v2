@@ -29,7 +29,7 @@
       "link": "https://www.twitch.tv"
     }
   ],
-  "fetched": "2026-07-23T20:39:11",
+  "fetched": "2026-07-23T20:39:20",
   "streamers": [
     {
       "rank": 1,
@@ -379,14 +379,6 @@
       "link": "https://chzzk.naver.com/live/20146679"
     },
     {
-      "name": "정무밍",
-      "viewers": 77,
-      "category": "FC온라인",
-      "title": "찐신입! 오늘 세미프로 1부 가나용..?",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20146365"
-    },
-    {
       "name": "밍플이",
       "viewers": 74,
       "category": "로스트아크",
@@ -433,6 +425,14 @@
       "title": "ewc 팀전 대회 구경",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20141679"
+    },
+    {
+      "name": "딴비딴비",
+      "viewers": 35,
+      "category": "배틀그라운드",
+      "title": "밖에 너무 더워요 더워요 더워요 더워요 더워요 더워요 더워요 더워요 더워",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20140511"
     },
     {
       "name": "인피쉰INFISHIN",
@@ -547,12 +547,12 @@
       "link": "https://chzzk.naver.com/live/20145930"
     },
     {
-      "name": "채다미 DAMI",
+      "name": "판댜츄잉",
       "viewers": 17,
       "category": "마인크래프트",
-      "title": "[빙고서버] 지옥 같은 나",
+      "title": "판댜츄잉 ] 다시왔다!!!!! 마크드가자잇!선릿벨리 ㄱ!",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20142545"
+      "link": "https://chzzk.naver.com/live/20141589"
     },
     {
       "name": "혼낙",
@@ -611,22 +611,6 @@
       "link": "https://chzzk.naver.com/live/20142822"
     },
     {
-      "name": "구름스무디",
-      "viewers": 13,
-      "category": "배틀그라운드",
-      "title": "있자나.. 그러니까...내가 만약에...",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20139790"
-    },
-    {
-      "name": "장 봉 남",
-      "viewers": 13,
-      "category": "마인크래프트",
-      "title": "봉남) 티아와 여름휴가 1일차",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20142758"
-    },
-    {
       "name": "Midnight Chess",
       "viewers": 11,
       "category": "게임",
@@ -659,22 +643,6 @@
       "link": "https://chzzk.naver.com/live/20139497"
     },
     {
-      "name": "루스티카나",
-      "viewers": 10,
-      "category": "마인크래프트",
-      "title": "수다떠는날",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20142682"
-    },
-    {
-      "name": "이장댕",
-      "viewers": 10,
-      "category": "마인크래프트",
-      "title": "[빙고서버] 다 디져따.",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20142964"
-    },
-    {
       "name": "리나앤타냐",
       "viewers": 10,
       "category": "스타크래프트",
@@ -689,6 +657,38 @@
       "title": "롤체신입6일차) 1100점켠왕 (아마도)",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20147132"
+    },
+    {
+      "name": "유지금",
+      "viewers": 9,
+      "category": "롤",
+      "title": "[!시참/로테] 오늘두 재밌능 롤 ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20145739"
+    },
+    {
+      "name": "탈르",
+      "viewers": 9,
+      "category": "발로란트",
+      "title": "[발로란트] 난투 1대1 스머를 이겨라",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20143971"
+    },
+    {
+      "name": "듀비 Dubee",
+      "viewers": 9,
+      "category": "마인크래프트",
+      "title": "[종족전쟁] 광질 중독자",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20141607"
+    },
+    {
+      "name": "달애님",
+      "viewers": 9,
+      "category": "로스트아크",
+      "title": "[로스트아크] 모코코 줍기 on",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20146307"
     }
   ],
   "categories": [
