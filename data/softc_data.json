@@ -1,1 +1,792 @@
-{"platforms": [{"rank": 1, "name": "SOOP", "viewers": "47534", "channels": "1215", "link": "https://www.sooplive.com"}, {"rank": 2, "name": "치지직", "viewers": "36037", "channels": "1290", "link": "https://chzzk.naver.com"}, {"rank": 3, "name": "트위치", "viewers": "2035", "channels": "54", "link": "https://www.twitch.tv"}, {"rank": 4, "name": "씨미", "viewers": "287", "channels": "16", "link": "https://seemi.live"}], "fetched": "2026-07-28T01:45:07", "streamers": [{"rank": 1, "name": "오메킴승현2", "viewers": "3891"}, {"rank": 2, "name": "강덕구", "viewers": "3404"}, {"rank": 3, "name": "서새봄냥 SEBOM", "viewers": "3239"}, {"rank": 4, "name": "지피티", "viewers": "2568"}, {"rank": 5, "name": "아카캉 Akang", "viewers": "2424"}, {"rank": 6, "name": "기뉴다", "viewers": "2193"}, {"rank": 7, "name": "두치와뿌꾸", "viewers": "2164"}, {"rank": 8, "name": "나나양", "viewers": "2084"}, {"rank": 9, "name": "포포포포 POPOPOPO", "viewers": "1871"}, {"rank": 10, "name": "정서이_", "viewers": "1437"}, {"rank": 11, "name": "정중만", "viewers": "1412"}, {"rank": 12, "name": "옥냥이 RoofTopCAT", "viewers": "1314"}, {"rank": 13, "name": "강만식", "viewers": "1272"}, {"rank": 14, "name": "고차비", "viewers": "1101"}, {"rank": 15, "name": "지니어스매드", "viewers": "943"}, {"rank": 16, "name": "해블린", "viewers": "917"}, {"rank": 17, "name": "연초록♪", "viewers": "834"}, {"rank": 18, "name": "티뭉", "viewers": "792"}, {"rank": 19, "name": "서도일", "viewers": "761"}, {"rank": 20, "name": "남봉", "viewers": "741"}, {"rank": 1, "name": "이상호", "viewers": "63548"}, {"rank": 2, "name": "김민교.", "viewers": "52703"}, {"rank": 3, "name": "슈카월드", "viewers": "41376"}, {"rank": 4, "name": "수련수련", "viewers": "24875"}, {"rank": 5, "name": "저라뎃", "viewers": "23341"}, {"rank": 6, "name": "발로란트 챔피언스 투어", "viewers": "22161"}, {"rank": 7, "name": "감스트", "viewers": "19413"}, {"rank": 8, "name": "EWC 공식 채널A", "viewers": "17528"}, {"rank": 9, "name": "윤가놈", "viewers": "14576"}, {"rank": 10, "name": "철구형2↑", "viewers": "13825"}, {"rank": 11, "name": "룩삼", "viewers": "13268"}, {"rank": 12, "name": "삼식", "viewers": "11292"}, {"rank": 13, "name": "고세구!", "viewers": "11255"}, {"rank": 14, "name": "하나코 나나", "viewers": "10932"}, {"rank": 15, "name": "타요b", "viewers": "10171"}, {"rank": 16, "name": "인피쉰", "viewers": "10004"}, {"rank": 17, "name": "Canyon_lol", "viewers": "9410"}], "categories": [{"rank": 1, "game": "talk", "viewers": "9865", "channels": "164"}, {"rank": 2, "game": "주식", "viewers": "8099", "channels": "36"}, {"rank": 3, "game": "버추얼", "viewers": "6053", "channels": "99"}, {"rank": 4, "game": "리그 오브 레전드", "viewers": "4539", "channels": "106"}, {"rank": 5, "game": "스타크래프트", "viewers": "4498", "channels": "40"}, {"rank": 6, "game": "토크/캠방", "viewers": "4343", "channels": "118"}, {"rank": 7, "game": "PUBG: 배틀그라운드", "viewers": "2761", "channels": "127"}, {"rank": 8, "game": "FC 온라인", "viewers": "2758", "channels": "20"}, {"rank": 9, "game": "헬스/레저", "viewers": "2580", "channels": "3"}, {"rank": 10, "game": "리그 오브 레전드", "viewers": "2212", "channels": "83"}, {"rank": 11, "game": "포토멀리", "viewers": "2084", "channels": "1"}, {"rank": 12, "game": "아이 돈트 폴", "viewers": "1871", "channels": "1"}, {"rank": 13, "game": "음악 스트리밍", "viewers": "1675", "channels": "40"}, {"rank": 14, "game": "서든어택", "viewers": "1461", "channels": "107"}, {"rank": 15, "game": "Pools, Hot Tubs, and Beaches", "viewers": "1437", "channels": "1"}, {"rank": 16, "game": "패스 오브 엑자일", "viewers": "1391", "channels": "29"}]}
+{
+  "platforms": [
+    {
+      "rank": 1,
+      "name": "SOOP",
+      "viewers": "47534",
+      "channels": "1215",
+      "link": "https://www.sooplive.com"
+    },
+    {
+      "rank": 2,
+      "name": "치지직",
+      "viewers": "36037",
+      "channels": "1290",
+      "link": "https://chzzk.naver.com"
+    },
+    {
+      "rank": 3,
+      "name": "트위치",
+      "viewers": "2035",
+      "channels": "54",
+      "link": "https://www.twitch.tv"
+    },
+    {
+      "rank": 4,
+      "name": "씨미",
+      "viewers": "287",
+      "channels": "16",
+      "link": "https://seemi.live"
+    }
+  ],
+  "fetched": "2026-07-28T01:45:07",
+  "streamers": [
+    {
+      "rank": 1,
+      "name": "오메킴승현2",
+      "viewers": "3891",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 2,
+      "name": "강덕구",
+      "viewers": "3404",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 3,
+      "name": "서새봄냥 SEBOM",
+      "viewers": "3239",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 4,
+      "name": "지피티",
+      "viewers": "2568",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 5,
+      "name": "아카캉 Akang",
+      "viewers": "2424",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 6,
+      "name": "기뉴다",
+      "viewers": "2193",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 7,
+      "name": "두치와뿌꾸",
+      "viewers": "2164",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 8,
+      "name": "나나양",
+      "viewers": "2084",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 9,
+      "name": "포포포포 POPOPOPO",
+      "viewers": "1871",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 10,
+      "name": "정서이_",
+      "viewers": "1437",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 11,
+      "name": "정중만",
+      "viewers": "1412",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 12,
+      "name": "옥냥이 RoofTopCAT",
+      "viewers": "1314",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 13,
+      "name": "강만식",
+      "viewers": "1272",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 14,
+      "name": "고차비",
+      "viewers": "1101",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 15,
+      "name": "지니어스매드",
+      "viewers": "943",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 16,
+      "name": "해블린",
+      "viewers": "917",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 17,
+      "name": "연초록♪",
+      "viewers": "834",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 18,
+      "name": "티뭉",
+      "viewers": "792",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 19,
+      "name": "서도일",
+      "viewers": "761",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 20,
+      "name": "남봉",
+      "viewers": "741",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 1,
+      "name": "이상호",
+      "viewers": "63548",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 2,
+      "name": "김민교.",
+      "viewers": "52703",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 3,
+      "name": "슈카월드",
+      "viewers": "41376",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 4,
+      "name": "수련수련",
+      "viewers": "24875",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 5,
+      "name": "저라뎃",
+      "viewers": "23341",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 6,
+      "name": "발로란트 챔피언스 투어",
+      "viewers": "22161",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 7,
+      "name": "감스트",
+      "viewers": "19413",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 8,
+      "name": "EWC 공식 채널A",
+      "viewers": "17528",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 9,
+      "name": "윤가놈",
+      "viewers": "14576",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 10,
+      "name": "철구형2↑",
+      "viewers": "13825",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 11,
+      "name": "룩삼",
+      "viewers": "13268",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 12,
+      "name": "삼식",
+      "viewers": "11292",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 13,
+      "name": "고세구!",
+      "viewers": "11255",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 14,
+      "name": "하나코 나나",
+      "viewers": "10932",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 15,
+      "name": "타요b",
+      "viewers": "10171",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 16,
+      "name": "인피쉰",
+      "viewers": "10004",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "rank": 17,
+      "name": "Canyon_lol",
+      "viewers": "9410",
+      "platform": "SOOP",
+      "link": ""
+    },
+    {
+      "name": "초승달",
+      "viewers": 1111,
+      "category": "로스트아크",
+      "title": "닉네임 홀란드 삽니다. 제발요",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20211347"
+    },
+    {
+      "name": "쫀지",
+      "viewers": 854,
+      "category": "로스트아크",
+      "title": "본캐 1000만골드 잼깍기      로스트아크  쫀지",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20219940"
+    },
+    {
+      "name": "모라라",
+      "viewers": 802,
+      "category": "스타크래프트",
+      "title": "저그혐오자의 군심 // 인간수비드스테이크 💗🐟",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20218548"
+    },
+    {
+      "name": "연미콩",
+      "viewers": 122,
+      "category": "오버워치",
+      "title": "오랜만에 돌아온 오버워치",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20221107"
+    },
+    {
+      "name": "광말구짱",
+      "viewers": 96,
+      "category": "오버워치",
+      "title": "대회 연습! ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20213041"
+    },
+    {
+      "name": "바불자",
+      "viewers": 85,
+      "category": "오버워치",
+      "title": "오버워치.개판.외계인",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20224896"
+    },
+    {
+      "name": "김준민1",
+      "viewers": 54,
+      "category": "게임",
+      "title": "랭킹1등 놀이 Chapter.2 : 부캐 랭킹2등 찍기 6일차 (597점",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20215689"
+    },
+    {
+      "name": "1Chon",
+      "viewers": 49,
+      "category": "게임",
+      "title": "1132점 시작) 아칼리 아칼리 red red",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20221610"
+    },
+    {
+      "name": "이복만",
+      "viewers": 48,
+      "category": "오버워치",
+      "title": "오버워치 스타디움 트레장인 초대석",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20217437"
+    },
+    {
+      "name": "하예솜",
+      "viewers": 43,
+      "category": "게임",
+      "title": "명조 뉴비 1장 8막부터!!",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20220357"
+    },
+    {
+      "name": "김호러",
+      "viewers": 38,
+      "category": "로스트아크",
+      "title": "[쌩모코코] 11시 로치원 종막하드 트라이",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20216116"
+    },
+    {
+      "name": "냥냥꽁냥쫑냥",
+      "viewers": 36,
+      "category": "발로란트",
+      "title": "발로란트 불멸 승급전 오이데 ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20224737"
+    },
+    {
+      "name": "윤키키",
+      "viewers": 36,
+      "category": "발로란트",
+      "title": "재능없는 여자의 플레 노방종 1일차 ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20210947"
+    },
+    {
+      "name": "딸 라",
+      "viewers": 35,
+      "category": "로스트아크",
+      "title": "🖤사랑니발치 6일째지만 하루차이니까 한잔해",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20217393"
+    },
+    {
+      "name": "이도나",
+      "viewers": 33,
+      "category": "스타크래프트",
+      "title": "[스타응애 컴까기 테란 박살낸다 오늘] 월요일! 많이 힘들어찌? 오구오구",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20215362"
+    },
+    {
+      "name": "양거북",
+      "viewers": 28,
+      "category": "스타크래프트",
+      "title": "「치지직 양영호」 타다이마 - !",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20224390"
+    },
+    {
+      "name": "해스크",
+      "viewers": 25,
+      "category": "롤",
+      "title": "롤대남의 20인 경매 내전 방송 (상품있음)",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20224299"
+    },
+    {
+      "name": "블루파랑",
+      "viewers": 25,
+      "category": "오버워치",
+      "title": "🍀50승+경쟁 배치까지 켠왕 달려잇'-`)/",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20215146"
+    },
+    {
+      "name": "고동백",
+      "viewers": 24,
+      "category": "로스트아크",
+      "title": "마무리 숙제 건실하게 뉴비 질문환영 어서와",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20217990"
+    },
+    {
+      "name": "설옹",
+      "viewers": 23,
+      "category": "로스트아크",
+      "title": "6500점 폿으로 나메 8월달 벨가 가능하겠지...?(=🝦 ﻌ 🝦=)",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20217800"
+    },
+    {
+      "name": "말라드",
+      "viewers": 22,
+      "category": "게임",
+      "title": "18시즌 pbe 런다운 같이보기",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20224881"
+    },
+    {
+      "name": "예 잉",
+      "viewers": 20,
+      "category": "롤",
+      "title": "휴방엔 롤",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20221613"
+    },
+    {
+      "name": "서씨가문의수치",
+      "viewers": 20,
+      "category": "로스트아크",
+      "title": "⠀1750 나락 20수",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20217881"
+    },
+    {
+      "name": "빙구르르릉",
+      "viewers": 19,
+      "category": "로스트아크",
+      "title": "2부 일숙킹깐 / 1부 지직이 되어버린 숲지직 파티",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20217953"
+    },
+    {
+      "name": "쉐입",
+      "viewers": 19,
+      "category": "FC온라인",
+      "title": "롤 골드 못 갔습니다.. 피파나 할게요..",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20214913"
+    },
+    {
+      "name": "TFT Labs",
+      "viewers": 16,
+      "category": "게임",
+      "title": "18시즌 선행 학습 게임 영상 최초공개 ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20223405"
+    },
+    {
+      "name": "니코냥",
+      "viewers": 16,
+      "category": "마인크래프트",
+      "title": "[🍀LIVE  ^ ̳. ̫ . ̳^ Ⳋ💕][보람]🌸⭐ 히힛..♥ ⭐🌸",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20199773"
+    },
+    {
+      "name": "루루비",
+      "viewers": 16,
+      "category": "로스트아크",
+      "title": "뉴비 성심당 도와주기~\n\n",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20215250"
+    },
+    {
+      "name": "예쁘찌냐",
+      "viewers": 15,
+      "category": "오버워치",
+      "title": "♡오버워치! 방종은 찌맴 찌옵찌옵 시참ㄱㄱ( ღ'ᴗ'ღ ) '♡",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20223039"
+    },
+    {
+      "name": "난몰라1",
+      "viewers": 14,
+      "category": "게임",
+      "title": "1359점 오늘은 낯설거야.. 존나잘할거거든",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20219448"
+    },
+    {
+      "name": "방울2",
+      "viewers": 14,
+      "category": "롤",
+      "title": "[방송 10일차 방울이야] 롤 내전 시참 합시당~_~",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20216601"
+    },
+    {
+      "name": "테나님",
+      "viewers": 14,
+      "category": "배틀그라운드",
+      "title": "🎀 !딜룰렛 🎀 (7월 31일까지 돌릴 수 있음)",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20212905"
+    },
+    {
+      "name": "꿀 덕",
+      "viewers": 14,
+      "category": "마인크래프트",
+      "title": "[마녀의악몽] 돈이없지 까오가없나",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20216922"
+    },
+    {
+      "name": "라쿤99",
+      "viewers": 13,
+      "category": "롤",
+      "title": "C1 현3챌 1939점 솔랭!! / 롤재판 , 롤강의 (전프로) ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20222739"
+    },
+    {
+      "name": "김이딴",
+      "viewers": 13,
+      "category": "오버워치",
+      "title": "오버워치 힐러배치~! 싱드컵 클립 좋아요 부탁드립니댱!🐝",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20217783"
+    },
+    {
+      "name": "휘틀릭",
+      "viewers": 13,
+      "category": "오버워치",
+      "title": "후열 오버워치!!!!!!!",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20220346"
+    },
+    {
+      "name": "이신나",
+      "viewers": 13,
+      "category": "오버워치",
+      "title": "[신입/오버워치] 빠으대",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20223240"
+    },
+    {
+      "name": "은 호리",
+      "viewers": 13,
+      "category": "마인크래프트",
+      "title": "[마녀의악몽] 농사를 지어볼까?🦊",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20217798"
+    },
+    {
+      "name": "0들레0",
+      "viewers": 13,
+      "category": "마인크래프트",
+      "title": "[빙고서버] 이상하다 빙고가 줄지 않아..",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20219720"
+    },
+    {
+      "name": "바굥이",
+      "viewers": 13,
+      "category": "스타크래프트",
+      "title": "공허의유산 로그라이크 옵저버만 써서 깨기",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20219569"
+    },
+    {
+      "name": "고망지",
+      "viewers": 12,
+      "category": "배틀그라운드",
+      "title": "ㅋㅋㅋㅋㅋㅋ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20213825"
+    },
+    {
+      "name": "멍몽실",
+      "viewers": 12,
+      "category": "로스트아크",
+      "title": "방갑다.",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20215320"
+    },
+    {
+      "name": "준박스",
+      "viewers": 12,
+      "category": "로스트아크",
+      "title": "로치원 종막하드 트라이~ ft.전태워로드",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20217074"
+    },
+    {
+      "name": "캐슬유",
+      "viewers": 12,
+      "category": "FC온라인",
+      "title": "아니 왜 자꾸 피파할때만 방송이터지냐..",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20224659"
+    },
+    {
+      "name": "리네블",
+      "viewers": 11,
+      "category": "게임",
+      "title": "3장2막보는 뉴우비",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20216596"
+    },
+    {
+      "name": "조랭이01",
+      "viewers": 11,
+      "category": "롤",
+      "title": "롤 재활",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20221189"
+    },
+    {
+      "name": "옴므갓",
+      "viewers": 11,
+      "category": "오버워치",
+      "title": "[옴므]오버워치 하는 사람.",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20224886"
+    },
+    {
+      "name": "모아이 속상",
+      "viewers": 11,
+      "category": "마인크래프트",
+      "title": "[보람서버] 이번 다이아는 벌칙안받겠지?",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20217202"
+    },
+    {
+      "name": "넴 넴",
+      "viewers": 10,
+      "category": "발로란트",
+      "title": "[시참] 발로란트 2일차 ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20218957"
+    },
+    {
+      "name": "진도기 Jindoggi",
+      "viewers": 10,
+      "category": "마인크래프트",
+      "title": "마인크래프트 농사 힐링 ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20218112"
+    }
+  ],
+  "categories": [
+    {
+      "rank": 1,
+      "game": "talk",
+      "viewers": "9865",
+      "channels": "164"
+    },
+    {
+      "rank": 2,
+      "game": "주식",
+      "viewers": "8099",
+      "channels": "36"
+    },
+    {
+      "rank": 3,
+      "game": "버추얼",
+      "viewers": "6053",
+      "channels": "99"
+    },
+    {
+      "rank": 4,
+      "game": "리그 오브 레전드",
+      "viewers": "4539",
+      "channels": "106"
+    },
+    {
+      "rank": 5,
+      "game": "스타크래프트",
+      "viewers": "4498",
+      "channels": "40"
+    },
+    {
+      "rank": 6,
+      "game": "토크/캠방",
+      "viewers": "4343",
+      "channels": "118"
+    },
+    {
+      "rank": 7,
+      "game": "PUBG: 배틀그라운드",
+      "viewers": "2761",
+      "channels": "127"
+    },
+    {
+      "rank": 8,
+      "game": "FC 온라인",
+      "viewers": "2758",
+      "channels": "20"
+    },
+    {
+      "rank": 9,
+      "game": "헬스/레저",
+      "viewers": "2580",
+      "channels": "3"
+    },
+    {
+      "rank": 10,
+      "game": "리그 오브 레전드",
+      "viewers": "2212",
+      "channels": "83"
+    },
+    {
+      "rank": 11,
+      "game": "포토멀리",
+      "viewers": "2084",
+      "channels": "1"
+    },
+    {
+      "rank": 12,
+      "game": "아이 돈트 폴",
+      "viewers": "1871",
+      "channels": "1"
+    },
+    {
+      "rank": 13,
+      "game": "음악 스트리밍",
+      "viewers": "1675",
+      "channels": "40"
+    },
+    {
+      "rank": 14,
+      "game": "서든어택",
+      "viewers": "1461",
+      "channels": "107"
+    },
+    {
+      "rank": 15,
+      "game": "Pools, Hot Tubs, and Beaches",
+      "viewers": "1437",
+      "channels": "1"
+    },
+    {
+      "rank": 16,
+      "game": "패스 오브 엑자일",
+      "viewers": "1391",
+      "channels": "29"
+    }
+  ]
+}
