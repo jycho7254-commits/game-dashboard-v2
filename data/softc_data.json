@@ -29,7 +29,7 @@
       "link": "https://seemi.live"
     }
   ],
-  "fetched": "2026-07-29T17:47:51",
+  "fetched": "2026-07-29T17:47:53",
   "streamers": [
     {
       "rank": 1,
@@ -291,6 +291,14 @@
       "link": ""
     },
     {
+      "name": "초승달",
+      "viewers": 1933,
+      "category": "로스트아크",
+      "title": "3시 로스트아끼끼 종막 하드 트라이 (w.캡틴잭,소풍왔니,포셔)",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20244873"
+    },
+    {
       "name": "디디디용",
       "viewers": 1267,
       "category": "FC온라인",
@@ -308,7 +316,7 @@
     },
     {
       "name": "팔차선8",
-      "viewers": 750,
+      "viewers": 747,
       "category": "게임",
       "title": "18시즌 PBE 대기방",
       "platform": "치지직",
@@ -316,7 +324,7 @@
     },
     {
       "name": "두니주니",
-      "viewers": 476,
+      "viewers": 474,
       "category": "게임",
       "title": "18시즌 PBE 렛츠꼬",
       "platform": "치지직",
@@ -331,20 +339,28 @@
       "link": "https://chzzk.naver.com/live/20249767"
     },
     {
-      "name": "푸후",
-      "viewers": 133,
-      "category": "마인크래프트",
-      "title": " 2부 마크 다이아게임 실패시 반캠",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20245655"
-    },
-    {
       "name": "승상싱",
       "viewers": 99,
       "category": "게임",
       "title": "쉬었음 청년 복귀 PBE 18시즌",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20246263"
+    },
+    {
+      "name": "성피아",
+      "viewers": 80,
+      "category": "마인크래프트",
+      "title": "공겜 공포영도보기 VS 다이아 다캐기",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20248062"
+    },
+    {
+      "name": "우기잉ㅋ",
+      "viewers": 77,
+      "category": "오버워치",
+      "title": "😈없데이트 시절 옵치 썩은물 한번만 올라가기 해주세요😈",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20246380"
     },
     {
       "name": "유우양",
@@ -379,14 +395,6 @@
       "link": "https://chzzk.naver.com/live/20244902"
     },
     {
-      "name": "핸떠기",
-      "viewers": 49,
-      "category": "로스트아크",
-      "title": "본캐 1000만골 스펙업 렛츠고 로펙 7500점 찍으면 행복 나누겠습니다",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20244578"
-    },
-    {
       "name": "휘이령",
       "viewers": 40,
       "category": "배틀그라운드",
@@ -395,16 +403,16 @@
       "link": "https://chzzk.naver.com/live/20244478"
     },
     {
-      "name": "해솔뭉뭉",
-      "viewers": 37,
-      "category": "오버워치",
-      "title": "힐러 마스터가께",
+      "name": "유히설",
+      "viewers": 32,
+      "category": "로스트아크",
+      "title": "하루만에 숙제 끝내기 ٩(๑•̀o•́๑)و // 벨가나메 사멸딜러 모집중",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20244963"
+      "link": "https://chzzk.naver.com/live/20244832"
     },
     {
       "name": "만만수o",
-      "viewers": 29,
+      "viewers": 30,
       "category": "롤",
       "title": "[롤 5:5 내전] 20인 내전 인원 모집 중",
       "platform": "치지직",
@@ -417,6 +425,14 @@
       "title": "경쟁전 서바이버 계정 3개 찍기 4일차",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20247047"
+    },
+    {
+      "name": "떡호떡",
+      "viewers": 28,
+      "category": "롤",
+      "title": "롤 패치 체험",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20248899"
     },
     {
       "name": "토다기",
@@ -435,22 +451,6 @@
       "link": "https://chzzk.naver.com/live/20248479"
     },
     {
-      "name": "떡호떡",
-      "viewers": 24,
-      "category": "롤",
-      "title": "롤 패치 체험",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20248899"
-    },
-    {
-      "name": "독학님",
-      "viewers": 18,
-      "category": "발로란트",
-      "title": "[V] 발로란트 초보 실버 경쟁/일반(시참 가능)",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20247901"
-    },
-    {
       "name": "인천피스트",
       "viewers": 17,
       "category": "게임",
@@ -459,12 +459,20 @@
       "link": "https://chzzk.naver.com/live/20246224"
     },
     {
-      "name": "1Chon",
-      "viewers": 15,
-      "category": "게임",
-      "title": "PBE 새 시즌 탐방",
+      "name": "한 기",
+      "viewers": 17,
+      "category": "발로란트",
+      "title": "[시참] 발로란트 내전 티어제한X 즐겜O 소통O\n",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20248389"
+      "link": "https://chzzk.naver.com/live/20244932"
+    },
+    {
+      "name": "독학님",
+      "viewers": 16,
+      "category": "발로란트",
+      "title": "[V] 발로란트 초보 실버 경쟁/일반(시참 가능)",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20247901"
     },
     {
       "name": "너가 좀 알려줘",
@@ -475,6 +483,30 @@
       "link": "https://chzzk.naver.com/live/20248028"
     },
     {
+      "name": "최윤주",
+      "viewers": 15,
+      "category": "오버워치",
+      "title": "휴가핑",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20245244"
+    },
+    {
+      "name": "닝야 Ningya",
+      "viewers": 15,
+      "category": "오버워치",
+      "title": "옵치 누가이기나 보자☠️",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20246963"
+    },
+    {
+      "name": "프 링",
+      "viewers": 14,
+      "category": "롤",
+      "title": "⌜자랭 시참⌟ 오늘 롤 안할래..........",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20249283"
+    },
+    {
       "name": "나나는못말려",
       "viewers": 14,
       "category": "오버워치",
@@ -483,76 +515,44 @@
       "link": "https://chzzk.naver.com/live/20244351"
     },
     {
-      "name": "마밈뭄",
-      "viewers": 13,
-      "category": "오버워치",
-      "title": "(시참가능) 세상을 구하러 갈 시간이야 [오버워치2]",
+      "name": "니코냥",
+      "viewers": 14,
+      "category": "마인크래프트",
+      "title": "[🍀LIVE  ^ ̳. ̫ . ̳^ Ⳋ💕][보람서버]🌸⭐ 히힛..♥ ⭐🌸",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20250219"
+      "link": "https://chzzk.naver.com/live/20199773"
     },
     {
-      "name": "구길동",
-      "viewers": 13,
-      "category": "오버워치",
-      "title": "안녕🖐️나야!😎 땃.따라따땅~🤭",
+      "name": "HUKA후카",
+      "viewers": 14,
+      "category": "마인크래프트",
+      "title": "엔더드래곤 잡아 본 적 없는 아저씨끼리 엔더드래곤 잡으러 가기",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20246790"
+      "link": "https://chzzk.naver.com/live/20246569"
+    },
+    {
+      "name": "1Chon",
+      "viewers": 13,
+      "category": "게임",
+      "title": "PBE 새 시즌 탐방",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20248389"
     },
     {
       "name": "진짜고라파동",
-      "viewers": 12,
+      "viewers": 11,
       "category": "게임",
       "title": "시즌18 PBE 오늘 하루내내 달림",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20246573"
     },
     {
-      "name": "프 링",
-      "viewers": 12,
-      "category": "롤",
-      "title": "⌜자랭 시참⌟ 오늘 롤 안할래..........",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20249283"
-    },
-    {
-      "name": "루카 SUNBLAZER",
-      "viewers": 12,
-      "category": "마인크래프트",
-      "title": "엔더 드래곤 잡으러 어디로 갈까나~? (w. HUKA) ☀️🦁",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20246623"
-    },
-    {
-      "name": "최대마나증가",
-      "viewers": 12,
-      "category": "로스트아크",
-      "title": "[로생상담소] 1750+26캐릭 유저의 숙제런",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20245084"
-    },
-    {
-      "name": "밥벌레장군",
+      "name": "마밈뭄",
       "viewers": 11,
-      "category": "마인크래프트",
-      "title": "마크",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20243096"
-    },
-    {
-      "name": "릴썬",
-      "viewers": 10,
       "category": "오버워치",
-      "title": "오바와치 골드 북벌 간다 간다 말만하는데 오늘은 진짜임(탱커한분모십니다)",
+      "title": "(시참가능) 세상을 구하러 갈 시간이야 [오버워치2]",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20246793"
-    },
-    {
-      "name": "꼼댕이",
-      "viewers": 10,
-      "category": "오버워치",
-      "title": "429일차) 연패 박으면 바로 팰월드(시참권룰렛,미션 환영!)",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20246344"
+      "link": "https://chzzk.naver.com/live/20250219"
     },
     {
       "name": "깅연지",
@@ -561,6 +561,14 @@
       "title": "배그 시참 임미다",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20248232"
+    },
+    {
+      "name": "스탑이",
+      "viewers": 10,
+      "category": "마인크래프트",
+      "title": "[ 시참 ] 내가 만든 도시능력자 할사람...? 능력 10종 추가도 했는",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20248276"
     },
     {
       "name": "오브진",
@@ -595,28 +603,20 @@
       "link": "https://chzzk.naver.com/live/20229091"
     },
     {
-      "name": "감자돌이 깡",
+      "name": "오일오",
       "viewers": 9,
-      "category": "마인크래프트",
-      "title": "감자랑 마크 할 사람~(!룰렛)(신청곡)(시참다찼어용)",
+      "category": "로스트아크",
+      "title": "일숙쭉다하고 50캐릭2개레이드하고 부캐보석압수하는날",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20245733"
+      "link": "https://chzzk.naver.com/live/20245332"
     },
     {
-      "name": "잉미르",
-      "viewers": 9,
-      "category": "마인크래프트",
-      "title": "코블몬 모드 성도지방 1일차 처음의 시작! 시참o",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20248852"
-    },
-    {
-      "name": "캣콜링",
+      "name": "오묘집사",
       "viewers": 8,
-      "category": "롤",
-      "title": "[관음자]:방송 엿보기 모니터_.3ㅅ3💕롤방송만봄.",
+      "category": "발로란트",
+      "title": "수욜 ! 고정 방송 !  발로란트 !!!!?   [ 고민 상담 가능 ]",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20249292"
+      "link": "https://chzzk.naver.com/live/20249242"
     },
     {
       "name": "호서윤",
@@ -627,12 +627,12 @@
       "link": "https://chzzk.naver.com/live/20243848"
     },
     {
-      "name": "응시z",
+      "name": "이르딘 leeruedin",
       "viewers": 8,
       "category": "마인크래프트",
-      "title": "[빙고서버] 졸업 못한 사람들 도와주기\n",
+      "title": "[빙고서버 서버 종료 D-2일] 오늘 목표 빙고 200개 채우기!!!!",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20248891"
+      "link": "https://chzzk.naver.com/live/20246568"
     },
     {
       "name": "신해조",
@@ -651,12 +651,12 @@
       "link": "https://chzzk.naver.com/live/20248344"
     },
     {
-      "name": "김띵띵띵",
+      "name": "이레히",
       "viewers": 8,
       "category": "로스트아크",
-      "title": "[GTC] [빙고서버] 💜 유입환영 💜 !룰렛 !딜룰렛 !도파민 !노방종",
+      "title": "💜 레이드 오픈런ㄷㄷ 💜",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20238636"
+      "link": "https://chzzk.naver.com/live/20243215"
     },
     {
       "name": "금리도천파",
@@ -667,28 +667,28 @@
       "link": "https://chzzk.naver.com/live/20244683"
     },
     {
-      "name": "쀼삐삐",
+      "name": "캣콜링",
       "viewers": 7,
-      "category": "발로란트",
-      "title": "[발로란트] 영상 편집 회피하기",
+      "category": "롤",
+      "title": "[관음자]:방송 엿보기 모니터_.3ㅅ3💕롤방송만봄.",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20248687"
+      "link": "https://chzzk.naver.com/live/20249292"
     },
     {
-      "name": "오묘집사",
+      "name": "김 만 춘",
       "viewers": 7,
-      "category": "발로란트",
-      "title": "수욜 ! 고정 방송 !  발로란트 !!!!?   [ 고민 상담 가능 ]",
+      "category": "배틀그라운드",
+      "title": "2부 백으합니다요",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20249242"
+      "link": "https://chzzk.naver.com/live/20246281"
     },
     {
-      "name": "김빠삐1",
+      "name": "호호지롱",
       "viewers": 7,
-      "category": "발로란트",
-      "title": "발로란트 하면서 들을 노래 추천받아요 (!저격, !시참)",
+      "category": "배틀그라운드",
+      "title": "히힛....오늘도 전투 병아리 달려 가볼게욧!! 일단 달려!!!!",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20249544"
+      "link": "https://chzzk.naver.com/live/20247308"
     }
   ],
   "categories": [
