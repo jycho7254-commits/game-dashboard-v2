@@ -199,7 +199,7 @@ canvas{max-width:100%!important}
 .cal-day .day-event{font-size:6px}
 /* 网红/KOL */
 .inf-pager button{padding:4px 9px;font-size:11px}
-/* 实时 방송 SOOP/치지직 분할 — 모바일에서 세로 */
+/* 实时 방송 SOOP/Chzzk 분할 — 모바일에서 세로 */
 #inf-streamers-soop,#inf-streamers-chzzk{max-height:300px;overflow-y:auto}
 /* 营销/新闻 */
 .mkt-share{gap:6px}
@@ -229,7 +229,7 @@ canvas{max-width:100%!important}
 <a onclick="showTab('calendar',this)"><span>日历</span></a>
 </div>
 <div class="topbar-right">
-<span class="meta" id="update-time">2026-07-30 19:19</span>
+<span class="meta" id="update-time">2026-07-30 19:20</span>
 <button id="theme-toggle" onclick="toggleTheme()">深色</button>
 </div>
 </div>
@@ -255,7 +255,7 @@ canvas{max-width:100%!important}
 <div style="display:flex;gap:12px;flex-wrap:wrap;margin-bottom:8px">
 <div style="flex:1;min-width:140px;padding:10px;border-radius:8px;background:var(--bg3);border:1px solid var(--border)">
 <div style="font-size:11px;color:var(--t2)">韩国 Top1</div>
-<div style="font-weight:600">SOL: 인챈트</div>
+<div style="font-weight:600">SOL: 附魔</div>
 <div style="font-size:11px;color:var(--accent)">$9.5M/月</div>
 </div>
 <div style="flex:1;min-width:140px;padding:10px;border-radius:8px;background:var(--bg3);border:1px solid var(--border)">
@@ -270,7 +270,7 @@ canvas{max-width:100%!important}
 </div>
 </div>
 <div style="padding:8px;border-left:3px solid var(--accent);background:var(--bg3);border-radius:0 8px 8px 0;margin-top:8px">
-<b>市场摘要:</b> 3个국 모바일 游戏 Top50 预估月营收 合计 <b>$325M</b> (韩国 $66M, 中国 $221M, 日本 $108M). 中国이 全部의 68% 차지. 3个국 공통 진출 游戏: 원신, 니케, 조, Whiteout Survival.
+<b>市场摘要:</b> 3个국 모바일 游戏 Top50 预估月营收 合计 <b>$325M</b> (韩国 $66M, 中国 $221M, 日本 $108M). 中国이 全部의 68% 占据. 3个국 공통 진출 游戏: 原神, 胜利女神:妮姬, 明朝, Whiteout Survival.
 </div>
 </div></div>
 <div class="card"><h3>综合趋势分析</h3><div id="ov-trends" style="font-size:13px;line-height:1.8"></div></div>
@@ -322,7 +322,7 @@ canvas{max-width:100%!important}
 <!-- 韩国 스트리밍 현황 (韩国 탭에서만 표시) -->
 <div id="inf-softc-section" style="display:none">
 <div class="card"><h3>各平台现状 <button id="inf-refresh-btn" onclick="refreshPlatforms()" style="font-size:11px;padding:4px 10px;border-radius:var(--radius-sm);border:1px solid var(--border);background:var(--surface);color:var(--t2);cursor:pointer;font-weight:600;transition:.15s;margin-left:auto">🔄 刷新</button></h3><div id="inf-platforms" style="display:flex;gap:8px;flex-wrap:wrap;margin-top:8px"></div></div>
-<div class="card"><h3>游戏分类排行 <span style="font-size:10px;color:var(--t3);font-weight:400">(SOOP+치지직+트위치 통합)</span> <button id="inf-refresh-cat" onclick="refreshCategories()" style="font-size:11px;padding:4px 10px;border-radius:var(--radius-sm);border:1px solid var(--border);background:var(--surface);color:var(--t2);cursor:pointer;font-weight:600;transition:.15s;margin-left:auto">🔄 刷新</button></h3><div id="inf-categories" style="margin-top:8px"></div></div>
+<div class="card"><h3>游戏分类排行 <span style="font-size:10px;color:var(--t3);font-weight:400">(SOOP+Chzzk+Twitch 整合)</span> <button id="inf-refresh-cat" onclick="refreshCategories()" style="font-size:11px;padding:4px 10px;border-radius:var(--radius-sm);border:1px solid var(--border);background:var(--surface);color:var(--t2);cursor:pointer;font-weight:600;transition:.15s;margin-left:auto">🔄 刷新</button></h3><div id="inf-categories" style="margin-top:8px"></div></div>
 <div class="card"><h3>实时直播排行 <button id="inf-refresh-stream" onclick="refreshStreams()" style="font-size:11px;padding:4px 10px;border-radius:var(--radius-sm);border:1px solid var(--border);background:var(--surface);color:var(--t2);cursor:pointer;font-weight:600;transition:.15s;margin-left:auto">🔄 刷新</button></h3>
 <div style="display:flex;gap:12px;margin-top:8px">
 <div style="flex:1;min-width:0">
@@ -331,7 +331,7 @@ canvas{max-width:100%!important}
 </div>
 <div style="width:1px;background:var(--border)"></div>
 <div style="flex:1;min-width:0">
-<div style="font-size:11px;font-weight:700;color:#00d400;margin-bottom:4px">치지직</div>
+<div style="font-size:11px;font-weight:700;color:#00d400;margin-bottom:4px">Chzzk</div>
 <div id="inf-streamers-chzzk"></div>
 </div>
 </div>
@@ -492,7 +492,7 @@ function openCatDetail(game,rank,viewers){
   }
   html+='<div class="modal-sec" style="margin-top:12px"><h4>外部链接</h4><div style="display:flex;gap:6px;flex-wrap:wrap">';
   html+='<a href="https://www.youtube.com/results?search_query='+encodeURIComponent(game)+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#ff000020;color:#ff0000;text-decoration:none;font-size:12px">YouTube 검색</a>';
-  html+='<a href="https://chzzk.naver.com/search?keyword='+encodeURIComponent(game)+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#0066ff20;color:#0066ff;text-decoration:none;font-size:12px">치지직</a>';
+  html+='<a href="https://chzzk.naver.com/search?keyword='+encodeURIComponent(game)+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#0066ff20;color:#0066ff;text-decoration:none;font-size:12px">Chzzk</a>';
   html+='<a href="https://www.sooplive.com/search?keyword='+encodeURIComponent(game)+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#3498db20;color:#3498db;text-decoration:none;font-size:12px">SOOP</a>';
   html+='</div></div>';
   modal.querySelector('.modal-body').innerHTML=html;
@@ -761,7 +761,7 @@ function loadOverview(){
       var detail='营收: $'+(rev/1e6).toFixed(1)+'M ('+revScore.toFixed(0)+'分/40)\\n'+
         '여론: '+(sent?('指数 '+sent.index+' ('+sentScore.toFixed(0)+'分/30)'):'暂无数据')+'\\n'+
         '视频: '+(vid?(fmt(vid.total_plays||vid.total_views||0)+'观看 ('+vidScore.toFixed(0)+'分/20)'):('없음 ('+vidScore+'分/20)'))+'\\n'+
-        '营销: '+mktCount+'个 活动 ('+mktScore+'分/10)';
+        '营销: '+mktCount+'个 활동 ('+mktScore+'分/10)';
       trendRows.push('<div onclick="alert(\''+escGn+'\\n综合 分수: '+total+'分\\n\\n'+detail+'\')" style="display:flex;justify-content:space-between;padding:6px 0;border-bottom:1px solid var(--border);cursor:pointer">'+
         '<span>'+(idx+1)+'. '+gn.slice(0,15)+'</span>'+
         '<span style="font-weight:600;color:'+color+'">'+total+'分</span></div>');
@@ -986,7 +986,7 @@ function openSentDetail(game,idx,trend,detail){
     }else{
       dcLink='https://gall.dcinside.com/search?q='+encodeURIComponent(game);
     }
-    // SOL: 인챈트는 네이버 라운지
+    // SOL: 附魔는 네이버 라운지
     if(game.indexOf('SOL')>=0||game.indexOf('인챈트')>=0||game.indexOf('enchant')>=0){
       parts.push('<a href="https://game.naver.com/lounge/SOL_enchant/board" target="_blank" style="padding:4px 10px;border-radius:6px;background:#3498db20;color:#3498db;text-decoration:none;font-size:12px">네이버 라운지</a>');
     }else{
@@ -1224,7 +1224,7 @@ function _fetchSoftcAndRender(module){
   var btnIds={'plat':'inf-refresh-btn','cat':'inf-refresh-cat','stream':'inf-refresh-stream'};
   var btn=document.getElementById(btnIds[module]||'inf-refresh-btn');
   if(btn){btn.textContent='⏳';btn.disabled=true;}
-  // 1) 치지직 live API 직접 호출 (实时)
+  // 1) Chzzk live API 직접 호출 (实时)
   var cats=['游戏','롤','발로란트','오버워치','배틀그라운드','마인크래프트','서든어택','로스트아크','FC온라인','스타크래프트'];
   var liveStreamers=[];
   var liveCats=[];
@@ -1240,7 +1240,7 @@ function _fetchSoftcAndRender(module){
           var live=item.live||item;var ch=item.channel||{};
           var v=live.concurrentUserCount||0;
           if(v>0&&ch.channelName){
-            liveStreamers.push({name:ch.channelName,viewers:v,category:cat,platform:'치지직',link:'https://chzzk.naver.com/live/'+(live.liveId||'')});
+            liveStreamers.push({name:ch.channelName,viewers:v,category:cat,platform:'Chzzk',link:'https://chzzk.naver.com/live/'+(live.liveId||'')});
             catViewers+=v;
           }
         });
@@ -1251,11 +1251,11 @@ function _fetchSoftcAndRender(module){
     }catch(e){done++;if(done>=totalCats)_finishLiveRefresh();}
   });
   function _finishLiveRefresh(){
-    // 치지직 数据를 SOFTC에 merge
+    // Chzzk 数据를 SOFTC에 merge
     liveCats.sort(function(a,b){return parseInt(b.viewers)-parseInt(a.viewers)});
     liveCats.forEach(function(c,i){c.rank=i+1});
     liveStreamers.sort(function(a,b){return parseInt(b.viewers)-parseInt(a.viewers)});
-    // 기존 SOOP 数据 유지 + 치지직 live 数据 병합
+    // 기존 SOOP 数据 유지 + Chzzk live 数据 병합
     var soopStreams=(SOFTC.streamers||[]).filter(function(s){return (s.platform||'').indexOf('SOOP')>=0||(s.platform||'').indexOf('soop')>=0||!s.platform});
     var allStreams=soopStreams.concat(liveStreamers);
     SOFTC=Object.assign({},SOFTC,{
@@ -1266,7 +1266,7 @@ function _fetchSoftcAndRender(module){
     var chzzkViewers=liveStreamers.reduce(function(s,x){return s+parseInt(x.viewers||0)},0);
     if(chzzkViewers>0&&SOFTC.platforms){
       SOFTC.platforms=SOFTC.platforms.map(function(p){
-        if(p.name&&(p.name.indexOf('치지직')>=0||p.name.indexOf('Chzzk')>=0)){p.viewers=chzzkViewers.toLocaleString()+'';}
+        if(p.name&&(p.name.indexOf('Chzzk')>=0||p.name.indexOf('Chzzk')>=0)){p.viewers=chzzkViewers.toLocaleString()+'';}
         return p;
       });
     }
@@ -1282,7 +1282,7 @@ function _fetchSoftcAndRender(module){
     if(done<totalCats){
       var base=(window.location.hostname.includes('github.io'))?'./data/':'';
       fetch(base+'softc_data.json?t='+Date.now()).then(function(r){return r.json()}).then(function(d){
-        if(d&&d.platforms&&!SOFTC._liveLoaded){SOFTC=d;if(btn){btn.textContent='📦 缓存';btn.disabled=false;}setTimeout(function(){if(btn){btn.textContent='🔄 刷新';}},2000);}
+        if(d&&d.platforms&&!SOFTC._liveLoaded){SOFTC=d;if(btn){btn.textContent='📦 캐시';btn.disabled=false;}setTimeout(function(){if(btn){btn.textContent='🔄 刷新';}},2000);}
       }).catch(function(){});
     }
   },8000);
@@ -1315,7 +1315,7 @@ function renderSoftcStreamers(){
   var allStreams=(SOFTC.streamers||[]).filter(function(s){return s&&s.name&&s.name!=='undefined'&&parseInt(s.viewers||0)>0});
   // SOOP 스트리머 (소프트콘)
   var soopDiv=document.getElementById('inf-streamers-soop');
-  // 치지직 스트리머 (치지직 API)
+  // Chzzk 스트리머 (Chzzk API)
   var chzzkDiv=document.getElementById('inf-streamers-chzzk');
   if(!soopDiv&&!chzzkDiv){
     // 구버전 호환
@@ -1329,15 +1329,15 @@ function renderSoftcStreamers(){
   if(soopDiv){
     soopDiv.innerHTML=soopStreams.slice(0,8).map(function(s){return _streamerHTML(s,'#3498db')}).join('')||'<p style="color:var(--t3);font-size:11px">暂无数据</p>';
   }
-  // 치지직 streamers
-  var chzzkStreams=allStreams.filter(function(s){return (s.platform||'').indexOf('치지직')>=0||(s.platform||'').indexOf('chzzk')>=0});
+  // Chzzk streamers
+  var chzzkStreams=allStreams.filter(function(s){return (s.platform||'').indexOf('Chzzk')>=0||(s.platform||'').indexOf('chzzk')>=0});
   if(chzzkStreams.length===0)chzzkStreams=allStreams.slice(0,8);
   if(chzzkDiv){
     chzzkDiv.innerHTML=chzzkStreams.slice(0,8).map(function(s){return _streamerHTML(s,'#00d400')}).join('')||'<p style="color:var(--t3);font-size:11px">暂无数据</p>';
   }
   var fetchedEl=document.getElementById('inf-fetched');
   if(fetchedEl&&SOFTC.fetched){
-    fetchedEl.textContent='更新: '+new Date(SOFTC.fetched).toLocaleString('ko-KR');
+    fetchedEl.textContent='更新时间: '+new Date(SOFTC.fetched).toLocaleString('ko-KR');
   }
 }
 function _streamerHTML(s,color){
