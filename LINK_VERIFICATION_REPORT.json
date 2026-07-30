@@ -1,0 +1,415 @@
+{
+  "summary": {
+    "total_unique_urls": 1295,
+    "categories": {
+      "YouTube": 568,
+      "Other": 528,
+      "Icon/Image": 81,
+      "Bilibili": 61,
+      "Chzzk": 54,
+      "CDN/Ad": 3
+    },
+    "sampled": {
+      "Other": 528,
+      "YouTube": 20,
+      "Bilibili": 10,
+      "Chzzk": 10
+    },
+    "results": {
+      "YouTube": {
+        "ok": 20,
+        "err": 0,
+        "note": "전부 정상"
+      },
+      "Bilibili": {
+        "ok": 10,
+        "err": 0,
+        "note": "전부 정상"
+      },
+      "Chzzk": {
+        "ok": 10,
+        "err": 0,
+        "note": "전부 정상"
+      },
+      "Other": {
+        "ok": 373,
+        "err": 155,
+        "note": "tieba 60(지역차단)+t.co 7(아티팩트) 제외시 실제오류 74"
+      }
+    }
+  },
+  "real_broken": {
+    "dns_errors": [
+      {
+        "host": "aiming-inc.co.jp",
+        "url": "https://aiming-inc.co.jp/ir/library/"
+      },
+      {
+        "host": "aiming-inc.co.jp",
+        "url": "https://aiming-inc.co.jp/ir"
+      },
+      {
+        "host": "aiming-inc.co.jp",
+        "url": "https://www.aiming-inc.co.jp"
+      },
+      {
+        "host": "akatsuki.co.jp",
+        "url": "https://akatsuki.co.jp"
+      },
+      {
+        "host": "allstargames.co.kr",
+        "url": "https://www.allstargames.co.kr"
+      },
+      {
+        "host": "ateam-inc.jp",
+        "url": "https://www.ateam-inc.jp"
+      },
+      {
+        "host": "corp.gree.jp",
+        "url": "https://corp.gree.jp/ir/library/"
+      },
+      {
+        "host": "corp.gree.jp",
+        "url": "https://corp.gree.jp"
+      },
+      {
+        "host": "darknova.cn",
+        "url": "https://www.darknova.cn"
+      },
+      {
+        "host": "efunsoft.co.kr",
+        "url": "https://www.efunsoft.co.kr"
+      },
+      {
+        "host": "eyedentitymobile.com",
+        "url": "https://www.eyedentitymobile.com"
+      },
+      {
+        "host": "fireflame.cn",
+        "url": "https://www.fireflame.cn"
+      },
+      {
+        "host": "flygames.co.kr",
+        "url": "https://www.flygames.co.kr"
+      },
+      {
+        "host": "gennaogames.com",
+        "url": "https://www.gennaogames.com"
+      },
+      {
+        "host": "group.sony.com",
+        "url": "https://group.sony.com/ja/SonyInfo/IR/library/presen/er"
+      },
+      {
+        "host": "huanletime.com",
+        "url": "https://www.huanletime.com"
+      },
+      {
+        "host": "ir.akatsuki.co.jp",
+        "url": "https://ir.akatsuki.co.jp"
+      },
+      {
+        "host": "ir.akatsuki.co.jp",
+        "url": "https://ir.akatsuki.co.jp/library/"
+      },
+      {
+        "host": "ir.ateam-inc.jp",
+        "url": "https://ir.ateam-inc.jp/library/"
+      },
+      {
+        "host": "ir.ateam-inc.jp",
+        "url": "https://ir.ateam-inc.jp"
+      },
+      {
+        "host": "ir.colopl.co.jp",
+        "url": "https://ir.colopl.co.jp/library/"
+      },
+      {
+        "host": "ir.colopl.co.jp",
+        "url": "https://ir.colopl.co.jp"
+      },
+      {
+        "host": "ir.kakaogames.com",
+        "url": "https://ir.kakaogames.com"
+      },
+      {
+        "host": "ir.krafton.com",
+        "url": "https://ir.krafton.com"
+      },
+      {
+        "host": "jcen.co.kr",
+        "url": "https://www.jcen.co.kr"
+      },
+      {
+        "host": "lionheartstudio.co.kr",
+        "url": "https://www.lionheartstudio.co.kr"
+      },
+      {
+        "host": "lunestudio.co.kr",
+        "url": "https://www.lunestudio.co.kr"
+      },
+      {
+        "host": "mincoms.co.kr",
+        "url": "https://www.mincoms.co.kr"
+      },
+      {
+        "host": "papergames.com",
+        "url": "https://www.papergames.com"
+      },
+      {
+        "host": "seemi.live",
+        "url": "https://seemi.live"
+      },
+      {
+        "host": "shengtanggame.com",
+        "url": "https://www.shengtanggame.com"
+      },
+      {
+        "host": "square-enix.com",
+        "url": "https://www.square-enix.com/eng/company/en/ir"
+      },
+      {
+        "host": "studioreign.co.kr",
+        "url": "https://www.studioreign.co.kr"
+      },
+      {
+        "host": "tianxiadigital.com",
+        "url": "https://www.tianxiadigital.com"
+      },
+      {
+        "host": "zeusgame.com",
+        "url": "https://www.zeusgame.com"
+      }
+    ],
+    "http_404": [
+      {
+        "host": "111percent.net",
+        "url": "https://www.111percent.net/ir"
+      },
+      {
+        "host": "37.com",
+        "url": "https://www.37.com/en/investor"
+      },
+      {
+        "host": "capcom.co.jp",
+        "url": "https://www.capcom.co.jp/ir/en/library/annual"
+      },
+      {
+        "host": "capcom.co.jp",
+        "url": "https://www.capcom.co.jp/ir/en"
+      },
+      {
+        "host": "cmge.com",
+        "url": "https://www.cmge.com/en/ir/financial-report"
+      },
+      {
+        "host": "cmge.com",
+        "url": "https://www.cmge.com/en/ir"
+      },
+      {
+        "host": "company.netmarble.com",
+        "url": "https://company.netmarble.com/kr/ir"
+      },
+      {
+        "host": "dena.com",
+        "url": "https://dena.com/intl/ir/library"
+      },
+      {
+        "host": "devsisters.com",
+        "url": "https://www.devsisters.com/ko/ir"
+      },
+      {
+        "host": "embracer.com",
+        "url": "https://embracer.com/investors/financial-reports"
+      },
+      {
+        "host": "giantinfo.com",
+        "url": "https://www.giantinfo.com/en/ir"
+      },
+      {
+        "host": "group.kadokawa.co.jp",
+        "url": "https://group.kadokawa.co.jp/en/ir"
+      },
+      {
+        "host": "idreamsky.com",
+        "url": "https://www.idreamsky.com/en/ir"
+      },
+      {
+        "host": "idreamsky.com",
+        "url": "https://www.idreamsky.com/en/ir/financial-report"
+      },
+      {
+        "host": "investors.playtika.com",
+        "url": "https://investors.playtika.com/financials/sec-filings/default.aspx"
+      },
+      {
+        "host": "ir.netease.com",
+        "url": "https://ir.netease.com/financial-info/annual-reports"
+      },
+      {
+        "host": "ir.take2games.com",
+        "url": "https://ir.take2games.com/financials/sec-filings/default.aspx"
+      },
+      {
+        "host": "konami.com",
+        "url": "https://www.konami.com/ir/en/library/annual"
+      },
+      {
+        "host": "m.dcinside.com",
+        "url": "https://m.dcinside.com/board/"
+      },
+      {
+        "host": "mixi.co.jp",
+        "url": "https://mixi.co.jp/en/ir/library"
+      },
+      {
+        "host": "neowiz.com",
+        "url": "https://www.neowiz.com/ko/ir"
+      },
+      {
+        "host": "nintendo.co.jp",
+        "url": "https://www.nintendo.co.jp/ir/en/financial/index.html"
+      },
+      {
+        "host": "nippon1.co.jp",
+        "url": "https://www.nippon1.co.jp/info/ir/library"
+      },
+      {
+        "host": "nippon1.co.jp",
+        "url": "https://www.nippon1.co.jp/info/ir"
+      },
+      {
+        "host": "ourpalm.com",
+        "url": "https://www.ourpalm.com/en/ir"
+      },
+      {
+        "host": "segasammy.co.jp",
+        "url": "https://www.segasammy.co.jp/en/ir/library/annual"
+      },
+      {
+        "host": "shiftup.co.kr",
+        "url": "https://www.shiftup.co.kr/kr/ir"
+      },
+      {
+        "host": "webzen.com",
+        "url": "https://www.webzen.com/kr/ir"
+      },
+      {
+        "host": "wemade.com",
+        "url": "https://www.wemade.com/ko/ir"
+      },
+      {
+        "host": "www1.hkexnews.hk",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/tencent"
+      }
+    ],
+    "empty_template": [
+      {
+        "host": "gall.dcinside.com",
+        "url": "https://gall.dcinside.com/mgallery/board/lists/?id="
+      },
+      {
+        "host": "sensortower.com",
+        "url": "https://sensortower.com/overview?q="
+      },
+      {
+        "host": "gall.dcinside.com",
+        "url": "https://gall.dcinside.com/board/view?id="
+      }
+    ],
+    "http_403_nontieba": [
+      {
+        "host": "appirits.com",
+        "url": "https://www.appirits.com/ir/library"
+      },
+      {
+        "host": "arca.live",
+        "url": "https://arca.live/b/"
+      },
+      {
+        "host": "cygames.co.jp",
+        "url": "https://www.cygames.co.jp"
+      },
+      {
+        "host": "flerogames.com",
+        "url": "https://www.flerogames.com"
+      },
+      {
+        "host": "gungho.co.jp",
+        "url": "https://www.gungho.co.jp/en/ir/library"
+      },
+      {
+        "host": "herogames.com",
+        "url": "https://www.herogames.com"
+      },
+      {
+        "host": "koeitecmo.co.jp",
+        "url": "https://www.koeitecmo.co.jp/en/ir/library"
+      },
+      {
+        "host": "koeitecmo.co.jp",
+        "url": "https://www.koeitecmo.co.jp/en/ir"
+      },
+      {
+        "host": "pwrd.com",
+        "url": "https://www.pwrd.com/en/investor"
+      },
+      {
+        "host": "sec.gov",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar"
+      },
+      {
+        "host": "sec.gov",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=microsoft&CIK=0000789019"
+      },
+      {
+        "host": "sony.com",
+        "url": "https://www.sony.com"
+      },
+      {
+        "host": "sony.com",
+        "url": "https://www.sony.com/en/SonyInfo/IR"
+      },
+      {
+        "host": "zhihu.com",
+        "url": "https://www.zhihu.com/search?q="
+      }
+    ],
+    "timeout": [
+      {
+        "host": "gamepark.co.kr",
+        "url": "https://www.gamepark.co.kr"
+      },
+      {
+        "host": "movegames.com",
+        "url": "https://www.movegames.com"
+      }
+    ],
+    "other_errors": [
+      {
+        "host": "ubisoft.com",
+        "url": "https://www.ubisoft.com/en-us/company/investors/financial-documents",
+        "status": "HTTP_502"
+      },
+      {
+        "host": "nhnent.com",
+        "url": "https://www.nhnent.com",
+        "status": "URLERR"
+      },
+      {
+        "host": "warak.co.kr",
+        "url": "https://www.warak.co.kr",
+        "status": "URLERR"
+      },
+      {
+        "host": "nhnent.com",
+        "url": "https://www.nhnent.com/kr/ir",
+        "status": "URLERR"
+      }
+    ]
+  },
+  "geo_blocked": {
+    "tieba_baidu_403": 60,
+    "note": "tieba.baidu.com (바이두 티바)는 한국IP 봇/지역차단. 브라우저에서는 정상 동작 가능."
+  }
+}
