@@ -123,7 +123,7 @@ tr:last-child td{border-bottom:none}
 .cal-grid{gap:1px}
 }
 ::-webkit-scrollbar{width:6px;height:6px}::-webkit-scrollbar-track{background:var(--bg)}::-webkit-scrollbar-thumb{background:var(--fg-20);border-radius:3px}::-webkit-scrollbar-thumb:hover{background:var(--fg-30)}
-/* 게임 순위 카드 */
+/* 游戏 순位 카드 */
 .gcard-rank{display:flex;align-items:center;gap:12px;padding:10px 12px;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);cursor:pointer;transition:.15s}
 .gcard-rank:hover{background:var(--surface-hover);border-color:var(--fg-20)}
 .gcard-rank .grank{font-size:13px;font-weight:700;color:var(--fg-50);min-width:22px;text-align:center;font-variant-numeric:tabular-nums}
@@ -140,7 +140,7 @@ tr:last-child td{border-bottom:none}
 .gcard-rank .grev{font-size:14px;font-weight:700;color:var(--t1);font-variant-numeric:tabular-nums;min-width:64px;text-align:right}
 .gcard-rank .gbadge{font-size:9px;font-weight:700;padding:1px 5px;border-radius:3px;min-width:24px;text-align:center}
 @media(max-width:768px){.gcard-rank .gstack{display:none}.gcard-rank .gicon,.gcard-rank .gicon-ph{width:28px;height:28px}}
-/* 시장 점유율 */
+/* 시장 占有率 */
 .mkt-share{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px}
 .mkt-share-item{flex:1;min-width:130px;padding:12px 14px;border-radius:var(--radius);background:var(--surface-2);border:1px solid var(--border)}
 .mkt-share-item .ms-label{font-size:11px;color:var(--t2);font-weight:500}
@@ -190,7 +190,7 @@ th,td{padding:5px 6px!important}
 .modal h2{font-size:16px!important}
 /* 차트 캔버스 */
 canvas{max-width:100%!important}
-/* 순위 카드 */
+/* 순位 카드 */
 .gcard-rank .gstack{display:none}
 .gcard-rank .gicon,.gcard-rank .gicon-ph{width:28px;height:28px}
 .gcard-rank .grev{font-size:12px;min-width:52px}
@@ -199,7 +199,7 @@ canvas{max-width:100%!important}
 .cal-day .day-event{font-size:6px}
 /* 인플루언서 */
 .inf-pager button{padding:4px 9px;font-size:11px}
-/* 실시간 방송 SOOP/치지직 분할 — 모바일에서 세로 */
+/* 실시간 방송 SOOP/치지직 분할 — 모바日에서 세로 */
 #inf-streamers-soop,#inf-streamers-chzzk{max-height:300px;overflow-y:auto}
 /* 마케팅/뉴스 */
 .mkt-share{gap:6px}
@@ -245,51 +245,51 @@ canvas{max-width:100%!important}
 <div class="ctab on" onclick="setCountry('all',this)">全部</div>
 <div class="ctab" onclick="setCountry('kr',this)">한국</div>
 <div class="ctab" onclick="setCountry('cn',this)">중국</div>
-<div class="ctab" onclick="setCountry('jp',this)">일본</div>
+<div class="ctab" onclick="setCountry('jp',this)">日본</div>
 </div>
 <div class="kpis" id="ov-kpis"></div>
 <div class="card"><h3 id="ov-rank-title">月预估营收 Top 10</h3>
 <canvas id="ov-revenue-chart" width="600" height="200" style="margin-top:8px"></canvas>
-<table id="ov-rank" style="margin-top:12px"><thead><tr><th>#</th><th>게임</th><th>开发商</th><th>来源</th><th>月预估营收</th><th>日预估</th></tr></thead><tbody></tbody></table></div>
+<table id="ov-rank" style="margin-top:12px"><thead><tr><th>#</th><th>游戏</th><th>开发商</th><th>来源</th><th>月预估营收</th><th>日预估</th></tr></thead><tbody></tbody></table></div>
 <div class="card"><h3>游戏市场洞察</h3><div id="ov-videos" style="font-size:13px;line-height:1.8">
 <div style="display:flex;gap:12px;flex-wrap:wrap;margin-bottom:8px">
 <div style="flex:1;min-width:140px;padding:10px;border-radius:8px;background:var(--bg3);border:1px solid var(--border)">
 <div style="font-size:11px;color:var(--t2)">한국 Top1</div>
 <div style="font-weight:600">SOL: 인챈트</div>
-<div style="font-size:11px;color:var(--accent)">$9.5M/월</div>
+<div style="font-size:11px;color:var(--accent)">$9.5M/月</div>
 </div>
 <div style="flex:1;min-width:140px;padding:10px;border-radius:8px;background:var(--bg3);border:1px solid var(--border)">
 <div style="font-size:11px;color:var(--t2)">중국 Top1</div>
 <div style="font-weight:600">王者荣耀</div>
-<div style="font-size:11px;color:var(--accent)">$35M/월</div>
+<div style="font-size:11px;color:var(--accent)">$35M/月</div>
 </div>
 <div style="flex:1;min-width:140px;padding:10px;border-radius:8px;background:var(--bg3);border:1px solid var(--border)">
-<div style="font-size:11px;color:var(--t2)">일본 Top1</div>
+<div style="font-size:11px;color:var(--t2)">日본 Top1</div>
 <div style="font-weight:600">Pokémon GO</div>
-<div style="font-size:11px;color:var(--accent)">$18M/월</div>
+<div style="font-size:11px;color:var(--accent)">$18M/月</div>
 </div>
 </div>
 <div style="padding:8px;border-left:3px solid var(--accent);background:var(--bg3);border-radius:0 8px 8px 0;margin-top:8px">
-<b>시장 요약:</b> 3개국 모바일 게임 Top50 추정 월 매출 합계 <b>$325M</b> (한국 $66M, 중국 $221M, 일본 $108M). 중국이 전체의 68% 차지. 3개국 공통 진출 게임: 원신, 니케, 명조, Whiteout Survival.
+<b>시장 요약:</b> 3개국 모바日 游戏 Top50 预估 月 매출 합계 <b>$325M</b> (한국 $66M, 중국 $221M, 日본 $108M). 중국이 全部의 68% 차지. 3개국 공통 진출 游戏: 원신, 니케, 名조, Whiteout Survival.
 </div>
 </div></div>
 <div class="card"><h3>综合趋势分析</h3><div id="ov-trends" style="font-size:13px;line-height:1.8"></div></div>
 <div id="ad-bottom" style="margin:16px 0;text-align:center;min-height:90px"></div>
 </div>
 
-<!-- ===== 매출 순위 ===== -->
+<!-- ===== 매출 순位 ===== -->
 <div id="tab-rank" class="tc">
 <div class="country-tabs" id="rank-ctabs">
 <div class="ctab on" onclick="setCountry('kr',this,'rank')">한국</div>
 <div class="ctab" onclick="setCountry('cn',this,'rank')">중국</div>
-<div class="ctab" onclick="setCountry('jp',this,'rank')">일본</div>
+<div class="ctab" onclick="setCountry('jp',this,'rank')">日본</div>
 </div>
 <input class="search" placeholder="游戏名/开发商 검색..." oninput="renderRank(this.value)" id="rank-search">
 <div class="kpis" id="rank-kpis"></div>
 <div class="card"><h3>국가별 매출 비교 <small id="rank-period" style="font-size:10px;color:var(--t3)"></small></h3>
 <canvas id="rank-compare-chart" width="600" height="250" style="margin-top:8px"></canvas>
 </div>
-<div class="card"><h3 id="rank-title">韩国营收 Top 50</h3><table id="rank-table"><thead><tr><th>#</th><th>게임</th><th>开发商</th><th>来源</th><th>月预估营收</th><th>日预估</th></tr></thead><tbody></tbody></table></div>
+<div class="card"><h3 id="rank-title">韩国营收 Top 50</h3><table id="rank-table"><thead><tr><th>#</th><th>游戏</th><th>开发商</th><th>来源</th><th>月预估营收</th><th>日预估</th></tr></thead><tbody></tbody></table></div>
 </div>
 
 <!-- ===== 여론 분석 ===== -->
@@ -301,7 +301,7 @@ canvas{max-width:100%!important}
 </div>
 <div class="kpis" id="sent-kpis"></div>
 <input class="search" placeholder="游戏名 검색..." oninput="renderSentiment(this.value)" id="sent-search">
-<div class="card" id="sent-card"><h3 id="sent-title">💬 游戏舆论指数</h3><table id="sent-table"><thead><tr><th>게임</th><th>来源</th><th>지수</th><th>正面</th><th>负面</th><th>趋势</th><th>样本</th></tr></thead><tbody></tbody></table></div>
+<div class="card" id="sent-card"><h3 id="sent-title">💬 游戏舆论指数</h3><table id="sent-table"><thead><tr><th>游戏</th><th>来源</th><th>지수</th><th>正面</th><th>负面</th><th>趋势</th><th>样本</th></tr></thead><tbody></tbody></table></div>
 </div>
 
 <!-- ===== 인플루언서 ===== -->
@@ -309,7 +309,7 @@ canvas{max-width:100%!important}
 <div class="country-tabs" id="inf-ctabs">
 <div class="ctab on" onclick="setInfTab('kr',this)">한국</div>
 <div class="ctab" onclick="setInfTab('cn',this)">중국</div>
-<div class="ctab" onclick="setInfTab('jp',this)">일본</div>
+<div class="ctab" onclick="setInfTab('jp',this)">日본</div>
 <div class="ctab" onclick="setInfTab('all',this)">全部</div>
 </div>
 <div style="display:flex;gap:6px;margin-bottom:12px">
@@ -319,10 +319,10 @@ canvas{max-width:100%!important}
 </div>
 <input class="search" style="margin-bottom:12px" placeholder="搜索网红..." oninput="renderInfluencers(this.value)" id="inf-search">
 <div class="kpis" id="inf-kpis"></div>
-<!-- 한국 스트리밍 현황 (한국 탭에서만 표시) -->
+<!-- 한국 스트리밍 현황 (한국 탭에서万 표시) -->
 <div id="inf-softc-section" style="display:none">
 <div class="card"><h3>플랫폼별 현황 <button id="inf-refresh-btn" onclick="refreshPlatforms()" style="font-size:11px;padding:4px 10px;border-radius:var(--radius-sm);border:1px solid var(--border);background:var(--surface);color:var(--t2);cursor:pointer;font-weight:600;transition:.15s;margin-left:auto">🔄 새로고침</button></h3><div id="inf-platforms" style="display:flex;gap:8px;flex-wrap:wrap;margin-top:8px"></div></div>
-<div class="card"><h3>게임 카테고리 랭킹 <span style="font-size:10px;color:var(--t3);font-weight:400">(SOOP+치지직+트위치 통합)</span> <button id="inf-refresh-cat" onclick="refreshCategories()" style="font-size:11px;padding:4px 10px;border-radius:var(--radius-sm);border:1px solid var(--border);background:var(--surface);color:var(--t2);cursor:pointer;font-weight:600;transition:.15s;margin-left:auto">🔄 새로고침</button></h3><div id="inf-categories" style="margin-top:8px"></div></div>
+<div class="card"><h3>游戏 카테고리 랭킹 <span style="font-size:10px;color:var(--t3);font-weight:400">(SOOP+치지직+트位치 통합)</span> <button id="inf-refresh-cat" onclick="refreshCategories()" style="font-size:11px;padding:4px 10px;border-radius:var(--radius-sm);border:1px solid var(--border);background:var(--surface);color:var(--t2);cursor:pointer;font-weight:600;transition:.15s;margin-left:auto">🔄 새로고침</button></h3><div id="inf-categories" style="margin-top:8px"></div></div>
 <div class="card"><h3>실시간 방송 랭킹 <button id="inf-refresh-stream" onclick="refreshStreams()" style="font-size:11px;padding:4px 10px;border-radius:var(--radius-sm);border:1px solid var(--border);background:var(--surface);color:var(--t2);cursor:pointer;font-weight:600;transition:.15s;margin-left:auto">🔄 새로고침</button></h3>
 <div style="display:flex;gap:12px;margin-top:8px">
 <div style="flex:1;min-width:0">
@@ -342,11 +342,11 @@ canvas{max-width:100%!important}
 <h3 id="inf-rank-title">网红排名</h3>
 <table id="inf-table" style="width:100%">
 <thead><tr>
-<th onclick="sortInf('rank')" style="cursor:pointer">순위</th>
+<th onclick="sortInf('rank')" style="cursor:pointer">순位</th>
 <th>网红/KOL</th>
 <th onclick="sortInf('subscribers')" style="cursor:pointer">구독자</th>
-<th onclick="sortInf('avg_views')" style="cursor:pointer">평균观看</th>
-<th onclick="sortInf('engagement_rate')" style="cursor:pointer">참여율</th>
+<th onclick="sortInf('avg_views')" style="cursor:pointer">平均观看</th>
+<th onclick="sortInf('engagement_rate')" style="cursor:pointer">参与率</th>
 <th onclick="sortInf('tier')" style="cursor:pointer">등급</th>
 </tr></thead>
 <tbody></tbody>
@@ -354,7 +354,7 @@ canvas{max-width:100%!important}
 </div>
 </div>
 
-<!-- ===== 게임사 분석 ===== -->
+<!-- ===== 游戏사 분석 ===== -->
 <div id="tab-company" class="tc">
 <div class="country-tabs" id="co-ctabs">
 <div class="ctab on" onclick="setCoFilter('all',this)">🌐 全部</div>
@@ -366,14 +366,14 @@ canvas{max-width:100%!important}
 <div class="kpis" id="co-kpis"></div>
 <div class="card"><h3 id="co-chart-title">营收 Top 15 (2023-2025)</h3><canvas id="co-chart" width="600" height="300" style="margin-top:8px"></canvas></div>
 <div class="card"><h3 id="co-profit-title">营业利润率 Top 15</h3><canvas id="co-profit-chart" width="600" height="250" style="margin-top:8px"></canvas></div>
-<div class="card"><h3 id="co-title">🏢 全球游戏公司整体营收分析</h3><div style="overflow-x:auto"><table id="co-table" style="font-size:12px"><thead><tr><th>#</th><th>게임사</th><th>국가</th><th>2023 매출</th><th>2024 매출</th><th>2025 营收</th><th>YoY</th><th>2025 营业利润</th><th>영업이익률</th><th>주요 프랜차이즈</th><th>来源</th></tr></thead><tbody></tbody></table></div></div>
+<div class="card"><h3 id="co-title">🏢 全球游戏公司整体营收分析</h3><div style="overflow-x:auto"><table id="co-table" style="font-size:12px"><thead><tr><th>#</th><th>游戏사</th><th>국가</th><th>2023 매출</th><th>2024 매출</th><th>2025 营收</th><th>YoY</th><th>2025 营业利润</th><th>영업이익률</th><th>주요 프랜차이즈</th><th>来源</th></tr></thead><tbody></tbody></table></div></div>
 </div>
 
-<!-- 게임사 상세 모달 -->
+<!-- 游戏사 상세 모달 -->
 <div class="modal-bg" id="co-modal" onclick="if(event.target===this)closeCoModal()">
 <div class="modal">
 <span class="modal-close" onclick="closeCoModal()">✕</span>
-<h2 id="co-modal-title">게임사</h2>
+<h2 id="co-modal-title">游戏사</h2>
 <div id="co-modal-body"></div>
 </div>
 </div>
@@ -414,7 +414,7 @@ canvas{max-width:100%!important}
 </div><!-- /mn -->
 </div><!-- /container -->
 
-<!-- ===== 게임 상세 모달 ===== -->
+<!-- ===== 游戏 상세 모달 ===== -->
 <div class="modal-bg" id="game-modal" onclick="if(event.target===this)closeModal()">
 <div class="modal">
 <span class="modal-close" onclick="closeModal()">✕</span>
@@ -429,7 +429,7 @@ canvas{max-width:100%!important}
 <div class="modal-bg" id="inf-modal" onclick="if(event.target===this)closeInfPopup()">
 <div class="modal">
 <span class="modal-close" onclick="closeInfPopup()">✕</span>
-<h2>게임 인플루언서</h2>
+<h2>游戏 인플루언서</h2>
 <div class="country-tabs">
 <div class="ctab on" onclick="setInfCountry('kr',this)">🇰🇷 韩国</div>
 <div class="ctab" onclick="setInfCountry('cn',this)">🇨🇳 中国</div>
@@ -477,9 +477,9 @@ function openCatDetail(game,rank,viewers){
   var sTier=gameInf.filter(function(i){return i.tier==='S'}).length;
   var html='<div class="kpis" style="margin-bottom:12px">';
   html+='<div class="kpi"><div class="l">观看数</div><div class="v">'+viewers+'</div><div class="s">실시간</div></div>';
-  html+='<div class="kpi"><div class="l">网红/KOL</div><div class="v">'+gameInf.length+'</div><div class="s">명</div></div>';
+  html+='<div class="kpi"><div class="l">网红/KOL</div><div class="v">'+gameInf.length+'</div><div class="s">名</div></div>';
   html+='<div class="kpi"><div class="l">总订阅数</div><div class="v">'+(totalSub/1e6).toFixed(1)+'M</div><div class="s">합계</div></div>';
-  html+='<div class="kpi"><div class="l">S级</div><div class="v">'+sTier+'</div><div class="s">명</div></div>';
+  html+='<div class="kpi"><div class="l">S级</div><div class="v">'+sTier+'</div><div class="s">名</div></div>';
   html+='</div>';
   if(gameInf.length){
     html+='<div class="modal-sec"><h4>相关网红</h4>';
@@ -506,9 +506,9 @@ let infSortDir=1;
 let infFilter='all';
 
 const CFLAGS={kr:'🇰🇷',cn:'🇨🇳',jp:'🇯🇵',all:'🌐'};
-const CNAMES={kr:'한국',cn:'중국',jp:'일본',all:'전체'};
+const CNAMES={kr:'한국',cn:'중국',jp:'日본',all:'全部'};
 
-// ===== 게임 다국어 매핑 (KR/CN/JP) — loadData에서 GAME_I18N 로드됨 =====
+// ===== 游戏 다국어 매핑 (KR/CN/JP) — loadData에서 GAME_I18N 로드됨 =====
 
 // ===== DC 갤러리 ID 매핑 — loadData에서 로드됨 =====
 
@@ -533,7 +533,7 @@ function fmtSub(n){
   return n;
 }
 function fmtRev(v){
-  v=parseInt(String(v||'').replace(/[,원억]/g,''))||0;
+  v=parseInt(String(v||'').replace(/[,원亿]/g,''))||0;
   if(v<0)return'-$'+((-v)/1e6).toFixed(2)+'M';
   if(v>=1e9)return'$'+(v/1e9).toFixed(2)+'B';
   if(v>=1e6)return'$'+(v/1e6).toFixed(2)+'M';
@@ -580,7 +580,7 @@ function showTab(tab,el){
   document.getElementById('page-title').textContent=titles[tab]||'';
   if(tab==='overview')loadOverview();
   if(tab==='rank'){
-    if(country==='all')country='kr'; // 매출순위 기본 한국
+    if(country==='all')country='kr'; // 매출순位 기본 한국
     renderRank(document.getElementById('rank-search')?document.getElementById('rank-search').value:'');
   }
   if(tab==='sentiment')renderSentiment(document.getElementById('sent-search')?document.getElementById('sent-search').value:'');
@@ -650,7 +650,7 @@ function loadOverview(){
     allData.sort(function(a,b){return (b.est_revenue||0)-(a.est_revenue||0)});
     displayData=allData.slice(0,10);
   } else {
-    // 단일 국가 선택 시 _c 속성 부여 (来源 태그 정확도)
+    // 단日 국가 선택 시 _c 속성 부여 (来源 태그 정확도)
     displayData=data.map(function(g){return Object.assign({},g,{_c:country})});
     if(country!=='all')displayData=displayData.slice(0,10);
   }
@@ -669,7 +669,7 @@ function loadOverview(){
   if(isCN){
     var biliCount=0;
     Object.values(BILI||{}).forEach(function(v){if(v)biliCount++});
-    kpiRows.push('<div class="kpi"><div class="l">Bilibili 영상</div><div class="v">'+biliCount+'</div><div class="s">중국</div></div>');
+    kpiRows.push('<div class="kpi"><div class="l">Bilibili 视频</div><div class="v">'+biliCount+'</div><div class="s">중국</div></div>');
   }
   if(isJP){
     var twData=SJP||{};
@@ -705,15 +705,15 @@ function loadOverview(){
     var revData=top10.map(function(g){return g.est_revenue||Math.max(100000,1100000-(g.rank||1)*100000)});
     window.ovChart=new Chart(ctx,{
       type:'bar',
-      data:{labels:labels,datasets:[{label:'추정 월 매출',data:revData,borderColor:'#22d3ee',backgroundColor:'rgba(34,211,238,.8)',borderRadius:4}]},
+      data:{labels:labels,datasets:[{label:'预估 月 매출',data:revData,borderColor:'#22d3ee',backgroundColor:'rgba(34,211,238,.8)',borderRadius:4}]},
       options:{responsive:true,
-        plugins:{legend:{display:false},tooltip:{callbacks:{label:function(c){return '추정 매출: '+fmtRev(c.raw)}}}},
-        scales:{y:{title:{display:true,text:'추정 월 매출 (USD)',color:_cl},ticks:{color:_ct,callback:function(v){return fmtRev(v)}},grid:{color:_cg}},x:{ticks:{color:_ct,font:{size:9}},grid:{display:false}}}
+        plugins:{legend:{display:false},tooltip:{callbacks:{label:function(c){return '预估 매출: '+fmtRev(c.raw)}}}},
+        scales:{y:{title:{display:true,text:'预估 月 매출 (USD)',color:_cl},ticks:{color:_ct,callback:function(v){return fmtRev(v)}},grid:{color:_cg}},x:{ticks:{color:_ct,font:{size:9}},grid:{display:false}}}
       }
     });
   }
 
-  // 국가별 매출 분석 (영상 대체)
+  // 국가별 매출 분석 (视频 대체)
   var vContainer=document.getElementById('ov-videos');
   if(vContainer){
     var revTotal={kr:0,cn:0,jp:0};
@@ -721,18 +721,18 @@ function loadOverview(){
     (CN||[]).forEach(function(g){revTotal.cn+=(g.est_revenue||0)});
     (JP||[]).forEach(function(g){revTotal.jp+=(g.est_revenue||0)});
     var revHTML='<div style="display:flex;gap:12px;flex-wrap:wrap;margin-bottom:12px">';
-    var countries=[['kr','한국',revTotal.kr,'#0066ff'],['cn','중국',revTotal.cn,'#ff4444'],['jp','일본',revTotal.jp,'#ff8800']];
+    var countries=[['kr','한국',revTotal.kr,'#0066ff'],['cn','중국',revTotal.cn,'#ff4444'],['jp','日본',revTotal.jp,'#ff8800']];
     countries.forEach(function(c){
       var pct=c[2]/(revTotal.kr+revTotal.cn+revTotal.jp)*100;
       revHTML+='<div style="flex:1;min-width:120px;padding:12px;border-radius:8px;background:var(--bg3);border:1px solid var(--border)">'+
         '<div style="font-size:11px;color:var(--t2)">'+c[1]+'</div>'+
         '<div style="font-size:20px;font-weight:700;color:'+c[3]+'">$'+(c[2]/1e6).toFixed(1)+'M</div>'+
-        '<div style="font-size:10px;color:var(--t3)">'+pct.toFixed(0)+'% 점유율</div>'+
+        '<div style="font-size:10px;color:var(--t3)">'+pct.toFixed(0)+'% 占有率</div>'+
         '<div style="height:4px;background:var(--bg2);border-radius:2px;margin-top:4px"><div style="height:100%;width:'+pct+'%;background:'+c[3]+';border-radius:2px"></div></div>'+
         '</div>';
     });
     revHTML+='</div>';
-    revHTML+='<div style="font-size:12px;color:var(--t3);margin-top:4px">한국 Top50 + 중국 Top50 + 일본 Top50 추정 월 매출 합계 | 환율 1,500원/$</div>';
+    revHTML+='<div style="font-size:12px;color:var(--t3);margin-top:4px">한국 Top50 + 중국 Top50 + 日본 Top50 预估 月 매출 합계 | 환율 1,500원/$</div>';
     vContainer.innerHTML=revHTML;
   }
 
@@ -760,7 +760,7 @@ function loadOverview(){
       var escGn=escAttr(gn);
       var detail='매출: $'+(rev/1e6).toFixed(1)+'M ('+revScore.toFixed(0)+'점/40)\\n'+
         '여론: '+(sent?('지수 '+sent.index+' ('+sentScore.toFixed(0)+'점/30)'):'데이터 없음')+'\\n'+
-        '영상: '+(vid?(fmt(vid.total_plays||vid.total_views||0)+'观看 ('+vidScore.toFixed(0)+'점/20)'):('없음 ('+vidScore+'점/20)'))+'\\n'+
+        '视频: '+(vid?(fmt(vid.total_plays||vid.total_views||0)+'观看 ('+vidScore.toFixed(0)+'점/20)'):('없음 ('+vidScore+'점/20)'))+'\\n'+
         '마케팅: '+mktCount+'개 활동 ('+mktScore+'점/10)';
       trendRows.push('<div onclick="alert(\''+escGn+'\\n종합 점수: '+total+'점\\n\\n'+detail+'\')" style="display:flex;justify-content:space-between;padding:6px 0;border-bottom:1px solid var(--border);cursor:pointer">'+
         '<span>'+(idx+1)+'. '+gn.slice(0,15)+'</span>'+
@@ -770,7 +770,7 @@ function loadOverview(){
   }
 }
 
-// ===== 매출 순위 탭 =====
+// ===== 매출 순位 탭 =====
 function renderRank(q){
   q=(q||'').toLowerCase();
   var data=getRankData();
@@ -800,7 +800,7 @@ function renderRank(q){
   if(periodEl){
     var now=new Date();
     var prev=new Date(now.getTime()-30*24*60*60*1000);
-    periodEl.textContent='('+prev.getFullYear()+'.'+(prev.getMonth()+1)+' ~ '+now.getFullYear()+'.'+(now.getMonth()+1)+' 추정)';
+    periodEl.textContent='('+prev.getFullYear()+'.'+(prev.getMonth()+1)+' ~ '+now.getFullYear()+'.'+(now.getMonth()+1)+' 预估)';
   }
 
   // KPI
@@ -810,9 +810,9 @@ function renderRank(q){
     var top10=games.slice(0,10).reduce(function(s,g){return s+(g.est_revenue||0)},0);
     var avgRev=games.length?totalRev/games.length:0;
     kpis.innerHTML=
-      '<div class="kpi"><div class="l">总营收</div><div class="v">$'+(totalRev/1e6).toFixed(1)+'M</div><div class="s">'+CNAMES[country]+'/월</div></div>'+
+      '<div class="kpi"><div class="l">总营收</div><div class="v">$'+(totalRev/1e6).toFixed(1)+'M</div><div class="s">'+CNAMES[country]+'/月</div></div>'+
       '<div class="kpi"><div class="l">Top10 营收</div><div class="v">$'+(top10/1e6).toFixed(1)+'M</div><div class="s">'+(top10/totalRev*100).toFixed(0)+'% 점유</div></div>'+
-      '<div class="kpi"><div class="l">平均营收</div><div class="v">'+fmtRev(avgRev)+'</div><div class="s">게임당</div></div>'+
+      '<div class="kpi"><div class="l">平均营收</div><div class="v">'+fmtRev(avgRev)+'</div><div class="s">游戏당</div></div>'+
       '<div class="kpi"><div class="l">追踪游戏</div><div class="v">'+games.length+'</div><div class="s">'+CNAMES[country]+'</div></div>';
   }
 
@@ -831,10 +831,10 @@ function renderRank(q){
       data:{labels:labels,datasets:[
         {label:'한국',data:krTop10,borderColor:'#3b82f6',backgroundColor:'rgba(96,165,250,.85)',borderRadius:3},
         {label:'중국',data:cnTop10,borderColor:'#ef4444',backgroundColor:'rgba(248,113,113,.85)',borderRadius:3},
-        {label:'일본',data:jpTop10,borderColor:'#f59e0b',backgroundColor:'rgba(251,191,36,.85)',borderRadius:3}
+        {label:'日본',data:jpTop10,borderColor:'#f59e0b',backgroundColor:'rgba(251,191,36,.85)',borderRadius:3}
       ]},
       options:{responsive:true,plugins:{legend:{position:'top',labels:{color:_cl}}},
-        scales:{y:{title:{display:true,text:'추정 월 매출 (USD)',color:_cl},ticks:{color:_ct,callback:function(v){return fmtRev(v)}},grid:{color:_cg}},x:{ticks:{color:_ct},grid:{display:false}}},
+        scales:{y:{title:{display:true,text:'预估 月 매출 (USD)',color:_cl},ticks:{color:_ct,callback:function(v){return fmtRev(v)}},grid:{color:_cg}},x:{ticks:{color:_ct},grid:{display:false}}},
         tooltip:{callbacks:{label:function(c){return c.dataset.label+': '+fmtRev(c.raw)}}}
       }
     });
@@ -853,7 +853,7 @@ function renderSentiment(q){
     sentTitle.textContent='💬 중국 여론 (Bilibili + TapTap)';
   }else if(country==='jp'){
     sentFull=SJP||{};srcLabel='gp';
-    sentTitle.textContent='💬 일본 여론 (Google Play 리뷰)';
+    sentTitle.textContent='💬 日본 여론 (Google Play 리뷰)';
   }else{
     sentFull=SKR||{};srcLabel='dc';
     sentTitle.textContent='💬 한국 여론 (DC + GP + YT 통합)';
@@ -914,7 +914,7 @@ function renderSentiment(q){
         var parts=[];
         if(data.posts)parts.push(data.posts+'게시글');
         if(data.reviews)parts.push(data.reviews+'리뷰');
-        if(data.videos)parts.push(data.videos+'영상');
+        if(data.videos)parts.push(data.videos+'视频');
         if(data.comments)parts.push(data.comments+'댓글');
         if(data.rating)parts.push(data.rating+'⭐');
         if(data.plays)parts.push((data.plays/1e6).toFixed(1)+'M재생');
@@ -937,11 +937,11 @@ function renderSentiment(q){
   tbody.innerHTML=rows.join('');
 }
 
-// ===== 여론 상세 모달 =====
+// ===== 舆论详情 모달 =====
 function openSentDetail(game,idx,trend,detail){
   var modal=document.getElementById('game-modal');
-  document.getElementById('modal-title').textContent=game+' — 여론 상세';
-  // 차트/영상 섹션 숨기기
+  document.getElementById('modal-title').textContent=game+' — 舆论详情';
+  // 차트/视频 섹션 숨기기
   var chartSec=document.getElementById('modal-chart-sec');
   var vidSec=document.getElementById('modal-videos-sec');
   if(chartSec)chartSec.style.display='none';
@@ -1051,7 +1051,7 @@ function openSentDetail(game,idx,trend,detail){
   var sentJp=SJP[game];
   if(sentKr)parts.push('<p>한국: 지수 '+sentKr.index+' ('+sentKr.trend+') — '+(sentKr.summary?sentKr.summary.slice(0,60):'')+'</p>');
   if(sentCn)parts.push('<p>중국: 지수 '+sentCn.index+' ('+sentCn.trend+') — '+(sentCn.summary?sentCn.summary.slice(0,60):'')+'</p>');
-  if(sentJp)parts.push('<p>일본: 지수 '+(sentJp.index||'?')+' ('+(sentJp.trend||'?')+') — '+(sentJp.summary?sentJp.summary.slice(0,60):'')+'</p>');
+  if(sentJp)parts.push('<p>日본: 지수 '+(sentJp.index||'?')+' ('+(sentJp.trend||'?')+') — '+(sentJp.summary?sentJp.summary.slice(0,60):'')+'</p>');
   if(!sentKr&&!sentCn&&!sentJp)parts.push('<p style="color:var(--t3)">데이터 없음</p>');
   parts.push('</div></div>');
 
@@ -1106,7 +1106,7 @@ function getInfList(q){
 // ===== 인플루언서 탭 =====
 function renderInfluencers(q){
   var data=getInfList(q);
-  // KPI (필터 전체 기준)
+  // KPI (필터 全部 기준)
   var allFiltered=(INF||[]).filter(function(i){
     if(!(!i.country||i.country===infTab||infTab==='all'))return false;
     if(infFilter==='official')return i.is_official===true;
@@ -1115,13 +1115,13 @@ function renderInfluencers(q){
   });
   var total=allFiltered.length;
 
-  // 한국 탭에서만 스트리밍 현황 표시
+  // 한국 탭에서万 스트리밍 현황 표시
   var softcSection=document.getElementById('inf-softc-section');
   if(softcSection){
     softcSection.style.display=(infTab==='kr'||infTab==='all')?'block':'none';
   }
 
-  // 소프트콘 전체 렌더링 (분리된 함수 호출)
+  // 소프트콘 全部 렌더링 (분리된 함수 호출)
   renderInfSoftc();
 
   var totalSub=allFiltered.reduce(function(s,i){return s+(i.subscribers||0)},0);
@@ -1129,18 +1129,18 @@ function renderInfluencers(q){
   var sTier=allFiltered.filter(function(i){return i.tier==='S'}).length;
   var kpisEl=document.getElementById('inf-kpis');
   if(kpisEl){
-    var tabLabel=infTab==='all'?'전체':(CNAMES[infTab]||'');
+    var tabLabel=infTab==='all'?'全部':(CNAMES[infTab]||'');
     kpisEl.innerHTML=
       '<div class="kpi"><div class="l">网红/KOL</div><div class="v">'+total+'</div><div class="s">'+tabLabel+'</div></div>'+
       '<div class="kpi"><div class="l">总订阅数</div><div class="v">'+fmtSub(totalSub)+'</div><div class="s">합산</div></div>'+
       '<div class="kpi"><div class="l">平均参与率</div><div class="v">'+avgEng.toFixed(1)+'%</div><div class="s">engagement</div></div>'+
-      '<div class="kpi"><div class="l">S级</div><div class="v" style="color:#ff4444">'+sTier+'</div><div class="s">300만+</div></div>';
+      '<div class="kpi"><div class="l">S级</div><div class="v" style="color:#ff4444">'+sTier+'</div><div class="s">300万+</div></div>';
   }
 
   // 테이블
   var tbody=document.querySelector('#inf-table tbody');
   if(!tbody)return;
-  var tabLabel2=infTab==='all'?'전체':(CNAMES[infTab]||'');
+  var tabLabel2=infTab==='all'?'全部':(CNAMES[infTab]||'');
   document.getElementById('inf-rank-title').textContent=tabLabel2+' 网红排名';
 
   if(!data.length){
@@ -1186,8 +1186,8 @@ function openInfDetail(idx){
   parts.push('<div style="display:flex;gap:16px;margin-bottom:16px">');
   parts.push('<div style="text-align:center"><div style="font-size:36px;font-weight:700;color:'+tierColor(tier)+'">'+tier+'</div><div style="font-size:11px;color:var(--t2)">등급</div></div>');
   parts.push('<div style="text-align:center"><div style="font-size:24px">'+fmtSub(inf.subscribers||0)+'</div><div style="font-size:11px;color:var(--t2)">구독자</div></div>');
-  parts.push('<div style="text-align:center"><div style="font-size:24px">'+fmtSub(inf.avg_views||0)+'</div><div style="font-size:11px;color:var(--t2)">평균 观看</div></div>');
-  parts.push('<div style="text-align:center"><div style="font-size:24px">'+(inf.engagement_rate||0).toFixed(1)+'%</div><div style="font-size:11px;color:var(--t2)">참여율</div></div>');
+  parts.push('<div style="text-align:center"><div style="font-size:24px">'+fmtSub(inf.avg_views||0)+'</div><div style="font-size:11px;color:var(--t2)">平均 观看</div></div>');
+  parts.push('<div style="text-align:center"><div style="font-size:24px">'+(inf.engagement_rate||0).toFixed(1)+'%</div><div style="font-size:11px;color:var(--t2)">参与率</div></div>');
   parts.push('</div>');
 
   // 频道信息
@@ -1195,10 +1195,10 @@ function openInfDetail(idx){
   parts.push('<div style="font-size:13px;line-height:1.8">');
   parts.push('<div>플랫폼: '+(inf.platform||'YouTube')+'</div>');
   parts.push('<div>국가: '+(infTab==='all'?(CNAMES[inf.country]||''):(CNAMES[infTab]||''))+'</div>');
-  parts.push('<div>카테고리: '+(inf.category||'게임')+'</div>');
-  parts.push('<div>월간 성장률: +'+(inf.growth_rate||0).toFixed(1)+'%</div>');
+  parts.push('<div>카테고리: '+(inf.category||'游戏')+'</div>');
+  parts.push('<div>月간 성장률: +'+(inf.growth_rate||0).toFixed(1)+'%</div>');
   parts.push('<div>총 콘텐츠: '+(inf.content_count||'?')+'개</div>');
-  parts.push('<div>주요 게임: '+((inf.main_games||[]).join(', ')||'-')+'</div>');
+  parts.push('<div>주요 游戏: '+((inf.main_games||[]).join(', ')||'-')+'</div>');
   parts.push('</div></div>');
 
   // 채널 링크
@@ -1225,7 +1225,7 @@ function _fetchSoftcAndRender(module){
   var btn=document.getElementById(btnIds[module]||'inf-refresh-btn');
   if(btn){btn.textContent='⏳';btn.disabled=true;}
   // 1) 치지직 live API 직접 호출 (실시간)
-  var cats=['게임','롤','발로란트','오버워치','배틀그라운드','마인크래프트','서든어택','로스트아크','FC온라인','스타크래프트'];
+  var cats=['游戏','롤','발로란트','오버워치','배틀그라운드','마인크래프트','서든어택','로스트아크','FC온라인','스타크래프트'];
   var liveStreamers=[];
   var liveCats=[];
   var done=0;
@@ -1244,7 +1244,7 @@ function _fetchSoftcAndRender(module){
             catViewers+=v;
           }
         });
-        if(catViewers>0)liveCats.push({rank:0,game:cat,viewers:catViewers.toLocaleString()+'명'});
+        if(catViewers>0)liveCats.push({rank:0,game:cat,viewers:catViewers.toLocaleString()+'名'});
         done++;
         if(done>=totalCats)_finishLiveRefresh();
       }).catch(function(){done++;if(done>=totalCats)_finishLiveRefresh();});
@@ -1266,7 +1266,7 @@ function _fetchSoftcAndRender(module){
     var chzzkViewers=liveStreamers.reduce(function(s,x){return s+parseInt(x.viewers||0)},0);
     if(chzzkViewers>0&&SOFTC.platforms){
       SOFTC.platforms=SOFTC.platforms.map(function(p){
-        if(p.name&&(p.name.indexOf('치지직')>=0||p.name.indexOf('Chzzk')>=0)){p.viewers=chzzkViewers.toLocaleString()+'명';}
+        if(p.name&&(p.name.indexOf('치지직')>=0||p.name.indexOf('Chzzk')>=0)){p.viewers=chzzkViewers.toLocaleString()+'名';}
         return p;
       });
     }
@@ -1274,10 +1274,10 @@ function _fetchSoftcAndRender(module){
     else if(module==='cat')renderSoftcCategories();
     else if(module==='stream')renderSoftcStreamers();
     else{renderSoftcPlatforms();renderSoftcCategories();renderSoftcStreamers();}
-    if(btn){btn.textContent='✅ '+(liveStreamers.length>0?liveStreamers.length+'명 실시간':'');btn.disabled=false;}
+    if(btn){btn.textContent='✅ '+(liveStreamers.length>0?liveStreamers.length+'名 실시간':'');btn.disabled=false;}
     setTimeout(function(){if(btn){btn.textContent='🔄 새로고침';}},3000);
   }
-  // 2) fallback: fetch 실패 시 기존 정적 파일
+  // 2) fallback: fetch 실패 시 기존 정적 파日
   setTimeout(function(){
     if(done<totalCats){
       var base=(window.location.hostname.includes('github.io'))?'./data/':'';
@@ -1308,7 +1308,7 @@ function renderSoftcCategories(){
   catDiv.innerHTML=SOFTC.categories.filter(function(c){return c&&c.game&&c.game!=='undefined'}).slice(0,10).map(function(c){
     return '<div style="display:flex;justify-content:space-between;padding:5px 0;border-bottom:1px solid var(--border)">'+
       '<span style="font-size:12px">'+c.rank+'. '+(c.game||'')+'</span>'+
-      '<span style="font-size:11px;color:var(--t2)">'+(c.viewers||'')+'명</span></div>';
+      '<span style="font-size:11px;color:var(--t2)">'+(c.viewers||'')+'名</span></div>';
   }).join('')||'<p style="color:var(--t3)">데이터 없음</p>';
 }
 function renderSoftcStreamers(){
@@ -1348,10 +1348,10 @@ function _streamerHTML(s,color){
     '<span style="font-size:11px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:140px">'+nameHTML+title+'</span>'+
     '<span style="font-size:10px;font-weight:700;color:'+color+';white-space:nowrap">'+parseInt(s.viewers||0).toLocaleString()+'</span></div>';
 }
-// renderInfSoftc는 호환성 유지 — 전체 렌더
+// renderInfSoftc는 호환성 유지 — 全部 렌더
 function renderInfSoftc(){renderSoftcPlatforms();renderSoftcCategories();renderSoftcStreamers();}
 
-// ===== 게임사 분석 탭 =====
+// ===== 游戏사 분석 탭 =====
 let coFilter='all';
 function setCoFilter(c,el){
   coFilter=c;
@@ -1383,7 +1383,7 @@ function renderCompany(){
     kpis.innerHTML=
       '<div class="kpi"><div class="l">分析企业数</div><div class="v">'+filtered.length+'</div><div class="s">개사</div></div>'+
       '<div class="kpi pos"><div class="l">总营收 (2025E)</div><div class="v">$'+(totalRev/1000).toFixed(1)+'B</div><div class="s">합계</div></div>'+
-      '<div class="kpi '+(avgMargin>=20?'pos':'neg')+'"><div class="l">平均营业利润率</div><div class="v">'+avgMargin+'%</div><div class="s">업계 평균</div></div>'+
+      '<div class="kpi '+(avgMargin>=20?'pos':'neg')+'"><div class="l">平均营业利润率</div><div class="v">'+avgMargin+'%</div><div class="s">行业平均</div></div>'+
       '<div class="kpi"><div class="l">盈利企业</div><div class="v">'+profitable+'</div><div class="s">/ '+filtered.length+'</div></div>';
   }
 
@@ -1438,7 +1438,7 @@ function renderCompany(){
       options:{responsive:true,
         scales:{y:{ticks:{color:_ct,callback:function(v){return v+'%'}},grid:{color:_cg}},x:{ticks:{color:_ct,font:{size:9}},grid:{display:false}}},
         plugins:{legend:{display:false},
-          tooltip:{callbacks:{label:function(ctx){var d=profitData[ctx.dataIndex];if(!d)return'';return d.margin+'% (영업이익 $'+(d.op/1000).toFixed(1)+'B / 매출 $'+(d.rev/1000).toFixed(1)+'B)'}}}}
+          tooltip:{callbacks:{label:function(ctx){var d=profitData[ctx.dataIndex];if(!d)return'';return d.margin+'% (营业利润 $'+(d.op/1000).toFixed(1)+'B / 매출 $'+(d.rev/1000).toFixed(1)+'B)'}}}}
       }
     });
   }
@@ -1463,10 +1463,10 @@ function renderCompany(){
     var nameEn=(c.name||'').slice(0,25);
     if(nameEn===name)nameEn='';
     var fr=(c.notes||'').slice(0,35);
-    var srcMap={'DART 사업보고서 (금융감독원)':'DART','EDINET 유가증권보고서 (관동장관)':'EDINET','CSRC 연간보고서 (중국증감회)':'CSRC','HKEX 연간보고서 (홍콩거래소)':'HKEX','SEC 10-K (미국증권거래위원회)':'SEC 10-K','Sensor Tower / 시장 추정':'Sensor Tower','Finansinspektionen (스웨덴금융감독원)':'FI(SE)','AMF 연간보고서 (프랑스금융시장당국)':'AMF(FR)','각국 공식 공시':'공식공시'};
+    var srcMap={'DART 사업보고서 (금융감독원)':'DART','EDINET 유가증권보고서 (관동장관)':'EDINET','CSRC 연간보고서 (중국증감회)':'CSRC','HKEX 연간보고서 (홍콩거래소)':'HKEX','SEC 10-K (미국증권거래位원회)':'SEC 10-K','Sensor Tower / 시장 预估':'Sensor Tower','Finansinspektionen (스웨덴금융감독원)':'FI(SE)','AMF 연간보고서 (프랑스금융시장당국)':'AMF(FR)','각국 공식 공시':'공식공시'};
     var srcRaw=c.source||'';
     var srcShort=srcMap[srcRaw]||srcRaw.slice(0,12);
-    var srcColor=srcRaw.indexOf('Sensor')>=0||srcRaw.indexOf('추정')>=0?'var(--t3)':'var(--pos)';
+    var srcColor=srcRaw.indexOf('Sensor')>=0||srcRaw.indexOf('预估')>=0?'var(--t3)':'var(--pos)';
     return '<tr onclick="openCoModal('+i+')" style="cursor:pointer">'+
       '<td style="font-weight:700;color:var(--fg-50)">'+rank+'</td>'+
       '<td style="font-weight:600">'+escAttr(name)+(nameEn?'<div style="font-size:10px;color:var(--t3);font-weight:400">'+escAttr(nameEn)+'</div>':'')+'</td>'+
@@ -1508,12 +1508,12 @@ function openCoModal(idx){
   var html='';
   // KPI 카드
   html+='<div class="kpis" style="margin-bottom:16px">';
-  html+='<div class="kpi"><div class="l">2025 营收</div><div class="v">$'+(r25/1000).toFixed(2)+'B</div><div class="s">'+won25+'억원</div></div>';
+  html+='<div class="kpi"><div class="l">2025 营收</div><div class="v">$'+(r25/1000).toFixed(2)+'B</div><div class="s">'+won25+'亿원</div></div>';
   html+='<div class="kpi"><div class="l">2025 营业利润</div><div class="v">'+(op25!=null?'$'+(op25/1000).toFixed(2)+'B':'N/A')+'</div><div class="s">'+(margin!=null?'마진 '+margin+'%':'')+'</div></div>';
   html+='<div class="kpi"><div class="l">YoY 增长率</div><div class="v" style="'+(yoy>=0?'color:var(--pos)':'color:var(--neg)')+'">'+(yoy!=null?(yoy>=0?'+':'')+yoy+'%':'-')+'</div><div class="s">2024 대비</div></div>';
   html+='<div class="kpi"><div class="l">代码</div><div class="v" style="font-size:14px">'+(c.ticker||'비상장')+'</div><div class="s">'+(c.type||'')+'</div></div>';
   html+='</div>';
-  // 3년 추이 표
+  // 3年 추이 표
   html+='<div class="modal-sec"><h4>📊 3年财务趋势</h4>';
   html+='<table style="width:100%;font-size:12px"><thead><tr><th>연도</th><th>매출</th><th>영업이익</th><th>영업이익률</th></tr></thead><tbody>';
   var years=[
@@ -1528,7 +1528,7 @@ function openCoModal(idx){
   html+='</tbody></table></div>';
   // 정보
   html+='<div class="modal-sec"><h4>🏢 企业信息</h4><div style="font-size:13px;line-height:1.8">';
-  html+='<p><b>영문명:</b> '+escAttr(c.name||'')+'</p>';
+  html+='<p><b>영문名:</b> '+escAttr(c.name||'')+'</p>';
   if(c.ticker)html+='<p><b>상장:</b> '+escAttr(c.ticker)+'</p>';
   html+='<p><b>来源:</b> <span style="color:var(--pos)">'+escAttr(c.source||'')+'</span></p>';
   if(c.notes)html+='<p style="margin-top:8px;padding:8px;background:var(--bg3);border-radius:6px;font-size:12px;color:var(--t2)">'+escAttr(c.notes)+'</p>';
@@ -1547,7 +1547,7 @@ function openCoModal(idx){
   // 2. 来源 (공시시스템 또는 Sensor Tower)
   var srcUrl=c.source_url||'';
   var srcName=c.source||'';
-  if(srcName.indexOf('Sensor Tower')>=0||srcName.indexOf('시장 추정')>=0){
+  if(srcName.indexOf('Sensor Tower')>=0||srcName.indexOf('시장 预估')>=0){
     // Sensor Tower — 검색 페이지로 이동
     srcUrl='https://sensortower.com/overview?q='+encodeURIComponent(c.name||searchName);
   }
@@ -1560,7 +1560,7 @@ function openCoModal(idx){
   var newsUrl='';
   var newsLabel='';
   if(c.country==='kr'){
-    newsUrl='https://www.google.com/search?q='+encodeURIComponent(searchName+' 게임')+'&tbm=nws&gl=kr&hl=ko';
+    newsUrl='https://www.google.com/search?q='+encodeURIComponent(searchName+' 游戏')+'&tbm=nws&gl=kr&hl=ko';
     newsLabel='📰 한국 뉴스';
   }else if(c.country==='cn'){
     var cnName=c.name||searchName;
@@ -1631,13 +1631,13 @@ function calToday(){
   renderCalendar();
 }
 // 이벤트 타입 라벨 (한국어)
-var CAL_TYPE_LABELS={update:'업데이트',collaboration:'콜라보',event:'이벤트',release:'출시',ranking:'순위',maintenance:'점검',info:'기타'};
+var CAL_TYPE_LABELS={update:'업데이트',collaboration:'콜라보',event:'이벤트',release:'출시',ranking:'순位',maintenance:'점검',info:'기타'};
 var CAL_COUNTRY_LABELS={kr:'🇰🇷',cn:'🇨🇳',jp:'🇯🇵'};
 function renderCalendar(){
   var grid=document.getElementById('cal-grid');
   if(!grid)return;
   var y=calDate.getFullYear(),m=calDate.getMonth();
-  document.getElementById('cal-month-title').textContent='📅 '+y+'년 '+(m+1)+'월';
+  document.getElementById('cal-month-title').textContent='📅 '+y+'年 '+(m+1)+'月';
   var first=new Date(y,m,1),last=new Date(y,m+1,0);
   var startDow=first.getDay();
   var daysInMonth=last.getDate();
@@ -1652,12 +1652,12 @@ function renderCalendar(){
     eventsByDate[d].push(e);
   });
 
-  // 이벤트 타입 우선순위 (색상 표시용): release > collaboration > event > update > ranking > maintenance > info
+  // 이벤트 타입 우선순位 (색상 표시용): release > collaboration > event > update > ranking > maintenance > info
   var typePriority={release:1,collaboration:2,event:3,update:4,maintenance:5,ranking:6,info:7};
 
   var parts=[];
-  // 요일 헤더
-  var dows=['일','월','화','수','목','금','토'];
+  // 요日 헤더
+  var dows=['日','月','화','수','목','금','토'];
   dows.forEach(function(d){parts.push('<div class="cal-dow">'+d+'</div>')});
   // 이전 달 여백
   for(var i=startDow-1;i>=0;i--){
@@ -1706,14 +1706,14 @@ function renderCalendar(){
     '<span class="lg"><span class="dot collaboration"></span>콜라보</span>'+
     '<span class="lg"><span class="dot event"></span>이벤트</span>'+
     '<span class="lg"><span class="dot release"></span>출시</span>'+
-    '<span class="lg"><span class="dot ranking"></span>순위</span>'+
+    '<span class="lg"><span class="dot ranking"></span>순位</span>'+
     '</div>';
 
   // 이벤트 리스트
   var evList=document.getElementById('cal-events');
   if(calSelectedDate){
     var selDayEvents=eventsByDate[calSelectedDate]||[];
-    // 선택일 정렬: 우선순위 타입순
+    // 선택日 정렬: 우선순位 타입순
     selDayEvents=selDayEvents.slice().sort(function(a,b){
       var pa=typePriority[a.type]||99,pb=typePriority[b.type]||99;
       if(pa!==pb)return pa-pb;
@@ -1736,11 +1736,11 @@ function renderCalendar(){
     }else{
       evItems=['<p style="color:var(--t3)">이 날짜에 등록된 이벤트가 없습니다.</p>'];
     }
-    evList.innerHTML='<h4 style="margin-bottom:8px">📌 '+calSelectedDate+' 이벤트 ('+selDayEvents.length+'건)</h4>'+evItems.join('');
+    evList.innerHTML='<h4 style="margin-bottom:8px">📌 '+calSelectedDate+' 事件 ('+selDayEvents.length+'条)</h4>'+evItems.join('');
   }else{
     var monthKey=y+'-'+String(m+1).padStart(2,'0');
     var monthEvents=events.filter(function(e){return (e.date||'').indexOf(monthKey)===0});
-    // 월간 이벤트도 우선순위 정렬
+    // 月간 이벤트도 우선순位 정렬
     monthEvents=monthEvents.slice().sort(function(a,b){
       var pa=typePriority[a.type]||99,pb=typePriority[b.type]||99;
       if(pa!==pb)return pa-pb;
@@ -1762,15 +1762,15 @@ function renderCalendar(){
           '</div>';
       });
       if(monthEvents.length>15){
-        evItems2.push('<p style="color:var(--t3);font-size:11px;margin-top:6px">... 외 '+(monthEvents.length-15)+'건 (날짜를 클릭하여 확인하세요)</p>');
+        evItems2.push('<p style="color:var(--t3);font-size:11px;margin-top:6px">... 외 '+(monthEvents.length-15)+'条 (날짜를 클릭하여 확인하세요)</p>');
       }
     }else{
-      evItems2=['<p style="color:var(--t3)">'+(m+1)+'월에 등록된 이벤트가 없습니다.</p>'];
+      evItems2=['<p style="color:var(--t3)">'+(m+1)+'月에 등록된 이벤트가 없습니다.</p>'];
     }
-    evList.innerHTML='<h4 style="margin-bottom:8px">📋 '+y+'년 '+(m+1)+'월 이벤트 ('+monthEvents.length+'건)</h4>'+evItems2.join('');
+    evList.innerHTML='<h4 style="margin-bottom:8px">📋 '+y+'年 '+(m+1)+'月 事件 ('+monthEvents.length+'条)</h4>'+evItems2.join('');
   }
 
-  // 범례를 그리드 아래에 삽입 (한번만)
+  // 범례를 그리드 아래에 삽입 (한번万)
   var legendEl=document.getElementById('cal-legend');
   if(legendEl){legendEl.innerHTML=legendHTML;}
 }
@@ -1784,7 +1784,7 @@ function selectCalDay(dateStr){
   renderCalendar();
 }
 
-// ===== 게임 상세 모달 =====
+// ===== 游戏 상세 모달 =====
 // 교차 언어 游戏名 매칭 — 여론/YT 데이터 찾기
 function _findSent(map,gameName){
   if(!map||!gameName)return null;
@@ -1810,7 +1810,7 @@ function _findSent(map,gameName){
 function _findYT(gameName){
   if(!gameName||!YT)return null;
   if(YT[gameName]){
-    // 구조 통일 — videos를 top_videos로 변환
+    // 구조 통日 — videos를 top_videos로 변환
     var d=YT[gameName];
     if(!d.top_videos&&d.videos){
       d.top_videos=d.videos.map(function(v){return {title:v.title,author:v.uploader,play:v.view_count||0,url:v.url||''}});
@@ -1848,11 +1848,11 @@ function openModal(gameName){
   if(chartCanvas&&window.Chart){
     var ctx=chartCanvas.getContext('2d');
     if(modalChart)modalChart.destroy();
-    var labels=['7일전','6일전','5일전','4일전','3일전','2일전','어제','오늘'];
+    var labels=['7日전','6日전','5日전','4日전','3日전','2日전','어제','오늘'];
     var ranks=labels.map(function(){return Math.floor(Math.random()*50)+1});
     modalChart=new Chart(ctx,{
       type:'bar',
-      data:{labels:labels,datasets:[{label:'순위',data:ranks,borderColor:'#667eea',backgroundColor:'rgba(102,126,234,.1)',fill:true,tension:.3}]},
+      data:{labels:labels,datasets:[{label:'순位',data:ranks,borderColor:'#667eea',backgroundColor:'rgba(102,126,234,.1)',fill:true,tension:.3}]},
       options:{responsive:true,scales:{y:{reverse:true,min:1,max:50}},plugins:{legend:{display:false}}}
     });
   }
@@ -1870,20 +1870,20 @@ function openModal(gameName){
   if(!sentParts.length)sentParts.push('<p style="color:var(--t3)">데이터 없음</p>');
   document.getElementById('modal-sentiment').innerHTML=sentParts.join('');
 
-  // 영상
+  // 视频
   var biliData=BILI[gameName];
   var ytData=_findYT(gameName);
   var vidParts=[];
   if(biliData&&!isKoreanGame(gameName)){
     var topVidsB=biliData.top_videos||[];
-    vidParts.push('<div style="margin-bottom:8px"><strong>🇨🇳 Bilibili</strong> — '+(biliData.quality_videos||0)+'영상, '+fmt(biliData.total_plays||0)+'재생, '+fmt(biliData.total_comments||0)+'댓글</div>');
+    vidParts.push('<div style="margin-bottom:8px"><strong>🇨🇳 Bilibili</strong> — '+(biliData.quality_videos||0)+'视频, '+fmt(biliData.total_plays||0)+'재생, '+fmt(biliData.total_comments||0)+'댓글</div>');
     if(topVidsB.length){
       vidParts.push('<div style="font-size:12px;margin-left:8px">');
       topVidsB.forEach(function(v){
         var vidAuthor=v.author?(' · '+v.author):'';
         vidParts.push('<div style="margin-bottom:4px">▸ <a href="https://search.bilibili.com/all?keyword='+encodeURIComponent(gameName)+'" target="_blank" style="color:var(--accent);text-decoration:none">'+(v.title||'')+'</a> ('+fmt(parseInt(v.play||0))+'재생'+vidAuthor+')</div>');
       });
-      vidParts.push('<div style="margin-top:4px"><a href="https://search.bilibili.com/all?keyword='+encodeURIComponent(gameName)+'&order=pubdate" target="_blank" style="color:var(--accent);font-size:11px">→ Bilibili에서 最新视频 전체 보기</a></div>');
+      vidParts.push('<div style="margin-top:4px"><a href="https://search.bilibili.com/all?keyword='+encodeURIComponent(gameName)+'&order=pubdate" target="_blank" style="color:var(--accent);font-size:11px">→ Bilibili에서 最新视频 全部 보기</a></div>');
       vidParts.push('</div>');
     }else{
       vidParts.push('<div style="margin-left:8px"><a href="https://search.bilibili.com/all?keyword='+encodeURIComponent(gameName)+'&order=pubdate" target="_blank" style="color:var(--accent);font-size:12px">→ Bilibili에서 最新视频 보기</a></div>');
@@ -1891,7 +1891,7 @@ function openModal(gameName){
   }
   if(ytData){
     var topVidsY=ytData.top_videos||[];
-    vidParts.push('<div style="margin-top:8px"><strong>🇰🇷 YouTube</strong> — '+(ytData.total_videos||ytData.quality_videos||topVidsY.length)+'영상, '+fmt(ytData.total_views||ytData.total_plays||0)+'观看</div>');
+    vidParts.push('<div style="margin-top:8px"><strong>🇰🇷 YouTube</strong> — '+(ytData.total_videos||ytData.quality_videos||topVidsY.length)+'视频, '+fmt(ytData.total_views||ytData.total_plays||0)+'观看</div>');
     if(topVidsY.length){
       vidParts.push('<div style="font-size:12px;margin-left:8px">');
       topVidsY.forEach(function(v){
@@ -1906,9 +1906,9 @@ function openModal(gameName){
       });
       vidParts.push('</div>');
     }
-    vidParts.push('<div style="margin-top:4px"><a href="https://www.youtube.com/results?search_query='+encodeURIComponent(gameName)+'&sp=CAMSAhAB" target="_blank" style="color:var(--accent);font-size:11px">→ YouTube에서 最新视频 전체 보기</a></div>');
+    vidParts.push('<div style="margin-top:4px"><a href="https://www.youtube.com/results?search_query='+encodeURIComponent(gameName)+'&sp=CAMSAhAB" target="_blank" style="color:var(--accent);font-size:11px">→ YouTube에서 最新视频 全部 보기</a></div>');
   }
-  if(!vidParts.length)vidParts.push('<p style="color:var(--t3)">최근 7일 영상 데이터 없음</p>');
+  if(!vidParts.length)vidParts.push('<p style="color:var(--t3)">최근 7日 视频 데이터 없음</p>');
   document.getElementById('modal-videos').innerHTML=vidParts.join('');
   modal.classList.add('on');
 }
@@ -1941,14 +1941,14 @@ function setInfCountry(c,el){
   var rows=data.map(function(i){
     var name=i.name||i.channel||'';
     var sub=i.subscribers||0;
-    var subText=sub>=10000?(sub/10000).toFixed(1)+'만':sub.toLocaleString();
+    var subText=sub>=10000?(sub/10000).toFixed(1)+'万':sub.toLocaleString();
     var url=i.channel_url||i.url||'';
     var platform=i.platform||'YouTube';
     var platIcon=platform==='Bilibili'?'📺':'▶️';
     var nameHTML=url?('<a href="'+url+'" target="_blank" style="color:var(--accent);text-decoration:none">'+name+'</a>'):name;
-    return '<tr><td>'+platIcon+' '+nameHTML+'</td><td>'+platform+'</td><td style="font-weight:600">'+subText+'</td><td>'+(i.category||'게임')+'</td></tr>';
+    return '<tr><td>'+platIcon+' '+nameHTML+'</td><td>'+platform+'</td><td style="font-weight:600">'+subText+'</td><td>'+(i.category||'游戏')+'</td></tr>';
   });
-  list.innerHTML='<table style="width:100%"><thead><tr><th>채널명</th><th>플랫폼</th><th>구독자</th><th>카테고리</th></tr></thead><tbody>'+rows.join('')+'</tbody></table>';
+  list.innerHTML='<table style="width:100%"><thead><tr><th>채널名</th><th>플랫폼</th><th>구독자</th><th>카테고리</th></tr></thead><tbody>'+rows.join('')+'</tbody></table>';
 }
 
 // ===== 초기 로드 =====
