@@ -229,7 +229,7 @@ canvas{max-width:100%!important}
 <a onclick="showTab('calendar',this)"><span>日历</span></a>
 </div>
 <div class="topbar-right">
-<span class="meta" id="update-time">__UPDATE__</span>
+<span class="meta" id="update-time"></span>
 <button id="theme-toggle" onclick="toggleTheme()">深色</button>
 </div>
 </div>
@@ -243,8 +243,8 @@ canvas{max-width:100%!important}
 <div id="tab-overview" class="tc on">
 <div class="country-tabs" id="ov-ctabs">
 <div class="ctab on" onclick="setCountry('all',this)">全部</div>
-<div class="ctab" onclick="setCountry('kr',this)">한국</div>
-<div class="ctab" onclick="setCountry('cn',this)">중국</div>
+<div class="ctab" onclick="setCountry('kr',this)">韩国</div>
+<div class="ctab" onclick="setCountry('cn',this)">中国</div>
 <div class="ctab" onclick="setCountry('jp',this)">日본</div>
 </div>
 <div class="kpis" id="ov-kpis"></div>
@@ -254,12 +254,12 @@ canvas{max-width:100%!important}
 <div class="card"><h3>游戏市场洞察</h3><div id="ov-videos" style="font-size:13px;line-height:1.8">
 <div style="display:flex;gap:12px;flex-wrap:wrap;margin-bottom:8px">
 <div style="flex:1;min-width:140px;padding:10px;border-radius:8px;background:var(--bg3);border:1px solid var(--border)">
-<div style="font-size:11px;color:var(--t2)">한국 Top1</div>
+<div style="font-size:11px;color:var(--t2)">韩国 Top1</div>
 <div style="font-weight:600">SOL: 인챈트</div>
 <div style="font-size:11px;color:var(--accent)">$9.5M/月</div>
 </div>
 <div style="flex:1;min-width:140px;padding:10px;border-radius:8px;background:var(--bg3);border:1px solid var(--border)">
-<div style="font-size:11px;color:var(--t2)">중국 Top1</div>
+<div style="font-size:11px;color:var(--t2)">中国 Top1</div>
 <div style="font-weight:600">王者荣耀</div>
 <div style="font-size:11px;color:var(--accent)">$35M/月</div>
 </div>
@@ -270,7 +270,7 @@ canvas{max-width:100%!important}
 </div>
 </div>
 <div style="padding:8px;border-left:3px solid var(--accent);background:var(--bg3);border-radius:0 8px 8px 0;margin-top:8px">
-<b>시장 요약:</b> 3개국 모바日 游戏 Top50 预估 月 매출 합계 <b>$325M</b> (한국 $66M, 중국 $221M, 日본 $108M). 중국이 全部의 68% 차지. 3개국 공통 진출 游戏: 원신, 니케, 名조, Whiteout Survival.
+<b>市场摘要:</b> 3개국 모바日 游戏 Top50 预估 月 매출 합계 <b>$325M</b> (한국 $66M, 중국 $221M, 日본 $108M). 중국이 全部의 68% 占比. 3개국 공통 진출 游戏: 원신, 니케, 名조, Whiteout Survival.
 </div>
 </div></div>
 <div class="card"><h3>综合趋势分析</h3><div id="ov-trends" style="font-size:13px;line-height:1.8"></div></div>
@@ -280,8 +280,8 @@ canvas{max-width:100%!important}
 <!-- ===== 매출 순位 ===== -->
 <div id="tab-rank" class="tc">
 <div class="country-tabs" id="rank-ctabs">
-<div class="ctab on" onclick="setCountry('kr',this,'rank')">한국</div>
-<div class="ctab" onclick="setCountry('cn',this,'rank')">중국</div>
+<div class="ctab on" onclick="setCountry('kr',this,'rank')">韩国</div>
+<div class="ctab" onclick="setCountry('cn',this,'rank')">中国</div>
 <div class="ctab" onclick="setCountry('jp',this,'rank')">日본</div>
 </div>
 <input class="search" placeholder="游戏名/开发商 검색..." oninput="renderRank(this.value)" id="rank-search">
@@ -307,8 +307,8 @@ canvas{max-width:100%!important}
 <!-- ===== 인플루언서 ===== -->
 <div id="tab-video" class="tc">
 <div class="country-tabs" id="inf-ctabs">
-<div class="ctab on" onclick="setInfTab('kr',this)">한국</div>
-<div class="ctab" onclick="setInfTab('cn',this)">중국</div>
+<div class="ctab on" onclick="setInfTab('kr',this)">韩国</div>
+<div class="ctab" onclick="setInfTab('cn',this)">中国</div>
 <div class="ctab" onclick="setInfTab('jp',this)">日본</div>
 <div class="ctab" onclick="setInfTab('all',this)">全部</div>
 </div>
@@ -344,10 +344,10 @@ canvas{max-width:100%!important}
 <thead><tr>
 <th onclick="sortInf('rank')" style="cursor:pointer">순位</th>
 <th>网红/KOL</th>
-<th onclick="sortInf('subscribers')" style="cursor:pointer">구독자</th>
+<th onclick="sortInf('subscribers')" style="cursor:pointer">订阅数</th>
 <th onclick="sortInf('avg_views')" style="cursor:pointer">平均观看</th>
 <th onclick="sortInf('engagement_rate')" style="cursor:pointer">参与率</th>
-<th onclick="sortInf('tier')" style="cursor:pointer">등급</th>
+<th onclick="sortInf('tier')" style="cursor:pointer">等级</th>
 </tr></thead>
 <tbody></tbody>
 </table>
@@ -366,7 +366,7 @@ canvas{max-width:100%!important}
 <div class="kpis" id="co-kpis"></div>
 <div class="card"><h3 id="co-chart-title">营收 Top 15 (2023-2025)</h3><canvas id="co-chart" width="600" height="300" style="margin-top:8px"></canvas></div>
 <div class="card"><h3 id="co-profit-title">营业利润率 Top 15</h3><canvas id="co-profit-chart" width="600" height="250" style="margin-top:8px"></canvas></div>
-<div class="card"><h3 id="co-title">🏢 全球游戏公司整体营收分析</h3><div style="overflow-x:auto"><table id="co-table" style="font-size:12px"><thead><tr><th>#</th><th>游戏사</th><th>국가</th><th>2023 매출</th><th>2024 매출</th><th>2025 营收</th><th>YoY</th><th>2025 营业利润</th><th>영업이익률</th><th>주요 프랜차이즈</th><th>来源</th></tr></thead><tbody></tbody></table></div></div>
+<div class="card"><h3 id="co-title">🏢 全球游戏公司整体营收分析</h3><div style="overflow-x:auto"><table id="co-table" style="font-size:12px"><thead><tr><th>#</th><th>游戏사</th><th>국가</th><th>2023 매출</th><th>2024 매출</th><th>2025 营收</th><th>YoY</th><th>2025 营业利润</th><th>营业利润率</th><th>주요 프랜차이즈</th><th>来源</th></tr></thead><tbody></tbody></table></div></div>
 </div>
 
 <!-- 游戏사 상세 모달 -->
@@ -457,7 +457,7 @@ let country='all',activeTab='overview',activeInfTab='kr';
 let calDate=new Date(),calSelectedDate=null,calCountry='all';
 let modalChart=null;
 let infCountry='kr';
-// 차트 색상 (다크/라이트 자동 감지) — 모든 차트에서 공유
+// 차트 색상 (深色/浅色 자동 감지) — 모든 차트에서 공유
 var _ct=document.body.classList.contains('light')?'#475569':'#e2e8f0';
 var _cg=document.body.classList.contains('light')?'#e2e8f0':'#2a2a2a';
 var _cl=document.body.classList.contains('light')?'#1e293b':'#f1f5f9';
@@ -476,14 +476,14 @@ function openCatDetail(game,rank,viewers){
   var totalSub=gameInf.reduce(function(s,i){return s+(i.subscribers||0)},0);
   var sTier=gameInf.filter(function(i){return i.tier==='S'}).length;
   var html='<div class="kpis" style="margin-bottom:12px">';
-  html+='<div class="kpi"><div class="l">观看数</div><div class="v">'+viewers+'</div><div class="s">실시간</div></div>';
+  html+='<div class="kpi"><div class="l">观看数</div><div class="v">'+viewers+'</div><div class="s">实时</div></div>';
   html+='<div class="kpi"><div class="l">网红/KOL</div><div class="v">'+gameInf.length+'</div><div class="s">名</div></div>';
   html+='<div class="kpi"><div class="l">总订阅数</div><div class="v">'+(totalSub/1e6).toFixed(1)+'M</div><div class="s">합계</div></div>';
   html+='<div class="kpi"><div class="l">S级</div><div class="v">'+sTier+'</div><div class="s">名</div></div>';
   html+='</div>';
   if(gameInf.length){
     html+='<div class="modal-sec"><h4>相关网红</h4>';
-    html+='<table style="width:100%;font-size:12px"><thead><tr><th>이름</th><th>구독자</th><th>등급</th><th>플랫폼</th></tr></thead><tbody>';
+    html+='<table style="width:100%;font-size:12px"><thead><tr><th>이름</th><th>订阅数</th><th>等级</th><th>플랫폼</th></tr></thead><tbody>';
     gameInf.slice(0,10).forEach(function(i){
       var link=i.channel_url||'#';
       html+='<tr onclick="window.open(\''+escAttr(link)+'\',\'_blank\')" style="cursor:pointer"><td>'+(i.name||'')+'</td><td>'+(i.subscribers||0).toLocaleString()+'</td><td>'+(i.tier||'')+'</td><td>'+(i.platform||'')+'</td></tr>';
@@ -506,7 +506,7 @@ let infSortDir=1;
 let infFilter='all';
 
 const CFLAGS={kr:'🇰🇷',cn:'🇨🇳',jp:'🇯🇵',all:'🌐'};
-const CNAMES={kr:'한국',cn:'중국',jp:'日본',all:'全部'};
+const CNAMES={kr:'韩国',cn:'中国',jp:'日본',all:'全部'};
 
 // ===== 游戏 다국어 매핑 (KR/CN/JP) — loadData에서 GAME_I18N 로드됨 =====
 
@@ -576,7 +576,7 @@ function showTab(tab,el){
   var tabEl=document.getElementById('tab-'+tab);
   if(tabEl)tabEl.classList.add('on');
   if(el)el.classList.add('on');
-  var titles={overview:'综合概况',rank:'营收排名',sentiment:'舆论分析',video:'网红/KOL',marketing:'마케팅',news:'新闻',calendar:'日历'};
+  var titles={overview:'综合概况',rank:'营收排名',sentiment:'舆论分析',video:'网红/KOL',marketing:'营销',news:'新闻',calendar:'日历'};
   document.getElementById('page-title').textContent=titles[tab]||'';
   if(tab==='overview')loadOverview();
   if(tab==='rank'){
@@ -608,7 +608,7 @@ function setCountry(c,el,ctx){
   // 캘린더 탭은 독립적인 calCountry 사용 — setCountry에서 간섭하지 않음
 }
 
-// ===== 다크모드 =====
+// ===== 深色모드 =====
 function getStoredTheme(){
   try{return localStorage.getItem('theme')}catch(e){return null}
 }
@@ -618,7 +618,7 @@ function setStoredTheme(v){
 function toggleTheme(){
   document.body.classList.toggle('light');
   var d=!document.body.classList.contains('light');
-  document.getElementById('theme-toggle').textContent=d?'다크':'라이트';
+  document.getElementById('theme-toggle').textContent=d?'深色':'浅色';
   setStoredTheme(d?'dark':'light');
   // 차트 색상 갱신
   _ct=document.body.classList.contains('light')?'#475569':'#e2e8f0';
@@ -631,7 +631,7 @@ function toggleTheme(){
 }
 if(getStoredTheme()==='light'){
   document.body.classList.add('light');
-  document.getElementById('theme-toggle').textContent='라이트';
+  document.getElementById('theme-toggle').textContent='浅色';
 }
 
 // ===== 종합 탭 =====
@@ -664,12 +664,12 @@ function loadOverview(){
   if(isKR){
     var dcCount=0;
     Object.values(DC||{}).forEach(function(v){dcCount+=(v.total_posts||0)});
-    kpiRows.push('<div class="kpi"><div class="l">DC 帖子</div><div class="v">'+dcCount.toLocaleString()+'</div><div class="s">한국</div></div>');
+    kpiRows.push('<div class="kpi"><div class="l">DC 帖子</div><div class="v">'+dcCount.toLocaleString()+'</div><div class="s">韩国</div></div>');
   }
   if(isCN){
     var biliCount=0;
     Object.values(BILI||{}).forEach(function(v){if(v)biliCount++});
-    kpiRows.push('<div class="kpi"><div class="l">Bilibili 视频</div><div class="v">'+biliCount+'</div><div class="s">중국</div></div>');
+    kpiRows.push('<div class="kpi"><div class="l">Bilibili 视频</div><div class="v">'+biliCount+'</div><div class="s">中国</div></div>');
   }
   if(isJP){
     var twData=SJP||{};
@@ -721,7 +721,7 @@ function loadOverview(){
     (CN||[]).forEach(function(g){revTotal.cn+=(g.est_revenue||0)});
     (JP||[]).forEach(function(g){revTotal.jp+=(g.est_revenue||0)});
     var revHTML='<div style="display:flex;gap:12px;flex-wrap:wrap;margin-bottom:12px">';
-    var countries=[['kr','한국',revTotal.kr,'#0066ff'],['cn','중국',revTotal.cn,'#ff4444'],['jp','日본',revTotal.jp,'#ff8800']];
+    var countries=[['kr','韩国',revTotal.kr,'#0066ff'],['cn','中国',revTotal.cn,'#ff4444'],['jp','日본',revTotal.jp,'#ff8800']];
     countries.forEach(function(c){
       var pct=c[2]/(revTotal.kr+revTotal.cn+revTotal.jp)*100;
       revHTML+='<div style="flex:1;min-width:120px;padding:12px;border-radius:8px;background:var(--bg3);border:1px solid var(--border)">'+
@@ -829,8 +829,8 @@ function renderRank(q){
     window.rankChart=new Chart(ctx,{
       type:'bar',
       data:{labels:labels,datasets:[
-        {label:'한국',data:krTop10,borderColor:'#3b82f6',backgroundColor:'rgba(96,165,250,.85)',borderRadius:3},
-        {label:'중국',data:cnTop10,borderColor:'#ef4444',backgroundColor:'rgba(248,113,113,.85)',borderRadius:3},
+        {label:'韩国',data:krTop10,borderColor:'#3b82f6',backgroundColor:'rgba(96,165,250,.85)',borderRadius:3},
+        {label:'中国',data:cnTop10,borderColor:'#ef4444',backgroundColor:'rgba(248,113,113,.85)',borderRadius:3},
         {label:'日본',data:jpTop10,borderColor:'#f59e0b',backgroundColor:'rgba(251,191,36,.85)',borderRadius:3}
       ]},
       options:{responsive:true,plugins:{legend:{position:'top',labels:{color:_cl}}},
@@ -912,7 +912,7 @@ function renderSentiment(q){
         var data=v.sources[sk];
         var srcName=sk==='dc'?'DC Inside':sk==='gp'?'Google Play':sk==='yt'?'YouTube':sk==='bilibili'?'Bilibili':sk==='google_play_jp'?'GP日本':sk==='twitter'?'Twitter':sk==='arca'?'아카라이브':sk==='5ch'?'5ch':sk;
         var parts=[];
-        if(data.posts)parts.push(data.posts+'게시글');
+        if(data.posts)parts.push(data.posts+'帖子');
         if(data.reviews)parts.push(data.reviews+'리뷰');
         if(data.videos)parts.push(data.videos+'视频');
         if(data.comments)parts.push(data.comments+'댓글');
@@ -951,7 +951,7 @@ function openSentDetail(game,idx,trend,detail){
   // 지수 + 趋势
   parts.push('<div style="display:flex;gap:16px;margin-bottom:16px;align-items:center">');
   var idxColor=idx>55?'var(--pos)':idx<45?'var(--neg)':'var(--neu)';
-  parts.push('<div style="text-align:center"><div style="font-size:36px;font-weight:700;color:'+idxColor+'">'+idx+'</div><div style="font-size:11px;color:var(--t2)">여론 지수 (0-100)</div></div>');
+  parts.push('<div style="text-align:center"><div style="font-size:36px;font-weight:700;color:'+idxColor+'">'+idx+'</div><div style="font-size:11px;color:var(--t2)">舆论指数 (0-100)</div></div>');
   var trendIcon=trend==='上升'?'📈':trend==='下降'?'📉':'➡️';
   parts.push('<div style="text-align:center"><div style="font-size:24px">'+trendIcon+'</div><div style="font-size:11px;color:var(--t2)">'+trend+'</div></div>');
 
@@ -959,7 +959,7 @@ function openSentDetail(game,idx,trend,detail){
   var sentData=country==='cn'?SCN[game]:country==='jp'?SJP[game]:SKR[game];
   if(sentData&&sentData.key_issues&&sentData.key_issues.length){
     var issueTags=sentData.key_issues.map(function(k){return '<span class="tag neg" style="margin-right:4px">'+k+'</span>'}).join('');
-    parts.push('<div><div style="font-size:11px;color:var(--t2);margin-bottom:4px">주요 키워드</div>'+issueTags+'</div>');
+    parts.push('<div><div style="font-size:11px;color:var(--t2);margin-bottom:4px">主要关键词</div>'+issueTags+'</div>');
   }
   parts.push('</div>');
 
@@ -972,7 +972,7 @@ function openSentDetail(game,idx,trend,detail){
   }
 
   // 外部链接
-  parts.push('<div class="modal-sec"><h4>来源별 여론 확인</h4><div style="display:flex;flex-wrap:wrap;gap:6px">');
+  parts.push('<div class="modal-sec"><h4>按来源查看舆论</h4><div style="display:flex;flex-wrap:wrap;gap:6px">');
   if(country==='kr'||country==='all'){
     var dcGalId=DC_GAL_MAP[game];
     // 마이너 갤러리 목록
@@ -1011,7 +1011,7 @@ function openSentDetail(game,idx,trend,detail){
   }
   parts.push('</div></div>');
 
-  // 样本 게시글
+  // 样本 帖子
   if(sentData){
     if(sentData.hot_topics&&sentData.hot_topics.length){
       var hotItems=sentData.hot_topics.map(function(h){
@@ -1132,7 +1132,7 @@ function renderInfluencers(q){
     var tabLabel=infTab==='all'?'全部':(CNAMES[infTab]||'');
     kpisEl.innerHTML=
       '<div class="kpi"><div class="l">网红/KOL</div><div class="v">'+total+'</div><div class="s">'+tabLabel+'</div></div>'+
-      '<div class="kpi"><div class="l">总订阅数</div><div class="v">'+fmtSub(totalSub)+'</div><div class="s">합산</div></div>'+
+      '<div class="kpi"><div class="l">总订阅数</div><div class="v">'+fmtSub(totalSub)+'</div><div class="s">合计</div></div>'+
       '<div class="kpi"><div class="l">平均参与率</div><div class="v">'+avgEng.toFixed(1)+'%</div><div class="s">engagement</div></div>'+
       '<div class="kpi"><div class="l">S级</div><div class="v" style="color:#ff4444">'+sTier+'</div><div class="s">300万+</div></div>';
   }
@@ -1184,8 +1184,8 @@ function openInfDetail(idx){
   var tier=inf.tier||'D';
   var parts=[];
   parts.push('<div style="display:flex;gap:16px;margin-bottom:16px">');
-  parts.push('<div style="text-align:center"><div style="font-size:36px;font-weight:700;color:'+tierColor(tier)+'">'+tier+'</div><div style="font-size:11px;color:var(--t2)">등급</div></div>');
-  parts.push('<div style="text-align:center"><div style="font-size:24px">'+fmtSub(inf.subscribers||0)+'</div><div style="font-size:11px;color:var(--t2)">구독자</div></div>');
+  parts.push('<div style="text-align:center"><div style="font-size:36px;font-weight:700;color:'+tierColor(tier)+'">'+tier+'</div><div style="font-size:11px;color:var(--t2)">等级</div></div>');
+  parts.push('<div style="text-align:center"><div style="font-size:24px">'+fmtSub(inf.subscribers||0)+'</div><div style="font-size:11px;color:var(--t2)">订阅数</div></div>');
   parts.push('<div style="text-align:center"><div style="font-size:24px">'+fmtSub(inf.avg_views||0)+'</div><div style="font-size:11px;color:var(--t2)">平均 观看</div></div>');
   parts.push('<div style="text-align:center"><div style="font-size:24px">'+(inf.engagement_rate||0).toFixed(1)+'%</div><div style="font-size:11px;color:var(--t2)">参与率</div></div>');
   parts.push('</div>');
@@ -1299,7 +1299,7 @@ function renderSoftcPlatforms(){
     return '<div onclick="window.open(\''+(p.link||'')+'\',\'_blank\')" style="flex:1;min-width:120px;padding:10px;border-radius:8px;background:var(--bg3);border:1px solid var(--border);cursor:pointer">'+
       '<div style="font-size:12px;font-weight:600">'+(p.name||'')+'</div>'+
       '<div style="font-size:18px;font-weight:700;color:var(--accent)">'+(p.viewers||'').replace(/[^\d,]/g,'')+'</div>'+
-      '<div style="font-size:10px;color:var(--t3)">총 시청자 · 채널 '+(p.channels||'')+'</div></div>';
+      '<div style="font-size:10px;color:var(--t3)">总观看 · 频道 '+(p.channels||'')+'</div></div>';
   }).join('')||'<p style="color:var(--t3)">데이터 없음</p>';
 }
 function renderSoftcCategories(){
@@ -1381,13 +1381,13 @@ function renderCompany(){
   var kpis=document.getElementById('co-kpis');
   if(kpis){
     kpis.innerHTML=
-      '<div class="kpi"><div class="l">分析企业数</div><div class="v">'+filtered.length+'</div><div class="s">개사</div></div>'+
+      '<div class="kpi"><div class="l">分析企业数</div><div class="v">'+filtered.length+'</div><div class="s">家</div></div>'+
       '<div class="kpi pos"><div class="l">总营收 (2025E)</div><div class="v">$'+(totalRev/1000).toFixed(1)+'B</div><div class="s">합계</div></div>'+
       '<div class="kpi '+(avgMargin>=20?'pos':'neg')+'"><div class="l">平均营业利润率</div><div class="v">'+avgMargin+'%</div><div class="s">行业平均</div></div>'+
       '<div class="kpi"><div class="l">盈利企业</div><div class="v">'+profitable+'</div><div class="s">/ '+filtered.length+'</div></div>';
   }
 
-  // 차트 색상 (다크/라이트모드 자동 감지) — 전역에서 이미 선언됨
+  // 차트 색상 (深色/浅色모드 자동 감지) — 전역에서 이미 선언됨
   if(typeof window._chartTheme==='undefined')window._chartTheme=true;
   var chartCanvas=document.getElementById('co-chart');
   if(chartCanvas&&window.Chart){
@@ -1510,12 +1510,12 @@ function openCoModal(idx){
   html+='<div class="kpis" style="margin-bottom:16px">';
   html+='<div class="kpi"><div class="l">2025 营收</div><div class="v">$'+(r25/1000).toFixed(2)+'B</div><div class="s">'+won25+'亿원</div></div>';
   html+='<div class="kpi"><div class="l">2025 营业利润</div><div class="v">'+(op25!=null?'$'+(op25/1000).toFixed(2)+'B':'N/A')+'</div><div class="s">'+(margin!=null?'마진 '+margin+'%':'')+'</div></div>';
-  html+='<div class="kpi"><div class="l">YoY 增长率</div><div class="v" style="'+(yoy>=0?'color:var(--pos)':'color:var(--neg)')+'">'+(yoy!=null?(yoy>=0?'+':'')+yoy+'%':'-')+'</div><div class="s">2024 대비</div></div>';
-  html+='<div class="kpi"><div class="l">代码</div><div class="v" style="font-size:14px">'+(c.ticker||'비상장')+'</div><div class="s">'+(c.type||'')+'</div></div>';
+  html+='<div class="kpi"><div class="l">YoY 增长率</div><div class="v" style="'+(yoy>=0?'color:var(--pos)':'color:var(--neg)')+'">'+(yoy!=null?(yoy>=0?'+':'')+yoy+'%':'-')+'</div><div class="s">同比2024</div></div>';
+  html+='<div class="kpi"><div class="l">代码</div><div class="v" style="font-size:14px">'+(c.ticker||'非上市')+'</div><div class="s">'+(c.type||'')+'</div></div>';
   html+='</div>';
   // 3年 추이 표
   html+='<div class="modal-sec"><h4>📊 3年财务趋势</h4>';
-  html+='<table style="width:100%;font-size:12px"><thead><tr><th>연도</th><th>매출</th><th>영업이익</th><th>영업이익률</th></tr></thead><tbody>';
+  html+='<table style="width:100%;font-size:12px"><thead><tr><th>연도</th><th>매출</th><th>영업이익</th><th>营业利润率</th></tr></thead><tbody>';
   var years=[
     {y:'2023',r:r23,o:c.operating_profit_2023},
     {y:'2024',r:r24,o:op24},
@@ -1529,7 +1529,7 @@ function openCoModal(idx){
   // 정보
   html+='<div class="modal-sec"><h4>🏢 企业信息</h4><div style="font-size:13px;line-height:1.8">';
   html+='<p><b>영문名:</b> '+escAttr(c.name||'')+'</p>';
-  if(c.ticker)html+='<p><b>상장:</b> '+escAttr(c.ticker)+'</p>';
+  if(c.ticker)html+='<p><b>上市:</b> '+escAttr(c.ticker)+'</p>';
   html+='<p><b>来源:</b> <span style="color:var(--pos)">'+escAttr(c.source||'')+'</span></p>';
   if(c.notes)html+='<p style="margin-top:8px;padding:8px;background:var(--bg3);border-radius:6px;font-size:12px;color:var(--t2)">'+escAttr(c.notes)+'</p>';
   html+='</div></div>';
@@ -1948,7 +1948,7 @@ function setInfCountry(c,el){
     var nameHTML=url?('<a href="'+url+'" target="_blank" style="color:var(--accent);text-decoration:none">'+name+'</a>'):name;
     return '<tr><td>'+platIcon+' '+nameHTML+'</td><td>'+platform+'</td><td style="font-weight:600">'+subText+'</td><td>'+(i.category||'游戏')+'</td></tr>';
   });
-  list.innerHTML='<table style="width:100%"><thead><tr><th>채널名</th><th>플랫폼</th><th>구독자</th><th>카테고리</th></tr></thead><tbody>'+rows.join('')+'</tbody></table>';
+  list.innerHTML='<table style="width:100%"><thead><tr><th>채널名</th><th>플랫폼</th><th>订阅数</th><th>카테고리</th></tr></thead><tbody>'+rows.join('')+'</tbody></table>';
 }
 
 // ===== 초기 로드 =====
