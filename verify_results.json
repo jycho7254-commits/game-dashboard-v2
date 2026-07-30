@@ -1,0 +1,460 @@
+{
+ "Other": [
+  {
+   "url": "https://game.donga.com/123342/",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://bbs.ruliweb.com/news/board/1002/read/2428293",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.gamersky.com/news/202607/2180127.shtml",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.movegames.com",
+   "status": "TIMEOUT",
+   "reason": "Timeout"
+  },
+  {
+   "url": "https://www.shiftup.co.kr",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://bbs.ruliweb.com/news/board/1002/read/2428276",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://tieba.baidu.com/f?kw=%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9",
+   "status": "HTTP_403",
+   "reason": "HTTP 403"
+  },
+  {
+   "url": "https://game.donga.com/123256/",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.nippon1.co.jp",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/5f/4c/2b5f4c7a-1c41-e327-bf62-2f11a2f93833/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://bbs.nga.cn/thread.php?key=%E9%80%94%E6%B8%B8%E4%BC%91%E9%97%B2%E6%8D%95%E9%B1%BC-%E7%99%BE%E4%B8%87%E5%80%8D%E8%A1%97%E6%9C%BA%E7%8E%8B%E8%80%85%E5%A4%A7%E4%BD%9C%E6%88%98",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.jcen.co.kr",
+   "status": "DNS",
+   "reason": "DNS: [Errno 11001] getaddrinfo failed"
+  },
+  {
+   "url": "https://www.111percent.net",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://tieba.baidu.com/f?kw=%E5%85%89%C2%B7%E9%81%87",
+   "status": "HTTP_403",
+   "reason": "HTTP 403"
+  },
+  {
+   "url": "https://bbs.nga.cn/thread.php?key=%E6%A2%A6%E5%B9%BB%E8%A5%BF%E6%B8%B8",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://colopl.co.jp",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://ir.ateam-inc.jp/library/",
+   "status": "DNS",
+   "reason": "DNS: [Errno 11001] getaddrinfo failed"
+  },
+  {
+   "url": "https://find.5ch.io/search?q=Honkai%3A%20Star%20Rail",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.4gamer.net/games/983/G098335/20260721012/",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.gamemeca.com/view.php?gid=1777696",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://t.",
+   "status": "DNS",
+   "reason": "DNS: [Errno 11001] getaddrinfo failed"
+  },
+  {
+   "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/bf/20/4dbf20b3-ac53-7265-9cce-d4dc58e42d02/AppIcon-1x_U007epad-0-1-0-0-85-220-0.png/180x180bb.png",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://tieba.baidu.com/f?kw=%E4%B8%89%E5%9B%BD%E5%BF%97%C2%B7%E6%88%98%E7%95%A5%E7%89%88",
+   "status": "HTTP_403",
+   "reason": "HTTP 403"
+  },
+  {
+   "url": "https://tieba.baidu.com/f?kw=QQ%E9%A3%9E%E8%BD%A6",
+   "status": "HTTP_403",
+   "reason": "HTTP 403"
+  },
+  {
+   "url": "https://www.fromsoftware.jp",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://bbs.nga.cn/thread.php?key=%E6%97%A0%E5%B0%BD%E5%86%AC%E6%97%A5",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://find.5ch.io/search?q=GODDESS%20OF%20VICTORY%3A%20NIKKE",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.inven.co.kr/webzine/news/?news=318379",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://find.5ch.io/search?q=SD%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%20%E3%82%B8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%A8%E3%82%BF%E3%83%BC%E3%83%8A%E3%83%AB",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.aiming-inc.co.jp",
+   "status": "DNS",
+   "reason": "DNS: [Errno 11001] getaddrinfo failed"
+  },
+  {
+   "url": "https://company.netmarble.com/kr/ir",
+   "status": "HTTP_404",
+   "reason": "HTTP 404"
+  },
+  {
+   "url": "https://www.habby.com",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://bbs.nga.cn/thread.php?key=%E7%87%95%E4%BA%91%E5%8D%81%E5%85%AD%E5%A3%B0",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.gamersky.com/news/202607/2180096.shtml",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://find.5ch.io/search?q=%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%82%AF",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.nintendo.co.jp/ir/en",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.cyberagent.co.jp/en/ir/library",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://mixi.co.jp/en/ir",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/8e/37/ee8e37e1-902e-2e28-5de2-17dc2a76ec3e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.mincoms.co.kr",
+   "status": "DNS",
+   "reason": "DNS: [Errno 11001] getaddrinfo failed"
+  },
+  {
+   "url": "https://t.co/oRGlb00DC",
+   "status": "HTTP_404",
+   "reason": "HTTP 404"
+  },
+  {
+   "url": "https://find.5ch.io/search?q=Tasty%20Travels%3A%20Merge%20Game",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.gungho.co.jp/en/ir/library",
+   "status": "HTTP_403",
+   "reason": "HTTP 403"
+  },
+  {
+   "url": "https://tieba.baidu.com/f?kw=%E5%AE%97%E5%B8%88%E4%B9%8B%E4%B8%8A",
+   "status": "HTTP_403",
+   "reason": "HTTP 403"
+  },
+  {
+   "url": "https://company.netmarble.com",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.gamersky.com/news/202607/2180086.shtml",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.ubisoft.com",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://tieba.baidu.com/f?kw=%E9%B1%BC%E4%B9%90%E8%BE%BE%E4%BA%BA-%E7%8E%8B%E8%80%85%E6%8D%95%E9%B1%BC%E7%94%B5%E7%8E%A9%E8%A1%97%E6%9C%BA%E6%89%93%E9%B1%BC%E6%B8%B8%E6%88%8F",
+   "status": "HTTP_403",
+   "reason": "HTTP 403"
+  },
+  {
+   "url": "https://find.5ch.io/search?q=eFootball%E2%84%A2",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.gamersky.com/news/202607/2180087.shtml",
+   "status": "OK",
+   "reason": "200"
+  }
+ ],
+ "YouTube": [
+  {
+   "url": "https://www.youtube.com/watch?v=PWv1BqGboqI",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=nTDfLdGyJJo",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=2WNzo2NWS44",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.youtube.com/@TencentGames",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.youtube.com/channel/UCVjmBo22Mimyc4NR4Nz89MA",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.youtube.com/@LeagueofLegends-Korea",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=AKwbymJfjd8",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=8azBUeC4JUY",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=4j-teNKtYdc",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.youtube.com/channel/UC8yYqoMOYO_Q755YLJ-teoQ",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=klrFctJoDEU",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.youtube.com/channel/UC1nfo2Me62nvdERsjqwh8Jg",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=WqvZp_NXb2g",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=6UVqob_4bFw",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.youtube.com/@ShiranuiFlare",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=08VhhLviJCg",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=dGOT9kA0T2c",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=0A3q7kP7Muk",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.youtube.com/@TsukinoMito",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=A0C0H21Ke4Q",
+   "status": "OK",
+   "reason": "200"
+  }
+ ],
+ "Bilibili": [
+  {
+   "url": "https://space.bilibili.com/450882837",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://space.bilibili.com/3493261928827813",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://space.bilibili.com/412009275",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://space.bilibili.com/4079592",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://space.bilibili.com/3537111126903306",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://www.bilibili.com",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://search.bilibili.com/all?keyword=",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://space.bilibili.com/546195",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://space.bilibili.com/318488460",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://space.bilibili.com/484395494",
+   "status": "OK",
+   "reason": "200"
+  }
+ ],
+ "Chzzk": [
+  {
+   "url": "https://chzzk.naver.com/live/20271961",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://chzzk.naver.com/live/20270090",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://chzzk.naver.com/live/20268350",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://chzzk.naver.com/live/20273079",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://chzzk.naver.com/live/20268604",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://chzzk.naver.com/live/20268176",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://chzzk.naver.com/live/20272217",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://chzzk.naver.com/live/20278014",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://chzzk.naver.com/live/20272468",
+   "status": "OK",
+   "reason": "200"
+  },
+  {
+   "url": "https://chzzk.naver.com/live/20276262",
+   "status": "OK",
+   "reason": "200"
+  }
+ ]
+}
