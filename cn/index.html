@@ -199,7 +199,7 @@ canvas{max-width:100%!important}
 .cal-day .day-event{font-size:6px}
 /* 인플루언서 */
 .inf-pager button{padding:4px 9px;font-size:11px}
-/* 실시간 방송 SOOP/치지직 분할 — 모바日에서 세로 */
+/* 实时 방송 SOOP/치지직 분할 — 모바日에서 세로 */
 #inf-streamers-soop,#inf-streamers-chzzk{max-height:300px;overflow-y:auto}
 /* 마케팅/뉴스 */
 .mkt-share{gap:6px}
@@ -323,7 +323,7 @@ canvas{max-width:100%!important}
 <div id="inf-softc-section" style="display:none">
 <div class="card"><h3>플랫폼별 현황 <button id="inf-refresh-btn" onclick="refreshPlatforms()" style="font-size:11px;padding:4px 10px;border-radius:var(--radius-sm);border:1px solid var(--border);background:var(--surface);color:var(--t2);cursor:pointer;font-weight:600;transition:.15s;margin-left:auto">🔄 새로고침</button></h3><div id="inf-platforms" style="display:flex;gap:8px;flex-wrap:wrap;margin-top:8px"></div></div>
 <div class="card"><h3>游戏 카테고리 랭킹 <span style="font-size:10px;color:var(--t3);font-weight:400">(SOOP+치지직+트位치 통합)</span> <button id="inf-refresh-cat" onclick="refreshCategories()" style="font-size:11px;padding:4px 10px;border-radius:var(--radius-sm);border:1px solid var(--border);background:var(--surface);color:var(--t2);cursor:pointer;font-weight:600;transition:.15s;margin-left:auto">🔄 새로고침</button></h3><div id="inf-categories" style="margin-top:8px"></div></div>
-<div class="card"><h3>실시간 방송 랭킹 <button id="inf-refresh-stream" onclick="refreshStreams()" style="font-size:11px;padding:4px 10px;border-radius:var(--radius-sm);border:1px solid var(--border);background:var(--surface);color:var(--t2);cursor:pointer;font-weight:600;transition:.15s;margin-left:auto">🔄 새로고침</button></h3>
+<div class="card"><h3>实时 방송 랭킹 <button id="inf-refresh-stream" onclick="refreshStreams()" style="font-size:11px;padding:4px 10px;border-radius:var(--radius-sm);border:1px solid var(--border);background:var(--surface);color:var(--t2);cursor:pointer;font-weight:600;transition:.15s;margin-left:auto">🔄 새로고침</button></h3>
 <div style="display:flex;gap:12px;margin-top:8px">
 <div style="flex:1;min-width:0">
 <div style="font-size:11px;font-weight:700;color:#3498db;margin-bottom:4px">SOOP</div>
@@ -759,7 +759,7 @@ function loadOverview(){
       var color=total>60?'#00ff88':total>40?'#ffaa00':'#ff6666';
       var escGn=escAttr(gn);
       var detail='매출: $'+(rev/1e6).toFixed(1)+'M ('+revScore.toFixed(0)+'점/40)\\n'+
-        '여론: '+(sent?('지수 '+sent.index+' ('+sentScore.toFixed(0)+'점/30)'):'데이터 없음')+'\\n'+
+        '여론: '+(sent?('지수 '+sent.index+' ('+sentScore.toFixed(0)+'점/30)'):'暂无数据')+'\\n'+
         '视频: '+(vid?(fmt(vid.total_plays||vid.total_views||0)+'观看 ('+vidScore.toFixed(0)+'점/20)'):('없음 ('+vidScore+'점/20)'))+'\\n'+
         '마케팅: '+mktCount+'개 활동 ('+mktScore+'점/10)';
       trendRows.push('<div onclick="alert(\''+escGn+'\\n종합 점수: '+total+'점\\n\\n'+detail+'\')" style="display:flex;justify-content:space-between;padding:6px 0;border-bottom:1px solid var(--border);cursor:pointer">'+
@@ -850,13 +850,13 @@ function renderSentiment(q){
   var sentFull={};
   if(country==='cn'){
     sentFull=SCN||{};srcLabel='bili';
-    sentTitle.textContent='💬 중국 여론 (Bilibili + TapTap)';
+    sentTitle.textContent='💬 中国舆论 (Bilibili + TapTap)';
   }else if(country==='jp'){
     sentFull=SJP||{};srcLabel='gp';
     sentTitle.textContent='💬 日본 여론 (Google Play 리뷰)';
   }else{
     sentFull=SKR||{};srcLabel='dc';
-    sentTitle.textContent='💬 한국 여론 (DC + GP + YT 통합)';
+    sentTitle.textContent='💬 韩国舆论 (DC + GP + YT 整合)';
   }
 
   if(Object.keys(sentFull).length>0){
@@ -926,7 +926,7 @@ function renderSentiment(q){
       }
     }
     var clickArg=escAttr(srcDetail||sample).slice(0,300);
-    return '<tr onclick="openSentDetail(\''+escAttr(g)+'\','+idx+',\''+escAttr(v.trend||'보합')+'\',\''+clickArg+'\')">'+
+    return '<tr onclick="openSentDetail(\''+escAttr(g)+'\','+idx+',\''+escAttr(v.trend||'持平')+'\',\''+clickArg+'\')">'+
       '<td>'+g+'</td><td>'+srcTag+'</td>'+
       '<td><span class="tag '+lbl+'">'+idx+'</span></td>'+
       '<td style="color:var(--pos)">'+(v.sources&&v.sources.dc&&v.sources.dc.positive_pct!==undefined?v.sources.dc.positive_pct+'%':'-')+'</td>'+
@@ -1049,8 +1049,8 @@ function openSentDetail(game,idx,trend,detail){
   var sentKr=SKR[game];
   var sentCn=SCN[game];
   var sentJp=SJP[game];
-  if(sentKr)parts.push('<p>한국: 지수 '+sentKr.index+' ('+sentKr.trend+') — '+(sentKr.summary?sentKr.summary.slice(0,60):'')+'</p>');
-  if(sentCn)parts.push('<p>중국: 지수 '+sentCn.index+' ('+sentCn.trend+') — '+(sentCn.summary?sentCn.summary.slice(0,60):'')+'</p>');
+  if(sentKr)parts.push('<p>韩国: 指数 '+sentKr.index+' ('+sentKr.trend+') — '+(sentKr.summary?sentKr.summary.slice(0,60):'')+'</p>');
+  if(sentCn)parts.push('<p>中国: 指数 '+sentCn.index+' ('+sentCn.trend+') — '+(sentCn.summary?sentCn.summary.slice(0,60):'')+'</p>');
   if(sentJp)parts.push('<p>日본: 지수 '+(sentJp.index||'?')+' ('+(sentJp.trend||'?')+') — '+(sentJp.summary?sentJp.summary.slice(0,60):'')+'</p>');
   if(!sentKr&&!sentCn&&!sentJp)parts.push('<p style="color:var(--t3)">데이터 없음</p>');
   parts.push('</div></div>');
@@ -1224,7 +1224,7 @@ function _fetchSoftcAndRender(module){
   var btnIds={'plat':'inf-refresh-btn','cat':'inf-refresh-cat','stream':'inf-refresh-stream'};
   var btn=document.getElementById(btnIds[module]||'inf-refresh-btn');
   if(btn){btn.textContent='⏳';btn.disabled=true;}
-  // 1) 치지직 live API 직접 호출 (실시간)
+  // 1) 치지직 live API 직접 호출 (实时)
   var cats=['游戏','롤','발로란트','오버워치','배틀그라운드','마인크래프트','서든어택','로스트아크','FC온라인','스타크래프트'];
   var liveStreamers=[];
   var liveCats=[];
@@ -1274,7 +1274,7 @@ function _fetchSoftcAndRender(module){
     else if(module==='cat')renderSoftcCategories();
     else if(module==='stream')renderSoftcStreamers();
     else{renderSoftcPlatforms();renderSoftcCategories();renderSoftcStreamers();}
-    if(btn){btn.textContent='✅ '+(liveStreamers.length>0?liveStreamers.length+'名 실시간':'');btn.disabled=false;}
+    if(btn){btn.textContent='✅ '+(liveStreamers.length>0?liveStreamers.length+'名 实时':'');btn.disabled=false;}
     setTimeout(function(){if(btn){btn.textContent='🔄 새로고침';}},3000);
   }
   // 2) fallback: fetch 실패 시 기존 정적 파日
@@ -1561,7 +1561,7 @@ function openCoModal(idx){
   var newsLabel='';
   if(c.country==='kr'){
     newsUrl='https://www.google.com/search?q='+encodeURIComponent(searchName+' 游戏')+'&tbm=nws&gl=kr&hl=ko';
-    newsLabel='📰 한국 뉴스';
+    newsLabel='📰 韩国新闻';
   }else if(c.country==='cn'){
     var cnName=c.name||searchName;
     newsUrl='https://www.google.com/search?q='+encodeURIComponent(cnName+' 游戏')+'&tbm=nws&gl=cn&hl=zh-CN';
