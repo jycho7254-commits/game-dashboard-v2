@@ -29,7 +29,7 @@
       "link": "https://seemi.live"
     }
   ],
-  "fetched": "2026-07-31T17:49:31",
+  "fetched": "2026-07-31T17:49:37",
   "streamers": [
     {
       "rank": 1,
@@ -331,6 +331,14 @@
       "link": "https://chzzk.naver.com/live/20282699"
     },
     {
+      "name": "요 호",
+      "viewers": 64,
+      "category": "배틀그라운드",
+      "title": "안녕하세요",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20283388"
+    },
+    {
       "name": "슈퍼 노바",
       "viewers": 54,
       "category": "스타크래프트",
@@ -371,14 +379,6 @@
       "link": "https://chzzk.naver.com/live/20283155"
     },
     {
-      "name": "서겜",
-      "viewers": 47,
-      "category": "롤",
-      "title": "롤 증바람",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20282825"
-    },
-    {
       "name": "새벽냥",
       "viewers": 42,
       "category": "발로란트",
@@ -403,20 +403,20 @@
       "link": "https://chzzk.naver.com/live/20284019"
     },
     {
+      "name": "유우양",
+      "viewers": 35,
+      "category": "롤",
+      "title": "롤 브론즈 탈출기",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20285284"
+    },
+    {
       "name": "김준민1",
       "viewers": 32,
       "category": "게임",
       "title": "1775점 시작! ) 휴면을 풀어봅시다.",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20282349"
-    },
-    {
-      "name": "왓구홍길동",
-      "viewers": 32,
-      "category": "배틀그라운드",
-      "title": "경쟁전 서바이버 계정 3개 찍기 6일차",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20282597"
     },
     {
       "name": "1Chon",
@@ -579,28 +579,20 @@
       "link": "https://chzzk.naver.com/live/20285609"
     },
     {
-      "name": "나플리",
-      "viewers": 12,
-      "category": "롤",
-      "title": "티젠전보면서 롤 배우기✨✨🦖 #lckwatchparty",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20283587"
-    },
-    {
-      "name": "나츠에",
-      "viewers": 12,
-      "category": "롤",
-      "title": "롤 칼바람 증바람",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20284196"
-    },
-    {
       "name": "ㄴ모서리ㄱ",
       "viewers": 12,
       "category": "배틀그라운드",
       "title": "[소통/라디오] 100일 기념 배틀그라운드 시참",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20285549"
+    },
+    {
+      "name": "쫑깽이",
+      "viewers": 12,
+      "category": "배틀그라운드",
+      "title": "[시참/룰렛]❤️오늘도 솔딜미션 깨는 쫑쫑이 모닝배그 할사람~?❤️",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20281512"
     },
     {
       "name": "매콤",
@@ -659,22 +651,6 @@
       "link": "https://chzzk.naver.com/live/20280338"
     },
     {
-      "name": "l포콩l",
-      "viewers": 9,
-      "category": "배틀그라운드",
-      "title": "[신입28일차] [!룰렛]  배그두가자~[시참]  ⸜(꒪'꒳'꒪)⸝",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20283993"
-    },
-    {
-      "name": "유지금",
-      "viewers": 8,
-      "category": "롤",
-      "title": "[!시참/로테/!룰렛] 낮은 잠깐! 롤 하렁 +_+",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20283043"
-    },
-    {
       "name": "LEE여름",
       "viewers": 8,
       "category": "발로란트",
@@ -689,6 +665,30 @@
       "title": "ㅠㅠ",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20282516"
+    },
+    {
+      "name": "쩡가",
+      "viewers": 8,
+      "category": "마인크래프트",
+      "title": "오늘도수다와 함꼐 마크.  (〜￣▽￣)〜 ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20285598"
+    },
+    {
+      "name": "김타유",
+      "viewers": 7,
+      "category": "롤",
+      "title": "정글에서 누가 돌아왔게? 킬의 굶주린 검은 타유 (일반 롤 시참) w.딜",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20283432"
+    },
+    {
+      "name": "가젯잔",
+      "viewers": 7,
+      "category": "롤",
+      "title": "[시즌 4,5 다이아1] 롤 클래식 ㅋㅋ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20286218"
     }
   ],
   "categories": [
