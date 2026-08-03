@@ -9,15 +9,15 @@
     },
     {
       "name": "치지직",
-      "viewers": "1,341",
-      "channels": "117",
+      "viewers": "1,732",
+      "channels": "119",
       "link": "https://chzzk.naver.com"
     }
   ],
   "categories": [
     {
       "game": "게임",
-      "viewers": 144,
+      "viewers": 151,
       "channels": 20
     },
     {
@@ -27,13 +27,13 @@
     },
     {
       "game": "발로란트",
-      "viewers": 208,
-      "channels": 20
+      "viewers": 590,
+      "channels": 19
     },
     {
       "game": "오버워치",
       "viewers": 154,
-      "channels": 20
+      "channels": 19
     },
     {
       "game": "배틀그라운드",
@@ -62,11 +62,19 @@
     },
     {
       "game": "스타크래프트",
-      "viewers": 9,
-      "channels": 4
+      "viewers": 11,
+      "channels": 5
     }
   ],
   "streamers": [
+    {
+      "name": "크포",
+      "viewers": 365,
+      "category": "발로란트",
+      "title": "나는 진짜 못한다",
+      "platform": "SOOP",
+      "link": "https://chzzk.naver.com/live/20348514"
+    },
     {
       "name": "도로시 dorothy",
       "viewers": 133,
@@ -228,6 +236,14 @@
       "link": "https://chzzk.naver.com/live/20338501"
     },
     {
+      "name": "넬다",
+      "viewers": 15,
+      "category": "발로란트",
+      "title": "요즘 잠이 부족하댜... 💛",
+      "platform": "SOOP",
+      "link": "https://chzzk.naver.com/live/20348943"
+    },
+    {
       "name": "모모세 티아",
       "viewers": 14,
       "category": "롤",
@@ -324,6 +340,22 @@
       "link": "https://chzzk.naver.com/live/20350643"
     },
     {
+      "name": "키먕 KIMYANG",
+      "viewers": 10,
+      "category": "발로란트",
+      "title": "골드 달리기",
+      "platform": "SOOP",
+      "link": "https://chzzk.naver.com/live/20348155"
+    },
+    {
+      "name": "에구 E9",
+      "viewers": 9,
+      "category": "게임",
+      "title": "차액 뉴비 만식쿤의 알바트리온 3일차",
+      "platform": "SOOP",
+      "link": "https://chzzk.naver.com/live/20340508"
+    },
+    {
       "name": "나 견",
       "viewers": 9,
       "category": "롤",
@@ -364,6 +396,14 @@
       "link": "https://chzzk.naver.com/live/20347396"
     },
     {
+      "name": "히미카 스이",
+      "viewers": 8,
+      "category": "발로란트",
+      "title": "건피 받습니다.",
+      "platform": "SOOP",
+      "link": "https://chzzk.naver.com/live/20347211"
+    },
+    {
       "name": "숨나",
       "viewers": 8,
       "category": "로스트아크",
@@ -396,22 +436,6 @@
       "link": "https://chzzk.naver.com/live/20348366"
     },
     {
-      "name": "BJ쯔코누나",
-      "viewers": 7,
-      "category": "발로란트",
-      "title": "새벽 발로란트 경쟁 ❤️#소통#합방#납치",
-      "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20350384"
-    },
-    {
-      "name": "폴탄poltan",
-      "viewers": 7,
-      "category": "발로란트",
-      "title": "cctv",
-      "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20350155"
-    },
-    {
       "name": "Casey",
       "viewers": 7,
       "category": "오버워치",
@@ -442,30 +466,6 @@
       "title": "호제로구요",
       "platform": "SOOP",
       "link": "https://chzzk.naver.com/live/20350233"
-    },
-    {
-      "name": "피스풀574",
-      "viewers": 7,
-      "category": "마인크래프트",
-      "title": "오늘 엔딩 보고야 만다 / FTB 신작 RPG모드팩 아키텍츠 엑소더스 7",
-      "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20345568"
-    },
-    {
-      "name": "익레기",
-      "viewers": 7,
-      "category": "로스트아크",
-      "title": "7300+호크 벨가 공대 구합니다 제발요 l 로스트아크",
-      "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20350745"
-    },
-    {
-      "name": "chzzk fade",
-      "viewers": 6,
-      "category": "게임",
-      "title": "fade",
-      "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20350571"
     }
   ],
   "total_viewers": 6434,
