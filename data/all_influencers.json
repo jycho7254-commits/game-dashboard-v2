@@ -2488,49 +2488,6 @@
     "monthly_hours": 48.8
   },
   {
-    "name": "Kuzuha Channel",
-    "platform": "YouTube",
-    "subscribers": 2190000,
-    "channel_url": "https://www.youtube.com/@Kuzuha",
-    "category": "VTuber/ゲーム実況",
-    "country": "jp",
-    "avg_views": 220722,
-    "engagement_rate": 3.48,
-    "growth_rate": 1.38,
-    "content_count": 3979,
-    "recent_videos": [
-      {
-        "title": "葛葉レビュー",
-        "views": 205103,
-        "upload_date": "2026-07-10"
-      },
-      {
-        "title": "葛葉レビュー",
-        "views": 163458,
-        "upload_date": "2026-07-04"
-      },
-      {
-        "title": "葛葉ハイライト",
-        "views": 257002,
-        "upload_date": "2026-06-29"
-      }
-    ],
-    "main_games": [
-      "APEX",
-      "マインクラフト",
-      "FF14",
-      "原神"
-    ],
-    "tier": "A",
-    "is_official": false,
-    "peak_viewers": 756523,
-    "avg_stream_duration": 111,
-    "stream_frequency": 3,
-    "follower_ratio": 12.98,
-    "category_rank": 4,
-    "monthly_hours": 22.2
-  },
-  {
     "name": "Kanae Channel",
     "platform": "YouTube",
     "subscribers": 1610000,
@@ -8372,20 +8329,6 @@
     ]
   },
   {
-    "name": "ねるめろ / Nerumero",
-    "channel_url": "https://www.youtube.com/@nerumero/streams",
-    "platform": "YT",
-    "subscribers": 561000,
-    "attribute": "VTuber",
-    "collab_type": "直播",
-    "cost_usd": 8970,
-    "country": "jp",
-    "tier": "A",
-    "main_games": [
-      "Trickcal:Chibi Go"
-    ]
-  },
-  {
     "name": "藍沢エマ / Aizawa Ema",
     "channel_url": "https://www.youtube.com/@AizawaEma/streams",
     "platform": "YT",
@@ -8435,20 +8378,6 @@
     "attribute": "VTuber",
     "collab_type": "直播",
     "cost_usd": 0,
-    "country": "jp",
-    "tier": "A",
-    "main_games": [
-      "Trickcal:Chibi Go"
-    ]
-  },
-  {
-    "name": "笹木咲 / Sasaki Saku",
-    "channel_url": "https://www.youtube.com/@SasakiSaku/streams",
-    "platform": "YT",
-    "subscribers": 905000,
-    "attribute": "VTuber",
-    "collab_type": "直播",
-    "cost_usd": 20700,
     "country": "jp",
     "tier": "A",
     "main_games": [
@@ -9114,20 +9043,6 @@
     ]
   },
   {
-    "name": "速報",
-    "channel_url": "https://www.youtube.com/@sokuhou-/videos",
-    "platform": "YT",
-    "subscribers": 280000,
-    "attribute": "资讯类",
-    "collab_type": "全片",
-    "cost_usd": 5780,
-    "country": "jp",
-    "tier": "B",
-    "main_games": [
-      "Trickcal:Chibi Go"
-    ]
-  },
-  {
     "name": "のむへい",
     "channel_url": "https://www.youtube.com/@nomuhei_channel/shorts",
     "platform": "YT",
@@ -9184,20 +9099,6 @@
     ]
   },
   {
-    "name": "ボドカ",
-    "channel_url": "https://www.youtube.com/@vodkachaso/videos",
-    "platform": "YT",
-    "subscribers": 896000,
-    "attribute": "直播类",
-    "collab_type": "直播",
-    "cost_usd": 14280,
-    "country": "jp",
-    "tier": "A",
-    "main_games": [
-      "Trickcal:Chibi Go"
-    ]
-  },
-  {
     "name": "桜ころみん",
     "channel_url": "https://www.youtube.com/@coromin/videos",
     "platform": "YT",
@@ -9249,20 +9150,6 @@
     "cost_usd": 1360,
     "country": "jp",
     "tier": "C",
-    "main_games": [
-      "Trickcal:Chibi Go"
-    ]
-  },
-  {
-    "name": "夜見れな/yorumi rena【にじさんじ所属】",
-    "channel_url": "https://www.youtube.com/@YorumiRena/streams",
-    "platform": "YT",
-    "subscribers": 578000,
-    "attribute": "VTuber",
-    "collab_type": "直播",
-    "cost_usd": 0,
-    "country": "jp",
-    "tier": "A",
     "main_games": [
       "Trickcal:Chibi Go"
     ]
@@ -9375,20 +9262,6 @@
     "cost_usd": 0,
     "country": "jp",
     "tier": "B",
-    "main_games": [
-      "Trickcal:Chibi Go"
-    ]
-  },
-  {
-    "name": "橘ひなの / Hinano Tachibana",
-    "channel_url": "https://www.youtube.com/@hinanotachiba7/streams",
-    "platform": "YT",
-    "subscribers": 927000,
-    "attribute": "VTuber",
-    "collab_type": "直播",
-    "cost_usd": 0,
-    "country": "jp",
-    "tier": "A",
     "main_games": [
       "Trickcal:Chibi Go"
     ]
