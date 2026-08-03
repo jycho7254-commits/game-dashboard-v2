@@ -9,7 +9,7 @@
     },
     {
       "name": "치지직",
-      "viewers": "2,740",
+      "viewers": "2,398",
       "channels": "141",
       "link": "https://chzzk.naver.com"
     }
@@ -17,42 +17,42 @@
   "categories": [
     {
       "game": "게임",
-      "viewers": 258,
+      "viewers": 253,
       "channels": 20
     },
     {
       "game": "롤",
-      "viewers": 532,
+      "viewers": 572,
       "channels": 20
     },
     {
       "game": "발로란트",
-      "viewers": 553,
+      "viewers": 92,
       "channels": 20
     },
     {
       "game": "오버워치",
-      "viewers": 365,
+      "viewers": 403,
       "channels": 20
     },
     {
       "game": "배틀그라운드",
-      "viewers": 163,
+      "viewers": 235,
       "channels": 20
     },
     {
       "game": "마인크래프트",
-      "viewers": 85,
+      "viewers": 84,
       "channels": 20
     },
     {
       "game": "서든어택",
-      "viewers": 4,
+      "viewers": 5,
       "channels": 2
     },
     {
       "game": "로스트아크",
-      "viewers": 379,
+      "viewers": 356,
       "channels": 20
     },
     {
@@ -62,14 +62,14 @@
     },
     {
       "game": "스타크래프트",
-      "viewers": 359,
-      "channels": 7
+      "viewers": 356,
+      "channels": 6
     }
   ],
   "streamers": [
     {
       "name": "맹숙",
-      "viewers": 380,
+      "viewers": 385,
       "category": "롤",
       "title": "엘든링 하려고했는데 컴터벽돌되서 덕코프하다가 벽느껴서 롤켜게된 사연..",
       "platform": "SOOP",
@@ -84,24 +84,8 @@
       "link": "https://chzzk.naver.com/live/20346847"
     },
     {
-      "name": "크포",
-      "viewers": 320,
-      "category": "발로란트",
-      "title": "나는 진짜 못한다",
-      "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20348514"
-    },
-    {
-      "name": "도로시 dorothy",
-      "viewers": 137,
-      "category": "발로란트",
-      "title": "안되겠다 오늘 폼찾는다 건들면뭄",
-      "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20343689"
-    },
-    {
       "name": "나무늘보OW",
-      "viewers": 116,
+      "viewers": 121,
       "category": "오버워치",
       "title": "마스터 갑니다",
       "platform": "SOOP",
@@ -109,7 +93,7 @@
     },
     {
       "name": "주루",
-      "viewers": 108,
+      "viewers": 113,
       "category": "오버워치",
       "title": "힐러만 성공 하면 150만원",
       "platform": "SOOP",
@@ -117,15 +101,23 @@
     },
     {
       "name": "별 연",
-      "viewers": 90,
+      "viewers": 86,
       "category": "로스트아크",
       "title": "하드 종막 모코코 트라이 로치원 원장 여우 / 일일 게스트 (!멤버)",
       "platform": "SOOP",
       "link": "https://chzzk.naver.com/live/20342108"
     },
     {
+      "name": "연미콩",
+      "viewers": 82,
+      "category": "배틀그라운드",
+      "title": "미션환영^^ 방해룰렛3천치즈",
+      "platform": "SOOP",
+      "link": "https://chzzk.naver.com/live/20345037"
+    },
+    {
       "name": "1Chon",
-      "viewers": 74,
+      "viewers": 76,
       "category": "게임",
       "title": "1330점 시작) 1500을 향하여",
       "platform": "SOOP",
@@ -133,7 +125,7 @@
     },
     {
       "name": "세리얀",
-      "viewers": 66,
+      "viewers": 69,
       "category": "로스트아크",
       "title": "[카단/길드원 환영] 로치원 종하 트라이 갑니다 2번째",
       "platform": "SOOP",
@@ -141,11 +133,19 @@
     },
     {
       "name": "한 심",
-      "viewers": 53,
+      "viewers": 58,
       "category": "롤",
       "title": "(성격장애 극복) 롤 팀원한테 욕 안 할시 고메스퀘어 뷔페 ㄱ *현재 2",
       "platform": "SOOP",
       "link": "https://chzzk.naver.com/live/20350103"
+    },
+    {
+      "name": "치치94",
+      "viewers": 48,
+      "category": "롤",
+      "title": "다이아2 노방종 500만원 잘가보겠습니다\n",
+      "platform": "SOOP",
+      "link": "https://chzzk.naver.com/live/20261162"
     },
     {
       "name": "우사미 미유",
@@ -157,7 +157,7 @@
     },
     {
       "name": "로자르TV",
-      "viewers": 39,
+      "viewers": 41,
       "category": "배틀그라운드",
       "title": "노방종 룰렛 시작!! 로자르 배틀그라운드",
       "platform": "SOOP",
@@ -172,8 +172,16 @@
       "link": "https://chzzk.naver.com/live/20346909"
     },
     {
+      "name": "꿀유자",
+      "viewers": 30,
+      "category": "로스트아크",
+      "title": "[🌱&카단] 로치원 종막 하드 트라이 드가쟈에요! (╹ڡ╹ )",
+      "platform": "SOOP",
+      "link": "https://chzzk.naver.com/live/20342093"
+    },
+    {
       "name": "쉐입",
-      "viewers": 31,
+      "viewers": 29,
       "category": "FC온라인",
       "title": "신규/복귀 스쿼드 제작해드려요(무료) & 소통",
       "platform": "SOOP",
@@ -181,7 +189,7 @@
     },
     {
       "name": "아로예요",
-      "viewers": 30,
+      "viewers": 27,
       "category": "게임",
       "title": "C 1129) 1부 pbe (잘모름) 2부 17시즌 (점검하면)",
       "platform": "SOOP",
@@ -189,15 +197,23 @@
     },
     {
       "name": "사나야",
-      "viewers": 28,
+      "viewers": 27,
       "category": "오버워치",
       "title": "1패 쫑이다요 . ",
       "platform": "SOOP",
       "link": "https://chzzk.naver.com/live/20341316"
     },
     {
-      "name": "나쁜악마",
+      "name": "오롱이123",
       "viewers": 27,
+      "category": "오버워치",
+      "title": "챔2",
+      "platform": "SOOP",
+      "link": "https://chzzk.naver.com/live/20350489"
+    },
+    {
+      "name": "나쁜악마",
+      "viewers": 26,
       "category": "롤",
       "title": "롤 내전\n",
       "platform": "SOOP",
@@ -212,14 +228,6 @@
       "link": "https://chzzk.naver.com/live/20343839"
     },
     {
-      "name": "꿀유자",
-      "viewers": 25,
-      "category": "로스트아크",
-      "title": "[🌱&카단] 로치원 종막 하드 트라이 드가쟈에요! (╹ڡ╹ )",
-      "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20342093"
-    },
-    {
       "name": "수잔 헌트",
       "viewers": 24,
       "category": "배틀그라운드",
@@ -228,108 +236,100 @@
       "link": "https://chzzk.naver.com/live/20346868"
     },
     {
+      "name": "배추맨",
+      "viewers": 22,
+      "category": "오버워치",
+      "title": "세기말 정병 탱커 레킹볼남 챔피언 복구전",
+      "platform": "SOOP",
+      "link": "https://chzzk.naver.com/live/20349986"
+    },
+    {
       "name": "꼐속",
-      "viewers": 23,
+      "viewers": 20,
       "category": "게임",
       "title": "(노방종) 정중한 채팅을 요청하마 ~",
       "platform": "SOOP",
       "link": "https://chzzk.naver.com/live/20302166"
     },
     {
-      "name": "여주 YLIF",
-      "viewers": 21,
-      "category": "마인크래프트",
-      "title": "【 YLIF 】마크? 해보겠습니다? 🔮 (4일차) 벌칙 단나사마",
-      "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20348913"
-    },
-    {
-      "name": "유 나 나",
-      "viewers": 20,
-      "category": "로스트아크",
-      "title": "🐤로치원 곰수사 종하 트라이🐻",
-      "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20347709"
-    },
-    {
       "name": "르 하",
-      "viewers": 17,
+      "viewers": 19,
       "category": "게임",
       "title": "1부 저챗 / 2부 명조 스토리 (●′¬′●マⳊ",
       "platform": "SOOP",
       "link": "https://chzzk.naver.com/live/20347495"
     },
     {
+      "name": "여주 YLIF",
+      "viewers": 19,
+      "category": "마인크래프트",
+      "title": "【 YLIF 】마크? 해보겠습니다? 🔮 (4일차) 벌칙 단나사마",
+      "platform": "SOOP",
+      "link": "https://chzzk.naver.com/live/20348913"
+    },
+    {
+      "name": "은설또",
+      "viewers": 18,
+      "category": "발로란트",
+      "title": "골딱이의 발로재활하기(,,>0<,,)",
+      "platform": "SOOP",
+      "link": "https://chzzk.naver.com/live/20350079"
+    },
+    {
       "name": "생이 saeng e",
-      "viewers": 16,
+      "viewers": 18,
       "category": "배틀그라운드",
       "title": "[새치동]오버워치 서버가 불안정해서 치킨좀 먹으려고 왔습니다🐰w. 수잔헌",
       "platform": "SOOP",
       "link": "https://chzzk.naver.com/live/20345950"
     },
     {
-      "name": "스누피",
-      "viewers": 15,
-      "category": "게임",
-      "title": "폐허 초기화 Day【명조 상담소】명조 교수 스누피냥 [08/03] #명조",
-      "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20344677"
-    },
-    {
       "name": "경나WOW",
-      "viewers": 15,
+      "viewers": 17,
       "category": "로스트아크",
       "title": "로스트아크 뉴비 3일차",
       "platform": "SOOP",
       "link": "https://chzzk.naver.com/live/20336806"
     },
     {
-      "name": "서아윤",
-      "viewers": 15,
-      "category": "로스트아크",
-      "title": "[카마인] 게스트분이랑 로치원 종하 트라이",
+      "name": "몽몽 mongmong",
+      "viewers": 16,
+      "category": "오버워치",
+      "title": "이길 때까지 안 끝남",
       "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20350261"
+      "link": "https://chzzk.naver.com/live/20350009"
     },
     {
-      "name": "넬다",
+      "name": "스누피",
       "viewers": 14,
-      "category": "발로란트",
-      "title": "요즘 잠이 부족하댜... 💛",
+      "category": "게임",
+      "title": "폐허 초기화 Day【명조 상담소】명조 교수 스누피냥 [08/03] #명조",
       "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20348943"
+      "link": "https://chzzk.naver.com/live/20344677"
     },
     {
-      "name": "가사비 LyricsBe",
+      "name": "쿼 터",
       "viewers": 13,
       "category": "게임",
-      "title": "역탑 중앙까지 도전(첫트)",
+      "title": "롤체 초보 ;ㅅ; ",
       "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20349746"
+      "link": "https://chzzk.naver.com/live/20349111"
     },
     {
-      "name": "마치123",
+      "name": "둥둥군",
       "viewers": 13,
       "category": "롤",
-      "title": "ㅎㅇㅋㅋ",
+      "title": "그냥 증바람이 좋아(시참가능)",
       "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20342618"
+      "link": "https://chzzk.naver.com/live/20338603"
     },
     {
-      "name": "김까슬",
+      "name": "lavi3en",
       "viewers": 13,
       "category": "오버워치",
-      "title": "오버워치",
+      "title": "화뇨일.",
       "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20347394"
-    },
-    {
-      "name": "나 견",
-      "viewers": 13,
-      "category": "오버워치",
-      "title": "휴가 자~알 즐기고 왔습니다 🐶",
-      "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20348242"
+      "link": "https://chzzk.naver.com/live/20349857"
     },
     {
       "name": "레코드진",
@@ -348,60 +348,44 @@
       "link": "https://chzzk.naver.com/live/20345920"
     },
     {
-      "name": "쿼 터",
-      "viewers": 12,
-      "category": "게임",
-      "title": "롤체 초보 ;ㅅ; ",
+      "name": "나 견",
+      "viewers": 11,
+      "category": "오버워치",
+      "title": "휴가 자~알 즐기고 왔습니다 🐶",
       "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20349111"
+      "link": "https://chzzk.naver.com/live/20348242"
+    },
+    {
+      "name": "김향",
+      "viewers": 11,
+      "category": "로스트아크",
+      "title": "일숙 호다닥",
+      "platform": "SOOP",
+      "link": "https://chzzk.naver.com/live/20350253"
+    },
+    {
+      "name": "겨울 Winter",
+      "viewers": 11,
+      "category": "FC온라인",
+      "title": "시청자 스쿼드메이킹",
+      "platform": "SOOP",
+      "link": "https://chzzk.naver.com/live/20349044"
     },
     {
       "name": "0레아0 Lea",
-      "viewers": 12,
+      "viewers": 10,
       "category": "발로란트",
       "title": "[신입 14일차 / 시참 환영 ] 바보의 발로란트",
       "platform": "SOOP",
       "link": "https://chzzk.naver.com/live/20349123"
     },
     {
-      "name": "게임잡식",
-      "viewers": 12,
-      "category": "로스트아크",
-      "title": "유입 환영)해야 할 것 _ 낙원, 싱코, 내실, 생기, 인벤정리, 벨가르",
-      "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20349347"
-    },
-    {
-      "name": "Casey",
-      "viewers": 11,
-      "category": "오버워치",
-      "title": "에임연습",
-      "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20350135"
-    },
-    {
-      "name": "악동그랑",
-      "viewers": 10,
-      "category": "롤",
-      "title": "롤하자 [맞팔환영 [시참환영]",
-      "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20319814"
-    },
-    {
-      "name": "츄비노",
-      "viewers": 10,
-      "category": "롤",
-      "title": "하루의 마무리 !",
-      "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20339448"
-    },
-    {
-      "name": "키먕 KIMYANG",
+      "name": "폴탄poltan",
       "viewers": 10,
       "category": "발로란트",
-      "title": "골드 달리기",
+      "title": "cctv",
       "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20348155"
+      "link": "https://chzzk.naver.com/live/20350155"
     },
     {
       "name": "알라쫀득쿠키",
@@ -412,22 +396,6 @@
       "link": "https://chzzk.naver.com/live/20347492"
     },
     {
-      "name": "코몬 Co Mon",
-      "viewers": 10,
-      "category": "배틀그라운드",
-      "title": "[신입/유입/겜못스/소통/영도환영] 치킨 함 먹어보도록 하게씀미다!",
-      "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20341046"
-    },
-    {
-      "name": "메론일락",
-      "viewers": 10,
-      "category": "배틀그라운드",
-      "title": "[V] 눈물나는 킬룰렛 탈출쇼",
-      "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20343202"
-    },
-    {
       "name": "히구히구",
       "viewers": 10,
       "category": "로스트아크",
@@ -436,12 +404,36 @@
       "link": "https://chzzk.naver.com/live/20343759"
     },
     {
-      "name": "Marx막스",
+      "name": "롤체 칸",
       "viewers": 9,
-      "category": "롤",
-      "title": "싱가포르 혼혈 방송! 0770은 안된다",
+      "category": "게임",
+      "title": "[GM 756] 오랜만입니다 새벽롤체 ㄱㄱ",
       "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20339402"
+      "link": "https://chzzk.naver.com/live/20348914"
+    },
+    {
+      "name": "댕대래",
+      "viewers": 9,
+      "category": "게임",
+      "title": "명조 폐허",
+      "platform": "SOOP",
+      "link": "https://chzzk.naver.com/live/20350350"
+    },
+    {
+      "name": "쿠라야미 켄토",
+      "viewers": 9,
+      "category": "발로란트",
+      "title": "[신입/유입 대환영] 크루원 모집합니다. ",
+      "platform": "SOOP",
+      "link": "https://chzzk.naver.com/live/20341440"
+    },
+    {
+      "name": "메론일락",
+      "viewers": 9,
+      "category": "배틀그라운드",
+      "title": "[V] 눈물나는 킬룰렛 탈출쇼",
+      "platform": "SOOP",
+      "link": "https://chzzk.naver.com/live/20343202"
     },
     {
       "name": "준박스",
@@ -452,24 +444,32 @@
       "link": "https://chzzk.naver.com/live/20338501"
     },
     {
-      "name": "겨울 Winter",
-      "viewers": 9,
-      "category": "FC온라인",
-      "title": "시청자 스쿼드메이킹",
+      "name": "악동그랑",
+      "viewers": 8,
+      "category": "롤",
+      "title": "롤하자 [맞팔환영 [시참환영]",
       "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20349044"
+      "link": "https://chzzk.naver.com/live/20319814"
     },
     {
-      "name": "홍묘책",
+      "name": "도 마 도",
       "viewers": 8,
-      "category": "발로란트",
-      "title": "[발로란트 시참] 실버 찍을 때까지 안 자요ㅠ 브3 60점",
+      "category": "오버워치",
+      "title": "서버 좀 고쳐라",
       "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20347396"
+      "link": "https://chzzk.naver.com/live/20347517"
+    },
+    {
+      "name": "라비니LAVINI",
+      "viewers": 8,
+      "category": "배틀그라운드",
+      "title": "치지직 첫방송 배틀그라운드",
+      "platform": "SOOP",
+      "link": "https://chzzk.naver.com/live/20350437"
     }
   ],
   "total_viewers": 6434,
   "total_streamers": 153,
   "updated": "2026-08-03 17:00",
-  "fetched": "2026-08-04T04:54:40.856467"
+  "fetched": "2026-08-04T04:59:46.733753"
 }
