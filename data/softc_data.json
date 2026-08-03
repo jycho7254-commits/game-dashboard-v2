@@ -9,8 +9,8 @@
     },
     {
       "name": "치지직",
-      "viewers": "2,476",
-      "channels": "167",
+      "viewers": "7,032",
+      "channels": "165",
       "link": "https://chzzk.naver.com"
     }
   ],
@@ -22,7 +22,7 @@
     },
     {
       "game": "롤",
-      "viewers": 190,
+      "viewers": 4731,
       "channels": 20
     },
     {
@@ -57,16 +57,24 @@
     },
     {
       "game": "FC온라인",
-      "viewers": 66,
+      "viewers": 95,
       "channels": 20
     },
     {
       "game": "스타크래프트",
-      "viewers": 201,
-      "channels": 20
+      "viewers": 187,
+      "channels": 19
     }
   ],
   "streamers": [
+    {
+      "name": "파카",
+      "viewers": 4560,
+      "category": "롤",
+      "title": "매일 롤 하는사람",
+      "platform": "SOOP",
+      "link": "https://chzzk.naver.com/live/20339564"
+    },
     {
       "name": "팔차선8",
       "viewers": 523,
@@ -90,6 +98,14 @@
       "title": "2인 나르카 로근육찍기 질증워로드 딜각최적화완료",
       "platform": "SOOP",
       "link": "https://chzzk.naver.com/live/20337932"
+    },
+    {
+      "name": "기뮨디",
+      "viewers": 81,
+      "category": "롤",
+      "title": "130일차 롤하면서 욕 안하기 1일차",
+      "platform": "SOOP",
+      "link": "https://chzzk.naver.com/live/20340815"
     },
     {
       "name": "김정민 해변킴",
@@ -124,30 +140,6 @@
       "link": "https://chzzk.naver.com/live/20336127"
     },
     {
-      "name": "태평창",
-      "viewers": 31,
-      "category": "롤",
-      "title": "[20인 롤내전] 널 위한 정글링",
-      "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20335424"
-    },
-    {
-      "name": "별풍이",
-      "viewers": 27,
-      "category": "롤",
-      "title": "롤 내전 방송! 10인, 20인 내전! 즐겁게 즐기실 분들 모두 환영합니",
-      "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20341003"
-    },
-    {
-      "name": "지수소녀99",
-      "viewers": 26,
-      "category": "롤",
-      "title": "롤",
-      "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20336995"
-    },
-    {
       "name": "인천피스트",
       "viewers": 24,
       "category": "게임",
@@ -156,20 +148,20 @@
       "link": "https://chzzk.naver.com/live/20336578"
     },
     {
-      "name": "만만수o",
-      "viewers": 23,
-      "category": "롤",
-      "title": "[롤 5:5 내전] 10~20인 인원 모집 중 ",
-      "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20337130"
-    },
-    {
       "name": "쏘야 ssoya",
       "viewers": 23,
       "category": "로스트아크",
       "title": "💜역류성 식도염이야T^T // 전조퀘 + 티저감상 후 본캐,차원술사 레이",
       "platform": "SOOP",
       "link": "https://chzzk.naver.com/live/20337455"
+    },
+    {
+      "name": "새벽 1",
+      "viewers": 23,
+      "category": "FC온라인",
+      "title": "팀 일부 리빌딩! 근데 선수 겨우샀어요 하;;  [시참 메뉴판, N커넥트",
+      "platform": "SOOP",
+      "link": "https://chzzk.naver.com/live/20343226"
     },
     {
       "name": "미어킴",
@@ -204,14 +196,6 @@
       "link": "https://chzzk.naver.com/live/20302166"
     },
     {
-      "name": "이차가식기전에",
-      "viewers": 19,
-      "category": "롤",
-      "title": "C1 2346 이차식 / 관피, 롤재판",
-      "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20334998"
-    },
-    {
       "name": "깝도이닷",
       "viewers": 19,
       "category": "스타크래프트",
@@ -226,6 +210,14 @@
       "title": "[마녀의악몽] 두가자!🦊",
       "platform": "SOOP",
       "link": "https://chzzk.naver.com/live/20337806"
+    },
+    {
+      "name": "유노을",
+      "viewers": 17,
+      "category": "롤",
+      "title": "스트리머님들과 롤 내전",
+      "platform": "SOOP",
+      "link": "https://chzzk.naver.com/live/20340400"
     },
     {
       "name": "이 스 터",
@@ -252,6 +244,14 @@
       "link": "https://chzzk.naver.com/live/20342581"
     },
     {
+      "name": "모시야",
+      "viewers": 16,
+      "category": "롤",
+      "title": "잠깐 롤 근판",
+      "platform": "SOOP",
+      "link": "https://chzzk.naver.com/live/20336539"
+    },
+    {
       "name": "굳셈요",
       "viewers": 15,
       "category": "발로란트",
@@ -268,12 +268,12 @@
       "link": "https://chzzk.naver.com/live/20283840"
     },
     {
-      "name": "쌈점슛",
-      "viewers": 14,
-      "category": "스타크래프트",
-      "title": "스타2 그마저그 답은선못인가 ? ",
+      "name": "김밤비0",
+      "viewers": 13,
+      "category": "롤",
+      "title": "롤 즐겜하기^_^",
       "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20340810"
+      "link": "https://chzzk.naver.com/live/20336800"
     },
     {
       "name": "이비핑",
@@ -290,14 +290,6 @@
       "title": "[짧]올라간다 내가 꼭.",
       "platform": "SOOP",
       "link": "https://chzzk.naver.com/live/20335606"
-    },
-    {
-      "name": "다람지99",
-      "viewers": 12,
-      "category": "롤",
-      "title": "[합방] 나 권다람, 롤을 방송에서 배우다. ( 미니언 VS 권다람 ) ",
-      "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20341854"
     },
     {
       "name": "치요밍",
@@ -348,12 +340,20 @@
       "link": "https://chzzk.naver.com/live/20336652"
     },
     {
-      "name": "함지슬",
+      "name": "서포터소환사아이콘",
+      "viewers": 10,
+      "category": "FC온라인",
+      "title": "【뉴컴컵 많관부】 ",
+      "platform": "SOOP",
+      "link": "https://chzzk.naver.com/live/20343099"
+    },
+    {
+      "name": "Marx막스",
       "viewers": 9,
       "category": "롤",
-      "title": "로라자 롤",
+      "title": "싱가포르 혼혈 방송! 롤 다이아 캐기 방송!",
       "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20341732"
+      "link": "https://chzzk.naver.com/live/20339402"
     },
     {
       "name": "이시아 Isia",
@@ -412,14 +412,6 @@
       "link": "https://chzzk.naver.com/live/20343131"
     },
     {
-      "name": "못난이오꾸",
-      "viewers": 8,
-      "category": "롤",
-      "title": "배그스쿼드모일떄까지 롤",
-      "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20334040"
-    },
-    {
       "name": "무 낙",
       "viewers": 8,
       "category": "발로란트",
@@ -466,6 +458,14 @@
       "title": "즐겜 유부남의 로스트아크♬ 싱글, 레이드 마무리.",
       "platform": "SOOP",
       "link": "https://chzzk.naver.com/live/20341901"
+    },
+    {
+      "name": "바도지",
+      "viewers": 8,
+      "category": "스타크래프트",
+      "title": "오늘의 주간돌연변이 (스타2 협동전)",
+      "platform": "SOOP",
+      "link": "https://chzzk.naver.com/live/20342478"
     }
   ],
   "total_viewers": 6434,
