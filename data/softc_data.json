@@ -2,8 +2,8 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "4,856",
-      "channels": "131",
+      "viewers": "4,708",
+      "channels": "133",
       "link": "https://chzzk.naver.com"
     },
     {
@@ -16,7 +16,7 @@
   "categories": [
     {
       "game": "게임",
-      "viewers": 579,
+      "viewers": 274,
       "channels": 20
     },
     {
@@ -31,12 +31,12 @@
     },
     {
       "game": "오버워치",
-      "viewers": 207,
+      "viewers": 338,
       "channels": 20
     },
     {
       "game": "배틀그라운드",
-      "viewers": 131,
+      "viewers": 157,
       "channels": 20
     },
     {
@@ -83,20 +83,20 @@
       "link": "https://chzzk.naver.com/live/20360648"
     },
     {
-      "name": "덕드래곤",
-      "viewers": 361,
-      "category": "게임",
-      "title": "전장광대 // 새 시즌 떳냐",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20368034"
-    },
-    {
       "name": "위구리",
       "viewers": 263,
       "category": "마인크래프트",
       "title": "정답은 낚시에 있었어.",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20356706"
+    },
+    {
+      "name": "나무늘보OW",
+      "viewers": 116,
+      "category": "오버워치",
+      "title": "[미션환영] 세기말 그마 가봅시다. *티맞 3만/ 피드백 4만",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20365089"
     },
     {
       "name": "새 담",
@@ -139,6 +139,14 @@
       "link": "https://chzzk.naver.com/live/20366104"
     },
     {
+      "name": "얍쭈",
+      "viewers": 45,
+      "category": "배틀그라운드",
+      "title": "열대야엔 배그",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20365663"
+    },
+    {
       "name": "NS Rb",
       "viewers": 42,
       "category": "발로란트",
@@ -147,20 +155,28 @@
       "link": "https://chzzk.naver.com/live/20367992"
     },
     {
-      "name": "나브1",
-      "viewers": 42,
-      "category": "배틀그라운드",
-      "title": "솔쿼드의 삶",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20362933"
-    },
-    {
       "name": "밍 설",
       "viewers": 40,
       "category": "롤",
       "title": "1000팔 기념 메이드복 술 먹방/음주롤 솔랭 한판 승리 미션",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20365398"
+    },
+    {
+      "name": "표후",
+      "viewers": 39,
+      "category": "게임",
+      "title": "지하투기장 악사 너프 (그래도 좋을듯)",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20366637"
+    },
+    {
+      "name": "코코스",
+      "viewers": 35,
+      "category": "게임",
+      "title": "전장 새시즌 2시",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20367891"
     },
     {
       "name": "치치94",
@@ -177,14 +193,6 @@
       "title": "2장 3막 두가쟝!!!",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20362956"
-    },
-    {
-      "name": "판누",
-      "viewers": 32,
-      "category": "오버워치",
-      "title": "다시 한번 기회를 주시면 열심히 해보겠습니다.",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20367739"
     },
     {
       "name": "맛과영양",
@@ -211,12 +219,36 @@
       "link": "https://chzzk.naver.com/live/20364828"
     },
     {
-      "name": "빅박스",
-      "viewers": 23,
+      "name": "때으니",
+      "viewers": 27,
       "category": "오버워치",
-      "title": "힐 챔 5 100만원 이제 꺨게요",
+      "title": "고냥이연습2일차(밴당할시미즈키우양연습)",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20368640"
+      "link": "https://chzzk.naver.com/live/20367638"
+    },
+    {
+      "name": "유제이와 고양이",
+      "viewers": 26,
+      "category": "오버워치",
+      "title": "타포지 다이아지만 딜러는 골드급인 청년. ★티맞1만★ !시참 !미션",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20366506"
+    },
+    {
+      "name": "I 8",
+      "viewers": 25,
+      "category": "오버워치",
+      "title": "ㅇㅇ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20368445"
+    },
+    {
+      "name": "메메s",
+      "viewers": 24,
+      "category": "오버워치",
+      "title": "내고향 마스터 ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20367557"
     },
     {
       "name": "가마니 GAMANI",
@@ -227,22 +259,6 @@
       "link": "https://chzzk.naver.com/live/20368471"
     },
     {
-      "name": "호서윤",
-      "viewers": 16,
-      "category": "오버워치",
-      "title": "졸린토끼",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20363885"
-    },
-    {
-      "name": "박기유 parkiyou",
-      "viewers": 15,
-      "category": "게임",
-      "title": "나박기유의 전장 14시즌 찍먹 ㄷㄷ",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20368203"
-    },
-    {
       "name": "시스네",
       "viewers": 15,
       "category": "마인크래프트",
@@ -251,28 +267,20 @@
       "link": "https://chzzk.naver.com/live/20364740"
     },
     {
-      "name": "배추맨",
-      "viewers": 14,
-      "category": "오버워치",
-      "title": "볼로 챔피언 못가는 사람도 있음?",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20368165"
-    },
-    {
-      "name": "고망지",
-      "viewers": 14,
-      "category": "배틀그라운드",
-      "title": "그저 배그가 좋은 청년",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20355502"
-    },
-    {
-      "name": "산구리",
+      "name": "이 채린",
       "viewers": 13,
-      "category": "게임",
-      "title": "전 설 노 방 종 ",
+      "category": "배틀그라운드",
+      "title": "덥다 더웡 ",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20357694"
+      "link": "https://chzzk.naver.com/live/20356739"
+    },
+    {
+      "name": "몽 비",
+      "viewers": 13,
+      "category": "배틀그라운드",
+      "title": "[팬시참/딜룰렛on]  몽비등쟝 /ᐠ ˵> ⩊ <˵マ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20365243"
     },
     {
       "name": "노노하",
@@ -281,14 +289,6 @@
       "title": "여러분의 직업도 마법소녀이신가요 ★",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20366601"
-    },
-    {
-      "name": "장꾸야 놀자",
-      "viewers": 12,
-      "category": "배틀그라운드",
-      "title": "<시참> 스배 / 팔로우 ㄱㄱ [신입] ",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20365893"
     },
     {
       "name": "권동호",
@@ -307,5 +307,5 @@
       "link": "https://chzzk.naver.com/live/20365577"
     }
   ],
-  "fetched": "2026-08-05T05:22:35"
+  "fetched": "2026-08-05T05:22:39"
 }
