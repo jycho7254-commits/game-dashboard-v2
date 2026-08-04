@@ -2,8 +2,8 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "1,226",
-      "channels": "111",
+      "viewers": "1,173",
+      "channels": "109",
       "link": "https://chzzk.naver.com"
     },
     {
@@ -31,12 +31,12 @@
     },
     {
       "game": "오버워치",
-      "viewers": 280,
+      "viewers": 276,
       "channels": 20
     },
     {
       "game": "배틀그라운드",
-      "viewers": 153,
+      "viewers": 104,
       "channels": 20
     },
     {
@@ -105,14 +105,6 @@
       "title": "18시즌 PBE  명예 시민 1호 (ᐢ⑅•ᴗ•⑅ᐢ) 🍀",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20369035"
-    },
-    {
-      "name": "도르밍",
-      "viewers": 33,
-      "category": "배틀그라운드",
-      "title": "우당탕탕 4인큐 (w,!멤버)",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20368077"
     },
     {
       "name": "고로롱 냥아찌",
@@ -195,14 +187,6 @@
       "link": "https://chzzk.naver.com/live/20368992"
     },
     {
-      "name": "장꾸야 놀자",
-      "viewers": 17,
-      "category": "배틀그라운드",
-      "title": "<시참> 스배 / 팔로우 ㄱㄱ [신입] ",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20365893"
-    },
-    {
       "name": "순두둥",
       "viewers": 16,
       "category": "배틀그라운드",
@@ -243,14 +227,6 @@
       "link": "https://chzzk.naver.com/live/20368093"
     },
     {
-      "name": "천소소야",
-      "viewers": 13,
-      "category": "배틀그라운드",
-      "title": "처음해보는 암전 모드!! 😇",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20368970"
-    },
-    {
       "name": "실키아",
       "viewers": 13,
       "category": "스타크래프트",
@@ -273,6 +249,14 @@
       "title": "[2부: 배그] 가보쟈ㅏㅏㅏㅏㅏ[1부: 오버워치] 오랜만에 왔더니 갑자기",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20367195"
+    },
+    {
+      "name": "몽 비",
+      "viewers": 12,
+      "category": "배틀그라운드",
+      "title": "[팬시참/딜룰렛on]  몽비등쟝 /ᐠ ˵> ⩊ <˵マ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20365243"
     },
     {
       "name": "핸떠기",
@@ -299,13 +283,29 @@
       "link": "https://chzzk.naver.com/live/20368908"
     },
     {
-      "name": "물식이",
+      "name": "청아하게",
       "viewers": 11,
-      "category": "배틀그라운드",
-      "title": "물개와 스쿼드",
+      "category": "로스트아크",
+      "title": "벨가르딘 전 마지막 준비",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20367837"
+      "link": "https://chzzk.naver.com/live/20365540"
+    },
+    {
+      "name": "카리아입니다",
+      "viewers": 10,
+      "category": "게임",
+      "title": "돈 벌고 극비 박기",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20368589"
+    },
+    {
+      "name": "메론일락",
+      "viewers": 10,
+      "category": "롤",
+      "title": "[V] 숨이 가빠 메이데이",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20363895"
     }
   ],
-  "fetched": "2026-08-05T07:46:31"
+  "fetched": "2026-08-05T07:46:38"
 }
