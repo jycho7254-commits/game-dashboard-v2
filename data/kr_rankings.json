@@ -443,19 +443,6 @@
   },
   {
     "rank": 35,
-    "title": "Lineage W",
-    "developer": "NC Corporation",
-    "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.ncsoft.lineagew",
-    "local_name": "리니지W",
-    "icon": "https://play-lh.googleusercontent.com/VvwlyO5rMOgeedcbDmvBQv-vDoCeHqxBdSHqTrA3xUZAEuRcAwTBznrJBwkj3_xvhUTkLJ4D98RT1fZTtu8W",
-    "est_revenue": 338749,
-    "est_revenue_fmt": "$339K",
-    "est_revenue_won": "5.1억"
-  },
-  {
-    "rank": 36,
     "title": "트릭컬 리바이브",
     "developer": "EPIDGames",
     "genre": "Game",
@@ -468,7 +455,7 @@
     "est_revenue_won": "5.6억"
   },
   {
-    "rank": 37,
+    "rank": 36,
     "title": "PUBG Mobile",
     "developer": "KRAFTON, Inc.",
     "genre": "Game",
@@ -481,7 +468,7 @@
     "est_revenue_won": "4.8억"
   },
   {
-    "rank": 38,
+    "rank": 37,
     "title": "Coop TD: Together",
     "developer": "Supermagic",
     "genre": "Game",
@@ -494,7 +481,7 @@
     "est_revenue_won": "5.3억"
   },
   {
-    "rank": 39,
+    "rank": 38,
     "title": "hololive Dreams",
     "developer": "QualiArts, Inc.",
     "genre": "Game",
@@ -507,7 +494,7 @@
     "est_revenue_won": "7.1억"
   },
   {
-    "rank": 40,
+    "rank": 39,
     "title": "컴투스프로야구V26",
     "developer": "Com2uS",
     "genre": "Game",
@@ -518,6 +505,19 @@
     "est_revenue": 306976,
     "est_revenue_fmt": "$307K",
     "est_revenue_won": "4.6억"
+  },
+  {
+    "rank": 40,
+    "title": "Lineage W",
+    "developer": "NC Corporation",
+    "genre": "Game",
+    "rating": 3.8,
+    "app_id": "com.ncsoft.lineagew",
+    "local_name": "리니지W",
+    "icon": "https://play-lh.googleusercontent.com/VvwlyO5rMOgeedcbDmvBQv-vDoCeHqxBdSHqTrA3xUZAEuRcAwTBznrJBwkj3_xvhUTkLJ4D98RT1fZTtu8W",
+    "est_revenue": 338749,
+    "est_revenue_fmt": "$339K",
+    "est_revenue_won": "5.1억"
   },
   {
     "rank": 41,
