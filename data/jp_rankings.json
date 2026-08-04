@@ -14,19 +14,6 @@
   },
   {
     "rank": 2,
-    "title": "ホロライブドリームス",
-    "developer": "QualiArts, Inc.",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "game.qualiarts.hololive.dreams.jp",
-    "local_name": "ホロライブドリームス",
-    "icon": "https://play-lh.googleusercontent.com/j00IPpPSDv3cGqoKVIDf0qnCw6EbZQ4KpgMr10UWkf8Rm1qO9vCSoVhJwfCF1PbbKxV_Qt_eqZ_Sp4QMHuhwYBI",
-    "est_revenue": 12460775,
-    "est_revenue_fmt": "$12.46M",
-    "est_revenue_won": "186.9억"
-  },
-  {
-    "rank": 3,
     "title": "Zenless Zone Zero - Anniv.",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -37,6 +24,19 @@
     "est_revenue": 14838275,
     "est_revenue_fmt": "$14.84M",
     "est_revenue_won": "222.6억"
+  },
+  {
+    "rank": 3,
+    "title": "ホロライブドリームス",
+    "developer": "QualiArts, Inc.",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "game.qualiarts.hololive.dreams.jp",
+    "local_name": "ホロライブドリームス",
+    "icon": "https://play-lh.googleusercontent.com/j00IPpPSDv3cGqoKVIDf0qnCw6EbZQ4KpgMr10UWkf8Rm1qO9vCSoVhJwfCF1PbbKxV_Qt_eqZ_Sp4QMHuhwYBI",
+    "est_revenue": 12460775,
+    "est_revenue_fmt": "$12.46M",
+    "est_revenue_won": "186.9억"
   },
   {
     "rank": 4,
@@ -287,19 +287,6 @@
   },
   {
     "rank": 23,
-    "title": "信長の野望 真戦",
-    "developer": "Qookka Games",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.qookkagames.xczyw.gp.jp",
-    "local_name": "信長の野望 真戦",
-    "icon": "https://play-lh.googleusercontent.com/3XmTeAwhy-k2u_bN2kvYHXzzTRcDsBIRR0EZOBzf-csvFVR7M7cKo_GNToLfTgeSsdYEUcnmWtrQhBigLSddxNg",
-    "est_revenue": 2158659,
-    "est_revenue_fmt": "$2.16M",
-    "est_revenue_won": "32.4억"
-  },
-  {
-    "rank": 24,
     "title": "Pokémon GO",
     "developer": "Scopely Explore, Inc.",
     "genre": "Game",
@@ -310,6 +297,19 @@
     "est_revenue": 2058891,
     "est_revenue_fmt": "$2.06M",
     "est_revenue_won": "30.9억"
+  },
+  {
+    "rank": 24,
+    "title": "信長の野望 真戦",
+    "developer": "Qookka Games",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.qookkagames.xczyw.gp.jp",
+    "local_name": "信長の野望 真戦",
+    "icon": "https://play-lh.googleusercontent.com/3XmTeAwhy-k2u_bN2kvYHXzzTRcDsBIRR0EZOBzf-csvFVR7M7cKo_GNToLfTgeSsdYEUcnmWtrQhBigLSddxNg",
+    "est_revenue": 2158659,
+    "est_revenue_fmt": "$2.16M",
+    "est_revenue_won": "32.4억"
   },
   {
     "rank": 25,
@@ -521,32 +521,6 @@
   },
   {
     "rank": 41,
-    "title": "Royal Kingdom",
-    "developer": "Dream Games, Ltd.",
-    "genre": "Game",
-    "rating": 4.1,
-    "app_id": "com.dreamgames.royalkingdom",
-    "local_name": "Royal Kingdom",
-    "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
-    "est_revenue": 930755,
-    "est_revenue_fmt": "$931K",
-    "est_revenue_won": "14.0억"
-  },
-  {
-    "rank": 42,
-    "title": "#コンパス【戦闘摂理解析システム】",
-    "developer": "NHN PlayArt Corp.",
-    "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.nhnpa.cps",
-    "local_name": "#コンパス【戦闘摂理解析システム】",
-    "icon": "https://play-lh.googleusercontent.com/3e6YMvtLVO-rUh4r4M9Df1-IJAlnugPaBnuTpN-WgvAtetdXbwqIxwZg4BzqpQwkvOE_VIvalMXlj1zCnthxCg",
-    "est_revenue": 961299,
-    "est_revenue_fmt": "$961K",
-    "est_revenue_won": "14.4억"
-  },
-  {
-    "rank": 43,
     "title": "Tasty Travels: Merge Game",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -559,7 +533,20 @@
     "est_revenue_won": "15.4억"
   },
   {
-    "rank": 44,
+    "rank": 42,
+    "title": "Royal Kingdom",
+    "developer": "Dream Games, Ltd.",
+    "genre": "Game",
+    "rating": 4.1,
+    "app_id": "com.dreamgames.royalkingdom",
+    "local_name": "Royal Kingdom",
+    "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
+    "est_revenue": 930755,
+    "est_revenue_fmt": "$931K",
+    "est_revenue_won": "14.0억"
+  },
+  {
+    "rank": 43,
     "title": "ドラゴンボールZ ドッカンバトル",
     "developer": "Bandai Namco Entertainment Inc.",
     "genre": "Game",
@@ -570,6 +557,19 @@
     "est_revenue": 993583,
     "est_revenue_fmt": "$994K",
     "est_revenue_won": "14.9억"
+  },
+  {
+    "rank": 44,
+    "title": "グランブルーファンタジー",
+    "developer": "mobage",
+    "genre": "Game",
+    "rating": 3.9,
+    "app_id": "jp.mbga.a12016007.lite",
+    "local_name": "グランブルーファンタジー",
+    "icon": "https://play-lh.googleusercontent.com/kezieGaFO7Jl78eSwpJORGTrNGWGt1_2RHtVLtd8SrJ7QBFBnpLYQ-MmV5pUVD2JBcpuW3nqYt4Dc5wXHlWpgR8",
+    "est_revenue": 874380,
+    "est_revenue_fmt": "$874K",
+    "est_revenue_won": "13.1억"
   },
   {
     "rank": 45,
@@ -586,19 +586,6 @@
   },
   {
     "rank": 46,
-    "title": "グランブルーファンタジー",
-    "developer": "mobage",
-    "genre": "Game",
-    "rating": 3.9,
-    "app_id": "jp.mbga.a12016007.lite",
-    "local_name": "グランブルーファンタジー",
-    "icon": "https://play-lh.googleusercontent.com/kezieGaFO7Jl78eSwpJORGTrNGWGt1_2RHtVLtd8SrJ7QBFBnpLYQ-MmV5pUVD2JBcpuW3nqYt4Dc5wXHlWpgR8",
-    "est_revenue": 874380,
-    "est_revenue_fmt": "$874K",
-    "est_revenue_won": "13.1억"
-  },
-  {
-    "rank": 47,
     "title": "パズル＆ドラゴンズ(Puzzle & Dragons)",
     "developer": "GungHo Online Entertainment, Inc.",
     "genre": "Game",
@@ -611,7 +598,7 @@
     "est_revenue_won": "20.9억"
   },
   {
-    "rank": 48,
+    "rank": 47,
     "title": "無職転生〜異世界行ったら本気だす〜クロニクル・オブ・エコーズ",
     "developer": "GREE Entertainment, Inc.",
     "genre": "Game",
@@ -624,7 +611,7 @@
     "est_revenue_won": "12.7억"
   },
   {
-    "rank": 49,
+    "rank": 48,
     "title": "Last Z: Survival Shooter",
     "developer": "Omnilojo Pte Ltd",
     "genre": "Game",
@@ -637,7 +624,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 50,
+    "rank": 49,
     "title": "転生したらスライムだった件 魔王と竜の建国譚 まおりゅう",
     "developer": "Bandai Namco Entertainment Inc.",
     "genre": "Game",
@@ -645,6 +632,19 @@
     "app_id": "com.bandainamcoent.tensuramrkrelease",
     "local_name": "転生したらスライムだった件 魔王と竜の建国譚 まおりゅう",
     "icon": "https://play-lh.googleusercontent.com/XHppCshR7n1cbR2_sOoxe33acoy1nNFbzUBQ8fjLKavfPfQTLKtyONq3TCLpLfjZ08XEPx5nVcOGEToXO7qMEA",
+    "est_revenue": 0,
+    "est_revenue_fmt": "",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 50,
+    "title": "eFootball™  CHAMPION SQUADS",
+    "developer": "KONAMI",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "jp.konami.wecc",
+    "local_name": "eFootball™  CHAMPION SQUADS",
+    "icon": "https://play-lh.googleusercontent.com/uvaRNAr5rHRq9wFGjPEEBGDMIP9pgWOMj4cPNTM4dosust2m4vUVcD_En5WE5wLewHCNJZwskc8n2zE_uhf_",
     "est_revenue": 0,
     "est_revenue_fmt": "",
     "est_revenue_won": ""
