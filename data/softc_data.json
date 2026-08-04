@@ -2,7 +2,7 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "1,142",
+      "viewers": "1,124",
       "channels": "113",
       "link": "https://chzzk.naver.com"
     },
@@ -26,12 +26,12 @@
     },
     {
       "game": "발로란트",
-      "viewers": 95,
+      "viewers": 78,
       "channels": 20
     },
     {
       "game": "오버워치",
-      "viewers": 236,
+      "viewers": 235,
       "channels": 20
     },
     {
@@ -243,14 +243,6 @@
       "link": "https://chzzk.naver.com/live/20357695"
     },
     {
-      "name": "단시하",
-      "viewers": 13,
-      "category": "발로란트",
-      "title": "불멸 갈껀데 총이 고장남 ^-^ 9연패",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20368986"
-    },
-    {
       "name": "핸떠기",
       "viewers": 13,
       "category": "로스트아크",
@@ -305,7 +297,15 @@
       "title": "벨가르딘 전 마지막 준비",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20365540"
+    },
+    {
+      "name": "r1m마싯게타는놈",
+      "viewers": 10,
+      "category": "게임",
+      "title": "미컨을 깼더니 더 어려워진 니케....",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20367469"
     }
   ],
-  "fetched": "2026-08-05T07:31:10"
+  "fetched": "2026-08-05T07:31:18"
 }
