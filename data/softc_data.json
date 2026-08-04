@@ -2,7 +2,7 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "1,115",
+      "viewers": "1,107",
       "channels": "109",
       "link": "https://chzzk.naver.com"
     },
@@ -36,7 +36,7 @@
     },
     {
       "game": "배틀그라운드",
-      "viewers": 114,
+      "viewers": 106,
       "channels": 20
     },
     {
@@ -171,14 +171,6 @@
       "link": "https://chzzk.naver.com/live/20366832"
     },
     {
-      "name": "도르밍",
-      "viewers": 21,
-      "category": "배틀그라운드",
-      "title": "우당탕탕 4인큐 (w,!멤버)",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20368077"
-    },
-    {
       "name": "메메s",
       "viewers": 20,
       "category": "오버워치",
@@ -195,6 +187,14 @@
       "link": "https://chzzk.naver.com/live/20366385"
     },
     {
+      "name": "순두둥",
+      "viewers": 18,
+      "category": "배틀그라운드",
+      "title": "[!킬룰렛 open][시참][유입환영] 1부_칼바람둥 / 2부_배그둥(미",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20366144"
+    },
+    {
       "name": "키먕 KIMYANG",
       "viewers": 17,
       "category": "발로란트",
@@ -203,28 +203,12 @@
       "link": "https://chzzk.naver.com/live/20368542"
     },
     {
-      "name": "장꾸야 놀자",
-      "viewers": 17,
-      "category": "배틀그라운드",
-      "title": "<시참> 스배 / 팔로우 ㄱㄱ [신입] ",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20365893"
-    },
-    {
       "name": "하리2세",
       "viewers": 15,
       "category": "롤",
       "title": "M 512 ) 잔잔한 새벽, 솔랭 달료볼께요",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20367390"
-    },
-    {
-      "name": "물식이",
-      "viewers": 15,
-      "category": "배틀그라운드",
-      "title": "물개와 스쿼드",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20367837"
     },
     {
       "name": "이 채린",
@@ -275,6 +259,22 @@
       "link": "https://chzzk.naver.com/live/20368603"
     },
     {
+      "name": "몽 비",
+      "viewers": 11,
+      "category": "배틀그라운드",
+      "title": "[팬시참/딜룰렛on]  몽비등쟝 /ᐠ ˵> ⩊ <˵マ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20365243"
+    },
+    {
+      "name": "류벨라0917",
+      "viewers": 11,
+      "category": "배틀그라운드",
+      "title": "잠깐 들어와서 노실래요...?",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20368687"
+    },
+    {
       "name": "이비핑",
       "viewers": 11,
       "category": "마인크래프트",
@@ -307,5 +307,5 @@
       "link": "https://chzzk.naver.com/live/20367766"
     }
   ],
-  "fetched": "2026-08-05T07:05:40"
+  "fetched": "2026-08-05T07:05:41"
 }
