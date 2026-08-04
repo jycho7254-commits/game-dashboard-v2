@@ -2,7 +2,7 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "1,491",
+      "viewers": "1,630",
       "channels": "117",
       "link": "https://chzzk.naver.com"
     },
@@ -16,7 +16,7 @@
   "categories": [
     {
       "game": "게임",
-      "viewers": 306,
+      "viewers": 459,
       "channels": 20
     },
     {
@@ -31,7 +31,7 @@
     },
     {
       "game": "오버워치",
-      "viewers": 149,
+      "viewers": 137,
       "channels": 20
     },
     {
@@ -56,12 +56,12 @@
     },
     {
       "game": "FC온라인",
-      "viewers": 22,
+      "viewers": 21,
       "channels": 5
     },
     {
       "game": "스타크래프트",
-      "viewers": 21,
+      "viewers": 20,
       "channels": 2
     }
   ],
@@ -81,6 +81,14 @@
       "title": "18시즌 PBE  명예 시민 1호 (ᐢ⑅•ᴗ•⑅ᐢ) 🍀",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20369035"
+    },
+    {
+      "name": "코코스",
+      "viewers": 155,
+      "category": "게임",
+      "title": "전장 새시즌 2시",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20367891"
     },
     {
       "name": "서 형",
@@ -196,19 +204,11 @@
     },
     {
       "name": "실키아",
-      "viewers": 20,
+      "viewers": 19,
       "category": "스타크래프트",
       "title": "[치즈캠퍼스] 안 잤음 청년 : 마장전 대비 연습",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20369016"
-    },
-    {
-      "name": "야켓",
-      "viewers": 18,
-      "category": "오버워치",
-      "title": "금붕어 산책",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20369092"
     },
     {
       "name": "강낭콩99",
@@ -251,12 +251,12 @@
       "link": "https://chzzk.naver.com/live/20369039"
     },
     {
-      "name": "설백월",
-      "viewers": 12,
-      "category": "FC온라인",
-      "title": "🌙[V/신입]\"💕빌드업으로 만들어가는 한 골.🤍\"🌙",
+      "name": "필살융화조화",
+      "viewers": 13,
+      "category": "오버워치",
+      "title": "브리핑1위&랭페 모이라원챔 1위 등장 ^_^ (진짜임 ㅋ",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20366474"
+      "link": "https://chzzk.naver.com/live/20368976"
     },
     {
       "name": "응시z",
@@ -307,5 +307,5 @@
       "link": "https://chzzk.naver.com/live/20367469"
     }
   ],
-  "fetched": "2026-08-05T08:47:56"
+  "fetched": "2026-08-05T08:47:59"
 }
