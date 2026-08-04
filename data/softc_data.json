@@ -2,8 +2,8 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "4,880",
-      "channels": "164",
+      "viewers": "3,969",
+      "channels": "170",
       "link": "https://chzzk.naver.com"
     },
     {
@@ -16,7 +16,7 @@
   "categories": [
     {
       "game": "게임",
-      "viewers": 632,
+      "viewers": 592,
       "channels": 20
     },
     {
@@ -26,12 +26,12 @@
     },
     {
       "game": "발로란트",
-      "viewers": 75,
+      "viewers": 88,
       "channels": 20
     },
     {
       "game": "오버워치",
-      "viewers": 103,
+      "viewers": 134,
       "channels": 20
     },
     {
@@ -51,7 +51,7 @@
     },
     {
       "game": "로스트아크",
-      "viewers": 1470,
+      "viewers": 558,
       "channels": 20
     },
     {
@@ -61,19 +61,11 @@
     },
     {
       "game": "스타크래프트",
-      "viewers": 950,
+      "viewers": 947,
       "channels": 20
     }
   ],
   "streamers": [
-    {
-      "name": "도읍지",
-      "viewers": 670,
-      "category": "로스트아크",
-      "title": "벨가 전 공대 최종 점검! 로스피 스펙체크 ",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20354508"
-    },
     {
       "name": "철면수심",
       "viewers": 499,
@@ -97,14 +89,6 @@
       "title": "정답은 낚시에 있었어.",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20356706"
-    },
-    {
-      "name": "핑크자크",
-      "viewers": 342,
-      "category": "로스트아크",
-      "title": "이게임은 지금이 저점입니다,",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20354050"
     },
     {
       "name": "마인애플 MinedApple",
@@ -147,12 +131,12 @@
       "link": "https://chzzk.naver.com/live/20356816"
     },
     {
-      "name": "펀트펀트",
-      "viewers": 91,
+      "name": "저무콩",
+      "viewers": 166,
       "category": "로스트아크",
-      "title": "829일차 모코코의 발효기 [ 대국민 모금운동 시작합니다. 펀트펀트 뼬까",
+      "title": "몇살이세요?? 저는 인.간.말.살.ㅋ",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20355897"
+      "link": "https://chzzk.naver.com/live/20355321"
     },
     {
       "name": "아구 AGU",
@@ -161,14 +145,6 @@
       "title": "스타1 유즈맵 달려보아요~~~~~~~~~~~",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20363659"
-    },
-    {
-      "name": "1Chon",
-      "viewers": 43,
-      "category": "게임",
-      "title": "1525점 시작) 반갑습니다",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20362334"
     },
     {
       "name": "콩천",
@@ -201,6 +177,14 @@
       "title": "오버워치 가보자~~",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20361016"
+    },
+    {
+      "name": "이복만",
+      "viewers": 26,
+      "category": "오버워치",
+      "title": "오버워치 스타디움 1등까지 두걸음",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20363144"
     },
     {
       "name": "금수 푸뽀",
@@ -243,6 +227,14 @@
       "link": "https://chzzk.naver.com/live/20354239"
     },
     {
+      "name": "루냐잉",
+      "viewers": 21,
+      "category": "로스트아크",
+      "title": "이쁘니들 안녕 (ˆ⩌⩊⩌ˆ)੭",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20340279"
+    },
+    {
       "name": "모사 mosa",
       "viewers": 18,
       "category": "롤",
@@ -251,28 +243,12 @@
       "link": "https://chzzk.naver.com/live/20354758"
     },
     {
-      "name": "옵쪽이",
-      "viewers": 18,
-      "category": "오버워치",
-      "title": "오버워치 3일차 뉴비입니다^^",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20364311"
-    },
-    {
       "name": "스노",
       "viewers": 18,
       "category": "마인크래프트",
       "title": "귀농일기 1일차 🍑",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20357227"
-    },
-    {
-      "name": "벨라레타",
-      "viewers": 18,
-      "category": "로스트아크",
-      "title": "햇빛이 정도를 모르네..",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20356201"
     },
     {
       "name": "청저띠",
@@ -291,12 +267,28 @@
       "link": "https://chzzk.naver.com/live/20358934"
     },
     {
-      "name": "하엘양",
+      "name": "윤우 YunWoo",
+      "viewers": 16,
+      "category": "오버워치",
+      "title": "🐰오버워치 ✨ 오늘은 빠대할수잇니..? (시참대환영)",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20360527"
+    },
+    {
+      "name": "페잣",
+      "viewers": 16,
+      "category": "로스트아크",
+      "title": "이것저것 최종 마무리하는 날 (지옥 + 강화 + 젬 + 팔찌 + 악세 +",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20353362"
+    },
+    {
+      "name": "가마니 GAMANI",
       "viewers": 15,
       "category": "로스트아크",
-      "title": "오늘은 니케 스토리 A to Z 보는날?",
+      "title": "호말리아 해적단 공대&마니또들 전부 화이팅💛💚",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20353823"
+      "link": "https://chzzk.naver.com/live/20355852"
     },
     {
       "name": "공까",
@@ -305,7 +297,15 @@
       "title": "[68번째 방송/유입/맞팔/소통/치즈/미션환영] 김공까 엄청난 소식 들고",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20363139"
+    },
+    {
+      "name": "박 나인",
+      "viewers": 14,
+      "category": "배틀그라운드",
+      "title": "배그 조직원과 씨미 전문배그스머와 함께!  [w. 판봉식 . 노아 . 샤",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20357779"
     }
   ],
-  "fetched": "2026-08-04T22:26:41"
+  "fetched": "2026-08-04T22:26:45"
 }
