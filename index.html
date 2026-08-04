@@ -229,7 +229,7 @@ canvas{max-width:100%!important}
 <a onclick="showTab('calendar',this)"><span>캘린더</span></a>
 </div>
 <div class="topbar-right">
-<span class="meta" id="update-time">2026-08-04 18:03</span>
+<span class="meta" id="update-time">2026-08-04 18:07</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 </div>
 </div>
@@ -1436,13 +1436,13 @@ function renderSoftcStreamers(){
   var chzzkStreams=allStreams.filter(function(s){return (s.platform||'').indexOf('치지직')>=0||(s.platform||'').indexOf('chzzk')>=0});
   if(chzzkStreams.length===0)chzzkStreams=allStreams.slice(0,8);
   if(chzzkDiv){
-    chzzkDiv.innerHTML=chzzkStreams.slice(0,10).map(function(s){return _streamerHTML(s,'#00d400')}).join()||'<p style="color:var(--t3);font-size:11px">데이터 없음</p>';
+    chzzkDiv.innerHTML=chzzkStreams.slice(0,15).map(function(s){return _streamerHTML(s,'#00d400')}).join('')||'<p style="color:var(--t3);font-size:11px">데이터 없음</p>';
   }
   // YouTube Live streamers
   var ytStreams=allStreams.filter(function(s){return (s.platform||'').indexOf('YouTube')>=0||(s.platform||'').indexOf('youtube')>=0});
   if(ytDiv){
     if(ytStreams.length>0){
-      ytDiv.innerHTML=ytStreams.slice(0,10).map(function(s){return _streamerHTML(s,'#ff0000')}).join('');
+      ytDiv.innerHTML=ytStreams.slice(0,15).map(function(s){return _streamerHTML(s,'#ff0000')}).join('');
     }else{
       ytDiv.innerHTML='<p style="color:var(--t3);font-size:11px">라이브 방송이 없습니다</p>';
     }
@@ -1454,11 +1454,14 @@ function renderSoftcStreamers(){
 }
 function _streamerHTML(s,color){
   var link=s.link||'';
-  var nameHTML=link?('<a href="'+link+'" target="_blank" style="color:'+color+';text-decoration:none;font-weight:600">'+s.name+'</a>'):'<span style="font-weight:600">'+s.name+'</span>';
-  var title=s.title?(' <span style="color:var(--t3);font-size:9px">'+s.title.slice(0,20)+'</span>'):'';
-  return '<div style="display:flex;justify-content:space-between;padding:4px 0;border-bottom:1px solid var(--border)">'+
-    '<span style="font-size:11px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:140px">'+nameHTML+title+'</span>'+
-    '<span style="font-size:10px;font-weight:700;color:'+color+';white-space:nowrap">'+parseInt(s.viewers||0).toLocaleString()+'</span></div>';
+  var viewers=parseInt(s.viewers||0);
+  var vStr=viewers>0?viewers.toLocaleString():'—';
+  var title=s.title||'';
+  return '<div onclick="'+(link?('window.open(\''+link+'\',\'_blank\')'):'')+'" style="padding:5px 0;border-bottom:1px solid var(--border);cursor:'+(link?'pointer':'default')+'">'+
+    '<div style="font-size:12px;font-weight:600;color:'+color+';overflow:hidden;text-overflow:ellipsis;white-space:nowrap">'+s.name+'</div>'+
+    (title?'<div style="font-size:10px;color:var(--t3);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;margin-top:1px">'+title.slice(0,35)+'</div>':'')+
+    '<div style="font-size:10px;font-weight:700;color:'+color+';margin-top:2px">👁 '+vStr+(viewers>0?'명 시청 중':'라이브')+'</div>'+
+    '</div>';
 }
 // renderInfSoftc는 호환성 유지
 function renderInfSoftc(){renderSoftcPlatforms();renderSoftcStreamers();}
