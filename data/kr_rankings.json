@@ -144,19 +144,6 @@
   },
   {
     "rank": 12,
-    "title": "Roblox",
-    "developer": "Roblox Corporation",
-    "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.roblox.client",
-    "local_name": "로블록스",
-    "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
-    "est_revenue": 1893672,
-    "est_revenue_fmt": "$1.89M",
-    "est_revenue_won": "28.4억"
-  },
-  {
-    "rank": 13,
     "title": "한게임포커 클래식 : 7포커 홀덤 섯다 훌라 슬롯",
     "developer": "NHN Corp.",
     "genre": "Game",
@@ -164,6 +151,19 @@
     "app_id": "com.nhnent.pokerclassic",
     "local_name": "한게임 포커 클래식",
     "icon": "https://play-lh.googleusercontent.com/Hv-D0Heegr2EW_eyGcfNv-HzI_WRrjxMqnN575pY17XaRfXA4wjmAtTwWsO_ON6WqVtTP0ajH2bKKRDx6CNXhQ",
+    "est_revenue": 1893672,
+    "est_revenue_fmt": "$1.89M",
+    "est_revenue_won": "28.4억"
+  },
+  {
+    "rank": 13,
+    "title": "Roblox",
+    "developer": "Roblox Corporation",
+    "genre": "Game",
+    "rating": 3.8,
+    "app_id": "com.roblox.client",
+    "local_name": "로블록스",
+    "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
     "est_revenue": 1727818,
     "est_revenue_fmt": "$1.73M",
     "est_revenue_won": "25.9억"
@@ -183,19 +183,6 @@
   },
   {
     "rank": 15,
-    "title": "Gossip Harbor®: Merge & Story",
-    "developer": "Microfun Limited",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.mergegames.gossipharbor",
-    "local_name": "가십 하버",
-    "icon": "https://play-lh.googleusercontent.com/HLRg8oInVYJV8Uebxlh1dTH4j7OTBMIWOPZY7A7ryW9UB8K4i7HCOqkGfSLORsK-XzqhnJcJM0mjObVKZYL8zA",
-    "est_revenue": 1466666,
-    "est_revenue_fmt": "$1.47M",
-    "est_revenue_won": "22.0억"
-  },
-  {
-    "rank": 16,
     "title": "GODDESS OF VICTORY: NIKKE",
     "developer": "Level Infinite",
     "genre": "Game",
@@ -203,6 +190,19 @@
     "app_id": "com.proximabeta.nikke",
     "local_name": "승리의 여신: 니케",
     "icon": "https://play-lh.googleusercontent.com/JK5mejs0bVT_9613gCxNfCjRw_m3JiQ4wC8B8Kt471yu7ThFQazVkCLTfPZ81hnenft7ilaE-qSwVGpQT6sEFcY",
+    "est_revenue": 1466666,
+    "est_revenue_fmt": "$1.47M",
+    "est_revenue_won": "22.0억"
+  },
+  {
+    "rank": 16,
+    "title": "Gossip Harbor®: Merge & Story",
+    "developer": "Microfun Limited",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "com.mergegames.gossipharbor",
+    "local_name": "가십 하버",
+    "icon": "https://play-lh.googleusercontent.com/HLRg8oInVYJV8Uebxlh1dTH4j7OTBMIWOPZY7A7ryW9UB8K4i7HCOqkGfSLORsK-XzqhnJcJM0mjObVKZYL8zA",
     "est_revenue": 1345912,
     "est_revenue_fmt": "$1.35M",
     "est_revenue_won": "20.2억"
