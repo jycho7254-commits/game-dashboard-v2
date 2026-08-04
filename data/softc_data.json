@@ -2,8 +2,8 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "5,790",
-      "channels": "167",
+      "viewers": "5,742",
+      "channels": "165",
       "link": "https://chzzk.naver.com"
     },
     {
@@ -21,22 +21,22 @@
     },
     {
       "game": "롤",
-      "viewers": 124,
+      "viewers": 108,
       "channels": 20
     },
     {
       "game": "발로란트",
-      "viewers": 78,
+      "viewers": 84,
       "channels": 20
     },
     {
       "game": "오버워치",
-      "viewers": 113,
+      "viewers": 84,
       "channels": 20
     },
     {
       "game": "배틀그라운드",
-      "viewers": 106,
+      "viewers": 97,
       "channels": 20
     },
     {
@@ -195,6 +195,14 @@
       "link": "https://chzzk.naver.com/live/20362334"
     },
     {
+      "name": "별풍이",
+      "viewers": 36,
+      "category": "롤",
+      "title": "롤 내전 방송! 10인, 20인 내전! 즐겁게 즐기실 분들 모두 환영합니",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20358440"
+    },
+    {
       "name": "콩천",
       "viewers": 34,
       "category": "마인크래프트",
@@ -211,36 +219,20 @@
       "link": "https://chzzk.naver.com/live/20361691"
     },
     {
-      "name": "헛개heosgea",
-      "viewers": 31,
-      "category": "롤",
-      "title": "삼성 텔레콤 vs 이걸 CJ 롤스터가 | 롤 클래식: LCK 레전드 매치",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20357580"
-    },
-    {
-      "name": "이복만",
-      "viewers": 29,
-      "category": "오버워치",
-      "title": "오버워치 스타디움 1등까지 두걸음",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20363144"
-    },
-    {
-      "name": "히구히구",
-      "viewers": 29,
-      "category": "배틀그라운드",
-      "title": "[히구히구] 7시 [치킨은 요기로] 대회 7팀(펭상,선짱,연곰)_2608",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20353444"
-    },
-    {
       "name": "한나금",
       "viewers": 27,
       "category": "오버워치",
       "title": "오버워치 가보자~~",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20361016"
+    },
+    {
+      "name": "금수 푸뽀",
+      "viewers": 27,
+      "category": "배틀그라운드",
+      "title": "실친이랑 배그 (1부 세피리아 2부 개처웃긴듀오운전 3부 배그 ) ฅ^•",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20304405"
     },
     {
       "name": "지쓰링",
@@ -275,22 +267,6 @@
       "link": "https://chzzk.naver.com/live/20357830"
     },
     {
-      "name": "꿀유자",
-      "viewers": 21,
-      "category": "롤",
-      "title": "롤뉴비가 로치원생들이랑 협곡으로 떠나욥 (╹ڡ╹ )",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20357087"
-    },
-    {
-      "name": "테나님",
-      "viewers": 19,
-      "category": "배틀그라운드",
-      "title": "🌊 휴가는 역시 시원한 에란겔로? 🥽 !딜룰렛 마감",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20352339"
-    },
-    {
       "name": "청저띠",
       "viewers": 18,
       "category": "스타크래프트",
@@ -305,7 +281,31 @@
       "title": "햇빛이 정도를 모르네..",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20356201"
+    },
+    {
+      "name": "모사 mosa",
+      "viewers": 15,
+      "category": "롤",
+      "title": "행복롤",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20354758"
+    },
+    {
+      "name": "옵쪽이",
+      "viewers": 15,
+      "category": "오버워치",
+      "title": "오버워치 3일차 뉴비입니다^^",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20364311"
+    },
+    {
+      "name": "노가노",
+      "viewers": 15,
+      "category": "FC온라인",
+      "title": "개 쳐 갓 겜 on",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20358934"
     }
   ],
-  "fetched": "2026-08-04T22:01:03"
+  "fetched": "2026-08-04T22:01:10"
 }
