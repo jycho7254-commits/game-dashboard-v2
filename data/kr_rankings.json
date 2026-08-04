@@ -92,19 +92,6 @@
   },
   {
     "rank": 8,
-    "title": "Kingshot",
-    "developer": "Century Games PTE. LTD.",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.run.tower.defense",
-    "local_name": "킹샷",
-    "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
-    "est_revenue": 2775458,
-    "est_revenue_fmt": "$2.78M",
-    "est_revenue_won": "41.6억"
-  },
-  {
-    "rank": 9,
     "title": "MapleStory : Idle RPG",
     "developer": "NEXON Company",
     "genre": "Game",
@@ -112,6 +99,19 @@
     "app_id": "com.nexon.ma",
     "local_name": "메이플스토리 키우기",
     "icon": "https://play-lh.googleusercontent.com/iqpY1xJzA5iIQdnHxk-IOfQFESViwUyTQ1AIwF1_i3kd8sQTTQDrkMLys26QqSb9tG35M5FTw2VjQuCcoe3MJA",
+    "est_revenue": 2775458,
+    "est_revenue_fmt": "$2.78M",
+    "est_revenue_won": "41.6억"
+  },
+  {
+    "rank": 9,
+    "title": "Kingshot",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.run.tower.defense",
+    "local_name": "킹샷",
+    "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
     "est_revenue": 2532550,
     "est_revenue_fmt": "$2.53M",
     "est_revenue_won": "38.0억"
@@ -391,19 +391,6 @@
   },
   {
     "rank": 31,
-    "title": "hololive Dreams",
-    "developer": "QualiArts, Inc.",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "game.qualiarts.hololive.dreams.com",
-    "local_name": "홀로라이브 드림즈",
-    "icon": "https://play-lh.googleusercontent.com/0ic1Lk3doNRloIKJFGjBLiZBxpwLj61z2U6uV9ZpK21CjnjHiGF4tXS4mBCUwrKx_5O5hJ6GeJL1A1TBl3AM2v8",
-    "est_revenue": 500790,
-    "est_revenue_fmt": "$501K",
-    "est_revenue_won": "7.5억"
-  },
-  {
-    "rank": 32,
     "title": "뱀피르",
     "developer": "Netmarble",
     "genre": "Game",
@@ -411,6 +398,19 @@
     "app_id": "com.netmarble.thered",
     "local_name": "뱀피르",
     "icon": "https://play-lh.googleusercontent.com/O3AtBJqCPmOHow-d2tskDjwXGWpYpgz2bPEJC5s-FQ1BzmtxnFTQ4h6OTTJ74pyih8KBs78UsTk7w6PAHkbt",
+    "est_revenue": 500790,
+    "est_revenue_fmt": "$501K",
+    "est_revenue_won": "7.5억"
+  },
+  {
+    "rank": 32,
+    "title": "hololive Dreams",
+    "developer": "QualiArts, Inc.",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "game.qualiarts.hololive.dreams.com",
+    "local_name": "홀로라이브 드림즈",
+    "icon": "https://play-lh.googleusercontent.com/0ic1Lk3doNRloIKJFGjBLiZBxpwLj61z2U6uV9ZpK21CjnjHiGF4tXS4mBCUwrKx_5O5hJ6GeJL1A1TBl3AM2v8",
     "est_revenue": 471173,
     "est_revenue_fmt": "$471K",
     "est_revenue_won": "7.1억"
