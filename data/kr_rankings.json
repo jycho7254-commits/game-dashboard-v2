@@ -183,19 +183,6 @@
   },
   {
     "rank": 15,
-    "title": "GODDESS OF VICTORY: NIKKE",
-    "developer": "Level Infinite",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.proximabeta.nikke",
-    "local_name": "승리의 여신: 니케",
-    "icon": "https://play-lh.googleusercontent.com/JK5mejs0bVT_9613gCxNfCjRw_m3JiQ4wC8B8Kt471yu7ThFQazVkCLTfPZ81hnenft7ilaE-qSwVGpQT6sEFcY",
-    "est_revenue": 1466666,
-    "est_revenue_fmt": "$1.47M",
-    "est_revenue_won": "22.0억"
-  },
-  {
-    "rank": 16,
     "title": "Gossip Harbor®: Merge & Story",
     "developer": "Microfun Limited",
     "genre": "Game",
@@ -203,6 +190,19 @@
     "app_id": "com.mergegames.gossipharbor",
     "local_name": "가십 하버",
     "icon": "https://play-lh.googleusercontent.com/HLRg8oInVYJV8Uebxlh1dTH4j7OTBMIWOPZY7A7ryW9UB8K4i7HCOqkGfSLORsK-XzqhnJcJM0mjObVKZYL8zA",
+    "est_revenue": 1466666,
+    "est_revenue_fmt": "$1.47M",
+    "est_revenue_won": "22.0억"
+  },
+  {
+    "rank": 16,
+    "title": "GODDESS OF VICTORY: NIKKE",
+    "developer": "Level Infinite",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.proximabeta.nikke",
+    "local_name": "승리의 여신: 니케",
+    "icon": "https://play-lh.googleusercontent.com/JK5mejs0bVT_9613gCxNfCjRw_m3JiQ4wC8B8Kt471yu7ThFQazVkCLTfPZ81hnenft7ilaE-qSwVGpQT6sEFcY",
     "est_revenue": 1345912,
     "est_revenue_fmt": "$1.35M",
     "est_revenue_won": "20.2억"
@@ -573,19 +573,6 @@
   },
   {
     "rank": 45,
-    "title": "라그나로크M: Classic",
-    "developer": "GRAVITY Co., Ltd.",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.gravity.romkrzeny.aos",
-    "local_name": "라그나로크M: Classic",
-    "icon": "https://play-lh.googleusercontent.com/5SFBw-txEgmxfiD8J5DcHchCZFvLCo1jZsalnlDHYjv5nddS-8oLSRIwGHmqKF0NLaZJ9Gmbx6wEMGxlNtFe",
-    "est_revenue": 244843,
-    "est_revenue_fmt": "$245K",
-    "est_revenue_won": "3.7억"
-  },
-  {
-    "rank": 46,
     "title": "Candy Crush Saga",
     "developer": "King",
     "genre": "Game",
@@ -593,12 +580,12 @@
     "app_id": "com.king.candycrushsaga",
     "local_name": "캔디크러쉬 사가",
     "icon": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI",
-    "est_revenue": 234725,
-    "est_revenue_fmt": "$235K",
-    "est_revenue_won": "3.5억"
+    "est_revenue": 244843,
+    "est_revenue_fmt": "$245K",
+    "est_revenue_won": "3.7억"
   },
   {
-    "rank": 47,
+    "rank": 46,
     "title": "eFootball™",
     "developer": "KONAMI",
     "genre": "Game",
@@ -606,6 +593,19 @@
     "app_id": "jp.konami.pesam",
     "local_name": "이풋볼",
     "icon": "https://play-lh.googleusercontent.com/-an3zySx6j39CpLwZkIH26KfCvJPGmp974714U9HshiCb1W9NwFwULhNANcUSic9n1Mb1GDkVP6gBpjwLDs5UA",
+    "est_revenue": 234725,
+    "est_revenue_fmt": "$235K",
+    "est_revenue_won": "3.5억"
+  },
+  {
+    "rank": 47,
+    "title": "라그나로크M: Classic",
+    "developer": "GRAVITY Co., Ltd.",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.gravity.romkrzeny.aos",
+    "local_name": "라그나로크M: Classic",
+    "icon": "https://play-lh.googleusercontent.com/5SFBw-txEgmxfiD8J5DcHchCZFvLCo1jZsalnlDHYjv5nddS-8oLSRIwGHmqKF0NLaZJ9Gmbx6wEMGxlNtFe",
     "est_revenue": 225230,
     "est_revenue_fmt": "$225K",
     "est_revenue_won": "3.4억"
