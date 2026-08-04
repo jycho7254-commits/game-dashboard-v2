@@ -2,8 +2,8 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "14,632",
-      "channels": "150",
+      "viewers": "14,563",
+      "channels": "148",
       "link": "https://chzzk.naver.com"
     },
     {
@@ -16,7 +16,7 @@
   "categories": [
     {
       "game": "게임",
-      "viewers": 738,
+      "viewers": 704,
       "channels": 20
     },
     {
@@ -26,12 +26,12 @@
     },
     {
       "game": "발로란트",
-      "viewers": 72,
+      "viewers": 59,
       "channels": 20
     },
     {
       "game": "오버워치",
-      "viewers": 87,
+      "viewers": 72,
       "channels": 20
     },
     {
@@ -41,7 +41,7 @@
     },
     {
       "game": "마인크래프트",
-      "viewers": 289,
+      "viewers": 282,
       "channels": 20
     },
     {
@@ -179,14 +179,6 @@
       "link": "https://chzzk.naver.com/live/20356104"
     },
     {
-      "name": "나는벌레덩",
-      "viewers": 37,
-      "category": "게임",
-      "title": "누워서 라스 1등하기",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20358693"
-    },
-    {
       "name": "어써미",
       "viewers": 29,
       "category": "배틀그라운드",
@@ -291,21 +283,29 @@
       "link": "https://chzzk.naver.com/live/20357830"
     },
     {
-      "name": "협준",
-      "viewers": 15,
-      "category": "발로란트",
-      "title": "발로란트 하겠습니다.. 1패쫑만..",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20359915"
-    },
-    {
       "name": "돋개",
       "viewers": 14,
       "category": "롤",
       "title": "LCK 롤 클래식 같이봐유 / 삼성 텔레콤 vs 이걸 CJ 롤스터가",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20357612"
+    },
+    {
+      "name": "무화 Moohwa",
+      "viewers": 14,
+      "category": "로스트아크",
+      "title": "[카단의 모코코] 내일이면 레이드 초기화라고? 설레서 오늘 잠 다 잤네 ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20356318"
+    },
+    {
+      "name": "한망울",
+      "viewers": 13,
+      "category": "롤",
+      "title": "모! 삼성 텔레콤 vs 이걸 CJ 롤스터가 옛날 롤! 이라고! | #LC",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20359547"
     }
   ],
-  "fetched": "2026-08-04T20:18:19"
+  "fetched": "2026-08-04T20:18:23"
 }
