@@ -2,8 +2,8 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "1,333",
-      "channels": "112",
+      "viewers": "1,345",
+      "channels": "115",
       "link": "https://chzzk.naver.com"
     },
     {
@@ -26,7 +26,7 @@
     },
     {
       "game": "발로란트",
-      "viewers": 111,
+      "viewers": 123,
       "channels": 20
     },
     {
@@ -227,14 +227,6 @@
       "link": "https://chzzk.naver.com/live/20369077"
     },
     {
-      "name": "말티쭈",
-      "viewers": 14,
-      "category": "발로란트",
-      "title": "짧게 치고 빠지기",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20369039"
-    },
-    {
       "name": "필살융화조화",
       "viewers": 13,
       "category": "오버워치",
@@ -265,6 +257,14 @@
       "title": "미컨을 깼더니 더 어려워진 니케....",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20367469"
+    },
+    {
+      "name": "김욤이",
+      "viewers": 12,
+      "category": "발로란트",
+      "title": "오랜만에 돌아온 욤이의 아침 발로 (룰렛환영).[맞팔 환영,시참환영,유입",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20369346"
     },
     {
       "name": "B4yadere",
@@ -307,5 +307,5 @@
       "link": "https://chzzk.naver.com/live/20360261"
     }
   ],
-  "fetched": "2026-08-05T08:37:47"
+  "fetched": "2026-08-05T08:37:52"
 }
