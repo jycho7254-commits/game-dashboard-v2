@@ -2,8 +2,8 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "6,564",
-      "channels": "137",
+      "viewers": "6,727",
+      "channels": "138",
       "link": "https://chzzk.naver.com"
     },
     {
@@ -16,12 +16,12 @@
   "categories": [
     {
       "game": "게임",
-      "viewers": 1003,
+      "viewers": 1000,
       "channels": 20
     },
     {
       "game": "롤",
-      "viewers": 3580,
+      "viewers": 3542,
       "channels": 20
     },
     {
@@ -31,12 +31,12 @@
     },
     {
       "game": "오버워치",
-      "viewers": 337,
+      "viewers": 611,
       "channels": 20
     },
     {
       "game": "배틀그라운드",
-      "viewers": 152,
+      "viewers": 93,
       "channels": 20
     },
     {
@@ -51,7 +51,7 @@
     },
     {
       "game": "로스트아크",
-      "viewers": 212,
+      "viewers": 201,
       "channels": 20
     },
     {
@@ -91,6 +91,14 @@
       "link": "https://chzzk.naver.com/live/20360648"
     },
     {
+      "name": "윤산삼",
+      "viewers": 296,
+      "category": "오버워치",
+      "title": "그마에서 누가 돌아왔게~",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20363258"
+    },
+    {
       "name": "선데이1",
       "viewers": 285,
       "category": "발로란트",
@@ -115,20 +123,20 @@
       "link": "https://chzzk.naver.com/live/20359831"
     },
     {
+      "name": "프로즈",
+      "viewers": 155,
+      "category": "오버워치",
+      "title": "올 챔피언,철권 텍프,롤 골드의 사나이",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20366723"
+    },
+    {
       "name": "만 득",
       "viewers": 144,
       "category": "마인크래프트",
       "title": "치즈 만들어잇 선릿밸리 서버 콩콩촌 5시 오픈",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20356816"
-    },
-    {
-      "name": "나무늘보OW",
-      "viewers": 119,
-      "category": "오버워치",
-      "title": "[미션환영] 세기말 그마 가봅시다. *티맞 3만/ 피드백 4만",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20365089"
     },
     {
       "name": "아로AURO",
@@ -139,14 +147,6 @@
       "link": "https://chzzk.naver.com/live/20357468"
     },
     {
-      "name": "향토끼 scentrabbit",
-      "viewers": 73,
-      "category": "롤",
-      "title": "본캐 5연패 후 분노의 아이언 솔랭! 브론즈갈꺼니깐",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20355868"
-    },
-    {
       "name": "퀴디온 Qidion",
       "viewers": 69,
       "category": "게임",
@@ -155,12 +155,12 @@
       "link": "https://chzzk.naver.com/live/20362038"
     },
     {
-      "name": "때으니",
-      "viewers": 67,
+      "name": "새 담",
+      "viewers": 58,
       "category": "오버워치",
-      "title": "고냥이연습2일차(밴당할시미즈키우양연습)",
+      "title": "야식 카레",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20367638"
+      "link": "https://chzzk.naver.com/live/20362792"
     },
     {
       "name": "1Chon",
@@ -169,14 +169,6 @@
       "title": "1525점 시작) 반갑습니다",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20362334"
-    },
-    {
-      "name": "나브1",
-      "viewers": 48,
-      "category": "배틀그라운드",
-      "title": "솔쿼드의 삶",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20362933"
     },
     {
       "name": "유 나 나",
@@ -219,20 +211,20 @@
       "link": "https://chzzk.naver.com/live/20367381"
     },
     {
-      "name": "선짱",
-      "viewers": 30,
-      "category": "배틀그라운드",
-      "title": "대회 끝w.펭상,히구히구,연주하는곰탱 + 후열 ( 김선남,히구히구,뽀요타",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20357268"
-    },
-    {
       "name": "아로예요",
       "viewers": 27,
       "category": "게임",
       "title": "우와 17시즌 랭겜이다",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20361691"
+    },
+    {
+      "name": "치치94",
+      "viewers": 27,
+      "category": "롤",
+      "title": "다이아2 노방종 500만원 잘가보겠습니다\n",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20261162"
     },
     {
       "name": "조녜율",
@@ -243,14 +235,6 @@
       "link": "https://chzzk.naver.com/live/20363090"
     },
     {
-      "name": "유제이와 고양이",
-      "viewers": 21,
-      "category": "오버워치",
-      "title": "타포지 다이아지만 딜러는 골드급인 청년. ★티맞1만★ !시참 !미션",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20366506"
-    },
-    {
       "name": "뀨 미 호",
       "viewers": 20,
       "category": "롤",
@@ -259,12 +243,12 @@
       "link": "https://chzzk.naver.com/live/20365718"
     },
     {
-      "name": "메메s",
-      "viewers": 18,
+      "name": "호서윤",
+      "viewers": 17,
       "category": "오버워치",
-      "title": "내고향 마스터 ",
+      "title": "졸린토끼",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20367557"
+      "link": "https://chzzk.naver.com/live/20363885"
     },
     {
       "name": "노노하",
@@ -291,21 +275,37 @@
       "link": "https://chzzk.naver.com/live/20355927"
     },
     {
-      "name": "고망지",
+      "name": "이 채린",
       "viewers": 15,
       "category": "배틀그라운드",
-      "title": "그저 배그가 좋은 청년",
+      "title": "덥다 더웡 ",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20355502"
+      "link": "https://chzzk.naver.com/live/20356739"
     },
     {
-      "name": "초 사",
+      "name": "순두둥",
       "viewers": 14,
       "category": "배틀그라운드",
-      "title": "배그 달려보까이이잉!!! 시참환영!",
+      "title": "[!킬룰렛 open][시참][유입환영] 1부_칼바람둥 / 2부_배그둥(미",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20362695"
+      "link": "https://chzzk.naver.com/live/20366144"
+    },
+    {
+      "name": "시스네",
+      "viewers": 13,
+      "category": "마인크래프트",
+      "title": "[57일] 엔더까지 1시간만에 깨겠습니다 / 심박수 100이 넘으면 룰렛",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20364740"
+    },
+    {
+      "name": "호니리",
+      "viewers": 13,
+      "category": "스타크래프트",
+      "title": "제일 약한 종족은?",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20363904"
     }
   ],
-  "fetched": "2026-08-05T04:15:50"
+  "fetched": "2026-08-05T04:15:55"
 }
