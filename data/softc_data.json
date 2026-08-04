@@ -2,8 +2,8 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "1,284",
-      "channels": "110",
+      "viewers": "1,352",
+      "channels": "113",
       "link": "https://chzzk.naver.com"
     },
     {
@@ -26,7 +26,7 @@
     },
     {
       "game": "발로란트",
-      "viewers": 91,
+      "viewers": 124,
       "channels": 20
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "game": "배틀그라운드",
-      "viewers": 88,
+      "viewers": 123,
       "channels": 20
     },
     {
@@ -163,6 +163,14 @@
       "link": "https://chzzk.naver.com/live/20355440"
     },
     {
+      "name": "도르밍",
+      "viewers": 22,
+      "category": "배틀그라운드",
+      "title": "우당탕탕 4인큐 (w,!멤버)",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20368077"
+    },
+    {
       "name": "롤체 칸",
       "viewers": 21,
       "category": "게임",
@@ -185,6 +193,14 @@
       "title": "발로란트 잠깐.....ㅎㅎ🩷",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20368542"
+    },
+    {
+      "name": "단시하",
+      "viewers": 20,
+      "category": "발로란트",
+      "title": "불멸 갈껀데 총이 고장남 ^-^ 10연패",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20368986"
     },
     {
       "name": "하리2세",
@@ -243,6 +259,14 @@
       "link": "https://chzzk.naver.com/live/20366832"
     },
     {
+      "name": "장꾸야 놀자",
+      "viewers": 14,
+      "category": "배틀그라운드",
+      "title": "<시참> 스배 / 팔로우 ㄱㄱ [신입] ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20365893"
+    },
+    {
       "name": "유현현현",
       "viewers": 13,
       "category": "발로란트",
@@ -281,31 +305,7 @@
       "title": "솔탱으로 마스터에서 살아남기",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20364420"
-    },
-    {
-      "name": "린 화",
-      "viewers": 11,
-      "category": "로스트아크",
-      "title": "벨가르딘 출시날 출근하는 사람 읍제~? 벨가르딘 출시날 출근하는 사람 읍",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20368943"
-    },
-    {
-      "name": "응시z",
-      "viewers": 10,
-      "category": "롤",
-      "title": "[딜룰렛오픈/ !시참] 돌아온 증바람",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20357695"
-    },
-    {
-      "name": "쿠키님",
-      "viewers": 10,
-      "category": "오버워치",
-      "title": "수다하다 퇴근  #19일차[시참,맞팔]",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20368626"
     }
   ],
-  "fetched": "2026-08-05T08:07:04"
+  "fetched": "2026-08-05T08:07:10"
 }
