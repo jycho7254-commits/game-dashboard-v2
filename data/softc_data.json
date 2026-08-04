@@ -2,7 +2,7 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "1,312",
+      "viewers": "1,334",
       "channels": "110",
       "link": "https://chzzk.naver.com"
     },
@@ -31,7 +31,7 @@
     },
     {
       "game": "오버워치",
-      "viewers": 218,
+      "viewers": 240,
       "channels": 20
     },
     {
@@ -203,6 +203,14 @@
       "link": "https://chzzk.naver.com/live/20367619"
     },
     {
+      "name": "야켓",
+      "viewers": 17,
+      "category": "오버워치",
+      "title": "금붕어 산책",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20369092"
+    },
+    {
       "name": "강낭콩99",
       "viewers": 16,
       "category": "롤",
@@ -297,15 +305,7 @@
       "title": "솔탱으로 마스터에서 살아남기",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20364420"
-    },
-    {
-      "name": "응시z",
-      "viewers": 10,
-      "category": "롤",
-      "title": "[딜룰렛오픈/ !시참] 돌아온 증바람",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20357695"
     }
   ],
-  "fetched": "2026-08-05T08:22:25"
+  "fetched": "2026-08-05T08:22:31"
 }
