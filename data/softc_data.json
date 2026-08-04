@@ -2,8 +2,8 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "6,818",
-      "channels": "150",
+      "viewers": "6,939",
+      "channels": "147",
       "link": "https://chzzk.naver.com"
     },
     {
@@ -21,7 +21,7 @@
     },
     {
       "game": "롤",
-      "viewers": 3899,
+      "viewers": 3897,
       "channels": 20
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "game": "배틀그라운드",
-      "viewers": 81,
+      "viewers": 204,
       "channels": 20
     },
     {
@@ -155,6 +155,14 @@
       "link": "https://chzzk.naver.com/live/20355897"
     },
     {
+      "name": "나브1",
+      "viewers": 72,
+      "category": "배틀그라운드",
+      "title": "솔쿼드의 삶",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20362933"
+    },
+    {
       "name": "1Chon",
       "viewers": 65,
       "category": "게임",
@@ -209,6 +217,22 @@
       "title": "오버워치 스타디움 1등까지 두걸음",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20363144"
+    },
+    {
+      "name": "선짱",
+      "viewers": 35,
+      "category": "배틀그라운드",
+      "title": "대회 끝w.펭상,히구히구,연주하는곰탱 + 후열 ( 김선남,히구히구,뽀요타",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20357268"
+    },
+    {
+      "name": "코리수",
+      "viewers": 35,
+      "category": "배틀그라운드",
+      "title": "1부 배그하고 2부도 배그하는 고양이 (w. 고스트, 메아리, 레바)",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20357223"
     },
     {
       "name": "광살탄",
@@ -275,37 +299,13 @@
       "link": "https://chzzk.naver.com/live/20357227"
     },
     {
-      "name": "레플 Lepple",
+      "name": "고망지",
       "viewers": 15,
-      "category": "로스트아크",
-      "title": "빠르게 일숙 빼기",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20367395"
-    },
-    {
-      "name": "혼낙",
-      "viewers": 14,
-      "category": "스타크래프트",
-      "title": "스타1vs스타2",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20361081"
-    },
-    {
-      "name": "이 채린",
-      "viewers": 13,
       "category": "배틀그라운드",
-      "title": "덥다 더웡 ",
+      "title": "그저 배그가 좋은 청년",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20356739"
-    },
-    {
-      "name": "예쁘찌냐",
-      "viewers": 12,
-      "category": "오버워치",
-      "title": "♡오버워치 라마트라로 팟찌먹기 미션도전! 시참가능 ( ღ>ᴗ<ღ ) '♡",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20362511"
+      "link": "https://chzzk.naver.com/live/20355502"
     }
   ],
-  "fetched": "2026-08-05T03:19:21"
+  "fetched": "2026-08-05T03:19:25"
 }
