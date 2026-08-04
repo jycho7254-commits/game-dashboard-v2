@@ -2,8 +2,8 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "5,831",
-      "channels": "153",
+      "viewers": "6,448",
+      "channels": "152",
       "link": "https://chzzk.naver.com"
     },
     {
@@ -31,7 +31,7 @@
     },
     {
       "game": "오버워치",
-      "viewers": 211,
+      "viewers": 769,
       "channels": 20
     },
     {
@@ -41,7 +41,7 @@
     },
     {
       "game": "마인크래프트",
-      "viewers": 671,
+      "viewers": 730,
       "channels": 20
     },
     {
@@ -83,12 +83,28 @@
       "link": "https://chzzk.naver.com/live/20360246"
     },
     {
+      "name": "서넹",
+      "viewers": 451,
+      "category": "오버워치",
+      "title": "옵진녀 실버 방어전;;;;;;;;",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20363113"
+    },
+    {
       "name": "아야 AYA",
       "viewers": 245,
       "category": "마인크래프트",
       "title": "💜 콩콩촌 2일차 (영도 ON)",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20359831"
+    },
+    {
+      "name": "권세이",
+      "viewers": 91,
+      "category": "오버워치",
+      "title": "물그마의 불그마 데뷔전",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20362362"
     },
     {
       "name": "퀴디온 Qidion",
@@ -147,6 +163,14 @@
       "link": "https://chzzk.naver.com/live/20366478"
     },
     {
+      "name": "루루엘 아스트리온",
+      "viewers": 60,
+      "category": "마인크래프트",
+      "title": "🐉 콩콩촌 2일차! ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20360794"
+    },
+    {
       "name": "1Chon",
       "viewers": 57,
       "category": "게임",
@@ -161,6 +185,14 @@
       "title": "로순이 퇴사 했씁니다... 세르카 나메 가실 분...?",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20366715"
+    },
+    {
+      "name": "연미콩",
+      "viewers": 54,
+      "category": "오버워치",
+      "title": "옵치판에 이 몸 등장!",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20362942"
     },
     {
       "name": "케이사구",
@@ -209,14 +241,6 @@
       "title": "「치지직 양영호」 열두 신 데렐라",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20367082"
-    },
-    {
-      "name": "세피람",
-      "viewers": 26,
-      "category": "오버워치",
-      "title": "힐러/딜러 배치보기",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20363046"
     },
     {
       "name": "다정현",
@@ -281,31 +305,7 @@
       "title": "스타1vs스타2",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20361081"
-    },
-    {
-      "name": "이무근",
-      "viewers": 13,
-      "category": "게임",
-      "title": "점수 뿌립니다 저격하세요",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20366281"
-    },
-    {
-      "name": "후리 HURI",
-      "viewers": 13,
-      "category": "마인크래프트",
-      "title": "[귀농일기] 다시 농사 지으러 왔다네",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20355720"
-    },
-    {
-      "name": "강해온",
-      "viewers": 13,
-      "category": "마인크래프트",
-      "title": "🌊[귀농일기]강라...강해온 다시 귀농하다 / 싱드컵 클립 하트 눌러주세",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20359811"
     }
   ],
-  "fetched": "2026-08-05T02:33:15"
+  "fetched": "2026-08-05T02:33:19"
 }
