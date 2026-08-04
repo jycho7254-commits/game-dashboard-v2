@@ -1,19 +1,6 @@
 [
   {
     "rank": 1,
-    "title": "Zenless Zone Zero - Anniv.",
-    "developer": "COGNOSPHERE PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.3,
-    "app_id": "com.HoYoverse.Nap",
-    "local_name": "젠레스 존 제로",
-    "icon": "https://play-lh.googleusercontent.com/-OwYJcIdDSfGJBOQozVC3kKxqnA7ev2O897twi-aVUpc8AXVMNtB3YWEXDui_V0VJxelNAbUbLXpNZj9AqWa3A",
-    "est_revenue": 5935310,
-    "est_revenue_fmt": "$5.94M",
-    "est_revenue_won": "89.0억"
-  },
-  {
-    "rank": 2,
     "title": "SOL: enchant",
     "developer": "Netmarble",
     "genre": "Game",
@@ -24,6 +11,19 @@
     "est_revenue": 8000000,
     "est_revenue_fmt": "$8.00M",
     "est_revenue_won": "120.0억"
+  },
+  {
+    "rank": 2,
+    "title": "Zenless Zone Zero - Anniv.",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "genre": "Game",
+    "rating": 3.3,
+    "app_id": "com.HoYoverse.Nap",
+    "local_name": "젠레스 존 제로",
+    "icon": "https://play-lh.googleusercontent.com/-OwYJcIdDSfGJBOQozVC3kKxqnA7ev2O897twi-aVUpc8AXVMNtB3YWEXDui_V0VJxelNAbUbLXpNZj9AqWa3A",
+    "est_revenue": 5935310,
+    "est_revenue_fmt": "$5.94M",
+    "est_revenue_won": "89.0억"
   },
   {
     "rank": 3,
@@ -300,6 +300,19 @@
   },
   {
     "rank": 24,
+    "title": "Seaside Escape®: Merge & Story",
+    "developer": "Microfun Limited",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.gamedots.seasideescape",
+    "local_name": "시사이드 이스케이프",
+    "icon": "https://play-lh.googleusercontent.com/k6h9_TspVCG4TIgvxox3eWp5Cwd04v6cL7msueboI5IUPGLPnhh8RHIZtiamoLJK75Mk6yo4awXd4XVW99XO8Q",
+    "est_revenue": 753775,
+    "est_revenue_fmt": "$754K",
+    "est_revenue_won": "11.3억"
+  },
+  {
+    "rank": 25,
     "title": "Pmang Poker : Casino Royal",
     "developer": "NEOWIZ corp",
     "genre": "Game",
@@ -312,7 +325,7 @@
     "est_revenue_won": "10.6억"
   },
   {
-    "rank": 25,
+    "rank": 26,
     "title": "Tasty Travels: Merge Game",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -325,7 +338,7 @@
     "est_revenue_won": "10.0억"
   },
   {
-    "rank": 26,
+    "rank": 27,
     "title": "Gardenscapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -336,19 +349,6 @@
     "est_revenue": 627969,
     "est_revenue_fmt": "$628K",
     "est_revenue_won": "9.4억"
-  },
-  {
-    "rank": 27,
-    "title": "Seaside Escape®: Merge & Story",
-    "developer": "Microfun Limited",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.gamedots.seasideescape",
-    "local_name": "시사이드 이스케이프",
-    "icon": "https://play-lh.googleusercontent.com/k6h9_TspVCG4TIgvxox3eWp5Cwd04v6cL7msueboI5IUPGLPnhh8RHIZtiamoLJK75Mk6yo4awXd4XVW99XO8Q",
-    "est_revenue": 753775,
-    "est_revenue_fmt": "$754K",
-    "est_revenue_won": "11.3억"
   },
   {
     "rank": 28,
@@ -391,32 +391,6 @@
   },
   {
     "rank": 31,
-    "title": "Honkai: Star Rail",
-    "developer": "COGNOSPHERE PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.7,
-    "app_id": "com.HoYoverse.hkrpgoversea",
-    "local_name": "붕괴: 스타레일",
-    "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
-    "est_revenue": 419398,
-    "est_revenue_fmt": "$419K",
-    "est_revenue_won": "6.3억"
-  },
-  {
-    "rank": 32,
-    "title": "Royal Kingdom",
-    "developer": "Dream Games, Ltd.",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.dreamgames.royalkingdom",
-    "local_name": "로얄 킹덤",
-    "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
-    "est_revenue": 396693,
-    "est_revenue_fmt": "$397K",
-    "est_revenue_won": "6.0억"
-  },
-  {
-    "rank": 33,
     "title": "뱀피르",
     "developer": "Netmarble",
     "genre": "Game",
@@ -427,6 +401,32 @@
     "est_revenue": 500790,
     "est_revenue_fmt": "$501K",
     "est_revenue_won": "7.5억"
+  },
+  {
+    "rank": 32,
+    "title": "hololive Dreams",
+    "developer": "QualiArts, Inc.",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "game.qualiarts.hololive.dreams.com",
+    "local_name": "홀로라이브 드림즈",
+    "icon": "https://play-lh.googleusercontent.com/0ic1Lk3doNRloIKJFGjBLiZBxpwLj61z2U6uV9ZpK21CjnjHiGF4tXS4mBCUwrKx_5O5hJ6GeJL1A1TBl3AM2v8",
+    "est_revenue": 471173,
+    "est_revenue_fmt": "$471K",
+    "est_revenue_won": "7.1억"
+  },
+  {
+    "rank": 33,
+    "title": "Honkai: Star Rail",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "genre": "Game",
+    "rating": 3.7,
+    "app_id": "com.HoYoverse.hkrpgoversea",
+    "local_name": "붕괴: 스타레일",
+    "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
+    "est_revenue": 419398,
+    "est_revenue_fmt": "$419K",
+    "est_revenue_won": "6.3억"
   },
   {
     "rank": 34,
@@ -443,6 +443,19 @@
   },
   {
     "rank": 35,
+    "title": "Royal Kingdom",
+    "developer": "Dream Games, Ltd.",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.dreamgames.royalkingdom",
+    "local_name": "로얄 킹덤",
+    "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
+    "est_revenue": 396693,
+    "est_revenue_fmt": "$397K",
+    "est_revenue_won": "6.0억"
+  },
+  {
+    "rank": 36,
     "title": "트릭컬 리바이브",
     "developer": "EPIDGames",
     "genre": "Game",
@@ -455,7 +468,7 @@
     "est_revenue_won": "5.6억"
   },
   {
-    "rank": 36,
+    "rank": 37,
     "title": "Coop TD: Together",
     "developer": "Supermagic",
     "genre": "Game",
@@ -468,7 +481,7 @@
     "est_revenue_won": "5.3억"
   },
   {
-    "rank": 37,
+    "rank": 38,
     "title": "Lineage W",
     "developer": "NC Corporation",
     "genre": "Game",
@@ -481,7 +494,7 @@
     "est_revenue_won": "5.1억"
   },
   {
-    "rank": 38,
+    "rank": 39,
     "title": "PUBG Mobile",
     "developer": "KRAFTON, Inc.",
     "genre": "Game",
@@ -494,7 +507,7 @@
     "est_revenue_won": "4.8억"
   },
   {
-    "rank": 39,
+    "rank": 40,
     "title": "컴투스프로야구V26",
     "developer": "Com2uS",
     "genre": "Game",
@@ -505,19 +518,6 @@
     "est_revenue": 306976,
     "est_revenue_fmt": "$307K",
     "est_revenue_won": "4.6억"
-  },
-  {
-    "rank": 40,
-    "title": "hololive Dreams",
-    "developer": "QualiArts, Inc.",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "game.qualiarts.hololive.dreams.com",
-    "local_name": "홀로라이브 드림즈",
-    "icon": "https://play-lh.googleusercontent.com/0ic1Lk3doNRloIKJFGjBLiZBxpwLj61z2U6uV9ZpK21CjnjHiGF4tXS4mBCUwrKx_5O5hJ6GeJL1A1TBl3AM2v8",
-    "est_revenue": 471173,
-    "est_revenue_fmt": "$471K",
-    "est_revenue_won": "7.1억"
   },
   {
     "rank": 41,
