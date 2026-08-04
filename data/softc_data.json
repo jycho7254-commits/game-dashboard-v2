@@ -2,8 +2,8 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "2,852",
-      "channels": "169",
+      "viewers": "3,844",
+      "channels": "166",
       "link": "https://chzzk.naver.com"
     },
     {
@@ -21,12 +21,12 @@
     },
     {
       "game": "롤",
-      "viewers": 88,
+      "viewers": 285,
       "channels": 20
     },
     {
       "game": "발로란트",
-      "viewers": 88,
+      "viewers": 106,
       "channels": 20
     },
     {
@@ -51,21 +51,29 @@
     },
     {
       "game": "로스트아크",
-      "viewers": 594,
+      "viewers": 1375,
       "channels": 20
     },
     {
       "game": "FC온라인",
-      "viewers": 126,
+      "viewers": 120,
       "channels": 20
     },
     {
       "game": "스타크래프트",
-      "viewers": 637,
+      "viewers": 639,
       "channels": 20
     }
   ],
   "streamers": [
+    {
+      "name": "도읍지",
+      "viewers": 681,
+      "category": "로스트아크",
+      "title": "차원이 70찍기 원정대 점검",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20354508"
+    },
     {
       "name": "철면수심",
       "viewers": 466,
@@ -91,6 +99,22 @@
       "link": "https://chzzk.naver.com/live/20360425"
     },
     {
+      "name": "핑크자크",
+      "viewers": 289,
+      "category": "로스트아크",
+      "title": "이게임은 지금이 저점입니다,",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20354050"
+    },
+    {
+      "name": "레고77",
+      "viewers": 213,
+      "category": "롤",
+      "title": "2부 12년간 챌 대머리 롤 클래식 전설 티어 향해!",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20361596"
+    },
+    {
       "name": "냥슬이",
       "viewers": 194,
       "category": "로스트아크",
@@ -99,20 +123,12 @@
       "link": "https://chzzk.naver.com/live/20356410"
     },
     {
-      "name": "꿀멩이",
-      "viewers": 140,
+      "name": "펀트펀트",
+      "viewers": 96,
       "category": "로스트아크",
-      "title": "🔥내일 오픈런... 로방대와 벨가르딘 나메 갑니다!!!",
+      "title": "829일차 모코코의 발효기 [ 대국민 모금운동 시작합니다. 펀트펀트 뼬까",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20358359"
-    },
-    {
-      "name": "저무콩",
-      "viewers": 136,
-      "category": "로스트아크",
-      "title": "몇살이세요?? 저는 인.간.말.살.ㅋ",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20355321"
+      "link": "https://chzzk.naver.com/live/20355897"
     },
     {
       "name": "아구 AGU",
@@ -171,20 +187,20 @@
       "link": "https://chzzk.naver.com/live/20355936"
     },
     {
+      "name": "핸떠기",
+      "viewers": 23,
+      "category": "로스트아크",
+      "title": "늦은 숙제 마무리",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20355440"
+    },
+    {
       "name": "노가노",
       "viewers": 23,
       "category": "FC온라인",
       "title": "개 쳐 갓 겜 on",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20358934"
-    },
-    {
-      "name": "루냐잉",
-      "viewers": 22,
-      "category": "로스트아크",
-      "title": "이쁘니들 안녕 (ˆ⩌⩊⩌ˆ)੭",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20340279"
     },
     {
       "name": "아로예요",
@@ -203,12 +219,12 @@
       "link": "https://chzzk.naver.com/live/20363139"
     },
     {
-      "name": "모사 mosa",
+      "name": "꿀유자",
       "viewers": 18,
       "category": "롤",
-      "title": "행복롤",
+      "title": "롤뉴비가 로치원생들이랑 협곡으로 떠나욥 (╹ڡ╹ )",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20354758"
+      "link": "https://chzzk.naver.com/live/20357087"
     },
     {
       "name": "옵쪽이",
@@ -225,6 +241,22 @@
       "title": "[히구히구] 7시 [치킨은 요기로] 대회 7팀(펭상,선짱,연곰)_2608",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20353444"
+    },
+    {
+      "name": "벨라레타",
+      "viewers": 16,
+      "category": "로스트아크",
+      "title": "햇빛이 정도를 모르네..",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20356201"
+    },
+    {
+      "name": "맹니",
+      "viewers": 15,
+      "category": "발로란트",
+      "title": "분내! 파티! 발로란트! 감튀모임이라네욤 (●′¬′● )",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20364086"
     },
     {
       "name": "테나님",
@@ -251,20 +283,12 @@
       "link": "https://chzzk.naver.com/live/20362669"
     },
     {
-      "name": "페잣",
+      "name": "무화 Moohwa",
       "viewers": 13,
       "category": "로스트아크",
-      "title": "이것저것 최종 마무리하는 날 (지옥 + 강화 + 젬 + 팔찌 + 악세 +",
+      "title": "[카단의 모코코] 내일이면 레이드 초기화라고? 설레서 오늘 잠 다 잤네 ",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20353362"
-    },
-    {
-      "name": "미지믄",
-      "viewers": 12,
-      "category": "롤",
-      "title": "롤 신입 10번째 캠방) 에메3 노방종",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20360983"
+      "link": "https://chzzk.naver.com/live/20356318"
     },
     {
       "name": "Goldang골댕이",
@@ -281,31 +305,7 @@
       "title": "🐰오버워치 ✨ 오늘은 빠대할수잇니..? (시참대환영)",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20360527"
-    },
-    {
-      "name": "가마니 GAMANI",
-      "viewers": 12,
-      "category": "로스트아크",
-      "title": "호말리아 해적단 공대&마니또들 전부 화이팅💛💚",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20355852"
-    },
-    {
-      "name": "Starboard 우현",
-      "viewers": 11,
-      "category": "게임",
-      "title": "밥 먹으면서 롤토체스 하는 갈매기",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20360952"
-    },
-    {
-      "name": "홍묘책",
-      "viewers": 11,
-      "category": "발로란트",
-      "title": "[발로란트 시참] 오늘 실버 갔습니다. 이제 골듭니다",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20356137"
     }
   ],
-  "fetched": "2026-08-04T23:23:11"
+  "fetched": "2026-08-04T23:23:22"
 }
