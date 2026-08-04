@@ -2,8 +2,8 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "1,290",
-      "channels": "109",
+      "viewers": "1,312",
+      "channels": "110",
       "link": "https://chzzk.naver.com"
     },
     {
@@ -31,12 +31,12 @@
     },
     {
       "game": "오버워치",
-      "viewers": 240,
+      "viewers": 218,
       "channels": 20
     },
     {
       "game": "배틀그라운드",
-      "viewers": 79,
+      "viewers": 123,
       "channels": 20
     },
     {
@@ -155,6 +155,14 @@
       "link": "https://chzzk.naver.com/live/20369210"
     },
     {
+      "name": "도르밍",
+      "viewers": 22,
+      "category": "배틀그라운드",
+      "title": "우당탕탕 4인큐 (w,!멤버)",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20368077"
+    },
+    {
       "name": "단시하",
       "viewers": 21,
       "category": "발로란트",
@@ -195,14 +203,6 @@
       "link": "https://chzzk.naver.com/live/20367619"
     },
     {
-      "name": "야켓",
-      "viewers": 17,
-      "category": "오버워치",
-      "title": "금붕어 산책",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20369092"
-    },
-    {
       "name": "강낭콩99",
       "viewers": 16,
       "category": "롤",
@@ -217,6 +217,14 @@
       "title": "[치즈캠퍼스] 안 잤음 청년 : 마장전 대비 연습",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20369016"
+    },
+    {
+      "name": "장꾸야 놀자",
+      "viewers": 15,
+      "category": "배틀그라운드",
+      "title": "<시참> 스배 / 팔로우 ㄱㄱ [신입] ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20365893"
     },
     {
       "name": "백숭민",
@@ -267,6 +275,14 @@
       "link": "https://chzzk.naver.com/live/20368603"
     },
     {
+      "name": "물식이",
+      "viewers": 12,
+      "category": "배틀그라운드",
+      "title": "물개와 스쿼드",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20367837"
+    },
+    {
       "name": "유현현현",
       "viewers": 11,
       "category": "발로란트",
@@ -289,23 +305,7 @@
       "title": "[딜룰렛오픈/ !시참] 돌아온 증바람",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20357695"
-    },
-    {
-      "name": "콜라희",
-      "viewers": 10,
-      "category": "배틀그라운드",
-      "title": "[2부: 배그] 가보쟈ㅏㅏㅏㅏㅏ[1부: 오버워치] 오랜만에 왔더니 갑자기",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20367195"
-    },
-    {
-      "name": "설백월",
-      "viewers": 10,
-      "category": "FC온라인",
-      "title": "🌙[V/신입]\"💕빌드업으로 만들어가는 한 골.🤍\"🌙",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20366474"
     }
   ],
-  "fetched": "2026-08-05T08:22:23"
+  "fetched": "2026-08-05T08:22:25"
 }
