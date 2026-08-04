@@ -1,19 +1,6 @@
 [
   {
     "rank": 1,
-    "title": "Zenless Zone Zero - Anniv.",
-    "developer": "COGNOSPHERE PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.3,
-    "app_id": "com.HoYoverse.Nap",
-    "local_name": "젠레스 존 제로",
-    "icon": "https://play-lh.googleusercontent.com/-OwYJcIdDSfGJBOQozVC3kKxqnA7ev2O897twi-aVUpc8AXVMNtB3YWEXDui_V0VJxelNAbUbLXpNZj9AqWa3A",
-    "est_revenue": 8000000,
-    "est_revenue_fmt": "$8.00M",
-    "est_revenue_won": "120.0억"
-  },
-  {
-    "rank": 2,
     "title": "SOL: enchant",
     "developer": "Netmarble",
     "genre": "Game",
@@ -21,6 +8,19 @@
     "app_id": "com.netmarble.sol",
     "local_name": "SOL: 인챈트",
     "icon": "https://play-lh.googleusercontent.com/eRGPrWXzheZvTiTRBDBuaysX8ptDH5xasKV8rzWmuEKA9WsXfftcybnz9zQB89Iiqx7WKa_naS_WK5DdT1KB",
+    "est_revenue": 8000000,
+    "est_revenue_fmt": "$8.00M",
+    "est_revenue_won": "120.0억"
+  },
+  {
+    "rank": 2,
+    "title": "Zenless Zone Zero - Anniv.",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "genre": "Game",
+    "rating": 3.3,
+    "app_id": "com.HoYoverse.Nap",
+    "local_name": "젠레스 존 제로",
+    "icon": "https://play-lh.googleusercontent.com/-OwYJcIdDSfGJBOQozVC3kKxqnA7ev2O897twi-aVUpc8AXVMNtB3YWEXDui_V0VJxelNAbUbLXpNZj9AqWa3A",
     "est_revenue": 5935310,
     "est_revenue_fmt": "$5.94M",
     "est_revenue_won": "89.0억"
