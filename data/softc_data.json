@@ -2,7 +2,7 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "3,190",
+      "viewers": "3,154",
       "channels": "163",
       "link": "https://chzzk.naver.com"
     },
@@ -31,7 +31,7 @@
     },
     {
       "game": "오버워치",
-      "viewers": 219,
+      "viewers": 183,
       "channels": 20
     },
     {
@@ -161,14 +161,6 @@
       "title": "오버워치 도사",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20366478"
-    },
-    {
-      "name": "헤이 heyy",
-      "viewers": 49,
-      "category": "오버워치",
-      "title": "F world",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20359252"
     },
     {
       "name": "니야",
@@ -305,7 +297,15 @@
       "title": "실버 삼 초보 롤체 배우기.",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20366869"
+    },
+    {
+      "name": "2roo",
+      "viewers": 12,
+      "category": "마인크래프트",
+      "title": "ᐢ. .ᐢ₎  마인크래프트 :: 포켓몬 잡아보까",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20360483"
     }
   ],
-  "fetched": "2026-08-05T01:05:54"
+  "fetched": "2026-08-05T01:06:00"
 }
