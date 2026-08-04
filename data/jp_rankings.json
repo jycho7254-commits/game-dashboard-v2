@@ -53,19 +53,6 @@
   },
   {
     "rank": 5,
-    "title": "ブルーアーカイブ",
-    "developer": "Yostar, Inc.",
-    "genre": "Game",
-    "rating": 3.3,
-    "app_id": "com.YostarJP.BlueArchive",
-    "local_name": "ブルーアーカイブ",
-    "icon": "https://play-lh.googleusercontent.com/H975s6W1-boCSogzpF5_rIyawbjiXfG842ncgjIRiVGzhXHFTCVut0DkBhlDR4CgN1nn98OOC1fWN-LE7kUHnQ",
-    "est_revenue": 10000000,
-    "est_revenue_fmt": "$10.00M",
-    "est_revenue_won": "150.0억"
-  },
-  {
-    "rank": 6,
     "title": "モンスターストライク",
     "developer": "XFLAG, Inc.",
     "genre": "Game",
@@ -76,6 +63,19 @@
     "est_revenue": 8476006,
     "est_revenue_fmt": "$8.48M",
     "est_revenue_won": "127.1억"
+  },
+  {
+    "rank": 6,
+    "title": "ブルーアーカイブ",
+    "developer": "Yostar, Inc.",
+    "genre": "Game",
+    "rating": 3.3,
+    "app_id": "com.YostarJP.BlueArchive",
+    "local_name": "ブルーアーカイブ",
+    "icon": "https://play-lh.googleusercontent.com/H975s6W1-boCSogzpF5_rIyawbjiXfG842ncgjIRiVGzhXHFTCVut0DkBhlDR4CgN1nn98OOC1fWN-LE7kUHnQ",
+    "est_revenue": 10000000,
+    "est_revenue_fmt": "$10.00M",
+    "est_revenue_won": "150.0억"
   },
   {
     "rank": 7,
@@ -469,19 +469,6 @@
   },
   {
     "rank": 37,
-    "title": "プロ野球スピリッツA",
-    "developer": "KONAMI",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "jp.konami.prospia",
-    "local_name": "プロ野球スピリッツA",
-    "icon": "https://play-lh.googleusercontent.com/F0IB7v9CufHt5hKPRfXC9WS7tOUunAuCD3_JtdMJTtlhkG93qwmNCg6Cbcbf10aipCZZ3rv82QA-6REtVaVLHD8",
-    "est_revenue": 1233052,
-    "est_revenue_fmt": "$1.23M",
-    "est_revenue_won": "18.5억"
-  },
-  {
-    "rank": 38,
     "title": "信長の野望 覇道",
     "developer": "KOEI TECMO GAMES CO., LTD.",
     "genre": "Game",
@@ -492,6 +479,19 @@
     "est_revenue": 1143224,
     "est_revenue_fmt": "$1.14M",
     "est_revenue_won": "17.1억"
+  },
+  {
+    "rank": 38,
+    "title": "プロ野球スピリッツA",
+    "developer": "KONAMI",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "jp.konami.prospia",
+    "local_name": "プロ野球スピリッツA",
+    "icon": "https://play-lh.googleusercontent.com/F0IB7v9CufHt5hKPRfXC9WS7tOUunAuCD3_JtdMJTtlhkG93qwmNCg6Cbcbf10aipCZZ3rv82QA-6REtVaVLHD8",
+    "est_revenue": 1233052,
+    "est_revenue_fmt": "$1.23M",
+    "est_revenue_won": "18.5억"
   },
   {
     "rank": 39,
