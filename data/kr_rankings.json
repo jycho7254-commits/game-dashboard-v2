@@ -443,19 +443,6 @@
   },
   {
     "rank": 35,
-    "title": "Coop TD: Together",
-    "developer": "Supermagic",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.percent.aos.cooptd",
-    "local_name": "협타디: 협동타워 디펜스",
-    "icon": "https://play-lh.googleusercontent.com/vTxEJvWJq3cIbideJTNd9ZAYolS4ll7hUlMT3piDAsP6y84EPI-k1tPpoALoCwvmbJMn3LBW-sjzhHpERqfY",
-    "est_revenue": 356546,
-    "est_revenue_fmt": "$357K",
-    "est_revenue_won": "5.3억"
-  },
-  {
-    "rank": 36,
     "title": "Lineage W",
     "developer": "NC Corporation",
     "genre": "Game",
@@ -468,7 +455,7 @@
     "est_revenue_won": "5.1억"
   },
   {
-    "rank": 37,
+    "rank": 36,
     "title": "PUBG Mobile",
     "developer": "KRAFTON, Inc.",
     "genre": "Game",
@@ -481,7 +468,7 @@
     "est_revenue_won": "4.8억"
   },
   {
-    "rank": 38,
+    "rank": 37,
     "title": "트릭컬 리바이브",
     "developer": "EPIDGames",
     "genre": "Game",
@@ -492,6 +479,19 @@
     "est_revenue": 375806,
     "est_revenue_fmt": "$376K",
     "est_revenue_won": "5.6억"
+  },
+  {
+    "rank": 38,
+    "title": "Coop TD: Together",
+    "developer": "Supermagic",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.percent.aos.cooptd",
+    "local_name": "협타디: 협동타워 디펜스",
+    "icon": "https://play-lh.googleusercontent.com/vTxEJvWJq3cIbideJTNd9ZAYolS4ll7hUlMT3piDAsP6y84EPI-k1tPpoALoCwvmbJMn3LBW-sjzhHpERqfY",
+    "est_revenue": 356546,
+    "est_revenue_fmt": "$357K",
+    "est_revenue_won": "5.3억"
   },
   {
     "rank": 39,
@@ -521,19 +521,6 @@
   },
   {
     "rank": 41,
-    "title": "NTE: Neverness to Everness",
-    "developer": "N2E",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.hottagames.nte",
-    "local_name": "NTE: Neverness to Everness",
-    "icon": "https://play-lh.googleusercontent.com/TGl3DdDbi4hty6ooOhEvv_2s5tkpGLbL6derP8y5hK-_Bw--Ve375b08ba9HHQ9ueRpoQ9oye1T_T24BJriLUmw",
-    "est_revenue": 0,
-    "est_revenue_fmt": "",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 42,
     "title": "삼국지: 천하결전",
     "developer": "BILIBILI",
     "genre": "Game",
@@ -546,33 +533,7 @@
     "est_revenue_won": "4.0억"
   },
   {
-    "rank": 43,
-    "title": "eFootball™",
-    "developer": "KONAMI",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "jp.konami.pesam",
-    "local_name": "이풋볼",
-    "icon": "https://play-lh.googleusercontent.com/-an3zySx6j39CpLwZkIH26KfCvJPGmp974714U9HshiCb1W9NwFwULhNANcUSic9n1Mb1GDkVP6gBpjwLDs5UA",
-    "est_revenue": 234725,
-    "est_revenue_fmt": "$235K",
-    "est_revenue_won": "3.5억"
-  },
-  {
-    "rank": 44,
-    "title": "라그나로크M: Classic",
-    "developer": "GRAVITY Co., Ltd.",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.gravity.romkrzeny.aos",
-    "local_name": "라그나로크M: Classic",
-    "icon": "https://play-lh.googleusercontent.com/5SFBw-txEgmxfiD8J5DcHchCZFvLCo1jZsalnlDHYjv5nddS-8oLSRIwGHmqKF0NLaZJ9Gmbx6wEMGxlNtFe",
-    "est_revenue": 225230,
-    "est_revenue_fmt": "$225K",
-    "est_revenue_won": "3.4억"
-  },
-  {
-    "rank": 45,
+    "rank": 42,
     "title": "Pokémon GO",
     "developer": "Scopely Explore, Inc.",
     "genre": "Game",
@@ -585,7 +546,7 @@
     "est_revenue_won": "3.8억"
   },
   {
-    "rank": 46,
+    "rank": 43,
     "title": "리니지2M",
     "developer": "NC Corporation",
     "genre": "Game",
@@ -598,7 +559,7 @@
     "est_revenue_won": "4.4억"
   },
   {
-    "rank": 47,
+    "rank": 44,
     "title": "Candy Crush Saga",
     "developer": "King",
     "genre": "Game",
@@ -611,20 +572,33 @@
     "est_revenue_won": "3.7억"
   },
   {
-    "rank": 48,
-    "title": "Township",
-    "developer": "Playrix",
+    "rank": 45,
+    "title": "eFootball™",
+    "developer": "KONAMI",
     "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.playrix.township",
-    "local_name": "Township",
-    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
-    "est_revenue": 207910,
-    "est_revenue_fmt": "$208K",
-    "est_revenue_won": "3.1억"
+    "rating": 4.2,
+    "app_id": "jp.konami.pesam",
+    "local_name": "이풋볼",
+    "icon": "https://play-lh.googleusercontent.com/-an3zySx6j39CpLwZkIH26KfCvJPGmp974714U9HshiCb1W9NwFwULhNANcUSic9n1Mb1GDkVP6gBpjwLDs5UA",
+    "est_revenue": 234725,
+    "est_revenue_fmt": "$235K",
+    "est_revenue_won": "3.5억"
   },
   {
-    "rank": 49,
+    "rank": 46,
+    "title": "라그나로크M: Classic",
+    "developer": "GRAVITY Co., Ltd.",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.gravity.romkrzeny.aos",
+    "local_name": "라그나로크M: Classic",
+    "icon": "https://play-lh.googleusercontent.com/5SFBw-txEgmxfiD8J5DcHchCZFvLCo1jZsalnlDHYjv5nddS-8oLSRIwGHmqKF0NLaZJ9Gmbx6wEMGxlNtFe",
+    "est_revenue": 225230,
+    "est_revenue_fmt": "$225K",
+    "est_revenue_won": "3.4억"
+  },
+  {
+    "rank": 47,
     "title": "SD Gundam G Generation ETERNAL",
     "developer": "Bandai Namco Entertainment Inc.",
     "genre": "Game",
@@ -637,7 +611,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 50,
+    "rank": 48,
     "title": "I9: 인페르노 나인",
     "developer": "Leniu Technology Co., Limited",
     "genre": "Game",
@@ -648,5 +622,31 @@
     "est_revenue": 0,
     "est_revenue_fmt": "",
     "est_revenue_won": ""
+  },
+  {
+    "rank": 49,
+    "title": "Mystery Town: Merge Games",
+    "developer": "Cedar Games Studio",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.cedargames.mysterytown",
+    "local_name": "Mystery Town: Merge Games",
+    "icon": "https://play-lh.googleusercontent.com/uVjVMEJrhT-xRoUtKIUj8tOVSbCWw4IsRHaTDYICRNjQycUj6SucVpeoAPiNZWeJ5JuzIt_ZZRo1X1pW6XJFAQE",
+    "est_revenue": 0,
+    "est_revenue_fmt": "",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 50,
+    "title": "Township",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.playrix.township",
+    "local_name": "Township",
+    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
+    "est_revenue": 207910,
+    "est_revenue_fmt": "$208K",
+    "est_revenue_won": "3.1억"
   }
 ]
