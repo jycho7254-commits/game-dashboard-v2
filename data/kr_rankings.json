@@ -404,19 +404,6 @@
   },
   {
     "rank": 32,
-    "title": "냥코 대전쟁",
-    "developer": "PONOS Corporation",
-    "genre": "Game",
-    "rating": 4.1,
-    "app_id": "jp.co.ponos.battlecatskr",
-    "local_name": "냥코 대전쟁",
-    "icon": "https://play-lh.googleusercontent.com/9fY1igv-MK4667G0NWBTVvtUCzQoY-j_9Q0ehaCsybocI-U2txomDZQ7MXexpgxgBxXNI_pSlhkhDwyzZBRYl5w",
-    "est_revenue": 471173,
-    "est_revenue_fmt": "$471K",
-    "est_revenue_won": "7.1억"
-  },
-  {
-    "rank": 33,
     "title": "hololive Dreams",
     "developer": "QualiArts, Inc.",
     "genre": "Game",
@@ -424,6 +411,19 @@
     "app_id": "game.qualiarts.hololive.dreams.com",
     "local_name": "홀로라이브 드림즈",
     "icon": "https://play-lh.googleusercontent.com/0ic1Lk3doNRloIKJFGjBLiZBxpwLj61z2U6uV9ZpK21CjnjHiGF4tXS4mBCUwrKx_5O5hJ6GeJL1A1TBl3AM2v8",
+    "est_revenue": 471173,
+    "est_revenue_fmt": "$471K",
+    "est_revenue_won": "7.1억"
+  },
+  {
+    "rank": 33,
+    "title": "냥코 대전쟁",
+    "developer": "PONOS Corporation",
+    "genre": "Game",
+    "rating": 4.1,
+    "app_id": "jp.co.ponos.battlecatskr",
+    "local_name": "냥코 대전쟁",
+    "icon": "https://play-lh.googleusercontent.com/9fY1igv-MK4667G0NWBTVvtUCzQoY-j_9Q0ehaCsybocI-U2txomDZQ7MXexpgxgBxXNI_pSlhkhDwyzZBRYl5w",
     "est_revenue": 444141,
     "est_revenue_fmt": "$444K",
     "est_revenue_won": "6.7억"
@@ -625,6 +625,19 @@
   },
   {
     "rank": 49,
+    "title": "토이 삼국",
+    "developer": "Rhinos",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.jsjskr.google",
+    "local_name": "토이 삼국",
+    "icon": "https://play-lh.googleusercontent.com/VUPm7IzftWuDNEmU7LuriZsQrg8QQT84PAPCU9LLDps3wgWGOoiAlRK217YTZNUHkCf8nuyLOJQcT-1LucpwTA",
+    "est_revenue": 207910,
+    "est_revenue_fmt": "$208K",
+    "est_revenue_won": "3.1억"
+  },
+  {
+    "rank": 50,
     "title": "Mystery Town: Merge Games",
     "developer": "Cedar Games Studio",
     "genre": "Game",
@@ -632,19 +645,6 @@
     "app_id": "com.cedargames.mysterytown",
     "local_name": "Mystery Town: Merge Games",
     "icon": "https://play-lh.googleusercontent.com/uVjVMEJrhT-xRoUtKIUj8tOVSbCWw4IsRHaTDYICRNjQycUj6SucVpeoAPiNZWeJ5JuzIt_ZZRo1X1pW6XJFAQE",
-    "est_revenue": 207910,
-    "est_revenue_fmt": "$208K",
-    "est_revenue_won": "3.1억"
-  },
-  {
-    "rank": 50,
-    "title": "SD Gundam G Generation ETERNAL",
-    "developer": "Bandai Namco Entertainment Inc.",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.bandainamcoent.gget_WW",
-    "local_name": "SD Gundam G Generation ETERNAL",
-    "icon": "https://play-lh.googleusercontent.com/umWX9qJUcTLA-QIkGeYL_dxhLyDQc4UYYXMwC2MV4Pde2ti_TIOE_mzv6Wafm5SYAA7ZTBCuw27tDM_yfBPxRMY",
     "est_revenue": 200000,
     "est_revenue_fmt": "$200K",
     "est_revenue_won": "3.0억"
