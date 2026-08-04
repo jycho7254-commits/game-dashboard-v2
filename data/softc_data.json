@@ -2,7 +2,7 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "2,506",
+      "viewers": "2,940",
       "channels": "159",
       "link": "https://chzzk.naver.com"
     },
@@ -31,7 +31,7 @@
     },
     {
       "game": "오버워치",
-      "viewers": 211,
+      "viewers": 800,
       "channels": 20
     },
     {
@@ -41,7 +41,7 @@
     },
     {
       "game": "마인크래프트",
-      "viewers": 844,
+      "viewers": 689,
       "channels": 20
     },
     {
@@ -67,6 +67,14 @@
   ],
   "streamers": [
     {
+      "name": "서넹",
+      "viewers": 508,
+      "category": "오버워치",
+      "title": "옵진녀 실버 방어전;;;;;;;;",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20363113"
+    },
+    {
       "name": "쩡니예",
       "viewers": 464,
       "category": "로스트아크",
@@ -75,28 +83,12 @@
       "link": "https://chzzk.naver.com/live/20360246"
     },
     {
-      "name": "위구리",
-      "viewers": 339,
+      "name": "아야 AYA",
+      "viewers": 254,
       "category": "마인크래프트",
-      "title": "정답은 낚시에 있었어.",
+      "title": "💜 콩콩촌 2일차 (영도 ON)",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20356706"
-    },
-    {
-      "name": "방찌",
-      "viewers": 184,
-      "category": "마인크래프트",
-      "title": "해피힐링^^^^^^^^^^^^^^^",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20356008"
-    },
-    {
-      "name": "만 득",
-      "viewers": 172,
-      "category": "마인크래프트",
-      "title": "치즈 만들어잇 선릿밸리 서버 콩콩촌 5시 오픈",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20356816"
+      "link": "https://chzzk.naver.com/live/20359831"
     },
     {
       "name": "두니주니",
@@ -107,6 +99,14 @@
       "link": "https://chzzk.naver.com/live/20354348"
     },
     {
+      "name": "권세이",
+      "viewers": 87,
+      "category": "오버워치",
+      "title": "물그마의 불그마 데뷔전",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20362362"
+    },
+    {
       "name": "별 연",
       "viewers": 83,
       "category": "로스트아크",
@@ -115,12 +115,44 @@
       "link": "https://chzzk.naver.com/live/20365027"
     },
     {
+      "name": "다 비",
+      "viewers": 82,
+      "category": "마인크래프트",
+      "title": "촉슈 끝나고 너덜너덜한 청년",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20357809"
+    },
+    {
+      "name": "아로AURO",
+      "viewers": 80,
+      "category": "마인크래프트",
+      "title": "오늘 할일 : 나라시",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20357468"
+    },
+    {
       "name": "근모닝",
       "viewers": 73,
       "category": "오버워치",
       "title": "오버워치 도사",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20366478"
+    },
+    {
+      "name": "사모장",
+      "viewers": 68,
+      "category": "마인크래프트",
+      "title": "콩콩촌 2일차",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20358591"
+    },
+    {
+      "name": "콩콩",
+      "viewers": 61,
+      "category": "마인크래프트",
+      "title": "힐링서버 콩콩촌 2일차",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20356902"
     },
     {
       "name": "1Chon",
@@ -155,12 +187,20 @@
       "link": "https://chzzk.naver.com/live/20363144"
     },
     {
-      "name": "니야",
-      "viewers": 41,
+      "name": "숀쟝",
+      "viewers": 40,
       "category": "마인크래프트",
-      "title": "콩콩촌 2일차 (,,⁃ ⩊ ⁃,,)",
+      "title": "콩콩촌2일차",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20356880"
+      "link": "https://chzzk.naver.com/live/20356781"
+    },
+    {
+      "name": "다정현",
+      "viewers": 27,
+      "category": "마인크래프트",
+      "title": "귀농일기 첫 날이에요 ! ^ㅁ^ ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20356879"
     },
     {
       "name": "양거북",
@@ -187,22 +227,6 @@
       "link": "https://chzzk.naver.com/live/20365349"
     },
     {
-      "name": "사이테",
-      "viewers": 23,
-      "category": "오버워치",
-      "title": "후@열",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20360871"
-    },
-    {
-      "name": "콩천",
-      "viewers": 23,
-      "category": "마인크래프트",
-      "title": "콩콩촌에 콩천 등장 2일차",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20356434"
-    },
-    {
       "name": "조녜율",
       "viewers": 23,
       "category": "로스트아크",
@@ -217,6 +241,14 @@
       "title": "우와 PBE 랭크 게임이다",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20361691"
+    },
+    {
+      "name": "오롱이123",
+      "viewers": 20,
+      "category": "오버워치",
+      "title": "챔2 ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20361176"
     },
     {
       "name": "이 채린",
@@ -235,12 +267,12 @@
       "link": "https://chzzk.naver.com/live/20361327"
     },
     {
-      "name": "스노",
-      "viewers": 15,
+      "name": "강해온",
+      "viewers": 16,
       "category": "마인크래프트",
-      "title": "귀농일기 1일차 🍑",
+      "title": "🌊[귀농일기]강라...강해온 다시 귀농하다 / 싱드컵 클립 하트 눌러주세",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20357227"
+      "link": "https://chzzk.naver.com/live/20359811"
     },
     {
       "name": "코코유",
@@ -273,39 +305,7 @@
       "title": "분내! 파티! 발로란트! 감튀모임이라네욤 (●′¬′● )",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20364086"
-    },
-    {
-      "name": "예쁘찌냐",
-      "viewers": 12,
-      "category": "오버워치",
-      "title": "♡오버워치 라마트라로 팟찌먹기 미션도전! 시참가능 ( ღ>ᴗ<ღ ) '♡",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20362511"
-    },
-    {
-      "name": "혼낙",
-      "viewers": 12,
-      "category": "스타크래프트",
-      "title": "스타1vs스타2",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20361081"
-    },
-    {
-      "name": "콜라희",
-      "viewers": 11,
-      "category": "오버워치",
-      "title": "[1부: 오버워치] 오랜만에 왔더니 갑자기 넥슨???? 뭐야??",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20367195"
-    },
-    {
-      "name": "한벼링",
-      "viewers": 11,
-      "category": "배틀그라운드",
-      "title": "배린이는.. 치킨이.. 격하게.. 먹고싶다..",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20356590"
     }
   ],
-  "fetched": "2026-08-05T02:12:46"
+  "fetched": "2026-08-05T02:12:48"
 }
