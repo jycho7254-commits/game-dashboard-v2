@@ -2,7 +2,7 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "1,269",
+      "viewers": "1,310",
       "channels": "105",
       "link": "https://chzzk.naver.com"
     },
@@ -31,12 +31,12 @@
     },
     {
       "game": "오버워치",
-      "viewers": 230,
+      "viewers": 244,
       "channels": 20
     },
     {
       "game": "배틀그라운드",
-      "viewers": 83,
+      "viewers": 110,
       "channels": 20
     },
     {
@@ -195,6 +195,14 @@
       "link": "https://chzzk.naver.com/live/20367619"
     },
     {
+      "name": "도르밍",
+      "viewers": 18,
+      "category": "배틀그라운드",
+      "title": "우당탕탕 4인큐 (w,!멤버)",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20368077"
+    },
+    {
       "name": "청아하게",
       "viewers": 18,
       "category": "로스트아크",
@@ -235,6 +243,22 @@
       "link": "https://chzzk.naver.com/live/20368471"
     },
     {
+      "name": "장꾸야 놀자",
+      "viewers": 14,
+      "category": "배틀그라운드",
+      "title": "<시참> 스배 / 팔로우 ㄱㄱ [신입] ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20365893"
+    },
+    {
+      "name": "물식이",
+      "viewers": 14,
+      "category": "배틀그라운드",
+      "title": "물개와 스쿼드",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20367837"
+    },
+    {
       "name": "린 화",
       "viewers": 14,
       "category": "로스트아크",
@@ -267,45 +291,21 @@
       "link": "https://chzzk.naver.com/live/20369011"
     },
     {
+      "name": "야켓",
+      "viewers": 11,
+      "category": "오버워치",
+      "title": "금붕어 산책",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20369092"
+    },
+    {
       "name": "콜라희",
       "viewers": 11,
       "category": "배틀그라운드",
       "title": "[2부: 배그] 가보쟈ㅏㅏㅏㅏㅏ[1부: 오버워치] 오랜만에 왔더니 갑자기",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20367195"
-    },
-    {
-      "name": "백숭민",
-      "viewers": 10,
-      "category": "게임",
-      "title": "골드 사 중수 입니다.",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20368968"
-    },
-    {
-      "name": "r1m마싯게타는놈",
-      "viewers": 10,
-      "category": "게임",
-      "title": "미컨을 깼더니 더 어려워진 니케....",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20367469"
-    },
-    {
-      "name": "주거니 GUNNY",
-      "viewers": 10,
-      "category": "발로란트",
-      "title": "슬럼프 극복 보여드릴게요_437rr",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20368603"
-    },
-    {
-      "name": "김갱쓰",
-      "viewers": 10,
-      "category": "오버워치",
-      "title": "솔탱으로 마스터에서 살아남기",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20364420"
     }
   ],
-  "fetched": "2026-08-05T08:17:14"
+  "fetched": "2026-08-05T08:17:18"
 }
