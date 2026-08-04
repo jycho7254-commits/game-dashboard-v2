@@ -2,8 +2,8 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "6,524",
-      "channels": "152",
+      "viewers": "5,854",
+      "channels": "153",
       "link": "https://chzzk.naver.com"
     },
     {
@@ -16,17 +16,17 @@
   "categories": [
     {
       "game": "게임",
-      "viewers": 1021,
+      "viewers": 355,
       "channels": 20
     },
     {
       "game": "롤",
-      "viewers": 3460,
+      "viewers": 3471,
       "channels": 20
     },
     {
       "game": "발로란트",
-      "viewers": 111,
+      "viewers": 96,
       "channels": 20
     },
     {
@@ -75,14 +75,6 @@
       "link": "https://chzzk.naver.com/live/20364806"
     },
     {
-      "name": "오화요 Ohwayo",
-      "viewers": 795,
-      "category": "게임",
-      "title": "명조 3장 3막 어여쁜 에이메스양과 ㅎㅎ,,, 레치고",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20358815"
-    },
-    {
       "name": "쩡니예",
       "viewers": 443,
       "category": "로스트아크",
@@ -113,6 +105,14 @@
       "title": "촉슈 끝나고 너덜너덜한 청년",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20357809"
+    },
+    {
+      "name": "퀴디온 Qidion",
+      "viewers": 77,
+      "category": "게임",
+      "title": "개쩌는 데저트이글",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20362038"
     },
     {
       "name": "아로AURO",
@@ -187,6 +187,14 @@
       "link": "https://chzzk.naver.com/live/20356781"
     },
     {
+      "name": "흑우수달",
+      "viewers": 34,
+      "category": "게임",
+      "title": "폐허/매트릭수달하고 히루수탐구시간",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20362864"
+    },
+    {
       "name": "이복만",
       "viewers": 33,
       "category": "오버워치",
@@ -225,6 +233,14 @@
       "title": "귀농일기 첫 날이에요 ! ^ㅁ^ ",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20356879"
+    },
+    {
+      "name": "은설또",
+      "viewers": 24,
+      "category": "게임",
+      "title": "오늘은 에이메스를 영접할 수 있을까(,,>0<,,)",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20360815"
     },
     {
       "name": "양거북",
@@ -283,29 +299,13 @@
       "link": "https://chzzk.naver.com/live/20361081"
     },
     {
-      "name": "미 웅",
+      "name": "또띠멍",
       "viewers": 12,
-      "category": "발로란트",
-      "title": "[신입 4일차] 저희 친해져요 발로란트",
+      "category": "롤",
+      "title": "아줌마 롤 딱 한판만 할게..",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20368072"
-    },
-    {
-      "name": "고망지",
-      "viewers": 12,
-      "category": "배틀그라운드",
-      "title": "그저 배그가 좋은 청년",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20355502"
-    },
-    {
-      "name": "후리 HURI",
-      "viewers": 12,
-      "category": "마인크래프트",
-      "title": "[귀농일기] 다시 농사 지으러 왔다네",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20355720"
+      "link": "https://chzzk.naver.com/live/20364276"
     }
   ],
-  "fetched": "2026-08-05T02:38:20"
+  "fetched": "2026-08-05T02:38:24"
 }
