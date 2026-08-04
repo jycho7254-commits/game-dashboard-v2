@@ -2,8 +2,8 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "6,272",
-      "channels": "139",
+      "viewers": "6,564",
+      "channels": "137",
       "link": "https://chzzk.naver.com"
     },
     {
@@ -21,12 +21,12 @@
     },
     {
       "game": "롤",
-      "viewers": 3542,
+      "viewers": 3580,
       "channels": 20
     },
     {
       "game": "발로란트",
-      "viewers": 120,
+      "viewers": 375,
       "channels": 20
     },
     {
@@ -41,7 +41,7 @@
     },
     {
       "game": "마인크래프트",
-      "viewers": 831,
+      "viewers": 830,
       "channels": 20
     },
     {
@@ -91,6 +91,14 @@
       "link": "https://chzzk.naver.com/live/20360648"
     },
     {
+      "name": "선데이1",
+      "viewers": 285,
+      "category": "발로란트",
+      "title": "요즘 폼이 심상치 않은 사람",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20365403"
+    },
+    {
       "name": "위구리",
       "viewers": 282,
       "category": "마인크래프트",
@@ -129,6 +137,14 @@
       "title": "오늘 할일 : 나라시",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20357468"
+    },
+    {
+      "name": "향토끼 scentrabbit",
+      "viewers": 73,
+      "category": "롤",
+      "title": "본캐 5연패 후 분노의 아이언 솔랭! 브론즈갈꺼니깐",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20355868"
     },
     {
       "name": "퀴디온 Qidion",
@@ -219,14 +235,6 @@
       "link": "https://chzzk.naver.com/live/20361691"
     },
     {
-      "name": "치치94",
-      "viewers": 27,
-      "category": "롤",
-      "title": "다이아2 노방종 500만원 잘가보겠습니다\n",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20261162"
-    },
-    {
       "name": "조녜율",
       "viewers": 24,
       "category": "로스트아크",
@@ -291,14 +299,6 @@
       "link": "https://chzzk.naver.com/live/20355502"
     },
     {
-      "name": "동동영",
-      "viewers": 14,
-      "category": "발로란트",
-      "title": "솔랭 후 시참",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20366943"
-    },
-    {
       "name": "초 사",
       "viewers": 14,
       "category": "배틀그라운드",
@@ -307,5 +307,5 @@
       "link": "https://chzzk.naver.com/live/20362695"
     }
   ],
-  "fetched": "2026-08-05T04:15:48"
+  "fetched": "2026-08-05T04:15:50"
 }
