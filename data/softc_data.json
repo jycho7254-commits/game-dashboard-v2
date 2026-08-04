@@ -2,8 +2,8 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "15,254",
-      "channels": "154",
+      "viewers": "11,417",
+      "channels": "157",
       "link": "https://chzzk.naver.com"
     },
     {
@@ -16,12 +16,12 @@
   "categories": [
     {
       "game": "게임",
-      "viewers": 589,
+      "viewers": 632,
       "channels": 20
     },
     {
       "game": "롤",
-      "viewers": 11302,
+      "viewers": 6245,
       "channels": 20
     },
     {
@@ -41,7 +41,7 @@
     },
     {
       "game": "마인크래프트",
-      "viewers": 359,
+      "viewers": 814,
       "channels": 20
     },
     {
@@ -51,7 +51,7 @@
     },
     {
       "game": "로스트아크",
-      "viewers": 1757,
+      "viewers": 2479,
       "channels": 20
     },
     {
@@ -67,12 +67,12 @@
   ],
   "streamers": [
     {
-      "name": "LCK",
-      "viewers": 11183,
+      "name": "강퀴88",
+      "viewers": 6131,
       "category": "롤",
       "title": "삼성 텔레콤 vs 이걸 CJ 롤스터가 | 롤 클래식: LCK 레전드 매치",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20356686"
+      "link": "https://chzzk.naver.com/live/20357404"
     },
     {
       "name": "쫀지",
@@ -83,6 +83,14 @@
       "link": "https://chzzk.naver.com/live/20357229"
     },
     {
+      "name": "도읍지",
+      "viewers": 533,
+      "category": "로스트아크",
+      "title": "벨가 전 공대 최종 점검! 로스피 스펙체크 ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20354508"
+    },
+    {
       "name": "두니주니",
       "viewers": 441,
       "category": "게임",
@@ -91,12 +99,28 @@
       "link": "https://chzzk.naver.com/live/20354348"
     },
     {
+      "name": "위구리",
+      "viewers": 439,
+      "category": "마인크래프트",
+      "title": "정답은 낚시에 있었어.",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20356706"
+    },
+    {
       "name": "철면수심",
       "viewers": 358,
       "category": "스타크래프트",
       "title": "손풀기 스타한판 ㄱ - 새로운 시즌 새 맵",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20357556"
+    },
+    {
+      "name": "핑크자크",
+      "viewers": 260,
+      "category": "로스트아크",
+      "title": "이게임은 지금이 저점입니다,",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20354050"
     },
     {
       "name": "마인애플 MinedApple",
@@ -131,28 +155,44 @@
       "link": "https://chzzk.naver.com/live/20359728"
     },
     {
-      "name": "저무콩",
-      "viewers": 149,
+      "name": "펀트펀트",
+      "viewers": 93,
       "category": "로스트아크",
-      "title": "몇살이세요?? 저는 인.간.말.살.ㅋ",
+      "title": "829일차 모코코의 발효기 [ 대국민 모금운동 시작합니다. 펀트펀트 뼬까",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20355321"
+      "link": "https://chzzk.naver.com/live/20355897"
     },
     {
-      "name": "세리얀",
-      "viewers": 68,
+      "name": "미 랑",
+      "viewers": 75,
       "category": "로스트아크",
-      "title": "[카단/길드원 환영] 이 모코코는 오늘 뭘할까욤~",
+      "title": "드디어 내일이다!",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20355376"
+      "link": "https://chzzk.naver.com/live/20356104"
     },
     {
-      "name": "별풍이",
-      "viewers": 37,
+      "name": "콩천",
+      "viewers": 43,
+      "category": "마인크래프트",
+      "title": "콩콩촌에 콩천 등장 2일차",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20356434"
+    },
+    {
+      "name": "나는벌레덩",
+      "viewers": 42,
+      "category": "게임",
+      "title": "누워서 라스 1등하기",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20358693"
+    },
+    {
+      "name": "헛개heosgea",
+      "viewers": 29,
       "category": "롤",
-      "title": "롤 내전 방송! 10인, 20인 내전! 즐겁게 즐기실 분들 모두 환영합니",
+      "title": "삼성 텔레콤 vs 이걸 CJ 롤스터가 | 롤 클래식: LCK 레전드 매치",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20358440"
+      "link": "https://chzzk.naver.com/live/20357580"
     },
     {
       "name": "방 문 자",
@@ -161,14 +201,6 @@
       "title": "오늘은 또 어떤 재밌는 일이 있을까 ?ㅋㅋ",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20354361"
-    },
-    {
-      "name": "해요1",
-      "viewers": 29,
-      "category": "로스트아크",
-      "title": "(영도저렴)차원이랑 친해지기 아카테스 100수 / 질문환영",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20355317"
     },
     {
       "name": "아로예요",
@@ -195,12 +227,12 @@
       "link": "https://chzzk.naver.com/live/20357804"
     },
     {
-      "name": "루냐잉",
+      "name": "벨라레타",
       "viewers": 25,
       "category": "로스트아크",
-      "title": "이쁘니들 안녕 (ˆ⩌⩊⩌ˆ)੭",
+      "title": "햇빛이 정도를 모르네..",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20340279"
+      "link": "https://chzzk.naver.com/live/20356201"
     },
     {
       "name": "쉐입",
@@ -227,14 +259,6 @@
       "link": "https://chzzk.naver.com/live/20304405"
     },
     {
-      "name": "만만수o",
-      "viewers": 20,
-      "category": "롤",
-      "title": "[롤 5:5 내전] 20인 내전 가보자잇",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20354655"
-    },
-    {
       "name": "노가노",
       "viewers": 20,
       "category": "FC온라인",
@@ -259,28 +283,12 @@
       "link": "https://chzzk.naver.com/live/20354239"
     },
     {
-      "name": "페잣",
-      "viewers": 19,
-      "category": "로스트아크",
-      "title": "이것저것 최종 마무리하는 날 (지옥 + 강화 + 젬 + 팔찌 + 악세 +",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20353362"
-    },
-    {
       "name": "고라니는 똥손",
       "viewers": 17,
       "category": "스타크래프트",
       "title": "야생 래더에서 살아남기 예쓰 에프 강의",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20358121"
-    },
-    {
-      "name": "모사 mosa",
-      "viewers": 16,
-      "category": "롤",
-      "title": "행복롤",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20354758"
     },
     {
       "name": "평범소",
@@ -297,15 +305,7 @@
       "title": "마크 시참 야생 서버 오늘 9시 오픈! | 마인크래프트",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20360682"
-    },
-    {
-      "name": "김어제",
-      "viewers": 14,
-      "category": "마인크래프트",
-      "title": "2부 인생 처음 엔더 드래곤 켠왕.",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20355086"
     }
   ],
-  "fetched": "2026-08-04T21:04:34"
+  "fetched": "2026-08-04T21:04:38"
 }
