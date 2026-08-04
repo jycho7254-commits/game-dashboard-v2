@@ -2,8 +2,8 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "1,212",
-      "channels": "115",
+      "viewers": "1,167",
+      "channels": "116",
       "link": "https://chzzk.naver.com"
     },
     {
@@ -26,7 +26,7 @@
     },
     {
       "game": "발로란트",
-      "viewers": 118,
+      "viewers": 104,
       "channels": 20
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "game": "배틀그라운드",
-      "viewers": 140,
+      "viewers": 109,
       "channels": 20
     },
     {
@@ -115,14 +115,6 @@
       "link": "https://chzzk.naver.com/live/20365845"
     },
     {
-      "name": "얍쭈",
-      "viewers": 41,
-      "category": "배틀그라운드",
-      "title": "열대야엔 배그",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20365663"
-    },
-    {
       "name": "표후",
       "viewers": 38,
       "category": "게임",
@@ -161,6 +153,14 @@
       "title": "내고향 마스터 ",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20367557"
+    },
+    {
+      "name": "도르밍",
+      "viewers": 19,
+      "category": "배틀그라운드",
+      "title": "우당탕탕 4인큐 (w,!멤버)",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20368077"
     },
     {
       "name": "시스네",
@@ -219,12 +219,12 @@
       "link": "https://chzzk.naver.com/live/20367766"
     },
     {
-      "name": "순두둥",
+      "name": "물식이",
       "viewers": 14,
       "category": "배틀그라운드",
-      "title": "[!킬룰렛 open][시참][유입환영] 1부_칼바람둥 / 2부_배그둥(미",
+      "title": "물개와 스쿼드",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20366144"
+      "link": "https://chzzk.naver.com/live/20367837"
     },
     {
       "name": "산구리",
@@ -235,12 +235,12 @@
       "link": "https://chzzk.naver.com/live/20357694"
     },
     {
-      "name": "몽 비",
+      "name": "용사 팽동호",
       "viewers": 13,
       "category": "배틀그라운드",
-      "title": "[팬시참/딜룰렛on]  몽비등쟝 /ᐠ ˵> ⩊ <˵マ",
+      "title": "유입환영) 방송이 터졌습니다.. 그래서 배그 레쓰기릿합니다~!",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20365243"
+      "link": "https://chzzk.naver.com/live/20368750"
     },
     {
       "name": "롤체 칸",
@@ -249,14 +249,6 @@
       "title": "[GM 891] 1000점까지 노방종 ㄱㄱ",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20367619"
-    },
-    {
-      "name": "웆ㅜ",
-      "viewers": 12,
-      "category": "발로란트",
-      "title": "휴뱅의 우주 등장 ˚₊·—̳͟͞͞♡",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20368694"
     },
     {
       "name": "리네양",
@@ -305,7 +297,15 @@
       "title": "그녀는 오늘도 울었다.",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20365577"
+    },
+    {
+      "name": "고망지",
+      "viewers": 11,
+      "category": "배틀그라운드",
+      "title": "그저 배그가 좋은 청년",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20355502"
     }
   ],
-  "fetched": "2026-08-05T06:24:14"
+  "fetched": "2026-08-05T06:24:25"
 }
