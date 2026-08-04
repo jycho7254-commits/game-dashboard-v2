@@ -2,8 +2,8 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "1,650",
-      "channels": "118",
+      "viewers": "1,508",
+      "channels": "120",
       "link": "https://chzzk.naver.com"
     },
     {
@@ -16,7 +16,7 @@
   "categories": [
     {
       "game": "게임",
-      "viewers": 470,
+      "viewers": 317,
       "channels": 20
     },
     {
@@ -26,7 +26,7 @@
     },
     {
       "game": "발로란트",
-      "viewers": 112,
+      "viewers": 121,
       "channels": 20
     },
     {
@@ -51,8 +51,8 @@
     },
     {
       "game": "로스트아크",
-      "viewers": 593,
-      "channels": 19
+      "viewers": 595,
+      "channels": 20
     },
     {
       "game": "FC온라인",
@@ -81,14 +81,6 @@
       "title": "18시즌 PBE  명예 시민 1호 (ᐢ⑅•ᴗ•⑅ᐢ) 🍀",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20369035"
-    },
-    {
-      "name": "코코스",
-      "viewers": 156,
-      "category": "게임",
-      "title": "전장 새시즌 2시",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20367891"
     },
     {
       "name": "서 형",
@@ -235,6 +227,14 @@
       "link": "https://chzzk.naver.com/live/20369408"
     },
     {
+      "name": "말티쭈",
+      "viewers": 17,
+      "category": "발로란트",
+      "title": "짧게 치고 빠지기",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20369039"
+    },
+    {
       "name": "백숭민",
       "viewers": 13,
       "category": "게임",
@@ -307,5 +307,5 @@
       "link": "https://chzzk.naver.com/live/20367469"
     }
   ],
-  "fetched": "2026-08-05T08:53:03"
+  "fetched": "2026-08-05T08:53:07"
 }
