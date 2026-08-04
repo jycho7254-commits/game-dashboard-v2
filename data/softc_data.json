@@ -2,8 +2,8 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "3,500",
-      "channels": "172",
+      "viewers": "3,325",
+      "channels": "170",
       "link": "https://chzzk.naver.com"
     },
     {
@@ -51,7 +51,7 @@
     },
     {
       "game": "로스트아크",
-      "viewers": 1171,
+      "viewers": 996,
       "channels": 20
     },
     {
@@ -67,12 +67,12 @@
   ],
   "streamers": [
     {
-      "name": "쩡니예",
-      "viewers": 471,
+      "name": "핑크자크",
+      "viewers": 366,
       "category": "로스트아크",
-      "title": "800만골로 뒤늦게 스펙업하러왔습니다 블레로 출격합니다 ",
+      "title": "이게임은 지금이 저점입니다,",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20360246"
+      "link": "https://chzzk.naver.com/live/20354050"
     },
     {
       "name": "위구리",
@@ -123,14 +123,6 @@
       "link": "https://chzzk.naver.com/live/20361596"
     },
     {
-      "name": "꿀멩이",
-      "viewers": 160,
-      "category": "로스트아크",
-      "title": "🔥내일 오픈런... 로방대와 벨가르딘 나메 갑니다!!!",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20358359"
-    },
-    {
       "name": "매화린 Maehwarin",
       "viewers": 149,
       "category": "롤",
@@ -139,20 +131,20 @@
       "link": "https://chzzk.naver.com/live/20360746"
     },
     {
-      "name": "이제나",
-      "viewers": 107,
+      "name": "장덕이1",
+      "viewers": 145,
       "category": "로스트아크",
-      "title": "나메 몇점까지 올려야 하나요...?",
+      "title": "내일 나메 함께하실 차단스타터팩 멤버 모심",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20363335"
+      "link": "https://chzzk.naver.com/live/20358583"
     },
     {
-      "name": "옙히",
-      "viewers": 100,
+      "name": "펀트펀트",
+      "viewers": 89,
       "category": "로스트아크",
-      "title": "🐾 목요일 저녁 8시 40분 벨가 나메 트라이 가실 분! ^⦁᎑-^ ੭",
+      "title": "829일차 모코코의 발효기 [ 대국민 모금운동 시작합니다. 펀트펀트 뼬까",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20363108"
+      "link": "https://chzzk.naver.com/live/20355897"
     },
     {
       "name": "근모닝",
@@ -169,6 +161,14 @@
       "title": "1525점 시작) 반갑습니다",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20362334"
+    },
+    {
+      "name": "퓨우동",
+      "viewers": 51,
+      "category": "로스트아크",
+      "title": "선택써서 고대코어 4개 퓨우동 < 이게 왜 공대이름임;;;",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20362163"
     },
     {
       "name": "코리수",
@@ -201,14 +201,6 @@
       "title": "콩콩촌 2일차 (,,⁃ ⩊ ⁃,,)",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20356880"
-    },
-    {
-      "name": "솔리 SOLELY",
-      "viewers": 30,
-      "category": "로스트아크",
-      "title": "솔리💗 벨가르딘 D-1 네 저는 하드 갈꺼예여 ",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20361319"
     },
     {
       "name": "양거북",
@@ -251,6 +243,14 @@
       "link": "https://chzzk.naver.com/live/20361691"
     },
     {
+      "name": "장 봉 남",
+      "viewers": 20,
+      "category": "로스트아크",
+      "title": "봉남) 모코코 새싹들과 4막 노말 트라이 2주만에 또 장염걸림",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20362148"
+    },
+    {
       "name": "냉이킴",
       "viewers": 19,
       "category": "롤",
@@ -267,12 +267,28 @@
       "link": "https://chzzk.naver.com/live/20357227"
     },
     {
+      "name": "앵성",
+      "viewers": 16,
+      "category": "로스트아크",
+      "title": "벨가 D-1 준비 마무리 하고 증명 ㄱㄱ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20360384"
+    },
+    {
       "name": "예쁘찌냐",
       "viewers": 15,
       "category": "오버워치",
       "title": "♡오버워치 라마트라로 팟찌먹기 미션도전! 시참가능 ( ღ>ᴗ<ღ ) '♡",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20362511"
+    },
+    {
+      "name": "스와니깡",
+      "viewers": 15,
+      "category": "로스트아크",
+      "title": "벨가 출시 D-1 최종점검의 날",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20358517"
     },
     {
       "name": "코코유",
@@ -289,23 +305,7 @@
       "title": "[시참서버] 마크 픽셀몬(포켓몬) 서버 오픈~_~",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20357872"
-    },
-    {
-      "name": "진짜고라파동",
-      "viewers": 12,
-      "category": "게임",
-      "title": "시즌17 포기한 남자",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20365342"
-    },
-    {
-      "name": "백숭민",
-      "viewers": 12,
-      "category": "게임",
-      "title": "실버 삼 초보 롤체 배우기.",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20366869"
     }
   ],
-  "fetched": "2026-08-05T01:00:45"
+  "fetched": "2026-08-05T01:00:51"
 }
