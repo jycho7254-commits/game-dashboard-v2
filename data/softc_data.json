@@ -2,8 +2,8 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "4,533",
-      "channels": "153",
+      "viewers": "11,563",
+      "channels": "151",
       "link": "https://chzzk.naver.com"
     },
     {
@@ -21,12 +21,12 @@
     },
     {
       "game": "롤",
-      "viewers": 123,
+      "viewers": 7182,
       "channels": 20
     },
     {
       "game": "발로란트",
-      "viewers": 90,
+      "viewers": 94,
       "channels": 20
     },
     {
@@ -41,7 +41,7 @@
     },
     {
       "game": "마인크래프트",
-      "viewers": 132,
+      "viewers": 99,
       "channels": 20
     },
     {
@@ -66,6 +66,14 @@
     }
   ],
   "streamers": [
+    {
+      "name": "LCK",
+      "viewers": 7066,
+      "category": "롤",
+      "title": "삼성 텔레콤 vs 이걸 CJ 롤스터가 | 롤 클래식: LCK 레전드 매치",
+      "platform": "SOOP",
+      "link": "https://chzzk.naver.com/live/20356686"
+    },
     {
       "name": "초승달",
       "viewers": 1215,
@@ -163,14 +171,6 @@
       "link": "https://chzzk.naver.com/live/20353186"
     },
     {
-      "name": "니야",
-      "viewers": 42,
-      "category": "마인크래프트",
-      "title": "콩콩촌 2일차 (,,⁃ ⩊ ⁃,,)",
-      "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20356880"
-    },
-    {
       "name": "만만수o",
       "viewers": 35,
       "category": "롤",
@@ -227,20 +227,20 @@
       "link": "https://chzzk.naver.com/live/20354532"
     },
     {
+      "name": "김어제",
+      "viewers": 19,
+      "category": "마인크래프트",
+      "title": "2부 인생 처음 엔더 드래곤 켠왕.",
+      "platform": "SOOP",
+      "link": "https://chzzk.naver.com/live/20355086"
+    },
+    {
       "name": "빨간달빛",
       "viewers": 18,
       "category": "발로란트",
       "title": "올만에 일찍 발로란트 킨당 (시참 ㄱㄴ,합방 ㄱㄴ,사람 많으면 내전(10",
       "platform": "SOOP",
       "link": "https://chzzk.naver.com/live/20355099"
-    },
-    {
-      "name": "미어킴",
-      "viewers": 18,
-      "category": "마인크래프트",
-      "title": " 마크 하코런 다시 ㄱ 데스 시 부기",
-      "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20353165"
     },
     {
       "name": "모사 mosa",
@@ -331,6 +331,14 @@
       "link": "https://chzzk.naver.com/live/20356137"
     },
     {
+      "name": "x김자몽x",
+      "viewers": 13,
+      "category": "마인크래프트",
+      "title": "[V]자몽밸리 2일차였던거(나만)",
+      "platform": "SOOP",
+      "link": "https://chzzk.naver.com/live/20352738"
+    },
+    {
       "name": "스피릿 Spirit",
       "viewers": 13,
       "category": "스타크래프트",
@@ -345,14 +353,6 @@
       "title": "PBE 랭크 원시연구소",
       "platform": "SOOP",
       "link": "https://chzzk.naver.com/live/20357339"
-    },
-    {
-      "name": "U 다 토",
-      "viewers": 11,
-      "category": "마인크래프트",
-      "title": "선릿서버! 힐링하러간다!",
-      "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20355448"
     },
     {
       "name": "어항곰",
@@ -387,6 +387,14 @@
       "link": "https://chzzk.naver.com/live/20355316"
     },
     {
+      "name": "이단융",
+      "viewers": 9,
+      "category": "마인크래프트",
+      "title": "[샛길] 평화 광질",
+      "platform": "SOOP",
+      "link": "https://chzzk.naver.com/live/20353298"
+    },
+    {
       "name": "하남잘",
       "viewers": 9,
       "category": "FC온라인",
@@ -411,14 +419,6 @@
       "link": "https://chzzk.naver.com/live/20356263"
     },
     {
-      "name": "채유현",
-      "viewers": 8,
-      "category": "발로란트",
-      "title": "다이아간다.",
-      "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20350945"
-    },
-    {
       "name": "묘아링",
       "viewers": 8,
       "category": "오버워치",
@@ -433,14 +433,6 @@
       "title": "435일차) 뭐하지 (시참권룰렛,미션 환영!)",
       "platform": "SOOP",
       "link": "https://chzzk.naver.com/live/20352361"
-    },
-    {
-      "name": "성새벽",
-      "viewers": 8,
-      "category": "마인크래프트",
-      "title": "뉴비 첫 멀티 서버 [시참 환영]",
-      "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20352117"
     },
     {
       "name": "WooRip",
@@ -465,6 +457,14 @@
       "title": "[명조] 아니 이게 도대체 뭐길래. (잡답O)",
       "platform": "SOOP",
       "link": "https://chzzk.naver.com/live/20350861"
+    },
+    {
+      "name": "한새몽",
+      "viewers": 7,
+      "category": "롤",
+      "title": "신입:) 한새몽 해파리의 증바람 쇼! (롤 못함)",
+      "platform": "SOOP",
+      "link": "https://chzzk.naver.com/live/20356394"
     }
   ],
   "fetched": "2026-08-04T17:44:00.669005"
