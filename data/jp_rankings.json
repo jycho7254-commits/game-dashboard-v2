@@ -53,19 +53,6 @@
   },
   {
     "rank": 5,
-    "title": "モンスターストライク",
-    "developer": "XFLAG, Inc.",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "jp.co.mixi.monsterstrike",
-    "local_name": "モンスターストライク",
-    "icon": "https://play-lh.googleusercontent.com/WGW2AUzVfG3YF5cZJ_oRuhwAUGR5bskjiWFl4Kc_efzAeXsBMwnMXiMUGEGMTLHkihIWqrk6X_SEZ-T6LGMo",
-    "est_revenue": 8476006,
-    "est_revenue_fmt": "$8.48M",
-    "est_revenue_won": "127.1억"
-  },
-  {
-    "rank": 6,
     "title": "ブルーアーカイブ",
     "developer": "Yostar, Inc.",
     "genre": "Game",
@@ -76,6 +63,19 @@
     "est_revenue": 10000000,
     "est_revenue_fmt": "$10.00M",
     "est_revenue_won": "150.0억"
+  },
+  {
+    "rank": 6,
+    "title": "モンスターストライク",
+    "developer": "XFLAG, Inc.",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "jp.co.mixi.monsterstrike",
+    "local_name": "モンスターストライク",
+    "icon": "https://play-lh.googleusercontent.com/WGW2AUzVfG3YF5cZJ_oRuhwAUGR5bskjiWFl4Kc_efzAeXsBMwnMXiMUGEGMTLHkihIWqrk6X_SEZ-T6LGMo",
+    "est_revenue": 8476006,
+    "est_revenue_fmt": "$8.48M",
+    "est_revenue_won": "127.1억"
   },
   {
     "rank": 7,
@@ -469,19 +469,6 @@
   },
   {
     "rank": 37,
-    "title": "信長の野望 覇道",
-    "developer": "KOEI TECMO GAMES CO., LTD.",
-    "genre": "Game",
-    "rating": 4.1,
-    "app_id": "jp.co.koeitecmo.Power",
-    "local_name": "信長の野望 覇道",
-    "icon": "https://play-lh.googleusercontent.com/lVRR7nQTSOqpmYdbXtRo_FsWkdEaljN4TaT-rrrr0TL5I0NR8t0wmClEHotszjovMLBOPruq6uxoky3kgTkB-oM",
-    "est_revenue": 1143224,
-    "est_revenue_fmt": "$1.14M",
-    "est_revenue_won": "17.1억"
-  },
-  {
-    "rank": 38,
     "title": "プロ野球スピリッツA",
     "developer": "KONAMI",
     "genre": "Game",
@@ -492,6 +479,19 @@
     "est_revenue": 1233052,
     "est_revenue_fmt": "$1.23M",
     "est_revenue_won": "18.5억"
+  },
+  {
+    "rank": 38,
+    "title": "信長の野望 覇道",
+    "developer": "KOEI TECMO GAMES CO., LTD.",
+    "genre": "Game",
+    "rating": 4.1,
+    "app_id": "jp.co.koeitecmo.Power",
+    "local_name": "信長の野望 覇道",
+    "icon": "https://play-lh.googleusercontent.com/lVRR7nQTSOqpmYdbXtRo_FsWkdEaljN4TaT-rrrr0TL5I0NR8t0wmClEHotszjovMLBOPruq6uxoky3kgTkB-oM",
+    "est_revenue": 1143224,
+    "est_revenue_fmt": "$1.14M",
+    "est_revenue_won": "17.1억"
   },
   {
     "rank": 39,
