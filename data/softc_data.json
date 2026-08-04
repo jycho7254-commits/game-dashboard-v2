@@ -2,8 +2,8 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "17,712",
-      "channels": "152",
+      "viewers": "29,801",
+      "channels": "150",
       "link": "https://chzzk.naver.com"
     },
     {
@@ -21,7 +21,7 @@
     },
     {
       "game": "롤",
-      "viewers": 13842,
+      "viewers": 25937,
       "channels": 20
     },
     {
@@ -31,8 +31,8 @@
     },
     {
       "game": "오버워치",
-      "viewers": 78,
-      "channels": 20
+      "viewers": 72,
+      "channels": 19
     },
     {
       "game": "배틀그라운드",
@@ -67,12 +67,12 @@
   ],
   "streamers": [
     {
-      "name": "강퀴88",
-      "viewers": 13658,
+      "name": "LCK",
+      "viewers": 25758,
       "category": "롤",
       "title": "삼성 텔레콤 vs 이걸 CJ 롤스터가 | 롤 클래식: LCK 레전드 매치",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20357404"
+      "link": "https://chzzk.naver.com/live/20356686"
     },
     {
       "name": "초승달",
@@ -155,14 +155,6 @@
       "link": "https://chzzk.naver.com/live/20357339"
     },
     {
-      "name": "헛개heosgea",
-      "viewers": 34,
-      "category": "롤",
-      "title": "삼성 텔레콤 vs 이걸 CJ 롤스터가 | 롤 클래식: LCK 레전드 매치",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20357580"
-    },
-    {
       "name": "만만수o",
       "viewers": 32,
       "category": "롤",
@@ -203,12 +195,28 @@
       "link": "https://chzzk.naver.com/live/20357289"
     },
     {
+      "name": "태평창",
+      "viewers": 25,
+      "category": "롤",
+      "title": "[롤 내전] 내전  돌리면서 리모델링 공사중",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20354532"
+    },
+    {
       "name": "어써미",
       "viewers": 25,
       "category": "배틀그라운드",
       "title": "!노방종 11부 💘생일기념💘 🍗치킨은 요기로🍗 대회 모자란 3티어 ",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20335673"
+    },
+    {
+      "name": "김칠푸",
+      "viewers": 23,
+      "category": "롤",
+      "title": "🐻롤 클래식 | 삼성 텔레콤 vs 이걸 CJ 롤스터가 / 레전드들이 돌아",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20357821"
     },
     {
       "name": "루냐잉",
@@ -219,28 +227,12 @@
       "link": "https://chzzk.naver.com/live/20340279"
     },
     {
-      "name": "가마우",
-      "viewers": 18,
-      "category": "롤",
-      "title": "팔공산 아기다람쥐 인섹 응원방 | 롤 클래식: LCK 레전드 매치",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20357687"
-    },
-    {
       "name": "테나님",
       "viewers": 17,
       "category": "배틀그라운드",
       "title": "🌊 휴가는 역시 시원한 에란겔로? 🥽 !딜룰렛 마감",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20352339"
-    },
-    {
-      "name": "돋개",
-      "viewers": 16,
-      "category": "롤",
-      "title": "LCK 롤 클래식 같이봐유 / 삼성 텔레콤 vs 이걸 CJ 롤스터가",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20357612"
     },
     {
       "name": "꼐속",
@@ -275,6 +267,14 @@
       "link": "https://chzzk.naver.com/live/20353219"
     },
     {
+      "name": "모사 mosa",
+      "viewers": 14,
+      "category": "롤",
+      "title": "행복롤",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20354758"
+    },
+    {
       "name": "김어제",
       "viewers": 13,
       "category": "마인크래프트",
@@ -307,5 +307,5 @@
       "link": "https://chzzk.naver.com/live/20352361"
     }
   ],
-  "fetched": "2026-08-04T18:35:38"
+  "fetched": "2026-08-04T18:35:44"
 }
