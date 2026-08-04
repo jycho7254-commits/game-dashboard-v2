@@ -2,7 +2,7 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "6,727",
+      "viewers": "6,343",
       "channels": "138",
       "link": "https://chzzk.naver.com"
     },
@@ -16,32 +16,32 @@
   "categories": [
     {
       "game": "게임",
-      "viewers": 1000,
+      "viewers": 930,
       "channels": 20
     },
     {
       "game": "롤",
-      "viewers": 3542,
+      "viewers": 3509,
       "channels": 20
     },
     {
       "game": "발로란트",
-      "viewers": 375,
+      "viewers": 101,
       "channels": 20
     },
     {
       "game": "오버워치",
-      "viewers": 611,
+      "viewers": 615,
       "channels": 20
     },
     {
       "game": "배틀그라운드",
-      "viewers": 93,
+      "viewers": 94,
       "channels": 20
     },
     {
       "game": "마인크래프트",
-      "viewers": 830,
+      "viewers": 832,
       "channels": 20
     },
     {
@@ -51,7 +51,7 @@
     },
     {
       "game": "로스트아크",
-      "viewers": 201,
+      "viewers": 188,
       "channels": 20
     },
     {
@@ -61,14 +61,14 @@
     },
     {
       "game": "스타크래프트",
-      "viewers": 35,
+      "viewers": 34,
       "channels": 7
     }
   ],
   "streamers": [
     {
       "name": "댱이",
-      "viewers": 2834,
+      "viewers": 2795,
       "category": "롤",
       "title": "가놈님이랑 롤듀오",
       "platform": "치지직",
@@ -76,7 +76,7 @@
     },
     {
       "name": "왈도쿤",
-      "viewers": 723,
+      "viewers": 715,
       "category": "게임",
       "title": "[왈도쿤] 니케 슈엔 스토리 감상회",
       "platform": "치지직",
@@ -84,7 +84,7 @@
     },
     {
       "name": "명예훈장",
-      "viewers": 630,
+      "viewers": 631,
       "category": "롤",
       "title": "마무리 건강 롤 2판",
       "platform": "치지직",
@@ -92,23 +92,15 @@
     },
     {
       "name": "윤산삼",
-      "viewers": 296,
+      "viewers": 302,
       "category": "오버워치",
       "title": "그마에서 누가 돌아왔게~",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20363258"
     },
     {
-      "name": "선데이1",
-      "viewers": 285,
-      "category": "발로란트",
-      "title": "요즘 폼이 심상치 않은 사람",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20365403"
-    },
-    {
       "name": "위구리",
-      "viewers": 282,
+      "viewers": 273,
       "category": "마인크래프트",
       "title": "정답은 낚시에 있었어.",
       "platform": "치지직",
@@ -116,7 +108,7 @@
     },
     {
       "name": "아야 AYA",
-      "viewers": 274,
+      "viewers": 255,
       "category": "마인크래프트",
       "title": "💜 콩콩촌 2일차 (영도 ON)",
       "platform": "치지직",
@@ -124,7 +116,7 @@
     },
     {
       "name": "프로즈",
-      "viewers": 155,
+      "viewers": 154,
       "category": "오버워치",
       "title": "올 챔피언,철권 텍프,롤 골드의 사나이",
       "platform": "치지직",
@@ -132,7 +124,7 @@
     },
     {
       "name": "만 득",
-      "viewers": 144,
+      "viewers": 140,
       "category": "마인크래프트",
       "title": "치즈 만들어잇 선릿밸리 서버 콩콩촌 5시 오픈",
       "platform": "치지직",
@@ -147,14 +139,6 @@
       "link": "https://chzzk.naver.com/live/20357468"
     },
     {
-      "name": "퀴디온 Qidion",
-      "viewers": 69,
-      "category": "게임",
-      "title": "개쩌는 데저트이글",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20362038"
-    },
-    {
       "name": "새 담",
       "viewers": 58,
       "category": "오버워치",
@@ -164,7 +148,7 @@
     },
     {
       "name": "1Chon",
-      "viewers": 55,
+      "viewers": 53,
       "category": "게임",
       "title": "1525점 시작) 반갑습니다",
       "platform": "치지직",
@@ -172,7 +156,7 @@
     },
     {
       "name": "유 나 나",
-      "viewers": 45,
+      "viewers": 43,
       "category": "로스트아크",
       "title": "⭐충동 데모닉 키우는 모코코⭐",
       "platform": "치지직",
@@ -180,7 +164,7 @@
     },
     {
       "name": "딸 라",
-      "viewers": 44,
+      "viewers": 43,
       "category": "로스트아크",
       "title": "🖤늦은 사유 : ㅠㅠ",
       "platform": "치지직",
@@ -188,31 +172,31 @@
     },
     {
       "name": "하예솜",
-      "viewers": 37,
+      "viewers": 42,
       "category": "게임",
       "title": "2장 3막 두가쟝!!!",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20362956"
     },
     {
-      "name": "이복만",
-      "viewers": 34,
-      "category": "오버워치",
-      "title": "오버워치 스타디움 1등까지 두걸음",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20363144"
-    },
-    {
       "name": "맛과영양",
-      "viewers": 32,
+      "viewers": 33,
       "category": "게임",
       "title": "니케 잡담과 상담&대리 + 뉴비 환영\n방송 시간은 매일 밤 12시부터~",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20367381"
     },
     {
+      "name": "이복만",
+      "viewers": 33,
+      "category": "오버워치",
+      "title": "오버워치 스타디움 1등까지 두걸음",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20363144"
+    },
+    {
       "name": "아로예요",
-      "viewers": 27,
+      "viewers": 26,
       "category": "게임",
       "title": "우와 17시즌 랭겜이다",
       "platform": "치지직",
@@ -220,7 +204,7 @@
     },
     {
       "name": "치치94",
-      "viewers": 27,
+      "viewers": 25,
       "category": "롤",
       "title": "다이아2 노방종 500만원 잘가보겠습니다\n",
       "platform": "치지직",
@@ -228,23 +212,31 @@
     },
     {
       "name": "조녜율",
-      "viewers": 24,
+      "viewers": 22,
       "category": "로스트아크",
       "title": "하루 전인데 컨디션 관리 안 하는 사람. 티저도 안 봤음",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20363090"
     },
     {
-      "name": "뀨 미 호",
+      "name": "잎푸",
       "viewers": 20,
-      "category": "롤",
-      "title": "롤 조금만 해야딩",
+      "category": "마인크래프트",
+      "title": "마크 2일차 ~!! 집을 지어보아요",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20365718"
+      "link": "https://chzzk.naver.com/live/20364663"
+    },
+    {
+      "name": "두딩딩",
+      "viewers": 20,
+      "category": "마인크래프트",
+      "title": "마크 유튜브 1일차",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20364857"
     },
     {
       "name": "호서윤",
-      "viewers": 17,
+      "viewers": 19,
       "category": "오버워치",
       "title": "졸린토끼",
       "platform": "치지직",
@@ -252,51 +244,59 @@
     },
     {
       "name": "노노하",
-      "viewers": 17,
+      "viewers": 18,
       "category": "로스트아크",
       "title": "여러분의 직업도 마법소녀이신가요 ★",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20366601"
     },
     {
-      "name": "0레아0 Lea",
-      "viewers": 16,
-      "category": "발로란트",
-      "title": "[신입 15일차 / 시참 환영 ] 바보의 발로란트 2부",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20365906"
-    },
-    {
-      "name": "경나WOW",
-      "viewers": 16,
-      "category": "로스트아크",
-      "title": "로스트아크 뉴비 4일차",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20355927"
-    },
-    {
-      "name": "이 채린",
+      "name": "뀨 미 호",
       "viewers": 15,
-      "category": "배틀그라운드",
-      "title": "덥다 더웡 ",
+      "category": "롤",
+      "title": "롤 조금만 해야딩",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20356739"
+      "link": "https://chzzk.naver.com/live/20365718"
     },
     {
       "name": "순두둥",
-      "viewers": 14,
+      "viewers": 15,
       "category": "배틀그라운드",
       "title": "[!킬룰렛 open][시참][유입환영] 1부_칼바람둥 / 2부_배그둥(미",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20366144"
     },
     {
-      "name": "시스네",
-      "viewers": 13,
-      "category": "마인크래프트",
-      "title": "[57일] 엔더까지 1시간만에 깨겠습니다 / 심박수 100이 넘으면 룰렛",
+      "name": "우락이",
+      "viewers": 14,
+      "category": "발로란트",
+      "title": "[90일]즐거운 발로시참이 돌아왔지 !시참",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20364740"
+      "link": "https://chzzk.naver.com/live/20364012"
+    },
+    {
+      "name": "0레아0 Lea",
+      "viewers": 13,
+      "category": "발로란트",
+      "title": "[신입 15일차 / 시참 환영 ] 바보의 발로란트 2부",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20365906"
+    },
+    {
+      "name": "이 채린",
+      "viewers": 13,
+      "category": "배틀그라운드",
+      "title": "덥다 더웡 ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20356739"
+    },
+    {
+      "name": "청아하게",
+      "viewers": 13,
+      "category": "로스트아크",
+      "title": "벨가르딘 전 마지막 준비",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20365540"
     },
     {
       "name": "호니리",
@@ -307,5 +307,5 @@
       "link": "https://chzzk.naver.com/live/20363904"
     }
   ],
-  "fetched": "2026-08-05T04:15:55"
+  "fetched": "2026-08-05T04:20:55"
 }
