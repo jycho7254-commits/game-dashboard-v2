@@ -2,8 +2,8 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "25,998",
-      "channels": "147",
+      "viewers": "25,628",
+      "channels": "145",
       "link": "https://chzzk.naver.com"
     },
     {
@@ -16,7 +16,7 @@
   "categories": [
     {
       "game": "게임",
-      "viewers": 774,
+      "viewers": 779,
       "channels": 20
     },
     {
@@ -26,12 +26,12 @@
     },
     {
       "game": "발로란트",
-      "viewers": 53,
+      "viewers": 55,
       "channels": 20
     },
     {
       "game": "오버워치",
-      "viewers": 47,
+      "viewers": 40,
       "channels": 20
     },
     {
@@ -41,7 +41,7 @@
     },
     {
       "game": "마인크래프트",
-      "viewers": 530,
+      "viewers": 159,
       "channels": 20
     },
     {
@@ -57,12 +57,12 @@
     {
       "game": "FC온라인",
       "viewers": 94,
-      "channels": 15
+      "channels": 16
     },
     {
       "game": "스타크래프트",
-      "viewers": 281,
-      "channels": 12
+      "viewers": 282,
+      "channels": 13
     }
   ],
   "streamers": [
@@ -89,14 +89,6 @@
       "title": "PBE에 랭크가 도입이됐다!?",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20354348"
-    },
-    {
-      "name": "위구리",
-      "viewers": 407,
-      "category": "마인크래프트",
-      "title": "정답은 낚시에 있었어.",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20356706"
     },
     {
       "name": "도읍지",
@@ -171,12 +163,20 @@
       "link": "https://chzzk.naver.com/live/20357339"
     },
     {
-      "name": "니야",
-      "viewers": 42,
+      "name": "콩콩",
+      "viewers": 57,
       "category": "마인크래프트",
-      "title": "콩콩촌 2일차 (,,⁃ ⩊ ⁃,,)",
+      "title": "힐링서버 콩콩촌 2일차",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20356880"
+      "link": "https://chzzk.naver.com/live/20356902"
+    },
+    {
+      "name": "숀쟝",
+      "viewers": 34,
+      "category": "마인크래프트",
+      "title": "콩콩촌2일차",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20356781"
     },
     {
       "name": "이 채린",
@@ -283,12 +283,12 @@
       "link": "https://chzzk.naver.com/live/20357289"
     },
     {
-      "name": "미어킴",
+      "name": "김어제",
       "viewers": 16,
       "category": "마인크래프트",
-      "title": " 마크 하코런 다시 ㄱ 데스 시 부기",
+      "title": "2부 인생 처음 엔더 드래곤 켠왕.",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20353165"
+      "link": "https://chzzk.naver.com/live/20355086"
     },
     {
       "name": "모사 mosa",
@@ -307,5 +307,5 @@
       "link": "https://chzzk.naver.com/live/20304405"
     }
   ],
-  "fetched": "2026-08-04T19:27:03"
+  "fetched": "2026-08-04T19:27:08"
 }
