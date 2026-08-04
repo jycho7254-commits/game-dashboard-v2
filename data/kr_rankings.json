@@ -404,19 +404,6 @@
   },
   {
     "rank": 32,
-    "title": "냥코 대전쟁",
-    "developer": "PONOS Corporation",
-    "genre": "Game",
-    "rating": 4.1,
-    "app_id": "jp.co.ponos.battlecatskr",
-    "local_name": "냥코 대전쟁",
-    "icon": "https://play-lh.googleusercontent.com/9fY1igv-MK4667G0NWBTVvtUCzQoY-j_9Q0ehaCsybocI-U2txomDZQ7MXexpgxgBxXNI_pSlhkhDwyzZBRYl5w",
-    "est_revenue": 471173,
-    "est_revenue_fmt": "$471K",
-    "est_revenue_won": "7.1억"
-  },
-  {
-    "rank": 33,
     "title": "hololive Dreams",
     "developer": "QualiArts, Inc.",
     "genre": "Game",
@@ -424,6 +411,19 @@
     "app_id": "game.qualiarts.hololive.dreams.com",
     "local_name": "홀로라이브 드림즈",
     "icon": "https://play-lh.googleusercontent.com/0ic1Lk3doNRloIKJFGjBLiZBxpwLj61z2U6uV9ZpK21CjnjHiGF4tXS4mBCUwrKx_5O5hJ6GeJL1A1TBl3AM2v8",
+    "est_revenue": 471173,
+    "est_revenue_fmt": "$471K",
+    "est_revenue_won": "7.1억"
+  },
+  {
+    "rank": 33,
+    "title": "냥코 대전쟁",
+    "developer": "PONOS Corporation",
+    "genre": "Game",
+    "rating": 4.1,
+    "app_id": "jp.co.ponos.battlecatskr",
+    "local_name": "냥코 대전쟁",
+    "icon": "https://play-lh.googleusercontent.com/9fY1igv-MK4667G0NWBTVvtUCzQoY-j_9Q0ehaCsybocI-U2txomDZQ7MXexpgxgBxXNI_pSlhkhDwyzZBRYl5w",
     "est_revenue": 444141,
     "est_revenue_fmt": "$444K",
     "est_revenue_won": "6.7억"
@@ -469,19 +469,6 @@
   },
   {
     "rank": 37,
-    "title": "Lineage W",
-    "developer": "NC Corporation",
-    "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.ncsoft.lineagew",
-    "local_name": "리니지W",
-    "icon": "https://play-lh.googleusercontent.com/VvwlyO5rMOgeedcbDmvBQv-vDoCeHqxBdSHqTrA3xUZAEuRcAwTBznrJBwkj3_xvhUTkLJ4D98RT1fZTtu8W",
-    "est_revenue": 356546,
-    "est_revenue_fmt": "$357K",
-    "est_revenue_won": "5.3억"
-  },
-  {
-    "rank": 38,
     "title": "Coop TD: Together",
     "developer": "Supermagic",
     "genre": "Game",
@@ -489,6 +476,19 @@
     "app_id": "com.percent.aos.cooptd",
     "local_name": "협타디: 협동타워 디펜스",
     "icon": "https://play-lh.googleusercontent.com/vTxEJvWJq3cIbideJTNd9ZAYolS4ll7hUlMT3piDAsP6y84EPI-k1tPpoALoCwvmbJMn3LBW-sjzhHpERqfY",
+    "est_revenue": 356546,
+    "est_revenue_fmt": "$357K",
+    "est_revenue_won": "5.3억"
+  },
+  {
+    "rank": 38,
+    "title": "Lineage W",
+    "developer": "NC Corporation",
+    "genre": "Game",
+    "rating": 3.8,
+    "app_id": "com.ncsoft.lineagew",
+    "local_name": "리니지W",
+    "icon": "https://play-lh.googleusercontent.com/VvwlyO5rMOgeedcbDmvBQv-vDoCeHqxBdSHqTrA3xUZAEuRcAwTBznrJBwkj3_xvhUTkLJ4D98RT1fZTtu8W",
     "est_revenue": 338749,
     "est_revenue_fmt": "$339K",
     "est_revenue_won": "5.1억"
