@@ -2,31 +2,31 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "15,246",
-      "channels": "153",
+      "viewers": "8,079",
+      "channels": "157",
       "link": "https://chzzk.naver.com"
     },
     {
       "name": "YouTube Live",
-      "viewers": "14",
-      "channels": "14 라이브",
+      "viewers": "16",
+      "channels": "16 라이브",
       "link": "https://www.youtube.com"
     }
   ],
   "categories": [
     {
       "game": "게임",
-      "viewers": 854,
+      "viewers": 900,
       "channels": 20
     },
     {
       "game": "롤",
-      "viewers": 11264,
+      "viewers": 4016,
       "channels": 20
     },
     {
       "game": "발로란트",
-      "viewers": 70,
+      "viewers": 78,
       "channels": 20
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "game": "배틀그라운드",
-      "viewers": 131,
+      "viewers": 158,
       "channels": 20
     },
     {
@@ -67,12 +67,12 @@
   ],
   "streamers": [
     {
-      "name": "LCK",
-      "viewers": 11164,
+      "name": "강퀴88",
+      "viewers": 3711,
       "category": "롤",
       "title": "삼성 텔레콤 vs 이걸 CJ 롤스터가 | 롤 클래식: LCK 레전드 매치",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20356686"
+      "link": "https://chzzk.naver.com/live/20357404"
     },
     {
       "name": "쫀지",
@@ -147,6 +147,14 @@
       "link": "https://chzzk.naver.com/live/20352051"
     },
     {
+      "name": "시아 이르엘린",
+      "viewers": 111,
+      "category": "게임",
+      "title": "명조명조명조명조명조명조명조명조명조명조명조명조명조명조명조명조명조명조명조명조",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20352021"
+    },
+    {
       "name": "승상싱",
       "viewers": 104,
       "category": "게임",
@@ -171,12 +179,20 @@
       "link": "https://chzzk.naver.com/live/20355440"
     },
     {
-      "name": "도도리코 dodorico",
-      "viewers": 57,
-      "category": "게임",
-      "title": "명조 이번 주 공뱅 같이보장! ",
+      "name": "채수냥",
+      "viewers": 67,
+      "category": "롤",
+      "title": "무수면 롤대녀",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20353186"
+      "link": "https://chzzk.naver.com/live/20350352"
+    },
+    {
+      "name": "헛개heosgea",
+      "viewers": 65,
+      "category": "롤",
+      "title": "삼성 텔레콤 vs 이걸 CJ 롤스터가 | 롤 클래식: LCK 레전드 매치",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20357580"
     },
     {
       "name": "띵땡",
@@ -185,6 +201,14 @@
       "title": "PBE 적응하기",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20355452"
+    },
+    {
+      "name": "돋개",
+      "viewers": 41,
+      "category": "롤",
+      "title": "LCK 롤 클래식 같이봐유 / 삼성 텔레콤 vs 이걸 CJ 롤스터가",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20357612"
     },
     {
       "name": "니야",
@@ -203,6 +227,14 @@
       "link": "https://chzzk.naver.com/live/20357339"
     },
     {
+      "name": "가마우",
+      "viewers": 34,
+      "category": "롤",
+      "title": "팔공산 아기다람쥐 인섹 응원방 | 롤 클래식: LCK 레전드 매치",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20357687"
+    },
+    {
       "name": "만만수o",
       "viewers": 33,
       "category": "롤",
@@ -211,28 +243,28 @@
       "link": "https://chzzk.naver.com/live/20354655"
     },
     {
+      "name": "어써미",
+      "viewers": 30,
+      "category": "배틀그라운드",
+      "title": "!노방종 11부 💘생일기념💘 🍗치킨은 요기로🍗 대회 모자란 3티어 ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20335673"
+    },
+    {
+      "name": "달디단레몬",
+      "viewers": 28,
+      "category": "배틀그라운드",
+      "title": "난 말이야, 달달한걸 먹으면 강해져. 보여줄께! (๑✪ᆺ✪๑) 💛 시참가",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20352791"
+    },
+    {
       "name": "쉐입",
       "viewers": 28,
       "category": "FC온라인",
       "title": "마스터 가볼게요",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20355936"
-    },
-    {
-      "name": "하얀귤",
-      "viewers": 26,
-      "category": "배틀그라운드",
-      "title": "배그 솔로 낮방(미션 사랑♥)",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20353312"
-    },
-    {
-      "name": "시아니클1945",
-      "viewers": 24,
-      "category": "게임",
-      "title": "(잡담&상담,대리 두 손 벌려 환영)읍읍",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20354363"
     },
     {
       "name": "태평창",
@@ -299,6 +331,14 @@
       "link": "https://chzzk.naver.com/live/20354758"
     },
     {
+      "name": "테나님",
+      "viewers": 16,
+      "category": "배틀그라운드",
+      "title": "🌊 휴가는 역시 시원한 에란겔로? 🥽 !딜룰렛 마감",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20352339"
+    },
+    {
       "name": "미어킴",
       "viewers": 16,
       "category": "마인크래프트",
@@ -307,52 +347,28 @@
       "link": "https://chzzk.naver.com/live/20353165"
     },
     {
-      "name": "하징 Hajing",
-      "viewers": 15,
-      "category": "오버워치",
-      "title": "[신입❤️/오버워치] 생배 빠대 50승 하기 >0<!",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20353324"
-    },
-    {
-      "name": "김지복",
-      "viewers": 14,
-      "category": "로스트아크",
-      "title": "내일 벨가르딘!!!!!!!!!!!!!!!!!!",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20354225"
-    },
-    {
-      "name": "스피릿 Spirit",
-      "viewers": 14,
-      "category": "스타크래프트",
-      "title": "더워서 오늘 승천함.. 협동전. 전투자극제 15일 무료!",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20355221"
-    },
-    {
-      "name": "빨간달빛",
-      "viewers": 13,
-      "category": "발로란트",
-      "title": "올만에 일찍 발로란트 킨당 (시참 ㄱㄴ,합방 ㄱㄴ,사람 많으면 내전(10",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20355099"
-    },
-    {
-      "name": "어나랑",
-      "viewers": 13,
-      "category": "로스트아크",
-      "title": "잔잔로아 3막 하드 트라이",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20354052"
-    },
-    {
-      "name": "겜브링 GGAM BRING",
+      "name": "",
       "title": "롤 클래식: LCK 레전드 매치",
       "viewers": 5745,
       "viewers_str": "5,745명",
       "platform": "YouTube Live",
       "link": "https://www.youtube.com/watch?v=15S9jLJcqCA"
+    },
+    {
+      "name": "이스코어",
+      "title": "[🔴LIVE] 야인시대 라이브 스트리밍 #빽드 #야인시대",
+      "viewers": 1974,
+      "viewers_str": "1,974명",
+      "platform": "YouTube Live",
+      "link": "https://www.youtube.com/watch?v=l1ivJtlM7gE"
+    },
+    {
+      "name": "주식회사 중계진",
+      "title": "[🔴LIVE] 🔥화질UP🔥KBS 24시간 무한 사극 태조왕건 - 대조영 ",
+      "viewers": 978,
+      "viewers_str": "978명",
+      "platform": "YouTube Live",
+      "link": "https://www.youtube.com/watch?v=1bROU5AqM8w"
     },
     {
       "name": "인피쉰",
@@ -379,7 +395,7 @@
       "link": "https://www.youtube.com/watch?v=tjcfSmnJp8E"
     },
     {
-      "name": "발로란트 챔피언스 투어",
+      "name": "VALORANT Champions Tour E",
       "title": "Small stream coz didn't sleep ! Valorant",
       "viewers": 213,
       "viewers_str": "213명",
@@ -395,12 +411,20 @@
       "link": "https://www.youtube.com/watch?v=XRF86MdTKiw"
     },
     {
-      "name": "호지윤",
+      "name": "",
       "title": "6시공지기다리면서 시세분석들어갑니다 스케줄받습니다 FC온라인 피파4 마빡",
       "viewers": 116,
       "viewers_str": "116명",
       "platform": "YouTube Live",
       "link": "https://www.youtube.com/watch?v=3F-eR_yFrG0"
+    },
+    {
+      "name": "인피쉰",
+      "title": "스타 짭제 천상계게임",
+      "viewers": 109,
+      "viewers_str": "109명",
+      "platform": "YouTube Live",
+      "link": "https://www.youtube.com/watch?v=YxDzYu1K-ts"
     },
     {
       "name": "버섯도리",
@@ -411,7 +435,7 @@
       "link": "https://www.youtube.com/watch?v=fzXOjb_j6gc"
     },
     {
-      "name": "테스터훈 TesterHoon",
+      "name": "롤체하는_삼디",
       "title": "TFT C1 신입 8일차 나보다 잘하는 사람 입장 ㄱ",
       "viewers": 80,
       "viewers_str": "80명",
@@ -441,23 +465,7 @@
       "viewers_str": "10명",
       "platform": "YouTube Live",
       "link": "https://www.youtube.com/watch?v=1a6umWWzlpE"
-    },
-    {
-      "name": "발로란트 챔피언스 투어",
-      "title": "1부 발로란트 시참 ,  2부 키움  vs 롯데 중계",
-      "viewers": 10,
-      "viewers_str": "10명",
-      "platform": "YouTube Live",
-      "link": "https://www.youtube.com/watch?v=Ctr_UiYBPSk"
-    },
-    {
-      "name": "ATEEZ",
-      "title": "[발로란트 라이브] [아시아 서버]  천천히 꾸준히",
-      "viewers": 6,
-      "viewers_str": "6명",
-      "platform": "YouTube Live",
-      "link": "https://www.youtube.com/watch?v=_YDxwM3s1VU"
     }
   ],
-  "fetched": "2026-08-04T18:03:35"
+  "fetched": "2026-08-04T18:03:37"
 }
