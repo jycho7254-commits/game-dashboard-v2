@@ -2,8 +2,8 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "26,700",
-      "channels": "148",
+      "viewers": "16,314",
+      "channels": "152",
       "link": "https://chzzk.naver.com"
     },
     {
@@ -21,17 +21,17 @@
     },
     {
       "game": "롤",
-      "viewers": 22760,
+      "viewers": 11920,
       "channels": 20
     },
     {
       "game": "발로란트",
-      "viewers": 51,
+      "viewers": 47,
       "channels": 20
     },
     {
       "game": "오버워치",
-      "viewers": 58,
+      "viewers": 83,
       "channels": 20
     },
     {
@@ -41,7 +41,7 @@
     },
     {
       "game": "마인크래프트",
-      "viewers": 116,
+      "viewers": 549,
       "channels": 20
     },
     {
@@ -67,12 +67,12 @@
   ],
   "streamers": [
     {
-      "name": "LCK",
-      "viewers": 22611,
+      "name": "강퀴88",
+      "viewers": 11711,
       "category": "롤",
       "title": "삼성 텔레콤 vs 이걸 CJ 롤스터가 | 롤 클래식: LCK 레전드 매치",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20356686"
+      "link": "https://chzzk.naver.com/live/20357404"
     },
     {
       "name": "쫀지",
@@ -89,6 +89,14 @@
       "title": "PBE에 랭크가 도입이됐다!?",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20354348"
+    },
+    {
+      "name": "위구리",
+      "viewers": 425,
+      "category": "마인크래프트",
+      "title": "정답은 낚시에 있었어.",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20356706"
     },
     {
       "name": "도읍지",
@@ -163,36 +171,36 @@
       "link": "https://chzzk.naver.com/live/20359728"
     },
     {
+      "name": "헛개heosgea",
+      "viewers": 48,
+      "category": "롤",
+      "title": "삼성 텔레콤 vs 이걸 CJ 롤스터가 | 롤 클래식: LCK 레전드 매치",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20357580"
+    },
+    {
+      "name": "채수냥",
+      "viewers": 47,
+      "category": "롤",
+      "title": "무수면 롤대녀",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20350352"
+    },
+    {
+      "name": "니야",
+      "viewers": 44,
+      "category": "마인크래프트",
+      "title": "콩콩촌 2일차 (,,⁃ ⩊ ⁃,,)",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20356880"
+    },
+    {
       "name": "시아니클1945",
       "viewers": 36,
       "category": "게임",
       "title": "(잡담&상담,대리 두 손 벌려 환영)읍읍",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20354363"
-    },
-    {
-      "name": "숀쟝",
-      "viewers": 36,
-      "category": "마인크래프트",
-      "title": "콩콩촌2일차",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20356781"
-    },
-    {
-      "name": "만만수o",
-      "viewers": 33,
-      "category": "롤",
-      "title": "[롤 5:5 내전] 20인 내전 가보자잇",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20354655"
-    },
-    {
-      "name": "별풍이",
-      "viewers": 29,
-      "category": "롤",
-      "title": "롤 내전 방송! 10인, 20인 내전! 즐겁게 즐기실 분들 모두 환영합니",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20358440"
     },
     {
       "name": "인파쓰",
@@ -219,6 +227,14 @@
       "link": "https://chzzk.naver.com/live/20356739"
     },
     {
+      "name": "kiyoi",
+      "viewers": 25,
+      "category": "오버워치",
+      "title": "일본여행가자 ㅋㅋ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20354458"
+    },
+    {
       "name": "쉐입",
       "viewers": 24,
       "category": "FC온라인",
@@ -243,20 +259,20 @@
       "link": "https://chzzk.naver.com/live/20302166"
     },
     {
-      "name": "태평창",
-      "viewers": 20,
-      "category": "롤",
-      "title": "[롤 내전] 내전  돌리면서 리모델링 공사중",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20354532"
-    },
-    {
       "name": "한망울",
       "viewers": 19,
       "category": "롤",
       "title": "모! 삼성 텔레콤 vs 이걸 CH 롤스터가 옛날 롤! 이라고! | #LC",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20359547"
+    },
+    {
+      "name": "돋개",
+      "viewers": 19,
+      "category": "롤",
+      "title": "LCK 롤 클래식 같이봐유 / 삼성 텔레콤 vs 이걸 CJ 롤스터가",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20357612"
     },
     {
       "name": "벨라레타",
@@ -275,37 +291,21 @@
       "link": "https://chzzk.naver.com/live/20358934"
     },
     {
+      "name": "이차가식기전에",
+      "viewers": 17,
+      "category": "롤",
+      "title": "C1 2346 이차식 / 관피, 롤재판",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20351627"
+    },
+    {
       "name": "금수 푸뽀",
       "viewers": 16,
       "category": "배틀그라운드",
       "title": "실친이랑 배그 (1부 세피리아 2부 개처웃긴듀오운전 3부 배그 ) ฅ^•",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20304405"
-    },
-    {
-      "name": "김어제",
-      "viewers": 16,
-      "category": "마인크래프트",
-      "title": "2부 인생 처음 엔더 드래곤 켠왕.",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20355086"
-    },
-    {
-      "name": "김지복",
-      "viewers": 16,
-      "category": "로스트아크",
-      "title": "내일 벨가르딘!!!!!!!!!!!!!!!!!!",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20354225"
-    },
-    {
-      "name": "깝도이닷",
-      "viewers": 16,
-      "category": "스타크래프트",
-      "title": "2026.8.4(화) [깝도이스타 빨무 팀플 StarCraft",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20357830"
     }
   ],
-  "fetched": "2026-08-04T19:32:12"
+  "fetched": "2026-08-04T19:32:16"
 }
