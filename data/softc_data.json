@@ -2,8 +2,8 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "1,410",
-      "channels": "112",
+      "viewers": "1,452",
+      "channels": "110",
       "link": "https://chzzk.naver.com"
     },
     {
@@ -26,7 +26,7 @@
     },
     {
       "game": "발로란트",
-      "viewers": 107,
+      "viewers": 106,
       "channels": 20
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "game": "배틀그라운드",
-      "viewers": 61,
+      "viewers": 104,
       "channels": 20
     },
     {
@@ -155,6 +155,14 @@
       "link": "https://chzzk.naver.com/live/20367557"
     },
     {
+      "name": "장꾸야 놀자",
+      "viewers": 28,
+      "category": "배틀그라운드",
+      "title": "<시참> 스배 / 팔로우 ㄱㄱ [신입] ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20365893"
+    },
+    {
       "name": "청아하게",
       "viewers": 27,
       "category": "로스트아크",
@@ -219,6 +227,14 @@
       "link": "https://chzzk.naver.com/live/20368943"
     },
     {
+      "name": "도르밍",
+      "viewers": 17,
+      "category": "배틀그라운드",
+      "title": "우당탕탕 4인큐 (w,!멤버)",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20368077"
+    },
+    {
       "name": "r1m마싯게타는놈",
       "viewers": 14,
       "category": "게임",
@@ -251,12 +267,28 @@
       "link": "https://chzzk.naver.com/live/20368968"
     },
     {
+      "name": "말티쭈",
+      "viewers": 11,
+      "category": "발로란트",
+      "title": "짧게 치고 빠지기",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20369039"
+    },
+    {
       "name": "아드노",
       "viewers": 11,
       "category": "오버워치",
       "title": "나 이제 안란 원챔 할래",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20369098"
+    },
+    {
+      "name": "물식이",
+      "viewers": 10,
+      "category": "배틀그라운드",
+      "title": "물개와 스쿼드",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20367837"
     },
     {
       "name": "응시z",
@@ -273,39 +305,7 @@
       "title": "초보",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20369349"
-    },
-    {
-      "name": "권동호",
-      "viewers": 8,
-      "category": "발로란트",
-      "title": "치지직 아재발로란트 다이아지옥 시참경쟁o 욕자제하는 방송",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20368093"
-    },
-    {
-      "name": "꼬맹ing",
-      "viewers": 8,
-      "category": "발로란트",
-      "title": "아섭 플래런 ʚ₍⑅ᐢ‸ ̫ ‸ᐢ₎ɞ !시참 !룰렛",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20369002"
-    },
-    {
-      "name": "릴썬",
-      "viewers": 8,
-      "category": "오버워치",
-      "title": "오바와치 힐러 플래 북벌",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20369011"
-    },
-    {
-      "name": "콜라희",
-      "viewers": 8,
-      "category": "배틀그라운드",
-      "title": "[2부: 배그] 가보쟈ㅏㅏㅏㅏㅏ[1부: 오버워치] 오랜만에 왔더니 갑자기",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20367195"
     }
   ],
-  "fetched": "2026-08-05T08:42:50"
+  "fetched": "2026-08-05T08:42:53"
 }
