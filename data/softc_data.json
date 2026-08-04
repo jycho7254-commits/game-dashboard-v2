@@ -2,8 +2,8 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "3,189",
-      "channels": "166",
+      "viewers": "3,389",
+      "channels": "164",
       "link": "https://chzzk.naver.com"
     },
     {
@@ -21,17 +21,17 @@
     },
     {
       "game": "롤",
-      "viewers": 106,
+      "viewers": 260,
       "channels": 20
     },
     {
       "game": "발로란트",
-      "viewers": 87,
+      "viewers": 90,
       "channels": 20
     },
     {
       "game": "오버워치",
-      "viewers": 210,
+      "viewers": 253,
       "channels": 20
     },
     {
@@ -107,6 +107,14 @@
       "link": "https://chzzk.naver.com/live/20356008"
     },
     {
+      "name": "레고77",
+      "viewers": 182,
+      "category": "롤",
+      "title": "2부 12년간 챌 대머리 롤 클래식 전설 티어 향해!",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20361596"
+    },
+    {
       "name": "만 득",
       "viewers": 176,
       "category": "마인크래프트",
@@ -145,6 +153,14 @@
       "title": "1525점 시작) 반갑습니다",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20362334"
+    },
+    {
+      "name": "헤이 heyy",
+      "viewers": 56,
+      "category": "오버워치",
+      "title": "F world",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20359252"
     },
     {
       "name": "코리수",
@@ -211,12 +227,20 @@
       "link": "https://chzzk.naver.com/live/20367082"
     },
     {
-      "name": "태평창",
-      "viewers": 22,
+      "name": "꿀유자",
+      "viewers": 20,
       "category": "롤",
-      "title": "[롤 내전] 내전",
+      "title": "롤뉴비가 로치원생들이랑 협곡으로 떠나욥 (╹ڡ╹ )",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20354532"
+      "link": "https://chzzk.naver.com/live/20357087"
+    },
+    {
+      "name": "냉이킴",
+      "viewers": 20,
+      "category": "롤",
+      "title": "짧게 롤 하깅",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20360296"
     },
     {
       "name": "루태",
@@ -281,31 +305,7 @@
       "title": "[시참서버] 마크 픽셀몬(포켓몬) 서버 오픈~_~",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20357872"
-    },
-    {
-      "name": "혼낙",
-      "viewers": 12,
-      "category": "스타크래프트",
-      "title": "스타1vs스타2",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20361081"
-    },
-    {
-      "name": "예쁘찌냐",
-      "viewers": 11,
-      "category": "오버워치",
-      "title": "♡오버워치 라마트라로 팟찌먹기 미션도전! 시참가능 ( ღ>ᴗ<ღ ) '♡",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20362511"
-    },
-    {
-      "name": "체이 서",
-      "viewers": 11,
-      "category": "오버워치",
-      "title": "[스타디움] 보안관 서버정상화 !! 달리쟈~~  (맞팔/구독/후원/미션 ",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20358743"
     }
   ],
-  "fetched": "2026-08-05T00:55:36"
+  "fetched": "2026-08-05T00:55:42"
 }
