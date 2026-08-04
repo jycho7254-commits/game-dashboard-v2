@@ -2,7 +2,7 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "2,191",
+      "viewers": "2,188",
       "channels": "121",
       "link": "https://chzzk.naver.com"
     },
@@ -16,7 +16,7 @@
   "categories": [
     {
       "game": "게임",
-      "viewers": 216,
+      "viewers": 217,
       "channels": 20
     },
     {
@@ -26,7 +26,7 @@
     },
     {
       "game": "발로란트",
-      "viewers": 133,
+      "viewers": 87,
       "channels": 20
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "game": "배틀그라운드",
-      "viewers": 103,
+      "viewers": 145,
       "channels": 20
     },
     {
@@ -147,12 +147,12 @@
       "link": "https://chzzk.naver.com/live/20365398"
     },
     {
-      "name": "NS Rb",
+      "name": "얍쭈",
       "viewers": 39,
-      "category": "발로란트",
-      "title": "NS Rb / 짧방",
+      "category": "배틀그라운드",
+      "title": "열대야엔 배그",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20367992"
+      "link": "https://chzzk.naver.com/live/20365663"
     },
     {
       "name": "하예솜",
@@ -251,20 +251,12 @@
       "link": "https://chzzk.naver.com/live/20367994"
     },
     {
-      "name": "고망지",
+      "name": "이 채린",
       "viewers": 14,
       "category": "배틀그라운드",
-      "title": "그저 배그가 좋은 청년",
+      "title": "덥다 더웡 ",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20355502"
-    },
-    {
-      "name": "용사 팽동호",
-      "viewers": 14,
-      "category": "배틀그라운드",
-      "title": "유입환영) 🌃 잔잔한 새벽 배 긁으며 배그 레쓰기릿~",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20367474"
+      "link": "https://chzzk.naver.com/live/20356739"
     },
     {
       "name": "시스네",
@@ -275,12 +267,20 @@
       "link": "https://chzzk.naver.com/live/20364740"
     },
     {
-      "name": "준박스",
-      "viewers": 12,
+      "name": "순두둥",
+      "viewers": 13,
       "category": "배틀그라운드",
-      "title": "[치킨은 요기로] 2티어 허위매물 레쓰고 김선남 팀 / 2부 로치원 롤 ",
+      "title": "[!킬룰렛 open][시참][유입환영] 1부_칼바람둥 / 2부_배그둥(미",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20357593"
+      "link": "https://chzzk.naver.com/live/20366144"
+    },
+    {
+      "name": "산구리",
+      "viewers": 12,
+      "category": "게임",
+      "title": "전 설 노 방 종 ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20357694"
     },
     {
       "name": "청아하게",
@@ -291,21 +291,21 @@
       "link": "https://chzzk.naver.com/live/20365540"
     },
     {
-      "name": "삭초이",
-      "viewers": 11,
-      "category": "게임",
-      "title": "1부 부계정 야생 2부 돌붕이들 자랭(산구리+삭청자들)",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20363694"
-    },
-    {
       "name": "감성대왕",
       "viewers": 11,
       "category": "배틀그라운드",
       "title": "<8월 딜룰렛 오픈 > 더이상 딜은 안올리겠찌? 다 까버령 확쒸 <맞팔/",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20359777"
+    },
+    {
+      "name": "노노하",
+      "viewers": 11,
+      "category": "로스트아크",
+      "title": "여러분의 직업도 마법소녀이신가요 ★",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20366601"
     }
   ],
-  "fetched": "2026-08-05T05:43:19"
+  "fetched": "2026-08-05T05:43:24"
 }
