@@ -248,16 +248,16 @@
   },
   {
     "rank": 20,
-    "title": "学園アイドルマスター",
-    "developer": "Bandai Namco Entertainment Inc.",
+    "title": "Pokémon GO",
+    "developer": "Scopely Explore, Inc.",
     "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.bandainamcoent.idolmaster_gakuen",
-    "local_name": "学園アイドルマスター",
-    "icon": "https://play-lh.googleusercontent.com/ch_SGwCMoLElrzColmSthRPYxzv608YoyBx4tXY3ciM8Bg4fLxKhRHdeoqPSbygFruy62D9p5EdGAwLW8KGTfwI",
-    "est_revenue": 2520035,
-    "est_revenue_fmt": "$2.52M",
-    "est_revenue_won": "37.8억"
+    "rating": 3.5,
+    "app_id": "com.nianticlabs.pokemongo",
+    "local_name": "Pokémon GO",
+    "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
+    "est_revenue": 2058891,
+    "est_revenue_fmt": "$2.06M",
+    "est_revenue_won": "30.9억"
   },
   {
     "rank": 21,
@@ -274,16 +274,16 @@
   },
   {
     "rank": 22,
-    "title": "Pokémon GO",
-    "developer": "Scopely Explore, Inc.",
+    "title": "学園アイドルマスター",
+    "developer": "Bandai Namco Entertainment Inc.",
     "genre": "Game",
-    "rating": 3.5,
-    "app_id": "com.nianticlabs.pokemongo",
-    "local_name": "Pokémon GO",
-    "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
-    "est_revenue": 2058891,
-    "est_revenue_fmt": "$2.06M",
-    "est_revenue_won": "30.9억"
+    "rating": 4.6,
+    "app_id": "com.bandainamcoent.idolmaster_gakuen",
+    "local_name": "学園アイドルマスター",
+    "icon": "https://play-lh.googleusercontent.com/ch_SGwCMoLElrzColmSthRPYxzv608YoyBx4tXY3ciM8Bg4fLxKhRHdeoqPSbygFruy62D9p5EdGAwLW8KGTfwI",
+    "est_revenue": 2520035,
+    "est_revenue_fmt": "$2.52M",
+    "est_revenue_won": "37.8억"
   },
   {
     "rank": 23,
@@ -352,19 +352,6 @@
   },
   {
     "rank": 28,
-    "title": "放置少女 - 百花繚乱の萌姫たち",
-    "developer": "C4 Connect Inc.",
-    "genre": "Game",
-    "rating": 4,
-    "app_id": "jp.glee.girl",
-    "local_name": "放置少女 - 百花繚乱の萌姫たち",
-    "icon": "https://play-lh.googleusercontent.com/fkp_VLPLnTcgHIdZutQCvIJhEy5BkpetWeKonidaYW8HrnM-ASjALh2tK5xkku3jJFc6gMY1LF7caAthHTBBFg",
-    "est_revenue": 1589965,
-    "est_revenue_fmt": "$1.59M",
-    "est_revenue_won": "23.8억"
-  },
-  {
-    "rank": 29,
     "title": "あんさんぶるスターズ！！Music",
     "developer": "Happy Elements K.K",
     "genre": "Game",
@@ -375,6 +362,19 @@
     "est_revenue": 1805432,
     "est_revenue_fmt": "$1.81M",
     "est_revenue_won": "27.1억"
+  },
+  {
+    "rank": 29,
+    "title": "放置少女 - 百花繚乱の萌姫たち",
+    "developer": "C4 Connect Inc.",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "jp.glee.girl",
+    "local_name": "放置少女 - 百花繚乱の萌姫たち",
+    "icon": "https://play-lh.googleusercontent.com/fkp_VLPLnTcgHIdZutQCvIJhEy5BkpetWeKonidaYW8HrnM-ASjALh2tK5xkku3jJFc6gMY1LF7caAthHTBBFg",
+    "est_revenue": 1589965,
+    "est_revenue_fmt": "$1.59M",
+    "est_revenue_won": "23.8억"
   },
   {
     "rank": 30,
@@ -404,19 +404,6 @@
   },
   {
     "rank": 32,
-    "title": "Gardenscapes",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.playrix.gardenscapes",
-    "local_name": "Gardenscapes",
-    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
-    "est_revenue": 1453364,
-    "est_revenue_fmt": "$1.45M",
-    "est_revenue_won": "21.8억"
-  },
-  {
-    "rank": 33,
     "title": "LINE Pokopoko",
     "developer": "LINE (LY Corporation)",
     "genre": "Game",
@@ -427,6 +414,19 @@
     "est_revenue": 1519064,
     "est_revenue_fmt": "$1.52M",
     "est_revenue_won": "22.8억"
+  },
+  {
+    "rank": 33,
+    "title": "Gardenscapes",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.playrix.gardenscapes",
+    "local_name": "Gardenscapes",
+    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
+    "est_revenue": 1453364,
+    "est_revenue_fmt": "$1.45M",
+    "est_revenue_won": "21.8억"
   },
   {
     "rank": 34,
@@ -508,19 +508,6 @@
   },
   {
     "rank": 40,
-    "title": "デュエル・マスターズ プレイス",
-    "developer": "TOMY COMPANY,LTD.",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "jp.co.takaratomy.duelmastersplays",
-    "local_name": "デュエル・マスターズ プレイス",
-    "icon": "https://play-lh.googleusercontent.com/4xWJOqnPgredgpKcDDtXtNKOlGKM-uF4TVN-HP0PE8BEzigDazupyWgfETHUeysxDSl-pXFffT_e015_gJWbQQ",
-    "est_revenue": 1102384,
-    "est_revenue_fmt": "$1.10M",
-    "est_revenue_won": "16.5억"
-  },
-  {
-    "rank": 41,
     "title": "Tasty Travels: Merge Game",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -533,20 +520,20 @@
     "est_revenue_won": "15.4억"
   },
   {
-    "rank": 42,
-    "title": "Paranoize",
-    "developer": "ZigZaGame Inc.",
+    "rank": 41,
+    "title": "デュエル・マスターズ プレイス",
+    "developer": "TOMY COMPANY,LTD.",
     "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.zigzagame.paranoize",
-    "local_name": "Paranoize",
-    "icon": "https://play-lh.googleusercontent.com/7LQtnB1OywAs4z9kyDT5NiAQtoE_TNMU6OdiPAm0znOARQB6lOlxZ7Dq9SQ8kdCvBAsDjGQKzhV2JMHHN2iuQ5g",
-    "est_revenue": 901821,
-    "est_revenue_fmt": "$902K",
-    "est_revenue_won": "13.5억"
+    "rating": 4.3,
+    "app_id": "jp.co.takaratomy.duelmastersplays",
+    "local_name": "デュエル・マスターズ プレイス",
+    "icon": "https://play-lh.googleusercontent.com/4xWJOqnPgredgpKcDDtXtNKOlGKM-uF4TVN-HP0PE8BEzigDazupyWgfETHUeysxDSl-pXFffT_e015_gJWbQQ",
+    "est_revenue": 1102384,
+    "est_revenue_fmt": "$1.10M",
+    "est_revenue_won": "16.5억"
   },
   {
-    "rank": 43,
+    "rank": 42,
     "title": "Royal Kingdom",
     "developer": "Dream Games, Ltd.",
     "genre": "Game",
@@ -557,6 +544,19 @@
     "est_revenue": 930755,
     "est_revenue_fmt": "$931K",
     "est_revenue_won": "14.0억"
+  },
+  {
+    "rank": 43,
+    "title": "Paranoize",
+    "developer": "ZigZaGame Inc.",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "com.zigzagame.paranoize",
+    "local_name": "Paranoize",
+    "icon": "https://play-lh.googleusercontent.com/7LQtnB1OywAs4z9kyDT5NiAQtoE_TNMU6OdiPAm0znOARQB6lOlxZ7Dq9SQ8kdCvBAsDjGQKzhV2JMHHN2iuQ5g",
+    "est_revenue": 901821,
+    "est_revenue_fmt": "$902K",
+    "est_revenue_won": "13.5억"
   },
   {
     "rank": 44,
@@ -573,19 +573,6 @@
   },
   {
     "rank": 45,
-    "title": "グランブルーファンタジー",
-    "developer": "mobage",
-    "genre": "Game",
-    "rating": 3.9,
-    "app_id": "jp.mbga.a12016007.lite",
-    "local_name": "グランブルーファンタジー",
-    "icon": "https://play-lh.googleusercontent.com/kezieGaFO7Jl78eSwpJORGTrNGWGt1_2RHtVLtd8SrJ7QBFBnpLYQ-MmV5pUVD2JBcpuW3nqYt4Dc5wXHlWpgR8",
-    "est_revenue": 874380,
-    "est_revenue_fmt": "$874K",
-    "est_revenue_won": "13.1억"
-  },
-  {
-    "rank": 46,
     "title": "パズル＆ドラゴンズ(Puzzle & Dragons)",
     "developer": "GungHo Online Entertainment, Inc.",
     "genre": "Game",
@@ -596,6 +583,19 @@
     "est_revenue": 1392342,
     "est_revenue_fmt": "$1.39M",
     "est_revenue_won": "20.9억"
+  },
+  {
+    "rank": 46,
+    "title": "グランブルーファンタジー",
+    "developer": "mobage",
+    "genre": "Game",
+    "rating": 3.9,
+    "app_id": "jp.mbga.a12016007.lite",
+    "local_name": "グランブルーファンタジー",
+    "icon": "https://play-lh.googleusercontent.com/kezieGaFO7Jl78eSwpJORGTrNGWGt1_2RHtVLtd8SrJ7QBFBnpLYQ-MmV5pUVD2JBcpuW3nqYt4Dc5wXHlWpgR8",
+    "est_revenue": 874380,
+    "est_revenue_fmt": "$874K",
+    "est_revenue_won": "13.1억"
   },
   {
     "rank": 47,
@@ -612,6 +612,19 @@
   },
   {
     "rank": 48,
+    "title": "Homescapes",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.playrix.homescapes",
+    "local_name": "Homescapes",
+    "icon": "https://play-lh.googleusercontent.com/ft9OqNwpLaL45Jq3YuSYt0wm3y_j-YteTQqfq4Cu2PRWTrkFMuhlmUHmxggNxOP96gxR9Q3ML1Yt87iV3zD5fg",
+    "est_revenue": 0,
+    "est_revenue_fmt": "",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 49,
     "title": "Last Z: Survival Shooter",
     "developer": "Omnilojo Pte Ltd",
     "genre": "Game",
@@ -624,7 +637,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 49,
+    "rank": 50,
     "title": "転生したらスライムだった件 魔王と竜の建国譚 まおりゅう",
     "developer": "Bandai Namco Entertainment Inc.",
     "genre": "Game",
@@ -632,19 +645,6 @@
     "app_id": "com.bandainamcoent.tensuramrkrelease",
     "local_name": "転生したらスライムだった件 魔王と竜の建国譚 まおりゅう",
     "icon": "https://play-lh.googleusercontent.com/XHppCshR7n1cbR2_sOoxe33acoy1nNFbzUBQ8fjLKavfPfQTLKtyONq3TCLpLfjZ08XEPx5nVcOGEToXO7qMEA",
-    "est_revenue": 0,
-    "est_revenue_fmt": "",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 50,
-    "title": "Homescapes",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.playrix.homescapes",
-    "local_name": "Homescapes",
-    "icon": "https://play-lh.googleusercontent.com/ft9OqNwpLaL45Jq3YuSYt0wm3y_j-YteTQqfq4Cu2PRWTrkFMuhlmUHmxggNxOP96gxR9Q3ML1Yt87iV3zD5fg",
     "est_revenue": 0,
     "est_revenue_fmt": "",
     "est_revenue_won": ""
