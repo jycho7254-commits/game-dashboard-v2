@@ -2,8 +2,8 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "5,919",
-      "channels": "135",
+      "viewers": "5,967",
+      "channels": "134",
       "link": "https://chzzk.naver.com"
     },
     {
@@ -21,7 +21,7 @@
     },
     {
       "game": "롤",
-      "viewers": 3507,
+      "viewers": 3552,
       "channels": 20
     },
     {
@@ -51,8 +51,8 @@
     },
     {
       "game": "로스트아크",
-      "viewers": 169,
-      "channels": 19
+      "viewers": 172,
+      "channels": 20
     },
     {
       "game": "FC온라인",
@@ -113,6 +113,14 @@
       "title": "올 챔피언,철권 텍프,롤 골드의 사나이",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20366723"
+    },
+    {
+      "name": "향토끼 scentrabbit",
+      "viewers": 78,
+      "category": "롤",
+      "title": "본캐 5연패 후 분노의 아이언 솔랭! 브론즈갈꺼니깐",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20355868"
     },
     {
       "name": "1Chon",
@@ -193,14 +201,6 @@
       "title": "우와 17시즌 랭겜이다",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20361691"
-    },
-    {
-      "name": "치치94",
-      "viewers": 24,
-      "category": "롤",
-      "title": "다이아2 노방종 500만원 잘가보겠습니다\n",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20261162"
     },
     {
       "name": "호서윤",
@@ -307,5 +307,5 @@
       "link": "https://chzzk.naver.com/live/20364862"
     }
   ],
-  "fetched": "2026-08-05T04:41:26"
+  "fetched": "2026-08-05T04:41:27"
 }
