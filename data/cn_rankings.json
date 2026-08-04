@@ -100,20 +100,20 @@
   },
   {
     "rank": 12,
-    "title": "蛋仔派对",
-    "title_kr": "",
-    "developer": "网易移动游戏",
-    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/4f/10/044f101c-3d94-7c17-fdda-10d26fb53077/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-    "app_id": "1544884479",
-    "genre": "Mobile Game"
-  },
-  {
-    "rank": 13,
     "title": "捕鱼大作战-街机打鱼游戏王者",
     "title_kr": "",
     "developer": "Tuyoo Online HK Limited",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/32/1e/be321e5d-a781-4d42-489c-6afc7abceae6/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
     "app_id": "1525863146",
+    "genre": "Mobile Game"
+  },
+  {
+    "rank": 13,
+    "title": "蛋仔派对",
+    "title_kr": "",
+    "developer": "网易移动游戏",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/4f/10/044f101c-3d94-7c17-fdda-10d26fb53077/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+    "app_id": "1544884479",
     "genre": "Mobile Game"
   },
   {
@@ -136,6 +136,15 @@
   },
   {
     "rank": 16,
+    "title": "英雄杀",
+    "title_kr": "",
+    "developer": "Tencent Mobile Games",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/de/17/6dde17bc-c389-a7cb-592f-b1c0eb5e72a7/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+    "app_id": "483330461",
+    "genre": "Mobile Game"
+  },
+  {
+    "rank": 17,
     "title": "腾讯欢乐斗地主",
     "title_kr": "",
     "developer": "Shenzhen Tencent Tianyou Technology Ltd",
@@ -144,7 +153,7 @@
     "genre": "Mobile Game"
   },
   {
-    "rank": 17,
+    "rank": 18,
     "title": "时尚百货城",
     "title_kr": "",
     "developer": "深圳市爱的番茄科技有限公司",
@@ -153,21 +162,12 @@
     "genre": "Mobile Game"
   },
   {
-    "rank": 18,
+    "rank": 19,
     "title": "实况足球",
     "title_kr": "",
     "developer": "网易移动游戏",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/dd/ef/dcddef34-f9ed-f8e7-f23c-8b4d557381d1/PesMobile-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
     "app_id": "1347776121",
-    "genre": "Mobile Game"
-  },
-  {
-    "rank": 19,
-    "title": "FC足球世界-杯赛",
-    "title_kr": "",
-    "developer": "Tencent Mobile Games",
-    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/b2/60/a6b26096-d0e2-dbe4-8a88-2b04782874c1/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
-    "app_id": "1305599559",
     "genre": "Mobile Game"
   },
   {
@@ -181,11 +181,11 @@
   },
   {
     "rank": 21,
-    "title": "英雄杀",
+    "title": "FC足球世界-杯赛",
     "title_kr": "",
     "developer": "Tencent Mobile Games",
-    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/de/17/6dde17bc-c389-a7cb-592f-b1c0eb5e72a7/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
-    "app_id": "483330461",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/b2/60/a6b26096-d0e2-dbe4-8a88-2b04782874c1/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+    "app_id": "1305599559",
     "genre": "Mobile Game"
   },
   {
@@ -217,20 +217,20 @@
   },
   {
     "rank": 25,
+    "title": "途游休闲捕鱼-百万倍街机王者大作战",
+    "title_kr": "",
+    "developer": "TYSG Games",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/29/9b/84299b90-0b1d-1322-abdb-26bd5cce1b10/AppIcon-1x_U007epad-0-11-0-85-220-0.png/180x180bb.png",
+    "app_id": "1570790378",
+    "genre": "Mobile Game"
+  },
+  {
+    "rank": 26,
     "title": "QQ飞车",
     "title_kr": "",
     "developer": "Shenzhen Tencent Tianyou Technology Ltd",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/e4/16/64e41658-e297-ebd2-f1a1-f45ba9ada086/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
     "app_id": "1235504705",
-    "genre": "Mobile Game"
-  },
-  {
-    "rank": 26,
-    "title": "暗区突围",
-    "title_kr": "",
-    "developer": "Shenzhen Tencent Tianyou Technology Ltd",
-    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/cc/4b/cfcc4b65-1924-9dcf-79c9-b7b356f0c280/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-    "app_id": "1505445106",
     "genre": "Mobile Game"
   },
   {
@@ -244,42 +244,15 @@
   },
   {
     "rank": 28,
-    "title": "途游休闲捕鱼-百万倍街机王者大作战",
+    "title": "暗区突围",
     "title_kr": "",
-    "developer": "TYSG Games",
-    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/29/9b/84299b90-0b1d-1322-abdb-26bd5cce1b10/AppIcon-1x_U007epad-0-11-0-85-220-0.png/180x180bb.png",
-    "app_id": "1570790378",
+    "developer": "Shenzhen Tencent Tianyou Technology Ltd",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/cc/4b/cfcc4b65-1924-9dcf-79c9-b7b356f0c280/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+    "app_id": "1505445106",
     "genre": "Mobile Game"
   },
   {
     "rank": 29,
-    "title": "绝区零 - 周年庆",
-    "title_kr": "",
-    "developer": "miHoYo Games",
-    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/73/6e/cd736e92-01df-26f6-b125-b490eb13e2b7/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
-    "app_id": "1606359076",
-    "genre": "Mobile Game"
-  },
-  {
-    "rank": 30,
-    "title": "率土之滨",
-    "title_kr": "",
-    "developer": "网易移动游戏",
-    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/04/c7/8104c705-d9b1-3690-2dfc-8e7f398affd0/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/180x180bb.png",
-    "app_id": "909211092",
-    "genre": "Mobile Game"
-  },
-  {
-    "rank": 31,
-    "title": "QQ炫舞",
-    "title_kr": "",
-    "developer": "Shenzhen Tencent Tianyou Technology Ltd",
-    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/09/ee/0609eeee-cfe9-08ed-e797-09c5941c0aaf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-    "app_id": "1219233424",
-    "genre": "Mobile Game"
-  },
-  {
-    "rank": 32,
     "title": "多乐够级",
     "title_kr": "",
     "developer": "Beijing Pengqu Technology Co.,Ltd.",
@@ -288,16 +261,7 @@
     "genre": "Mobile Game"
   },
   {
-    "rank": 33,
-    "title": "光·遇",
-    "title_kr": "",
-    "developer": "网易移动游戏",
-    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/6d/36/8f6d3684-6dba-bd81-d65c-fcd3bf83afe5/AppIcon_Netease-0-0-1x_U007emarketing-0-5-0-85-220.png/180x180bb.png",
-    "app_id": "1344733855",
-    "genre": "Mobile Game"
-  },
-  {
-    "rank": 34,
+    "rank": 30,
     "title": "捕鱼大咖-畅爽3D街机捕鱼游戏",
     "title_kr": "",
     "developer": "游酷盛世科技(北京)有限公司",
@@ -306,7 +270,34 @@
     "genre": "Mobile Game"
   },
   {
-    "rank": 35,
+    "rank": 31,
+    "title": "绝区零 - 周年庆",
+    "title_kr": "",
+    "developer": "miHoYo Games",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/73/6e/cd736e92-01df-26f6-b125-b490eb13e2b7/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+    "app_id": "1606359076",
+    "genre": "Mobile Game"
+  },
+  {
+    "rank": 32,
+    "title": "率土之滨",
+    "title_kr": "",
+    "developer": "网易移动游戏",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/04/c7/8104c705-d9b1-3690-2dfc-8e7f398affd0/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/180x180bb.png",
+    "app_id": "909211092",
+    "genre": "Mobile Game"
+  },
+  {
+    "rank": 33,
+    "title": "QQ炫舞",
+    "title_kr": "",
+    "developer": "Shenzhen Tencent Tianyou Technology Ltd",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/09/ee/0609eeee-cfe9-08ed-e797-09c5941c0aaf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+    "app_id": "1219233424",
+    "genre": "Mobile Game"
+  },
+  {
+    "rank": 34,
     "title": "永远的蔚蓝星球-周杰伦代言",
     "title_kr": "",
     "developer": "Songyue Joy",
@@ -315,7 +306,25 @@
     "genre": "Mobile Game"
   },
   {
+    "rank": 35,
+    "title": "光·遇",
+    "title_kr": "",
+    "developer": "网易移动游戏",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/6d/36/8f6d3684-6dba-bd81-d65c-fcd3bf83afe5/AppIcon_Netease-0-0-1x_U007emarketing-0-5-0-85-220.png/180x180bb.png",
+    "app_id": "1344733855",
+    "genre": "Mobile Game"
+  },
+  {
     "rank": 36,
+    "title": "鱼乐达人-王者捕鱼电玩街机打鱼游戏",
+    "title_kr": "",
+    "developer": "CoolPlus Software (HongKong) Limited",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/ce/88/f7ce88f2-da81-5b2b-3a92-3815683a39db/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+    "app_id": "1665337957",
+    "genre": "Mobile Game"
+  },
+  {
+    "rank": 37,
     "title": "超自然行动组-鬼吹灯联动",
     "title_kr": "",
     "developer": "巨人网络科技有限公司",
@@ -324,7 +333,7 @@
     "genre": "Mobile Game"
   },
   {
-    "rank": 37,
+    "rank": 38,
     "title": "三国杀",
     "title_kr": "",
     "developer": "杭州游卡网络技术有限公司",
@@ -333,21 +342,12 @@
     "genre": "Mobile Game"
   },
   {
-    "rank": 38,
+    "rank": 39,
     "title": "燕云十六声",
     "title_kr": "",
     "developer": "网易移动游戏",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/ef/9e/29ef9e76-8f20-c7e9-d745-8715f2933f31/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
     "app_id": "6475668638",
-    "genre": "Mobile Game"
-  },
-  {
-    "rank": 39,
-    "title": "鱼乐达人-王者捕鱼电玩街机打鱼游戏",
-    "title_kr": "",
-    "developer": "CoolPlus Software (HongKong) Limited",
-    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/ce/88/f7ce88f2-da81-5b2b-3a92-3815683a39db/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
-    "app_id": "1665337957",
     "genre": "Mobile Game"
   },
   {
@@ -388,20 +388,20 @@
   },
   {
     "rank": 44,
-    "title": "三国：谋定天下",
-    "title_kr": "",
-    "developer": "Shanghai Hode Information Technology Co.,Ltd.",
-    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/85/85/ca858528-d46f-52b0-8ddc-dc4ef4b214c3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-    "app_id": "6466232155",
-    "genre": "Mobile Game"
-  },
-  {
-    "rank": 45,
     "title": "三国：冰河时代",
     "title_kr": "",
     "developer": "EVISTA PTE. LTD.",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/b9/23/bab923d4-6928-8de6-96da-ff71b98270df/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
     "app_id": "6503432459",
+    "genre": "Mobile Game"
+  },
+  {
+    "rank": 45,
+    "title": "三国：谋定天下",
+    "title_kr": "",
+    "developer": "Shanghai Hode Information Technology Co.,Ltd.",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/85/85/ca858528-d46f-52b0-8ddc-dc4ef4b214c3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+    "app_id": "6466232155",
     "genre": "Mobile Game"
   },
   {
@@ -433,20 +433,20 @@
   },
   {
     "rank": 49,
-    "title": "部落冲突：皇室战争（CR）",
-    "title_kr": "",
-    "developer": "Shenzhen Tencent Tianyou Technology Ltd",
-    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/b2/f1/aab2f151-4145-bc91-2ddc-3644ae52c1ca/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
-    "app_id": "1595603720",
-    "genre": "Mobile Game"
-  },
-  {
-    "rank": 50,
     "title": "部落冲突（Clash of Clans）",
     "title_kr": "",
     "developer": "Shenzhen Tencent Tianyou Technology Ltd",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/5e/be/2a5ebeaa-839e-78ed-0891-1cdee34b0455/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
     "app_id": "1595603316",
+    "genre": "Mobile Game"
+  },
+  {
+    "rank": 50,
+    "title": "崩坏：星穹铁道",
+    "title_kr": "",
+    "developer": "miHoYo Games",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/06/80/400680c7-43f0-e4e2-9ca0-a7c3780c8467/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+    "app_id": "1523037824",
     "genre": "Mobile Game"
   }
 ]
