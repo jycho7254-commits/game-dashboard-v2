@@ -2,8 +2,8 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "5,939",
-      "channels": "140",
+      "viewers": "5,977",
+      "channels": "137",
       "link": "https://chzzk.naver.com"
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "game": "배틀그라운드",
-      "viewers": 118,
+      "viewers": 159,
       "channels": 20
     },
     {
@@ -51,8 +51,8 @@
     },
     {
       "game": "로스트아크",
-      "viewers": 196,
-      "channels": 20
+      "viewers": 193,
+      "channels": 19
     },
     {
       "game": "FC온라인",
@@ -147,6 +147,14 @@
       "link": "https://chzzk.naver.com/live/20367992"
     },
     {
+      "name": "나브1",
+      "viewers": 49,
+      "category": "배틀그라운드",
+      "title": "솔쿼드의 삶",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20362933"
+    },
+    {
       "name": "새 담",
       "viewers": 47,
       "category": "오버워치",
@@ -169,6 +177,14 @@
       "title": "⭐충동 데모닉 키우는 모코코⭐",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20366104"
+    },
+    {
+      "name": "선짱",
+      "viewers": 33,
+      "category": "배틀그라운드",
+      "title": "대회 끝w.펭상,히구히구,연주하는곰탱 + 후열 ( 김선남,히구히구,뽀요타",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20357268"
     },
     {
       "name": "맛과영양",
@@ -219,6 +235,14 @@
       "link": "https://chzzk.naver.com/live/20364857"
     },
     {
+      "name": "초 사",
+      "viewers": 15,
+      "category": "배틀그라운드",
+      "title": "배그 달려보까이이잉!!! 시참환영!",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20362695"
+    },
+    {
       "name": "뀨 미 호",
       "viewers": 14,
       "category": "롤",
@@ -235,22 +259,6 @@
       "link": "https://chzzk.naver.com/live/20365577"
     },
     {
-      "name": "이 채린",
-      "viewers": 14,
-      "category": "배틀그라운드",
-      "title": "덥다 더웡 ",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20356739"
-    },
-    {
-      "name": "순두둥",
-      "viewers": 14,
-      "category": "배틀그라운드",
-      "title": "[!킬룰렛 open][시참][유입환영] 1부_칼바람둥 / 2부_배그둥(미",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20366144"
-    },
-    {
       "name": "가마니 GAMANI",
       "viewers": 14,
       "category": "로스트아크",
@@ -265,22 +273,6 @@
       "title": "[57일] 엔더까지 1시간만에 깨겠습니다 / 심박수 100이 넘으면 룰렛",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20364740"
-    },
-    {
-      "name": "진짜진진",
-      "viewers": 12,
-      "category": "배틀그라운드",
-      "title": "평딜 올릴 시간 (시참가능)",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20366347"
-    },
-    {
-      "name": "몽 비",
-      "viewers": 12,
-      "category": "배틀그라운드",
-      "title": "[팬시참/딜룰렛on]  몽비등쟝 /ᐠ ˵> ⩊ <˵マ",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20365243"
     },
     {
       "name": "청아하게",
@@ -305,7 +297,15 @@
       "title": "[신입 15일차 / 시참 환영 ] 바보의 발로란트 2부",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20365906"
+    },
+    {
+      "name": "고망지",
+      "viewers": 11,
+      "category": "배틀그라운드",
+      "title": "그저 배그가 좋은 청년",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20355502"
     }
   ],
-  "fetched": "2026-08-05T04:36:18"
+  "fetched": "2026-08-05T04:36:21"
 }
