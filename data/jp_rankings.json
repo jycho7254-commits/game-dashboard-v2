@@ -14,19 +14,6 @@
   },
   {
     "rank": 2,
-    "title": "Zenless Zone Zero - Anniv.",
-    "developer": "COGNOSPHERE PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.5,
-    "app_id": "com.HoYoverse.Nap",
-    "local_name": "Zenless Zone Zero",
-    "icon": "https://play-lh.googleusercontent.com/-OwYJcIdDSfGJBOQozVC3kKxqnA7ev2O897twi-aVUpc8AXVMNtB3YWEXDui_V0VJxelNAbUbLXpNZj9AqWa3A",
-    "est_revenue": 14838275,
-    "est_revenue_fmt": "$14.84M",
-    "est_revenue_won": "222.6억"
-  },
-  {
-    "rank": 3,
     "title": "ホロライブドリームス",
     "developer": "QualiArts, Inc.",
     "genre": "Game",
@@ -37,6 +24,19 @@
     "est_revenue": 12460775,
     "est_revenue_fmt": "$12.46M",
     "est_revenue_won": "186.9억"
+  },
+  {
+    "rank": 3,
+    "title": "Zenless Zone Zero - Anniv.",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "genre": "Game",
+    "rating": 3.5,
+    "app_id": "com.HoYoverse.Nap",
+    "local_name": "Zenless Zone Zero",
+    "icon": "https://play-lh.googleusercontent.com/-OwYJcIdDSfGJBOQozVC3kKxqnA7ev2O897twi-aVUpc8AXVMNtB3YWEXDui_V0VJxelNAbUbLXpNZj9AqWa3A",
+    "est_revenue": 14838275,
+    "est_revenue_fmt": "$14.84M",
+    "est_revenue_won": "222.6억"
   },
   {
     "rank": 4,
@@ -53,19 +53,6 @@
   },
   {
     "rank": 5,
-    "title": "ブルーアーカイブ",
-    "developer": "Yostar, Inc.",
-    "genre": "Game",
-    "rating": 3.3,
-    "app_id": "com.YostarJP.BlueArchive",
-    "local_name": "ブルーアーカイブ",
-    "icon": "https://play-lh.googleusercontent.com/H975s6W1-boCSogzpF5_rIyawbjiXfG842ncgjIRiVGzhXHFTCVut0DkBhlDR4CgN1nn98OOC1fWN-LE7kUHnQ",
-    "est_revenue": 10000000,
-    "est_revenue_fmt": "$10.00M",
-    "est_revenue_won": "150.0억"
-  },
-  {
-    "rank": 6,
     "title": "モンスターストライク",
     "developer": "XFLAG, Inc.",
     "genre": "Game",
@@ -76,6 +63,19 @@
     "est_revenue": 8476006,
     "est_revenue_fmt": "$8.48M",
     "est_revenue_won": "127.1억"
+  },
+  {
+    "rank": 6,
+    "title": "ブルーアーカイブ",
+    "developer": "Yostar, Inc.",
+    "genre": "Game",
+    "rating": 3.3,
+    "app_id": "com.YostarJP.BlueArchive",
+    "local_name": "ブルーアーカイブ",
+    "icon": "https://play-lh.googleusercontent.com/H975s6W1-boCSogzpF5_rIyawbjiXfG842ncgjIRiVGzhXHFTCVut0DkBhlDR4CgN1nn98OOC1fWN-LE7kUHnQ",
+    "est_revenue": 10000000,
+    "est_revenue_fmt": "$10.00M",
+    "est_revenue_won": "150.0억"
   },
   {
     "rank": 7,
@@ -222,19 +222,6 @@
   },
   {
     "rank": 18,
-    "title": "トゥーンブラスト (Toon Blast)",
-    "developer": "Peak",
-    "genre": "Game",
-    "rating": 4.1,
-    "app_id": "net.peakgames.toonblast",
-    "local_name": "トゥーンブラスト (Toon Blast)",
-    "icon": "https://play-lh.googleusercontent.com/j3O3Pyk08XAv4iA4p-Irerfos8g-tLxQ3r42zlScMRsjjgnyQGeE1mqcH3aSY9wA2k6l8fBqpqEaIQfIG2gLLQ",
-    "est_revenue": 2996543,
-    "est_revenue_fmt": "$3.00M",
-    "est_revenue_won": "44.9억"
-  },
-  {
-    "rank": 19,
     "title": "NTE: Neverness to Everness",
     "developer": "N2E",
     "genre": "Game",
@@ -247,7 +234,7 @@
     "est_revenue_won": "42.3억"
   },
   {
-    "rank": 20,
+    "rank": 19,
     "title": "Royal Match",
     "developer": "Dream Games, Ltd.",
     "genre": "Game",
@@ -258,6 +245,19 @@
     "est_revenue": 2666666,
     "est_revenue_fmt": "$2.67M",
     "est_revenue_won": "40.0억"
+  },
+  {
+    "rank": 20,
+    "title": "トゥーンブラスト (Toon Blast)",
+    "developer": "Peak",
+    "genre": "Game",
+    "rating": 4.1,
+    "app_id": "net.peakgames.toonblast",
+    "local_name": "トゥーンブラスト (Toon Blast)",
+    "icon": "https://play-lh.googleusercontent.com/j3O3Pyk08XAv4iA4p-Irerfos8g-tLxQ3r42zlScMRsjjgnyQGeE1mqcH3aSY9wA2k6l8fBqpqEaIQfIG2gLLQ",
+    "est_revenue": 2996543,
+    "est_revenue_fmt": "$3.00M",
+    "est_revenue_won": "44.9억"
   },
   {
     "rank": 21,
@@ -274,19 +274,6 @@
   },
   {
     "rank": 22,
-    "title": "アークナイツ",
-    "developer": "Yostar, Inc.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.YoStarJP.Arknights",
-    "local_name": "アークナイツ",
-    "icon": "https://play-lh.googleusercontent.com/d768LvyQ1JVrv4K0900kVB-CpfKf_eFvHV22q7sLHk_JTZugf_qe4lOxbo5O_BMUO8cflqNkJk-SEshJDzX5zA",
-    "est_revenue": 2387742,
-    "est_revenue_fmt": "$2.39M",
-    "est_revenue_won": "35.8억"
-  },
-  {
-    "rank": 23,
     "title": "Wizardry Variants Daphne",
     "developer": "株式会社ドリコム",
     "genre": "Game",
@@ -299,7 +286,7 @@
     "est_revenue_won": "34.0억"
   },
   {
-    "rank": 24,
+    "rank": 23,
     "title": "信長の野望 真戦",
     "developer": "Qookka Games",
     "genre": "Game",
@@ -312,7 +299,7 @@
     "est_revenue_won": "32.4억"
   },
   {
-    "rank": 25,
+    "rank": 24,
     "title": "Pokémon GO",
     "developer": "Scopely Explore, Inc.",
     "genre": "Game",
@@ -325,7 +312,7 @@
     "est_revenue_won": "30.9억"
   },
   {
-    "rank": 26,
+    "rank": 25,
     "title": "ドラゴンクエストウォーク",
     "developer": "SQUARE ENIX Co.,Ltd.",
     "genre": "Game",
@@ -336,6 +323,19 @@
     "est_revenue": 1967382,
     "est_revenue_fmt": "$1.97M",
     "est_revenue_won": "29.5억"
+  },
+  {
+    "rank": 26,
+    "title": "アークナイツ",
+    "developer": "Yostar, Inc.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.YoStarJP.Arknights",
+    "local_name": "アークナイツ",
+    "icon": "https://play-lh.googleusercontent.com/d768LvyQ1JVrv4K0900kVB-CpfKf_eFvHV22q7sLHk_JTZugf_qe4lOxbo5O_BMUO8cflqNkJk-SEshJDzX5zA",
+    "est_revenue": 2387742,
+    "est_revenue_fmt": "$2.39M",
+    "est_revenue_won": "35.8억"
   },
   {
     "rank": 27,
@@ -365,19 +365,6 @@
   },
   {
     "rank": 29,
-    "title": "ゼンレスゾーンゼロ・クラウド版 - アニバーサリー",
-    "developer": "COGNOSPHERE PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.HoYoverse.cloudgames.Nap",
-    "local_name": "ゼンレスゾーンゼロ・クラウド版 - アニバーサリー",
-    "icon": "https://play-lh.googleusercontent.com/8OcXm10jSo4u8ED1rB8YYexPH5hp8F0QijJVQKwHmxESv0G0FkVOZALmoXRZuAxucoTV2sIeN4h5ubq9nDUO",
-    "est_revenue": 1733466,
-    "est_revenue_fmt": "$1.73M",
-    "est_revenue_won": "26.0억"
-  },
-  {
-    "rank": 30,
     "title": "Township",
     "developer": "Playrix",
     "genre": "Game",
@@ -390,7 +377,7 @@
     "est_revenue_won": "25.0억"
   },
   {
-    "rank": 31,
+    "rank": 30,
     "title": "放置少女 - 百花繚乱の萌姫たち",
     "developer": "C4 Connect Inc.",
     "genre": "Game",
@@ -401,6 +388,19 @@
     "est_revenue": 1589965,
     "est_revenue_fmt": "$1.59M",
     "est_revenue_won": "23.8억"
+  },
+  {
+    "rank": 31,
+    "title": "妖怪ウォッチ ぷにぷに",
+    "developer": "LEVEL-5 Inc.",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.Level5.YWP",
+    "local_name": "妖怪ウォッチ ぷにぷに",
+    "icon": "https://play-lh.googleusercontent.com/AZI9Tz7-HN64EOMKc0nR6U7YOCj5dNlf0M3p8DbGnCAhZE5o7553zvZhA9Ar7qAtDeJQRRWw0rmtpykTVbwV",
+    "est_revenue": 1335542,
+    "est_revenue_fmt": "$1.34M",
+    "est_revenue_won": "20.0억"
   },
   {
     "rank": 32,
@@ -430,32 +430,6 @@
   },
   {
     "rank": 34,
-    "title": "パズル＆ドラゴンズ(Puzzle & Dragons)",
-    "developer": "GungHo Online Entertainment, Inc.",
-    "genre": "Game",
-    "rating": 3.2,
-    "app_id": "jp.gungho.pad",
-    "local_name": "パズル＆ドラゴンズ(Puzzle & Dragons)",
-    "icon": "https://play-lh.googleusercontent.com/ra7eGhpGZqaK3zVeyaat5kJZ3qRiJVQ8Yel-fOB4o5lWh6WgeivGdzRTJl14tAKKqBkcDYmw_DSziNL_Dq9F",
-    "est_revenue": 1392342,
-    "est_revenue_fmt": "$1.39M",
-    "est_revenue_won": "20.9억"
-  },
-  {
-    "rank": 35,
-    "title": "妖怪ウォッチ ぷにぷに",
-    "developer": "LEVEL-5 Inc.",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.Level5.YWP",
-    "local_name": "妖怪ウォッチ ぷにぷに",
-    "icon": "https://play-lh.googleusercontent.com/AZI9Tz7-HN64EOMKc0nR6U7YOCj5dNlf0M3p8DbGnCAhZE5o7553zvZhA9Ar7qAtDeJQRRWw0rmtpykTVbwV",
-    "est_revenue": 1335542,
-    "est_revenue_fmt": "$1.34M",
-    "est_revenue_won": "20.0억"
-  },
-  {
-    "rank": 36,
     "title": "Genshin Impact",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -468,20 +442,7 @@
     "est_revenue_won": "19.2억"
   },
   {
-    "rank": 37,
-    "title": "プロ野球スピリッツA",
-    "developer": "KONAMI",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "jp.konami.prospia",
-    "local_name": "プロ野球スピリッツA",
-    "icon": "https://play-lh.googleusercontent.com/F0IB7v9CufHt5hKPRfXC9WS7tOUunAuCD3_JtdMJTtlhkG93qwmNCg6Cbcbf10aipCZZ3rv82QA-6REtVaVLHD8",
-    "est_revenue": 1233052,
-    "est_revenue_fmt": "$1.23M",
-    "est_revenue_won": "18.5억"
-  },
-  {
-    "rank": 38,
+    "rank": 35,
     "title": "ヘブンバーンズレッド",
     "developer": "WFS, Inc.",
     "genre": "Game",
@@ -494,7 +455,20 @@
     "est_revenue_won": "17.8억"
   },
   {
-    "rank": 39,
+    "rank": 36,
+    "title": "ゼンレスゾーンゼロ・クラウド版 - アニバーサリー",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "genre": "Game",
+    "rating": 3.8,
+    "app_id": "com.HoYoverse.cloudgames.Nap",
+    "local_name": "ゼンレスゾーンゼロ・クラウド版 - アニバーサリー",
+    "icon": "https://play-lh.googleusercontent.com/8OcXm10jSo4u8ED1rB8YYexPH5hp8F0QijJVQKwHmxESv0G0FkVOZALmoXRZuAxucoTV2sIeN4h5ubq9nDUO",
+    "est_revenue": 1733466,
+    "est_revenue_fmt": "$1.73M",
+    "est_revenue_won": "26.0억"
+  },
+  {
+    "rank": 37,
     "title": "信長の野望 覇道",
     "developer": "KOEI TECMO GAMES CO., LTD.",
     "genre": "Game",
@@ -507,7 +481,20 @@
     "est_revenue_won": "17.1억"
   },
   {
-    "rank": 40,
+    "rank": 38,
+    "title": "プロ野球スピリッツA",
+    "developer": "KONAMI",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "jp.konami.prospia",
+    "local_name": "プロ野球スピリッツA",
+    "icon": "https://play-lh.googleusercontent.com/F0IB7v9CufHt5hKPRfXC9WS7tOUunAuCD3_JtdMJTtlhkG93qwmNCg6Cbcbf10aipCZZ3rv82QA-6REtVaVLHD8",
+    "est_revenue": 1233052,
+    "est_revenue_fmt": "$1.23M",
+    "est_revenue_won": "18.5억"
+  },
+  {
+    "rank": 39,
     "title": "デュエル・マスターズ プレイス",
     "developer": "TOMY COMPANY,LTD.",
     "genre": "Game",
@@ -520,20 +507,7 @@
     "est_revenue_won": "16.5억"
   },
   {
-    "rank": 41,
-    "title": "Tasty Travels: Merge Game",
-    "developer": "Century Games PTE. LTD.",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.fatmerge.global",
-    "local_name": "Tasty Travels: Merge Game",
-    "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
-    "est_revenue": 1027750,
-    "est_revenue_fmt": "$1.03M",
-    "est_revenue_won": "15.4억"
-  },
-  {
-    "rank": 42,
+    "rank": 40,
     "title": "にゃんこ大戦争",
     "developer": "PONOS Corporation",
     "genre": "Game",
@@ -546,20 +520,7 @@
     "est_revenue_won": "16.0억"
   },
   {
-    "rank": 43,
-    "title": "ドラゴンボールZ ドッカンバトル",
-    "developer": "Bandai Namco Entertainment Inc.",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.bandainamcogames.dbzdokkan",
-    "local_name": "ドラゴンボールZ ドッカンバトル",
-    "icon": "https://play-lh.googleusercontent.com/qqsVwc-X8M09cc1cG8GiUeN3rLoPMVcjzAugP_4Le8TUuWkyn9bDu7ThJp27EEicVkk3nycZt7QsSVE9nBSx",
-    "est_revenue": 993583,
-    "est_revenue_fmt": "$994K",
-    "est_revenue_won": "14.9억"
-  },
-  {
-    "rank": 44,
+    "rank": 41,
     "title": "Royal Kingdom",
     "developer": "Dream Games, Ltd.",
     "genre": "Game",
@@ -572,7 +533,7 @@
     "est_revenue_won": "14.0억"
   },
   {
-    "rank": 45,
+    "rank": 42,
     "title": "#コンパス【戦闘摂理解析システム】",
     "developer": "NHN PlayArt Corp.",
     "genre": "Game",
@@ -585,7 +546,33 @@
     "est_revenue_won": "14.4억"
   },
   {
-    "rank": 46,
+    "rank": 43,
+    "title": "Tasty Travels: Merge Game",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "com.fatmerge.global",
+    "local_name": "Tasty Travels: Merge Game",
+    "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
+    "est_revenue": 1027750,
+    "est_revenue_fmt": "$1.03M",
+    "est_revenue_won": "15.4억"
+  },
+  {
+    "rank": 44,
+    "title": "ドラゴンボールZ ドッカンバトル",
+    "developer": "Bandai Namco Entertainment Inc.",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.bandainamcogames.dbzdokkan",
+    "local_name": "ドラゴンボールZ ドッカンバトル",
+    "icon": "https://play-lh.googleusercontent.com/qqsVwc-X8M09cc1cG8GiUeN3rLoPMVcjzAugP_4Le8TUuWkyn9bDu7ThJp27EEicVkk3nycZt7QsSVE9nBSx",
+    "est_revenue": 993583,
+    "est_revenue_fmt": "$994K",
+    "est_revenue_won": "14.9억"
+  },
+  {
+    "rank": 45,
     "title": "Paranoize",
     "developer": "ZigZaGame Inc.",
     "genre": "Game",
@@ -598,7 +585,7 @@
     "est_revenue_won": "13.5억"
   },
   {
-    "rank": 47,
+    "rank": 46,
     "title": "グランブルーファンタジー",
     "developer": "mobage",
     "genre": "Game",
@@ -609,6 +596,19 @@
     "est_revenue": 874380,
     "est_revenue_fmt": "$874K",
     "est_revenue_won": "13.1억"
+  },
+  {
+    "rank": 47,
+    "title": "パズル＆ドラゴンズ(Puzzle & Dragons)",
+    "developer": "GungHo Online Entertainment, Inc.",
+    "genre": "Game",
+    "rating": 3.2,
+    "app_id": "jp.gungho.pad",
+    "local_name": "パズル＆ドラゴンズ(Puzzle & Dragons)",
+    "icon": "https://play-lh.googleusercontent.com/ra7eGhpGZqaK3zVeyaat5kJZ3qRiJVQ8Yel-fOB4o5lWh6WgeivGdzRTJl14tAKKqBkcDYmw_DSziNL_Dq9F",
+    "est_revenue": 1392342,
+    "est_revenue_fmt": "$1.39M",
+    "est_revenue_won": "20.9억"
   },
   {
     "rank": 48,
@@ -638,15 +638,15 @@
   },
   {
     "rank": 50,
-    "title": "Homescapes",
-    "developer": "Playrix",
+    "title": "転生したらスライムだった件 魔王と竜の建国譚 まおりゅう",
+    "developer": "Bandai Namco Entertainment Inc.",
     "genre": "Game",
     "rating": 4.3,
-    "app_id": "com.playrix.homescapes",
-    "local_name": "Homescapes",
-    "icon": "https://play-lh.googleusercontent.com/ft9OqNwpLaL45Jq3YuSYt0wm3y_j-YteTQqfq4Cu2PRWTrkFMuhlmUHmxggNxOP96gxR9Q3ML1Yt87iV3zD5fg",
-    "est_revenue": 823562,
-    "est_revenue_fmt": "$824K",
-    "est_revenue_won": "12.4억"
+    "app_id": "com.bandainamcoent.tensuramrkrelease",
+    "local_name": "転生したらスライムだった件 魔王と竜の建国譚 まおりゅう",
+    "icon": "https://play-lh.googleusercontent.com/XHppCshR7n1cbR2_sOoxe33acoy1nNFbzUBQ8fjLKavfPfQTLKtyONq3TCLpLfjZ08XEPx5nVcOGEToXO7qMEA",
+    "est_revenue": 0,
+    "est_revenue_fmt": "",
+    "est_revenue_won": ""
   }
 ]
