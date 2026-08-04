@@ -2,8 +2,8 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "1,081",
-      "channels": "107",
+      "viewers": "1,162",
+      "channels": "108",
       "link": "https://chzzk.naver.com"
     },
     {
@@ -26,17 +26,17 @@
     },
     {
       "game": "발로란트",
-      "viewers": 90,
+      "viewers": 98,
       "channels": 20
     },
     {
       "game": "오버워치",
-      "viewers": 169,
+      "viewers": 246,
       "channels": 20
     },
     {
       "game": "배틀그라운드",
-      "viewers": 103,
+      "viewers": 101,
       "channels": 20
     },
     {
@@ -51,8 +51,8 @@
     },
     {
       "game": "로스트아크",
-      "viewers": 130,
-      "channels": 11
+      "viewers": 128,
+      "channels": 10
     },
     {
       "game": "FC온라인",
@@ -73,6 +73,14 @@
       "title": "전장 새시즌 2시",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20367891"
+    },
+    {
+      "name": "빅박스",
+      "viewers": 82,
+      "category": "오버워치",
+      "title": "힐 챔 5 100만원 이제 꺨게요",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20368640"
     },
     {
       "name": "딸 라",
@@ -297,15 +305,7 @@
       "title": "늦은 숙제 마무리",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20355440"
-    },
-    {
-      "name": "권동호",
-      "viewers": 10,
-      "category": "발로란트",
-      "title": "치지직 아재발로란트 다이아지옥 시참경쟁o 욕자제하는 방송",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20368093"
     }
   ],
-  "fetched": "2026-08-05T07:15:48"
+  "fetched": "2026-08-05T07:15:57"
 }
