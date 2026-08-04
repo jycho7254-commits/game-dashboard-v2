@@ -2,8 +2,8 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "6,565",
-      "channels": "143",
+      "viewers": "6,523",
+      "channels": "144",
       "link": "https://chzzk.naver.com"
     },
     {
@@ -16,7 +16,7 @@
   "categories": [
     {
       "game": "게임",
-      "viewers": 1041,
+      "viewers": 1036,
       "channels": 20
     },
     {
@@ -51,7 +51,7 @@
     },
     {
       "game": "로스트아크",
-      "viewers": 275,
+      "viewers": 238,
       "channels": 20
     },
     {
@@ -187,14 +187,6 @@
       "link": "https://chzzk.naver.com/live/20362933"
     },
     {
-      "name": "딸 라",
-      "viewers": 44,
-      "category": "로스트아크",
-      "title": "🖤늦은 사유 : ㅠㅠ",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20367826"
-    },
-    {
       "name": "하예솜",
       "viewers": 38,
       "category": "게임",
@@ -305,7 +297,15 @@
       "title": "내고향 마스터 ",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20367557"
+    },
+    {
+      "name": "고망지",
+      "viewers": 14,
+      "category": "배틀그라운드",
+      "title": "그저 배그가 좋은 청년",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20355502"
     }
   ],
-  "fetched": "2026-08-05T04:10:44"
+  "fetched": "2026-08-05T04:10:48"
 }
