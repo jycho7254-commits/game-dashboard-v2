@@ -20,15 +20,15 @@
     },
     {
       "name": "치지직",
-      "viewers": "2,670",
-      "channels": "126",
+      "viewers": "2,328",
+      "channels": "125",
       "link": "https://chzzk.naver.com"
     }
   ],
   "categories": [
     {
       "game": "게임",
-      "viewers": 764,
+      "viewers": 777,
       "channels": 20
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "game": "발로란트",
-      "viewers": 433,
+      "viewers": 78,
       "channels": 20
     },
     {
@@ -78,14 +78,6 @@
     }
   ],
   "streamers": [
-    {
-      "name": "크포",
-      "viewers": 346,
-      "category": "발로란트",
-      "title": "나는 진짜 못한다",
-      "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20348514"
-    },
     {
       "name": "갱쥰",
       "viewers": 315,
@@ -287,6 +279,14 @@
       "link": "https://chzzk.naver.com/live/20351927"
     },
     {
+      "name": "마죠 MAJO",
+      "viewers": 13,
+      "category": "게임",
+      "title": "뉴비의 명조 2장 6막 밀기! 스포금지!!!! ⁽⁽ଘ( ˙꒳​˙ )ଓ⁾⁾",
+      "platform": "SOOP",
+      "link": "https://chzzk.naver.com/live/20352179"
+    },
+    {
       "name": "행 구 리",
       "viewers": 13,
       "category": "배틀그라운드",
@@ -415,14 +415,6 @@
       "link": "https://chzzk.naver.com/live/20351855"
     },
     {
-      "name": "봄양울",
-      "viewers": 8,
-      "category": "발로란트",
-      "title": "시청자 없으면 눅눅해질 고양이 [w.비군]",
-      "platform": "SOOP",
-      "link": "https://chzzk.naver.com/live/20350790"
-    },
-    {
       "name": "ㅇㄹㅊ",
       "viewers": 8,
       "category": "오버워치",
@@ -477,6 +469,14 @@
       "title": "오늘 짱 더운 날!!!!!",
       "platform": "SOOP",
       "link": "https://chzzk.naver.com/live/20351490"
+    },
+    {
+      "name": "만보긔",
+      "viewers": 7,
+      "category": "로스트아크",
+      "title": "벨가르딘 하드 한번 도전해보렵니다! 600+@만골 강화! + 벨가르딘 전",
+      "platform": "SOOP",
+      "link": "https://chzzk.naver.com/live/20352017"
     }
   ],
   "total_viewers": 1155,
