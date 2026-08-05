@@ -2,8 +2,8 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "3,175",
-      "channels": "127",
+      "viewers": "4,169",
+      "channels": "131",
       "link": "https://chzzk.naver.com"
     },
     {
@@ -16,47 +16,47 @@
   "categories": [
     {
       "game": "게임",
-      "viewers": 637,
+      "viewers": 601,
       "channels": 20
     },
     {
       "game": "롤",
-      "viewers": 152,
+      "viewers": 167,
       "channels": 20
     },
     {
       "game": "발로란트",
-      "viewers": 91,
+      "viewers": 106,
       "channels": 20
     },
     {
       "game": "오버워치",
-      "viewers": 148,
+      "viewers": 143,
       "channels": 20
     },
     {
       "game": "배틀그라운드",
-      "viewers": 65,
+      "viewers": 91,
       "channels": 20
     },
     {
       "game": "마인크래프트",
-      "viewers": 50,
+      "viewers": 56,
       "channels": 15
     },
     {
       "game": "서든어택",
       "viewers": 2,
-      "channels": 3
+      "channels": 4
     },
     {
       "game": "로스트아크",
-      "viewers": 1982,
+      "viewers": 2957,
       "channels": 20
     },
     {
       "game": "FC온라인",
-      "viewers": 21,
+      "viewers": 19,
       "channels": 5
     },
     {
@@ -68,31 +68,47 @@
   "streamers": [
     {
       "name": "쫀지",
-      "viewers": 1098,
+      "viewers": 1218,
       "category": "로스트아크",
       "title": "[드롭스] 잇츠미 벨가르딘 퍼클 성공하면 혁명 실패하면 조리돌림 아니겠습",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20369597"
     },
     {
-      "name": "딸 라",
+      "name": "눈가루",
+      "viewers": 780,
+      "category": "로스트아크",
+      "title": "로네다 벨가르딘 오픈런",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20369604"
+    },
+    {
+      "name": "은가비v",
       "viewers": 366,
       "category": "로스트아크",
-      "title": "🖤다들 벨가 화이팅 저는 6천대따리 공팟 서폿입니다. 바드랑 가실 분?",
+      "title": "[드롭스] 로사단 벨가르딘 나이트메어 트라이, 홀리나이트 시점\n",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20367826"
+      "link": "https://chzzk.naver.com/live/20369569"
     },
     {
       "name": "롤체고찌",
-      "viewers": 251,
+      "viewers": 178,
       "category": "게임",
       "title": "18시즌 PBE  명예 시민 1호 (ᐢ⑅•ᴗ•⑅ᐢ) 🍀",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20369035"
     },
     {
+      "name": "찌모찌모햄",
+      "viewers": 164,
+      "category": "로스트아크",
+      "title": "뭣? 드롭스?? 벨가르딘 1일챠",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20369580"
+    },
+    {
       "name": "코코스",
-      "viewers": 146,
+      "viewers": 151,
       "category": "게임",
       "title": "전장 새시즌 2시",
       "platform": "치지직",
@@ -100,91 +116,75 @@
     },
     {
       "name": "게임하는인기",
-      "viewers": 111,
+      "viewers": 122,
       "category": "로스트아크",
       "title": "벨가르딘 펀클팟 '로스피' 소울이터 출격 (!멤버, 드롭스) [로스트아크",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20369708"
     },
     {
-      "name": "김상드",
-      "viewers": 83,
-      "category": "로스트아크",
-      "title": "공략 맛집 김상드의 벨가르딘 노말 공략 제작 [로스트아크]",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20369669"
-    },
-    {
-      "name": "장덕이1",
-      "viewers": 83,
-      "category": "로스트아크",
-      "title": "긴급 하루진득허니 하실 나메딜러 모집",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20369477"
-    },
-    {
       "name": "하이유ㅎ",
-      "viewers": 72,
+      "viewers": 101,
       "category": "게임",
       "title": "아침을여는 니케방송",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20369425"
     },
     {
+      "name": "김상드",
+      "viewers": 99,
+      "category": "로스트아크",
+      "title": "공략 맛집 김상드의 벨가르딘 노말 공략 제작 [로스트아크]",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20369669"
+    },
+    {
+      "name": "서 형",
+      "viewers": 73,
+      "category": "로스트아크",
+      "title": "로카츠키 벨가르딘 퍼클런 초심배마 시점",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20369210"
+    },
+    {
       "name": "차차ㅎ",
-      "viewers": 58,
+      "viewers": 65,
       "category": "롤",
       "title": "정글 알려주실 분...",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20366066"
     },
     {
-      "name": "김미련",
-      "viewers": 54,
-      "category": "로스트아크",
-      "title": "리퍼 벨가르딘 퍼클런 영로티 공대",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20369480"
-    },
-    {
       "name": "김주선",
-      "viewers": 40,
+      "viewers": 48,
       "category": "게임",
       "title": "아침의 행복 명조 방송 반갑습니다",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20369530"
     },
     {
-      "name": "I 8",
-      "viewers": 36,
-      "category": "오버워치",
-      "title": "ㅇㅇ",
+      "name": "VG신선한망치",
+      "viewers": 45,
+      "category": "로스트아크",
+      "title": "[로스트아크] 로스피 벨가르딘 오픈런 -!",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20368445"
+      "link": "https://chzzk.naver.com/live/20369800"
     },
     {
       "name": "치치94",
-      "viewers": 34,
+      "viewers": 44,
       "category": "롤",
       "title": "다이아2 노방종 500만원 잘가보겠습니다\n",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20261162"
     },
     {
-      "name": "가마니 GAMANI",
-      "viewers": 31,
-      "category": "로스트아크",
-      "title": "호말리아 해적단 공대&마니또들 전부 화이팅💛💚",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20368471"
-    },
-    {
-      "name": "핸떠기",
+      "name": "I 8",
       "viewers": 30,
-      "category": "로스트아크",
-      "title": "늦은 숙제 마무리",
+      "category": "오버워치",
+      "title": "ㅇㅇ",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20355440"
+      "link": "https://chzzk.naver.com/live/20368445"
     },
     {
       "name": "야켓",
@@ -196,27 +196,19 @@
     },
     {
       "name": "실키아",
-      "viewers": 25,
+      "viewers": 24,
       "category": "스타크래프트",
       "title": "[치즈캠퍼스] 안 잤음 청년 : 마장전 대비 연습",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20369016"
     },
     {
-      "name": "밴냥이",
-      "viewers": 23,
-      "category": "로스트아크",
-      "title": "벨가르딘 개퍼먹을라고 시킨 몬스터 박스 옮기다가 허리에서 우드득 소리난 ",
+      "name": "강낭콩99",
+      "viewers": 22,
+      "category": "롤",
+      "title": "M1200 시작 / 미드 트페 / Let's go 1300LP",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20369539"
-    },
-    {
-      "name": "롤체 칸",
-      "viewers": 21,
-      "category": "게임",
-      "title": "[GM 891] 1000점까지 노방종 ㄱㄱ",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20367619"
+      "link": "https://chzzk.naver.com/live/20366832"
     },
     {
       "name": "서민채",
@@ -228,84 +220,92 @@
     },
     {
       "name": "사와사와",
-      "viewers": 20,
+      "viewers": 21,
       "category": "게임",
       "title": "오전 상담및 잡담 (콜라보 정보 대기방)",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20369403"
     },
     {
-      "name": "서해락",
-      "viewers": 20,
+      "name": "냥슬이",
+      "viewers": 21,
       "category": "로스트아크",
-      "title": "조흔아침 ☀️",
+      "title": "로스트아크 벨가르딘 노말 오픈런 인파이터!",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20369199"
+      "link": "https://chzzk.naver.com/live/20369829"
+    },
+    {
+      "name": "롤체 칸",
+      "viewers": 20,
+      "category": "게임",
+      "title": "[GM 891] 1000점까지 노방종 ㄱㄱ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20367619"
+    },
+    {
+      "name": "주거니 GUNNY",
+      "viewers": 17,
+      "category": "발로란트",
+      "title": "개못하는방송_437rr",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20368603"
+    },
+    {
+      "name": "장꾸야 놀자",
+      "viewers": 17,
+      "category": "배틀그라운드",
+      "title": "<시참 3/4> 스배 / 팔로우 ㄱㄱ [신입] ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20365893"
+    },
+    {
+      "name": "청아하게",
+      "viewers": 17,
+      "category": "로스트아크",
+      "title": "6200 바드 나메 공팟 들어갑니다 같이 한계를 시험해보실분?",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20365540"
+    },
+    {
+      "name": "여라 Yeora",
+      "viewers": 15,
+      "category": "배틀그라운드",
+      "title": "오늘도 나는 치킨을 위해 달린다 ´ ▿ ` ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20369412"
     },
     {
       "name": "도르밍",
-      "viewers": 19,
+      "viewers": 14,
       "category": "발로란트",
       "title": "우당탕탕 4인큐 (w. !멤버)",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20368077"
     },
     {
-      "name": "디타 DITA",
-      "viewers": 18,
-      "category": "로스트아크",
-      "title": "목호호의 가호를 받은 바줌마 벨가르딘 퍼클런 도전",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20369307"
-    },
-    {
-      "name": "강낭콩99",
-      "viewers": 16,
-      "category": "롤",
-      "title": "M1200 시작 / 미드 트페 / Let's go 1300LP",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20366832"
-    },
-    {
-      "name": "김호씨",
-      "viewers": 15,
-      "category": "로스트아크",
-      "title": "쥬쥬총회 워로드 시점 │ 전태일 수도, 고기일 수도, 워갈일 수도? 변환",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20369460"
-    },
-    {
-      "name": "린 화",
-      "viewers": 14,
-      "category": "로스트아크",
-      "title": "벨가르딘 출시날 출근하는 사람 읍제~? 벨가르딘 출시날 출근하는 사람 읍",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20368943"
-    },
-    {
-      "name": "나나는못말려",
-      "viewers": 13,
-      "category": "오버워치",
-      "title": "오버워치 다이아 딜러 계정 쭉쭉 올라간다 (소통,미션,룰렛 환영)\n",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20369718"
-    },
-    {
       "name": "달꼼",
-      "viewers": 13,
+      "viewers": 14,
       "category": "마인크래프트",
       "title": "₍ᐢ.ˬ.ᐡ₎ 💜🐰💛 달꼼밸리",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20369348"
     },
     {
-      "name": "백숭민",
-      "viewers": 11,
-      "category": "게임",
-      "title": "골드 사 중수 입니다.",
+      "name": "말티쭈",
+      "viewers": 13,
+      "category": "발로란트",
+      "title": "짧게 치고 빠지기",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20368968"
+      "link": "https://chzzk.naver.com/live/20369039"
+    },
+    {
+      "name": "릴썬",
+      "viewers": 13,
+      "category": "오버워치",
+      "title": "오바와치 힐러 플래 북벌",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20369011"
     }
   ],
-  "fetched": "2026-08-05T09:29:03"
+  "fetched": "2026-08-05T09:34:00"
 }
