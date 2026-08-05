@@ -2,8 +2,8 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "3,102",
-      "channels": "127",
+      "viewers": "2,988",
+      "channels": "126",
       "link": "https://chzzk.naver.com"
     },
     {
@@ -26,17 +26,17 @@
     },
     {
       "game": "발로란트",
-      "viewers": 119,
+      "viewers": 104,
       "channels": 20
     },
     {
       "game": "오버워치",
-      "viewers": 240,
+      "viewers": 168,
       "channels": 20
     },
     {
       "game": "배틀그라운드",
-      "viewers": 87,
+      "viewers": 60,
       "channels": 20
     },
     {
@@ -97,14 +97,6 @@
       "title": "긴급 하루진득허니 하실 나메딜러 모집",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20369477"
-    },
-    {
-      "name": "짜누1",
-      "viewers": 100,
-      "category": "오버워치",
-      "title": "굿몰닝",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20369429"
     },
     {
       "name": "김상드",
@@ -211,20 +203,20 @@
       "link": "https://chzzk.naver.com/live/20355440"
     },
     {
+      "name": "야켓",
+      "viewers": 25,
+      "category": "오버워치",
+      "title": "금붕어 산책",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20369092"
+    },
+    {
       "name": "실키아",
       "viewers": 25,
       "category": "스타크래프트",
       "title": "[치즈캠퍼스] 안 잤음 청년 : 마장전 대비 연습",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20369016"
-    },
-    {
-      "name": "장꾸야 놀자",
-      "viewers": 21,
-      "category": "배틀그라운드",
-      "title": "<시참 3/4> 스배 / 팔로우 ㄱㄱ [신입] ",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20365893"
     },
     {
       "name": "롤체 칸",
@@ -299,13 +291,21 @@
       "link": "https://chzzk.naver.com/live/20369558"
     },
     {
-      "name": "말티쭈",
+      "name": "김갱쓰",
       "viewers": 14,
-      "category": "발로란트",
-      "title": "짧게 치고 빠지기",
+      "category": "오버워치",
+      "title": "솔탱으로 마스터에서 살아남기",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20369039"
+      "link": "https://chzzk.naver.com/live/20364420"
+    },
+    {
+      "name": "달꼼",
+      "viewers": 14,
+      "category": "마인크래프트",
+      "title": "₍ᐢ.ˬ.ᐡ₎ 💜🐰💛 달꼼밸리",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20369348"
     }
   ],
-  "fetched": "2026-08-05T09:23:50"
+  "fetched": "2026-08-05T09:23:56"
 }
