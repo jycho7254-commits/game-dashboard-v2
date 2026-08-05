@@ -27,19 +27,6 @@
   },
   {
     "rank": 3,
-    "title": "Whiteout Survival",
-    "developer": "Century Games PTE. LTD.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.gof.global",
-    "local_name": "화이트아웃 서바이벌",
-    "icon": "https://play-lh.googleusercontent.com/tNMaMiJ4wTQy_TeZSWHdSlP5qH0PGig9g9sDJu2QFvCHdnrbo2u17pX55W4i6KITo56v_ZyICkqLgA2svH9ycQ",
-    "est_revenue": 4403488,
-    "est_revenue_fmt": "$4.40M",
-    "est_revenue_won": "66.1억"
-  },
-  {
-    "rank": 4,
     "title": "Zenless Zone Zero - Anniv.",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -50,6 +37,19 @@
     "est_revenue": 4984310,
     "est_revenue_fmt": "$4.98M",
     "est_revenue_won": "74.8억"
+  },
+  {
+    "rank": 4,
+    "title": "Whiteout Survival",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.gof.global",
+    "local_name": "화이트아웃 서바이벌",
+    "icon": "https://play-lh.googleusercontent.com/tNMaMiJ4wTQy_TeZSWHdSlP5qH0PGig9g9sDJu2QFvCHdnrbo2u17pX55W4i6KITo56v_ZyICkqLgA2svH9ycQ",
+    "est_revenue": 4403488,
+    "est_revenue_fmt": "$4.40M",
+    "est_revenue_won": "66.1억"
   },
   {
     "rank": 5,
@@ -66,6 +66,19 @@
   },
   {
     "rank": 6,
+    "title": "Kingshot",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.run.tower.defense",
+    "local_name": "킹샷",
+    "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
+    "est_revenue": 3079142,
+    "est_revenue_fmt": "$3.08M",
+    "est_revenue_won": "46.2억"
+  },
+  {
+    "rank": 7,
     "title": "오딘: 발할라 라이징",
     "developer": "Kakao Games Corp.",
     "genre": "Game",
@@ -78,7 +91,7 @@
     "est_revenue_won": "52.1억"
   },
   {
-    "rank": 7,
+    "rank": 8,
     "title": "열혈강호: 넥스트",
     "developer": "Kingnet Technology Limited",
     "genre": "Game",
@@ -89,19 +102,6 @@
     "est_revenue": 2775458,
     "est_revenue_fmt": "$2.78M",
     "est_revenue_won": "41.6억"
-  },
-  {
-    "rank": 8,
-    "title": "Kingshot",
-    "developer": "Century Games PTE. LTD.",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.run.tower.defense",
-    "local_name": "킹샷",
-    "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
-    "est_revenue": 3079142,
-    "est_revenue_fmt": "$3.08M",
-    "est_revenue_won": "46.2억"
   },
   {
     "rank": 9,
@@ -352,19 +352,6 @@
   },
   {
     "rank": 28,
-    "title": "EA SPORTS FC Online M",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 2.3,
-    "app_id": "com.nexon.fo4m",
-    "local_name": "FC 온라인 M",
-    "icon": "https://play-lh.googleusercontent.com/3kHUd_bPqo2Mz00jcm8gxIjgawGnkg1w7V1KZfQ-UalXUj8QrLwqmGxpUNniLQ4o3exMUCl_lKa5KOolaOqBFdo",
-    "est_revenue": 593542,
-    "est_revenue_fmt": "$594K",
-    "est_revenue_won": "8.9억"
-  },
-  {
-    "rank": 29,
     "title": "Last Asylum: Plague",
     "developer": "37GAMES GLOBAL",
     "genre": "Game",
@@ -375,6 +362,19 @@
     "est_revenue": 562114,
     "est_revenue_fmt": "$562K",
     "est_revenue_won": "8.4억"
+  },
+  {
+    "rank": 29,
+    "title": "EA SPORTS FC Online M",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 2.3,
+    "app_id": "com.nexon.fo4m",
+    "local_name": "FC 온라인 M",
+    "icon": "https://play-lh.googleusercontent.com/3kHUd_bPqo2Mz00jcm8gxIjgawGnkg1w7V1KZfQ-UalXUj8QrLwqmGxpUNniLQ4o3exMUCl_lKa5KOolaOqBFdo",
+    "est_revenue": 593542,
+    "est_revenue_fmt": "$594K",
+    "est_revenue_won": "8.9억"
   },
   {
     "rank": 30,
@@ -534,19 +534,6 @@
   },
   {
     "rank": 42,
-    "title": "리니지2M",
-    "developer": "NC Corporation",
-    "genre": "Game",
-    "rating": 3.5,
-    "app_id": "com.ncsoft.lineage2m19",
-    "local_name": "리니지M",
-    "icon": "https://play-lh.googleusercontent.com/bh67_a9Z2UyAoJHcktORocXm_c25UcWz_diX4kuGbQ2W1tbWwzK1QqapGahZrlDmwWCAp-CFoy9NA2KMYojBAik",
-    "est_revenue": 255639,
-    "est_revenue_fmt": "$256K",
-    "est_revenue_won": "3.8억"
-  },
-  {
-    "rank": 43,
     "title": "Pokémon GO",
     "developer": "Scopely Explore, Inc.",
     "genre": "Game",
@@ -557,6 +544,19 @@
     "est_revenue": 279524,
     "est_revenue_fmt": "$280K",
     "est_revenue_won": "4.2억"
+  },
+  {
+    "rank": 43,
+    "title": "리니지2M",
+    "developer": "NC Corporation",
+    "genre": "Game",
+    "rating": 3.5,
+    "app_id": "com.ncsoft.lineage2m19",
+    "local_name": "리니지M",
+    "icon": "https://play-lh.googleusercontent.com/bh67_a9Z2UyAoJHcktORocXm_c25UcWz_diX4kuGbQ2W1tbWwzK1QqapGahZrlDmwWCAp-CFoy9NA2KMYojBAik",
+    "est_revenue": 255639,
+    "est_revenue_fmt": "$256K",
+    "est_revenue_won": "3.8억"
   },
   {
     "rank": 44,
@@ -586,19 +586,6 @@
   },
   {
     "rank": 46,
-    "title": "라그나로크M: Classic",
-    "developer": "GRAVITY Co., Ltd.",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.gravity.romkrzeny.aos",
-    "local_name": "라그나로크M: Classic",
-    "icon": "https://play-lh.googleusercontent.com/5SFBw-txEgmxfiD8J5DcHchCZFvLCo1jZsalnlDHYjv5nddS-8oLSRIwGHmqKF0NLaZJ9Gmbx6wEMGxlNtFe",
-    "est_revenue": 234725,
-    "est_revenue_fmt": "$235K",
-    "est_revenue_won": "3.5억"
-  },
-  {
-    "rank": 47,
     "title": "Mystery Town: Merge Games",
     "developer": "Cedar Games Studio",
     "genre": "Game",
@@ -609,6 +596,19 @@
     "est_revenue": 225230,
     "est_revenue_fmt": "$225K",
     "est_revenue_won": "3.4억"
+  },
+  {
+    "rank": 47,
+    "title": "라그나로크M: Classic",
+    "developer": "GRAVITY Co., Ltd.",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.gravity.romkrzeny.aos",
+    "local_name": "라그나로크M: Classic",
+    "icon": "https://play-lh.googleusercontent.com/5SFBw-txEgmxfiD8J5DcHchCZFvLCo1jZsalnlDHYjv5nddS-8oLSRIwGHmqKF0NLaZJ9Gmbx6wEMGxlNtFe",
+    "est_revenue": 234725,
+    "est_revenue_fmt": "$235K",
+    "est_revenue_won": "3.5억"
   },
   {
     "rank": 48,
@@ -638,13 +638,13 @@
   },
   {
     "rank": 50,
-    "title": "I9: 인페르노 나인",
-    "developer": "Leniu Technology Co., Limited",
+    "title": "토이 삼국",
+    "developer": "Rhinos",
     "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.kr.firegp",
-    "local_name": "I9: 인페르노 나인",
-    "icon": "https://play-lh.googleusercontent.com/jZ0P5ZxOE4VorYhs9QmbcxzXi7VYiNqh4I5YlO2JXUdh_5D80ymAagbYxjtP6pGnU_7f_W0gWUVWUm9mIkCI5A",
+    "rating": 4.8,
+    "app_id": "com.jsjskr.google",
+    "local_name": "토이 삼국",
+    "icon": "https://play-lh.googleusercontent.com/VUPm7IzftWuDNEmU7LuriZsQrg8QQT84PAPCU9LLDps3wgWGOoiAlRK217YTZNUHkCf8nuyLOJQcT-1LucpwTA",
     "est_revenue": 0,
     "est_revenue_fmt": "",
     "est_revenue_won": ""
