@@ -2,7 +2,7 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "4,851",
+      "viewers": "4,969",
       "channels": "135",
       "link": "https://chzzk.naver.com"
     },
@@ -16,7 +16,7 @@
   "categories": [
     {
       "game": "게임",
-      "viewers": 467,
+      "viewers": 702,
       "channels": 20
     },
     {
@@ -31,7 +31,7 @@
     },
     {
       "game": "오버워치",
-      "viewers": 242,
+      "viewers": 125,
       "channels": 20
     },
     {
@@ -99,6 +99,14 @@
       "link": "https://chzzk.naver.com/live/20369669"
     },
     {
+      "name": "칸데르니아",
+      "viewers": 342,
+      "category": "게임",
+      "title": "수요일 일퀘 ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20369508"
+    },
+    {
       "name": "롤체고찌",
       "viewers": 187,
       "category": "게임",
@@ -113,22 +121,6 @@
       "title": "[로스트아크] 로스피 벨가르딘 오픈런 -!",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20369800"
-    },
-    {
-      "name": "짜누1",
-      "viewers": 116,
-      "category": "오버워치",
-      "title": "굿몰닝",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20369429"
-    },
-    {
-      "name": "김주선",
-      "viewers": 91,
-      "category": "게임",
-      "title": "아침의 행복 명조 방송 반갑습니다",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20369530"
     },
     {
       "name": "실키아",
@@ -211,14 +203,6 @@
       "link": "https://chzzk.naver.com/live/20370142"
     },
     {
-      "name": "연 오",
-      "viewers": 18,
-      "category": "게임",
-      "title": "[신입] 뺙뺙, 처음하는 명조",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20368781"
-    },
-    {
       "name": "김홀앵",
       "viewers": 16,
       "category": "로스트아크",
@@ -275,6 +259,14 @@
       "link": "https://chzzk.naver.com/live/20370076"
     },
     {
+      "name": "릴썬",
+      "viewers": 12,
+      "category": "오버워치",
+      "title": "오바와치 힐러 플래 북벌",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20369011"
+    },
+    {
       "name": "Raccoon 너구리",
       "viewers": 12,
       "category": "오버워치",
@@ -305,7 +297,15 @@
       "title": "(노방종) 17시즌 독재자",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20302166"
+    },
+    {
+      "name": "나모누리",
+      "viewers": 10,
+      "category": "로스트아크",
+      "title": "[로스트아크 드롭스] 벨가르딘 노말부터 ",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20370273"
     }
   ],
-  "fetched": "2026-08-05T10:25:35"
+  "fetched": "2026-08-05T10:25:40"
 }
