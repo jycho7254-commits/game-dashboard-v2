@@ -66,6 +66,19 @@
   },
   {
     "rank": 6,
+    "title": "열혈강호: 넥스트",
+    "developer": "Kingnet Technology Limited",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.rxjhglkr.gp",
+    "local_name": "열혈강호: 넥스트",
+    "icon": "https://play-lh.googleusercontent.com/ct9hCP6C7NRwwTT3p-eIRLAJHMYuK2k2kO0tC6nc8YUCwgRos5tOuzfKmflfPOwQdfJiuNHkmifu0lhVcEmY",
+    "est_revenue": 2775458,
+    "est_revenue_fmt": "$2.78M",
+    "est_revenue_won": "41.6억"
+  },
+  {
+    "rank": 7,
     "title": "CookieRun: Crumble - Idle RPG",
     "developer": "Devsisters Corporation",
     "genre": "Game",
@@ -76,19 +89,6 @@
     "est_revenue": 2532550,
     "est_revenue_fmt": "$2.53M",
     "est_revenue_won": "38.0억"
-  },
-  {
-    "rank": 7,
-    "title": "열혈강호: 넥스트",
-    "developer": "Kingnet Technology Limited",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.rxjhglkr.gp",
-    "local_name": "열혈강호: 넥스트",
-    "icon": "https://play-lh.googleusercontent.com/ct9hCP6C7NRwwTT3p-eIRLAJHMYuK2k2kO0tC6nc8YUCwgRos5tOuzfKmflfPOwQdfJiuNHkmifu0lhVcEmY",
-    "est_revenue": 2775458,
-    "est_revenue_fmt": "$2.78M",
-    "est_revenue_won": "41.6억"
   },
   {
     "rank": 8,
@@ -105,6 +105,19 @@
   },
   {
     "rank": 9,
+    "title": "Wuthering Waves - To Xuanfang",
+    "developer": "HK KURO GAMES LIMITED",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.kurogame.wutheringwaves.global",
+    "local_name": "명조",
+    "icon": "https://play-lh.googleusercontent.com/f8SoRHdK3E8ofPV6ZbXG-TkcNtXiGmgXnPLl_zjHh6OsSQ1yZqbDIDWFI2P7UCnAQGY_C9VUv2Q8P87CIAqH",
+    "est_revenue": 4000000,
+    "est_revenue_fmt": "$4.00M",
+    "est_revenue_won": "60.0억"
+  },
+  {
+    "rank": 10,
     "title": "Zenless Zone Zero - Anniv.",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -117,7 +130,7 @@
     "est_revenue_won": "74.8억"
   },
   {
-    "rank": 10,
+    "rank": 11,
     "title": "Last War:Survival Game",
     "developer": "FUNFLY PTE. LTD.",
     "genre": "Game",
@@ -128,19 +141,6 @@
     "est_revenue": 1893672,
     "est_revenue_fmt": "$1.89M",
     "est_revenue_won": "28.4억"
-  },
-  {
-    "rank": 11,
-    "title": "Wuthering Waves - To Xuanfang",
-    "developer": "HK KURO GAMES LIMITED",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.kurogame.wutheringwaves.global",
-    "local_name": "명조",
-    "icon": "https://play-lh.googleusercontent.com/f8SoRHdK3E8ofPV6ZbXG-TkcNtXiGmgXnPLl_zjHh6OsSQ1yZqbDIDWFI2P7UCnAQGY_C9VUv2Q8P87CIAqH",
-    "est_revenue": 4000000,
-    "est_revenue_fmt": "$4.00M",
-    "est_revenue_won": "60.0억"
   },
   {
     "rank": 12,
@@ -209,19 +209,6 @@
   },
   {
     "rank": 17,
-    "title": "GODDESS OF VICTORY: NIKKE",
-    "developer": "Level Infinite",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.proximabeta.nikke",
-    "local_name": "승리의 여신: 니케",
-    "icon": "https://play-lh.googleusercontent.com/JK5mejs0bVT_9613gCxNfCjRw_m3JiQ4wC8B8Kt471yu7ThFQazVkCLTfPZ81hnenft7ilaE-qSwVGpQT6sEFcY",
-    "est_revenue": 1345912,
-    "est_revenue_fmt": "$1.35M",
-    "est_revenue_won": "20.2억"
-  },
-  {
-    "rank": 18,
     "title": "Lucky Defense",
     "developer": "111%",
     "genre": "Game",
@@ -232,6 +219,19 @@
     "est_revenue": 1150580,
     "est_revenue_fmt": "$1.15M",
     "est_revenue_won": "17.3억"
+  },
+  {
+    "rank": 18,
+    "title": "GODDESS OF VICTORY: NIKKE",
+    "developer": "Level Infinite",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.proximabeta.nikke",
+    "local_name": "승리의 여신: 니케",
+    "icon": "https://play-lh.googleusercontent.com/JK5mejs0bVT_9613gCxNfCjRw_m3JiQ4wC8B8Kt471yu7ThFQazVkCLTfPZ81hnenft7ilaE-qSwVGpQT6sEFcY",
+    "est_revenue": 1345912,
+    "est_revenue_fmt": "$1.35M",
+    "est_revenue_won": "20.2억"
   },
   {
     "rank": 19,
@@ -261,6 +261,19 @@
   },
   {
     "rank": 21,
+    "title": "마비노기 모바일",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 2.9,
+    "app_id": "com.nexon.devcat.mm",
+    "local_name": "마비노기 모바일",
+    "icon": "https://play-lh.googleusercontent.com/ljE3Q4kOQj0UEjbJoANQpgQ4rxdDvI1h1wARGv6jFgel-5oDIFjfTx2S0nINT8agCEOB_V3C9y61RZFoyLZ4",
+    "est_revenue": 999999,
+    "est_revenue_fmt": "$1000K",
+    "est_revenue_won": "15.0억"
+  },
+  {
+    "rank": 22,
     "title": "Last Z: Survival Shooter",
     "developer": "Omnilojo Pte Ltd",
     "genre": "Game",
@@ -273,7 +286,7 @@
     "est_revenue_won": "12.9억"
   },
   {
-    "rank": 22,
+    "rank": 23,
     "title": "Pmang Poker : Casino Royal",
     "developer": "NEOWIZ corp",
     "genre": "Game",
@@ -284,19 +297,6 @@
     "est_revenue": 805188,
     "est_revenue_fmt": "$805K",
     "est_revenue_won": "12.1억"
-  },
-  {
-    "rank": 23,
-    "title": "마비노기 모바일",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 2.9,
-    "app_id": "com.nexon.devcat.mm",
-    "local_name": "마비노기 모바일",
-    "icon": "https://play-lh.googleusercontent.com/ljE3Q4kOQj0UEjbJoANQpgQ4rxdDvI1h1wARGv6jFgel-5oDIFjfTx2S0nINT8agCEOB_V3C9y61RZFoyLZ4",
-    "est_revenue": 999999,
-    "est_revenue_fmt": "$1000K",
-    "est_revenue_won": "15.0억"
   },
   {
     "rank": 24,
@@ -313,19 +313,6 @@
   },
   {
     "rank": 25,
-    "title": "Gardenscapes",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.playrix.gardenscapes",
-    "local_name": "가든스케이프",
-    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
-    "est_revenue": 665808,
-    "est_revenue_fmt": "$666K",
-    "est_revenue_won": "10.0억"
-  },
-  {
-    "rank": 26,
     "title": "Seaside Escape®: Merge & Story",
     "developer": "Microfun Limited",
     "genre": "Game",
@@ -336,6 +323,19 @@
     "est_revenue": 707549,
     "est_revenue_fmt": "$708K",
     "est_revenue_won": "10.6억"
+  },
+  {
+    "rank": 26,
+    "title": "Gardenscapes",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.playrix.gardenscapes",
+    "local_name": "가든스케이프",
+    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
+    "est_revenue": 665808,
+    "est_revenue_fmt": "$666K",
+    "est_revenue_won": "10.0억"
   },
   {
     "rank": 27,
@@ -521,6 +521,19 @@
   },
   {
     "rank": 41,
+    "title": "삼국지: 천하결전",
+    "developer": "BILIBILI",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.bhk.newslgkr",
+    "local_name": "삼국지: 천하결전",
+    "icon": "https://play-lh.googleusercontent.com/rG1RyXnhrSZk0-Huvu-x4lLJivzk5QgQ2w9-5LYFHGUsEJG2suk-SbLFT7Nkuz99Y56lXBkKfRudyoUWthbY",
+    "est_revenue": 292762,
+    "est_revenue_fmt": "$293K",
+    "est_revenue_won": "4.4억"
+  },
+  {
+    "rank": 42,
     "title": "Pokémon GO",
     "developer": "Scopely Explore, Inc.",
     "genre": "Game",
@@ -533,7 +546,7 @@
     "est_revenue_won": "4.2억"
   },
   {
-    "rank": 42,
+    "rank": 43,
     "title": "리니지2M",
     "developer": "NC Corporation",
     "genre": "Game",
@@ -544,19 +557,6 @@
     "est_revenue": 255639,
     "est_revenue_fmt": "$256K",
     "est_revenue_won": "3.8억"
-  },
-  {
-    "rank": 43,
-    "title": "삼국지: 천하결전",
-    "developer": "BILIBILI",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.bhk.newslgkr",
-    "local_name": "삼국지: 천하결전",
-    "icon": "https://play-lh.googleusercontent.com/rG1RyXnhrSZk0-Huvu-x4lLJivzk5QgQ2w9-5LYFHGUsEJG2suk-SbLFT7Nkuz99Y56lXBkKfRudyoUWthbY",
-    "est_revenue": 292762,
-    "est_revenue_fmt": "$293K",
-    "est_revenue_won": "4.4억"
   },
   {
     "rank": 44,
@@ -586,45 +586,6 @@
   },
   {
     "rank": 46,
-    "title": "Mystery Town: Merge Games",
-    "developer": "Cedar Games Studio",
-    "genre": "Game",
-    "rating": 4.9,
-    "app_id": "com.cedargames.mysterytown",
-    "local_name": "Mystery Town: Merge Games",
-    "icon": "https://play-lh.googleusercontent.com/uVjVMEJrhT-xRoUtKIUj8tOVSbCWw4IsRHaTDYICRNjQycUj6SucVpeoAPiNZWeJ5JuzIt_ZZRo1X1pW6XJFAQE",
-    "est_revenue": 225230,
-    "est_revenue_fmt": "$225K",
-    "est_revenue_won": "3.4억"
-  },
-  {
-    "rank": 47,
-    "title": "Township",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.playrix.township",
-    "local_name": "Township",
-    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
-    "est_revenue": 207910,
-    "est_revenue_fmt": "$208K",
-    "est_revenue_won": "3.1억"
-  },
-  {
-    "rank": 48,
-    "title": "SD Gundam G Generation ETERNAL",
-    "developer": "Bandai Namco Entertainment Inc.",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.bandainamcoent.gget_WW",
-    "local_name": "SD Gundam G Generation ETERNAL",
-    "icon": "https://play-lh.googleusercontent.com/umWX9qJUcTLA-QIkGeYL_dxhLyDQc4UYYXMwC2MV4Pde2ti_TIOE_mzv6Wafm5SYAA7ZTBCuw27tDM_yfBPxRMY",
-    "est_revenue": 216307,
-    "est_revenue_fmt": "$216K",
-    "est_revenue_won": "3.2억"
-  },
-  {
-    "rank": 49,
     "title": "I9: 인페르노 나인",
     "developer": "Leniu Technology Co., Limited",
     "genre": "Game",
@@ -637,14 +598,53 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 50,
-    "title": "라그나로크M: Classic",
-    "developer": "GRAVITY Co., Ltd.",
+    "rank": 47,
+    "title": "Mystery Town: Merge Games",
+    "developer": "Cedar Games Studio",
     "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.gravity.romkrzeny.aos",
-    "local_name": "라그나로크M: Classic",
-    "icon": "https://play-lh.googleusercontent.com/5SFBw-txEgmxfiD8J5DcHchCZFvLCo1jZsalnlDHYjv5nddS-8oLSRIwGHmqKF0NLaZJ9Gmbx6wEMGxlNtFe",
+    "rating": 4.9,
+    "app_id": "com.cedargames.mysterytown",
+    "local_name": "Mystery Town: Merge Games",
+    "icon": "https://play-lh.googleusercontent.com/uVjVMEJrhT-xRoUtKIUj8tOVSbCWw4IsRHaTDYICRNjQycUj6SucVpeoAPiNZWeJ5JuzIt_ZZRo1X1pW6XJFAQE",
+    "est_revenue": 225230,
+    "est_revenue_fmt": "$225K",
+    "est_revenue_won": "3.4억"
+  },
+  {
+    "rank": 48,
+    "title": "Township",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.playrix.township",
+    "local_name": "Township",
+    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
+    "est_revenue": 207910,
+    "est_revenue_fmt": "$208K",
+    "est_revenue_won": "3.1억"
+  },
+  {
+    "rank": 49,
+    "title": "SD Gundam G Generation ETERNAL",
+    "developer": "Bandai Namco Entertainment Inc.",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.bandainamcoent.gget_WW",
+    "local_name": "SD Gundam G Generation ETERNAL",
+    "icon": "https://play-lh.googleusercontent.com/umWX9qJUcTLA-QIkGeYL_dxhLyDQc4UYYXMwC2MV4Pde2ti_TIOE_mzv6Wafm5SYAA7ZTBCuw27tDM_yfBPxRMY",
+    "est_revenue": 216307,
+    "est_revenue_fmt": "$216K",
+    "est_revenue_won": "3.2억"
+  },
+  {
+    "rank": 50,
+    "title": "Flambé®: Merge & Cook",
+    "developer": "Microfun Limited",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.cola.game",
+    "local_name": "Flambé®: Merge & Cook",
+    "icon": "https://play-lh.googleusercontent.com/DxEYTS_nNDbesjgAGulDTgl8V2cV42UUmeOGPei2c95XRW7GY_XgihSsaPF7rnRua18Egkd1-siIgbkVjq73Hg",
     "est_revenue": 0,
     "est_revenue_fmt": "",
     "est_revenue_won": ""
