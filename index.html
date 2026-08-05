@@ -2012,7 +2012,15 @@ function openModal(gameName){
   if(updateInfo){
     var updateDiv=document.createElement('div');
     updateDiv.className='modal-sec';
-    updateDiv.innerHTML='<button onclick="var d=this.nextElementSibling;d.style.display=d.style.display==='none'?'block':'none';this.textContent=this.textContent.indexOf(\u25B6)>=0?this.textContent.replace(\u25B6,\u25BC):this.textContent.replace(\u25BC,\u25B6)" style="width:100%;padding:8px 12px;border-radius:6px;border:1px solid var(--border);background:var(--surface);color:var(--t1);cursor:pointer;font-size:13px;font-weight:600;text-align:left;margin-bottom:6px">\uD83D\uDCE3 \u25B6 \uCD5C\uADFC \uC5C5\uB370\uC774\uD2B8 <span style="font-size:10px;color:var(--t3);font-weight:400">(Google Play)</span></button><div style="display:none;font-size:13px;color:var(--t2);padding:10px;border-radius:6px;background:var(--bg3);border-left:3px solid var(--accent);line-height:1.8">'+updateInfo+'</div>';
+    var upBtn=document.createElement('button');
+    upBtn.textContent='📢 최근 업데이트 (Google Play)';
+    upBtn.style.cssText='width:100%;padding:8px 12px;border-radius:6px;border:1px solid var(--border);background:var(--surface);color:var(--t1);cursor:pointer;font-size:13px;font-weight:600;text-align:left;margin-bottom:6px';
+    upBtn.onclick=function(){var d=this.nextElementSibling;var open=d.style.display==='none';d.style.display=open?'block':'none';this.textContent=open?'📢 ▼ 최근 업데이트 (Google Play)':'📢 ▶ 최근 업데이트 (Google Play)';};
+    var upContent=document.createElement('div');
+    upContent.style.cssText='display:none;font-size:13px;color:var(--t2);padding:10px;border-radius:6px;background:var(--bg3);border-left:3px solid var(--accent);line-height:1.8';
+    upContent.textContent=updateInfo;
+    updateDiv.appendChild(upBtn);
+    updateDiv.appendChild(upContent);
     var ms=document.getElementById('modal-sentiment');
     if(ms)ms.parentNode.insertBefore(updateDiv,ms.nextSibling);
   }
