@@ -222,7 +222,7 @@ canvas{max-width:100%!important}
 <nav class="topbar">
 <div class="topbar-inner">
 <div class="topbar-right">
-<span class="meta" id="update-time">2026-08-05 15:49</span>
+<span class="meta" id="update-time">2026-08-05 15:50</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 </div>
 <div class="topbar-title">Game Market Insight</div>
@@ -703,11 +703,11 @@ function loadOverview(){
     var ctx=chartCanvas.getContext('2d');
     if(window.ovChart)window.ovChart.destroy();
     var top10=displayData.slice(0,10);
-    var labels=top10.map(function(g){return (g.local_name||g.title||'').slice(0,8)});
+    var labels=top10.map(function(g){return (g.local_name||g.title||'')});
     var revData=top10.map(function(g){return g.est_revenue||Math.max(100000,1100000-(g.rank||1)*100000)});
     window.ovChart=new Chart(ctx,{
       type:'bar',
-      data:{labels:labels,datasets:[{label:'추정 월 매출',data:revData,borderColor:'#06b6d4',backgroundColor:'rgba(6,182,212,.7)',borderRadius:6,borderSkipped:false}]},
+      data:{labels:labels,datasets:[{label:'추정 월 매출',data:revData,borderColor:'#06b6d4',backgroundColor:(function(){var grad=ctx.createLinearGradient(0,0,0,200);grad.addColorStop(0,'rgba(6,182,212,.9)');grad.addColorStop(1,'rgba(6,182,212,.3)');return grad;})(),borderRadius:6,borderSkipped:false}]},
       options:{responsive:true,
         plugins:{legend:{display:false},tooltip:{callbacks:{label:function(c){return '추정 매출: '+fmtRev(c.raw)}}}},
         scales:{y:{title:{display:true,text:'추정 월 매출 (USD)',color:_cl},ticks:{color:_ct,callback:function(v){return fmtRev(v)}},grid:{color:_cg}},x:{ticks:{color:_ct,font:{size:9}},grid:{display:false}}}
@@ -924,9 +924,9 @@ function renderRank(q){
     window.rankChart=new Chart(ctx,{
       type:'bar',
       data:{labels:labels,datasets:[
-        {label:'한국',data:krTop10,borderColor:'#3b82f6',backgroundColor:'rgba(59,130,246,.7)',borderRadius:6,borderSkipped:false},
-        {label:'중국',data:cnTop10,borderColor:'#ec4899',backgroundColor:'rgba(236,72,153,.7)',borderRadius:6,borderSkipped:false},
-        {label:'일본',data:jpTop10,borderColor:'#f59e0b',backgroundColor:'rgba(245,158,11,.7)',borderRadius:6,borderSkipped:false}
+        {label:'한국',data:krTop10,borderColor:'#3b82f6',backgroundColor:(function(){var g=ctx.createLinearGradient(0,0,0,250);g.addColorStop(0,'rgba(59,130,246,.85)');g.addColorStop(1,'rgba(59,130,246,.25)');return g;})(),borderRadius:6,borderSkipped:false},
+        {label:'중국',data:cnTop10,borderColor:'#ec4899',backgroundColor:(function(){var g=ctx.createLinearGradient(0,0,0,250);g.addColorStop(0,'rgba(236,72,153,.85)');g.addColorStop(1,'rgba(236,72,153,.25)');return g;})(),borderRadius:6,borderSkipped:false},
+        {label:'일본',data:jpTop10,borderColor:'#f59e0b',backgroundColor:(function(){var g=ctx.createLinearGradient(0,0,0,250);g.addColorStop(0,'rgba(245,158,11,.85)');g.addColorStop(1,'rgba(245,158,11,.25)');return g;})(),borderRadius:6,borderSkipped:false}
       ]},
       options:{responsive:true,plugins:{legend:{position:'top',labels:{color:_cl}}},
         scales:{y:{title:{display:true,text:'추정 월 매출 (USD)',color:_cl},ticks:{color:_ct,callback:function(v){return fmtRev(v)}},grid:{color:_cg}},x:{ticks:{color:_ct},grid:{display:false}}},
