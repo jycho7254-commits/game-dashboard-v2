@@ -2,8 +2,8 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "2,088",
-      "channels": "125",
+      "viewers": "2,056",
+      "channels": "126",
       "link": "https://chzzk.naver.com"
     },
     {
@@ -16,7 +16,7 @@
   "categories": [
     {
       "game": "게임",
-      "viewers": 525,
+      "viewers": 524,
       "channels": 20
     },
     {
@@ -26,12 +26,12 @@
     },
     {
       "game": "발로란트",
-      "viewers": 112,
+      "viewers": 76,
       "channels": 20
     },
     {
       "game": "오버워치",
-      "viewers": 163,
+      "viewers": 168,
       "channels": 20
     },
     {
@@ -131,6 +131,14 @@
       "link": "https://chzzk.naver.com/live/20368445"
     },
     {
+      "name": "짜누1",
+      "viewers": 39,
+      "category": "오버워치",
+      "title": "굿몰닝",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20369429"
+    },
+    {
       "name": "핸떠기",
       "viewers": 33,
       "category": "로스트아크",
@@ -195,14 +203,6 @@
       "link": "https://chzzk.naver.com/live/20365540"
     },
     {
-      "name": "단시하",
-      "viewers": 26,
-      "category": "발로란트",
-      "title": "불멸 갈껀데 총이 고장남 ^-^ 10연패",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20368986"
-    },
-    {
       "name": "장꾸야 놀자",
       "viewers": 26,
       "category": "배틀그라운드",
@@ -251,14 +251,6 @@
       "link": "https://chzzk.naver.com/live/20369460"
     },
     {
-      "name": "야켓",
-      "viewers": 20,
-      "category": "오버워치",
-      "title": "금붕어 산책",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20369092"
-    },
-    {
       "name": "도르밍",
       "viewers": 19,
       "category": "배틀그라운드",
@@ -283,14 +275,6 @@
       "link": "https://chzzk.naver.com/live/20369539"
     },
     {
-      "name": "말티쭈",
-      "viewers": 17,
-      "category": "발로란트",
-      "title": "짧게 치고 빠지기",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20369039"
-    },
-    {
       "name": "초 정",
       "viewers": 16,
       "category": "롤",
@@ -305,7 +289,23 @@
       "title": "골드 사 중수 입니다.",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20368968"
+    },
+    {
+      "name": "사와사와",
+      "viewers": 14,
+      "category": "게임",
+      "title": "오전 상담및 잡담 (콜라보 정보 대기방)",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20369403"
+    },
+    {
+      "name": "백군임",
+      "viewers": 14,
+      "category": "로스트아크",
+      "title": "pc방에서 지옥런 후 배마강화/1시30분 노말 벨가르딘 트라이 (로스트아",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20369417"
     }
   ],
-  "fetched": "2026-08-05T09:03:22"
+  "fetched": "2026-08-05T09:03:27"
 }
