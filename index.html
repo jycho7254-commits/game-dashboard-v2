@@ -222,7 +222,7 @@ canvas{max-width:100%!important}
 <nav class="topbar">
 <div class="topbar-inner">
 <div class="topbar-right">
-<span class="meta" id="update-time">2026-08-05 15:41</span>
+<span class="meta" id="update-time">2026-08-05 15:42</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 </div>
 <div class="topbar-title">Game Market Insight</div>
@@ -840,27 +840,48 @@ function renderRank(q){
   if(!tbody)return;
   var INITIAL_SHOW=10;
   function makeRow(g){
-    var gn=escAttr(g.local_name||g.title||'');
+    var gn=(g.local_name||g.title||'').replace(/'/g,'');
     var iconHTML=g.icon?('<img src="'+getIcon(g)+'" style="width:18px;height:18px;border-radius:3px;vertical-align:middle;margin-right:3px">'):'';
-    return '<tr onclick="openModal(''+gn+'')">'+
-      '<td>'+(g.rank||'')+'</td>'+
+    var tr=document.createElement('tr');
+    tr.onclick=function(){openModal(gn);};
+    tr.innerHTML='<td>'+(g.rank||'')+'</td>'+
       '<td>'+iconHTML+(g.local_name||g.title||'')+'</td>'+
       '<td>'+(g.developer||'').slice(0,20)+'</td>'+
       '<td><span style="font-size:10px;padding:2px 6px;border-radius:3px;background:var(--fg-12);color:var(--t2);font-weight:600">'+(country==='cn'?'iOS':'GP+iOS')+'</span></td>'+
       '<td style="font-weight:600">'+(g.est_revenue_fmt||'-')+' <span style="font-size:10px;color:var(--t3)">'+(g.est_revenue_won||'')+'</span></td>'+
-      '<td style="font-size:11px;color:var(--t2)">'+(g.est_revenue?fmtRev(g.est_revenue/30):'-')+'</td></tr>';
+      '<td style="font-size:11px;color:var(--t2)">'+(g.est_revenue?fmtRev(g.est_revenue/30):'-')+'</td>';
+    return tr;
   }
   // 처음 10개만 표시
-  tbody.innerHTML=games.slice(0,INITIAL_SHOW).map(makeRow).join('');
+  tbody.innerHTML='';
+  games.slice(0,INITIAL_SHOW).forEach(function(g){tbody.appendChild(makeRow(g));});
   // 더 보기 버튼
   if(games.length>INITIAL_SHOW){
-    tbody.innerHTML+='<tr id="rank-more-row"><td colspan="6" style="text-align:center;padding:12px"><button onclick="var t=this.closest('tbody');var hidden=t.querySelectorAll('.rank-hidden');hidden.forEach(function(r){r.style.display='table-row'});this.closest('tr').remove();return false" style="padding:8px 20px;border-radius:6px;border:1px solid var(--border);background:var(--surface);color:var(--t1);cursor:pointer;font-size:13px;font-weight:600">▼ 더 보기 ('+games.length+'개 중 '+(games.length-INITIAL_SHOW)+'개 남음)</button></td></tr>';
-    // 나머지는 숨김
-    var hidden=games.slice(INITIAL_SHOW).map(function(g){var r=makeRow(g);return r.replace('<tr','<tr class="rank-hidden" style="display:none"')});
-    tbody.innerHTML=tbody.innerHTML.replace('<!--MORE-->',hidden.join(''));
-    // 더 보기 행 앞에 숨김 행들 삽입
-    var moreRow=tbody.querySelector('#rank-more-row');
-    hidden.forEach(function(h){moreRow.insertAdjacentHTML('beforebegin',h)});
+    // 숨겨진 행들
+    games.slice(INITIAL_SHOW).forEach(function(g){
+      var tr=makeRow(g);
+      tr.style.display='none';
+      tr.className='rank-hidden';
+      tbody.appendChild(tr);
+    });
+    // 더 보기 버튼 행
+    var moreTr=document.createElement('tr');
+    moreTr.id='rank-more-row';
+    var moreTd=document.createElement('td');
+    moreTd.colSpan=6;
+    moreTd.style.textAlign='center';
+    moreTd.style.padding='12px';
+    var btn=document.createElement('button');
+    btn.textContent='▼ 더 보기 ('+games.length+'개 중 '+(games.length-INITIAL_SHOW)+'개 남음)';
+    btn.style.cssText='padding:8px 20px;border-radius:6px;border:1px solid var(--border);background:var(--surface);color:var(--t1);cursor:pointer;font-size:13px;font-weight:600';
+    btn.onclick=function(){
+      var hidden=tbody.querySelectorAll('.rank-hidden');
+      hidden.forEach(function(r){r.style.display='table-row';});
+      moreTr.remove();
+    };
+    moreTd.appendChild(btn);
+    moreTr.appendChild(moreTd);
+    tbody.appendChild(moreTr);
   }
   document.getElementById('rank-title').textContent=CFLAGS[country]+' '+CNAMES[country]+' 월 추정 매출 Top '+games.length;
   // 수집 기간
