@@ -53,19 +53,6 @@
   },
   {
     "rank": 5,
-    "title": "モンスターストライク",
-    "developer": "XFLAG, Inc.",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "jp.co.mixi.monsterstrike",
-    "local_name": "モンスターストライク",
-    "icon": "https://play-lh.googleusercontent.com/WGW2AUzVfG3YF5cZJ_oRuhwAUGR5bskjiWFl4Kc_efzAeXsBMwnMXiMUGEGMTLHkihIWqrk6X_SEZ-T6LGMo",
-    "est_revenue": 8476006,
-    "est_revenue_fmt": "$8.48M",
-    "est_revenue_won": "127.1억"
-  },
-  {
-    "rank": 6,
     "title": "Zenless Zone Zero - Anniv.",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -76,6 +63,19 @@
     "est_revenue": 14838275,
     "est_revenue_fmt": "$14.84M",
     "est_revenue_won": "222.6억"
+  },
+  {
+    "rank": 6,
+    "title": "モンスターストライク",
+    "developer": "XFLAG, Inc.",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "jp.co.mixi.monsterstrike",
+    "local_name": "モンスターストライク",
+    "icon": "https://play-lh.googleusercontent.com/WGW2AUzVfG3YF5cZJ_oRuhwAUGR5bskjiWFl4Kc_efzAeXsBMwnMXiMUGEGMTLHkihIWqrk6X_SEZ-T6LGMo",
+    "est_revenue": 8476006,
+    "est_revenue_fmt": "$8.48M",
+    "est_revenue_won": "127.1억"
   },
   {
     "rank": 7,
@@ -92,19 +92,6 @@
   },
   {
     "rank": 8,
-    "title": "LINE：ディズニー ツムツム",
-    "developer": "LINE (LY Corporation)",
-    "genre": "Game",
-    "rating": 3.9,
-    "app_id": "com.linecorp.LGTMTM",
-    "local_name": "LINE：ディズニー ツムツム",
-    "icon": "https://play-lh.googleusercontent.com/0L1DdOZV6OLTGBW0SunL4Dgy--J7q7y1R7_YIjgyHhFB3QK1hqSeDnv_x1JdXJOx7f3jQNSa3u3UNzCHfLuF",
-    "est_revenue": 5868076,
-    "est_revenue_fmt": "$5.87M",
-    "est_revenue_won": "88.0억"
-  },
-  {
-    "rank": 9,
     "title": "SDガンダム ジージェネレーション エターナル",
     "developer": "Bandai Namco Entertainment Inc.",
     "genre": "Game",
@@ -115,6 +102,19 @@
     "est_revenue": 6529583,
     "est_revenue_fmt": "$6.53M",
     "est_revenue_won": "97.9억"
+  },
+  {
+    "rank": 9,
+    "title": "LINE：ディズニー ツムツム",
+    "developer": "LINE (LY Corporation)",
+    "genre": "Game",
+    "rating": 3.9,
+    "app_id": "com.linecorp.LGTMTM",
+    "local_name": "LINE：ディズニー ツムツム",
+    "icon": "https://play-lh.googleusercontent.com/0L1DdOZV6OLTGBW0SunL4Dgy--J7q7y1R7_YIjgyHhFB3QK1hqSeDnv_x1JdXJOx7f3jQNSa3u3UNzCHfLuF",
+    "est_revenue": 5868076,
+    "est_revenue_fmt": "$5.87M",
+    "est_revenue_won": "88.0억"
   },
   {
     "rank": 10,
@@ -235,19 +235,6 @@
   },
   {
     "rank": 19,
-    "title": "Pokémon GO",
-    "developer": "Scopely Explore, Inc.",
-    "genre": "Game",
-    "rating": 3.5,
-    "app_id": "com.nianticlabs.pokemongo",
-    "local_name": "Pokémon GO",
-    "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
-    "est_revenue": 2666666,
-    "est_revenue_fmt": "$2.67M",
-    "est_revenue_won": "40.0억"
-  },
-  {
-    "rank": 20,
     "title": "トゥーンブラスト (Toon Blast)",
     "developer": "Peak",
     "genre": "Game",
@@ -258,6 +245,19 @@
     "est_revenue": 2822460,
     "est_revenue_fmt": "$2.82M",
     "est_revenue_won": "42.3억"
+  },
+  {
+    "rank": 20,
+    "title": "Pokémon GO",
+    "developer": "Scopely Explore, Inc.",
+    "genre": "Game",
+    "rating": 3.5,
+    "app_id": "com.nianticlabs.pokemongo",
+    "local_name": "Pokémon GO",
+    "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
+    "est_revenue": 2666666,
+    "est_revenue_fmt": "$2.67M",
+    "est_revenue_won": "40.0억"
   },
   {
     "rank": 21,
@@ -313,19 +313,6 @@
   },
   {
     "rank": 25,
-    "title": "アークナイツ",
-    "developer": "Yostar, Inc.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.YoStarJP.Arknights",
-    "local_name": "アークナイツ",
-    "icon": "https://play-lh.googleusercontent.com/d768LvyQ1JVrv4K0900kVB-CpfKf_eFvHV22q7sLHk_JTZugf_qe4lOxbo5O_BMUO8cflqNkJk-SEshJDzX5zA",
-    "est_revenue": 1883170,
-    "est_revenue_fmt": "$1.88M",
-    "est_revenue_won": "28.2억"
-  },
-  {
-    "rank": 26,
     "title": "ドラゴンクエストウォーク",
     "developer": "SQUARE ENIX Co.,Ltd.",
     "genre": "Game",
@@ -336,6 +323,19 @@
     "est_revenue": 1967382,
     "est_revenue_fmt": "$1.97M",
     "est_revenue_won": "29.5억"
+  },
+  {
+    "rank": 26,
+    "title": "アークナイツ",
+    "developer": "Yostar, Inc.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.YoStarJP.Arknights",
+    "local_name": "アークナイツ",
+    "icon": "https://play-lh.googleusercontent.com/d768LvyQ1JVrv4K0900kVB-CpfKf_eFvHV22q7sLHk_JTZugf_qe4lOxbo5O_BMUO8cflqNkJk-SEshJDzX5zA",
+    "est_revenue": 1883170,
+    "est_revenue_fmt": "$1.88M",
+    "est_revenue_won": "28.2억"
   },
   {
     "rank": 27,
@@ -391,32 +391,6 @@
   },
   {
     "rank": 31,
-    "title": "LINE Pokopoko",
-    "developer": "LINE (LY Corporation)",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.linecorp.LGPKPK",
-    "local_name": "LINE Pokopoko",
-    "icon": "https://play-lh.googleusercontent.com/RW37kh_sLiGoadwzE4fMx90rWyXWUED7bewIu0FOeyqDN1ggtba4MDqGLpUF666AToW2DbM-PDZKjkTuwBHXpPM",
-    "est_revenue": 1519064,
-    "est_revenue_fmt": "$1.52M",
-    "est_revenue_won": "22.8억"
-  },
-  {
-    "rank": 32,
-    "title": "Gardenscapes",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.playrix.gardenscapes",
-    "local_name": "Gardenscapes",
-    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
-    "est_revenue": 1453364,
-    "est_revenue_fmt": "$1.45M",
-    "est_revenue_won": "21.8억"
-  },
-  {
-    "rank": 33,
     "title": "ヘブンバーンズレッド",
     "developer": "WFS, Inc.",
     "genre": "Game",
@@ -429,7 +403,7 @@
     "est_revenue_won": "20.0억"
   },
   {
-    "rank": 34,
+    "rank": 32,
     "title": "Genshin Impact",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -440,6 +414,32 @@
     "est_revenue": 1392342,
     "est_revenue_fmt": "$1.39M",
     "est_revenue_won": "20.9억"
+  },
+  {
+    "rank": 33,
+    "title": "LINE Pokopoko",
+    "developer": "LINE (LY Corporation)",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.linecorp.LGPKPK",
+    "local_name": "LINE Pokopoko",
+    "icon": "https://play-lh.googleusercontent.com/RW37kh_sLiGoadwzE4fMx90rWyXWUED7bewIu0FOeyqDN1ggtba4MDqGLpUF666AToW2DbM-PDZKjkTuwBHXpPM",
+    "est_revenue": 1519064,
+    "est_revenue_fmt": "$1.52M",
+    "est_revenue_won": "22.8억"
+  },
+  {
+    "rank": 34,
+    "title": "Gardenscapes",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.playrix.gardenscapes",
+    "local_name": "Gardenscapes",
+    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
+    "est_revenue": 1453364,
+    "est_revenue_fmt": "$1.45M",
+    "est_revenue_won": "21.8억"
   },
   {
     "rank": 35,
@@ -456,6 +456,19 @@
   },
   {
     "rank": 36,
+    "title": "ドラゴンクエストスマッシュグロウ ドラクエローグライトRPG",
+    "developer": "SQUARE ENIX Co.,Ltd.",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "com.square_enix.android_googleplay.dqsgj",
+    "local_name": "ドラゴンクエストスマッシュグロウ ドラクエローグライトRPG",
+    "icon": "https://play-lh.googleusercontent.com/1sdqXY812mSKhGAdlb__4rqDj3PnFxhBgLuqWzPzu83sN0ap6wniQMlk0bVj-Nmjo1LDh_6rsfSCTHt1VlSyGg",
+    "est_revenue": 1063958,
+    "est_revenue_fmt": "$1.06M",
+    "est_revenue_won": "16.0억"
+  },
+  {
+    "rank": 37,
     "title": "NTE: Neverness to Everness",
     "developer": "N2E",
     "genre": "Game",
@@ -468,7 +481,7 @@
     "est_revenue_won": "32.4억"
   },
   {
-    "rank": 37,
+    "rank": 38,
     "title": "プロ野球スピリッツA",
     "developer": "KONAMI",
     "genre": "Game",
@@ -479,19 +492,6 @@
     "est_revenue": 1186698,
     "est_revenue_fmt": "$1.19M",
     "est_revenue_won": "17.8억"
-  },
-  {
-    "rank": 38,
-    "title": "ドラゴンクエストスマッシュグロウ ドラクエローグライトRPG",
-    "developer": "SQUARE ENIX Co.,Ltd.",
-    "genre": "Game",
-    "rating": 4,
-    "app_id": "com.square_enix.android_googleplay.dqsgj",
-    "local_name": "ドラゴンクエストスマッシュグロウ ドラクエローグライトRPG",
-    "icon": "https://play-lh.googleusercontent.com/1sdqXY812mSKhGAdlb__4rqDj3PnFxhBgLuqWzPzu83sN0ap6wniQMlk0bVj-Nmjo1LDh_6rsfSCTHt1VlSyGg",
-    "est_revenue": 1063958,
-    "est_revenue_fmt": "$1.06M",
-    "est_revenue_won": "16.0억"
   },
   {
     "rank": 39,
@@ -612,6 +612,19 @@
   },
   {
     "rank": 48,
+    "title": "無職転生〜異世界行ったら本気だす〜クロニクル・オブ・エコーズ",
+    "developer": "GREE Entertainment, Inc.",
+    "genre": "Game",
+    "rating": 3.9,
+    "app_id": "jp.gree_ent.mushoku",
+    "local_name": "無職転生〜異世界行ったら本気だす〜クロニクル・オブ・エコーズ",
+    "icon": "https://play-lh.googleusercontent.com/UB8Y6tnArnkS2at0-pEpxZhLo_kwELCXxo9N5thtl2DVavxLGzIeYfkScY0kYdZAKv-EoiL_2S4g5Bh4LbJVnSc",
+    "est_revenue": 0,
+    "est_revenue_fmt": "",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 49,
     "title": "Homescapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -624,7 +637,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 49,
+    "rank": 50,
     "title": "転生したらスライムだった件 魔王と竜の建国譚 まおりゅう",
     "developer": "Bandai Namco Entertainment Inc.",
     "genre": "Game",
@@ -632,19 +645,6 @@
     "app_id": "com.bandainamcoent.tensuramrkrelease",
     "local_name": "転生したらスライムだった件 魔王と竜の建国譚 まおりゅう",
     "icon": "https://play-lh.googleusercontent.com/XHppCshR7n1cbR2_sOoxe33acoy1nNFbzUBQ8fjLKavfPfQTLKtyONq3TCLpLfjZ08XEPx5nVcOGEToXO7qMEA",
-    "est_revenue": 0,
-    "est_revenue_fmt": "",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 50,
-    "title": "旦那様の一発逆転人生",
-    "developer": "37Games-Oversea",
-    "genre": "Game",
-    "rating": 2.8,
-    "app_id": "com.jp.beauty",
-    "local_name": "旦那様の一発逆転人生",
-    "icon": "https://play-lh.googleusercontent.com/dMZpIM_uav-hfQKPl5XUjHB98vvUJJl_7U99lE1sIMJ447lPXCn93_SiInconGTh89-ia18k5Q8dJF799wXctQ",
     "est_revenue": 0,
     "est_revenue_fmt": "",
     "est_revenue_won": ""
