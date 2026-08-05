@@ -2,8 +2,8 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "4,855",
-      "channels": "128",
+      "viewers": "4,938",
+      "channels": "127",
       "link": "https://chzzk.naver.com"
     },
     {
@@ -26,12 +26,12 @@
     },
     {
       "game": "발로란트",
-      "viewers": 77,
+      "viewers": 61,
       "channels": 20
     },
     {
       "game": "오버워치",
-      "viewers": 114,
+      "viewers": 213,
       "channels": 20
     },
     {
@@ -113,6 +113,14 @@
       "title": "[로스트아크] 로스피 벨가르딘 오픈런 -!",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20369800"
+    },
+    {
+      "name": "짜누1",
+      "viewers": 95,
+      "category": "오버워치",
+      "title": "굿몰닝",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20369429"
     },
     {
       "name": "표면이",
@@ -259,14 +267,6 @@
       "link": "https://chzzk.naver.com/live/20370273"
     },
     {
-      "name": "도르밍",
-      "viewers": 12,
-      "category": "발로란트",
-      "title": "우당탕탕 4인큐 (w. !멤버)",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20368077"
-    },
-    {
       "name": "이단융",
       "viewers": 12,
       "category": "마인크래프트",
@@ -283,14 +283,6 @@
       "link": "https://chzzk.naver.com/live/20370095"
     },
     {
-      "name": "릴썬",
-      "viewers": 11,
-      "category": "오버워치",
-      "title": "오바와치 힐러 플래 북벌",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20369011"
-    },
-    {
       "name": "세모개미",
       "viewers": 10,
       "category": "롤",
@@ -305,7 +297,15 @@
       "title": "작업뱅🫧",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20369698"
+    },
+    {
+      "name": "백숭민",
+      "viewers": 9,
+      "category": "게임",
+      "title": "0.0",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20369917"
     }
   ],
-  "fetched": "2026-08-05T10:46:17"
+  "fetched": "2026-08-05T10:46:20"
 }
