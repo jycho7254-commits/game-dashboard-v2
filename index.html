@@ -229,7 +229,7 @@ canvas{max-width:100%!important}
 <a onclick="showTab('calendar',this)"><span>캘린더</span></a>
 </div>
 <div class="topbar-right">
-<span class="meta" id="update-time">2026-08-05 10:10</span>
+<span class="meta" id="update-time">2026-08-05 10:15</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 </div>
 </div>
@@ -1317,77 +1317,56 @@ var CHZZK_PROXY=(function(){
 function _fetchSoftcAndRender(module){
   var btnIds={'plat':'inf-refresh-btn','cat':'inf-refresh-cat','stream':'inf-refresh-stream'};
   var btn=document.getElementById(btnIds[module]||'inf-refresh-btn');
-  // 다중 호출 방지 — 잠겨있으면 무시
-  if(_refreshLock[module]){
-    if(btn){btn.textContent='⏳ 처리 중...';}
-    return;
-  }
+  if(_refreshLock[module]){if(btn){btn.textContent='⏳ 처리 중...';}return;}
   _refreshLock[module]=true;
-  // 3초 후 잠금 해제
   setTimeout(function(){_refreshLock[module]=false;},_refreshCooldown);
   if(btn){btn.textContent='⏳';btn.disabled=true;}
-  // 1) 치지직 live API — 프록시 경유 (CORS 우회)
-  var cats=['게임','롤','발로란트','오버워치','배틀그라운드','마인크래프트','서든어택','로스트아크','FC온라인','스타크래프트'];
+  // 치지직 "게임" 키워드 1개만 fetch — 10개 → 1개로 최적화
   var liveStreamers=[];
-  var liveCats=[];
-  var done=0;
-  var totalCats=cats.length;
-  cats.forEach(function(cat){
-    try{
-      var qUrl=CHZZK_PROXY+'/?keyword='+encodeURIComponent(cat)+'&size=20';
-      fetch(qUrl).then(function(r){return r.json()}).then(function(data){
-        var lives=(data.content&&data.content.data)||(data.data)||[];
-        var catViewers=0;
-        lives.slice(0,20).forEach(function(item){
-          var live=item.live||item;var ch=item.channel||{};
-          var v=live.concurrentUserCount||0;
-          if(v>0&&ch.channelName){
-            liveStreamers.push({name:ch.channelName,viewers:v,category:cat,platform:'치지직',link:'https://chzzk.naver.com/live/'+(live.liveId||'')});
-            catViewers+=v;
-          }
-        });
-        if(catViewers>0)liveCats.push({rank:0,game:cat,viewers:catViewers.toLocaleString()+'명'});
-        done++;
-        if(done>=totalCats)_finishLiveRefresh();
-      }).catch(function(){done++;if(done>=totalCats)_finishLiveRefresh();});
-    }catch(e){done++;if(done>=totalCats)_finishLiveRefresh();}
-  });
+  try{
+    var qUrl=CHZZK_PROXY+'/?keyword='+encodeURIComponent('게임')+'&size=50';
+    fetch(qUrl).then(function(r){return r.json()}).then(function(data){
+      var lives=(data.content&&data.content.data)||(data.data)||[];
+      lives.slice(0,50).forEach(function(item){
+        var live=item.live||item;var ch=item.channel||{};
+        var v=live.concurrentUserCount||0;
+        if(v>0&&ch.channelName){
+          liveStreamers.push({name:ch.channelName,viewers:v,category:'게임',platform:'치지직',link:'https://chzzk.naver.com/live/'+(live.liveId||'')});
+        }
+      });
+      _finishLiveRefresh();
+    }).catch(function(){_finishLiveRefresh();});
+  }catch(e){_finishLiveRefresh();}
   function _finishLiveRefresh(){
-    // 치지직 데이터를 SOFTC에 merge
-    liveCats.sort(function(a,b){return parseInt(b.viewers)-parseInt(a.viewers)});
-    liveCats.forEach(function(c,i){c.rank=i+1});
     liveStreamers.sort(function(a,b){return parseInt(b.viewers)-parseInt(a.viewers)});
-    // 기존 SOOP 데이터 유지 + 치지직 live 데이터 병합
-    var soopStreams=(SOFTC.streamers||[]).filter(function(s){return (s.platform||'').indexOf('SOOP')>=0||(s.platform||'').indexOf('soop')>=0||!s.platform});
-    var allStreams=soopStreams.concat(liveStreamers);
-    SOFTC=Object.assign({},SOFTC,{
-      streamers:allStreams,
-      categories:(liveCats.length>3?liveCats:SOFTC.categories)
-    });
-    // 플랫폼 현황 업데이트
+    // 기존 YouTube Live 데이터 유지 + 치지직 실시간 병합
+    var ytStreams=(SOFTC.streamers||[]).filter(function(s){return (s.platform||'').indexOf('YouTube')>=0;});
+    var allStreams=liveStreamers.concat(ytStreams);
+    SOFTC=Object.assign({},SOFTC,{streamers:allStreams});
     var chzzkViewers=liveStreamers.reduce(function(s,x){return s+parseInt(x.viewers||0)},0);
     if(chzzkViewers>0&&SOFTC.platforms){
       SOFTC.platforms=SOFTC.platforms.map(function(p){
-        if(p.name&&(p.name.indexOf('치지직')>=0||p.name.indexOf('Chzzk')>=0)){p.viewers=chzzkViewers.toLocaleString()+'명';}
+        if(p.name&&p.name.indexOf('치지직')>=0){p.viewers=chzzkViewers.toLocaleString();}
         return p;
       });
     }
     if(module==='plat')renderSoftcPlatforms();
-    else if(module==='cat')renderSoftcCategories();
     else if(module==='stream')renderSoftcStreamers();
-    else{renderSoftcPlatforms();renderSoftcCategories();renderSoftcStreamers();}
-    if(btn){btn.textContent='✅ '+(liveStreamers.length>0?liveStreamers.length+'명 실시간':'📦 캐시 표시');btn.disabled=false;}
+    else{renderSoftcPlatforms();renderSoftcStreamers();}
+    if(btn){btn.textContent='✅ '+(liveStreamers.length>0?liveStreamers.length+'명 실시간':'📦 캐시');btn.disabled=false;}
     setTimeout(function(){if(btn){btn.textContent='🔄 새로고침';}},3000);
   }
-  // 2) fallback: fetch 실패 시 기존 정적 파일
+  // fallback: 5초 후 응답 없으면 캐시 표시
   setTimeout(function(){
-    if(done<totalCats){
+    if(!liveStreamers.length){
       var base=(window.location.hostname.includes('github.io'))?'./data/':'';
       fetch(base+'softc_data.json?t='+Date.now()).then(function(r){return r.json()}).then(function(d){
-        if(d&&d.platforms&&!SOFTC._liveLoaded){SOFTC=d;if(btn){btn.textContent='📦 캐시';btn.disabled=false;}setTimeout(function(){if(btn){btn.textContent='🔄 새로고침';}},2000);}
+        if(d&&d.platforms){SOFTC=d;renderSoftcPlatforms();renderSoftcStreamers();
+        if(btn){btn.textContent='📦 캐시';btn.disabled=false;}
+        setTimeout(function(){if(btn){btn.textContent='🔄 새로고침';}},2000);}
       }).catch(function(){});
     }
-  },8000);
+  },5000);
 }
 function refreshSoftc(){_fetchSoftcAndRender('all');}
 function refreshPlatforms(){_fetchSoftcAndRender('plat');}
