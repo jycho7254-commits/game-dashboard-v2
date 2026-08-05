@@ -136,9 +136,9 @@ tr:last-child td{border-bottom:none}
 .gcard-rank .gstack{width:120px;flex-shrink:0}
 .gcard-rank .gstack-bar{display:flex;height:7px;border-radius:4px;overflow:hidden;background:var(--fg-5);margin-bottom:3px}
 .gcard-rank .gstack-bar span{display:block;height:100%}
-.gcard-rank .gstack-legend{font-size:9px;color:var(--t3);font-variant-numeric:tabular-nums;white-space:nowrap}
+.gcard-rank .gstack-legend{font-size:10px;color:var(--t3);font-variant-numeric:tabular-nums;white-space:nowrap}
 .gcard-rank .grev{font-size:14px;font-weight:700;color:var(--t1);font-variant-numeric:tabular-nums;min-width:64px;text-align:right}
-.gcard-rank .gbadge{font-size:9px;font-weight:700;padding:1px 5px;border-radius:3px;min-width:24px;text-align:center}
+.gcard-rank .gbadge{font-size:10px;font-weight:700;padding:1px 5px;border-radius:3px;min-width:24px;text-align:center}
 @media(max-width:768px){.gcard-rank .gstack{display:none}.gcard-rank .gicon,.gcard-rank .gicon-ph{width:28px;height:28px}}
 /* 시장 점유율 */
 .mkt-share{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px}
@@ -195,7 +195,7 @@ canvas{max-width:100%!important}
 .gcard-rank .gicon,.gcard-rank .gicon-ph{width:28px;height:28px}
 .gcard-rank .grev{font-size:12px;min-width:52px}
 /* 캘린더 */
-.cal-day{min-height:36px;padding:1px;font-size:9px}
+.cal-day{min-height:36px;padding:1px;font-size:10px}
 .cal-day .day-event{font-size:6px}
 /* 인플루언서 */
 .inf-pager button{padding:4px 9px;font-size:11px}
@@ -690,7 +690,7 @@ function loadOverview(){
       var flag=g._c==='kr'?'KR':g._c==='cn'?'CN':g._c==='jp'?'JP':'';
       var iconHTML=g.icon?('<img src="'+getIcon(g)+'" style="width:18px;height:18px;border-radius:3px;vertical-align:middle;margin-right:3px" onerror="this.style.display=\'none\'">'):'';
       var gn=escAttr(g.local_name||g.title||'');
-      return '<tr onclick="openModal(\''+gn+'\')"><td>'+(flag||g.rank||1)+'</td><td>'+iconHTML+(g.local_name||g.title||'')+'</td><td>'+(g.developer||'').slice(0,15)+'</td><td><span style="font-size:9px;padding:2px 6px;border-radius:3px;background:var(--fg-12);color:var(--t2);font-weight:600">'+(g._c==='cn'?'iOS':'GP+iOS')+'</span></td><td style="font-weight:600;color:var(--accent)">'+rev+'</td><td style="font-size:11px;color:var(--t2)">'+(g.est_revenue?fmtRev(g.est_revenue/30):'-')+'</td></tr>';
+      return '<tr onclick="openModal(\''+gn+'\')"><td>'+(flag||g.rank||1)+'</td><td>'+iconHTML+(g.local_name||g.title||'')+'</td><td>'+(g.developer||'').slice(0,15)+'</td><td><span style="font-size:10px;padding:2px 6px;border-radius:3px;background:var(--fg-12);color:var(--t2);font-weight:600">'+(g._c==='cn'?'iOS':'GP+iOS')+'</span></td><td style="font-weight:600;color:var(--accent)">'+rev+'</td><td style="font-size:11px;color:var(--t2)">'+(g.est_revenue?fmtRev(g.est_revenue/30):'-')+'</td></tr>';
     });
     tbody.innerHTML=topRows.join('');
   }
@@ -844,8 +844,8 @@ function renderRank(q){
       '<td>'+(g.rank||'')+'</td>'+
       '<td>'+iconHTML+(g.local_name||g.title||'')+'</td>'+
       '<td>'+(g.developer||'').slice(0,20)+'</td>'+
-      '<td><span style="font-size:9px;padding:2px 6px;border-radius:3px;background:var(--fg-12);color:var(--t2);font-weight:600">'+(country==='cn'?'iOS':'GP+iOS')+'</span></td>'+
-      '<td style="font-weight:600">'+(g.est_revenue_fmt||'-')+' <span style="font-size:9px;color:var(--t3)">'+(g.est_revenue_won||'')+'</span></td>'+
+      '<td><span style="font-size:10px;padding:2px 6px;border-radius:3px;background:var(--fg-12);color:var(--t2);font-weight:600">'+(country==='cn'?'iOS':'GP+iOS')+'</span></td>'+
+      '<td style="font-weight:600">'+(g.est_revenue_fmt||'-')+' <span style="font-size:10px;color:var(--t3)">'+(g.est_revenue_won||'')+'</span></td>'+
       '<td style="font-size:11px;color:var(--t2)">'+(g.est_revenue?fmtRev(g.est_revenue/30):'-')+'</td></tr>';
   });
   tbody.innerHTML=rows.join('');
@@ -1229,7 +1229,7 @@ function renderInfluencers(q){
     var tier=inf.tier||'D';
     var games=(inf.main_games||[]).slice(0,2).join(', ');
     var platform=inf.platform||'YouTube';
-    var officialTag=inf.is_official?'<span style="color:var(--accent);font-size:9px;border:1px solid var(--accent);padding:1px 3px;border-radius:2px;margin-right:3px">공식</span>':'';
+    var officialTag=inf.is_official?'<span style="color:var(--accent);font-size:10px;border:1px solid var(--accent);padding:1px 3px;border-radius:2px;margin-right:3px">공식</span>':'';
     return '<tr onclick="openInfDetail('+idx+')" style="cursor:pointer">'+
       '<td>'+(idx+1)+'</td>'+
       '<td><div style="font-weight:500">'+officialTag+(inf.name||'')+'</div>'+
