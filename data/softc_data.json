@@ -2,7 +2,7 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "3,066",
+      "viewers": "3,042",
       "channels": "125",
       "link": "https://chzzk.naver.com"
     },
@@ -31,7 +31,7 @@
     },
     {
       "game": "오버워치",
-      "viewers": 195,
+      "viewers": 171,
       "channels": 20
     },
     {
@@ -131,14 +131,6 @@
       "link": "https://chzzk.naver.com/live/20369210"
     },
     {
-      "name": "짜누1",
-      "viewers": 59,
-      "category": "오버워치",
-      "title": "굿몰닝",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20369429"
-    },
-    {
       "name": "하이유ㅎ",
       "viewers": 54,
       "category": "게임",
@@ -235,6 +227,14 @@
       "link": "https://chzzk.naver.com/live/20369428"
     },
     {
+      "name": "야켓",
+      "viewers": 23,
+      "category": "오버워치",
+      "title": "금붕어 산책",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20369092"
+    },
+    {
       "name": "실키아",
       "viewers": 23,
       "category": "스타크래프트",
@@ -283,6 +283,14 @@
       "link": "https://chzzk.naver.com/live/20369403"
     },
     {
+      "name": "산뜻한 로보트 2362430",
+      "viewers": 14,
+      "category": "오버워치",
+      "title": "초보",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20369349"
+    },
+    {
       "name": "달꼼",
       "viewers": 14,
       "category": "마인크래프트",
@@ -297,15 +305,7 @@
       "title": "미키니룰렛과 함께하는 로가다 벨가르딘트라이 헿..",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20369647"
-    },
-    {
-      "name": "Raccoon 너구리",
-      "viewers": 13,
-      "category": "오버워치",
-      "title": "오빠 시계",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20361381"
     }
   ],
-  "fetched": "2026-08-05T09:13:36"
+  "fetched": "2026-08-05T09:13:42"
 }
