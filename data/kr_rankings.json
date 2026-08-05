@@ -560,19 +560,6 @@
   },
   {
     "rank": 44,
-    "title": "리니지2M",
-    "developer": "NC Corporation",
-    "genre": "Game",
-    "rating": 3.5,
-    "app_id": "com.ncsoft.lineage2m19",
-    "local_name": "리니지M",
-    "icon": "https://play-lh.googleusercontent.com/bh67_a9Z2UyAoJHcktORocXm_c25UcWz_diX4kuGbQ2W1tbWwzK1QqapGahZrlDmwWCAp-CFoy9NA2KMYojBAik",
-    "est_revenue": 255639,
-    "est_revenue_fmt": "$256K",
-    "est_revenue_won": "3.8억"
-  },
-  {
-    "rank": 45,
     "title": "eFootball™",
     "developer": "KONAMI",
     "genre": "Game",
@@ -585,20 +572,20 @@
     "est_revenue_won": "3.7억"
   },
   {
-    "rank": 46,
-    "title": "Mystery Town: Merge Games",
-    "developer": "Cedar Games Studio",
+    "rank": 45,
+    "title": "리니지2M",
+    "developer": "NC Corporation",
     "genre": "Game",
-    "rating": 4.9,
-    "app_id": "com.cedargames.mysterytown",
-    "local_name": "Mystery Town: Merge Games",
-    "icon": "https://play-lh.googleusercontent.com/uVjVMEJrhT-xRoUtKIUj8tOVSbCWw4IsRHaTDYICRNjQycUj6SucVpeoAPiNZWeJ5JuzIt_ZZRo1X1pW6XJFAQE",
-    "est_revenue": 234725,
-    "est_revenue_fmt": "$235K",
-    "est_revenue_won": "3.5억"
+    "rating": 3.5,
+    "app_id": "com.ncsoft.lineage2m19",
+    "local_name": "리니지M",
+    "icon": "https://play-lh.googleusercontent.com/bh67_a9Z2UyAoJHcktORocXm_c25UcWz_diX4kuGbQ2W1tbWwzK1QqapGahZrlDmwWCAp-CFoy9NA2KMYojBAik",
+    "est_revenue": 255639,
+    "est_revenue_fmt": "$256K",
+    "est_revenue_won": "3.8억"
   },
   {
-    "rank": 47,
+    "rank": 46,
     "title": "라그나로크M: Classic",
     "developer": "GRAVITY Co., Ltd.",
     "genre": "Game",
@@ -609,6 +596,19 @@
     "est_revenue": 225230,
     "est_revenue_fmt": "$225K",
     "est_revenue_won": "3.4억"
+  },
+  {
+    "rank": 47,
+    "title": "Mystery Town: Merge Games",
+    "developer": "Cedar Games Studio",
+    "genre": "Game",
+    "rating": 4.9,
+    "app_id": "com.cedargames.mysterytown",
+    "local_name": "Mystery Town: Merge Games",
+    "icon": "https://play-lh.googleusercontent.com/uVjVMEJrhT-xRoUtKIUj8tOVSbCWw4IsRHaTDYICRNjQycUj6SucVpeoAPiNZWeJ5JuzIt_ZZRo1X1pW6XJFAQE",
+    "est_revenue": 234725,
+    "est_revenue_fmt": "$235K",
+    "est_revenue_won": "3.5억"
   },
   {
     "rank": 48,
