@@ -170,19 +170,6 @@
   },
   {
     "rank": 14,
-    "title": "Gossip Harbor®: Merge & Story",
-    "developer": "Microfun Limited",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.mergegames.gossipharbor",
-    "local_name": "가십 하버",
-    "icon": "https://play-lh.googleusercontent.com/HLRg8oInVYJV8Uebxlh1dTH4j7OTBMIWOPZY7A7ryW9UB8K4i7HCOqkGfSLORsK-XzqhnJcJM0mjObVKZYL8zA",
-    "est_revenue": 1466666,
-    "est_revenue_fmt": "$1.47M",
-    "est_revenue_won": "22.0억"
-  },
-  {
-    "rank": 15,
     "title": "Royal Match",
     "developer": "Dream Games, Ltd.",
     "genre": "Game",
@@ -193,6 +180,19 @@
     "est_revenue": 1587240,
     "est_revenue_fmt": "$1.59M",
     "est_revenue_won": "23.8억"
+  },
+  {
+    "rank": 15,
+    "title": "Gossip Harbor®: Merge & Story",
+    "developer": "Microfun Limited",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "com.mergegames.gossipharbor",
+    "local_name": "가십 하버",
+    "icon": "https://play-lh.googleusercontent.com/HLRg8oInVYJV8Uebxlh1dTH4j7OTBMIWOPZY7A7ryW9UB8K4i7HCOqkGfSLORsK-XzqhnJcJM0mjObVKZYL8zA",
+    "est_revenue": 1466666,
+    "est_revenue_fmt": "$1.47M",
+    "est_revenue_won": "22.0억"
   },
   {
     "rank": 16,
@@ -326,6 +326,19 @@
   },
   {
     "rank": 26,
+    "title": "Tasty Travels: Merge Game",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.fatmerge.global",
+    "local_name": "테이스티 트래블스",
+    "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
+    "est_revenue": 627969,
+    "est_revenue_fmt": "$628K",
+    "est_revenue_won": "9.4억"
+  },
+  {
+    "rank": 27,
     "title": "EA SPORTS FC Online M",
     "developer": "NEXON Company",
     "genre": "Game",
@@ -338,7 +351,7 @@
     "est_revenue_won": "8.9억"
   },
   {
-    "rank": 27,
+    "rank": 28,
     "title": "Gardenscapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -351,7 +364,7 @@
     "est_revenue_won": "10.0억"
   },
   {
-    "rank": 28,
+    "rank": 29,
     "title": "Last Asylum: Plague",
     "developer": "37GAMES GLOBAL",
     "genre": "Game",
@@ -362,19 +375,6 @@
     "est_revenue": 562114,
     "est_revenue_fmt": "$562K",
     "est_revenue_won": "8.4억"
-  },
-  {
-    "rank": 29,
-    "title": "Tasty Travels: Merge Game",
-    "developer": "Century Games PTE. LTD.",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.fatmerge.global",
-    "local_name": "테이스티 트래블스",
-    "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
-    "est_revenue": 627969,
-    "est_revenue_fmt": "$628K",
-    "est_revenue_won": "9.4억"
   },
   {
     "rank": 30,
@@ -586,19 +586,6 @@
   },
   {
     "rank": 46,
-    "title": "SD Gundam G Generation ETERNAL",
-    "developer": "Bandai Namco Entertainment Inc.",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.bandainamcoent.gget_WW",
-    "local_name": "SD Gundam G Generation ETERNAL",
-    "icon": "https://play-lh.googleusercontent.com/umWX9qJUcTLA-QIkGeYL_dxhLyDQc4UYYXMwC2MV4Pde2ti_TIOE_mzv6Wafm5SYAA7ZTBCuw27tDM_yfBPxRMY",
-    "est_revenue": 216307,
-    "est_revenue_fmt": "$216K",
-    "est_revenue_won": "3.2억"
-  },
-  {
-    "rank": 47,
     "title": "Mystery Town: Merge Games",
     "developer": "Cedar Games Studio",
     "genre": "Game",
@@ -609,6 +596,19 @@
     "est_revenue": 225230,
     "est_revenue_fmt": "$225K",
     "est_revenue_won": "3.4억"
+  },
+  {
+    "rank": 47,
+    "title": "SD Gundam G Generation ETERNAL",
+    "developer": "Bandai Namco Entertainment Inc.",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.bandainamcoent.gget_WW",
+    "local_name": "SD Gundam G Generation ETERNAL",
+    "icon": "https://play-lh.googleusercontent.com/umWX9qJUcTLA-QIkGeYL_dxhLyDQc4UYYXMwC2MV4Pde2ti_TIOE_mzv6Wafm5SYAA7ZTBCuw27tDM_yfBPxRMY",
+    "est_revenue": 216307,
+    "est_revenue_fmt": "$216K",
+    "est_revenue_won": "3.2억"
   },
   {
     "rank": 48,
@@ -638,13 +638,13 @@
   },
   {
     "rank": 50,
-    "title": "WPL:Texas Hold'em, MTT, Sit&Go",
-    "developer": "Zempot INC.",
+    "title": "라그나로크M: Classic",
+    "developer": "GRAVITY Co., Ltd.",
     "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.zempot.wplpoker",
-    "local_name": "WPL:Texas Hold'em, MTT, Sit&Go",
-    "icon": "https://play-lh.googleusercontent.com/QQVS3cmt_fMF91ecz8fHExUP_VJUty-9dCmA7sOZQR3086-4nD-2ANOA2cOkFeiHt5eFW55CZJGpiaO_BahNZA",
+    "rating": 4.6,
+    "app_id": "com.gravity.romkrzeny.aos",
+    "local_name": "라그나로크M: Classic",
+    "icon": "https://play-lh.googleusercontent.com/5SFBw-txEgmxfiD8J5DcHchCZFvLCo1jZsalnlDHYjv5nddS-8oLSRIwGHmqKF0NLaZJ9Gmbx6wEMGxlNtFe",
     "est_revenue": 0,
     "est_revenue_fmt": "",
     "est_revenue_won": ""
