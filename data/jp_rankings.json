@@ -30,7 +30,7 @@
     "title": "ホロライブドリームス",
     "developer": "QualiArts, Inc.",
     "genre": "Game",
-    "rating": 4.4,
+    "rating": 4.3,
     "app_id": "game.qualiarts.hololive.dreams.jp",
     "local_name": "ホロライブドリームス",
     "icon": "https://play-lh.googleusercontent.com/j00IPpPSDv3cGqoKVIDf0qnCw6EbZQ4KpgMr10UWkf8Rm1qO9vCSoVhJwfCF1PbbKxV_Qt_eqZ_Sp4QMHuhwYBI",
@@ -92,6 +92,19 @@
   },
   {
     "rank": 8,
+    "title": "Whiteout Survival",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 3.3,
+    "app_id": "com.gof.global",
+    "local_name": "Whiteout Survival",
+    "icon": "https://play-lh.googleusercontent.com/tNMaMiJ4wTQy_TeZSWHdSlP5qH0PGig9g9sDJu2QFvCHdnrbo2u17pX55W4i6KITo56v_ZyICkqLgA2svH9ycQ",
+    "est_revenue": 5333333,
+    "est_revenue_fmt": "$5.33M",
+    "est_revenue_won": "80.0억"
+  },
+  {
+    "rank": 9,
     "title": "SDガンダム ジージェネレーション エターナル",
     "developer": "Bandai Namco Entertainment Inc.",
     "genre": "Game",
@@ -104,7 +117,7 @@
     "est_revenue_won": "97.9억"
   },
   {
-    "rank": 9,
+    "rank": 10,
     "title": "LINE：ディズニー ツムツム",
     "developer": "LINE (LY Corporation)",
     "genre": "Game",
@@ -115,19 +128,6 @@
     "est_revenue": 5868076,
     "est_revenue_fmt": "$5.87M",
     "est_revenue_won": "88.0억"
-  },
-  {
-    "rank": 10,
-    "title": "Whiteout Survival",
-    "developer": "Century Games PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.3,
-    "app_id": "com.gof.global",
-    "local_name": "Whiteout Survival",
-    "icon": "https://play-lh.googleusercontent.com/tNMaMiJ4wTQy_TeZSWHdSlP5qH0PGig9g9sDJu2QFvCHdnrbo2u17pX55W4i6KITo56v_ZyICkqLgA2svH9ycQ",
-    "est_revenue": 5333333,
-    "est_revenue_fmt": "$5.33M",
-    "est_revenue_won": "80.0억"
   },
   {
     "rank": 11,
@@ -170,19 +170,6 @@
   },
   {
     "rank": 14,
-    "title": "GODDESS OF VICTORY: NIKKE",
-    "developer": "Level Infinite",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.proximabeta.nikke",
-    "local_name": "勝利の女神:NIKKE",
-    "icon": "https://play-lh.googleusercontent.com/JK5mejs0bVT_9613gCxNfCjRw_m3JiQ4wC8B8Kt471yu7ThFQazVkCLTfPZ81hnenft7ilaE-qSwVGpQT6sEFcY",
-    "est_revenue": 3908055,
-    "est_revenue_fmt": "$3.91M",
-    "est_revenue_won": "58.6억"
-  },
-  {
-    "rank": 15,
     "title": "ウマ娘 プリティーダービー",
     "developer": "Cygames, Inc.",
     "genre": "Game",
@@ -193,6 +180,19 @@
     "est_revenue": 3666666,
     "est_revenue_fmt": "$3.67M",
     "est_revenue_won": "55.0억"
+  },
+  {
+    "rank": 15,
+    "title": "GODDESS OF VICTORY: NIKKE",
+    "developer": "Level Infinite",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.proximabeta.nikke",
+    "local_name": "勝利の女神:NIKKE",
+    "icon": "https://play-lh.googleusercontent.com/JK5mejs0bVT_9613gCxNfCjRw_m3JiQ4wC8B8Kt471yu7ThFQazVkCLTfPZ81hnenft7ilaE-qSwVGpQT6sEFcY",
+    "est_revenue": 3908055,
+    "est_revenue_fmt": "$3.91M",
+    "est_revenue_won": "58.6억"
   },
   {
     "rank": 16,
@@ -404,19 +404,6 @@
   },
   {
     "rank": 32,
-    "title": "LINE Pokopoko",
-    "developer": "LINE (LY Corporation)",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.linecorp.LGPKPK",
-    "local_name": "LINE Pokopoko",
-    "icon": "https://play-lh.googleusercontent.com/RW37kh_sLiGoadwzE4fMx90rWyXWUED7bewIu0FOeyqDN1ggtba4MDqGLpUF666AToW2DbM-PDZKjkTuwBHXpPM",
-    "est_revenue": 1519064,
-    "est_revenue_fmt": "$1.52M",
-    "est_revenue_won": "22.8억"
-  },
-  {
-    "rank": 33,
     "title": "Gardenscapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -429,20 +416,20 @@
     "est_revenue_won": "21.8억"
   },
   {
-    "rank": 34,
-    "title": "Genshin Impact",
-    "developer": "COGNOSPHERE PTE. LTD.",
+    "rank": 33,
+    "title": "LINE Pokopoko",
+    "developer": "LINE (LY Corporation)",
     "genre": "Game",
-    "rating": 4,
-    "app_id": "com.miHoYo.GenshinImpact",
-    "local_name": "原神",
-    "icon": "https://play-lh.googleusercontent.com/YQqyKaXX-63krqsfIzUEJWUWLINxcb5tbS6QVySdxbS7eZV7YB2dUjUvX27xA0TIGtfxQ5v-tQjwlT5tTB-O",
-    "est_revenue": 1392342,
-    "est_revenue_fmt": "$1.39M",
-    "est_revenue_won": "20.9억"
+    "rating": 4.2,
+    "app_id": "com.linecorp.LGPKPK",
+    "local_name": "LINE Pokopoko",
+    "icon": "https://play-lh.googleusercontent.com/RW37kh_sLiGoadwzE4fMx90rWyXWUED7bewIu0FOeyqDN1ggtba4MDqGLpUF666AToW2DbM-PDZKjkTuwBHXpPM",
+    "est_revenue": 1519064,
+    "est_revenue_fmt": "$1.52M",
+    "est_revenue_won": "22.8억"
   },
   {
-    "rank": 35,
+    "rank": 34,
     "title": "ヘブンバーンズレッド",
     "developer": "WFS, Inc.",
     "genre": "Game",
@@ -453,6 +440,19 @@
     "est_revenue": 1335542,
     "est_revenue_fmt": "$1.34M",
     "est_revenue_won": "20.0억"
+  },
+  {
+    "rank": 35,
+    "title": "Genshin Impact",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "com.miHoYo.GenshinImpact",
+    "local_name": "原神",
+    "icon": "https://play-lh.googleusercontent.com/YQqyKaXX-63krqsfIzUEJWUWLINxcb5tbS6QVySdxbS7eZV7YB2dUjUvX27xA0TIGtfxQ5v-tQjwlT5tTB-O",
+    "est_revenue": 1392342,
+    "est_revenue_fmt": "$1.39M",
+    "est_revenue_won": "20.9억"
   },
   {
     "rank": 36,
