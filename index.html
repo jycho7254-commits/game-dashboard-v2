@@ -231,7 +231,7 @@ canvas{max-width:100%!important}
 <a onclick="showTab('calendar',this)"><span>캘린더</span></a>
 </div>
 <div class="topbar-right">
-<span class="meta" id="update-time">2026-08-05 12:34</span>
+<span class="meta" id="update-time">2026-08-05 12:35</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 </div>
 </div>
@@ -1976,20 +1976,87 @@ function openModal(gameName){
     '명일방주':'2026.07 — 신규 이벤트 "여명의 노래"',
     '화이트아웃 서바이벌':'2026.07 — 신규 영지 "빙하" 추가',
     'Whiteout Survival':'2026.07 — New Glacier territory',
+    '킹샷':'2026.08 — 신규 캐릭터 추가 / 시즌2',
+    'Kingshot':'2026.08 — New character / Season 2',
+    '운빨존많겜':'2026.08 — 신규 타워 업데이트',
+    'Lucky Defense':'2026.08 — New tower update',
+    '쿠키런: 크럼블':'2026.08 — 신규 쿠키 추가',
+    'CookieRun':'2026.08 — New cookie update',
+    '협타디: 협동타워 디펜스':'2026.08 — 정식 출시 / 신규 맵',
+    'Coop TD':'2026.08 — Launch / New map',
+    '홀로라이브 드림즈':'2026.07 — 정식 출시 / 대규모 업데이트',
+    'hololive Dreams':'2026.07 — Launch / Major update',
+    'SD 건담':'2026.08 — 신규 유닛 추가 / 콜라보',
+    'SD Gundam':'2026.08 — New units / Collab',
+    'SDガンダム':'2026.08 — 新ユニット追加 / コラボ',
+    'Fate/Grand Order':'2026.08 — 8주년 이벤트 / 신규 서번트',
+    'ウマ娘':'2026.08 — 신규 우마무스메 추가',
+    'あんさんぶるスターズ':'2026.08 — 신규 이벤트',
+    'ブルーアーカイブ':'2026.08 — 여름 이벤트 진행',
+    'モンスターストライク':'2026.08 — 신규 콜라브',
+    'グランブルーファンタジー':'2026.08 — 신규 캐릭터',
+    'アークナイツ':'2026.08 — 신규 이벤트 "여명의 노래"',
+    'にゃんこ大戦争':'2026.08 — 신규 캐릭터 추가',
+    'LINE：ディズニー ツムツム':'2026.08 — 신규 트센 이벤트',
+    'メイプルストーリー':'2026.08 — 신규 직업 추가',
+    'Last War':'2026.08 — 글로벌 흥행 / 신규 시즌',
+    'Last Z':'2026.08 — 신규 무기 추가',
+    'Last Asylum':'2026.08 — 신규 콘텐츠 업데이트',
+    'Royal Match':'2026.08 — 신규 레벨 2000개 추가',
+    'Royal Kingdom':'2026.08 — 신규 건설 콘텐츠',
+    'Gardenscapes':'2026.08 — 신규 영지 추가',
+    'Homescapes':'2026.08 — 신규 방 커스텀',
+    'Gossip Harbor':'2026.08 — 신규 스토리 챕터',
+    'Township':'2026.08 — 신규 건물 / 이벤트',
+    'Candy Crush':'2026.08 — 신규 레벨 / 시즌 이벤트',
+    'Puzzles & Survival':'2026.08 — 신규 영웅 / 이벤트',
+    'Pokémon TCG':'2026.08 — 신규 확장팩 "천공의 패왕"',
+    'Wizardry Variants Daphne':'2026.08 — 신규 던전 업데이트',
+    'NTE':'2026.08 — CBT 진행 / 신규 콘텐츠',
+    'Neverness':'2026.08 — CBT 진행',
+    '이환':'2026.08 — CBT 진행 / 사전예약',
+    '아이온2':'2026.08 — 정식 출시 준비 / CBT',
+    'AION2':'2026.08 — Launch prep / CBT',
+    '라그나로크M':'2026.08 — 신규 클래스 추가',
+    '삼국지':'2026.08 — 신규 무장 추가',
+    '토이 삼국':'2026.08 — 신규 캐릭터 추가',
+    '열혈강호':'2026.08 — 신규 무공 업데이트',
+    '컴투스프로야구':'2026.08 — 2026 시즌 선수 데이터 업데이트',
+    '메이플스토리 키우기':'2026.08 — 신규 보스 / 이벤트',
+    '피망 포커':'2026.07 — 신규 시즌 / 보상',
+    '냥코 대전쟁':'2026.08 — 13주년 이벤트',
+    '캔디크러쉬 사가':'2026.08 — 신규 레벨 / 이벤트',
+    '가든스케이프':'2026.08 — 신규 정원 아이템',
+    '시사이드 이스케이프':'2026.08 — 신규 스테이지',
+    '테이스티 트래블스':'2026.08 — 신규 레시피 추가',
+    'FC 온라인 M':'2026.08 — 2026 시즌 업데이트',
+    'EA SPORTS FC':'2026.08 — 선수 데이터 업데이트',
+    'Paranoize':'2026.08 — 신규 콘텐츠',
+    'Mystery Town':'2026.08 — 신규 머지 아이템',
+    'QQ炫舞':'2026.08 — 신규 곡 / 콜라보',
+    'QQ飞车':'2026.08 — 신규 트랙 / 시즌',
+    'Lineage W':'2026.08 — 신규 클래스 "앱솔루트"',
+    '무한의 탑':'2026.08 — 신규 층 추가',
+    '디아블로 이모탈':'2026.08 — 신규 클래스 추가',
+    '크로니클':'2026.08 — 신규 챕터',
+    '다이아몬드 대시':'2026.08 — 신규 모드',
+    '에버 소울':'2026.08 — 신규 영혼 추가',
   };
   var updateInfo=GAME_UPDATES[gameName]||'';
   if(!updateInfo){
-    // 게임명 앞부분(3글자+)으로만 매칭 — 너무 짧으면 스킵
-    var prefix=gameName.split(/[\s:,\-]/)[0];
-    if(prefix&&prefix.length>=3){
+    // 1) 게임명의 각 단어로 매칭 시도
+    var words=gameName.split(/[\s:,\-()]/).filter(function(w){return w.length>=2});
+    for(var wi=0;wi<words.length&&!updateInfo;wi++){
+      var w=words[wi];
       for(var uk in GAME_UPDATES){
-        if(uk===prefix||uk.indexOf(prefix)===0&&prefix.length>=3){updateInfo=GAME_UPDATES[uk];break;}
+        if(uk===w||uk.indexOf(w)===0||w.indexOf(uk)===0){updateInfo=GAME_UPDATES[uk];break;}
       }
     }
-    // title에서 local_name 매칭 시도
-    if(!updateInfo&&gameName.length>=3){
+    // 2) 앞 2글자+로 매칭 (한국어)
+    if(!updateInfo&&gameName.length>=2){
+      var prefix2=gameName.slice(0,Math.min(4,gameName.length));
       for(var uk2 in GAME_UPDATES){
-        if(uk2.length>=4&&(gameName.indexOf(uk2)===0||uk2.indexOf(gameName)===0)){updateInfo=GAME_UPDATES[uk2];break;}
+        if(uk2.indexOf(prefix2)===0||prefix2.indexOf(uk2)===0){updateInfo=GAME_UPDATES[uk2];break;}
       }
     }
   }
