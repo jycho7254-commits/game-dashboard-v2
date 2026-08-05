@@ -2,8 +2,8 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "4,745",
-      "channels": "135",
+      "viewers": "4,801",
+      "channels": "133",
       "link": "https://chzzk.naver.com"
     },
     {
@@ -16,7 +16,7 @@
   "categories": [
     {
       "game": "게임",
-      "viewers": 413,
+      "viewers": 503,
       "channels": 20
     },
     {
@@ -26,7 +26,7 @@
     },
     {
       "game": "발로란트",
-      "viewers": 75,
+      "viewers": 76,
       "channels": 20
     },
     {
@@ -36,12 +36,12 @@
     },
     {
       "game": "배틀그라운드",
-      "viewers": 90,
+      "viewers": 51,
       "channels": 20
     },
     {
       "game": "마인크래프트",
-      "viewers": 106,
+      "viewers": 110,
       "channels": 20
     },
     {
@@ -113,6 +113,14 @@
       "title": "[로스트아크] 로스피 벨가르딘 오픈런 -!",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20369800"
+    },
+    {
+      "name": "김주선",
+      "viewers": 88,
+      "category": "게임",
+      "title": "아침의 행복 명조 방송 반갑습니다",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20369530"
     },
     {
       "name": "표면이",
@@ -195,20 +203,12 @@
       "link": "https://chzzk.naver.com/live/20369718"
     },
     {
-      "name": "반창",
-      "viewers": 17,
-      "category": "배틀그라운드",
-      "title": "하루에 10시간씩 했더니 다시 찾았어 감을...",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20370032"
-    },
-    {
-      "name": "여라 Yeora",
+      "name": "연 오",
       "viewers": 16,
-      "category": "배틀그라운드",
-      "title": "오늘도 나는 치킨을 위해 달린다 ´ ▿ ` ",
+      "category": "게임",
+      "title": "[신입] 뺙뺙, 처음하는 명조",
       "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20369412"
+      "link": "https://chzzk.naver.com/live/20368781"
     },
     {
       "name": "윈현",
@@ -227,20 +227,20 @@
       "link": "https://chzzk.naver.com/live/20302166"
     },
     {
+      "name": "백뮤아",
+      "viewers": 15,
+      "category": "발로란트",
+      "title": "[신입] 아침부터 보는 거 어때?",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20369868"
+    },
+    {
       "name": "달꼼",
       "viewers": 15,
       "category": "마인크래프트",
       "title": "₍ᐢ.ˬ.ᐡ₎ 💜🐰💛 달꼼밸리",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20369348"
-    },
-    {
-      "name": "장꾸야 놀자",
-      "viewers": 13,
-      "category": "배틀그라운드",
-      "title": "<시참 2/4> 스배 / 팔로우 ㄱㄱ [신입] ",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20365893"
     },
     {
       "name": "김어제",
@@ -275,14 +275,6 @@
       "link": "https://chzzk.naver.com/live/20358607"
     },
     {
-      "name": "도르밍",
-      "viewers": 12,
-      "category": "발로란트",
-      "title": "우당탕탕 4인큐 (w. !멤버)",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20368077"
-    },
-    {
       "name": "나모누리",
       "viewers": 12,
       "category": "로스트아크",
@@ -305,7 +297,15 @@
       "title": "시참) 오빠 시계",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20361381"
+    },
+    {
+      "name": "최 리안",
+      "viewers": 10,
+      "category": "롤",
+      "title": "모닝 일반 칼바람 몇 판 찌끄리기",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20358521"
     }
   ],
-  "fetched": "2026-08-05T10:51:47"
+  "fetched": "2026-08-05T10:51:52"
 }
