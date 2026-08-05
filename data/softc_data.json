@@ -2,8 +2,8 @@
   "platforms": [
     {
       "name": "치지직",
-      "viewers": "4,424",
-      "channels": "136",
+      "viewers": "4,401",
+      "channels": "137",
       "link": "https://chzzk.naver.com"
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "game": "배틀그라운드",
-      "viewers": 75,
+      "viewers": 52,
       "channels": 20
     },
     {
@@ -187,14 +187,6 @@
       "link": "https://chzzk.naver.com/live/20369718"
     },
     {
-      "name": "여라 Yeora",
-      "viewers": 21,
-      "category": "배틀그라운드",
-      "title": "오늘도 나는 치킨을 위해 달린다 ´ ▿ ` ",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20369412"
-    },
-    {
       "name": "쉐입",
       "viewers": 18,
       "category": "롤",
@@ -275,14 +267,6 @@
       "link": "https://chzzk.naver.com/live/20358521"
     },
     {
-      "name": "장꾸야 놀자",
-      "viewers": 13,
-      "category": "배틀그라운드",
-      "title": "<시참 3/4> 스배 / 팔로우 ㄱㄱ [신입] ",
-      "platform": "치지직",
-      "link": "https://chzzk.naver.com/live/20365893"
-    },
-    {
       "name": "김어제",
       "viewers": 13,
       "category": "마인크래프트",
@@ -305,7 +289,23 @@
       "title": "PBE 테스트 방송 (언제 꺼질지 모름 ㅠ)",
       "platform": "치지직",
       "link": "https://chzzk.naver.com/live/20370142"
+    },
+    {
+      "name": "이단융",
+      "viewers": 12,
+      "category": "마인크래프트",
+      "title": "곡괭이 깨먹은건 내가 사고친게 아니라 멋대로 깨진 곡괭이가 사고친거라고!",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20368852"
+    },
+    {
+      "name": "백숭민",
+      "viewers": 11,
+      "category": "게임",
+      "title": "0.0",
+      "platform": "치지직",
+      "link": "https://chzzk.naver.com/live/20369917"
     }
   ],
-  "fetched": "2026-08-05T10:15:16"
+  "fetched": "2026-08-05T10:15:21"
 }
