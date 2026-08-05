@@ -604,7 +604,7 @@ function renderSentiment(q){
   var SENT_SHOW=10;
   var sentHTML=rows.slice(0,SENT_SHOW).join('');
   if(rows.length>SENT_SHOW){
-    sentHTML+='<tr class="sent-more-row"><td colspan="7" style="text-align:center;padding:10px"><button id="sent-more-btn" style="padding:6px 18px;border-radius:6px;border:1px solid var(--border);background:var(--surface);color:var(--t1);cursor:pointer;font-size:12px;font-weight:600">'+String.fromCharCode(9660)+' 펼치기'</button></td></tr>';
+    sentHTML+='<tr class="sent-more-row"><td colspan="7" style="text-align:center;padding:10px"><button id="sent-more-btn" style="padding:6px 18px;border-radius:6px;border:1px solid var(--border);background:var(--surface);color:var(--t1);cursor:pointer;font-size:12px;font-weight:600">'+String.fromCharCode(9660)+' 펼치기</button></td></tr>';
     rows.slice(SENT_SHOW).forEach(function(r){sentHTML+=r.replace('<tr','<tr class="sent-hidden" style="display:none"');});
   }
   tbody.innerHTML=sentHTML;
@@ -857,7 +857,7 @@ function renderInfluencers(q){
   var INF_SHOW=10;
   var infHTML=rows.slice(0,INF_SHOW).join('');
   if(rows.length>INF_SHOW){
-    infHTML+='<tr class="inf-more-row"><td colspan="6" style="text-align:center;padding:10px"><button id="inf-more-btn" style="padding:6px 18px;border-radius:6px;border:1px solid var(--border);background:var(--surface);color:var(--t1);cursor:pointer;font-size:12px;font-weight:600">'+String.fromCharCode(9660)+' 펼치기'</button></td></tr>';
+    infHTML+='<tr class="inf-more-row"><td colspan="6" style="text-align:center;padding:10px"><button id="inf-more-btn" style="padding:6px 18px;border-radius:6px;border:1px solid var(--border);background:var(--surface);color:var(--t1);cursor:pointer;font-size:12px;font-weight:600">'+String.fromCharCode(9660)+' 펼치기</button></td></tr>';
     rows.slice(INF_SHOW).forEach(function(r){infHTML+=r.replace('<tr','<tr class="inf-hidden" style="display:none"');});
   }
   tbody.innerHTML=infHTML;
