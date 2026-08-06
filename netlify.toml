@@ -1,9 +1,5 @@
 [build]
-  command = "python3 build_dashboard.py"
   publish = "."
-
-[build.environment]
-  PYTHON_VERSION = "3.11"
 
 # softc_data.json — 1분 캐시 (실시간 데이터)
 [[headers]]
@@ -17,7 +13,7 @@
   [headers.values]
     Cache-Control = "public, max-age=300"
 
-# 정적 에셋 — 1일 캐시
+# 정적 에셋 — 1시간 캐시
 [[headers]]
   for = "/data/*.json"
   [headers.values]

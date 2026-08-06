@@ -4,3 +4,6 @@
 # 로컬 백업 파일
 *.backup-original
 *.bak
+
+# Local Netlify folder
+.netlify
