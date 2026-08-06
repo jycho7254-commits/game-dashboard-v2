@@ -261,6 +261,19 @@
   },
   {
     "rank": 21,
+    "title": "Kingshot",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 3.6,
+    "app_id": "com.run.tower.defense",
+    "local_name": "Kingshot",
+    "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
+    "est_revenue": 2267824,
+    "est_revenue_fmt": "$2.27M",
+    "est_revenue_won": "34.0억"
+  },
+  {
+    "rank": 22,
     "title": "Wizardry Variants Daphne",
     "developer": "株式会社ドリコム",
     "genre": "Game",
@@ -273,7 +286,7 @@
     "est_revenue_won": "37.8억"
   },
   {
-    "rank": 22,
+    "rank": 23,
     "title": "学園アイドルマスター",
     "developer": "Bandai Namco Entertainment Inc.",
     "genre": "Game",
@@ -284,19 +297,6 @@
     "est_revenue": 2387742,
     "est_revenue_fmt": "$2.39M",
     "est_revenue_won": "35.8억"
-  },
-  {
-    "rank": 23,
-    "title": "Kingshot",
-    "developer": "Century Games PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.6,
-    "app_id": "com.run.tower.defense",
-    "local_name": "Kingshot",
-    "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
-    "est_revenue": 2267824,
-    "est_revenue_fmt": "$2.27M",
-    "est_revenue_won": "34.0억"
   },
   {
     "rank": 24,
@@ -625,19 +625,6 @@
   },
   {
     "rank": 49,
-    "title": "Last Z: Survival Shooter",
-    "developer": "Omnilojo Pte Ltd",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.readygo.barrel.gp",
-    "local_name": "Last Z: Survival Shooter",
-    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
-    "est_revenue": 823562,
-    "est_revenue_fmt": "$824K",
-    "est_revenue_won": "12.4억"
-  },
-  {
-    "rank": 50,
     "title": "無職転生〜異世界行ったら本気だす〜クロニクル・オブ・エコーズ",
     "developer": "GREE Entertainment, Inc.",
     "genre": "Game",
@@ -648,5 +635,18 @@
     "est_revenue": 0,
     "est_revenue_fmt": "",
     "est_revenue_won": ""
+  },
+  {
+    "rank": 50,
+    "title": "Last Z: Survival Shooter",
+    "developer": "Omnilojo Pte Ltd",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.readygo.barrel.gp",
+    "local_name": "Last Z: Survival Shooter",
+    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
+    "est_revenue": 823562,
+    "est_revenue_fmt": "$824K",
+    "est_revenue_won": "12.4억"
   }
 ]
