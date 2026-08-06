@@ -39,7 +39,7 @@ body{font-family:'Pretendard',sans-serif;background:linear-gradient(rgba(15,15,2
 .topbar{background:var(--sb-bg);border-bottom:1px solid var(--border);position:sticky;top:0;z-index:100;backdrop-filter:blur(12px)}
 .topbar-inner{display:flex;flex-direction:column;align-items:center;padding:10px 24px 0;max-width:1600px;margin:0 auto}
 .topbar-title{text-align:center;font-size:22px;font-weight:800;color:var(--t1);letter-spacing:-.5px;padding:6px 0 8px}
-.topbar-title small{font-size:12px;color:var(--t3);font-weight:500;margin-left:6px}
+.topbar-title small{font-size:14px;color:var(--t3);font-weight:500;margin-left:6px}
 .topbar-tabs{display:flex;align-items:center;justify-content:center;gap:0;width:100%;overflow-x:auto;scrollbar-width:none}
 .topbar-tabs::-webkit-scrollbar{display:none}
 .topbar-tabs a{display:flex;align-items:center;padding:12px 18px;color:var(--t2);text-decoration:none;font-size:14px;font-weight:500;cursor:pointer;transition:.15s;white-space:nowrap;border-bottom:3px solid transparent}
@@ -48,46 +48,46 @@ body{font-family:'Pretendard',sans-serif;background:linear-gradient(rgba(15,15,2
 .topbar-right{display:flex;align-items:center;gap:8px;white-space:nowrap;position:absolute;right:24px;top:14px}
 .mn{flex:1;padding:20px 28px;min-width:0;max-width:1600px;margin:0 auto;width:100%}
 .header{display:flex;align-items:center;justify-content:space-between;margin-bottom:18px;flex-wrap:wrap;gap:8px}
-.header h1{font-size:20px;font-weight:700;letter-spacing:-.4px}.header .meta{font-size:11px;color:var(--t3);font-weight:500}
-.header button,.header select{padding:5px 12px;border-radius:var(--radius-sm);border:1px solid var(--border);background:var(--surface);color:var(--t1);cursor:pointer;font-size:12px;font-weight:500;transition:.15s}
+.header h1{font-size:20px;font-weight:700;letter-spacing:-.4px}.header .meta{font-size:15px;color:var(--t3);font-weight:500}
+.header button,.header select{padding:5px 12px;border-radius:var(--radius-sm);border:1px solid var(--border);background:var(--surface);color:var(--t1);cursor:pointer;font-size:14px;font-weight:500;transition:.15s}
 .header button:hover{background:var(--surface-hover)}
 .tc{display:none}.tc.on{display:block}
 .kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:10px;margin-bottom:18px}
-.kpi{background:var(--surface);border-radius:var(--radius);padding:14px 16px;border:1px solid var(--border)}.kpi .v{font-size:24px;font-weight:700;margin:3px 0;letter-spacing:-.5px}.kpi .l{font-size:11px;color:var(--t2);font-weight:500;text-transform:uppercase;letter-spacing:.4px}.kpi .s{font-size:11px;color:var(--t3);margin-top:2px}
+.kpi{background:var(--surface);border-radius:var(--radius);padding:14px 16px;border:1px solid var(--border)}.kpi .v{font-size:24px;font-weight:700;margin:3px 0;letter-spacing:-.5px}.kpi .l{font-size:15px;color:var(--t2);font-weight:500;text-transform:uppercase;letter-spacing:.4px}.kpi .s{font-size:15px;color:var(--t3);margin-top:2px}
 .kpi.pos .v{color:var(--pos)}.kpi.neg .v{color:var(--neg)}.kpi.warn .v{color:var(--warn)}
 .card{background:var(--surface);border-radius:var(--radius);padding:16px 18px;border:1px solid var(--border);margin-bottom:12px}
 .card h3{font-size:15px;font-weight:600;margin-bottom:12px;display:flex;align-items:center;gap:8px}
-table{width:100%;border-collapse:collapse;font-size:13px}
-th{text-align:left;padding:8px 10px;border-bottom:1px solid var(--border);color:var(--t2);font-weight:600;font-size:12px;cursor:pointer;white-space:nowrap;text-transform:uppercase;letter-spacing:.3px}
+table{width:100%;border-collapse:collapse;font-size:15px}
+th{text-align:left;padding:8px 10px;border-bottom:1px solid var(--border);color:var(--t2);font-weight:600;font-size:14px;cursor:pointer;white-space:nowrap;text-transform:uppercase;letter-spacing:.3px}
 td{padding:9px 10px;border-bottom:1px solid var(--fg-5)}
 tr:hover td{background:var(--surface-hover);cursor:pointer}
 tr:last-child td{border-bottom:none}
-.tag{display:inline-block;padding:2px 8px;border-radius:var(--radius-sm);font-size:11px;font-weight:600}
+.tag{display:inline-block;padding:2px 8px;border-radius:var(--radius-sm);font-size:15px;font-weight:600}
 .tag.pos{background:var(--pos);color:#fff}.tag.neg{background:var(--neg);color:#fff}.tag.neu{background:var(--fg-12);color:var(--t2)}
 .flag{font-size:14px;margin-right:2px}
-.search{width:100%;padding:8px 14px;border-radius:var(--radius);border:1px solid var(--border);background:var(--surface);color:var(--t1);font-size:13px;margin-bottom:12px;outline:none;transition:.15s}.search:focus{border-color:var(--accent);background:var(--bg)}
+.search{width:100%;padding:8px 14px;border-radius:var(--radius);border:1px solid var(--border);background:var(--surface);color:var(--t1);font-size:15px;margin-bottom:12px;outline:none;transition:.15s}.search:focus{border-color:var(--accent);background:var(--bg)}
 .country-tabs{display:inline-flex;gap:2px;margin-bottom:14px;flex-wrap:wrap;padding:3px;background:var(--fg-5);border-radius:var(--radius)}
-.ctab{padding:6px 14px;border-radius:var(--radius-sm);border:none;background:transparent;color:var(--t2);cursor:pointer;font-size:12px;font-weight:600;transition:.15s;white-space:nowrap}
+.ctab{padding:6px 14px;border-radius:var(--radius-sm);border:none;background:transparent;color:var(--t2);cursor:pointer;font-size:14px;font-weight:600;transition:.15s;white-space:nowrap}
 .ctab:hover{color:var(--t1)}
 .ctab.on{background:var(--surface);color:var(--t1);box-shadow:var(--shadow)}
 .modal-bg{display:none;position:fixed;inset:0;background:rgba(0,0,0,.65);backdrop-filter:blur(4px);z-index:1000;justify-content:center;align-items:flex-start;padding:40px 20px;overflow-y:auto}
 .modal-bg.on{display:flex}
 .modal{background:var(--sb-bg);border-radius:var(--radius-lg);max-width:680px;width:100%;padding:24px;border:1px solid var(--border);margin-bottom:40px;box-shadow:0 20px 60px rgba(0,0,0,.5);scrollbar-width:thin;max-height:90vh;overflow-y:auto}
 .modal h2{font-size:19px;font-weight:700;margin-bottom:18px;letter-spacing:-.3px}.modal-close{float:right;cursor:pointer;font-size:20px;color:var(--t3);line-height:1;width:28px;height:28px;display:inline-flex;align-items:center;justify-content:center;border-radius:var(--radius-sm);transition:.15s}.modal-close:hover{background:var(--surface-hover);color:var(--t1)}
-.modal-sec{margin-bottom:18px}.modal-sec h4{font-size:11px;color:var(--t2);margin-bottom:8px;text-transform:uppercase;letter-spacing:.6px;font-weight:600}
-.src-label{display:inline-block;padding:2px 6px;border-radius:4px;font-size:10px;font-weight:500;margin-right:4px}
+.modal-sec{margin-bottom:18px}.modal-sec h4{font-size:15px;color:var(--t2);margin-bottom:8px;text-transform:uppercase;letter-spacing:.6px;font-weight:600}
+.src-label{display:inline-block;padding:2px 6px;border-radius:4px;font-size:14px;font-weight:500;margin-right:4px}
 .src-dc{background:#e74c3c26;color:#ff6b6b}.src-arca{background:#3498db26;color:#5db8ff}.src-yt{background:#ff000026;color:#ff6b6b}.src-gp{background:#34a85326;color:#4ade80}
 .src-bili{background:#fb729926;color:#fb7299}.src-tap{background:#ffa50026;color:#ffb84d}.src-weibo{background:#e6162d26;color:#ff6b6b}
-.cal-grid{display:grid!important;grid-template-columns:repeat(7,1fr)!important;gap:2px;font-size:11px}
-.cal-dow{text-align:center;font-weight:600;padding:6px 4px;color:var(--t2);font-size:10px;text-transform:uppercase;letter-spacing:.5px}
+.cal-grid{display:grid!important;grid-template-columns:repeat(7,1fr)!important;gap:2px;font-size:15px}
+.cal-dow{text-align:center;font-weight:600;padding:6px 4px;color:var(--t2);font-size:14px;text-transform:uppercase;letter-spacing:.5px}
 .cal-day{min-height:54px;padding:4px;background:var(--surface);border-radius:var(--radius-sm);cursor:pointer;position:relative;transition:.15s;border:1px solid var(--border)}
 .cal-day:hover{background:var(--surface-hover)}
 .cal-day.today{border-color:var(--accent);background:var(--accent-soft)}
 .cal-day.selected{outline:2px solid var(--accent);outline-offset:-2px;background:var(--accent-soft)}
 .cal-day.selected::after{display:none}
 .cal-day.has-event::after{content:'';position:absolute;top:5px;right:5px;width:6px;height:6px;border-radius:50%;background:var(--accent)}
-.cal-day .day-num{font-weight:600;font-size:12px;color:var(--t1)}
-.cal-day .day-event{font-size:8px;color:var(--t2);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;margin-top:2px;line-height:1.3;padding:1px 3px;border-radius:3px;margin-top:2px;display:block}
+.cal-day .day-num{font-weight:600;font-size:14px;color:var(--t1)}
+.cal-day .day-event{font-size:14px;color:var(--t2);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;margin-top:2px;line-height:1.3;padding:1px 3px;border-radius:3px;margin-top:2px;display:block}
 .cal-day .day-event.t-update{background:#3b82f626;color:#3b82f6}
 .cal-day .day-event.t-collaboration{background:#10b98126;color:#10b981}
 .cal-day .day-event.t-event{background:#f59e0b26;color:#f59e0b}
@@ -96,7 +96,7 @@ tr:last-child td{border-bottom:none}
 .cal-day .day-event.t-more{background:transparent;color:var(--t3);font-style:italic}
 .cal-day.other-month{opacity:.3}
 /* 이벤트 타입 범례 */
-.cal-legend{display:flex;flex-wrap:wrap;gap:10px;margin-top:8px;font-size:11px;color:var(--t2)}
+.cal-legend{display:flex;flex-wrap:wrap;gap:10px;margin-top:8px;font-size:15px;color:var(--t2)}
 .cal-legend .lg{display:inline-flex;align-items:center;gap:4px}
 .cal-legend .lg .dot{width:8px;height:8px;border-radius:50%;display:inline-block}
 .cal-legend .dot.update{background:#3b82f6}
@@ -105,68 +105,68 @@ tr:last-child td{border-bottom:none}
 .cal-legend .dot.release{background:#ef4444}
 .cal-legend .dot.ranking{background:#8b5cf6}
 /* 이벤트 리스트 아이템 색상 */
-.cal-ev-item{padding:8px 10px;border-radius:6px;margin-bottom:5px;font-size:12px;border-left:3px solid var(--border);background:var(--surface)}
+.cal-ev-item{padding:8px 10px;border-radius:6px;margin-bottom:5px;font-size:14px;border-left:3px solid var(--border);background:var(--surface)}
 .cal-ev-item.t-update{border-left-color:#3b82f6}
 .cal-ev-item.t-collaboration{border-left-color:#10b981}
 .cal-ev-item.t-event{border-left-color:#f59e0b}
 .cal-ev-item.t-release{border-left-color:#ef4444}
 .cal-ev-item.t-ranking{border-left-color:#8b5cf6}
-.cal-ev-tag{display:inline-block;padding:1px 7px;border-radius:10px;font-size:10px;font-weight:600;color:#fff;margin-right:6px}
+.cal-ev-tag{display:inline-block;padding:1px 7px;border-radius:10px;font-size:14px;font-weight:600;color:#fff;margin-right:6px}
 .cal-ev-tag.t-update{background:#3b82f6}
 .cal-ev-tag.t-collaboration{background:#10b981}
 .cal-ev-tag.t-event{background:#f59e0b}
 .cal-ev-tag.t-release{background:#ef4444}
 .cal-ev-tag.t-ranking{background:#8b5cf6}
 .cal-ev-game{font-weight:600;color:var(--t1)}
-.cal-ev-country{font-size:10px;color:var(--t3);margin-left:4px}
+.cal-ev-country{font-size:14px;color:var(--t3);margin-left:4px}
 @media(max-width:768px){
-.cal-day{min-height:40px;padding:2px;font-size:10px}.cal-day .day-event{font-size:7px;display:block!important;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.cal-day{min-height:40px;padding:2px;font-size:14px}.cal-day .day-event{font-size:14px;display:block!important;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .cal-grid{gap:1px}
 }
 ::-webkit-scrollbar{width:6px;height:6px}::-webkit-scrollbar-track{background:var(--bg)}::-webkit-scrollbar-thumb{background:var(--fg-20);border-radius:3px}::-webkit-scrollbar-thumb:hover{background:var(--fg-30)}
 /* 게임 순위 카드 */
 .gcard-rank{display:flex;align-items:center;gap:12px;padding:10px 12px;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);cursor:pointer;transition:.15s}
 .gcard-rank:hover{background:var(--surface-hover);border-color:var(--fg-20)}
-.gcard-rank .grank{font-size:13px;font-weight:700;color:var(--fg-50);min-width:22px;text-align:center;font-variant-numeric:tabular-nums}
+.gcard-rank .grank{font-size:15px;font-weight:700;color:var(--fg-50);min-width:22px;text-align:center;font-variant-numeric:tabular-nums}
 .gcard-rank.top3 .grank{color:var(--accent)}
 .gcard-rank .gicon{width:34px;height:34px;border-radius:var(--radius-sm);flex-shrink:0;object-fit:cover}
-.gcard-rank .gicon-ph{width:34px;height:34px;border-radius:var(--radius-sm);flex-shrink:0;background:var(--fg-8);display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:700;color:var(--t2)}
+.gcard-rank .gicon-ph{width:34px;height:34px;border-radius:var(--radius-sm);flex-shrink:0;background:var(--fg-8);display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:700;color:var(--t2)}
 .gcard-rank .gmain{flex:1;min-width:0}
-.gcard-rank .gname{font-size:13px;font-weight:600;color:var(--t1);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.gcard-rank .gdev{font-size:11px;color:var(--t3);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.gcard-rank .gname{font-size:15px;font-weight:600;color:var(--t1);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.gcard-rank .gdev{font-size:15px;color:var(--t3);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .gcard-rank .gstack{width:120px;flex-shrink:0}
 .gcard-rank .gstack-bar{display:flex;height:7px;border-radius:4px;overflow:hidden;background:var(--fg-5);margin-bottom:3px}
 .gcard-rank .gstack-bar span{display:block;height:100%}
-.gcard-rank .gstack-legend{font-size:10px;color:var(--t3);font-variant-numeric:tabular-nums;white-space:nowrap}
+.gcard-rank .gstack-legend{font-size:14px;color:var(--t3);font-variant-numeric:tabular-nums;white-space:nowrap}
 .gcard-rank .grev{font-size:14px;font-weight:700;color:var(--t1);font-variant-numeric:tabular-nums;min-width:64px;text-align:right}
-.gcard-rank .gbadge{font-size:10px;font-weight:700;padding:1px 5px;border-radius:3px;min-width:24px;text-align:center}
+.gcard-rank .gbadge{font-size:14px;font-weight:700;padding:1px 5px;border-radius:3px;min-width:24px;text-align:center}
 @media(max-width:768px){.gcard-rank .gstack{display:none}.gcard-rank .gicon,.gcard-rank .gicon-ph{width:28px;height:28px}}
 /* 시장 점유율 */
 .mkt-share{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px}
 .kpi{flex:1;min-width:100px;padding:12px 14px;border-radius:var(--radius);background:var(--surface-2);text-align:center}
-.mkt-share-item .ms-label{font-size:11px;color:var(--t2);font-weight:500}
+.mkt-share-item .ms-label{font-size:15px;color:var(--t2);font-weight:500}
 .mkt-share-item .ms-val{font-size:20px;font-weight:700;margin:2px 0}
-.mkt-share-item .ms-pct{font-size:10px;color:var(--t3)}
+.mkt-share-item .ms-pct{font-size:14px;color:var(--t3)}
 .mkt-share-item .ms-bar{height:4px;background:var(--fg-5);border-radius:2px;margin-top:5px;overflow:hidden}
 .mkt-share-item .ms-bar span{display:block;height:100%;border-radius:2px}
 /* 인플루언서 페이지네이션 */
 .inf-pager{display:flex;align-items:center;justify-content:center;gap:6px;margin-top:14px}
-.inf-pager button{padding:5px 11px;border-radius:var(--radius-sm);border:1px solid var(--border);background:var(--surface);color:var(--t2);cursor:pointer;font-size:12px;font-weight:600;transition:.15s}
+.inf-pager button{padding:5px 11px;border-radius:var(--radius-sm);border:1px solid var(--border);background:var(--surface);color:var(--t2);cursor:pointer;font-size:14px;font-weight:600;transition:.15s}
 .inf-pager button:hover:not(:disabled){background:var(--surface-hover);color:var(--t1)}
 .inf-pager button.on{background:var(--accent);color:#fff;border-color:var(--accent)}
 .inf-pager button:disabled{opacity:.35;cursor:not-allowed}
-.inf-pager .pinfo{font-size:11px;color:var(--t3);margin:0 6px}
+.inf-pager .pinfo{font-size:15px;color:var(--t3);margin:0 6px}
 @media(max-width:768px){
 /* 상단바 */
 .topbar{position:sticky;top:0;z-index:200}
 .topbar-inner{flex-wrap:wrap;padding:0 10px;gap:6px}
-.topbar-logo{padding:8px 0;font-size:13px}
+.topbar-logo{padding:8px 0;font-size:15px}
 .topbar-logo small{display:none}
 .topbar-tabs{order:3;width:100%;border-top:1px solid var(--border);overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch}
 .topbar-tabs::-webkit-scrollbar{display:none}
-.topbar-tabs a{padding:8px 10px;font-size:11px;white-space:nowrap}
+.topbar-tabs a{padding:8px 10px;font-size:15px;white-space:nowrap}
 .topbar-right{margin-left:auto}
-.topbar-right .meta{font-size:10px}
+.topbar-right .meta{font-size:14px}
 /* 메인 콘텐츠 */
 .mn{padding:12px 10px!important;max-width:100%!important;margin:0!important}
 .header{margin-bottom:12px}
@@ -175,16 +175,16 @@ tr:last-child td{border-bottom:none}
 .kpis{grid-template-columns:repeat(2,1fr)!important;gap:8px!important}
 .kpi{padding:10px 12px!important}
 .kpi .v{font-size:18px!important}
-.kpi .l{font-size:10px!important}
+.kpi .l{font-size:14px!important}
 /* 카드 */
 .card{padding:12px!important;margin-bottom:10px!important}
 .card h3{font-size:14px!important}
 /* 테이블 — 가로 스크롤 */
-table{font-size:11px!important;display:block!important;overflow-x:auto!important;white-space:nowrap!important;-webkit-overflow-scrolling:touch}
+table{font-size:15px!important;display:block!important;overflow-x:auto!important;white-space:nowrap!important;-webkit-overflow-scrolling:touch}
 th,td{padding:5px 6px!important}
 /* 국가 탭 */
 .country-tabs{gap:2px;margin-bottom:10px}
-.ctab{padding:5px 10px;font-size:11px}
+.ctab{padding:5px 10px;font-size:15px}
 /* 모달 */
 .modal-bg{padding:10px}
 .modal{padding:14px!important;margin-bottom:20px;max-width:100%!important}
@@ -194,12 +194,12 @@ canvas{max-width:100%!important}
 /* 순위 카드 */
 .gcard-rank .gstack{display:none}
 .gcard-rank .gicon,.gcard-rank .gicon-ph{width:28px;height:28px}
-.gcard-rank .grev{font-size:12px;min-width:52px}
+.gcard-rank .grev{font-size:14px;min-width:52px}
 /* 캘린더 */
-.cal-day{min-height:36px;padding:1px;font-size:10px}
-.cal-day .day-event{font-size:6px}
+.cal-day{min-height:36px;padding:1px;font-size:14px}
+.cal-day .day-event{font-size:14px}
 /* 인플루언서 */
-.inf-pager button{padding:4px 9px;font-size:11px}
+.inf-pager button{padding:4px 9px;font-size:15px}
 /* 실시간 방송 분할 — 모바일에서 세로 */
 #inf-streamers-chzzk,#inf-streamers-youtube{max-height:300px;overflow-y:auto}
 @media(max-width:480px){#inf-streamers-chzzk,#inf-streamers-youtube{max-height:200px}}
@@ -220,24 +220,24 @@ canvas{max-width:100%!important}
 /* 실시간 현황 플랫폼 카드 — 모바일 */
 @media(max-width:480px){#inf-platforms{flex-direction:column!important}}
 /* 트렌드 팝업 — 모바일 */
-@media(max-width:768px){.modal-sec h4{font-size:12px!important}}
+@media(max-width:768px){.modal-sec h4{font-size:14px!important}}
 /* 더보기/펼치기 버튼 — 터치 영역 확대 (Apple HIG 44px) */
 @media(max-width:768px){
 #news-more-btn,#sent-more-btn,#inf-more-btn,.rank-collapse-btn,.ctab
-{min-height:40px!important;padding:10px 20px!important;font-size:13px!important}
+{min-height:40px!important;padding:10px 20px!important;font-size:15px!important}
 }
 /* 매출순위 차트 — 모바일 */
 @media(max-width:768px){#rank-compare-chart{height:200px!important}}
 /* 종합 인사이트 카드 — 모바일 */
 @media(max-width:768px){#ov-videos [style*="flex"]{flex-direction:column!important}}
 /* 게임사 테이블 — 모바일 */
-@media(max-width:768px){#company-table{font-size:10px!important}}
+@media(max-width:768px){#company-table{font-size:14px!important}}
 /* 캘린더 이벤트 텍스트 — 가독성 개선 */
-@media(max-width:768px){.cal-day .day-event{font-size:8px!important}}
+@media(max-width:768px){.cal-day .day-event{font-size:14px!important}}
 }
 @media(max-width:380px){
 .kpis{grid-template-columns:1fr!important}
-.topbar-tabs a{padding:6px 7px;font-size:10px}
+.topbar-tabs a{padding:6px 7px;font-size:14px}
 }
 </style>
 </head>
@@ -248,7 +248,7 @@ canvas{max-width:100%!important}
 <nav class="topbar">
 <div class="topbar-inner">
 <div class="topbar-right">
-<span class="meta" id="update-time">2026-08-06 17:20</span>
+<span class="meta" id="update-time">2026-08-06 17:23</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 </div>
 <div class="topbar-title">Game Market Insight</div>
@@ -280,29 +280,29 @@ canvas{max-width:100%!important}
 <div class="card"><h3 id="ov-rank-title">월 추정 매출 Top 10</h3>
 <canvas id="ov-revenue-chart" width="600" height="200" style="margin-top:8px"></canvas>
 <table id="ov-rank" style="margin-top:12px"><thead><tr><th>#</th><th>게임</th><th>개발사</th><th>출처</th><th>월 추정 매출</th><th>일 추정</th></tr></thead><tbody></tbody></table></div>
-<div class="card"><h3>게임 시장 인사이트</h3><div id="ov-videos" style="font-size:13px;line-height:1.8">
+<div class="card"><h3>게임 시장 인사이트</h3><div id="ov-videos" style="font-size:15px;line-height:1.8">
 <div style="display:flex;gap:12px;flex-wrap:wrap;margin-bottom:8px">
 <div style="flex:1;min-width:140px;padding:10px;border-radius:8px;background:var(--bg3);border:1px solid var(--border)">
-<div style="font-size:11px;color:var(--t2)">한국 Top1</div>
+<div style="font-size:15px;color:var(--t2)">한국 Top1</div>
 <div style="font-weight:600">SOL: 인챈트</div>
-<div style="font-size:11px;color:var(--accent)">$9.5M/월</div>
+<div style="font-size:15px;color:var(--accent)">$9.5M/월</div>
 </div>
 <div style="flex:1;min-width:140px;padding:10px;border-radius:8px;background:var(--bg3);border:1px solid var(--border)">
-<div style="font-size:11px;color:var(--t2)">중국 Top1</div>
+<div style="font-size:15px;color:var(--t2)">중국 Top1</div>
 <div style="font-weight:600">王者荣耀</div>
-<div style="font-size:11px;color:var(--accent)">$35M/월</div>
+<div style="font-size:15px;color:var(--accent)">$35M/월</div>
 </div>
 <div style="flex:1;min-width:140px;padding:10px;border-radius:8px;background:var(--bg3);border:1px solid var(--border)">
-<div style="font-size:11px;color:var(--t2)">일본 Top1</div>
+<div style="font-size:15px;color:var(--t2)">일본 Top1</div>
 <div style="font-weight:600">Pokémon GO</div>
-<div style="font-size:11px;color:var(--accent)">$18M/월</div>
+<div style="font-size:15px;color:var(--accent)">$18M/월</div>
 </div>
 </div>
 <div style="padding:8px;border-left:3px solid var(--accent);background:var(--bg3);border-radius:0 8px 8px 0;margin-top:8px">
 <b>시장 요약:</b> 3개국 모바일 게임 Top50 추정 월 매출 합계 <b>$325M</b> (한국 $66M, 중국 $221M, 일본 $108M). 중국이 전체의 68% 차지. 3개국 공통 진출 게임: 원신, 니케, 명조, Whiteout Survival.
 </div>
 </div></div>
-<div class="card"><h3>종합 트렌드 분석</h3><div id="ov-trends" style="font-size:13px;line-height:1.8"></div></div>
+<div class="card"><h3>종합 트렌드 분석</h3><div id="ov-trends" style="font-size:15px;line-height:1.8"></div></div>
 <div id="ad-bottom" style="margin:16px 0;text-align:center;min-height:90px"></div>
 </div>
 
@@ -315,7 +315,7 @@ canvas{max-width:100%!important}
 </div>
 <input class="search" placeholder="게임명/개발사 검색..." oninput="renderRank(this.value)" id="rank-search">
 <div class="kpis" id="rank-kpis"></div>
-<div class="card"><h3>국가별 매출 비교 <small id="rank-period" style="font-size:10px;color:var(--t3)"></small></h3>
+<div class="card"><h3>국가별 매출 비교 <small id="rank-period" style="font-size:14px;color:var(--t3)"></small></h3>
 <canvas id="rank-compare-chart" width="600" height="250" style="margin-top:8px"></canvas>
 </div>
 <div class="card"><h3 id="rank-title">한국 매출 Top 50</h3><table id="rank-table"><thead><tr><th>#</th><th>게임</th><th>개발사</th><th>출처</th><th>월 추정 매출</th><th>일 추정</th></tr></thead><tbody></tbody></table></div>
@@ -342,28 +342,28 @@ canvas{max-width:100%!important}
 <div class="ctab" onclick="setInfTab('all',this)">전체</div>
 </div>
 <div style="display:flex;gap:6px;margin-bottom:12px">
-<button onclick="setInfFilter('all',this)" id="inf-filter-all" style="padding:6px 12px;border-radius:6px;border:1px solid var(--border);background:var(--accent);color:#fff;cursor:pointer;font-size:12px">전체</button>
-<button onclick="setInfFilter('official',this)" id="inf-filter-official" style="padding:6px 12px;border-radius:6px;border:1px solid var(--border);background:var(--bg2);color:var(--t1);cursor:pointer;font-size:12px">공식 채널</button>
-<button onclick="setInfFilter('personal',this)" id="inf-filter-personal" style="padding:6px 12px;border-radius:6px;border:1px solid var(--border);background:var(--bg2);color:var(--t1);cursor:pointer;font-size:12px">개인 크리에이터</button>
+<button onclick="setInfFilter('all',this)" id="inf-filter-all" style="padding:6px 12px;border-radius:6px;border:1px solid var(--border);background:var(--accent);color:#fff;cursor:pointer;font-size:14px">전체</button>
+<button onclick="setInfFilter('official',this)" id="inf-filter-official" style="padding:6px 12px;border-radius:6px;border:1px solid var(--border);background:var(--bg2);color:var(--t1);cursor:pointer;font-size:14px">공식 채널</button>
+<button onclick="setInfFilter('personal',this)" id="inf-filter-personal" style="padding:6px 12px;border-radius:6px;border:1px solid var(--border);background:var(--bg2);color:var(--t1);cursor:pointer;font-size:14px">개인 크리에이터</button>
 </div>
 <input class="search" style="margin-bottom:12px" placeholder="인플루언서 검색..." oninput="renderInfluencers(this.value)" id="inf-search">
 <div class="kpis" id="inf-kpis"></div>
 <!-- 실시간 방송 현황 (한국 탭에서만 표시) -->
 <div id="inf-softc-section" style="display:none">
-<div class="card"><h3>플랫폼별 실시간 현황 <button id="inf-refresh-btn" onclick="refreshPlatforms()" style="font-size:11px;padding:4px 10px;border-radius:var(--radius-sm);border:1px solid var(--border);background:var(--surface);color:var(--t2);cursor:pointer;font-weight:600;transition:.15s;margin-left:auto">🔄 새로고침</button></h3><div id="inf-platforms" style="display:flex;gap:8px;flex-wrap:wrap;margin-top:8px"></div></div>
-<div class="card"><h3>실시간 방송 랭킹 <span style="font-size:10px;color:var(--t3);font-weight:400">(치지직 + YouTube Live)</span> <button id="inf-refresh-stream" onclick="refreshStreams()" style="font-size:11px;padding:4px 10px;border-radius:var(--radius-sm);border:1px solid var(--border);background:var(--surface);color:var(--t2);cursor:pointer;font-weight:600;transition:.15s;margin-left:auto">🔄 새로고침</button></h3>
+<div class="card"><h3>플랫폼별 실시간 현황 <button id="inf-refresh-btn" onclick="refreshPlatforms()" style="font-size:15px;padding:4px 10px;border-radius:var(--radius-sm);border:1px solid var(--border);background:var(--surface);color:var(--t2);cursor:pointer;font-weight:600;transition:.15s;margin-left:auto">🔄 새로고침</button></h3><div id="inf-platforms" style="display:flex;gap:8px;flex-wrap:wrap;margin-top:8px"></div></div>
+<div class="card"><h3>실시간 방송 랭킹 <span style="font-size:14px;color:var(--t3);font-weight:400">(치지직 + YouTube Live)</span> <button id="inf-refresh-stream" onclick="refreshStreams()" style="font-size:15px;padding:4px 10px;border-radius:var(--radius-sm);border:1px solid var(--border);background:var(--surface);color:var(--t2);cursor:pointer;font-weight:600;transition:.15s;margin-left:auto">🔄 새로고침</button></h3>
 <div class="inf-rank-cols" id="inf-rank-cols" style="display:flex;gap:12px;margin-top:8px">
 <div style="flex:1;min-width:0">
-<div style="font-size:12px;font-weight:700;color:#00d400;margin-bottom:4px">🟢 치지직</div>
+<div style="font-size:14px;font-weight:700;color:#00d400;margin-bottom:4px">🟢 치지직</div>
 <div id="inf-streamers-chzzk" style="max-height:400px;overflow-y:auto"></div>
 </div>
 <div style="width:1px;background:var(--border)"></div>
 <div style="flex:1;min-width:0">
-<div style="font-size:12px;font-weight:700;color:#ff0000;margin-bottom:4px">🔴 YouTube Live</div>
+<div style="font-size:14px;font-weight:700;color:#ff0000;margin-bottom:4px">🔴 YouTube Live</div>
 <div id="inf-streamers-youtube" style="max-height:400px;overflow-y:auto"></div>
 </div>
 </div>
-<div id="inf-fetched" style="font-size:10px;color:var(--t3);margin-top:6px"></div>
+<div id="inf-fetched" style="font-size:14px;color:var(--t3);margin-top:6px"></div>
 </div>
 </div>
 <div class="card">
@@ -394,7 +394,7 @@ canvas{max-width:100%!important}
 <div class="kpis" id="co-kpis"></div>
 <div class="card"><h3 id="co-chart-title">매출 Top 15 (2023-2025)</h3><canvas id="co-chart" width="600" height="300" style="margin-top:8px"></canvas></div>
 <div class="card"><h3 id="co-profit-title">영업이익률 Top 15</h3><canvas id="co-profit-chart" width="600" height="250" style="margin-top:8px"></canvas></div>
-<div class="card"><h3 id="co-title">🏢 글로벌 게임사 전사 매출 분석</h3><div style="overflow-x:auto"><table id="co-table" style="font-size:12px"><thead><tr><th>#</th><th>게임사</th><th>국가</th><th>2023 매출</th><th>2024 매출</th><th>2025 매출</th><th>YoY</th><th>2025 영업이익</th><th>영업이익률</th><th>주요 프랜차이즈</th><th>출처</th></tr></thead><tbody></tbody></table></div></div>
+<div class="card"><h3 id="co-title">🏢 글로벌 게임사 전사 매출 분석</h3><div style="overflow-x:auto"><table id="co-table" style="font-size:14px"><thead><tr><th>#</th><th>게임사</th><th>국가</th><th>2023 매출</th><th>2024 매출</th><th>2025 매출</th><th>YoY</th><th>2025 영업이익</th><th>영업이익률</th><th>주요 프랜차이즈</th><th>출처</th></tr></thead><tbody></tbody></table></div></div>
 </div>
 
 <!-- 게임사 상세 모달 -->
@@ -435,7 +435,7 @@ canvas{max-width:100%!important}
 <button onclick="calToday()" style="padding:4px 10px;border-radius:6px;border:1px solid var(--border);background:var(--bg2);color:var(--t1);cursor:pointer;margin-left:4px">오늘</button>
 </div>
 </div>
-<div id="cal-grid" style="display:grid;grid-template-columns:repeat(7,1fr);gap:2px;font-size:11px"></div>
+<div id="cal-grid" style="display:grid;grid-template-columns:repeat(7,1fr);gap:2px;font-size:15px"></div>
 <div id="cal-legend"></div>
 <div id="cal-events" style="margin-top:12px"></div>
 </div>
@@ -444,7 +444,7 @@ canvas{max-width:100%!important}
 </div><!-- /mn -->
 
 <!-- 푸터 -->
-<footer style="text-align:center;padding:20px;border-top:1px solid var(--border);margin-top:20px;font-size:11px;color:var(--t3)">
+<footer style="text-align:center;padding:20px;border-top:1px solid var(--border);margin-top:20px;font-size:15px;color:var(--t3)">
 <div>Game Market Insight · <a href="/about.html" style="color:var(--t3);text-decoration:none">서비스 소개</a> · <a href="/privacy.html" style="color:var(--t3);text-decoration:none">개인정보처리방침</a></div>
 <div style="margin-top:4px">데이터 출처: DART · CSRC · HKEX · EDINET · Google Play · 치지직 · Sensor Tower</div>
 <div style="margin-top:4px">© 2026 Game Market Insight. All data is estimated.</div>
@@ -458,7 +458,7 @@ canvas{max-width:100%!important}
 <span class="modal-close" onclick="closeModal()">✕</span>
 <h2 id="modal-title">게임명</h2>
 <div class="modal-sec" id="modal-chart-sec" style="border-top:1px solid var(--border);padding-top:12px;margin-top:12px"><h4>📊 매출 순위 추이 (최근 7일)</h4><canvas id="modal-chart" width="600" height="200"></canvas></div>
-<div class="modal-sec" style="border-top:1px solid var(--border);padding-top:12px;margin-top:12px"><h4>💬 여론 요약</h4><div id="modal-sentiment" style="font-size:13px;color:var(--t2);line-height:1.8"></div></div>
+<div class="modal-sec" style="border-top:1px solid var(--border);padding-top:12px;margin-top:12px"><h4>💬 여론 요약</h4><div id="modal-sentiment" style="font-size:15px;color:var(--t2);line-height:1.8"></div></div>
 <div class="modal-sec" id="modal-videos-sec" style="border-top:1px solid var(--border);padding-top:12px;margin-top:12px"><h4>🎬 최근 영상</h4><div id="modal-videos"></div></div>
 </div>
 </div>
@@ -521,7 +521,7 @@ function openCatDetail(game,rank,viewers){
   html+='</div>';
   if(gameInf.length){
     html+='<div class="modal-sec"><h4>관련 인플루언서</h4>';
-    html+='<table style="width:100%;font-size:12px"><thead><tr><th>이름</th><th>구독자</th><th>등급</th><th>플랫폼</th></tr></thead><tbody>';
+    html+='<table style="width:100%;font-size:14px"><thead><tr><th>이름</th><th>구독자</th><th>등급</th><th>플랫폼</th></tr></thead><tbody>';
     gameInf.slice(0,10).forEach(function(i){
       var link=i.channel_url||'#';
       html+='<tr onclick="window.open(\''+escAttr(link)+'\',\'_blank\')" style="cursor:pointer"><td>'+(i.name||'')+'</td><td>'+(i.subscribers||0).toLocaleString()+'</td><td>'+(i.tier||'')+'</td><td>'+(i.platform||'')+'</td></tr>';
@@ -529,9 +529,9 @@ function openCatDetail(game,rank,viewers){
     html+='</tbody></table></div>';
   }
   html+='<div class="modal-sec" style="margin-top:12px"><h4>외부 링크</h4><div style="display:flex;gap:6px;flex-wrap:wrap">';
-  html+='<a href="https://www.youtube.com/results?search_query='+encodeURIComponent(game)+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#ff000020;color:#ff0000;text-decoration:none;font-size:12px">YouTube 검색</a>';
-  html+='<a href="https://chzzk.naver.com/search?keyword='+encodeURIComponent(game)+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#0066ff20;color:#0066ff;text-decoration:none;font-size:12px">치지직</a>';
-  html+='<a href="https://www.sooplive.com/search?keyword='+encodeURIComponent(game)+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#3498db20;color:#3498db;text-decoration:none;font-size:12px">SOOP</a>';
+  html+='<a href="https://www.youtube.com/results?search_query='+encodeURIComponent(game)+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#ff000020;color:#ff0000;text-decoration:none;font-size:14px">YouTube 검색</a>';
+  html+='<a href="https://chzzk.naver.com/search?keyword='+encodeURIComponent(game)+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#0066ff20;color:#0066ff;text-decoration:none;font-size:14px">치지직</a>';
+  html+='<a href="https://www.sooplive.com/search?keyword='+encodeURIComponent(game)+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#3498db20;color:#3498db;text-decoration:none;font-size:14px">SOOP</a>';
   html+='</div></div>';
   modal.querySelector('.modal-body').innerHTML=html;
   bg.classList.add('on');
@@ -734,7 +734,7 @@ function loadOverview(){
       var flag=g._c==='kr'?'KR':g._c==='cn'?'CN':g._c==='jp'?'JP':'';
       var iconHTML=g.icon?('<img src="'+getIcon(g)+'" style="width:18px;height:18px;border-radius:3px;vertical-align:middle;margin-right:3px" onerror="this.style.display=\'none\'">'):'';
       var gn=escAttr(g.local_name||g.title||'');
-      return '<tr onclick="openModal(\''+gn+'\')"><td>'+(flag||g.rank||1)+'</td><td>'+iconHTML+(g.local_name||g.title||'')+'</td><td>'+(g.developer||'').slice(0,15)+'</td><td><span style="font-size:10px;padding:2px 6px;border-radius:3px;background:var(--fg-12);color:var(--t2);font-weight:600">'+(g._c==='cn'?'iOS':'GP+iOS')+'</span></td><td style="font-weight:600;color:var(--accent)">'+rev+'</td><td style="font-size:11px;color:var(--t2)">'+(g.est_revenue?fmtRev(g.est_revenue/30):'-')+'</td></tr>';
+      return '<tr onclick="openModal(\''+gn+'\')"><td>'+(flag||g.rank||1)+'</td><td>'+iconHTML+(g.local_name||g.title||'')+'</td><td>'+(g.developer||'').slice(0,15)+'</td><td><span style="font-size:14px;padding:2px 6px;border-radius:3px;background:var(--fg-12);color:var(--t2);font-weight:600">'+(g._c==='cn'?'iOS':'GP+iOS')+'</span></td><td style="font-weight:600;color:var(--accent)">'+rev+'</td><td style="font-size:15px;color:var(--t2)">'+(g.est_revenue?fmtRev(g.est_revenue/30):'-')+'</td></tr>';
     });
     tbody.innerHTML=topRows.join('');
   }
@@ -770,14 +770,14 @@ function loadOverview(){
     countries.forEach(function(c){
       var pct=c[2]/(revTotal.kr+revTotal.cn+revTotal.jp)*100;
       revHTML+='<div style="flex:1;min-width:120px;padding:12px;border-radius:8px;background:var(--bg3);border:1px solid var(--border)">'+
-        '<div style="font-size:11px;color:var(--t2)">'+c[1]+'</div>'+
+        '<div style="font-size:15px;color:var(--t2)">'+c[1]+'</div>'+
         '<div style="font-size:20px;font-weight:700;color:'+c[3]+'">$'+(c[2]/1e6).toFixed(1)+'M</div>'+
-        '<div style="font-size:10px;color:var(--t3)">'+pct.toFixed(0)+'% 점유율</div>'+
+        '<div style="font-size:14px;color:var(--t3)">'+pct.toFixed(0)+'% 점유율</div>'+
         '<div style="height:4px;background:var(--bg2);border-radius:2px;margin-top:4px"><div style="height:100%;width:'+pct+'%;background:'+c[3]+';border-radius:2px"></div></div>'+
         '</div>';
     });
     revHTML+='</div>';
-    revHTML+='<div style="font-size:12px;color:var(--t3);margin-top:4px">한국 Top50 + 중국 Top50 + 일본 Top50 추정 월 매출 합계 | 환율 1,500원/$</div>';
+    revHTML+='<div style="font-size:14px;color:var(--t3);margin-top:4px">한국 Top50 + 중국 Top50 + 일본 Top50 추정 월 매출 합계 | 환율 1,500원/$</div>';
     vContainer.innerHTML=revHTML;
   }
 
@@ -829,9 +829,9 @@ function loadOverview(){
         var rev='$'+((g.est_revenue||0)/1e6).toFixed(1)+'M';
         var gn=escAttr(name);
         h+='<div onclick="openTrendPopup(\''+gn+'\')" style="cursor:pointer;text-align:center;padding:6px;border-radius:8px;background:var(--bg3);border:1px solid var(--border);transition:.15s" onmouseover="this.style.borderColor=\'var(--accent)\'" onmouseout="this.style.borderColor=\'var(--border)\'">'+
-          (icon?'<img src="'+icon+'" style="width:36px;height:36px;border-radius:8px" onerror="this.style.display=\'none\'">':'<div style="width:36px;height:36px;border-radius:8px;background:var(--fg-12);display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:700;color:var(--t2)">'+(idx+1)+'</div>')+
-          '<div style="font-size:10px;font-weight:600;margin-top:4px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">'+name.slice(0,8)+'</div>'+
-          '<div style="font-size:9px;color:var(--accent);font-weight:700">'+rev+'</div>'+
+          (icon?'<img src="'+icon+'" style="width:36px;height:36px;border-radius:8px" onerror="this.style.display=\'none\'">':'<div style="width:36px;height:36px;border-radius:8px;background:var(--fg-12);display:flex;align-items:center;justify-content:center;font-size:15px;font-weight:700;color:var(--t2)">'+(idx+1)+'</div>')+
+          '<div style="font-size:14px;font-weight:600;margin-top:4px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">'+name.slice(0,8)+'</div>'+
+          '<div style="font-size:15px;color:var(--accent);font-weight:700">'+rev+'</div>'+
           '</div>';
       });
       h+='</div></div>';
@@ -879,8 +879,8 @@ function loadOverview(){
         parts.push('<div class="modal-sec"><h4>매출 정보</h4>'+
           '<div style="display:flex;gap:16px;align-items:center">'+
           '<div><div style="font-size:28px;font-weight:700;color:var(--accent)">'+revFmt+'</div>'+
-          '<div style="font-size:11px;color:var(--t3)">월 추정 매출'+(won?(' ('+won+')'):'')+'</div></div>'+
-          '<div style="font-size:12px;color:var(--t2)">개발사: '+(gameData.developer||'?')+'</div>'+
+          '<div style="font-size:15px;color:var(--t3)">월 추정 매출'+(won?(' ('+won+')'):'')+'</div></div>'+
+          '<div style="font-size:14px;color:var(--t2)">개발사: '+(gameData.developer||'?')+'</div>'+
           '</div></div>');
       }
 
@@ -888,7 +888,7 @@ function loadOverview(){
       var updateInfo=getGameUpdate(gameName);
       if(updateInfo){
         parts.push('<div class="modal-sec"><h4>최근 업데이트</h4>'+
-          '<div style="font-size:13px;color:var(--t2);padding:10px;border-radius:6px;background:var(--bg3);border-left:3px solid var(--accent);line-height:1.8">'+updateInfo+'</div></div>');
+          '<div style="font-size:15px;color:var(--t2);padding:10px;border-radius:6px;background:var(--bg3);border-left:3px solid var(--accent);line-height:1.8">'+updateInfo+'</div></div>');
       }
 
       // 3. 여론 정보 (요약 문구 없음)
@@ -907,7 +907,7 @@ function loadOverview(){
               srcParts.push(sn+': 긍정'+sd.positive_pct+'%/부정'+sd.negative_pct+'%');
             }
           }
-          if(srcParts.length)sentText+='<div style="font-size:11px;margin-top:4px">'+srcParts.join(' | ')+'</div>';
+          if(srcParts.length)sentText+='<div style="font-size:15px;margin-top:4px">'+srcParts.join(' | ')+'</div>';
         }
         parts.push('<div class="modal-sec"><h4>여론 분석</h4>'+sentText+'</div>');
       }
@@ -916,14 +916,14 @@ function loadOverview(){
       var gameNews=getGameNews(gameName);
       if(gameNews.length){
         var newsHTML=gameNews.map(function(n){
-          return '<div style="font-size:12px;padding:4px 0"><a href="'+(n.url||'')+'" target="_blank" style="color:var(--t2);text-decoration:none">'+(n.title||'')+'</a> <span style="font-size:10px;color:var(--t3)">('+n.source+')</span></div>';
+          return '<div style="font-size:14px;padding:4px 0"><a href="'+(n.url||'')+'" target="_blank" style="color:var(--t2);text-decoration:none">'+(n.title||'')+'</a> <span style="font-size:14px;color:var(--t3)">('+n.source+')</span></div>';
         }).join('');
         parts.push('<div class="modal-sec"><h4>관련 뉴스</h4>'+newsHTML+'</div>');
       }
 
       // 5. 글로벌 동향
       parts.push('<div class="modal-sec"><h4>글로벌 동향</h4>'+
-        '<div style="font-size:12px;color:var(--t2);line-height:1.8">'+gameName+'은(는) '+
+        '<div style="font-size:14px;color:var(--t2);line-height:1.8">'+gameName+'은(는) '+
         (gameData&&gameData._c==='kr'?'한국':gameData&&gameData._c==='cn'?'중국':'일본')+' 시장에서 '+
         (gameData?'월 $'+((gameData.est_revenue||0)/1e6).toFixed(1)+'M 매출':'')+'을 기록 중이며, '+
         '경쟁 게임 대비 '+(sent&&sent.index>50?'긍정적':'안정적')+'인 여론을 유지하고 있습니다.</div></div>');
@@ -963,9 +963,9 @@ function renderRank(q){
     tr.innerHTML='<td>'+(g.rank||'')+'</td>'+
       '<td>'+iconHTML+(g.local_name||g.title||'')+'</td>'+
       '<td>'+(g.developer||'').slice(0,20)+'</td>'+
-      '<td><span style="font-size:10px;padding:2px 6px;border-radius:3px;background:var(--fg-12);color:var(--t2);font-weight:600">'+(country==='cn'?'iOS':'GP+iOS')+'</span></td>'+
-      '<td style="font-weight:600">'+(g.est_revenue_fmt||'-')+' <span style="font-size:10px;color:var(--t3)">'+(g.est_revenue_won||'')+'</span></td>'+
-      '<td style="font-size:11px;color:var(--t2)">'+(g.est_revenue?fmtRev(g.est_revenue/30):'-')+'</td>';
+      '<td><span style="font-size:14px;padding:2px 6px;border-radius:3px;background:var(--fg-12);color:var(--t2);font-weight:600">'+(country==='cn'?'iOS':'GP+iOS')+'</span></td>'+
+      '<td style="font-weight:600">'+(g.est_revenue_fmt||'-')+' <span style="font-size:14px;color:var(--t3)">'+(g.est_revenue_won||'')+'</span></td>'+
+      '<td style="font-size:15px;color:var(--t2)">'+(g.est_revenue?fmtRev(g.est_revenue/30):'-')+'</td>';
     return tr;
   }
   // 처음 10개만 표시
@@ -989,7 +989,7 @@ function renderRank(q){
     moreTd.style.padding='12px';
     var btn=document.createElement('button');
     btn.textContent='▼ 펼치기';
-    btn.style.cssText='padding:8px 20px;border-radius:6px;border:1px solid var(--border);background:var(--surface);color:var(--t1);cursor:pointer;font-size:13px;font-weight:600';
+    btn.style.cssText='padding:8px 20px;border-radius:6px;border:1px solid var(--border);background:var(--surface);color:var(--t1);cursor:pointer;font-size:15px;font-weight:600';
     btn.onclick=function(){
       var hidden=tbody.querySelectorAll('.rank-hidden');
       var expanded=hidden.length>0&&hidden[0].style.display!=='none';
@@ -1162,13 +1162,13 @@ function renderSentiment(q){
       '<td style="color:var(--pos)">'+posPct+'</td>'+
       '<td style="color:var(--neg)">'+negPct+'</td>'+
       '<td>'+tr+' '+(v.trend||'')+'</td>'+
-      '<td style="font-size:11px;color:var(--t2);max-width:200px;overflow:hidden;text-overflow:ellipsis">'+String(sample).slice(0,50)+'</td></tr>';
+      '<td style="font-size:15px;color:var(--t2);max-width:200px;overflow:hidden;text-overflow:ellipsis">'+String(sample).slice(0,50)+'</td></tr>';
   });
   // 10개만 표시 + 더보기
   var SENT_SHOW=10;
   var sentHTML=rows.slice(0,SENT_SHOW).join('');
   if(rows.length>SENT_SHOW){
-    sentHTML+='<tr class="sent-more-row"><td colspan="7" style="text-align:center;padding:10px"><button id="sent-more-btn" style="padding:6px 18px;border-radius:6px;border:1px solid var(--border);background:var(--surface);color:var(--t1);cursor:pointer;font-size:12px;font-weight:600">'+String.fromCharCode(9660)+' 펼치기</button></td></tr>';
+    sentHTML+='<tr class="sent-more-row"><td colspan="7" style="text-align:center;padding:10px"><button id="sent-more-btn" style="padding:6px 18px;border-radius:6px;border:1px solid var(--border);background:var(--surface);color:var(--t1);cursor:pointer;font-size:14px;font-weight:600">'+String.fromCharCode(9660)+' 펼치기</button></td></tr>';
     rows.slice(SENT_SHOW).forEach(function(r){sentHTML+=r.replace('<tr','<tr class="sent-hidden" style="display:none"');});
   }
   tbody.innerHTML=sentHTML;
@@ -1197,15 +1197,15 @@ function openSentDetail(game,idx,trend,detail){
   // 지수 + 트렌드
   parts.push('<div style="display:flex;gap:16px;margin-bottom:16px;align-items:center">');
   var idxColor=idx>55?'var(--pos)':idx<45?'var(--neg)':'var(--neu)';
-  parts.push('<div style="text-align:center"><div style="font-size:36px;font-weight:700;color:'+idxColor+'">'+idx+'</div><div style="font-size:11px;color:var(--t2)">여론 지수 (0-100)</div></div>');
+  parts.push('<div style="text-align:center"><div style="font-size:36px;font-weight:700;color:'+idxColor+'">'+idx+'</div><div style="font-size:15px;color:var(--t2)">여론 지수 (0-100)</div></div>');
   var trendIcon=trend==='상승'?'📈':trend==='하락'?'📉':'➡️';
-  parts.push('<div style="text-align:center"><div style="font-size:24px">'+trendIcon+'</div><div style="font-size:11px;color:var(--t2)">'+trend+'</div></div>');
+  parts.push('<div style="text-align:center"><div style="font-size:24px">'+trendIcon+'</div><div style="font-size:15px;color:var(--t2)">'+trend+'</div></div>');
 
   // 키 이슈
   var sentData=country==='cn'?SCN[game]:country==='jp'?SJP[game]:SKR[game];
   if(sentData&&sentData.key_issues&&sentData.key_issues.length){
     var issueTags=sentData.key_issues.map(function(k){return '<span class="tag neg" style="margin-right:4px">'+k+'</span>'}).join('');
-    parts.push('<div><div style="font-size:11px;color:var(--t2);margin-bottom:4px">주요 키워드</div>'+issueTags+'</div>');
+    parts.push('<div><div style="font-size:15px;color:var(--t2);margin-bottom:4px">주요 키워드</div>'+issueTags+'</div>');
   }
   parts.push('</div>');
 
@@ -1214,7 +1214,7 @@ function openSentDetail(game,idx,trend,detail){
     var detailLines=detail.split('; ').filter(function(d){return d.trim()}).map(function(d){
       return '<div style="padding:6px 0;border-bottom:1px solid var(--border)">📊 '+d+'</div>';
     });
-    parts.push('<div style="font-size:13px;line-height:1.8;margin-bottom:12px">'+detailLines.join('')+'</div>');
+    parts.push('<div style="font-size:15px;line-height:1.8;margin-bottom:12px">'+detailLines.join('')+'</div>');
   }
 
   // 외부 링크
@@ -1238,28 +1238,28 @@ function openSentDetail(game,idx,trend,detail){
     }
     // SOL: 인챈트는 네이버 라운지
     if(game.indexOf('SOL')>=0||game.indexOf('인챈트')>=0||game.indexOf('enchant')>=0){
-      parts.push('<a href="https://game.naver.com/lounge/SOL_enchant/board" target="_blank" style="padding:4px 10px;border-radius:6px;background:#3498db20;color:#3498db;text-decoration:none;font-size:12px">네이버 라운지</a>');
+      parts.push('<a href="https://game.naver.com/lounge/SOL_enchant/board" target="_blank" style="padding:4px 10px;border-radius:6px;background:#3498db20;color:#3498db;text-decoration:none;font-size:14px">네이버 라운지</a>');
     }else if(game.indexOf('쿱')>=0||game.indexOf('Coop')>=0||game.indexOf('협타디')>=0){
-      parts.push('<a href="https://game.naver.com/lounge/CoopTD/home" target="_blank" style="padding:4px 10px;border-radius:6px;background:#3498db20;color:#3498db;text-decoration:none;font-size:12px">네이버 라운지</a>');
+      parts.push('<a href="https://game.naver.com/lounge/CoopTD/home" target="_blank" style="padding:4px 10px;border-radius:6px;background:#3498db20;color:#3498db;text-decoration:none;font-size:14px">네이버 라운지</a>');
     }else{
       var arcaSlug=ARCA_SLUG_MAP[game];
       var arcaLink=arcaSlug?('https://arca.live/b/'+arcaSlug):('https://arca.live/search?q='+encodeURIComponent(game));
-      parts.push('<a href="'+arcaLink+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#3498db20;color:#3498db;text-decoration:none;font-size:12px">아카라이브</a>');
+      parts.push('<a href="'+arcaLink+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#3498db20;color:#3498db;text-decoration:none;font-size:14px">아카라이브</a>');
     }
-    parts.push('<a href="'+dcLink+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#e74c3c20;color:#e74c3c;text-decoration:none;font-size:12px">DC Inside</a>');
-    parts.push('<a href="https://play.google.com/store/search?q='+encodeURIComponent(game)+'&c=apps" target="_blank" style="padding:4px 10px;border-radius:6px;background:#34a85320;color:#34a853;text-decoration:none;font-size:12px">Google Play</a>');
+    parts.push('<a href="'+dcLink+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#e74c3c20;color:#e74c3c;text-decoration:none;font-size:14px">DC Inside</a>');
+    parts.push('<a href="https://play.google.com/store/search?q='+encodeURIComponent(game)+'&c=apps" target="_blank" style="padding:4px 10px;border-radius:6px;background:#34a85320;color:#34a853;text-decoration:none;font-size:14px">Google Play</a>');
   }
   if(country==='cn'||country==='all'){
     var cnGame=(GAME_I18N[game]&&GAME_I18N[game].cn)||game;
-    parts.push('<a href="https://search.bilibili.com/all?keyword='+encodeURIComponent(cnGame)+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#fb729920;color:#fb7299;text-decoration:none;font-size:12px">Bilibili</a>');
-    parts.push('<a href="https://www.taptap.cn/search/'+encodeURIComponent(cnGame)+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#ffa50020;color:#ffa500;text-decoration:none;font-size:12px">TapTap</a>');
-    parts.push('<a href="https://www.zhihu.com/search?q='+encodeURIComponent(cnGame)+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#0084ff20;color:#0084ff;text-decoration:none;font-size:12px">知乎</a>');
+    parts.push('<a href="https://search.bilibili.com/all?keyword='+encodeURIComponent(cnGame)+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#fb729920;color:#fb7299;text-decoration:none;font-size:14px">Bilibili</a>');
+    parts.push('<a href="https://www.taptap.cn/search/'+encodeURIComponent(cnGame)+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#ffa50020;color:#ffa500;text-decoration:none;font-size:14px">TapTap</a>');
+    parts.push('<a href="https://www.zhihu.com/search?q='+encodeURIComponent(cnGame)+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#0084ff20;color:#0084ff;text-decoration:none;font-size:14px">知乎</a>');
   }
   if(country==='jp'||country==='all'){
     var jpGame=(GAME_I18N[game]&&GAME_I18N[game].jp)||game;
-    parts.push('<a href="https://nitter.net/search?f=tweets&q='+encodeURIComponent(jpGame)+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#1da1f220;color:#1da1f2;text-decoration:none;font-size:12px">X/Twitter</a>');
-    parts.push('<a href="https://find.5ch.io/search?q='+encodeURIComponent(jpGame)+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#20a02020;color:#20a020;text-decoration:none;font-size:12px">5ch</a>');
-    parts.push('<a href="https://play.google.com/store/search?q='+encodeURIComponent(jpGame)+'&c=apps&hl=ja&gl=jp" target="_blank" style="padding:4px 10px;border-radius:6px;background:#34a85320;color:#34a853;text-decoration:none;font-size:12px">GP日本</a>');
+    parts.push('<a href="https://nitter.net/search?f=tweets&q='+encodeURIComponent(jpGame)+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#1da1f220;color:#1da1f2;text-decoration:none;font-size:14px">X/Twitter</a>');
+    parts.push('<a href="https://find.5ch.io/search?q='+encodeURIComponent(jpGame)+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#20a02020;color:#20a020;text-decoration:none;font-size:14px">5ch</a>');
+    parts.push('<a href="https://play.google.com/store/search?q='+encodeURIComponent(jpGame)+'&c=apps&hl=ja&gl=jp" target="_blank" style="padding:4px 10px;border-radius:6px;background:#34a85320;color:#34a853;text-decoration:none;font-size:14px">GP日本</a>');
   }
   parts.push('</div></div>');
 
@@ -1271,7 +1271,7 @@ function openSentDetail(game,idx,trend,detail){
         var titleText=h.title||'';
         var link=h.url||h.link||'';
         var titleHTML=link?('<a href="'+link+'" target="_blank" style="color:var(--t2);text-decoration:none">'+titleText+'</a>'):titleText;
-        return '<div style="font-size:12px;padding:4px 0;color:var(--t2);border-bottom:1px solid var(--border)">'+rec+titleHTML+'</div>';
+        return '<div style="font-size:14px;padding:4px 0;color:var(--t2);border-bottom:1px solid var(--border)">'+rec+titleHTML+'</div>';
       });
       parts.push('<div class="modal-sec"><h4>인기 게시글 (추천수 순)</h4>'+hotItems.join('')+'</div>');
     }
@@ -1282,22 +1282,22 @@ function openSentDetail(game,idx,trend,detail){
         var titleStr=typeof s==='string'?s:(s.title||s.text||'');
         var sLink=(typeof s==='object'&&(s.url||s.link))?s.url||s.link:'';
         var titleHTML=sLink?('<a href="'+sLink+'" target="_blank" style="color:var(--t2);text-decoration:none">'+titleStr+'</a>'):titleStr;
-        return '<div style="font-size:12px;padding:3px 0;color:var(--t2)">▸ '+titleHTML+'</div>';
+        return '<div style="font-size:14px;padding:3px 0;color:var(--t2)">▸ '+titleHTML+'</div>';
       });
       parts.push('<div class="modal-sec"><h4>한국 DC Inside 게시글</h4>'+dcItems.join('')+'</div>');
     }
     if(sentData.bili_samples){
-      var biliItems=sentData.bili_samples.map(function(s){return '<div style="font-size:12px;padding:3px 0;color:var(--t2)">▸ '+s+'</div>'});
+      var biliItems=sentData.bili_samples.map(function(s){return '<div style="font-size:14px;padding:3px 0;color:var(--t2)">▸ '+s+'</div>'});
       parts.push('<div class="modal-sec"><h4>중국 Bilibili 인기 영상</h4>'+biliItems.join('')+'</div>');
     }
     if(sentData.twitter_samples){
-      var twItems=sentData.twitter_samples.map(function(s){return '<div style="font-size:12px;padding:3px 0;color:var(--t2)">▸ '+s+'</div>'});
+      var twItems=sentData.twitter_samples.map(function(s){return '<div style="font-size:14px;padding:3px 0;color:var(--t2)">▸ '+s+'</div>'});
       parts.push('<div class="modal-sec"><h4>일본 X/Twitter 트윗</h4>'+twItems.join('')+'</div>');
     }
   }
 
   // 각국 여론 통합
-  parts.push('<div class="modal-sec"><h4>각국 여론</h4><div style="font-size:12px">');
+  parts.push('<div class="modal-sec"><h4>각국 여론</h4><div style="font-size:14px">');
   var sentKr=SKR[game];
   var sentCn=SCN[game];
   var sentJp=SJP[game];
@@ -1406,11 +1406,11 @@ function renderInfluencers(q){
     var tier=inf.tier||'D';
     var games=(inf.main_games||[]).slice(0,2).join(', ');
     var platform=inf.platform||'YouTube';
-    var officialTag=inf.is_official?'<span style="color:var(--accent);font-size:10px;border:1px solid var(--accent);padding:1px 3px;border-radius:2px;margin-right:3px">공식</span>':'';
+    var officialTag=inf.is_official?'<span style="color:var(--accent);font-size:14px;border:1px solid var(--accent);padding:1px 3px;border-radius:2px;margin-right:3px">공식</span>':'';
     return '<tr onclick="openInfDetail('+idx+')" style="cursor:pointer">'+
       '<td>'+(idx+1)+'</td>'+
       '<td><div style="font-weight:500">'+officialTag+(inf.name||'')+'</div>'+
-      '<div style="font-size:10px;color:var(--t3)">'+platform+(games?' · '+games:'')+'</div></td>'+
+      '<div style="font-size:14px;color:var(--t3)">'+platform+(games?' · '+games:'')+'</div></td>'+
       '<td style="font-weight:600">'+fmtSub(sub)+'</td>'+
       '<td>'+fmtSub(avgV)+'</td>'+
       '<td>'+eng.toFixed(1)+'%</td>'+
@@ -1421,7 +1421,7 @@ function renderInfluencers(q){
   var INF_SHOW=10;
   var infHTML=rows.slice(0,INF_SHOW).join('');
   if(rows.length>INF_SHOW){
-    infHTML+='<tr class="inf-more-row"><td colspan="6" style="text-align:center;padding:10px"><button id="inf-more-btn" style="padding:6px 18px;border-radius:6px;border:1px solid var(--border);background:var(--surface);color:var(--t1);cursor:pointer;font-size:12px;font-weight:600">'+String.fromCharCode(9660)+' 펼치기</button></td></tr>';
+    infHTML+='<tr class="inf-more-row"><td colspan="6" style="text-align:center;padding:10px"><button id="inf-more-btn" style="padding:6px 18px;border-radius:6px;border:1px solid var(--border);background:var(--surface);color:var(--t1);cursor:pointer;font-size:14px;font-weight:600">'+String.fromCharCode(9660)+' 펼치기</button></td></tr>';
     rows.slice(INF_SHOW).forEach(function(r){infHTML+=r.replace('<tr','<tr class="inf-hidden" style="display:none"');});
   }
   tbody.innerHTML=infHTML;
@@ -1452,15 +1452,15 @@ function openInfDetail(idx){
   var tier=inf.tier||'D';
   var parts=[];
   parts.push('<div style="display:flex;gap:16px;margin-bottom:16px">');
-  parts.push('<div style="text-align:center"><div style="font-size:36px;font-weight:700;color:'+tierColor(tier)+'">'+tier+'</div><div style="font-size:11px;color:var(--t2)">등급</div></div>');
-  parts.push('<div style="text-align:center"><div style="font-size:24px">'+fmtSub(inf.subscribers||0)+'</div><div style="font-size:11px;color:var(--t2)">구독자</div></div>');
-  parts.push('<div style="text-align:center"><div style="font-size:24px">'+fmtSub(inf.avg_views||0)+'</div><div style="font-size:11px;color:var(--t2)">평균 조회</div></div>');
-  parts.push('<div style="text-align:center"><div style="font-size:24px">'+(inf.engagement_rate||0).toFixed(1)+'%</div><div style="font-size:11px;color:var(--t2)">참여율</div></div>');
+  parts.push('<div style="text-align:center"><div style="font-size:36px;font-weight:700;color:'+tierColor(tier)+'">'+tier+'</div><div style="font-size:15px;color:var(--t2)">등급</div></div>');
+  parts.push('<div style="text-align:center"><div style="font-size:24px">'+fmtSub(inf.subscribers||0)+'</div><div style="font-size:15px;color:var(--t2)">구독자</div></div>');
+  parts.push('<div style="text-align:center"><div style="font-size:24px">'+fmtSub(inf.avg_views||0)+'</div><div style="font-size:15px;color:var(--t2)">평균 조회</div></div>');
+  parts.push('<div style="text-align:center"><div style="font-size:24px">'+(inf.engagement_rate||0).toFixed(1)+'%</div><div style="font-size:15px;color:var(--t2)">참여율</div></div>');
   parts.push('</div>');
 
   // 채널 정보
   parts.push('<div class="modal-sec"><h4>채널 정보</h4>');
-  parts.push('<div style="font-size:13px;line-height:1.8">');
+  parts.push('<div style="font-size:15px;line-height:1.8">');
   parts.push('<div>플랫폼: '+(inf.platform||'YouTube')+'</div>');
   parts.push('<div>국가: '+(infTab==='all'?(CNAMES[inf.country]||''):(CNAMES[infTab]||''))+'</div>');
   if(inf.category)parts.push('<div>카테고리: '+inf.category+'</div>');
@@ -1473,7 +1473,7 @@ function openInfDetail(idx){
 
   // 채널 방문 버튼만
   if(inf.channel_url&&inf.channel_url!=='#'&&inf.channel_url.length>10){
-    parts.push('<div class="modal-sec"><a href="'+inf.channel_url+'" target="_blank" style="display:inline-block;padding:8px 16px;border-radius:8px;background:var(--accent);color:#fff;text-decoration:none;font-size:13px">📺 채널 방문 →</a></div>');
+    parts.push('<div class="modal-sec"><a href="'+inf.channel_url+'" target="_blank" style="display:inline-block;padding:8px 16px;border-radius:8px;background:var(--accent);color:#fff;text-decoration:none;font-size:15px">📺 채널 방문 →</a></div>');
   }
 
   // 최근 영상 리스트 (링크 포함, 최대 5개)
@@ -1484,15 +1484,15 @@ function openInfDetail(idx){
       var vtitle=v.title||'최근 영상';
       var vpub=v.published?(' · '+v.published.slice(0,10)):'';
       if(vlink){
-        parts.push('<div style="font-size:12px;padding:6px 0;border-bottom:1px solid var(--border)"><a href="'+vlink+'" target="_blank" style="color:var(--accent);text-decoration:none">▶ '+vtitle+'</a><span style="color:var(--t3);font-size:10px">'+vpub+'</span></div>');
+        parts.push('<div style="font-size:14px;padding:6px 0;border-bottom:1px solid var(--border)"><a href="'+vlink+'" target="_blank" style="color:var(--accent);text-decoration:none">▶ '+vtitle+'</a><span style="color:var(--t3);font-size:14px">'+vpub+'</span></div>');
       }else{
-        parts.push('<div style="font-size:12px;padding:6px 0;border-bottom:1px solid var(--border)">▶ '+vtitle+'<span style="color:var(--t3);font-size:10px">'+vpub+'</span></div>');
+        parts.push('<div style="font-size:14px;padding:6px 0;border-bottom:1px solid var(--border)">▶ '+vtitle+'<span style="color:var(--t3);font-size:14px">'+vpub+'</span></div>');
       }
     });
     parts.push('</div>');
   }else if(inf.recent_video){
     parts.push('<div class="modal-sec"><h4>🎬 최근 영상</h4>');
-    parts.push('<div style="font-size:12px;padding:6px 0;border-bottom:1px solid var(--border)"><a href="'+inf.recent_video+'" target="_blank" style="color:var(--accent);text-decoration:none">▶ 최근 영상 보기</a></div>');
+    parts.push('<div style="font-size:14px;padding:6px 0;border-bottom:1px solid var(--border)"><a href="'+inf.recent_video+'" target="_blank" style="color:var(--accent);text-decoration:none">▶ 최근 영상 보기</a></div>');
     parts.push('</div>');
   }
 
@@ -1561,9 +1561,9 @@ function renderSoftcPlatforms(){
   platDiv.innerHTML=plats.map(function(p){
     var icon=p.name.indexOf('치지직')>=0?'🟢':p.name.indexOf('YouTube')>=0?'🔴':'▶';
     return '<div onclick="window.open(\''+(p.link||'')+'\',\'_blank\')" style="flex:1;min-width:120px;padding:10px;border-radius:8px;background:var(--bg3);border:1px solid var(--border);cursor:pointer">'+
-      '<div style="font-size:12px;font-weight:600">'+icon+' '+(p.name||'')+'</div>'+
+      '<div style="font-size:14px;font-weight:600">'+icon+' '+(p.name||'')+'</div>'+
       '<div style="font-size:18px;font-weight:700;color:var(--accent)">'+(p.viewers||'').replace(/[^\d,]/g,'')+'</div>'+
-      '<div style="font-size:10px;color:var(--t3)">'+(p.name.indexOf('YouTube')>=0?'총 시청자 · ':'총 시청자 · ')+(p.channels||'')+'</div></div>';
+      '<div style="font-size:14px;color:var(--t3)">'+(p.name.indexOf('YouTube')>=0?'총 시청자 · ':'총 시청자 · ')+(p.channels||'')+'</div></div>';
   }).join('')||'<p style="color:var(--t3)">데이터 없음</p>';
 }
 function renderSoftcCategories(){
@@ -1585,7 +1585,7 @@ function renderSoftcStreamers(){
   var chzzkStreams=allStreams.filter(function(s){return (s.platform||'').indexOf('치지직')>=0||(s.platform||'').indexOf('chzzk')>=0});
   if(chzzkStreams.length===0)chzzkStreams=allStreams.slice(0,8);
   if(chzzkDiv){
-    chzzkDiv.innerHTML=chzzkStreams.slice(0,15).map(function(s){return _streamerHTML(s,'#00d400')}).join('')||'<p style="color:var(--t3);font-size:11px">데이터 없음</p>';
+    chzzkDiv.innerHTML=chzzkStreams.slice(0,15).map(function(s){return _streamerHTML(s,'#00d400')}).join('')||'<p style="color:var(--t3);font-size:15px">데이터 없음</p>';
   }
   // YouTube Live streamers
   var ytStreams=allStreams.filter(function(s){return (s.platform||'').indexOf('YouTube')>=0||(s.platform||'').indexOf('youtube')>=0});
@@ -1593,7 +1593,7 @@ function renderSoftcStreamers(){
     if(ytStreams.length>0){
       ytDiv.innerHTML=ytStreams.slice(0,15).map(function(s){return _streamerHTML(s,'#ff0000')}).join('');
     }else{
-      ytDiv.innerHTML='<p style="color:var(--t3);font-size:11px">라이브 방송이 없습니다</p>';
+      ytDiv.innerHTML='<p style="color:var(--t3);font-size:15px">라이브 방송이 없습니다</p>';
     }
   }
   var fetchedEl=document.getElementById('inf-fetched');
@@ -1608,15 +1608,15 @@ function _streamerHTML(s,color){
   var title=s.title||'';
   if(link){
     return '<a href="'+link+'" target="_blank" style="display:block;text-decoration:none;padding:5px 0;border-bottom:1px solid var(--border);cursor:pointer">'+
-      '<div style="font-size:12px;font-weight:600;color:'+color+';overflow:hidden;text-overflow:ellipsis;white-space:nowrap">'+s.name+'</div>'+
-      (title?'<div style="font-size:10px;color:var(--t3);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;margin-top:1px">'+title.slice(0,35)+'</div>':'')+
-      '<div style="font-size:10px;font-weight:700;color:'+color+';margin-top:2px">👁 '+vStr+(viewers>0?'명 시청 중':'라이브')+'</div>'+
+      '<div style="font-size:14px;font-weight:600;color:'+color+';overflow:hidden;text-overflow:ellipsis;white-space:nowrap">'+s.name+'</div>'+
+      (title?'<div style="font-size:14px;color:var(--t3);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;margin-top:1px">'+title.slice(0,35)+'</div>':'')+
+      '<div style="font-size:14px;font-weight:700;color:'+color+';margin-top:2px">👁 '+vStr+(viewers>0?'명 시청 중':'라이브')+'</div>'+
       '</a>';
   }
   return '<div style="padding:5px 0;border-bottom:1px solid var(--border)">'+
-    '<div style="font-size:12px;font-weight:600;color:'+color+'">'+s.name+'</div>'+
-    (title?'<div style="font-size:10px;color:var(--t3);margin-top:1px">'+title.slice(0,35)+'</div>':'')+
-    '<div style="font-size:10px;font-weight:700;color:'+color+';margin-top:2px">👁 '+vStr+'</div>'+
+    '<div style="font-size:14px;font-weight:600;color:'+color+'">'+s.name+'</div>'+
+    (title?'<div style="font-size:14px;color:var(--t3);margin-top:1px">'+title.slice(0,35)+'</div>':'')+
+    '<div style="font-size:14px;font-weight:700;color:'+color+';margin-top:2px">👁 '+vStr+'</div>'+
     '</div>';
 }
 // renderInfSoftc는 호환성 유지
@@ -1740,7 +1740,7 @@ function renderCompany(){
     var srcColor=srcRaw.indexOf('Sensor')>=0||srcRaw.indexOf('추정')>=0?'var(--t3)':'var(--pos)';
     return '<tr onclick="openCoModal('+i+')" style="cursor:pointer">'+
       '<td style="font-weight:700;color:var(--fg-50)">'+rank+'</td>'+
-      '<td style="font-weight:600">'+escAttr(name)+(nameEn?'<div style="font-size:10px;color:var(--t3);font-weight:400">'+escAttr(nameEn)+'</div>':'')+'</td>'+
+      '<td style="font-weight:600">'+escAttr(name)+(nameEn?'<div style="font-size:14px;color:var(--t3);font-weight:400">'+escAttr(nameEn)+'</div>':'')+'</td>'+
       '<td>'+(flags[c.country]||c.country)+'</td>'+
       '<td>$'+(r23/1000).toFixed(2)+'B</td>'+
       '<td>$'+(r24/1000).toFixed(2)+'B</td>'+
@@ -1748,8 +1748,8 @@ function renderCompany(){
       '<td>'+yoyStr+'</td>'+
       '<td>'+opStr+'</td>'+
       '<td>'+marginStr+'</td>'+
-      '<td style="font-size:10px;color:var(--t3)">'+escAttr(fr)+'</td>'+
-      '<td style="font-size:10px;color:'+srcColor+';white-space:nowrap">'+escAttr(srcShort)+'</td>'+
+      '<td style="font-size:14px;color:var(--t3)">'+escAttr(fr)+'</td>'+
+      '<td style="font-size:14px;color:'+srcColor+';white-space:nowrap">'+escAttr(srcShort)+'</td>'+
       '</tr>';
   });
   tbody.innerHTML=rows.join('');
@@ -1786,7 +1786,7 @@ function openCoModal(idx){
   html+='</div>';
   // 3년 추이 표
   html+='<div class="modal-sec"><h4>📊 3년 재무 추이</h4>';
-  html+='<table style="width:100%;font-size:12px"><thead><tr><th>연도</th><th>매출</th><th>영업이익</th><th>영업이익률</th></tr></thead><tbody>';
+  html+='<table style="width:100%;font-size:14px"><thead><tr><th>연도</th><th>매출</th><th>영업이익</th><th>영업이익률</th></tr></thead><tbody>';
   var years=[
     {y:'2023',r:r23,o:c.operating_profit_2023},
     {y:'2024',r:r24,o:op24},
@@ -1798,11 +1798,11 @@ function openCoModal(idx){
   });
   html+='</tbody></table></div>';
   // 정보
-  html+='<div class="modal-sec"><h4>🏢 기업 정보</h4><div style="font-size:13px;line-height:1.8">';
+  html+='<div class="modal-sec"><h4>🏢 기업 정보</h4><div style="font-size:15px;line-height:1.8">';
   html+='<p><b>영문명:</b> '+escAttr(c.name||'')+'</p>';
   if(c.ticker)html+='<p><b>상장:</b> '+escAttr(c.ticker)+'</p>';
   html+='<p><b>출처:</b> <span style="color:var(--pos)">'+escAttr(c.source||'')+'</span></p>';
-  if(c.notes)html+='<p style="margin-top:8px;padding:8px;background:var(--bg3);border-radius:6px;font-size:12px;color:var(--t2)">'+escAttr(c.notes)+'</p>';
+  if(c.notes)html+='<p style="margin-top:8px;padding:8px;background:var(--bg3);border-radius:6px;font-size:14px;color:var(--t2)">'+escAttr(c.notes)+'</p>';
   html+='</div></div>';
   // 링크 버튼 3개
   var searchName=c.name_kr||c.name||'';
@@ -1811,9 +1811,9 @@ function openCoModal(idx){
   var irUrl=c.ir_url||c.official_url||'';
   if(irUrl){
     var btnLabel=c.ir_url?'📋 IR 자료실':'🌐 공식 사이트';
-    html+='<a href="'+irUrl+'" target="_blank" style="padding:8px 14px;border-radius:8px;background:var(--accent);color:#fff;text-decoration:none;font-size:12px;font-weight:600;display:inline-flex;align-items:center;gap:4px">'+btnLabel+'</a>';
+    html+='<a href="'+irUrl+'" target="_blank" style="padding:8px 14px;border-radius:8px;background:var(--accent);color:#fff;text-decoration:none;font-size:14px;font-weight:600;display:inline-flex;align-items:center;gap:4px">'+btnLabel+'</a>';
   }else{
-    html+='<a href="https://www.google.com/search?q='+encodeURIComponent(searchName+' 공식 사이트')+'" target="_blank" style="padding:8px 14px;border-radius:8px;background:var(--bg3);border:1px solid var(--border);color:var(--t1);text-decoration:none;font-size:12px;font-weight:600">🌐 공식 사이트</a>';
+    html+='<a href="https://www.google.com/search?q='+encodeURIComponent(searchName+' 공식 사이트')+'" target="_blank" style="padding:8px 14px;border-radius:8px;background:var(--bg3);border:1px solid var(--border);color:var(--t1);text-decoration:none;font-size:14px;font-weight:600">🌐 공식 사이트</a>';
   }
   // 2. 출처 (공시시스템 또는 Sensor Tower)
   var srcUrl=c.source_url||'';
@@ -1823,9 +1823,9 @@ function openCoModal(idx){
     srcUrl='https://sensortower.com/overview?q='+encodeURIComponent(c.name||searchName);
   }
   if(srcUrl){
-    html+='<a href="'+srcUrl+'" target="_blank" style="padding:8px 14px;border-radius:8px;background:var(--bg3);border:1px solid var(--border);color:var(--t1);text-decoration:none;font-size:12px;font-weight:600;display:inline-flex;align-items:center;gap:4px">📊 '+escAttr(srcName.slice(0,15))+'</a>';
+    html+='<a href="'+srcUrl+'" target="_blank" style="padding:8px 14px;border-radius:8px;background:var(--bg3);border:1px solid var(--border);color:var(--t1);text-decoration:none;font-size:14px;font-weight:600;display:inline-flex;align-items:center;gap:4px">📊 '+escAttr(srcName.slice(0,15))+'</a>';
   }else if(srcName){
-    html+='<a href="https://www.google.com/search?q='+encodeURIComponent(searchName+' '+srcName)+'" target="_blank" style="padding:8px 14px;border-radius:8px;background:var(--bg3);border:1px solid var(--border);color:var(--t1);text-decoration:none;font-size:12px;font-weight:600">📊 '+escAttr(srcName.slice(0,15))+'</a>';
+    html+='<a href="https://www.google.com/search?q='+encodeURIComponent(searchName+' '+srcName)+'" target="_blank" style="padding:8px 14px;border-radius:8px;background:var(--bg3);border:1px solid var(--border);color:var(--t1);text-decoration:none;font-size:14px;font-weight:600">📊 '+escAttr(srcName.slice(0,15))+'</a>';
   }
   // 3. 최근 뉴스 (국가별 맞춤)
   var newsUrl='';
@@ -1845,7 +1845,7 @@ function openCoModal(idx){
     newsUrl='https://www.google.com/search?q='+encodeURIComponent(c.name+' game')+'&tbm=nws';
     newsLabel='📰 News';
   }
-  html+='<a href="'+newsUrl+'" target="_blank" style="padding:8px 14px;border-radius:8px;background:var(--bg3);border:1px solid var(--border);color:var(--t1);text-decoration:none;font-size:12px;font-weight:600">'+newsLabel+'</a>';
+  html+='<a href="'+newsUrl+'" target="_blank" style="padding:8px 14px;border-radius:8px;background:var(--bg3);border:1px solid var(--border);color:var(--t1);text-decoration:none;font-size:14px;font-weight:600">'+newsLabel+'</a>';
   html+='</div></div>';
   document.getElementById('co-modal-body').innerHTML=html;
   document.getElementById('co-modal').classList.add('on');
@@ -1875,7 +1875,7 @@ function renderNews(){
         var source=n.source||'';
         return '<a href="'+url+'" target="_blank" style="text-decoration:none;display:block;border:1px solid var(--border);border-radius:8px;overflow:hidden;background:var(--bg3);transition:.15s">'+
           '<img src="'+thumb+'" style="width:100%;height:120px;object-fit:cover" onerror="this.style.display=\'none\'">'+
-          '<div style="padding:8px 10px"><div style="font-size:12px;font-weight:600;color:var(--t1);line-height:1.4;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical">'+title+'</div><div style="font-size:10px;color:var(--t3);margin-top:4px">'+source+'</div></div></a>';
+          '<div style="padding:8px 10px"><div style="font-size:14px;font-weight:600;color:var(--t1);line-height:1.4;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical">'+title+'</div><div style="font-size:14px;color:var(--t3);margin-top:4px">'+source+'</div></div></a>';
       }).join('');
     }else{headlineCard.style.display='none';}
   }else if(headlineCard){headlineCard.style.display='none';}
@@ -1888,11 +1888,11 @@ function renderNews(){
     var date=n.date||'';
     var countryFlag=n.country==='kr'?'KR':n.country==='cn'?'CN':n.country==='jp'?'JP':'';
     var titleHTML=url
-      ?('<a href="'+url+'" target="_blank" style="color:var(--t1);text-decoration:none;font-weight:500;font-size:13px;display:block;margin-bottom:3px">'+title+'</a>')
-      :('<div style="font-weight:500;font-size:13px;margin-bottom:3px">'+title+'</div>');
+      ?('<a href="'+url+'" target="_blank" style="color:var(--t1);text-decoration:none;font-weight:500;font-size:15px;display:block;margin-bottom:3px">'+title+'</a>')
+      :('<div style="font-weight:500;font-size:15px;margin-bottom:3px">'+title+'</div>');
     return '<div style="padding:10px 12px;border:1px solid var(--border);border-radius:8px;background:var(--bg3);margin-bottom:6px">'+
       titleHTML+
-      '<div style="font-size:11px;color:var(--t3)">'+countryFlag+' · '+source+(date?' · '+date:'')+'</div></div>';
+      '<div style="font-size:15px;color:var(--t3)">'+countryFlag+' · '+source+(date?' · '+date:'')+'</div></div>';
   });
   var newsHTMLstr=newsItems.join('');
   if(data.length>NEWS_SHOW){
@@ -1903,14 +1903,14 @@ function renderNews(){
       var date=n.date||'';
       var countryFlag=n.country==='kr'?'KR':n.country==='cn'?'CN':n.country==='jp'?'JP':'';
       var titleHTML=url
-        ?('<a href="'+url+'" target="_blank" style="color:var(--t1);text-decoration:none;font-weight:500;font-size:13px;display:block;margin-bottom:3px">'+title+'</a>')
-        :('<div style="font-weight:500;font-size:13px;margin-bottom:3px">'+title+'</div>');
+        ?('<a href="'+url+'" target="_blank" style="color:var(--t1);text-decoration:none;font-weight:500;font-size:15px;display:block;margin-bottom:3px">'+title+'</a>')
+        :('<div style="font-weight:500;font-size:15px;margin-bottom:3px">'+title+'</div>');
       return '<div class="news-hidden" style="display:none;padding:10px 12px;border:1px solid var(--border);border-radius:8px;background:var(--bg3);margin-bottom:6px">'+
         titleHTML+
-        '<div style="font-size:11px;color:var(--t3)">'+countryFlag+' · '+source+(date?' · '+date:'')+'</div></div>';
+        '<div style="font-size:15px;color:var(--t3)">'+countryFlag+' · '+source+(date?' · '+date:'')+'</div></div>';
     });
     newsHTMLstr+=hiddenNews.join('');
-    newsHTMLstr+='<div style="text-align:center;padding:8px"><button id="news-more-btn" style="padding:6px 18px;border-radius:6px;border:1px solid var(--border);background:var(--surface);color:var(--t1);cursor:pointer;font-size:12px;font-weight:600">'+String.fromCharCode(9660)+' 펼치기</button></div>';
+    newsHTMLstr+='<div style="text-align:center;padding:8px"><button id="news-more-btn" style="padding:6px 18px;border-radius:6px;border:1px solid var(--border);background:var(--surface);color:var(--t1);cursor:pointer;font-size:14px;font-weight:600">'+String.fromCharCode(9660)+' 펼치기</button></div>';
   }
   list.innerHTML=newsHTMLstr;
   var newsBtn=document.getElementById('news-more-btn');
@@ -2075,7 +2075,7 @@ function renderCalendar(){
         var cFlag=CAL_COUNTRY_LABELS[e.country]||'';
         var gameName=translateGame(e.game)||e.game||'';
         return '<div class="cal-ev-item t-'+t+'">'+
-          '<span style="color:var(--t3);font-size:11px">'+e.date+'</span> '+
+          '<span style="color:var(--t3);font-size:15px">'+e.date+'</span> '+
           '<span class="cal-ev-tag t-'+t+'">'+tLabel+'</span>'+
           '<span class="cal-ev-game">'+gameName+'</span>'+
           (cFlag?'<span class="cal-ev-country">'+cFlag+'</span>':'')+
@@ -2083,7 +2083,7 @@ function renderCalendar(){
           '</div>';
       });
       if(monthEvents.length>15){
-        evItems2.push('<p style="color:var(--t3);font-size:11px;margin-top:6px">... 외 '+(monthEvents.length-15)+'건 (날짜를 클릭하여 확인하세요)</p>');
+        evItems2.push('<p style="color:var(--t3);font-size:15px;margin-top:6px">... 외 '+(monthEvents.length-15)+'건 (날짜를 클릭하여 확인하세요)</p>');
       }
     }else{
       evItems2=['<p style="color:var(--t3)">'+(m+1)+'월에 등록된 이벤트가 없습니다.</p>'];
@@ -2306,10 +2306,10 @@ function openModal(gameName){
     updateDiv.id='modal-update-sec';
     var upBtn=document.createElement('button');
     upBtn.textContent='📣 ▶ 최근 업데이트';
-    upBtn.style.cssText='width:100%;padding:8px 12px;border-radius:6px;border:1px solid var(--border);background:var(--surface);color:var(--t1);cursor:pointer;font-size:13px;font-weight:600;text-align:left;margin-bottom:6px';
+    upBtn.style.cssText='width:100%;padding:8px 12px;border-radius:6px;border:1px solid var(--border);background:var(--surface);color:var(--t1);cursor:pointer;font-size:15px;font-weight:600;text-align:left;margin-bottom:6px';
     upBtn.onclick=function(){var d=this.nextElementSibling;var open=d.style.display==='none';d.style.display=open?'block':'none';this.innerHTML=open?'📣 ▼ 최근 업데이트':'📣 ▶ 최근 업데이트';};
     var upContent=document.createElement('div');
-    upContent.style.cssText='display:none;font-size:13px;color:var(--t2);padding:10px;border-radius:6px;background:var(--bg3);border-left:3px solid var(--accent);line-height:1.8';
+    upContent.style.cssText='display:none;font-size:15px;color:var(--t2);padding:10px;border-radius:6px;background:var(--bg3);border-left:3px solid var(--accent);line-height:1.8';
     upContent.textContent=updateInfo;
     updateDiv.appendChild(upBtn);
     updateDiv.appendChild(upContent);
@@ -2324,9 +2324,9 @@ function openModal(gameName){
   var arcaSlug=ARCA_SLUG_MAP[gameName];
   var arcaLink=arcaSlug?('https://arca.live/b/'+arcaSlug):('https://arca.live/search?q='+encodeURIComponent(gameName));
   if(gameName.indexOf('SOL')>=0||gameName.indexOf('인챈트')>=0||gameName.indexOf('enchant')>=0){
-    linkParts.push('<a href="https://game.naver.com/lounge/SOL_enchant/board" target="_blank" style="padding:4px 10px;border-radius:6px;background:#3498db20;color:#3498db;text-decoration:none;font-size:12px">네이버 라운지</a>');
+    linkParts.push('<a href="https://game.naver.com/lounge/SOL_enchant/board" target="_blank" style="padding:4px 10px;border-radius:6px;background:#3498db20;color:#3498db;text-decoration:none;font-size:14px">네이버 라운지</a>');
   }else{
-    linkParts.push('<a href="'+arcaLink+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#3498db20;color:#3498db;text-decoration:none;font-size:12px">아카라이브</a>');
+    linkParts.push('<a href="'+arcaLink+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#3498db20;color:#3498db;text-decoration:none;font-size:14px">아카라이브</a>');
   }
   var dcGalId2=DC_GAL_MAP[gameName];
   var MINOR2=['gf2','gfl2','maplerpg','sevennightsrebirth','enban','vampir','lastzzzz0123','i9','cooptd','holodreams','mumonarch2','whiteoutsv','lwsmobile','solehchant','lastasylum','nevernesstoeverness','cpyv22','shsh','township','sdggeneeternal','samgukmojeong','gangho','candycrush','zenless_zone_zero','seasideescape','gossipharbor','pmangpoker','royalmatch','royalkingdom','nikke','starail','wutheringwaves','zzz','odin','lineagem','lineagew','lostark','blackdesertm','epicseven','diabloimmortal','aion2','cookierun','luckydefense','battlecats','ragnarokm','efootball','pokemongo','pubgmobile','roblox','kingshot','garden','honkaistarrail','rk','rom','vhr','onlyluckygame','mobilefifiaonline','battlegroundmobile','hyeobdong','lastwar'];
@@ -2341,16 +2341,16 @@ function openModal(gameName){
   }else{
     dcLink2='https://gall.dcinside.com/search?q='+encodeURIComponent(gameName);
   }
-  linkParts.push('<a href="'+dcLink2+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#e74c3c20;color:#e74c3c;text-decoration:none;font-size:12px">DC Inside</a>');
-  linkParts.push('<a href="https://play.google.com/store/search?q='+encodeURIComponent(gameName)+'&c=apps" target="_blank" style="padding:4px 10px;border-radius:6px;background:#34a85320;color:#34a853;text-decoration:none;font-size:12px">Google Play</a>');
+  linkParts.push('<a href="'+dcLink2+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#e74c3c20;color:#e74c3c;text-decoration:none;font-size:14px">DC Inside</a>');
+  linkParts.push('<a href="https://play.google.com/store/search?q='+encodeURIComponent(gameName)+'&c=apps" target="_blank" style="padding:4px 10px;border-radius:6px;background:#34a85320;color:#34a853;text-decoration:none;font-size:14px">Google Play</a>');
   // 중국 링크
   var cnGame2=(GAME_I18N[gameName]&&GAME_I18N[gameName].cn)||gameName;
-  linkParts.push('<a href="https://search.bilibili.com/all?keyword='+encodeURIComponent(cnGame2)+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#fb729920;color:#fb7299;text-decoration:none;font-size:12px">Bilibili</a>');
-  linkParts.push('<a href="https://www.taptap.cn/search/'+encodeURIComponent(cnGame2)+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#ffa50020;color:#ffa500;text-decoration:none;font-size:12px">TapTap</a>');
+  linkParts.push('<a href="https://search.bilibili.com/all?keyword='+encodeURIComponent(cnGame2)+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#fb729920;color:#fb7299;text-decoration:none;font-size:14px">Bilibili</a>');
+  linkParts.push('<a href="https://www.taptap.cn/search/'+encodeURIComponent(cnGame2)+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#ffa50020;color:#ffa500;text-decoration:none;font-size:14px">TapTap</a>');
   // 일본 링크
   var jpGame2=(GAME_I18N[gameName]&&GAME_I18N[gameName].jp)||gameName;
-  linkParts.push('<a href="https://nitter.net/search?f=tweets&q='+encodeURIComponent(jpGame2)+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#1da1f220;color:#1da1f2;text-decoration:none;font-size:12px">X/Twitter</a>');
-  linkParts.push('<a href="https://find.5ch.io/search?q='+encodeURIComponent(jpGame2)+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#20a02020;color:#20a020;text-decoration:none;font-size:12px">5ch</a>');
+  linkParts.push('<a href="https://nitter.net/search?f=tweets&q='+encodeURIComponent(jpGame2)+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#1da1f220;color:#1da1f2;text-decoration:none;font-size:14px">X/Twitter</a>');
+  linkParts.push('<a href="https://find.5ch.io/search?q='+encodeURIComponent(jpGame2)+'" target="_blank" style="padding:4px 10px;border-radius:6px;background:#20a02020;color:#20a020;text-decoration:none;font-size:14px">5ch</a>');
   linkParts.push('</div></div>');
   var modalSent=document.getElementById('modal-sentiment');
   if(modalSent) modalSent.innerHTML+=linkParts.join('');
@@ -2363,35 +2363,35 @@ function openModal(gameName){
     var topVidsB=biliData.top_videos||[];
     vidParts.push('<div style="margin-bottom:8px"><strong>🇨🇳 Bilibili</strong> — '+(biliData.quality_videos||0)+'영상, '+fmt(biliData.total_plays||0)+'재생, '+fmt(biliData.total_comments||0)+'댓글</div>');
     if(topVidsB.length){
-      vidParts.push('<div style="font-size:12px;margin-left:8px">');
+      vidParts.push('<div style="font-size:14px;margin-left:8px">');
       topVidsB.forEach(function(v){
         var vidAuthor=v.author?(' · '+v.author):'';
         vidParts.push('<div style="margin-bottom:4px">▸ <a href="https://search.bilibili.com/all?keyword='+encodeURIComponent(gameName)+'" target="_blank" style="color:var(--accent);text-decoration:none">'+(v.title||'')+'</a> ('+fmt(parseInt(v.play||0))+'재생'+vidAuthor+')</div>');
       });
-      vidParts.push('<div style="margin-top:4px"><a href="https://search.bilibili.com/all?keyword='+encodeURIComponent(gameName)+'&order=pubdate" target="_blank" style="color:var(--accent);font-size:11px">→ Bilibili에서 최근 영상 전체 보기</a></div>');
+      vidParts.push('<div style="margin-top:4px"><a href="https://search.bilibili.com/all?keyword='+encodeURIComponent(gameName)+'&order=pubdate" target="_blank" style="color:var(--accent);font-size:15px">→ Bilibili에서 최근 영상 전체 보기</a></div>');
       vidParts.push('</div>');
     }else{
-      vidParts.push('<div style="margin-left:8px"><a href="https://search.bilibili.com/all?keyword='+encodeURIComponent(gameName)+'&order=pubdate" target="_blank" style="color:var(--accent);font-size:12px">→ Bilibili에서 최근 영상 보기</a></div>');
+      vidParts.push('<div style="margin-left:8px"><a href="https://search.bilibili.com/all?keyword='+encodeURIComponent(gameName)+'&order=pubdate" target="_blank" style="color:var(--accent);font-size:14px">→ Bilibili에서 최근 영상 보기</a></div>');
     }
   }
   if(ytData){
     var topVidsY=ytData.top_videos||[];
     vidParts.push('<div style="margin-top:8px"><strong>🇰🇷 YouTube</strong> — '+(ytData.total_videos||ytData.quality_videos||topVidsY.length)+'영상, '+fmt(ytData.total_views||ytData.total_plays||0)+'조회</div>');
     if(topVidsY.length){
-      vidParts.push('<div style="font-size:12px;margin-left:8px">');
+      vidParts.push('<div style="font-size:14px;margin-left:8px">');
       topVidsY.forEach(function(v){
         var vidURL=v.url||v.link||'';
         var titleText=v.title||'';
         var viewCount=parseInt(v.play||v.views||v.view_count||0)||0;
         if(vidURL){
-          vidParts.push('<div style="margin-bottom:6px">▸ <a href="'+vidURL+'" target="_blank" style="color:var(--accent);text-decoration:none;font-weight:500">'+titleText+'</a> <span style="color:var(--t3);font-size:11px">('+fmt(viewCount)+'조회)</span></div>');
+          vidParts.push('<div style="margin-bottom:6px">▸ <a href="'+vidURL+'" target="_blank" style="color:var(--accent);text-decoration:none;font-weight:500">'+titleText+'</a> <span style="color:var(--t3);font-size:15px">('+fmt(viewCount)+'조회)</span></div>');
         }else{
-          vidParts.push('<div style="margin-bottom:6px">▸ <a href="https://www.youtube.com/results?search_query='+encodeURIComponent(gameName)+'" target="_blank" style="color:var(--accent);text-decoration:none">'+titleText+'</a> <span style="color:var(--t3);font-size:11px">('+fmt(viewCount)+'조회)</span></div>');
+          vidParts.push('<div style="margin-bottom:6px">▸ <a href="https://www.youtube.com/results?search_query='+encodeURIComponent(gameName)+'" target="_blank" style="color:var(--accent);text-decoration:none">'+titleText+'</a> <span style="color:var(--t3);font-size:15px">('+fmt(viewCount)+'조회)</span></div>');
         }
       });
       vidParts.push('</div>');
     }
-    vidParts.push('<div style="margin-top:4px"><a href="https://www.youtube.com/results?search_query='+encodeURIComponent(gameName)+'&sp=CAMSAhAB" target="_blank" style="color:var(--accent);font-size:11px">→ YouTube에서 최근 영상 전체 보기</a></div>');
+    vidParts.push('<div style="margin-top:4px"><a href="https://www.youtube.com/results?search_query='+encodeURIComponent(gameName)+'&sp=CAMSAhAB" target="_blank" style="color:var(--accent);font-size:15px">→ YouTube에서 최근 영상 전체 보기</a></div>');
   }
   if(!vidParts.length)vidParts.push('<p style="color:var(--t3)">최근 7일 영상 데이터 없음</p>');
   document.getElementById('modal-videos').innerHTML=vidParts.join('');
