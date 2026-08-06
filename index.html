@@ -1487,7 +1487,8 @@ function _streamerHTML(s,color){
   var viewers=parseInt(s.viewers||0);
   var vStr=viewers>0?viewers.toLocaleString():'—';
   var title=s.title||'';
-  return '<div onclick="'+(link?('window.open(\''+link+'\',\'_blank\')'):'')+'" style="padding:5px 0;border-bottom:1px solid var(--border);cursor:'+(link?'pointer':'default')+'">'+
+  var safeLink=link.replace(/'/g,'');
+  return '<div'+(link?(' data-href="'+safeLink+'" onclick="window.open(this.getAttribute(\'data-href\'),\'_blank\')"'):'')+' style="padding:5px 0;border-bottom:1px solid var(--border);cursor:'+(link?'pointer':'default')+'">'+
     '<div style="font-size:12px;font-weight:600;color:'+color+';overflow:hidden;text-overflow:ellipsis;white-space:nowrap">'+s.name+'</div>'+
     (title?'<div style="font-size:10px;color:var(--t3);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;margin-top:1px">'+title.slice(0,35)+'</div>':'')+
     '<div style="font-size:10px;font-weight:700;color:'+color+';margin-top:2px">👁 '+vStr+(viewers>0?'명 시청 중':'라이브')+'</div>'+
