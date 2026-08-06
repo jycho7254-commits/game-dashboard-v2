@@ -300,19 +300,6 @@
   },
   {
     "rank": 24,
-    "title": "信長の野望 真戦",
-    "developer": "Qookka Games",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.qookkagames.xczyw.gp.jp",
-    "local_name": "信長の野望 真戦",
-    "icon": "https://play-lh.googleusercontent.com/3XmTeAwhy-k2u_bN2kvYHXzzTRcDsBIRR0EZOBzf-csvFVR7M7cKo_GNToLfTgeSsdYEUcnmWtrQhBigLSddxNg",
-    "est_revenue": 2058891,
-    "est_revenue_fmt": "$2.06M",
-    "est_revenue_won": "30.9억"
-  },
-  {
-    "rank": 25,
     "title": "ドラゴンクエストウォーク",
     "developer": "SQUARE ENIX Co.,Ltd.",
     "genre": "Game",
@@ -323,6 +310,19 @@
     "est_revenue": 1967382,
     "est_revenue_fmt": "$1.97M",
     "est_revenue_won": "29.5억"
+  },
+  {
+    "rank": 25,
+    "title": "信長の野望 真戦",
+    "developer": "Qookka Games",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.qookkagames.xczyw.gp.jp",
+    "local_name": "信長の野望 真戦",
+    "icon": "https://play-lh.googleusercontent.com/3XmTeAwhy-k2u_bN2kvYHXzzTRcDsBIRR0EZOBzf-csvFVR7M7cKo_GNToLfTgeSsdYEUcnmWtrQhBigLSddxNg",
+    "est_revenue": 2058891,
+    "est_revenue_fmt": "$2.06M",
+    "est_revenue_won": "30.9억"
   },
   {
     "rank": 26,
@@ -391,6 +391,19 @@
   },
   {
     "rank": 31,
+    "title": "Gardenscapes",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.playrix.gardenscapes",
+    "local_name": "Gardenscapes",
+    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
+    "est_revenue": 1453364,
+    "est_revenue_fmt": "$1.45M",
+    "est_revenue_won": "21.8억"
+  },
+  {
+    "rank": 32,
     "title": "ヘブンバーンズレッド",
     "developer": "WFS, Inc.",
     "genre": "Game",
@@ -403,7 +416,7 @@
     "est_revenue_won": "20.0억"
   },
   {
-    "rank": 32,
+    "rank": 33,
     "title": "Genshin Impact",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -416,7 +429,7 @@
     "est_revenue_won": "20.9억"
   },
   {
-    "rank": 33,
+    "rank": 34,
     "title": "LINE Pokopoko",
     "developer": "LINE (LY Corporation)",
     "genre": "Game",
@@ -427,19 +440,6 @@
     "est_revenue": 1519064,
     "est_revenue_fmt": "$1.52M",
     "est_revenue_won": "22.8억"
-  },
-  {
-    "rank": 34,
-    "title": "Gardenscapes",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.playrix.gardenscapes",
-    "local_name": "Gardenscapes",
-    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
-    "est_revenue": 1453364,
-    "est_revenue_fmt": "$1.45M",
-    "est_revenue_won": "21.8억"
   },
   {
     "rank": 35,
@@ -495,19 +495,6 @@
   },
   {
     "rank": 39,
-    "title": "Royal Kingdom",
-    "developer": "Dream Games, Ltd.",
-    "genre": "Game",
-    "rating": 4.1,
-    "app_id": "com.dreamgames.royalkingdom",
-    "local_name": "Royal Kingdom",
-    "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
-    "est_revenue": 993583,
-    "est_revenue_fmt": "$994K",
-    "est_revenue_won": "14.9억"
-  },
-  {
-    "rank": 40,
     "title": "Tasty Travels: Merge Game",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -518,6 +505,19 @@
     "est_revenue": 1102384,
     "est_revenue_fmt": "$1.10M",
     "est_revenue_won": "16.5억"
+  },
+  {
+    "rank": 40,
+    "title": "Royal Kingdom",
+    "developer": "Dream Games, Ltd.",
+    "genre": "Game",
+    "rating": 4.1,
+    "app_id": "com.dreamgames.royalkingdom",
+    "local_name": "Royal Kingdom",
+    "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
+    "est_revenue": 993583,
+    "est_revenue_fmt": "$994K",
+    "est_revenue_won": "14.9억"
   },
   {
     "rank": 41,
@@ -573,45 +573,6 @@
   },
   {
     "rank": 45,
-    "title": "信長の野望 覇道",
-    "developer": "KOEI TECMO GAMES CO., LTD.",
-    "genre": "Game",
-    "rating": 4.1,
-    "app_id": "jp.co.koeitecmo.Power",
-    "local_name": "信長の野望 覇道",
-    "icon": "https://play-lh.googleusercontent.com/lVRR7nQTSOqpmYdbXtRo_FsWkdEaljN4TaT-rrrr0TL5I0NR8t0wmClEHotszjovMLBOPruq6uxoky3kgTkB-oM",
-    "est_revenue": 1233052,
-    "est_revenue_fmt": "$1.23M",
-    "est_revenue_won": "18.5억"
-  },
-  {
-    "rank": 46,
-    "title": "Last Z: Survival Shooter",
-    "developer": "Omnilojo Pte Ltd",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.readygo.barrel.gp",
-    "local_name": "Last Z: Survival Shooter",
-    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
-    "est_revenue": 823562,
-    "est_revenue_fmt": "$824K",
-    "est_revenue_won": "12.4억"
-  },
-  {
-    "rank": 47,
-    "title": "ゼンレスゾーンゼロ・クラウド版 - アニバーサリー",
-    "developer": "COGNOSPHERE PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.HoYoverse.cloudgames.Nap",
-    "local_name": "ゼンレスゾーンゼロ・クラウド版 - アニバーサリー",
-    "icon": "https://play-lh.googleusercontent.com/8OcXm10jSo4u8ED1rB8YYexPH5hp8F0QijJVQKwHmxESv0G0FkVOZALmoXRZuAxucoTV2sIeN4h5ubq9nDUO",
-    "est_revenue": 1282563,
-    "est_revenue_fmt": "$1.28M",
-    "est_revenue_won": "19.2억"
-  },
-  {
-    "rank": 48,
     "title": "Yu-Gi-Oh! Master Duel",
     "developer": "KONAMI",
     "genre": "Game",
@@ -624,7 +585,20 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 49,
+    "rank": 46,
+    "title": "信長の野望 覇道",
+    "developer": "KOEI TECMO GAMES CO., LTD.",
+    "genre": "Game",
+    "rating": 4.1,
+    "app_id": "jp.co.koeitecmo.Power",
+    "local_name": "信長の野望 覇道",
+    "icon": "https://play-lh.googleusercontent.com/lVRR7nQTSOqpmYdbXtRo_FsWkdEaljN4TaT-rrrr0TL5I0NR8t0wmClEHotszjovMLBOPruq6uxoky3kgTkB-oM",
+    "est_revenue": 1233052,
+    "est_revenue_fmt": "$1.23M",
+    "est_revenue_won": "18.5억"
+  },
+  {
+    "rank": 47,
     "title": "Homescapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -635,6 +609,32 @@
     "est_revenue": 0,
     "est_revenue_fmt": "",
     "est_revenue_won": ""
+  },
+  {
+    "rank": 48,
+    "title": "ゼンレスゾーンゼロ・クラウド版 - アニバーサリー",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "genre": "Game",
+    "rating": 3.8,
+    "app_id": "com.HoYoverse.cloudgames.Nap",
+    "local_name": "ゼンレスゾーンゼロ・クラウド版 - アニバーサリー",
+    "icon": "https://play-lh.googleusercontent.com/8OcXm10jSo4u8ED1rB8YYexPH5hp8F0QijJVQKwHmxESv0G0FkVOZALmoXRZuAxucoTV2sIeN4h5ubq9nDUO",
+    "est_revenue": 1282563,
+    "est_revenue_fmt": "$1.28M",
+    "est_revenue_won": "19.2억"
+  },
+  {
+    "rank": 49,
+    "title": "Last Z: Survival Shooter",
+    "developer": "Omnilojo Pte Ltd",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.readygo.barrel.gp",
+    "local_name": "Last Z: Survival Shooter",
+    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
+    "est_revenue": 823562,
+    "est_revenue_fmt": "$824K",
+    "est_revenue_won": "12.4억"
   },
   {
     "rank": 50,
