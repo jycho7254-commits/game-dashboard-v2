@@ -235,19 +235,6 @@
   },
   {
     "rank": 19,
-    "title": "トゥーンブラスト (Toon Blast)",
-    "developer": "Peak",
-    "genre": "Game",
-    "rating": 4.1,
-    "app_id": "net.peakgames.toonblast",
-    "local_name": "トゥーンブラスト (Toon Blast)",
-    "icon": "https://play-lh.googleusercontent.com/j3O3Pyk08XAv4iA4p-Irerfos8g-tLxQ3r42zlScMRsjjgnyQGeE1mqcH3aSY9wA2k6l8fBqpqEaIQfIG2gLLQ",
-    "est_revenue": 2822460,
-    "est_revenue_fmt": "$2.82M",
-    "est_revenue_won": "42.3억"
-  },
-  {
-    "rank": 20,
     "title": "Pokémon GO",
     "developer": "Scopely Explore, Inc.",
     "genre": "Game",
@@ -258,6 +245,19 @@
     "est_revenue": 2666666,
     "est_revenue_fmt": "$2.67M",
     "est_revenue_won": "40.0억"
+  },
+  {
+    "rank": 20,
+    "title": "トゥーンブラスト (Toon Blast)",
+    "developer": "Peak",
+    "genre": "Game",
+    "rating": 4.1,
+    "app_id": "net.peakgames.toonblast",
+    "local_name": "トゥーンブラスト (Toon Blast)",
+    "icon": "https://play-lh.googleusercontent.com/j3O3Pyk08XAv4iA4p-Irerfos8g-tLxQ3r42zlScMRsjjgnyQGeE1mqcH3aSY9wA2k6l8fBqpqEaIQfIG2gLLQ",
+    "est_revenue": 2822460,
+    "est_revenue_fmt": "$2.82M",
+    "est_revenue_won": "42.3억"
   },
   {
     "rank": 21,
@@ -326,19 +326,6 @@
   },
   {
     "rank": 26,
-    "title": "放置少女 - 百花繚乱の萌姫たち",
-    "developer": "C4 Connect Inc.",
-    "genre": "Game",
-    "rating": 4,
-    "app_id": "jp.glee.girl",
-    "local_name": "放置少女 - 百花繚乱の萌姫たち",
-    "icon": "https://play-lh.googleusercontent.com/fkp_VLPLnTcgHIdZutQCvIJhEy5BkpetWeKonidaYW8HrnM-ASjALh2tK5xkku3jJFc6gMY1LF7caAthHTBBFg",
-    "est_revenue": 1805432,
-    "est_revenue_fmt": "$1.81M",
-    "est_revenue_won": "27.1억"
-  },
-  {
-    "rank": 27,
     "title": "アークナイツ",
     "developer": "Yostar, Inc.",
     "genre": "Game",
@@ -349,6 +336,19 @@
     "est_revenue": 1883170,
     "est_revenue_fmt": "$1.88M",
     "est_revenue_won": "28.2억"
+  },
+  {
+    "rank": 27,
+    "title": "放置少女 - 百花繚乱の萌姫たち",
+    "developer": "C4 Connect Inc.",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "jp.glee.girl",
+    "local_name": "放置少女 - 百花繚乱の萌姫たち",
+    "icon": "https://play-lh.googleusercontent.com/fkp_VLPLnTcgHIdZutQCvIJhEy5BkpetWeKonidaYW8HrnM-ASjALh2tK5xkku3jJFc6gMY1LF7caAthHTBBFg",
+    "est_revenue": 1805432,
+    "est_revenue_fmt": "$1.81M",
+    "est_revenue_won": "27.1억"
   },
   {
     "rank": 28,
@@ -378,19 +378,6 @@
   },
   {
     "rank": 30,
-    "title": "あんさんぶるスターズ！！Music",
-    "developer": "Happy Elements K.K",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "jp.co.happyelements.boysm",
-    "local_name": "あんさんぶるスターズ！！Music",
-    "icon": "https://play-lh.googleusercontent.com/McMZLXR9hYWUG883v6EVIh5k9P5iME0wPSbgd_bhVNU9hkUV-NlpXsfR4Je8o9TrlF52jzhMUkRQcefF5ZVkFw",
-    "est_revenue": 1733466,
-    "est_revenue_fmt": "$1.73M",
-    "est_revenue_won": "26.0억"
-  },
-  {
-    "rank": 31,
     "title": "LINE Pokopoko",
     "developer": "LINE (LY Corporation)",
     "genre": "Game",
@@ -403,7 +390,7 @@
     "est_revenue_won": "22.8억"
   },
   {
-    "rank": 32,
+    "rank": 31,
     "title": "Gardenscapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -416,7 +403,7 @@
     "est_revenue_won": "21.8억"
   },
   {
-    "rank": 33,
+    "rank": 32,
     "title": "ヘブンバーンズレッド",
     "developer": "WFS, Inc.",
     "genre": "Game",
@@ -429,7 +416,7 @@
     "est_revenue_won": "20.0억"
   },
   {
-    "rank": 34,
+    "rank": 33,
     "title": "Genshin Impact",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -440,6 +427,19 @@
     "est_revenue": 1392342,
     "est_revenue_fmt": "$1.39M",
     "est_revenue_won": "20.9억"
+  },
+  {
+    "rank": 34,
+    "title": "あんさんぶるスターズ！！Music",
+    "developer": "Happy Elements K.K",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "jp.co.happyelements.boysm",
+    "local_name": "あんさんぶるスターズ！！Music",
+    "icon": "https://play-lh.googleusercontent.com/McMZLXR9hYWUG883v6EVIh5k9P5iME0wPSbgd_bhVNU9hkUV-NlpXsfR4Je8o9TrlF52jzhMUkRQcefF5ZVkFw",
+    "est_revenue": 1733466,
+    "est_revenue_fmt": "$1.73M",
+    "est_revenue_won": "26.0억"
   },
   {
     "rank": 35,
@@ -625,19 +625,6 @@
   },
   {
     "rank": 49,
-    "title": "無職転生〜異世界行ったら本気だす〜クロニクル・オブ・エコーズ",
-    "developer": "GREE Entertainment, Inc.",
-    "genre": "Game",
-    "rating": 3.9,
-    "app_id": "jp.gree_ent.mushoku",
-    "local_name": "無職転生〜異世界行ったら本気だす〜クロニクル・オブ・エコーズ",
-    "icon": "https://play-lh.googleusercontent.com/UB8Y6tnArnkS2at0-pEpxZhLo_kwELCXxo9N5thtl2DVavxLGzIeYfkScY0kYdZAKv-EoiL_2S4g5Bh4LbJVnSc",
-    "est_revenue": 0,
-    "est_revenue_fmt": "",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 50,
     "title": "Last Z: Survival Shooter",
     "developer": "Omnilojo Pte Ltd",
     "genre": "Game",
@@ -648,5 +635,18 @@
     "est_revenue": 823562,
     "est_revenue_fmt": "$824K",
     "est_revenue_won": "12.4억"
+  },
+  {
+    "rank": 50,
+    "title": "無職転生〜異世界行ったら本気だす〜クロニクル・オブ・エコーズ",
+    "developer": "GREE Entertainment, Inc.",
+    "genre": "Game",
+    "rating": 3.9,
+    "app_id": "jp.gree_ent.mushoku",
+    "local_name": "無職転生〜異世界行ったら本気だす〜クロニクル・オブ・エコーズ",
+    "icon": "https://play-lh.googleusercontent.com/UB8Y6tnArnkS2at0-pEpxZhLo_kwELCXxo9N5thtl2DVavxLGzIeYfkScY0kYdZAKv-EoiL_2S4g5Bh4LbJVnSc",
+    "est_revenue": 0,
+    "est_revenue_fmt": "",
+    "est_revenue_won": ""
   }
 ]
