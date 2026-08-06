@@ -224,7 +224,7 @@ canvas{max-width:100%!important}
 <nav class="topbar">
 <div class="topbar-inner">
 <div class="topbar-right">
-<span class="meta" id="update-time">2026-08-06 11:18</span>
+<span class="meta" id="update-time">2026-08-06 11:21</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 </div>
 <div class="topbar-title">Game Market Insight</div>
@@ -749,87 +749,158 @@ function loadOverview(){
     vContainer.innerHTML=revHTML;
   }
 
-  // 종합 트렌드 분석 — 각국 TOP10 분석
+  // 종합 트렌드 분석 — 각국 TOP10 게임 아이콘 그리드 + 팝업
   var trendDiv=document.getElementById('ov-trends');
   if(trendDiv){
    try{
-    var rankGames=displayData.slice(0,10);
-    var trendRows=[];
-    var sentMap=getSentMap();
-    var vidMap=getVideoData();
-    
-    // 각국 분석 텍스트
     var krGames=GP.filter(function(g){return g.est_revenue>0}).slice(0,10);
     var cnGames=CN.filter(function(g){return g.est_revenue>0}).slice(0,10);
     var jpGames=JP.filter(function(g){return g.est_revenue>0}).slice(0,10);
-    var krTop1=krGames[0]?((krGames[0].local_name||krGames[0].title)+' $'+(krGames[0].est_revenue/1e6).toFixed(1)+'M'):'';
-    var cnTop1=cnGames[0]?((cnGames[0].title)+' $'+(cnGames[0].est_revenue/1e6).toFixed(1)+'M'):'';
-    var jpTop1=jpGames[0]?((jpGames[0].title)+' $'+(jpGames[0].est_revenue/1e6).toFixed(1)+'M'):'';
-    var krTotal=krGames.reduce(function(s,g){return s+(g.est_revenue||0)},0);
-    var cnTotal=cnGames.reduce(function(s,g){return s+(g.est_revenue||0)},0);
-    var jpTotal=jpGames.reduce(function(s,g){return s+(g.est_revenue||0)},0);
-    
-    // 각국 TOP10 최근 1개월 동향 분석
-    var krAnalysis = [
-      ['SOL: 인챈트','2주년 대규모 업데이트, 신규 캐릭터 세레스 추가. 매출 압도적 1위 유지.'],
-      ['젠레스 존 제로','1주년 기념 이벤트 진행. 신규 S급 캐릭터 발표로 매출 급증.'],
-      ['리니지M','군주의 길 업데이트. NCSoft 전통 강자. 안정적 과금 모델 유지.'],
-      ['오딘: 발할라 라이징','신규 캐릭터 티르 추가. 카카오게임즈 마케팅 공세.'],
-      ['명조','버전 1.4 창리 배너 호평. Kuro Games 글로벌 확장 중.'],
-      ['화이트아웃 서바이벌','신규 영지 빙하 추가. Century Games 꾸준한 인기.'],
-      ['킹샷','꾸준한 순위. Century Games 연속 히트작.'],
-      ['열혈강호: 넥스트','신규 콘텐츠 부진으로 하락세.'],
-      ['메이플스토리 키우기','방치형 RPG 안정적. 넥슨 IP 충성도 높음.'],
-      ['라스트 워: 서바이벌','글로벌 흥행. FUNFLY 신작 서비스 안정화.'],
-    ];
-    var cnAnalysis = [
-      ['王者荣耀','여름 시즌 진행. 텐센트 독주. 5v5 MOBA 압도적 1위.'],
-      ['和平精英','군비 업데이트. 텐센트 배틀로얄 안정적 2위.'],
-      ['明日方舟','여름 이벤트 대성공. Hyperglyph 전략 TD. 중국/글로벌 동시 강세.'],
-      ['三角洲行动','Delta Force 신작. 텐센트 FPS. 출시 초기 높은 관심.'],
-      ['火影忍者','나루토 IP 카드 게임. 안정적 과금.'],
-      ['开心消消乐','퍼즐 게임 장수. 레위안. 중국 캐주얼 시장 선도.'],
-      ['绝区零','ZZZ 1.3 업데이트. 미호요. 중국 시장 진입 성공.'],
-      ['无尽冬日','Whiteout Survival 중국판. 신규 영지 추가.'],
-      ['无畏契约','발로란트 모바일. 텐센트. e스포츠 확장.'],
-      ['蛋仔派对','여름 파티 이벤트. 왕이 캐주얼 파티 게임 인기.'],
-    ];
-    var jpAnalysis = [
-      ['ブルーアーカイブ','여름 이벤트 진행. Yostar. 일본서 안정적 인기.'],
-      ['ウマ娘','신규 우마무스메 추가. Cygames. 일본 고유 IP 강세.'],
-      ['Last War:Survival Game','글로벌 히트작. FUNFLY. 일본 시장 진출 성공.'],
-      ['GODDESS OF VICTORY: NIKKE','여름 이벤트 2차. Shift Up. 일본 과금 모델 정착.'],
-      ['Fate/Grand Order','8주년 이벤트. Aniplex. 일본 캐릭터 게임 전통 강자.'],
-      ['モンスターストライク','몬스터스트라이크. 믹시. 꾸준한 콜라보 진행.'],
-      ['Whiteout Survival','Century Games. 일본서도 인기 상승.'],
-      ['崩壊:スターレイル','미호요 붕괴 스타레일. 신규 캐릭터 제이드 픽업.'],
-      ['Genshin Impact','원신 4.9. 미호요. 일본 시장 안정적 TOP10.'],
-      ['Puzzles & Survival','37GAMES. 매치3+서바이벌. 일본서 꾸준한 성과.'],
-    ];
-    
-    function buildAnalysis(games, analysis, flag, total){
-      var h='<div style="margin-bottom:12px;padding:10px;border-radius:8px;background:var(--bg3);border:1px solid var(--border)">';
-      h+='<div style="font-weight:700;margin-bottom:8px;color:var(--accent)">'+flag+' TOP10 최근 동향 (매출 합계 $'+(total/1e6).toFixed(0)+'M)</div>';
-      analysis.forEach(function(item,idx){
-        var gn=item[0], desc=item[1];
-        var rev=games[idx]?(('$'+((games[idx].est_revenue||0)/1e6).toFixed(1)+'M')):'';
-        h+='<div style="font-size:11px;padding:3px 0;display:flex;gap:6px">';
-        h+='<span style="min-width:20px;color:var(--t3)">'+(idx+1)+'.</span>';
-        h+='<span style="min-width:100px;font-weight:600">'+gn+'</span>';
-        h+='<span style="min-width:50px;color:var(--accent)">'+rev+'</span>';
-        h+='<span style="color:var(--t2);flex:1">'+desc+'</span>';
-        h+='</div>';
+    var sentMap=getSentMap();
+    var vidMap=getVideoData();
+    var newsList=(NEWS||[]).filter(function(n){return !n.country||n.country==='kr'});
+
+    function getGameNews(gameName){
+      var matches=[];
+      var gn=(gameName||'').toLowerCase();
+      newsList.forEach(function(n){
+        var nt=(n.title||'').toLowerCase();
+        if(nt.indexOf(gn)>=0||gn.indexOf(nt.slice(0,4))>=0){
+          if(matches.length<3)matches.push(n);
+        }
       });
-      h+='</div>';
+      return matches;
+    }
+
+    function getGameUpdate(gameName){
+      if(typeof GAME_UPDATES==='undefined')return '';
+      var gn=(gameName||'').toLowerCase().replace(/\s/g,'');
+      for(var uk in GAME_UPDATES){
+        var ukn=uk.toLowerCase().replace(/\s/g,'');
+        if(ukn===gn||(ukn.length>=3&&gn.indexOf(ukn)>=0)||(gn.length>=3&&ukn.indexOf(gn)>=0)){
+          return GAME_UPDATES[uk];
+        }
+      }
+      return '';
+    }
+
+    function buildIconGrid(games,flag,label){
+      var h='<div style="margin-bottom:16px">'+
+        '<div style="font-weight:700;margin-bottom:8px;color:var(--accent);font-size:14px">'+flag+' '+label+' TOP 10</div>'+
+        '<div style="display:grid;grid-template-columns:repeat(5,1fr);gap:8px">';
+      games.forEach(function(g,idx){
+        var name=g.local_name||g.title||'';
+        var icon=g.icon||'';
+        var rev='$'+((g.est_revenue||0)/1e6).toFixed(1)+'M';
+        var gn=escAttr(name);
+        h+='<div onclick="openTrendPopup(\''+gn+'\')" style="cursor:pointer;text-align:center;padding:6px;border-radius:8px;background:var(--bg3);border:1px solid var(--border);transition:.15s" onmouseover="this.style.borderColor=\'var(--accent)\'" onmouseout="this.style.borderColor=\'var(--border)\'">'+
+          (icon?'<img src="'+icon+'" style="width:36px;height:36px;border-radius:8px" onerror="this.style.display=\'none\'">':'<div style="width:36px;height:36px;border-radius:8px;background:var(--fg-12);display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:700;color:var(--t2)">'+(idx+1)+'</div>')+
+          '<div style="font-size:10px;font-weight:600;margin-top:4px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">'+name.slice(0,8)+'</div>'+
+          '<div style="font-size:9px;color:var(--accent);font-weight:700">'+rev+'</div>'+
+          '</div>';
+      });
+      h+='</div></div>';
       return h;
     }
-    
-    var analysisHtml = 
-      buildAnalysis(krGames, krAnalysis, '🇰🇷 한국', krTotal) +
-      buildAnalysis(cnGames, cnAnalysis, '🇨🇳 중국', cnTotal) +
-      buildAnalysis(jpGames, jpAnalysis, '🇯🇵 일본', jpTotal);
-    
-    trendDiv.innerHTML=analysisHtml;
+
+    var gridHtml=buildIconGrid(krGames,'🇰🇷','한국')+
+      buildIconGrid(cnGames,'🇨🇳','중국')+
+      buildIconGrid(jpGames,'🇯🇵','일본');
+    trendDiv.innerHTML=gridHtml;
+
+    // 트렌드 팝업 함수 — 전역으로 등록
+    window.openTrendPopup=function(gameName){
+      var modal=document.getElementById('game-modal');
+      var titleEl=document.getElementById('modal-title');
+      var sentEl=document.getElementById('modal-sentiment');
+      var chartSec=document.getElementById('modal-chart-sec');
+      var vidSec=document.getElementById('modal-videos-sec');
+      if(chartSec)chartSec.style.display='none';
+      if(vidSec)vidSec.style.display='none';
+
+      titleEl.textContent=gameName+' — 종합 트렌드';
+
+      // 게임 데이터 찾기
+      var gameData=null;
+      var allGames=[].concat(
+        (GP||[]).map(function(g){return Object.assign({},g,{_c:'kr'})}),
+        (CN||[]).map(function(g){return Object.assign({},g,{_c:'cn'})}),
+        (JP||[]).map(function(g){return Object.assign({},g,{_c:'jp'})})
+      );
+      for(var i=0;i<allGames.length;i++){
+        if((allGames[i].local_name||allGames[i].title||'')===gameName){
+          gameData=allGames[i];
+          break;
+        }
+      }
+
+      var parts=[];
+
+      // 1. 매출 정보
+      if(gameData){
+        var rev=gameData.est_revenue||0;
+        var revFmt=gameData.est_revenue_fmt||('$'+(rev/1e6).toFixed(1)+'M');
+        var won=gameData.est_revenue_won||'';
+        parts.push('<div class="modal-sec"><h4>💰 매출 정보</h4>'+
+          '<div style="display:flex;gap:16px;align-items:center">'+
+          '<div><div style="font-size:28px;font-weight:700;color:var(--accent)">'+revFmt+'</div>'+
+          '<div style="font-size:11px;color:var(--t3)">월 추정 매출'+(won?(' ('+won+')'):'')+'</div></div>'+
+          '<div style="font-size:12px;color:var(--t2)">개발사: '+(gameData.developer||'?')+'</div>'+
+          '</div></div>');
+      }
+
+      // 2. 업데이트 정보
+      var updateInfo=getGameUpdate(gameName);
+      if(updateInfo){
+        parts.push('<div class="modal-sec"><h4>📢 최근 업데이트</h4>'+
+          '<div style="font-size:13px;color:var(--t2);padding:10px;border-radius:6px;background:var(--bg3);border-left:3px solid var(--accent);line-height:1.8">'+updateInfo+'</div></div>');
+      }
+
+      // 3. 여론 정보
+      var sent=sentMap[gameName];
+      if(sent){
+        var sentText='';
+        sentText+='여론 지수: <span style="font-weight:700;color:'+(sent.index>55?'var(--pos)':sent.index<45?'var(--neg)':'var(--neu)')+'">'+(sent.index||'?')+'</span>';
+        sentText+=' | 트렌드: '+(sent.trend||'보합');
+        if(sent.sources){
+          var srcParts=[];
+          for(var sk in sent.sources){
+            if(!sent.sources.hasOwnProperty(sk))continue;
+            var sd=sent.sources[sk];
+            var sn=sk==='dc'?'DC':sk==='gp'?'GP':sk==='yt'?'YT':sk==='bilibili'?'Bili':sk;
+            if(sd.positive_pct!==undefined){
+              srcParts.push(sn+': 긍정'+sd.positive_pct+'%/부정'+sd.negative_pct+'%');
+            }
+          }
+          if(srcParts.length)sentText+='<div style="font-size:11px;margin-top:4px">'+srcParts.join(' | ')+'</div>';
+        }
+        if(sent.summary)sentText+='<div style="font-size:11px;color:var(--t3);margin-top:4px">'+sent.summary+'</div>';
+        parts.push('<div class="modal-sec"><h4>💬 여론 분석</h4>'+sentText+'</div>');
+      }
+
+      // 4. 관련 뉴스
+      var gameNews=getGameNews(gameName);
+      if(gameNews.length){
+        var newsHTML=gameNews.map(function(n){
+          return '<div style="font-size:12px;padding:4px 0"><a href="'+(n.url||'')+'" target="_blank" style="color:var(--t2);text-decoration:none">'+(n.title||'')+'</a> <span style="font-size:10px;color:var(--t3)">('+n.source+')</span></div>';
+        }).join('');
+        parts.push('<div class="modal-sec"><h4>📰 관련 뉴스</h4>'+newsHTML+'</div>');
+      }
+
+      // 5. 글로벌 동향
+      parts.push('<div class="modal-sec"><h4>🌐 글로벌 동향</h4>'+
+        '<div style="font-size:12px;color:var(--t2);line-height:1.8">'+gameName+'은(는) '+
+        (gameData&&gameData._c==='kr'?'한국':gameData&&gameData._c==='cn'?'중국':'일본')+' 시장에서 '+
+        (gameData?'월 $'+((gameData.est_revenue||0)/1e6).toFixed(1)+'M 매출':'')+'을 기록 중이며, '+
+        '경쟁 게임 대비 '+(sent&&sent.index>50?'긍정적':'안정적')+'인 여론을 유지하고 있습니다.</div></div>');
+
+      sentEl.innerHTML=parts.join('');
+      // 기존 업데이트/외부링크 섹션 제거
+      var oldUpdate=document.getElementById('modal-update-sec');
+      if(oldUpdate)oldUpdate.remove();
+
+      modal.classList.add('on');
+    };
    }catch(e){
      trendDiv.innerHTML='<p style="color:var(--t3)">트렌드 분석 로딩 중 오류: '+String(e).slice(0,80)+'</p>';
      if(window.console)console.error('trend error:',e);
