@@ -352,19 +352,6 @@
   },
   {
     "rank": 28,
-    "title": "ヘブンバーンズレッド",
-    "developer": "WFS, Inc.",
-    "genre": "Game",
-    "rating": 4,
-    "app_id": "com.heavenburnsred",
-    "local_name": "ヘブンバーンズレッド",
-    "icon": "https://play-lh.googleusercontent.com/DnycnmD8KglZo2Bep7OQ7W5HiZnqdbsyqQL7EOOSjqY_IxukzzW_MPlyDghuWBL9Vguls1krtG5Vt66yyiKEgA",
-    "est_revenue": 1335542,
-    "est_revenue_fmt": "$1.34M",
-    "est_revenue_won": "20.0억"
-  },
-  {
-    "rank": 29,
     "title": "Township",
     "developer": "Playrix",
     "genre": "Game",
@@ -377,7 +364,7 @@
     "est_revenue_won": "23.8억"
   },
   {
-    "rank": 30,
+    "rank": 29,
     "title": "信長の野望 真戦",
     "developer": "Qookka Games",
     "genre": "Game",
@@ -390,7 +377,7 @@
     "est_revenue_won": "30.9억"
   },
   {
-    "rank": 31,
+    "rank": 30,
     "title": "Genshin Impact",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -403,7 +390,7 @@
     "est_revenue_won": "20.9억"
   },
   {
-    "rank": 32,
+    "rank": 31,
     "title": "Gardenscapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -414,6 +401,19 @@
     "est_revenue": 1453364,
     "est_revenue_fmt": "$1.45M",
     "est_revenue_won": "21.8억"
+  },
+  {
+    "rank": 32,
+    "title": "ヘブンバーンズレッド",
+    "developer": "WFS, Inc.",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "com.heavenburnsred",
+    "local_name": "ヘブンバーンズレッド",
+    "icon": "https://play-lh.googleusercontent.com/DnycnmD8KglZo2Bep7OQ7W5HiZnqdbsyqQL7EOOSjqY_IxukzzW_MPlyDghuWBL9Vguls1krtG5Vt66yyiKEgA",
+    "est_revenue": 1335542,
+    "est_revenue_fmt": "$1.34M",
+    "est_revenue_won": "20.0억"
   },
   {
     "rank": 33,
@@ -586,6 +586,19 @@
   },
   {
     "rank": 46,
+    "title": "信長の野望 覇道",
+    "developer": "KOEI TECMO GAMES CO., LTD.",
+    "genre": "Game",
+    "rating": 4.1,
+    "app_id": "jp.co.koeitecmo.Power",
+    "local_name": "信長の野望 覇道",
+    "icon": "https://play-lh.googleusercontent.com/lVRR7nQTSOqpmYdbXtRo_FsWkdEaljN4TaT-rrrr0TL5I0NR8t0wmClEHotszjovMLBOPruq6uxoky3kgTkB-oM",
+    "est_revenue": 0,
+    "est_revenue_fmt": "",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 47,
     "title": "Homescapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -598,7 +611,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 47,
+    "rank": 48,
     "title": "Last Z: Survival Shooter",
     "developer": "Omnilojo Pte Ltd",
     "genre": "Game",
@@ -611,7 +624,7 @@
     "est_revenue_won": "12.4억"
   },
   {
-    "rank": 48,
+    "rank": 49,
     "title": "無職転生〜異世界行ったら本気だす〜クロニクル・オブ・エコーズ",
     "developer": "GREE Entertainment, Inc.",
     "genre": "Game",
@@ -624,7 +637,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 49,
+    "rank": 50,
     "title": "転生したらスライムだった件 魔王と竜の建国譚 まおりゅう",
     "developer": "Bandai Namco Entertainment Inc.",
     "genre": "Game",
@@ -632,19 +645,6 @@
     "app_id": "com.bandainamcoent.tensuramrkrelease",
     "local_name": "転生したらスライムだった件 魔王と竜の建国譚 まおりゅう",
     "icon": "https://play-lh.googleusercontent.com/XHppCshR7n1cbR2_sOoxe33acoy1nNFbzUBQ8fjLKavfPfQTLKtyONq3TCLpLfjZ08XEPx5nVcOGEToXO7qMEA",
-    "est_revenue": 0,
-    "est_revenue_fmt": "",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 50,
-    "title": "Trickcal:Chibi Go",
-    "developer": "BILIBILI",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.bilibili.trickcal",
-    "local_name": "Trickcal:Chibi Go",
-    "icon": "https://play-lh.googleusercontent.com/lwMgjeWGUepED3XVqPk4AXrkJwm4Mo7LvvGggHV_HXF9-INHiXCrD0fUVZl6IKwa4QhQUHDKnJ6uwUYPgG9LXg",
     "est_revenue": 0,
     "est_revenue_fmt": "",
     "est_revenue_won": ""
