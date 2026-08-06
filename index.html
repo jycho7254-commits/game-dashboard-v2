@@ -200,16 +200,38 @@ canvas{max-width:100%!important}
 .cal-day .day-event{font-size:6px}
 /* 인플루언서 */
 .inf-pager button{padding:4px 9px;font-size:11px}
-/* 실시간 방송 SOOP/치지직 분할 — 모바일에서 세로 */
-#inf-streamers-soop,#inf-streamers-chzzk{max-height:300px;overflow-y:auto}
+/* 실시간 방송 분할 — 모바일에서 세로 */
+#inf-streamers-chzzk,#inf-streamers-youtube{max-height:300px;overflow-y:auto}
 @media(max-width:480px){#inf-streamers-chzzk,#inf-streamers-youtube{max-height:200px}}
 @media(max-width:480px){.inf-rank-cols{flex-direction:column!important}}
-.rank-collapse-btn{cursor:pointer;font-size:11px;font-weight:600;color:var(--t2);padding:4px 16px;border-radius:6px;border:1px solid var(--border);background:var(--surface)}
-.rank-collapse-btn:hover{color:var(--t1)}
 /* 마케팅/뉴스 */
 .mkt-share{gap:6px}
 .mkt-share-item{min-width:100px;padding:10px}
 .mkt-share-item .ms-val{font-size:16px}
+/* 트렌드 아이콘 그리드 — 모바일 */
+@media(max-width:768px){#ov-trends .grid,#ov-trends [style*="grid-template-columns:repeat(5"]{grid-template-columns:repeat(3,1fr)!important}}
+@media(max-width:480px){#ov-trends .grid,#ov-trends [style*="grid-template-columns:repeat(5"]{grid-template-columns:repeat(2,1fr)!important}}
+/* 뉴스 헤드라인 — 모바일 */
+@media(max-width:768px){#news-headline{grid-template-columns:repeat(2,1fr)!important;gap:8px!important}}
+@media(max-width:480px){#news-headline{grid-template-columns:1fr!important}}
+@media(max-width:480px){#news-headline img{height:90px!important}}
+/* 뉴스 펼치기/접기 버튼 */
+.news-hidden,.sent-hidden,.inf-hidden{word-break:break-word}
+/* 실시간 현황 플랫폼 카드 — 모바일 */
+@media(max-width:480px){#inf-platforms{flex-direction:column!important}}
+/* 트렌드 팝업 — 모바일 */
+@media(max-width:768px){.modal-sec h4{font-size:12px!important}}
+/* 더보기/펼치기 버튼 — 터치 영역 확대 */
+@media(max-width:768px){
+#news-more-btn,#sent-more-btn,#inf-more-btn,.rank-collapse-btn
+{padding:10px 20px!important;font-size:13px!important;min-height:40px}
+}
+/* 매출순위 차트 — 모바일에서 가로 스크롤 */
+@media(max-width:768px){#rank-compare-chart{height:200px!important}}
+/* 종합 인사이트 카드 — 모바일 */
+@media(max-width:768px){#ov-videos [style*="flex"]{flex-direction:column!important}}
+/* 게임사 테이블 — 모바일 */
+@media(max-width:768px){#company-table{font-size:10px!important}}
 }
 @media(max-width:380px){
 .kpis{grid-template-columns:1fr!important}
@@ -224,7 +246,7 @@ canvas{max-width:100%!important}
 <nav class="topbar">
 <div class="topbar-inner">
 <div class="topbar-right">
-<span class="meta" id="update-time">2026-08-06 14:32</span>
+<span class="meta" id="update-time">2026-08-06 14:33</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 </div>
 <div class="topbar-title">Game Market Insight</div>
