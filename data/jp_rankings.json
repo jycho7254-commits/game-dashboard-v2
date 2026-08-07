@@ -17,7 +17,7 @@
     "title": "ホロライブドリームス",
     "developer": "QualiArts, Inc.",
     "genre": "Game",
-    "rating": 4.3,
+    "rating": 4.4,
     "app_id": "game.qualiarts.hololive.dreams.jp",
     "local_name": "ホロライブドリームス",
     "icon": "https://play-lh.googleusercontent.com/j00IPpPSDv3cGqoKVIDf0qnCw6EbZQ4KpgMr10UWkf8Rm1qO9vCSoVhJwfCF1PbbKxV_Qt_eqZ_Sp4QMHuhwYBI",
@@ -326,19 +326,6 @@
   },
   {
     "rank": 26,
-    "title": "パズル＆ドラゴンズ(Puzzle & Dragons)",
-    "developer": "GungHo Online Entertainment, Inc.",
-    "genre": "Game",
-    "rating": 3.2,
-    "app_id": "jp.gungho.pad",
-    "local_name": "パズル＆ドラゴンズ(Puzzle & Dragons)",
-    "icon": "https://play-lh.googleusercontent.com/ra7eGhpGZqaK3zVeyaat5kJZ3qRiJVQ8Yel-fOB4o5lWh6WgeivGdzRTJl14tAKKqBkcDYmw_DSziNL_Dq9F",
-    "est_revenue": 901821,
-    "est_revenue_fmt": "$902K",
-    "est_revenue_won": "13.5억"
-  },
-  {
-    "rank": 27,
     "title": "ウマ娘 プリティーダービー",
     "developer": "Cygames, Inc.",
     "genre": "Game",
@@ -351,7 +338,7 @@
     "est_revenue_won": "55.0억"
   },
   {
-    "rank": 28,
+    "rank": 27,
     "title": "アークナイツ",
     "developer": "Yostar, Inc.",
     "genre": "Game",
@@ -364,7 +351,7 @@
     "est_revenue_won": "28.2억"
   },
   {
-    "rank": 29,
+    "rank": 28,
     "title": "Township",
     "developer": "Playrix",
     "genre": "Game",
@@ -377,7 +364,7 @@
     "est_revenue_won": "23.8억"
   },
   {
-    "rank": 30,
+    "rank": 29,
     "title": "Gardenscapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -390,7 +377,7 @@
     "est_revenue_won": "21.8억"
   },
   {
-    "rank": 31,
+    "rank": 30,
     "title": "ドラゴンクエストスマッシュグロウ ドラクエローグライトRPG",
     "developer": "SQUARE ENIX Co.,Ltd.",
     "genre": "Game",
@@ -403,7 +390,7 @@
     "est_revenue_won": "16.0억"
   },
   {
-    "rank": 32,
+    "rank": 31,
     "title": "妖怪ウォッチ ぷにぷに",
     "developer": "LEVEL-5 Inc.",
     "genre": "Game",
@@ -414,6 +401,19 @@
     "est_revenue": 1666666,
     "est_revenue_fmt": "$1.67M",
     "est_revenue_won": "25.0억"
+  },
+  {
+    "rank": 32,
+    "title": "パズル＆ドラゴンズ(Puzzle & Dragons)",
+    "developer": "GungHo Online Entertainment, Inc.",
+    "genre": "Game",
+    "rating": 3.2,
+    "app_id": "jp.gungho.pad",
+    "local_name": "パズル＆ドラゴンズ(Puzzle & Dragons)",
+    "icon": "https://play-lh.googleusercontent.com/ra7eGhpGZqaK3zVeyaat5kJZ3qRiJVQ8Yel-fOB4o5lWh6WgeivGdzRTJl14tAKKqBkcDYmw_DSziNL_Dq9F",
+    "est_revenue": 901821,
+    "est_revenue_fmt": "$902K",
+    "est_revenue_won": "13.5억"
   },
   {
     "rank": 33,
@@ -443,19 +443,6 @@
   },
   {
     "rank": 35,
-    "title": "デュエル・マスターズ プレイス",
-    "developer": "TOMY COMPANY,LTD.",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "jp.co.takaratomy.duelmastersplays",
-    "local_name": "デュエル・マスターズ プレイス",
-    "icon": "https://play-lh.googleusercontent.com/4xWJOqnPgredgpKcDDtXtNKOlGKM-uF4TVN-HP0PE8BEzigDazupyWgfETHUeysxDSl-pXFffT_e015_gJWbQQ",
-    "est_revenue": 1027750,
-    "est_revenue_fmt": "$1.03M",
-    "est_revenue_won": "15.4억"
-  },
-  {
-    "rank": 36,
     "title": "Tasty Travels: Merge Game",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -468,7 +455,7 @@
     "est_revenue_won": "16.5억"
   },
   {
-    "rank": 37,
+    "rank": 36,
     "title": "Royal Kingdom",
     "developer": "Dream Games, Ltd.",
     "genre": "Game",
@@ -481,7 +468,7 @@
     "est_revenue_won": "14.9억"
   },
   {
-    "rank": 38,
+    "rank": 37,
     "title": "Last Z: Survival Shooter",
     "developer": "Omnilojo Pte Ltd",
     "genre": "Game",
@@ -494,7 +481,7 @@
     "est_revenue_won": "12.4억"
   },
   {
-    "rank": 39,
+    "rank": 38,
     "title": "信長の野望 真戦",
     "developer": "Qookka Games",
     "genre": "Game",
@@ -507,20 +494,7 @@
     "est_revenue_won": "30.9억"
   },
   {
-    "rank": 40,
-    "title": "旦那様の一発逆転人生",
-    "developer": "37Games-Oversea",
-    "genre": "Game",
-    "rating": 2.8,
-    "app_id": "com.jp.beauty",
-    "local_name": "旦那様の一発逆転人生",
-    "icon": "https://play-lh.googleusercontent.com/dMZpIM_uav-hfQKPl5XUjHB98vvUJJl_7U99lE1sIMJ447lPXCn93_SiInconGTh89-ia18k5Q8dJF799wXctQ",
-    "est_revenue": 0,
-    "est_revenue_fmt": "",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 41,
+    "rank": 39,
     "title": "学園アイドルマスター",
     "developer": "Bandai Namco Entertainment Inc.",
     "genre": "Game",
@@ -533,7 +507,7 @@
     "est_revenue_won": "35.8억"
   },
   {
-    "rank": 42,
+    "rank": 40,
     "title": "Wizardry Variants Daphne",
     "developer": "株式会社ドリコム",
     "genre": "Game",
@@ -546,7 +520,7 @@
     "est_revenue_won": "37.8억"
   },
   {
-    "rank": 43,
+    "rank": 41,
     "title": "にゃんこ大戦争",
     "developer": "PONOS Corporation",
     "genre": "Game",
@@ -559,7 +533,7 @@
     "est_revenue_won": "17.1억"
   },
   {
-    "rank": 44,
+    "rank": 42,
     "title": "Homescapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -572,7 +546,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 45,
+    "rank": 43,
     "title": "ドラゴンクエストタクト",
     "developer": "SQUARE ENIX Co.,Ltd.",
     "genre": "Game",
@@ -585,7 +559,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 46,
+    "rank": 44,
     "title": "eFootball™  CHAMPION SQUADS",
     "developer": "KONAMI",
     "genre": "Game",
@@ -598,7 +572,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 47,
+    "rank": 45,
     "title": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
     "developer": "SEGA CORPORATION",
     "genre": "Game",
@@ -611,20 +585,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 48,
-    "title": "キングダム 覇道",
-    "developer": "Bandai Namco Entertainment Inc.",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.bandainamcoent.kingdomhadou",
-    "local_name": "キングダム 覇道",
-    "icon": "https://play-lh.googleusercontent.com/spozptD1nlGRuMlsw2IziEEWf4MEegI6kmVzkjme-xzj-APa38V3yIg_1PX5VJwf1vahy9xlKIuwikr75oGqhA",
-    "est_revenue": 0,
-    "est_revenue_fmt": "",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 49,
+    "rank": 46,
     "title": "Paranoize",
     "developer": "ZigZaGame Inc.",
     "genre": "Game",
@@ -637,7 +598,7 @@
     "est_revenue_won": "14.4억"
   },
   {
-    "rank": 50,
+    "rank": 47,
     "title": "信長の野望 覇道",
     "developer": "KOEI TECMO GAMES CO., LTD.",
     "genre": "Game",
@@ -645,6 +606,45 @@
     "app_id": "jp.co.koeitecmo.Power",
     "local_name": "信長の野望 覇道",
     "icon": "https://play-lh.googleusercontent.com/lVRR7nQTSOqpmYdbXtRo_FsWkdEaljN4TaT-rrrr0TL5I0NR8t0wmClEHotszjovMLBOPruq6uxoky3kgTkB-oM",
+    "est_revenue": 0,
+    "est_revenue_fmt": "",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 48,
+    "title": "MementoMori: AFKRPG",
+    "developer": "Bank of Innovation, Inc.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "jp.boi.mementomori.android",
+    "local_name": "MementoMori: AFKRPG",
+    "icon": "https://play-lh.googleusercontent.com/HG9W8SRyTeeLPFrrS17a06d5ANgakJbHomr73o3l6I23YAiIFL399Y1_Q-2FDBO_zxqETTkphFhE-uTeuD2nH6w",
+    "est_revenue": 0,
+    "est_revenue_fmt": "",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 49,
+    "title": "旦那様の一発逆転人生",
+    "developer": "37Games-Oversea",
+    "genre": "Game",
+    "rating": 2.8,
+    "app_id": "com.jp.beauty",
+    "local_name": "旦那様の一発逆転人生",
+    "icon": "https://play-lh.googleusercontent.com/dMZpIM_uav-hfQKPl5XUjHB98vvUJJl_7U99lE1sIMJ447lPXCn93_SiInconGTh89-ia18k5Q8dJF799wXctQ",
+    "est_revenue": 0,
+    "est_revenue_fmt": "",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 50,
+    "title": "あんさんぶるスターズ！！Music",
+    "developer": "Happy Elements K.K",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "jp.co.happyelements.boysm",
+    "local_name": "あんさんぶるスターズ！！Music",
+    "icon": "https://play-lh.googleusercontent.com/McMZLXR9hYWUG883v6EVIh5k9P5iME0wPSbgd_bhVNU9hkUV-NlpXsfR4Je8o9TrlF52jzhMUkRQcefF5ZVkFw",
     "est_revenue": 0,
     "est_revenue_fmt": "",
     "est_revenue_won": ""
