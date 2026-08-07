@@ -144,19 +144,6 @@
   },
   {
     "rank": 12,
-    "title": "Gossip Harbor®: Merge & Story",
-    "developer": "Microfun Limited",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.mergegames.gossipharbor",
-    "local_name": "가십 하버",
-    "icon": "https://play-lh.googleusercontent.com/HLRg8oInVYJV8Uebxlh1dTH4j7OTBMIWOPZY7A7ryW9UB8K4i7HCOqkGfSLORsK-XzqhnJcJM0mjObVKZYL8zA",
-    "est_revenue": 1466666,
-    "est_revenue_fmt": "$1.47M",
-    "est_revenue_won": "22.0억"
-  },
-  {
-    "rank": 13,
     "title": "Zenless Zone Zero - Anniv.",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -167,6 +154,19 @@
     "est_revenue": 4984310,
     "est_revenue_fmt": "$4.98M",
     "est_revenue_won": "74.8억"
+  },
+  {
+    "rank": 13,
+    "title": "Gossip Harbor®: Merge & Story",
+    "developer": "Microfun Limited",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "com.mergegames.gossipharbor",
+    "local_name": "가십 하버",
+    "icon": "https://play-lh.googleusercontent.com/HLRg8oInVYJV8Uebxlh1dTH4j7OTBMIWOPZY7A7ryW9UB8K4i7HCOqkGfSLORsK-XzqhnJcJM0mjObVKZYL8zA",
+    "est_revenue": 1466666,
+    "est_revenue_fmt": "$1.47M",
+    "est_revenue_won": "22.0억"
   },
   {
     "rank": 14,
@@ -625,19 +625,6 @@
   },
   {
     "rank": 49,
-    "title": "Mystery Town: Merge Games",
-    "developer": "Cedar Games Studio",
-    "genre": "Game",
-    "rating": 4.9,
-    "app_id": "com.cedargames.mysterytown",
-    "local_name": "Mystery Town: Merge Games",
-    "icon": "https://play-lh.googleusercontent.com/uVjVMEJrhT-xRoUtKIUj8tOVSbCWw4IsRHaTDYICRNjQycUj6SucVpeoAPiNZWeJ5JuzIt_ZZRo1X1pW6XJFAQE",
-    "est_revenue": 225230,
-    "est_revenue_fmt": "$225K",
-    "est_revenue_won": "3.4억"
-  },
-  {
-    "rank": 50,
     "title": "라그나로크M: Classic",
     "developer": "GRAVITY Co., Ltd.",
     "genre": "Game",
@@ -648,5 +635,18 @@
     "est_revenue": 0,
     "est_revenue_fmt": "",
     "est_revenue_won": ""
+  },
+  {
+    "rank": 50,
+    "title": "Mystery Town: Merge Games",
+    "developer": "Cedar Games Studio",
+    "genre": "Game",
+    "rating": 4.9,
+    "app_id": "com.cedargames.mysterytown",
+    "local_name": "Mystery Town: Merge Games",
+    "icon": "https://play-lh.googleusercontent.com/uVjVMEJrhT-xRoUtKIUj8tOVSbCWw4IsRHaTDYICRNjQycUj6SucVpeoAPiNZWeJ5JuzIt_ZZRo1X1pW6XJFAQE",
+    "est_revenue": 225230,
+    "est_revenue_fmt": "$225K",
+    "est_revenue_won": "3.4억"
   }
 ]
