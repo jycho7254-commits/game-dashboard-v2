@@ -14,19 +14,6 @@
   },
   {
     "rank": 2,
-    "title": "ブルーアーカイブ",
-    "developer": "Yostar, Inc.",
-    "genre": "Game",
-    "rating": 3.3,
-    "app_id": "com.YostarJP.BlueArchive",
-    "local_name": "ブルーアーカイブ",
-    "icon": "https://play-lh.googleusercontent.com/H975s6W1-boCSogzpF5_rIyawbjiXfG842ncgjIRiVGzhXHFTCVut0DkBhlDR4CgN1nn98OOC1fWN-LE7kUHnQ",
-    "est_revenue": 10000000,
-    "est_revenue_fmt": "$10.00M",
-    "est_revenue_won": "150.0억"
-  },
-  {
-    "rank": 3,
     "title": "ホロライブドリームス",
     "developer": "QualiArts, Inc.",
     "genre": "Game",
@@ -37,6 +24,19 @@
     "est_revenue": 12460775,
     "est_revenue_fmt": "$12.46M",
     "est_revenue_won": "186.9억"
+  },
+  {
+    "rank": 3,
+    "title": "ブルーアーカイブ",
+    "developer": "Yostar, Inc.",
+    "genre": "Game",
+    "rating": 3.3,
+    "app_id": "com.YostarJP.BlueArchive",
+    "local_name": "ブルーアーカイブ",
+    "icon": "https://play-lh.googleusercontent.com/H975s6W1-boCSogzpF5_rIyawbjiXfG842ncgjIRiVGzhXHFTCVut0DkBhlDR4CgN1nn98OOC1fWN-LE7kUHnQ",
+    "est_revenue": 10000000,
+    "est_revenue_fmt": "$10.00M",
+    "est_revenue_won": "150.0억"
   },
   {
     "rank": 4,
@@ -482,19 +482,6 @@
   },
   {
     "rank": 38,
-    "title": "パズル＆ドラゴンズ(Puzzle & Dragons)",
-    "developer": "GungHo Online Entertainment, Inc.",
-    "genre": "Game",
-    "rating": 3.2,
-    "app_id": "jp.gungho.pad",
-    "local_name": "パズル＆ドラゴンズ(Puzzle & Dragons)",
-    "icon": "https://play-lh.googleusercontent.com/ra7eGhpGZqaK3zVeyaat5kJZ3qRiJVQ8Yel-fOB4o5lWh6WgeivGdzRTJl14tAKKqBkcDYmw_DSziNL_Dq9F",
-    "est_revenue": 901821,
-    "est_revenue_fmt": "$902K",
-    "est_revenue_won": "13.5억"
-  },
-  {
-    "rank": 39,
     "title": "Yu-Gi-Oh! Master Duel",
     "developer": "KONAMI",
     "genre": "Game",
@@ -505,6 +492,19 @@
     "est_revenue": 0,
     "est_revenue_fmt": "",
     "est_revenue_won": ""
+  },
+  {
+    "rank": 39,
+    "title": "パズル＆ドラゴンズ(Puzzle & Dragons)",
+    "developer": "GungHo Online Entertainment, Inc.",
+    "genre": "Game",
+    "rating": 3.2,
+    "app_id": "jp.gungho.pad",
+    "local_name": "パズル＆ドラゴンズ(Puzzle & Dragons)",
+    "icon": "https://play-lh.googleusercontent.com/ra7eGhpGZqaK3zVeyaat5kJZ3qRiJVQ8Yel-fOB4o5lWh6WgeivGdzRTJl14tAKKqBkcDYmw_DSziNL_Dq9F",
+    "est_revenue": 901821,
+    "est_revenue_fmt": "$902K",
+    "est_revenue_won": "13.5억"
   },
   {
     "rank": 40,
@@ -599,19 +599,6 @@
   },
   {
     "rank": 47,
-    "title": "ドラゴンクエストタクト",
-    "developer": "SQUARE ENIX Co.,Ltd.",
-    "genre": "Game",
-    "rating": 3.9,
-    "app_id": "com.square_enix.android_googleplay.dqtactj",
-    "local_name": "ドラゴンクエストタクト",
-    "icon": "https://play-lh.googleusercontent.com/dDPVPSOZHLTeWZ3J2A7nsB9Ckb2lOhsInfbOsK-5zext0HJpY_dG1mcqLWaMWAREk5iyjIIOOYA9zprQNhstk7w",
-    "est_revenue": 0,
-    "est_revenue_fmt": "",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 48,
     "title": "Last Z: Survival Shooter",
     "developer": "Omnilojo Pte Ltd",
     "genre": "Game",
@@ -622,6 +609,19 @@
     "est_revenue": 823562,
     "est_revenue_fmt": "$824K",
     "est_revenue_won": "12.4억"
+  },
+  {
+    "rank": 48,
+    "title": "ドラゴンクエストタクト",
+    "developer": "SQUARE ENIX Co.,Ltd.",
+    "genre": "Game",
+    "rating": 3.9,
+    "app_id": "com.square_enix.android_googleplay.dqtactj",
+    "local_name": "ドラゴンクエストタクト",
+    "icon": "https://play-lh.googleusercontent.com/dDPVPSOZHLTeWZ3J2A7nsB9Ckb2lOhsInfbOsK-5zext0HJpY_dG1mcqLWaMWAREk5iyjIIOOYA9zprQNhstk7w",
+    "est_revenue": 0,
+    "est_revenue_fmt": "",
+    "est_revenue_won": ""
   },
   {
     "rank": 49,
