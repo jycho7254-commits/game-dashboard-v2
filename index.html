@@ -256,7 +256,7 @@ try{sb=window.supabase.createClient(SUPABASE_URL,SUPABASE_KEY,{auth:{persistSess
 <nav class="topbar">
 <div class="topbar-inner">
 <div class="topbar-right">
-<span class="meta" id="update-time">2026-08-07 18:19</span>
+<span class="meta" id="update-time">2026-08-07 18:23</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 <span id="auth-area" style="display:flex;align-items:center;gap:6px">
 <button id="login-btn" onclick="openAuthModal('login')" style="padding:5px 14px;border-radius:6px;border:1px solid var(--accent);background:transparent;color:var(--accent);cursor:pointer;font-size:14px;font-weight:600">로그인</button>
@@ -877,7 +877,7 @@ function loadOverview(){
         var gn=escAttr(name);
         h+='<div onclick="openTrendPopup(\''+gn+'\')" style="cursor:pointer;text-align:center;padding:6px;border-radius:8px;background:var(--bg3);border:1px solid var(--border);transition:.15s" onmouseover="this.style.borderColor=\'var(--accent)\'" onmouseout="this.style.borderColor=\'var(--border)\'">'+
           (icon?'<img src="'+icon+'" style="width:36px;height:36px;border-radius:8px" onerror="this.style.display=\'none\'">':'<div style="width:36px;height:36px;border-radius:8px;background:var(--fg-12);display:flex;align-items:center;justify-content:center;font-size:15px;font-weight:700;color:var(--t2)">'+(idx+1)+'</div>')+
-          '<div style="font-size:14px;font-weight:600;margin-top:4px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">'+name.slice(0,8)+'</div>'+
+          '<div style="font-size:14px;font-weight:600;margin-top:4px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">'+name+'</div>'+
           '<div style="font-size:15px;color:var(--accent);font-weight:700">'+rev+'</div>'+
           '</div>';
       });
@@ -1084,7 +1084,7 @@ function renderRank(q){
     else if(country==='jp'){srcData=JP;srcLabel='일본';color1='251,191,36';}
     else {srcData=GP;srcLabel='한국';color1='96,165,250';}
     var top10=(srcData||[]).slice(0,10);
-    var labels=top10.map(function(g,i){return (i+1)+'. '+(g.local_name||g.title||'').slice(0,8)});
+    var labels=top10.map(function(g,i){return (i+1)+'. '+(g.local_name||g.title||'')});
     var revData=top10.map(function(g){return g.est_revenue||0});
     window.rankChart=new Chart(ctx,{
       type:'bar',
