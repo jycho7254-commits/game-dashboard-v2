@@ -256,7 +256,7 @@ try{sb=window.supabase.createClient(SUPABASE_URL,SUPABASE_KEY,{auth:{persistSess
 <nav class="topbar">
 <div class="topbar-inner">
 <div class="topbar-right">
-<span class="meta" id="update-time">2026-08-07 16:26</span>
+<span class="meta" id="update-time">2026-08-07 16:29</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 <span id="auth-area" style="display:flex;align-items:center;gap:6px">
 <button id="login-btn" onclick="openAuthModal('login')" style="padding:5px 14px;border-radius:6px;border:1px solid var(--accent);background:transparent;color:var(--accent);cursor:pointer;font-size:14px;font-weight:600">로그인</button>
@@ -347,7 +347,7 @@ try{sb=window.supabase.createClient(SUPABASE_URL,SUPABASE_KEY,{auth:{persistSess
 <div class="kpis" id="sent-kpis"></div>
 <input class="search" placeholder="게임명 검색..." oninput="renderSentiment(this.value)" id="sent-search">
 <div class="card" id="sent-card"><h3 id="sent-title">💬 게임별 여론 지수</h3>
-<div style="display:flex;gap:8px;margin-bottom:12px">
+<div style="display:flex;gap:8px;margin-bottom:12px" id="sent-btns">
 <button onclick="openSentCriteria()" style="padding:8px 16px;border-radius:8px;border:1px solid var(--border);background:var(--surface);color:var(--t2);cursor:pointer;font-size:15px;font-weight:600">📋 여론 지수 기준</button>
 <button onclick="openReportModal()" style="padding:8px 16px;border-radius:8px;border:1px solid var(--accent);background:var(--accent);color:#fff;cursor:pointer;font-size:15px;font-weight:600">📊 여론 리포트 신청</button>
 </div>
@@ -685,10 +685,10 @@ function setCountry(c,el,ctx){
     parent.querySelectorAll('.ctab').forEach(function(t){t.classList.remove('on')});
     el.classList.add('on');
   }
-  // 여론 리포트/지수기준 버튼 — 한국/전체만 표시
-  var sentBtns=document.querySelector('#sent-card > div[style*="display:flex"]');
+  // 여론 리포트/지수기준 버튼 — 한국/전체만 표시 (탭 전환/국가 변경 시에도 유지)
+  var sentBtns=document.getElementById('sent-btns');
   if(sentBtns){
-    sentBtns.style.display=(c==='kr'||c==='all')?'flex':'none';
+    sentBtns.style.display=(country==='kr'||country==='all')?'flex':'none';
   }
   var activeTabEl=document.querySelector('.tc.on');
   if(activeTab==='overview')loadOverview();
@@ -1108,6 +1108,11 @@ function renderRank(q){
 function renderSentiment(q){
   q=(q||'').toLowerCase();
   var sentTitle=document.getElementById('sent-title');
+  // 여론 버튼 표시/숨김 — 한국/전체만
+  var sentBtns=document.getElementById('sent-btns');
+  if(sentBtns){
+    sentBtns.style.display=(country==='kr'||country==='all')?'flex':'none';
+  }
   var entries=[];
   var srcLabel='';
   var sentFull={};
