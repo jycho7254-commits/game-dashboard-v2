@@ -66,19 +66,6 @@
   },
   {
     "rank": 6,
-    "title": "열혈강호: 넥스트",
-    "developer": "Kingnet Technology Limited",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.rxjhglkr.gp",
-    "local_name": "열혈강호: 넥스트",
-    "icon": "https://play-lh.googleusercontent.com/ct9hCP6C7NRwwTT3p-eIRLAJHMYuK2k2kO0tC6nc8YUCwgRos5tOuzfKmflfPOwQdfJiuNHkmifu0lhVcEmY",
-    "est_revenue": 2775458,
-    "est_revenue_fmt": "$2.78M",
-    "est_revenue_won": "41.6억"
-  },
-  {
-    "rank": 7,
     "title": "CookieRun: Crumble - Idle RPG",
     "developer": "Devsisters Corporation",
     "genre": "Game",
@@ -89,6 +76,19 @@
     "est_revenue": 2532550,
     "est_revenue_fmt": "$2.53M",
     "est_revenue_won": "38.0억"
+  },
+  {
+    "rank": 7,
+    "title": "열혈강호: 넥스트",
+    "developer": "Kingnet Technology Limited",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.rxjhglkr.gp",
+    "local_name": "열혈강호: 넥스트",
+    "icon": "https://play-lh.googleusercontent.com/ct9hCP6C7NRwwTT3p-eIRLAJHMYuK2k2kO0tC6nc8YUCwgRos5tOuzfKmflfPOwQdfJiuNHkmifu0lhVcEmY",
+    "est_revenue": 2775458,
+    "est_revenue_fmt": "$2.78M",
+    "est_revenue_won": "41.6억"
   },
   {
     "rank": 8,
@@ -508,19 +508,6 @@
   },
   {
     "rank": 40,
-    "title": "Pokémon GO",
-    "developer": "Scopely Explore, Inc.",
-    "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.nianticlabs.pokemongo",
-    "local_name": "포켓몬 GO",
-    "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
-    "est_revenue": 279524,
-    "est_revenue_fmt": "$280K",
-    "est_revenue_won": "4.2억"
-  },
-  {
-    "rank": 41,
     "title": "hololive Dreams",
     "developer": "QualiArts, Inc.",
     "genre": "Game",
@@ -533,7 +520,7 @@
     "est_revenue_won": "5.1억"
   },
   {
-    "rank": 42,
+    "rank": 41,
     "title": "Seven Knights Re:BIRTH",
     "developer": "Netmarble",
     "genre": "Game",
@@ -544,6 +531,19 @@
     "est_revenue": 0,
     "est_revenue_fmt": "",
     "est_revenue_won": ""
+  },
+  {
+    "rank": 42,
+    "title": "Pokémon GO",
+    "developer": "Scopely Explore, Inc.",
+    "genre": "Game",
+    "rating": 3.8,
+    "app_id": "com.nianticlabs.pokemongo",
+    "local_name": "포켓몬 GO",
+    "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
+    "est_revenue": 279524,
+    "est_revenue_fmt": "$280K",
+    "est_revenue_won": "4.2억"
   },
   {
     "rank": 43,
