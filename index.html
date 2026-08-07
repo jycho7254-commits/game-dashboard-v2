@@ -158,20 +158,20 @@ tr:last-child td{border-bottom:none}
 .inf-pager button:disabled{opacity:.35;cursor:not-allowed}
 .inf-pager .pinfo{font-size:15px;color:var(--t3);margin:0 6px}
 @media(max-width:768px){
-/* 상단바 — 모바일 세로 재배치 */
+/* 상단바 — 모바일 3줄 구조 */
 .topbar{position:sticky;top:0;z-index:200}
-.topbar-inner{flex-wrap:wrap;padding:0 10px;gap:4px}
-/* 첫 줄: 시간 + 다크모드 + 로그인 */
-.topbar-inner>span:first-child,.topbar-inner>div:first-child{display:flex;flex-direction:row;align-items:center;justify-content:space-between;width:100%;padding:4px 0}
-.topbar-logo{padding:4px 0;font-size:13px}
-.topbar-right{position:relative!important;right:auto!important;top:auto!important;width:100%;justify-content:flex-end}
-/* 둘째 줄: 타이틀 */
-.topbar-title{padding:4px 0;font-size:16px}
-/* 셋째 줄: 탭 메뉴 */
+.topbar-inner{flex-wrap:wrap;padding:0 10px;gap:0}
+/* 1줄: 시간 + 다크 + 로그인/회원가입 */
+.topbar-right{position:relative!important;right:auto!important;top:auto!important;width:100%;justify-content:space-between;padding:6px 0 2px}
+.topbar-right .meta{font-size:12px}
+#auth-area button{padding:3px 8px!important;font-size:12px!important}
+#user-email{max-width:80px!important;font-size:12px!important}
+/* 2줄: 타이틀 */
+.topbar-title{padding:2px 0 4px;font-size:16px}
+/* 3줄: 탭 메뉴 */
 .topbar-tabs{order:3;width:100%;border-top:1px solid var(--border);overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch}
 .topbar-tabs::-webkit-scrollbar{display:none}
 .topbar-tabs a{padding:8px 10px;font-size:13px;white-space:nowrap}
-.topbar-right .meta{font-size:13px}
 /* 메인 콘텐츠 */
 .mn{padding:12px 10px!important;max-width:100%!important;margin:0!important}
 .header{margin-bottom:12px}
@@ -279,7 +279,7 @@ try{sb=window.supabase.createClient(SUPABASE_URL,SUPABASE_KEY,{auth:{persistSess
 <nav class="topbar">
 <div class="topbar-inner">
 <div class="topbar-right">
-<span class="meta" id="update-time">2026-08-07 18:29</span>
+<span class="meta" id="update-time">2026-08-07 18:31</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 <span id="auth-area" style="display:flex;align-items:center;gap:6px">
 <button id="login-btn" onclick="openAuthModal('login')" style="padding:5px 14px;border-radius:6px;border:1px solid var(--accent);background:transparent;color:var(--accent);cursor:pointer;font-size:14px;font-weight:600">로그인</button>
