@@ -222,19 +222,6 @@
   },
   {
     "rank": 18,
-    "title": "Royal Match",
-    "developer": "Dream Games, Ltd.",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.dreamgames.royalmatch",
-    "local_name": "Royal Match",
-    "icon": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
-    "est_revenue": 2996543,
-    "est_revenue_fmt": "$3.00M",
-    "est_revenue_won": "44.9억"
-  },
-  {
-    "rank": 19,
     "title": "トゥーンブラスト (Toon Blast)",
     "developer": "Peak",
     "genre": "Game",
@@ -247,7 +234,7 @@
     "est_revenue_won": "42.3억"
   },
   {
-    "rank": 20,
+    "rank": 19,
     "title": "Kingshot",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -260,20 +247,20 @@
     "est_revenue_won": "34.0억"
   },
   {
-    "rank": 21,
-    "title": "Pokémon GO",
-    "developer": "Scopely Explore, Inc.",
+    "rank": 20,
+    "title": "Royal Match",
+    "developer": "Dream Games, Ltd.",
     "genre": "Game",
-    "rating": 3.5,
-    "app_id": "com.nianticlabs.pokemongo",
-    "local_name": "Pokémon GO",
-    "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
-    "est_revenue": 2666666,
-    "est_revenue_fmt": "$2.67M",
-    "est_revenue_won": "40.0억"
+    "rating": 4.2,
+    "app_id": "com.dreamgames.royalmatch",
+    "local_name": "Royal Match",
+    "icon": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
+    "est_revenue": 2996543,
+    "est_revenue_fmt": "$3.00M",
+    "est_revenue_won": "44.9억"
   },
   {
-    "rank": 22,
+    "rank": 21,
     "title": "ウマ娘 プリティーダービー",
     "developer": "Cygames, Inc.",
     "genre": "Game",
@@ -286,7 +273,7 @@
     "est_revenue_won": "55.0억"
   },
   {
-    "rank": 23,
+    "rank": 22,
     "title": "妖怪ウォッチ ぷにぷに",
     "developer": "LEVEL-5 Inc.",
     "genre": "Game",
@@ -299,7 +286,7 @@
     "est_revenue_won": "25.0억"
   },
   {
-    "rank": 24,
+    "rank": 23,
     "title": "放置少女 - 百花繚乱の萌姫たち",
     "developer": "C4 Connect Inc.",
     "genre": "Game",
@@ -310,6 +297,19 @@
     "est_revenue": 1805432,
     "est_revenue_fmt": "$1.81M",
     "est_revenue_won": "27.1억"
+  },
+  {
+    "rank": 24,
+    "title": "Pokémon GO",
+    "developer": "Scopely Explore, Inc.",
+    "genre": "Game",
+    "rating": 3.5,
+    "app_id": "com.nianticlabs.pokemongo",
+    "local_name": "Pokémon GO",
+    "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
+    "est_revenue": 2666666,
+    "est_revenue_fmt": "$2.67M",
+    "est_revenue_won": "40.0억"
   },
   {
     "rank": 25,
@@ -417,19 +417,6 @@
   },
   {
     "rank": 33,
-    "title": "ドラゴンクエストスマッシュグロウ ドラクエローグライトRPG",
-    "developer": "SQUARE ENIX Co.,Ltd.",
-    "genre": "Game",
-    "rating": 4,
-    "app_id": "com.square_enix.android_googleplay.dqsgj",
-    "local_name": "ドラゴンクエストスマッシュグロウ ドラクエローグライトRPG",
-    "icon": "https://play-lh.googleusercontent.com/1sdqXY812mSKhGAdlb__4rqDj3PnFxhBgLuqWzPzu83sN0ap6wniQMlk0bVj-Nmjo1LDh_6rsfSCTHt1VlSyGg",
-    "est_revenue": 1063958,
-    "est_revenue_fmt": "$1.06M",
-    "est_revenue_won": "16.0억"
-  },
-  {
-    "rank": 34,
     "title": "あんさんぶるスターズ！！Music",
     "developer": "Happy Elements K.K",
     "genre": "Game",
@@ -442,7 +429,7 @@
     "est_revenue_won": "26.0억"
   },
   {
-    "rank": 35,
+    "rank": 34,
     "title": "Township",
     "developer": "Playrix",
     "genre": "Game",
@@ -455,7 +442,7 @@
     "est_revenue_won": "23.8억"
   },
   {
-    "rank": 36,
+    "rank": 35,
     "title": "にゃんこ大戦争",
     "developer": "PONOS Corporation",
     "genre": "Game",
@@ -466,6 +453,19 @@
     "est_revenue": 1143224,
     "est_revenue_fmt": "$1.14M",
     "est_revenue_won": "17.1억"
+  },
+  {
+    "rank": 36,
+    "title": "ドラゴンクエストスマッシュグロウ ドラクエローグライトRPG",
+    "developer": "SQUARE ENIX Co.,Ltd.",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "com.square_enix.android_googleplay.dqsgj",
+    "local_name": "ドラゴンクエストスマッシュグロウ ドラクエローグライトRPG",
+    "icon": "https://play-lh.googleusercontent.com/1sdqXY812mSKhGAdlb__4rqDj3PnFxhBgLuqWzPzu83sN0ap6wniQMlk0bVj-Nmjo1LDh_6rsfSCTHt1VlSyGg",
+    "est_revenue": 1063958,
+    "est_revenue_fmt": "$1.06M",
+    "est_revenue_won": "16.0억"
   },
   {
     "rank": 37,
