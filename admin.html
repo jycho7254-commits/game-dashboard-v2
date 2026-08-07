@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>운영툴 | Game Market Insight</title>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<style>
+body{font-family:'Pretendard',sans-serif;background:#0f0f19;color:#e5e7eb;padding:40px 20px;line-height:1.7}
+.container{max-width:1000px;margin:0 auto}
+h1{font-size:24px;color:#818cf8;margin-bottom:20px}
+h2{font-size:18px;margin-top:30px;margin-bottom:10px;color:#a5b4fc}
+.card{background:#1a1a25;border:1px solid #2a2a35;border-radius:12px;padding:20px;margin-bottom:16px}
+table{width:100%;border-collapse:collapse;font-size:14px}
+th{background:#0f3460;color:#fff;padding:10px;text-align:left;border-radius:6px 6px 0 0}
+td{border-bottom:1px solid #2a2a35;padding:10px}
+tr:hover{background:#1e1e2e}
+.stat{display:inline-block;padding:12px 20px;background:#1a1a25;border:1px solid #2a2a35;border-radius:8px;margin-right:12px}
+.stat-num{font-size:28px;font-weight:700;color:#818cf8}
+.stat-label{font-size:13px;color:#6b7280}
+input{padding:10px 14px;border-radius:8px;border:1px solid #2a2a35;background:#0f0f19;color:#e5e7eb;font-size:14px;width:200px}
+button{padding:10px 20px;border-radius:8px;border:1px solid #818cf8;background:#818cf8;color:#fff;cursor:pointer;font-size:14px;font-weight:600}
+.pill{display:inline-block;padding:2px 10px;border-radius:12px;font-size:12px;font-weight:600}
+.pill-active{background:rgba(39,174,96,.2);color:#27ae60}
+.pill-inactive{background:rgba(231,76,60,.2);color:#e74c3c}
+</style>
+</head>
+<body>
+<div class="container">
+<h1>운영툴 — Game Market Insight</h1>
+
+<div id="login-section" class="card">
+<h2>관리자 로그인</h2>
+<p style="color:#6b7280;font-size:14px">운영툴 접근을 위해 로그인해주세요.</p>
+<input type="email" id="admin-email" placeholder="관리자 이메일">
+<input type="password" id="admin-pw" placeholder="비밀번호" style="margin-left:8px">
+<button onclick="adminLogin()">로그인</button>
+</div>
+
+<div id="admin-panel" style="display:none">
+<div style="display:flex;gap:12px;margin-bottom:20px;flex-wrap:wrap">
+<div class="stat"><div class="stat-num" id="stat-users">-</div><div class="stat-label">가입 회원</div></div>
+<div class="stat"><div class="stat-num" id="stat-subs">-</div><div class="stat-label">리포트 구독</div></div>
+<div class="stat"><div class="stat-num" id="stat-today">-</div><div class="stat-label">오늘 가입</div></div>
+</div>
+
+<div class="card">
+<h2>회원 목록</h2>
+<table id="users-table">
+<thead><tr><th>이메일</th><th>가입일</th><th>마지막 로그인</th><th>상태</th></tr></thead>
+<tbody></tbody>
+</table>
+</div>
+
+<div class="card">
+<h2>리포트 구독 현황</h2>
+<table id="subs-table">
+<thead><tr><th>이메일</th><th>게임</th><th>빈도</th><th>요청사항</th><th>첨부파일</th><th>신청일</th><th>상태</th></tr></thead>
+<tbody></tbody>
+</table>
+</div>
+</div>
+</div>
+
+<script>
+const SUPABASE_URL='https://csenbounuattwcivyuho.supabase.co';
+const SUPABASE_KEY='sb_publishable_fYfb017lB4Xku_Gni_5pxQ_T-q1fluV';
+const sb=window.supabase.createClient(SUPABASE_URL,SUPABASE_KEY);
+let adminUser=null;
+
+async function adminLogin(){
+  const email=document.getElementById('admin-email').value;
+  const pw=document.getElementById('admin-pw').value;
+  if(!email||!pw){alert('이메일과 비밀번호를 입력하세요');return;}
+  try{
+    const{data,error}=await sb.auth.signInWithPassword({email:email,password:pw});
+    if(error)throw error;
+    adminUser=data.user;
+    document.getElementById('login-section').style.display='none';
+    document.getElementById('admin-panel').style.display='block';
+    await loadData();
+  }catch(e){
+    alert('로그인 실패: '+e.message);
+  }
+}
+
+async function loadData(){
+  try{
+    // 회원 수
+    const{count:userCount}=await sb.from('report_subscriptions').select('*',{count:'exact',head:true});
+    document.getElementById('stat-users').textContent=userCount||0;
+
+    // 리포트 구독
+    const{data:subs,error:subsError}=await sb.from('report_subscriptions').select('*').order('created_at',{ascending:false});
+    if(subsError)throw subsError;
+    document.getElementById('stat-subs').textContent=subs?subs.length:0;
+
+    // 오늘 가입
+    const today=new Date().toISOString().slice(0,10);
+    const todayCount=subs?subs.filter(s=>s.created_at&&s.created_at.slice(0,10)===today).length:0;
+    document.getElementById('stat-today').textContent=todayCount;
+
+    // 회원 테이블 (구독에서 이메일 추출)
+    const uniqueEmails=[...new Set(subs?subs.map(s=>s.email):[])];
+    const usersTbody=document.querySelector('#users-table tbody');
+    usersTbody.innerHTML=uniqueEmails.map(email=>{
+      const userSubs=subs.filter(s=>s.email===email);
+      const latest=userSubs[0];
+      return '<tr><td>'+email+'</td><td>'+(latest.created_at||'').slice(0,10)+'</td><td>-</td><td><span class="pill pill-active">활성</span></td></tr>';
+    }).join('');
+
+    // 구독 테이블
+    const subsTbody=document.querySelector('#subs-table tbody');
+    subsTbody.innerHTML=(subs||[]).map(s=>{
+      return '<tr>'+
+        '<td>'+s.email+'</td>'+
+        '<td>'+s.game+'</td>'+
+        '<td>'+s.freq+'</td>'+
+        '<td>'+(s.notes||'-').slice(0,30)+'</td>'+
+        '<td>'+(s.file_name||'-')+'</td>'+
+        '<td>'+(s.created_at||'').slice(0,10)+'</td>'+
+        '<td><span class="pill '+(s.active?'pill-active':'pill-inactive')+'">'+(s.active?'활성':'비활성')+'</span></td>'+
+        '</tr>';
+    }).join('');
+  }catch(e){
+    console.error('Load error:',e);
+    alert('데이터 로드 실패: '+e.message);
+  }
+}
+
+// 세션 확인
+sb.auth.getSession().then(({data})=>{
+  if(data&&data.session){
+    adminUser=data.session.user;
+    document.getElementById('login-section').style.display='none';
+    document.getElementById('admin-panel').style.display='block';
+    loadData();
+  }
+});
+</script>
+</body>
+</html>

@@ -256,7 +256,7 @@ try{sb=window.supabase.createClient(SUPABASE_URL,SUPABASE_KEY,{auth:{persistSess
 <nav class="topbar">
 <div class="topbar-inner">
 <div class="topbar-right">
-<span class="meta" id="update-time">2026-08-07 17:17</span>
+<span class="meta" id="update-time">2026-08-07 17:19</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 <span id="auth-area" style="display:flex;align-items:center;gap:6px">
 <button id="login-btn" onclick="openAuthModal('login')" style="padding:5px 14px;border-radius:6px;border:1px solid var(--accent);background:transparent;color:var(--accent);cursor:pointer;font-size:14px;font-weight:600">로그인</button>
@@ -435,8 +435,8 @@ try{sb=window.supabase.createClient(SUPABASE_URL,SUPABASE_KEY,{auth:{persistSess
 <div class="ctab" onclick="setCountry('cn',this,'news')">🇨🇳 중국</div>
 <div class="ctab" onclick="setCountry('jp',this,'news')">🇯🇵 일본</div>
 </div>
-<div class="card" id="news-headline-card" style="display:none"><h3>🔥 주요 뉴스</h3><div id="news-headline" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px"></div></div>
-<div class="card"><h3>📰 최근 뉴스</h3><div id="news-list" style="display:flex;flex-direction:column;gap:8px"></div></div>
+<div class="card" id="news-headline-card" style="display:none"><h3>주요 뉴스</h3><div id="news-headline" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px"></div></div>
+<div class="card"><h3>최근 뉴스</h3><div id="news-list" style="display:flex;flex-direction:column;gap:8px"></div></div>
 </div>
 
 <!-- ===== 캘린더 ===== -->
@@ -2379,8 +2379,14 @@ function openSentCriteria(){
 
 // 여론 리포트 신청 팝업
 function openReportModal(){
+  // 로그인 필요
+  if(!currentUser){
+    alert('여론 리포트 신청은 로그인이 필요합니다.');
+    openAuthModal('login');
+    return;
+  }
   var modal=document.getElementById('game-modal');
-  document.getElementById('modal-title').textContent='📊 여론 리포트 신청';
+  document.getElementById('modal-title').textContent='여론 리포트 신청';
   var chartSec=document.getElementById('modal-chart-sec');
   var vidSec=document.getElementById('modal-videos-sec');
   if(chartSec)chartSec.style.display='none';
@@ -2398,7 +2404,7 @@ function openReportModal(){
     '<div class="modal-sec"><h4>리포트 신청 정보</h4>'+
     '<div style="display:flex;flex-direction:column;gap:12px">'+
     '<div><label style="font-size:15px;color:var(--t2);font-weight:600">이메일</label>'+
-    '<input type="email" id="report-email" placeholder="example@email.com" style="width:100%;padding:10px 14px;border-radius:8px;border:1px solid var(--border);background:var(--surface);color:var(--t1);font-size:16px;margin-top:4px"></div>'+
+    '<input type="email" id="report-email" value="'+(currentUser?currentUser.email:'')+'" placeholder="example@email.com" style="width:100%;padding:10px 14px;border-radius:8px;border:1px solid var(--border);background:var(--surface);color:var(--t1);font-size:16px;margin-top:4px"></div>'+
 
     '<div><label style="font-size:15px;color:var(--t2);font-weight:600">게임명</label>'+
     '<input type="text" id="report-game" placeholder="예: SOL 인챈트, 명조, 원신..." style="width:100%;padding:10px 14px;border-radius:8px;border:1px solid var(--border);background:var(--surface);color:var(--t1);font-size:16px;margin-top:4px"></div>'+
