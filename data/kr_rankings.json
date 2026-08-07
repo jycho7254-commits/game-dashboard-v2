@@ -313,19 +313,6 @@
   },
   {
     "rank": 25,
-    "title": "Last Asylum: Plague",
-    "developer": "37GAMES GLOBAL",
-    "genre": "Game",
-    "rating": 4.9,
-    "app_id": "com.phs.global",
-    "local_name": "라스트 어사일럼",
-    "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
-    "est_revenue": 562114,
-    "est_revenue_fmt": "$562K",
-    "est_revenue_won": "8.4억"
-  },
-  {
-    "rank": 26,
     "title": "Gardenscapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -336,6 +323,19 @@
     "est_revenue": 665808,
     "est_revenue_fmt": "$666K",
     "est_revenue_won": "10.0억"
+  },
+  {
+    "rank": 26,
+    "title": "Last Asylum: Plague",
+    "developer": "37GAMES GLOBAL",
+    "genre": "Game",
+    "rating": 4.9,
+    "app_id": "com.phs.global",
+    "local_name": "라스트 어사일럼",
+    "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
+    "est_revenue": 562114,
+    "est_revenue_fmt": "$562K",
+    "est_revenue_won": "8.4억"
   },
   {
     "rank": 27,
@@ -391,45 +391,6 @@
   },
   {
     "rank": 31,
-    "title": "AION2",
-    "developer": "NC Corporation",
-    "genre": "Game",
-    "rating": 2.9,
-    "app_id": "com.ncsoft.aion2",
-    "local_name": "아이온2",
-    "icon": "https://play-lh.googleusercontent.com/aqqsbPuYk-dU9f0qnyEkHje_IIchFrOhDQfDXozQbD5_n_Hxi18ja4GyEbNYuFD9inoFBUYfZFWK4zSOjsy8Aw",
-    "est_revenue": 471173,
-    "est_revenue_fmt": "$471K",
-    "est_revenue_won": "7.1억"
-  },
-  {
-    "rank": 32,
-    "title": "컴투스프로야구V26",
-    "developer": "Com2uS",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.com2us.futurecpb.android.google.global.normal",
-    "local_name": "컴투스프로야구V26",
-    "icon": "https://play-lh.googleusercontent.com/lFrail_ogSgoETUZcsAgLG7gC4lvjcOdffEURRt5kTAaIbr3pdm7s7hrIQNMl-jTu_Hbw7NDuU9gpJZDRsqY",
-    "est_revenue": 322268,
-    "est_revenue_fmt": "$322K",
-    "est_revenue_won": "4.8억"
-  },
-  {
-    "rank": 33,
-    "title": "Brawl Stars",
-    "developer": "Supercell",
-    "genre": "Game",
-    "rating": 3.7,
-    "app_id": "com.supercell.brawlstars",
-    "local_name": "Brawl Stars",
-    "icon": "https://play-lh.googleusercontent.com/c0hXyphuxh-gpnhSJGZV1I0IpWbq9IdEc1pautS7SmHlXNBrCff7bMqK-u63pJdfP3KJoxamG7W1dRMKr7ZzWKs",
-    "est_revenue": 0,
-    "est_revenue_fmt": "",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 34,
     "title": "뱀피르",
     "developer": "Netmarble",
     "genre": "Game",
@@ -442,7 +403,33 @@
     "est_revenue_won": "6.7억"
   },
   {
-    "rank": 35,
+    "rank": 32,
+    "title": "AION2",
+    "developer": "NC Corporation",
+    "genre": "Game",
+    "rating": 2.9,
+    "app_id": "com.ncsoft.aion2",
+    "local_name": "아이온2",
+    "icon": "https://play-lh.googleusercontent.com/aqqsbPuYk-dU9f0qnyEkHje_IIchFrOhDQfDXozQbD5_n_Hxi18ja4GyEbNYuFD9inoFBUYfZFWK4zSOjsy8Aw",
+    "est_revenue": 471173,
+    "est_revenue_fmt": "$471K",
+    "est_revenue_won": "7.1억"
+  },
+  {
+    "rank": 33,
+    "title": "컴투스프로야구V26",
+    "developer": "Com2uS",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.com2us.futurecpb.android.google.global.normal",
+    "local_name": "컴투스프로야구V26",
+    "icon": "https://play-lh.googleusercontent.com/lFrail_ogSgoETUZcsAgLG7gC4lvjcOdffEURRt5kTAaIbr3pdm7s7hrIQNMl-jTu_Hbw7NDuU9gpJZDRsqY",
+    "est_revenue": 322268,
+    "est_revenue_fmt": "$322K",
+    "est_revenue_won": "4.8억"
+  },
+  {
+    "rank": 34,
     "title": "Honkai: Star Rail",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -453,6 +440,19 @@
     "est_revenue": 533333,
     "est_revenue_fmt": "$533K",
     "est_revenue_won": "8.0억"
+  },
+  {
+    "rank": 35,
+    "title": "Brawl Stars",
+    "developer": "Supercell",
+    "genre": "Game",
+    "rating": 3.7,
+    "app_id": "com.supercell.brawlstars",
+    "local_name": "Brawl Stars",
+    "icon": "https://play-lh.googleusercontent.com/c0hXyphuxh-gpnhSJGZV1I0IpWbq9IdEc1pautS7SmHlXNBrCff7bMqK-u63pJdfP3KJoxamG7W1dRMKr7ZzWKs",
+    "est_revenue": 0,
+    "est_revenue_fmt": "",
+    "est_revenue_won": ""
   },
   {
     "rank": 36,
@@ -638,13 +638,13 @@
   },
   {
     "rank": 50,
-    "title": "토이 삼국",
-    "developer": "Rhinos",
+    "title": "I9: 인페르노 나인",
+    "developer": "Leniu Technology Co., Limited",
     "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.jsjskr.google",
-    "local_name": "토이 삼국",
-    "icon": "https://play-lh.googleusercontent.com/VUPm7IzftWuDNEmU7LuriZsQrg8QQT84PAPCU9LLDps3wgWGOoiAlRK217YTZNUHkCf8nuyLOJQcT-1LucpwTA",
+    "rating": 4.5,
+    "app_id": "com.kr.firegp",
+    "local_name": "I9: 인페르노 나인",
+    "icon": "https://play-lh.googleusercontent.com/jZ0P5ZxOE4VorYhs9QmbcxzXi7VYiNqh4I5YlO2JXUdh_5D80ymAagbYxjtP6pGnU_7f_W0gWUVWUm9mIkCI5A",
     "est_revenue": 0,
     "est_revenue_fmt": "",
     "est_revenue_won": ""
