@@ -30,14 +30,14 @@
   --shadow:0 1px 3px rgba(0,0,0,.08);
 }
 *{margin:0;padding:0;box-sizing:border-box}
-body{font-family:'Pretendard',sans-serif;background:linear-gradient(rgba(15,15,25,.92),rgba(15,15,25,.95)),url('data/bg_gameshow.jpg') center center/cover fixed no-repeat,var(--bg);color:var(--t1);font-size:14px;line-height:1.6;font-feature-settings:"tnum"}
-.container{display:flex;flex-direction:column;min-height:100vh;max-width:1600px;margin:0 auto;position:relative}
+body{font-family:'Pretendard',sans-serif;background:linear-gradient(rgba(15,15,25,.92),rgba(15,15,25,.95)),url('data/bg_gameshow.jpg') center center/cover fixed no-repeat,var(--bg);color:var(--t1);font-size:16px;line-height:1.6;font-feature-settings:"tnum"}
+.container{display:flex;flex-direction:column;min-height:100vh;max-width:1920px;margin:0 auto;position:relative}
 .ad-left,.ad-right{position:fixed;top:80px;width:160px;height:600px;display:none;z-index:0;pointer-events:none}
 .ad-left{left:calc(50% - 760px)}
 .ad-right{right:calc(50% - 760px)}
 @media(min-width:1400px){.ad-left,.ad-right{display:block}}
 .topbar{background:var(--sb-bg);border-bottom:1px solid var(--border);position:sticky;top:0;z-index:100;backdrop-filter:blur(12px)}
-.topbar-inner{display:flex;flex-direction:column;align-items:center;padding:10px 24px 0;max-width:1600px;margin:0 auto}
+.topbar-inner{display:flex;flex-direction:column;align-items:center;padding:10px 16px 0;max-width:1920px;margin:0 auto}
 .topbar-title{text-align:center;font-size:22px;font-weight:800;color:var(--t1);letter-spacing:-.5px;padding:6px 0 8px}
 .topbar-title small{font-size:14px;color:var(--t3);font-weight:500;margin-left:6px}
 .topbar-tabs{display:flex;align-items:center;justify-content:center;gap:0;width:100%;overflow-x:auto;scrollbar-width:none}
@@ -46,7 +46,7 @@ body{font-family:'Pretendard',sans-serif;background:linear-gradient(rgba(15,15,2
 .topbar-tabs a:hover{color:var(--t1);background:var(--surface-hover)}
 .topbar-tabs a.on{color:var(--accent);border-bottom-color:var(--accent);font-weight:700}
 .topbar-right{display:flex;align-items:center;gap:8px;white-space:nowrap;position:absolute;right:24px;top:14px}
-.mn{flex:1;padding:20px 28px;min-width:0;max-width:1600px;margin:0 auto;width:100%}
+.mn{flex:1;padding:16px 16px;min-width:0;max-width:1920px;margin:0 auto;width:100%}
 .header{display:flex;align-items:center;justify-content:space-between;margin-bottom:18px;flex-wrap:wrap;gap:8px}
 .header h1{font-size:20px;font-weight:700;letter-spacing:-.4px}.header .meta{font-size:15px;color:var(--t3);font-weight:500}
 .header button,.header select{padding:5px 12px;border-radius:var(--radius-sm);border:1px solid var(--border);background:var(--surface);color:var(--t1);cursor:pointer;font-size:14px;font-weight:500;transition:.15s}
@@ -248,7 +248,7 @@ canvas{max-width:100%!important}
 <nav class="topbar">
 <div class="topbar-inner">
 <div class="topbar-right">
-<span class="meta" id="update-time">2026-08-07 14:19</span>
+<span class="meta" id="update-time">2026-08-07 14:21</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 </div>
 <div class="topbar-title">Game Market Insight</div>
