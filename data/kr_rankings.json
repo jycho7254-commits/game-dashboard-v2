@@ -92,19 +92,6 @@
   },
   {
     "rank": 8,
-    "title": "한게임포커 클래식 : 7포커 홀덤 섯다 훌라 슬롯",
-    "developer": "NHN Corp.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.nhnent.pokerclassic",
-    "local_name": "한게임 포커 클래식",
-    "icon": "https://play-lh.googleusercontent.com/Hv-D0Heegr2EW_eyGcfNv-HzI_WRrjxMqnN575pY17XaRfXA4wjmAtTwWsO_ON6WqVtTP0ajH2bKKRDx6CNXhQ",
-    "est_revenue": 2092075,
-    "est_revenue_fmt": "$2.09M",
-    "est_revenue_won": "31.4억"
-  },
-  {
-    "rank": 9,
     "title": "MapleStory : Idle RPG",
     "developer": "NEXON Company",
     "genre": "Game",
@@ -117,7 +104,7 @@
     "est_revenue_won": "35.0억"
   },
   {
-    "rank": 10,
+    "rank": 9,
     "title": "Last War:Survival Game",
     "developer": "FUNFLY PTE. LTD.",
     "genre": "Game",
@@ -128,6 +115,19 @@
     "est_revenue": 1893672,
     "est_revenue_fmt": "$1.89M",
     "est_revenue_won": "28.4억"
+  },
+  {
+    "rank": 10,
+    "title": "한게임포커 클래식 : 7포커 홀덤 섯다 훌라 슬롯",
+    "developer": "NHN Corp.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.nhnent.pokerclassic",
+    "local_name": "한게임 포커 클래식",
+    "icon": "https://play-lh.googleusercontent.com/Hv-D0Heegr2EW_eyGcfNv-HzI_WRrjxMqnN575pY17XaRfXA4wjmAtTwWsO_ON6WqVtTP0ajH2bKKRDx6CNXhQ",
+    "est_revenue": 2092075,
+    "est_revenue_fmt": "$2.09M",
+    "est_revenue_won": "31.4억"
   },
   {
     "rank": 11,
@@ -391,19 +391,6 @@
   },
   {
     "rank": 31,
-    "title": "트릭컬 리바이브",
-    "developer": "EPIDGames",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.epidgames.trickcalrevive",
-    "local_name": "트릭컬 리바이브",
-    "icon": "https://play-lh.googleusercontent.com/OCiuBv70Dnuw9wcGet3EtTUF2nEkS1vhYYkvOahe9-MmKg6EhxGkf-9ZVxnWIJXflQSmfOIjTcaSbwJSJyuzHA",
-    "est_revenue": 356546,
-    "est_revenue_fmt": "$357K",
-    "est_revenue_won": "5.3억"
-  },
-  {
-    "rank": 32,
     "title": "뱀피르",
     "developer": "Netmarble",
     "genre": "Game",
@@ -416,7 +403,7 @@
     "est_revenue_won": "6.7억"
   },
   {
-    "rank": 33,
+    "rank": 32,
     "title": "Royal Kingdom",
     "developer": "Dream Games, Ltd.",
     "genre": "Game",
@@ -429,7 +416,7 @@
     "est_revenue_won": "7.5억"
   },
   {
-    "rank": 34,
+    "rank": 33,
     "title": "PUBG Mobile",
     "developer": "KRAFTON, Inc.",
     "genre": "Game",
@@ -442,7 +429,7 @@
     "est_revenue_won": "6.0억"
   },
   {
-    "rank": 35,
+    "rank": 34,
     "title": "AION2",
     "developer": "NC Corporation",
     "genre": "Game",
@@ -455,7 +442,7 @@
     "est_revenue_won": "7.1억"
   },
   {
-    "rank": 36,
+    "rank": 35,
     "title": "컴투스프로야구V26",
     "developer": "Com2uS",
     "genre": "Game",
@@ -468,7 +455,7 @@
     "est_revenue_won": "4.8억"
   },
   {
-    "rank": 37,
+    "rank": 36,
     "title": "Coop TD: Together",
     "developer": "Supermagic",
     "genre": "Game",
@@ -479,6 +466,19 @@
     "est_revenue": 375806,
     "est_revenue_fmt": "$376K",
     "est_revenue_won": "5.6억"
+  },
+  {
+    "rank": 37,
+    "title": "트릭컬 리바이브",
+    "developer": "EPIDGames",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.epidgames.trickcalrevive",
+    "local_name": "트릭컬 리바이브",
+    "icon": "https://play-lh.googleusercontent.com/OCiuBv70Dnuw9wcGet3EtTUF2nEkS1vhYYkvOahe9-MmKg6EhxGkf-9ZVxnWIJXflQSmfOIjTcaSbwJSJyuzHA",
+    "est_revenue": 356546,
+    "est_revenue_fmt": "$357K",
+    "est_revenue_won": "5.3억"
   },
   {
     "rank": 38,
@@ -534,19 +534,6 @@
   },
   {
     "rank": 42,
-    "title": "리니지2M",
-    "developer": "NC Corporation",
-    "genre": "Game",
-    "rating": 3.5,
-    "app_id": "com.ncsoft.lineage2m19",
-    "local_name": "리니지M",
-    "icon": "https://play-lh.googleusercontent.com/bh67_a9Z2UyAoJHcktORocXm_c25UcWz_diX4kuGbQ2W1tbWwzK1QqapGahZrlDmwWCAp-CFoy9NA2KMYojBAik",
-    "est_revenue": 255639,
-    "est_revenue_fmt": "$256K",
-    "est_revenue_won": "3.8억"
-  },
-  {
-    "rank": 43,
     "title": "Pokémon GO",
     "developer": "Scopely Explore, Inc.",
     "genre": "Game",
@@ -557,6 +544,19 @@
     "est_revenue": 279524,
     "est_revenue_fmt": "$280K",
     "est_revenue_won": "4.2억"
+  },
+  {
+    "rank": 43,
+    "title": "리니지2M",
+    "developer": "NC Corporation",
+    "genre": "Game",
+    "rating": 3.5,
+    "app_id": "com.ncsoft.lineage2m19",
+    "local_name": "리니지M",
+    "icon": "https://play-lh.googleusercontent.com/bh67_a9Z2UyAoJHcktORocXm_c25UcWz_diX4kuGbQ2W1tbWwzK1QqapGahZrlDmwWCAp-CFoy9NA2KMYojBAik",
+    "est_revenue": 255639,
+    "est_revenue_fmt": "$256K",
+    "est_revenue_won": "3.8억"
   },
   {
     "rank": 44,
@@ -599,19 +599,6 @@
   },
   {
     "rank": 47,
-    "title": "RF ONLINE NEXT",
-    "developer": "Netmarble",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.netmarble.rfnext",
-    "local_name": "RF ONLINE NEXT",
-    "icon": "https://play-lh.googleusercontent.com/IkNZqliSHoIRoWo-SFO0b8pzt53n1Epi-Tf9p8LbwczkafXbMcuQTpmgpdU-DIKeamrQoyqgRQTars9qnpe0Gg",
-    "est_revenue": 0,
-    "est_revenue_fmt": "",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 48,
     "title": "냥코 대전쟁",
     "developer": "PONOS Corporation",
     "genre": "Game",
@@ -622,6 +609,19 @@
     "est_revenue": 419398,
     "est_revenue_fmt": "$419K",
     "est_revenue_won": "6.3억"
+  },
+  {
+    "rank": 48,
+    "title": "WPL:Texas Hold'em, MTT, Sit&Go",
+    "developer": "Zempot INC.",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "com.zempot.wplpoker",
+    "local_name": "WPL:Texas Hold'em, MTT, Sit&Go",
+    "icon": "https://play-lh.googleusercontent.com/QQVS3cmt_fMF91ecz8fHExUP_VJUty-9dCmA7sOZQR3086-4nD-2ANOA2cOkFeiHt5eFW55CZJGpiaO_BahNZA",
+    "est_revenue": 0,
+    "est_revenue_fmt": "",
+    "est_revenue_won": ""
   },
   {
     "rank": 49,
@@ -638,13 +638,13 @@
   },
   {
     "rank": 50,
-    "title": "I9: 인페르노 나인",
-    "developer": "Leniu Technology Co., Limited",
+    "title": "라그나로크M: Classic",
+    "developer": "GRAVITY Co., Ltd.",
     "genre": "Game",
     "rating": 4.5,
-    "app_id": "com.kr.firegp",
-    "local_name": "I9: 인페르노 나인",
-    "icon": "https://play-lh.googleusercontent.com/jZ0P5ZxOE4VorYhs9QmbcxzXi7VYiNqh4I5YlO2JXUdh_5D80ymAagbYxjtP6pGnU_7f_W0gWUVWUm9mIkCI5A",
+    "app_id": "com.gravity.romkrzeny.aos",
+    "local_name": "라그나로크M: Classic",
+    "icon": "https://play-lh.googleusercontent.com/5SFBw-txEgmxfiD8J5DcHchCZFvLCo1jZsalnlDHYjv5nddS-8oLSRIwGHmqKF0NLaZJ9Gmbx6wEMGxlNtFe",
     "est_revenue": 0,
     "est_revenue_fmt": "",
     "est_revenue_won": ""
