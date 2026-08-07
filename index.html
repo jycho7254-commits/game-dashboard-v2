@@ -248,7 +248,7 @@ canvas{max-width:100%!important}
 <nav class="topbar">
 <div class="topbar-inner">
 <div class="topbar-right">
-<span class="meta" id="update-time">2026-08-07 10:24</span>
+<span class="meta" id="update-time">2026-08-07 10:29</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 </div>
 <div class="topbar-title">Game Market Insight</div>
@@ -734,7 +734,7 @@ function loadOverview(){
       var flag=g._c==='kr'?'KR':g._c==='cn'?'CN':g._c==='jp'?'JP':'';
       var iconHTML=g.icon?('<img src="'+getIcon(g)+'" style="width:18px;height:18px;border-radius:3px;vertical-align:middle;margin-right:3px" onerror="this.style.display=\'none\'">'):'';
       var gn=escAttr(g.local_name||g.title||'');
-      return '<tr onclick="openModal(\''+gn+'\')"><td>'+(flag||g.rank||1)+'</td><td>'+iconHTML+(g.local_name||g.title||'')+'</td><td>'+(g.developer||'').slice(0,15)+'</td><td><span style="font-size:14px;padding:2px 6px;border-radius:3px;background:var(--fg-12);color:var(--t2);font-weight:600">'+(g._c==='cn'?'iOS':'GP+iOS')+'</span></td><td style="font-weight:600;color:var(--accent)">'+rev+'</td><td style="font-size:15px;color:var(--t2)">'+(g.est_revenue?fmtRev(g.est_revenue/30):'-')+'</td></tr>';
+      return '<tr onclick="openModal(\''+gn+'\')"><td>'+(flag||g.rank||1)+'</td><td>'+iconHTML+(g.local_name||g.title||'')+'</td><td>'+(g.developer||'').slice(0,15)+'</td><td><span style="font-size:14px;padding:2px 6px;border-radius:3px;background:var(--fg-12);color:var(--t2);font-weight:600">'+(g._c==='cn'?'iOS':'GP')+'</span></td><td style="font-weight:600;color:var(--accent);cursor:pointer" onclick="event.stopPropagation();openRevPopup(\''+gn+'\')">'+rev+'</td><td style="font-size:15px;color:var(--t2)">'+(g.est_revenue?fmtRev(g.est_revenue/30):'-')+'</td></tr>';
     });
     tbody.innerHTML=topRows.join('');
   }
@@ -963,8 +963,8 @@ function renderRank(q){
     tr.innerHTML='<td>'+(g.rank||'')+'</td>'+
       '<td>'+iconHTML+(g.local_name||g.title||'')+'</td>'+
       '<td>'+(g.developer||'').slice(0,20)+'</td>'+
-      '<td><span style="font-size:14px;padding:2px 6px;border-radius:3px;background:var(--fg-12);color:var(--t2);font-weight:600">'+(country==='cn'?'iOS':'GP+iOS')+'</span></td>'+
-      '<td style="font-weight:600">'+(g.est_revenue_fmt||'-')+' <span style="font-size:14px;color:var(--t3)">'+(g.est_revenue_won||'')+'</span></td>'+
+      '<td><span style="font-size:14px;padding:2px 6px;border-radius:3px;background:var(--fg-12);color:var(--t2);font-weight:600">'+(country==='cn'?'iOS':'GP')+'</span></td>'+
+      '<td style="font-weight:600;cursor:pointer" onclick="event.stopPropagation();openRevPopup(\''+escAttr(g.local_name||g.title||'')+'\')">'+(g.est_revenue_fmt||'-')+' <span style="font-size:14px;color:var(--t3)">'+(g.est_revenue_won||'')+'</span></td>'+
       '<td style="font-size:15px;color:var(--t2)">'+(g.est_revenue?fmtRev(g.est_revenue/30):'-')+'</td>';
     return tr;
   }
@@ -2154,6 +2154,79 @@ function _findYT(gameName){
     if(i18n.jp&&YT[i18n.jp])return YT[i18n.jp];
   }
   return null;
+}
+
+// 매출 추정 방식 팝업
+function openRevPopup(gameName){
+  var modal=document.getElementById('game-modal');
+  document.getElementById('modal-title').textContent='매출 추정 방식 — '+gameName;
+  var chartSec=document.getElementById('modal-chart-sec');
+  var vidSec=document.getElementById('modal-videos-sec');
+  if(chartSec)chartSec.style.display='none';
+  if(vidSec)vidSec.style.display='none';
+  var sentEl=document.getElementById('modal-sentiment');
+  var oldUpdate=document.getElementById('modal-update-sec');
+  if(oldUpdate)oldUpdate.remove();
+
+  // 게임 데이터 찾기
+  var gameData=null;
+  var gameCountry='';
+  var allGames=[].concat(
+    (GP||[]).map(function(g){return Object.assign({},g,{_c:'kr'})}),
+    (CN||[]).map(function(g){return Object.assign({},g,{_c:'cn'})}),
+    (JP||[]).map(function(g){return Object.assign({},g,{_c:'jp'})})
+  );
+  for(var i=0;i<allGames.length;i++){
+    if((allGames[i].local_name||allGames[i].title||'')===gameName){
+      gameData=allGames[i];
+      gameCountry=allGames[i]._c;
+      break;
+    }
+  }
+
+  var rev=gameData?(gameData.est_revenue||0):0;
+  var rank=gameData?(gameData.rank||'?'):'?';
+  var src=gameCountry==='cn'?'Apple App Store (Qimai)':'Google Play';
+  var parts=[];
+
+  parts.push('<div class="modal-sec"><h4>추정 방식</h4>'+
+    '<div style="font-size:15px;color:var(--t2);line-height:2">'+
+    '<p><strong>데이터 소스:</strong> '+src+'</p>'+
+    '<p><strong>순위:</strong> '+src+' 매출 랭킹 '+rank+'위</p>'+
+    '<p><strong>월 추정 매출:</strong> '+(gameData?gameData.est_revenue_fmt||('$'+(rev/1e6).toFixed(2)+'M'):'-')+'</p>'+
+    '<p><strong>일 추정 매출:</strong> '+(rev?fmtRev(rev/30):'-')+' (월 매출 ÷ 30)</p>'+
+    '</div></div>');
+
+  // 추정 방식 설명
+  var methodText='';
+  if(gameCountry==='cn'){
+    methodText='중국 매출은 Apple App Store(Qimai 데이터) 매출 랭킹을 기반으로 추정합니다. '+
+      '랭킹 1위=약 2000억원($133M), 5위=약 1000억원($67M), 10위=약 600억원($40M) 기준으로 '+
+      '로그 스케일 보간법으로 산출합니다. Google Play는 중국에서 서비스되지 않아 iOS만 반영합니다.';
+  } else if(gameCountry==='jp'){
+    methodText='일본 매출은 Google Play 매출 랭킹을 기반으로 추정합니다. '+
+      '랭킹 1위=약 300억원($20M), 10위=약 150억원($10M) 기준으로 로그 스케일 보간법으로 산출합니다. '+
+      'iOS 매출은 별도 수집하지 않아 GP만 반영합니다.';
+  } else {
+    methodText='한국 매출은 Google Play 매출 랭킹을 기반으로 추정합니다. '+
+      '랭킹 1위=약 120억원($8M), 10위=약 50억원($3.3M) 기준으로 로그 스케일 보간법으로 산출합니다. '+
+      'iOS 매출은 별도 수집하지 않아 GP만 반영합니다.';
+  }
+
+  parts.push('<div class="modal-sec"><h4>추정 산출 방식</h4>'+
+    '<div style="font-size:14px;color:var(--t2);line-height:2;padding:10px;border-radius:6px;background:var(--bg3);border-left:3px solid var(--accent)">'+
+    methodText+
+    '</div></div>');
+
+  parts.push('<div class="modal-sec"><h4>주의사항</h4>'+
+    '<div style="font-size:14px;color:var(--t3);line-height:1.8">'+
+    '본 매출 수치는 공식 공시가 아닌 추정치입니다. '+
+    '실제 매출과 차이가 있을 수 있으며, 참고용으로만 사용하세요. '+
+    '공식 매출은 각 게임사의 IR 자료를 확인하세요.'+
+    '</div></div>');
+
+  sentEl.innerHTML=parts.join('');
+  modal.classList.add('on');
 }
 
 function openModal(gameName){
