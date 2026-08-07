@@ -248,7 +248,7 @@ canvas{max-width:100%!important}
 <nav class="topbar">
 <div class="topbar-inner">
 <div class="topbar-right">
-<span class="meta" id="update-time">2026-08-07 14:29</span>
+<span class="meta" id="update-time">2026-08-07 14:32</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 </div>
 <div class="topbar-title">Game Market Insight</div>
@@ -330,7 +330,7 @@ canvas{max-width:100%!important}
 </div>
 <div class="kpis" id="sent-kpis"></div>
 <input class="search" placeholder="게임명 검색..." oninput="renderSentiment(this.value)" id="sent-search">
-<div class="card" id="sent-card"><h3 id="sent-title">💬 게임별 여론 지수</h3><table id="sent-table"><thead><tr><th>게임</th><th>소스</th><th>지수</th><th>긍정</th><th>부정</th><th>트렌드</th><th>샘플</th></tr></thead><tbody></tbody></table></div>
+<div class="card" id="sent-card"><h3 id="sent-title">💬 게임별 여론 지수 <button onclick="openSentCriteria()" style="font-size:14px;padding:4px 12px;border-radius:6px;border:1px solid var(--border);background:var(--surface);color:var(--t2);cursor:pointer;font-weight:600;margin-left:8px">여론 지수 기준</button> <button onclick="openReportModal()" style="font-size:14px;padding:4px 12px;border-radius:6px;border:1px solid var(--accent);background:var(--accent);color:#fff;cursor:pointer;font-weight:600;margin-left:4px">📊 여론 리포트</button></h3><table id="sent-table"><thead><tr><th>게임</th><th>소스</th><th>지수</th><th>긍정</th><th>부정</th><th>트렌드</th><th>샘플</th></tr></thead><tbody></tbody></table></div>
 </div>
 
 <!-- ===== 인플루언서 ===== -->
@@ -2157,6 +2157,164 @@ function _findYT(gameName){
 }
 
 // 매출 추정 방식 팝업
+// 여론 지수 기준 팝업
+function openSentCriteria(){
+  var modal=document.getElementById('game-modal');
+  document.getElementById('modal-title').textContent='여론 지수 산정 기준';
+  var chartSec=document.getElementById('modal-chart-sec');
+  var vidSec=document.getElementById('modal-videos-sec');
+  if(chartSec)chartSec.style.display='none';
+  if(vidSec)vidSec.style.display='none';
+  var sentEl=document.getElementById('modal-sentiment');
+  var oldUpdate=document.getElementById('modal-update-sec');
+  if(oldUpdate)oldUpdate.remove();
+
+  sentEl.innerHTML=[
+    '<div class="modal-sec"><h4>여론 지수란?</h4>'+
+    '<div style="font-size:16px;color:var(--t2);line-height:2">여론 지수는 0~100 점수로, 해당 게임에 대한 커뮤니티 여론이 얼마나 긍정적인지를 나타내는 종합 지표입니다.</div></div>',
+
+    '<div class="modal-sec"><h4>산정 방식</h4>'+
+    '<div style="font-size:16px;color:var(--t2);line-height:2">'+
+    '<p><strong>1. 데이터 소스 (가중치)</strong></p>'+
+    '<table style="width:100%;font-size:15px;margin-bottom:10px">'+
+    '<tr style="color:var(--t3)"><td>DC Inside</td><td>30%</td><td>게시글 수 + 댓글 감정</td></tr>'+
+    '<tr style="color:var(--t3)"><td>Google Play 리뷰</td><td>25%</td><td>평점 + 리뷰 텍스트</td></tr>'+
+    '<tr style="color:var(--t3)"><td>YouTube 댓글</td><td>20%</td><td>댓글 감정 분석</td></tr>'+
+    '<tr style="color:var(--t3)"><td>아카라이브</td><td>15%</td><td>게시글 수 + 반응</td></tr>'+
+    '<tr style="color:var(--t3)"><td>기타 (Bilibili/5ch)</td><td>10%</td><td>국가별 추가 소스</td></tr>'+
+    '</table>'+
+    '<p><strong>2. 점수 산출</strong></p>'+
+    '<p>각 소스별 긍정/부정 비율을 가중 평균하여 0~100 점수로 변환</p>'+
+    '<p>긍정 비율이 높을수록 높은 점수, 부정 비율이 높을수록 낮은 점수</p>'+
+    '</div></div>',
+
+    '<div class="modal-sec"><h4>지수 해석</h4>'+
+    '<div style="font-size:16px;color:var(--t2);line-height:2">'+
+    '<p><span style="color:var(--pos);font-weight:700">70-100:</span> 매우 긍정적 (강력 추천)</p>'+
+    '<p><span style="color:var(--pos);font-weight:700">55-69:</span> 긍정적 (추천)</p>'+
+    '<p><span style="color:var(--neu);font-weight:700">45-54:</span> 중립 (관망)</p>'+
+    '<p><span style="color:var(--neg);font-weight:700">30-44:</span> 부정적 (주의)</p>'+
+    '<p><span style="color:var(--neg);font-weight:700">0-29:</span> 매우 부정적 (위험)</p>'+
+    '</div></div>',
+
+    '<div class="modal-sec"><h4>트렌드</h4>'+
+    '<div style="font-size:16px;color:var(--t2);line-height:2">'+
+    '<p>📈 상승: 전주 대비 여론 지수 상승</p>'+
+    '<p>📉 하락: 전주 대비 여론 지수 하락</p>'+
+    '<p>➡️ 보합: 큰 변화 없음</p>'+
+    '</div></div>',
+
+    '<div class="modal-sec"><h4>주의사항</h4>'+
+    '<div style="font-size:15px;color:var(--t3);line-height:1.8">'+
+    '본 지수는 공개된 커뮤니티 데이터를 기반으로 한 추정치이며, 절대적인 평가가 아닙니다. '+
+    '샘플 수가 적은 게임은 지수 변동성이 클 수 있습니다.'+
+    '</div></div>'
+  ].join('');
+  modal.classList.add('on');
+}
+
+// 여론 리포트 신청 팝업
+function openReportModal(){
+  var modal=document.getElementById('game-modal');
+  document.getElementById('modal-title').textContent='📊 여론 리포트 신청';
+  var chartSec=document.getElementById('modal-chart-sec');
+  var vidSec=document.getElementById('modal-videos-sec');
+  if(chartSec)chartSec.style.display='none';
+  if(vidSec)vidSec.style.display='none';
+  var sentEl=document.getElementById('modal-sentiment');
+  var oldUpdate=document.getElementById('modal-update-sec');
+  if(oldUpdate)oldUpdate.remove();
+
+  sentEl.innerHTML=[
+    '<div class="modal-sec"><h4>여론 리포트 신청</h4>'+
+    '<div style="font-size:16px;color:var(--t2);line-height:2;margin-bottom:16px">'+
+    '원하는 게임의 일일 여론 리포트를 이메일로 받아보세요. 매일 아침 해당 게임의 여론 동향, 긍정/부정 키워드, 주요 이슈를 정리해 발송합니다.'+
+    '</div></div>',
+
+    '<div class="modal-sec"><h4>리포트 신청 정보</h4>'+
+    '<div style="display:flex;flex-direction:column;gap:12px">'+
+    '<div><label style="font-size:15px;color:var(--t2);font-weight:600">이메일</label>'+
+    '<input type="email" id="report-email" placeholder="example@email.com" style="width:100%;padding:10px 14px;border-radius:8px;border:1px solid var(--border);background:var(--surface);color:var(--t1);font-size:16px;margin-top:4px"></div>'+
+
+    '<div><label style="font-size:15px;color:var(--t2);font-weight:600">게임명</label>'+
+    '<input type="text" id="report-game" placeholder="예: SOL 인챈트, 명조, 원신..." style="width:100%;padding:10px 14px;border-radius:8px;border:1px solid var(--border);background:var(--surface);color:var(--t1);font-size:16px;margin-top:4px"></div>'+
+
+    '<div><label style="font-size:15px;color:var(--t2);font-weight:600">수신 빈도</label>'+
+    '<select id="report-freq" style="width:100%;padding:10px 14px;border-radius:8px;border:1px solid var(--border);background:var(--surface);color:var(--t1);font-size:16px;margin-top:4px">'+
+    '<option value="daily">매일 아침 8시</option>'+
+    '<option value="weekly">매주 월요일</option>'+
+    '<option value="event">이벤트 발생 시만</option>'+
+    '</select></div>'+
+
+    '<div><label style="font-size:15px;color:var(--t2);font-weight:600">추가 요청사항 (선택)</label>'+
+    '<textarea id="report-note" placeholder="예: 경쟁 게임과 비교 분석 포함, 중국 시장 여론도 함께..." style="width:100%;padding:10px 14px;border-radius:8px;border:1px solid var(--border);background:var(--surface);color:var(--t1);font-size:16px;margin-top:4px;min-height:80px;resize:vertical"></textarea></div>'+
+    '</div></div>',
+
+    '<div class="modal-sec"><h4>첨부파일 (양식)</h4>'+
+    '<div style="font-size:15px;color:var(--t3);margin-bottom:8px">원하는 리포트 양식이 있으면 첨부해주세요. 미첨부 시 기본 양식으로 발송됩니다.</div>'+
+    '<input type="file" id="report-file" accept=".pdf,.doc,.docx,.hwp,.xlsx,.png,.jpg" style="font-size:15px;color:var(--t2);padding:8px;border:1px dashed var(--border);border-radius:8px;width:100%">'+
+    '<div id="report-file-name" style="font-size:14px;color:var(--t3);margin-top:4px"></div>'+
+    '</div>',
+
+    '<div class="modal-sec"><h4>기본 리포트 양식</h4>'+
+    '<div style="font-size:15px;color:var(--t2);line-height:2;padding:12px;border-radius:8px;background:var(--bg3);border-left:3px solid var(--accent)">'+
+    '<p><strong>1. 여론 요약</strong> — 전일 대비 지수 변화, 핵심 요약 (3줄)</p>'+
+    '<p><strong>2. 긍정/부정 키워드</strong> — Top 5 키워드 + 언급량</p>'+
+    '<p><strong>3. 소스별 분석</strong> — DC/GP/YT/아카 각 소스의 여론 동향</p>'+
+    '<p><strong>4. 주요 이슈</strong> — 전날 화제가 된 게시글/댓글 요약</p>'+
+    '<p><strong>5. 트렌드 전망</strong> — 향후 1주일 여론 예측</p>'+
+    '<p><strong>6. 경쟁 게임 비교</strong> — 동 장르 타 게임 여론 지수 비교</p>'+
+    '</div></div>',
+
+    '<div style="text-align:center;margin-top:16px">'+
+    '<button onclick="submitReport()" style="padding:12px 32px;border-radius:8px;border:none;background:var(--accent);color:#fff;cursor:pointer;font-size:16px;font-weight:700">신청하기</button>'+
+    '</div>',
+
+    '<div id="report-result" style="display:none;text-align:center;padding:16px;margin-top:12px;border-radius:8px;background:var(--pos-soft);color:var(--pos);font-size:16px;font-weight:600">'+
+    '✅ 리포트 신청이 완료되었습니다! 확인 이메일이 발송됩니다.'+
+    '</div>'
+  ].join('');
+  modal.classList.add('on');
+}
+
+// 리포트 신청 제출
+function submitReport(){
+  var email=document.getElementById('report-email');
+  var game=document.getElementById('report-game');
+  var freq=document.getElementById('report-freq');
+  var note=document.getElementById('report-note');
+  var file=document.getElementById('report-file');
+  var result=document.getElementById('report-result');
+
+  if(!email||!email.value||!email.value.includes('@')){
+    alert('이메일을 입력해주세요');
+    return;
+  }
+  if(!game||!game.value){
+    alert('게임명을 입력해주세요');
+    return;
+  }
+
+  // 로컬 스토리지에 저장 (백엔드 연결 전 임시)
+  var reportData={
+    email:email.value,
+    game:game.value,
+    freq:freq?freq.value:'daily',
+    note:note?note.value:'',
+    file:file&&file.files[0]?file.files[0].name:'',
+    date:new Date().toISOString()
+  };
+
+  var reports=JSON.parse(localStorage.getItem('report_subscriptions')||'[]');
+  reports.push(reportData);
+  localStorage.setItem('report_subscriptions',JSON.stringify(reports));
+
+  if(result){
+    result.style.display='block';
+    result.innerHTML='✅ 리포트 신청 완료!<br><span style="font-size:14px;font-weight:400">'+email.value+'로 매일 아침 발송됩니다.</span>';
+  }
+}
+
 function openRevPopup(gameName){
   var modal=document.getElementById('game-modal');
   document.getElementById('modal-title').textContent='매출 추정 방식 — '+gameName;
