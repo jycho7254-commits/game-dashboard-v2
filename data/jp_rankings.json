@@ -14,19 +14,6 @@
   },
   {
     "rank": 2,
-    "title": "ホロライブドリームス",
-    "developer": "QualiArts, Inc.",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "game.qualiarts.hololive.dreams.jp",
-    "local_name": "ホロライブドリームス",
-    "icon": "https://play-lh.googleusercontent.com/j00IPpPSDv3cGqoKVIDf0qnCw6EbZQ4KpgMr10UWkf8Rm1qO9vCSoVhJwfCF1PbbKxV_Qt_eqZ_Sp4QMHuhwYBI",
-    "est_revenue": 12460775,
-    "est_revenue_fmt": "$12.46M",
-    "est_revenue_won": "186.9억"
-  },
-  {
-    "rank": 3,
     "title": "ブルーアーカイブ",
     "developer": "Yostar, Inc.",
     "genre": "Game",
@@ -37,6 +24,19 @@
     "est_revenue": 10000000,
     "est_revenue_fmt": "$10.00M",
     "est_revenue_won": "150.0억"
+  },
+  {
+    "rank": 3,
+    "title": "ホロライブドリームス",
+    "developer": "QualiArts, Inc.",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "game.qualiarts.hololive.dreams.jp",
+    "local_name": "ホロライブドリームス",
+    "icon": "https://play-lh.googleusercontent.com/j00IPpPSDv3cGqoKVIDf0qnCw6EbZQ4KpgMr10UWkf8Rm1qO9vCSoVhJwfCF1PbbKxV_Qt_eqZ_Sp4QMHuhwYBI",
+    "est_revenue": 12460775,
+    "est_revenue_fmt": "$12.46M",
+    "est_revenue_won": "186.9억"
   },
   {
     "rank": 4,
@@ -352,19 +352,6 @@
   },
   {
     "rank": 28,
-    "title": "アークナイツ",
-    "developer": "Yostar, Inc.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.YoStarJP.Arknights",
-    "local_name": "アークナイツ",
-    "icon": "https://play-lh.googleusercontent.com/d768LvyQ1JVrv4K0900kVB-CpfKf_eFvHV22q7sLHk_JTZugf_qe4lOxbo5O_BMUO8cflqNkJk-SEshJDzX5zA",
-    "est_revenue": 1883170,
-    "est_revenue_fmt": "$1.88M",
-    "est_revenue_won": "28.2억"
-  },
-  {
-    "rank": 29,
     "title": "Genshin Impact",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -377,7 +364,7 @@
     "est_revenue_won": "20.9억"
   },
   {
-    "rank": 30,
+    "rank": 29,
     "title": "信長の野望 真戦",
     "developer": "Qookka Games",
     "genre": "Game",
@@ -390,7 +377,7 @@
     "est_revenue_won": "30.9억"
   },
   {
-    "rank": 31,
+    "rank": 30,
     "title": "LINE Pokopoko",
     "developer": "LINE (LY Corporation)",
     "genre": "Game",
@@ -403,7 +390,7 @@
     "est_revenue_won": "22.8억"
   },
   {
-    "rank": 32,
+    "rank": 31,
     "title": "Gardenscapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -416,7 +403,7 @@
     "est_revenue_won": "21.8억"
   },
   {
-    "rank": 33,
+    "rank": 32,
     "title": "Wizardry Variants Daphne",
     "developer": "株式会社ドリコム",
     "genre": "Game",
@@ -427,6 +414,19 @@
     "est_revenue": 2520035,
     "est_revenue_fmt": "$2.52M",
     "est_revenue_won": "37.8억"
+  },
+  {
+    "rank": 33,
+    "title": "アークナイツ",
+    "developer": "Yostar, Inc.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.YoStarJP.Arknights",
+    "local_name": "アークナイツ",
+    "icon": "https://play-lh.googleusercontent.com/d768LvyQ1JVrv4K0900kVB-CpfKf_eFvHV22q7sLHk_JTZugf_qe4lOxbo5O_BMUO8cflqNkJk-SEshJDzX5zA",
+    "est_revenue": 1883170,
+    "est_revenue_fmt": "$1.88M",
+    "est_revenue_won": "28.2억"
   },
   {
     "rank": 34,
