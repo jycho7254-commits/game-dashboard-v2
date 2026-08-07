@@ -248,7 +248,7 @@ canvas{max-width:100%!important}
 <nav class="topbar">
 <div class="topbar-inner">
 <div class="topbar-right">
-<span class="meta" id="update-time">2026-08-07 15:10</span>
+<span class="meta" id="update-time">2026-08-07 15:13</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 </div>
 <div class="topbar-title">Game Market Insight</div>
@@ -647,6 +647,11 @@ function setCountry(c,el,ctx){
     var parent=el.parentElement;
     parent.querySelectorAll('.ctab').forEach(function(t){t.classList.remove('on')});
     el.classList.add('on');
+  }
+  // 여론 리포트/지수기준 버튼 — 한국/전체만 표시
+  var sentBtns=document.querySelector('#sent-card > div[style*="display:flex"]');
+  if(sentBtns){
+    sentBtns.style.display=(c==='kr'||c==='all')?'flex':'none';
   }
   var activeTabEl=document.querySelector('.tc.on');
   if(activeTab==='overview')loadOverview();
@@ -2246,9 +2251,12 @@ function openReportModal(){
 
     '<div><label style="font-size:15px;color:var(--t2);font-weight:600">수신 빈도</label>'+
     '<select id="report-freq" style="width:100%;padding:10px 14px;border-radius:8px;border:1px solid var(--border);background:var(--surface);color:var(--t1);font-size:16px;margin-top:4px">'+
-    '<option value="daily">매일 아침 8시</option>'+
-    '<option value="weekly">매주 월요일</option>'+
-    '<option value="event">이벤트 발생 시만</option>'+
+    '<option value="daily-8">매일 오전 8시</option>'+
+    '<option value="daily-12">매일 오후 12시</option>'+
+    '<option value="daily-18">매일 오후 6시</option>'+
+    '<option value="hourly-am">오전 매 시간 (9시~12시)</option>'+
+    '<option value="hourly-pm">오후 매 시간 (1시~6시)</option>'+
+    '<option value="hourly-all">매 시간 (9시~6시)</option>'+
     '</select></div>'+
 
     '<div><label style="font-size:15px;color:var(--t2);font-weight:600">추가 요청사항 (선택)</label>'+
@@ -2261,22 +2269,21 @@ function openReportModal(){
     '<div id="report-file-name" style="font-size:14px;color:var(--t3);margin-top:4px"></div>'+
     '</div>',
 
-    '<div class="modal-sec"><h4>기본 리포트 양식 (4호 표준)</h4>'+
+    '<div class="modal-sec"><h4>기본 리포트 양식</h4>'+
     '<div style="font-size:15px;color:var(--t2);line-height:2;padding:12px;border-radius:8px;background:var(--bg3);border-left:3px solid var(--accent)">'+
     '<p><strong>1. 헤더</strong> — 게임명 + 발행일 + 수집 기간 + 수집 소스 + 키워드</p>'+
     '<p><strong>2. 수집 통계</strong> — 총 건수 / 긍정 / 중립 / 부정 건수</p>'+
-    '<p><strong>3. 플랫폼별 핫 게시물</strong> — DC/아카/X/Discord/News 각 최고 스코어 게시물</p>'+
+    '<p><strong>3. 플랫폼별 핫 게시물</strong> — DC/아카/X/News 각 최고 스코어 게시물</p>'+
     '<p><strong>4. 동향 분포 분석</strong> — 소스별 수집 건수 막대그래프 + 감정 분포 도넛차트 + 토픽별 분포</p>'+
     '<p><strong>5. 소스별 상세 분석</strong> — 소스/수집건수/긍정/중립/부정/긍정비율/주요토픽 표</p>'+
-    '<p><strong>6. Discord 여론</strong> — 채널별 게임담화/잡담 감정 분석</p>'+
-    '<p><strong>7. X/트위터 동향</strong> — 감정 분포 도넛차트 + 게시물 목록 (일본어 원문 + 한국어 해설)</p>'+
-    '<p><strong>8. DC 갤러리</strong> — 게시물 목록 (추천/댓글/토픽/감정태그 + 링크)</p>'+
-    '<p><strong>9. 아카라이브</strong> — 감정 분포 + 토픽 분포 + 게시물 목록</p>'+
-    '<p><strong>10. TOP 10 핫 게시물</strong> — 스코어 순위 (추천+댓글×2 가중치)</p>'+
-    '<p><strong>11. 긍정 동향 분석</strong> — 한국/해외 긍정 반응 상세</p>'+
-    '<p><strong>12. 부정 동향 분석</strong> — 한국/해외 부정 반응 + 비율 정상 범위 여부</p>'+
-    '<p><strong>13. 플랫폼별 주요 토론 & 불만</strong> — 소스별 불만 게시물 정리</p>'+
-    '<p><strong>14. 결론 및 종합 분석</strong> — 전체 상황 요약 + 소스별 핵심 + 토픽 상세 + 화제 게시물</p>'+
+    '<p><strong>6. X/트위터 동향</strong> — 감정 분포 도넛차트 + 게시물 목록 (일본어 원문 + 한국어 해설)</p>'+
+    '<p><strong>7. DC 갤러리</strong> — 게시물 목록 (추천/댓글/토픽/감정태그 + 링크)</p>'+
+    '<p><strong>8. 아카라이브</strong> — 감정 분포 + 토픽 분포 + 게시물 목록</p>'+
+    '<p><strong>9. TOP 10 핫 게시물</strong> — 스코어 순위 (추천+댓글×2 가중치)</p>'+
+    '<p><strong>10. 긍정 동향 분석</strong> — 긍정 반응 상세</p>'+
+    '<p><strong>11. 부정 동향 분석</strong> — 부정 반응 + 비율 정상 범위 여부</p>'+
+    '<p><strong>12. 플랫폼별 주요 토론 & 불만</strong> — 소스별 불만 게시물 정리</p>'+
+    '<p><strong>13. 결론 및 종합 분석</strong> — 전체 상황 요약 + 소스별 핵심 + 토픽 상세 + 화제 게시물</p>'+
     '</div>'+
     '<div style="font-size:14px;color:var(--t3);margin-top:8px">첨부파일 미제출 시 위 양식으로 발송됩니다. 양식 커스텀 시 첨부파일에 업로드해주세요.</div>'+
     '</div>',
