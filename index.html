@@ -1084,10 +1084,8 @@ function renderRank(q){
     var jpTop10=(JP||[]).slice(0,10).map(function(g){return g.est_revenue||0});
     var labels=[];
     for(var i=0;i<10;i++){
-      var krName=(GP||[])[i]?((GP||[])[i].local_name||'').slice(0,6):'';
-      var cnName=(CN||[])[i]?((CN||[])[i].title||'').slice(0,6):'';
-      var jpName=(JP||[])[i]?((JP||[])[i].local_name||(JP||[])[i].title||'').slice(0,6):'';
-      labels.push((i+1)+'. '+krName+'/'+cnName+'/'+jpName);
+      var krName=(GP||[])[i]?((GP||[])[i].local_name||'').slice(0,8):'';
+      labels.push((i+1)+'. '+krName);
     }
     window.rankChart=new Chart(ctx,{
       type:'bar',
