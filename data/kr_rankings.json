@@ -131,19 +131,6 @@
   },
   {
     "rank": 11,
-    "title": "Roblox",
-    "developer": "Roblox Corporation",
-    "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.roblox.client",
-    "local_name": "로블록스",
-    "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
-    "est_revenue": 1727818,
-    "est_revenue_fmt": "$1.73M",
-    "est_revenue_won": "25.9억"
-  },
-  {
-    "rank": 12,
     "title": "Gossip Harbor®: Merge & Story",
     "developer": "Microfun Limited",
     "genre": "Game",
@@ -156,7 +143,7 @@
     "est_revenue_won": "22.0억"
   },
   {
-    "rank": 13,
+    "rank": 12,
     "title": "Zenless Zone Zero - Anniv.",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -169,7 +156,7 @@
     "est_revenue_won": "74.8억"
   },
   {
-    "rank": 14,
+    "rank": 13,
     "title": "한게임 포커",
     "developer": "NHN Corp.",
     "genre": "Game",
@@ -182,7 +169,7 @@
     "est_revenue_won": "18.6억"
   },
   {
-    "rank": 15,
+    "rank": 14,
     "title": "Royal Match",
     "developer": "Dream Games, Ltd.",
     "genre": "Game",
@@ -193,6 +180,19 @@
     "est_revenue": 1587240,
     "est_revenue_fmt": "$1.59M",
     "est_revenue_won": "23.8억"
+  },
+  {
+    "rank": 15,
+    "title": "Roblox",
+    "developer": "Roblox Corporation",
+    "genre": "Game",
+    "rating": 3.8,
+    "app_id": "com.roblox.client",
+    "local_name": "로블록스",
+    "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
+    "est_revenue": 1727818,
+    "est_revenue_fmt": "$1.73M",
+    "est_revenue_won": "25.9억"
   },
   {
     "rank": 16,
