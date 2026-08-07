@@ -158,16 +158,20 @@ tr:last-child td{border-bottom:none}
 .inf-pager button:disabled{opacity:.35;cursor:not-allowed}
 .inf-pager .pinfo{font-size:15px;color:var(--t3);margin:0 6px}
 @media(max-width:768px){
-/* 상단바 */
+/* 상단바 — 모바일 세로 재배치 */
 .topbar{position:sticky;top:0;z-index:200}
-.topbar-inner{flex-wrap:wrap;padding:0 10px;gap:6px}
-.topbar-logo{padding:8px 0;font-size:15px}
-.topbar-logo small{display:none}
+.topbar-inner{flex-wrap:wrap;padding:0 10px;gap:4px}
+/* 첫 줄: 시간 + 다크모드 + 로그인 */
+.topbar-inner>span:first-child,.topbar-inner>div:first-child{display:flex;flex-direction:row;align-items:center;justify-content:space-between;width:100%;padding:4px 0}
+.topbar-logo{padding:4px 0;font-size:13px}
+.topbar-right{position:relative!important;right:auto!important;top:auto!important;width:100%;justify-content:flex-end}
+/* 둘째 줄: 타이틀 */
+.topbar-title{padding:4px 0;font-size:16px}
+/* 셋째 줄: 탭 메뉴 */
 .topbar-tabs{order:3;width:100%;border-top:1px solid var(--border);overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch}
 .topbar-tabs::-webkit-scrollbar{display:none}
-.topbar-tabs a{padding:8px 10px;font-size:15px;white-space:nowrap}
-.topbar-right{margin-left:auto}
-.topbar-right .meta{font-size:14px}
+.topbar-tabs a{padding:8px 10px;font-size:13px;white-space:nowrap}
+.topbar-right .meta{font-size:13px}
 /* 메인 콘텐츠 */
 .mn{padding:12px 10px!important;max-width:100%!important;margin:0!important}
 .header{margin-bottom:12px}
