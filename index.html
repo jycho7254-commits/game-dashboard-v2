@@ -240,6 +240,14 @@ canvas{max-width:100%!important}
 .topbar-tabs a{padding:6px 7px;font-size:14px}
 }
 </style>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script>
+const SUPABASE_URL='https://csenbounuattwcivyuho.supabase.co';
+const SUPABASE_KEY='sb_publishable_fYfb017lB4Xku_Gni_5pxQ_T-q1fluV';
+let sb=null;
+let currentUser=null;
+try{sb=window.supabase.createClient(SUPABASE_URL,SUPABASE_KEY,{auth:{persistSession:true,autoRefreshToken:true}});}catch(e){console.log('Supabase init deferred');}
+</script>
 </head>
 <body>
 <div class="ad-left" id="ad-left"><!-- 좌측 광고 영역 (AdSense 승인 후 활성화) --></div>
@@ -248,8 +256,16 @@ canvas{max-width:100%!important}
 <nav class="topbar">
 <div class="topbar-inner">
 <div class="topbar-right">
-<span class="meta" id="update-time">2026-08-07 15:56</span>
+<span class="meta" id="update-time">2026-08-07 15:59</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
+<span id="auth-area" style="display:flex;align-items:center;gap:6px">
+<button id="login-btn" onclick="openAuthModal('login')" style="padding:5px 14px;border-radius:6px;border:1px solid var(--accent);background:transparent;color:var(--accent);cursor:pointer;font-size:14px;font-weight:600">로그인</button>
+<button id="signup-btn" onclick="openAuthModal('signup')" style="padding:5px 14px;border-radius:6px;border:1px solid var(--accent);background:var(--accent);color:#fff;cursor:pointer;font-size:14px;font-weight:600">회원가입</button>
+</span>
+<span id="user-area" style="display:none;align-items:center;gap:6px">
+<span id="user-email" style="font-size:14px;color:var(--t2);max-width:150px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap"></span>
+<button onclick="logout()" style="padding:5px 12px;border-radius:6px;border:1px solid var(--border);background:var(--surface);color:var(--t2);cursor:pointer;font-size:14px">로그아웃</button>
+</span>
 </div>
 <div class="topbar-title">Game Market Insight</div>
 <div class="topbar-tabs">
@@ -465,6 +481,27 @@ canvas{max-width:100%!important}
 <div class="modal-sec" id="modal-chart-sec" style="border-top:1px solid var(--border);padding-top:12px;margin-top:12px"><h4>📊 매출 순위 추이 (최근 7일)</h4><canvas id="modal-chart" width="600" height="200"></canvas></div>
 <div class="modal-sec" style="border-top:1px solid var(--border);padding-top:12px;margin-top:12px"><h4>💬 여론 요약</h4><div id="modal-sentiment" style="font-size:15px;color:var(--t2);line-height:1.8"></div></div>
 <div class="modal-sec" id="modal-videos-sec" style="border-top:1px solid var(--border);padding-top:12px;margin-top:12px"><h4>🎬 최근 영상</h4><div id="modal-videos"></div></div>
+</div>
+</div>
+
+<!-- ===== 회원가입/로그인 모달 ===== -->
+<div class="modal-bg" id="auth-modal" onclick="if(event.target===this)closeAuthModal()">
+<div class="modal" style="max-width:420px">
+<span class="modal-close" onclick="closeAuthModal()">✕</span>
+<h2 id="auth-title">로그인</h2>
+<div style="display:flex;flex-direction:column;gap:12px;margin-top:16px">
+<div><label style="font-size:15px;color:var(--t2);font-weight:600">이메일</label>
+<input type="email" id="auth-email" placeholder="example@email.com" style="width:100%;padding:12px 14px;border-radius:8px;border:1px solid var(--border);background:var(--surface);color:var(--t1);font-size:16px;margin-top:4px"></div>
+<div><label style="font-size:15px;color:var(--t2);font-weight:600">비밀번호</label>
+<input type="password" id="auth-password" placeholder="6자 이상" style="width:100%;padding:12px 14px;border-radius:8px;border:1px solid var(--border);background:var(--surface);color:var(--t1);font-size:16px;margin-top:4px"></div>
+<button id="auth-submit" onclick="handleAuth()" style="padding:14px;border-radius:8px;border:none;background:var(--accent);color:#fff;cursor:pointer;font-size:16px;font-weight:700;margin-top:4px">로그인</button>
+<div id="auth-error" style="display:none;padding:10px;border-radius:6px;background:rgba(231,76,60,.15);color:#e74c3c;font-size:14px"></div>
+<div id="auth-success" style="display:none;padding:10px;border-radius:6px;background:rgba(39,174,96,.15);color:#27ae60;font-size:14px"></div>
+<div style="text-align:center;margin-top:8px">
+<span id="auth-switch-text" style="font-size:14px;color:var(--t3)">계정이 없으신가요?</span>
+<a id="auth-switch-link" onclick="openAuthModal('signup')" style="font-size:14px;color:var(--accent);cursor:pointer;font-weight:600;margin-left:4px">회원가입</a>
+</div>
+</div>
 </div>
 </div>
 
@@ -2166,6 +2203,118 @@ function _findYT(gameName){
   return null;
 }
 
+// ===== 회원 인증 (Supabase) =====
+let authMode='login';
+
+function openAuthModal(mode){
+  authMode=mode;
+  var modal=document.getElementById('auth-modal');
+  var title=document.getElementById('auth-title');
+  var submit=document.getElementById('auth-submit');
+  var switchText=document.getElementById('auth-switch-text');
+  var switchLink=document.getElementById('auth-switch-link');
+  var err=document.getElementById('auth-error');
+  var suc=document.getElementById('auth-success');
+  if(err)err.style.display='none';
+  if(suc)suc.style.display='none';
+  if(mode==='signup'){
+    title.textContent='회원가입';
+    submit.textContent='회원가입';
+    switchText.textContent='이미 계정이 있으신가요?';
+    switchLink.textContent='로그인';
+    switchLink.setAttribute('onclick','openAuthModal(\'login\')');
+  } else {
+    title.textContent='로그인';
+    submit.textContent='로그인';
+    switchText.textContent='계정이 없으신가요?';
+    switchLink.textContent='회원가입';
+    switchLink.setAttribute('onclick','openAuthModal(\'signup\')');
+  }
+  modal.classList.add('on');
+}
+
+function closeAuthModal(){
+  document.getElementById('auth-modal').classList.remove('on');
+}
+
+async function handleAuth(){
+  var email=document.getElementById('auth-email').value;
+  var password=document.getElementById('auth-password').value;
+  var errEl=document.getElementById('auth-error');
+  var sucEl=document.getElementById('auth-success');
+
+  if(!email||!password){
+    if(errEl){errEl.textContent='이메일과 비밀번호를 입력해주세요';errEl.style.display='block';}
+    return;
+  }
+  if(password.length<6){
+    if(errEl){errEl.textContent='비밀번호는 6자 이상이어야 합니다';errEl.style.display='block';}
+    return;
+  }
+
+  try{
+    if(!sb){if(errEl){errEl.textContent='서버 연결 대기 중... 잠시 후 다시 시도해주세요';errEl.style.display='block';}return;}
+
+    if(authMode==='signup'){
+      var{data,error}=await sb.auth.signUp({email:email,password:password});
+      if(error)throw error;
+      if(sucEl){sucEl.textContent='✅ 회원가입 완료! 이메일을 확인해주세요.';sucEl.style.display='block';}
+    } else {
+      var{data,error}=await sb.auth.signInWithPassword({email:email,password:password});
+      if(error)throw error;
+      currentUser=data.user;
+      updateAuthUI(data.user);
+      closeAuthModal();
+    }
+  } catch(e){
+    if(errEl){errEl.textContent='❌ '+e.message;errEl.style.display='block';}
+  }
+}
+
+async function logout(){
+  try{
+    if(sb)await sb.auth.signOut();
+    currentUser=null;
+    updateAuthUI(null);
+  }catch(e){}
+}
+
+function updateAuthUI(user){
+  var authArea=document.getElementById('auth-area');
+  var userArea=document.getElementById('user-area');
+  var userEmail=document.getElementById('user-email');
+  if(user){
+    if(authArea)authArea.style.display='none';
+    if(userArea)userArea.style.display='flex';
+    if(userEmail)userEmail.textContent=user.email||'';
+  } else {
+    if(authArea)authArea.style.display='flex';
+    if(userArea)userArea.style.display='none';
+  }
+}
+
+// 페이지 로드 시 세션 확인
+async function initAuth(){
+  try{
+    if(!sb)return;
+    var{data}=await sb.auth.getSession();
+    if(data&&data.session){
+      currentUser=data.session.user;
+      updateAuthUI(currentUser);
+    }
+    // 세션 변화 감지
+    sb.auth.onAuthStateChange(function(event,session){
+      if(session&&session.user){
+        currentUser=session.user;
+        updateAuthUI(session.user);
+      } else {
+        currentUser=null;
+        updateAuthUI(null);
+      }
+    });
+  }catch(e){}
+}
+
 // 매출 추정 방식 팝업
 // 여론 지수 기준 팝업
 function openSentCriteria(){
@@ -2300,7 +2449,7 @@ function openReportModal(){
 }
 
 // 리포트 신청 제출
-function submitReport(){
+async function submitReport(){
   var email=document.getElementById('report-email');
   var game=document.getElementById('report-game');
   var freq=document.getElementById('report-freq');
@@ -2317,23 +2466,55 @@ function submitReport(){
     return;
   }
 
-  // 로컬 스토리지에 저장 (백엔드 연결 전 임시)
   var reportData={
     email:email.value,
     game:game.value,
-    freq:freq?freq.value:'daily',
+    freq:freq?freq.value:'daily-8',
     note:note?note.value:'',
-    file:file&&file.files[0]?file.files[0].name:'',
-    date:new Date().toISOString()
+    file_name:file&&file.files[0]?file.files[0].name:'',
+    user_id:currentUser?currentUser.id:null
   };
 
-  var reports=JSON.parse(localStorage.getItem('report_subscriptions')||'[]');
-  reports.push(reportData);
-  localStorage.setItem('report_subscriptions',JSON.stringify(reports));
+  // 파일이 있으면 Supabase Storage에 업로드
+  if(file&&file.files[0]&&sb){
+    try{
+      var f=file.files[0];
+      var filePath='report-templates/'+Date.now()+'_'+f.name;
+      var{data:upData,error:upError}=await sb.storage.from('report-templates')
+        .upload(filePath,f,{contentType:f.type||'application/octet-stream'});
+      if(!upError){
+        var{data:urlData}=await sb.storage.from('report-templates').createSignedUrl(filePath,3600);
+        reportData.file_url=urlData?urlData.signedUrl:'';
+        reportData.file_path=filePath;
+      }
+    }catch(e){console.log('File upload skipped:',e.message);}
+  }
+
+  // Supabase DB에 저장
+  if(sb){
+    try{
+      var{data:insertData,error:insertError}=await sb.from('report_subscriptions').insert([reportData]).select();
+      if(insertError){
+        // 테이블이 없으면 localStorage fallback
+        console.log('DB insert skipped:',insertError.message);
+        var reports=JSON.parse(localStorage.getItem('report_subscriptions')||'[]');
+        reports.push(reportData);
+        localStorage.setItem('report_subscriptions',JSON.stringify(reports));
+      }
+    }catch(e){
+      var reports2=JSON.parse(localStorage.getItem('report_subscriptions')||'[]');
+      reports2.push(reportData);
+      localStorage.setItem('report_subscriptions',JSON.stringify(reports2));
+    }
+  } else {
+    var reports3=JSON.parse(localStorage.getItem('report_subscriptions')||'[]');
+    reports3.push(reportData);
+    localStorage.setItem('report_subscriptions',JSON.stringify(reports3));
+  }
 
   if(result){
     result.style.display='block';
-    result.innerHTML='✅ 리포트 신청 완료!<br><span style="font-size:14px;font-weight:400">'+email.value+'로 매일 아침 발송됩니다.</span>';
+    result.innerHTML='✅ 리포트 신청 완료!<br><span style="font-size:14px;font-weight:400">'+email.value+'로 발송됩니다.</span>';
   }
 }
 
@@ -2701,7 +2882,7 @@ function initAds(){
     (adsbygoogle=window.adsbygoogle||[]).push({});
   });
 }
-document.addEventListener('DOMContentLoaded',function(){try{initAds()}catch(e){}});
+document.addEventListener('DOMContentLoaded',function(){try{initAds()}catch(e){}try{initAuth()}catch(e){}});
 </script>
 <!-- 구글 애드센스 -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script>
