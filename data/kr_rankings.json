@@ -1,19 +1,6 @@
 [
   {
     "rank": 1,
-    "title": "SOL: enchant",
-    "developer": "Netmarble",
-    "genre": "Game",
-    "rating": 2.5,
-    "app_id": "com.netmarble.sol",
-    "local_name": "SOL: 인챈트",
-    "icon": "https://play-lh.googleusercontent.com/eRGPrWXzheZvTiTRBDBuaysX8ptDH5xasKV8rzWmuEKA9WsXfftcybnz9zQB89Iiqx7WKa_naS_WK5DdT1KB",
-    "est_revenue": 8000000,
-    "est_revenue_fmt": "$8.00M",
-    "est_revenue_won": "120.0억"
-  },
-  {
-    "rank": 2,
     "title": "리니지M",
     "developer": "NC Corporation",
     "genre": "Game",
@@ -24,6 +11,19 @@
     "est_revenue": 5935310,
     "est_revenue_fmt": "$5.94M",
     "est_revenue_won": "89.0억"
+  },
+  {
+    "rank": 2,
+    "title": "SOL: enchant",
+    "developer": "Netmarble",
+    "genre": "Game",
+    "rating": 2.5,
+    "app_id": "com.netmarble.sol",
+    "local_name": "SOL: 인챈트",
+    "icon": "https://play-lh.googleusercontent.com/eRGPrWXzheZvTiTRBDBuaysX8ptDH5xasKV8rzWmuEKA9WsXfftcybnz9zQB89Iiqx7WKa_naS_WK5DdT1KB",
+    "est_revenue": 8000000,
+    "est_revenue_fmt": "$8.00M",
+    "est_revenue_won": "120.0억"
   },
   {
     "rank": 3,
