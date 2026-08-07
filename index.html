@@ -248,7 +248,7 @@ canvas{max-width:100%!important}
 <nav class="topbar">
 <div class="topbar-inner">
 <div class="topbar-right">
-<span class="meta" id="update-time">2026-08-07 14:45</span>
+<span class="meta" id="update-time">2026-08-07 14:48</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 </div>
 <div class="topbar-title">Game Market Insight</div>
@@ -330,7 +330,12 @@ canvas{max-width:100%!important}
 </div>
 <div class="kpis" id="sent-kpis"></div>
 <input class="search" placeholder="게임명 검색..." oninput="renderSentiment(this.value)" id="sent-search">
-<div class="card" id="sent-card"><h3 id="sent-title">💬 게임별 여론 지수 <button onclick="openSentCriteria()" style="font-size:14px;padding:4px 12px;border-radius:6px;border:1px solid var(--border);background:var(--surface);color:var(--t2);cursor:pointer;font-weight:600;margin-left:8px">여론 지수 기준</button> <button onclick="openReportModal()" style="font-size:14px;padding:4px 12px;border-radius:6px;border:1px solid var(--accent);background:var(--accent);color:#fff;cursor:pointer;font-weight:600;margin-left:4px">📊 여론 리포트</button></h3><table id="sent-table"><thead><tr><th>게임</th><th>소스</th><th>지수</th><th>긍정</th><th>부정</th><th>트렌드</th><th>샘플</th></tr></thead><tbody></tbody></table></div>
+<div class="card" id="sent-card"><h3 id="sent-title">💬 게임별 여론 지수</h3>
+<div style="display:flex;gap:8px;margin-bottom:12px">
+<button onclick="openSentCriteria()" style="padding:8px 16px;border-radius:8px;border:1px solid var(--border);background:var(--surface);color:var(--t2);cursor:pointer;font-size:15px;font-weight:600">📋 여론 지수 기준</button>
+<button onclick="openReportModal()" style="padding:8px 16px;border-radius:8px;border:1px solid var(--accent);background:var(--accent);color:#fff;cursor:pointer;font-size:15px;font-weight:600">📊 여론 리포트 신청</button>
+</div>
+<table id="sent-table"><thead><tr><th>게임</th><th>소스</th><th>지수</th><th>긍정</th><th>부정</th><th>트렌드</th><th>샘플</th></tr></thead><tbody></tbody></table></div>
 </div>
 
 <!-- ===== 인플루언서 ===== -->
