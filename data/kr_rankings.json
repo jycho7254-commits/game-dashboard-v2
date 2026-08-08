@@ -430,6 +430,19 @@
   },
   {
     "rank": 34,
+    "title": "Brawl Stars",
+    "developer": "Supercell",
+    "genre": "Game",
+    "rating": 3.7,
+    "app_id": "com.supercell.brawlstars",
+    "local_name": "Brawl Stars",
+    "icon": "https://play-lh.googleusercontent.com/c0hXyphuxh-gpnhSJGZV1I0IpWbq9IdEc1pautS7SmHlXNBrCff7bMqK-u63pJdfP3KJoxamG7W1dRMKr7ZzWKs",
+    "est_revenue": 444763,
+    "est_revenue_fmt": "$445K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 35,
     "title": "hololive Dreams",
     "developer": "QualiArts, Inc.",
     "genre": "Game",
@@ -442,7 +455,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 35,
+    "rank": 36,
     "title": "뱀피르",
     "developer": "Netmarble",
     "genre": "Game",
@@ -455,7 +468,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 36,
+    "rank": 37,
     "title": "트릭컬 리바이브",
     "developer": "EPIDGames",
     "genre": "Game",
@@ -465,19 +478,6 @@
     "icon": "https://play-lh.googleusercontent.com/OCiuBv70Dnuw9wcGet3EtTUF2nEkS1vhYYkvOahe9-MmKg6EhxGkf-9ZVxnWIJXflQSmfOIjTcaSbwJSJyuzHA",
     "est_revenue": 426607,
     "est_revenue_fmt": "$427K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 37,
-    "title": "Brawl Stars",
-    "developer": "Supercell",
-    "genre": "Game",
-    "rating": 3.7,
-    "app_id": "com.supercell.brawlstars",
-    "local_name": "Brawl Stars",
-    "icon": "https://play-lh.googleusercontent.com/c0hXyphuxh-gpnhSJGZV1I0IpWbq9IdEc1pautS7SmHlXNBrCff7bMqK-u63pJdfP3KJoxamG7W1dRMKr7ZzWKs",
-    "est_revenue": 444763,
-    "est_revenue_fmt": "$445K",
     "est_revenue_won": ""
   },
   {
@@ -534,19 +534,6 @@
   },
   {
     "rank": 42,
-    "title": "GIRLS' FRONTLINE 2: EXILIUM",
-    "developer": "HaoPlay Limited",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.haoplay.game.and.exilium",
-    "local_name": "GIRLS' FRONTLINE 2: EXILIUM",
-    "icon": "https://play-lh.googleusercontent.com/N0Cq4MZ9VszB5TH_Wq229R62IuSVn1LfWwB3uhdjb0J_fsRn2hfHWc8XOEH7kAUs7Hg4SB2HLl_LEOj17YkwNQ",
-    "est_revenue": 362336,
-    "est_revenue_fmt": "$362K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 43,
     "title": "Seven Knights Re:BIRTH",
     "developer": "Netmarble",
     "genre": "Game",
@@ -559,7 +546,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 44,
+    "rank": 43,
     "title": "Candy Crush Saga",
     "developer": "King",
     "genre": "Game",
@@ -572,7 +559,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 45,
+    "rank": 44,
     "title": "WPL:Texas Hold'em, MTT, Sit&Go",
     "developer": "Zempot INC.",
     "genre": "Game",
@@ -585,7 +572,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 46,
+    "rank": 45,
     "title": "한게임 신맞고 : 대한민국 원조 고스톱",
     "developer": "NHN Corp.",
     "genre": "Game",
@@ -598,7 +585,33 @@
     "est_revenue_won": ""
   },
   {
+    "rank": 46,
+    "title": "Flambé®: Merge & Cook",
+    "developer": "Microfun Limited",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.cola.game",
+    "local_name": "Flambé®: Merge & Cook",
+    "icon": "https://play-lh.googleusercontent.com/DxEYTS_nNDbesjgAGulDTgl8V2cV42UUmeOGPei2c95XRW7GY_XgihSsaPF7rnRua18Egkd1-siIgbkVjq73Hg",
+    "est_revenue": 0,
+    "est_revenue_fmt": "",
+    "est_revenue_won": ""
+  },
+  {
     "rank": 47,
+    "title": "GIRLS' FRONTLINE 2: EXILIUM",
+    "developer": "HaoPlay Limited",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.haoplay.game.and.exilium",
+    "local_name": "GIRLS' FRONTLINE 2: EXILIUM",
+    "icon": "https://play-lh.googleusercontent.com/N0Cq4MZ9VszB5TH_Wq229R62IuSVn1LfWwB3uhdjb0J_fsRn2hfHWc8XOEH7kAUs7Hg4SB2HLl_LEOj17YkwNQ",
+    "est_revenue": 362336,
+    "est_revenue_fmt": "$362K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 48,
     "title": "리니지M(12)",
     "developer": "NC Corporation",
     "genre": "Game",
@@ -611,7 +624,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 48,
+    "rank": 49,
     "title": "Mystery Town: Merge Games",
     "developer": "Cedar Games Studio",
     "genre": "Game",
@@ -624,7 +637,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 49,
+    "rank": 50,
     "title": "I9: 인페르노 나인",
     "developer": "Leniu Technology Co., Limited",
     "genre": "Game",
@@ -634,19 +647,6 @@
     "icon": "https://play-lh.googleusercontent.com/jZ0P5ZxOE4VorYhs9QmbcxzXi7VYiNqh4I5YlO2JXUdh_5D80ymAagbYxjtP6pGnU_7f_W0gWUVWUm9mIkCI5A",
     "est_revenue": 345567,
     "est_revenue_fmt": "$346K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 50,
-    "title": "토이 삼국",
-    "developer": "Rhinos",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.jsjskr.google",
-    "local_name": "토이 삼국",
-    "icon": "https://play-lh.googleusercontent.com/VUPm7IzftWuDNEmU7LuriZsQrg8QQT84PAPCU9LLDps3wgWGOoiAlRK217YTZNUHkCf8nuyLOJQcT-1LucpwTA",
-    "est_revenue": 0,
-    "est_revenue_fmt": "",
     "est_revenue_won": ""
   }
 ]
