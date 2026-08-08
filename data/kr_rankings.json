@@ -105,19 +105,6 @@
   },
   {
     "rank": 9,
-    "title": "MapleStory : Idle RPG",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.nexon.ma",
-    "local_name": "MapleStory : Idle RPG",
-    "icon": "https://play-lh.googleusercontent.com/iqpY1xJzA5iIQdnHxk-IOfQFESViwUyTQ1AIwF1_i3kd8sQTTQDrkMLys26QqSb9tG35M5FTw2VjQuCcoe3MJA",
-    "est_revenue": 1138098,
-    "est_revenue_fmt": "$1.1M",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 10,
     "title": "Gossip Harbor®: Merge & Story",
     "developer": "Microfun Limited",
     "genre": "Game",
@@ -127,6 +114,19 @@
     "icon": "https://play-lh.googleusercontent.com/HLRg8oInVYJV8Uebxlh1dTH4j7OTBMIWOPZY7A7ryW9UB8K4i7HCOqkGfSLORsK-XzqhnJcJM0mjObVKZYL8zA",
     "est_revenue": 992645,
     "est_revenue_fmt": "$993K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 10,
+    "title": "MapleStory : Idle RPG",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.nexon.ma",
+    "local_name": "MapleStory : Idle RPG",
+    "icon": "https://play-lh.googleusercontent.com/iqpY1xJzA5iIQdnHxk-IOfQFESViwUyTQ1AIwF1_i3kd8sQTTQDrkMLys26QqSb9tG35M5FTw2VjQuCcoe3MJA",
+    "est_revenue": 1138098,
+    "est_revenue_fmt": "$1.1M",
     "est_revenue_won": ""
   },
   {
@@ -144,19 +144,6 @@
   },
   {
     "rank": 12,
-    "title": "한게임포커 클래식 : 7포커 홀덤 섯다 훌라 슬롯",
-    "developer": "NHN Corp.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.nhnent.pokerclassic",
-    "local_name": "한게임포커 클래식 : 7포커 홀덤 섯다 훌라 슬롯",
-    "icon": "https://play-lh.googleusercontent.com/Hv-D0Heegr2EW_eyGcfNv-HzI_WRrjxMqnN575pY17XaRfXA4wjmAtTwWsO_ON6WqVtTP0ajH2bKKRDx6CNXhQ",
-    "est_revenue": 1231680,
-    "est_revenue_fmt": "$1.2M",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 13,
     "title": "Royal Match",
     "developer": "Dream Games, Ltd.",
     "genre": "Game",
@@ -166,6 +153,19 @@
     "icon": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
     "est_revenue": 934808,
     "est_revenue_fmt": "$935K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 13,
+    "title": "한게임포커 클래식 : 7포커 홀덤 섯다 훌라 슬롯",
+    "developer": "NHN Corp.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.nhnent.pokerclassic",
+    "local_name": "한게임포커 클래식 : 7포커 홀덤 섯다 훌라 슬롯",
+    "icon": "https://play-lh.googleusercontent.com/Hv-D0Heegr2EW_eyGcfNv-HzI_WRrjxMqnN575pY17XaRfXA4wjmAtTwWsO_ON6WqVtTP0ajH2bKKRDx6CNXhQ",
+    "est_revenue": 1231680,
+    "est_revenue_fmt": "$1.2M",
     "est_revenue_won": ""
   },
   {
@@ -274,19 +274,6 @@
   },
   {
     "rank": 22,
-    "title": "메이플스토리M",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.nexon.nsc.maplem",
-    "local_name": "메이플스토리M",
-    "icon": "https://play-lh.googleusercontent.com/PkBuxJo-df0nSHREeWdVPB4ucRTMiEcz__Ta94AgpDJVaPgvwhE91ua-y1sQtNf5EmHzOfgQ-EDOlAwBDP4j4w",
-    "est_revenue": 609374,
-    "est_revenue_fmt": "$609K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 23,
     "title": "Gardenscapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -299,20 +286,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 24,
-    "title": "Pmang Poker : Casino Royal",
-    "developer": "NEOWIZ corp",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.neowiz.games.poker",
-    "local_name": "Pmang Poker : Casino Royal",
-    "icon": "https://play-lh.googleusercontent.com/MkI60z70bUF0YIi9loQzKm08WLinhruANPb6D7j1Gh1iPiLrfL1W-2ZQ0Q8ICCMdkFY0jDlTjx9_iZFVGOourg",
-    "est_revenue": 676717,
-    "est_revenue_fmt": "$677K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 25,
+    "rank": 23,
     "title": "Last Asylum: Plague",
     "developer": "37GAMES GLOBAL",
     "genre": "Game",
@@ -322,6 +296,32 @@
     "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
     "est_revenue": 540327,
     "est_revenue_fmt": "$540K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 24,
+    "title": "메이플스토리M",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.nexon.nsc.maplem",
+    "local_name": "메이플스토리M",
+    "icon": "https://play-lh.googleusercontent.com/PkBuxJo-df0nSHREeWdVPB4ucRTMiEcz__Ta94AgpDJVaPgvwhE91ua-y1sQtNf5EmHzOfgQ-EDOlAwBDP4j4w",
+    "est_revenue": 609374,
+    "est_revenue_fmt": "$609K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 25,
+    "title": "Pmang Poker : Casino Royal",
+    "developer": "NEOWIZ corp",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.neowiz.games.poker",
+    "local_name": "Pmang Poker : Casino Royal",
+    "icon": "https://play-lh.googleusercontent.com/MkI60z70bUF0YIi9loQzKm08WLinhruANPb6D7j1Gh1iPiLrfL1W-2ZQ0Q8ICCMdkFY0jDlTjx9_iZFVGOourg",
+    "est_revenue": 676717,
+    "est_revenue_fmt": "$677K",
     "est_revenue_won": ""
   },
   {
@@ -378,19 +378,6 @@
   },
   {
     "rank": 30,
-    "title": "Royal Kingdom",
-    "developer": "Dream Games, Ltd.",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.dreamgames.royalkingdom",
-    "local_name": "Royal Kingdom",
-    "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
-    "est_revenue": 499274,
-    "est_revenue_fmt": "$499K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 31,
     "title": "뱀피르",
     "developer": "Netmarble",
     "genre": "Game",
@@ -400,6 +387,19 @@
     "icon": "https://play-lh.googleusercontent.com/O3AtBJqCPmOHow-d2tskDjwXGWpYpgz2bPEJC5s-FQ1BzmtxnFTQ4h6OTTJ74pyih8KBs78UsTk7w6PAHkbt",
     "est_revenue": 487145,
     "est_revenue_fmt": "$487K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 31,
+    "title": "Royal Kingdom",
+    "developer": "Dream Games, Ltd.",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.dreamgames.royalkingdom",
+    "local_name": "Royal Kingdom",
+    "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
+    "est_revenue": 499274,
+    "est_revenue_fmt": "$499K",
     "est_revenue_won": ""
   },
   {
@@ -456,19 +456,6 @@
   },
   {
     "rank": 36,
-    "title": "Lineage W",
-    "developer": "NC Corporation",
-    "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.ncsoft.lineagew",
-    "local_name": "Lineage W",
-    "icon": "https://play-lh.googleusercontent.com/VvwlyO5rMOgeedcbDmvBQv-vDoCeHqxBdSHqTrA3xUZAEuRcAwTBznrJBwkj3_xvhUTkLJ4D98RT1fZTtu8W",
-    "est_revenue": 418159,
-    "est_revenue_fmt": "$418K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 37,
     "title": "트릭컬 리바이브",
     "developer": "EPIDGames",
     "genre": "Game",
@@ -478,6 +465,19 @@
     "icon": "https://play-lh.googleusercontent.com/OCiuBv70Dnuw9wcGet3EtTUF2nEkS1vhYYkvOahe9-MmKg6EhxGkf-9ZVxnWIJXflQSmfOIjTcaSbwJSJyuzHA",
     "est_revenue": 426607,
     "est_revenue_fmt": "$427K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 37,
+    "title": "Lineage W",
+    "developer": "NC Corporation",
+    "genre": "Game",
+    "rating": 3.8,
+    "app_id": "com.ncsoft.lineagew",
+    "local_name": "Lineage W",
+    "icon": "https://play-lh.googleusercontent.com/VvwlyO5rMOgeedcbDmvBQv-vDoCeHqxBdSHqTrA3xUZAEuRcAwTBznrJBwkj3_xvhUTkLJ4D98RT1fZTtu8W",
+    "est_revenue": 418159,
+    "est_revenue_fmt": "$418K",
     "est_revenue_won": ""
   },
   {
@@ -521,32 +521,6 @@
   },
   {
     "rank": 41,
-    "title": "리니지M(12)",
-    "developer": "NC Corporation",
-    "genre": "Game",
-    "rating": 3.1,
-    "app_id": "com.ncsoft.lineagem",
-    "local_name": "리니지M(12)",
-    "icon": "https://play-lh.googleusercontent.com/MzMjZDpV2qLj34eMjWXBNSyOaSINWvqjWuzF7W0LiazKbWbqae230F0BwkATJl4eQd1a6S1Lp1SLeRn6tRUt",
-    "est_revenue": 356538,
-    "est_revenue_fmt": "$357K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 42,
-    "title": "GIRLS' FRONTLINE 2: EXILIUM",
-    "developer": "HaoPlay Limited",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.haoplay.game.and.exilium",
-    "local_name": "GIRLS' FRONTLINE 2: EXILIUM",
-    "icon": "https://play-lh.googleusercontent.com/N0Cq4MZ9VszB5TH_Wq229R62IuSVn1LfWwB3uhdjb0J_fsRn2hfHWc8XOEH7kAUs7Hg4SB2HLl_LEOj17YkwNQ",
-    "est_revenue": 362336,
-    "est_revenue_fmt": "$362K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 43,
     "title": "Candy Crush Saga",
     "developer": "King",
     "genre": "Game",
@@ -559,7 +533,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 44,
+    "rank": 42,
     "title": "RF ONLINE NEXT",
     "developer": "Netmarble",
     "genre": "Game",
@@ -572,20 +546,33 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 45,
-    "title": "PUBG Mobile",
-    "developer": "KRAFTON, Inc.",
+    "rank": 43,
+    "title": "리니지M(12)",
+    "developer": "NC Corporation",
     "genre": "Game",
-    "rating": 4.1,
-    "app_id": "com.pubg.krmobile",
-    "local_name": "PUBG Mobile",
-    "icon": "https://play-lh.googleusercontent.com/xwFtt40YwOjDNuj4unNQRjbzz1yRmuZQAYN_o7HvTd0xS3IK3EGLYCqcz_bHijJk_SKyvPh78xw7tGdEHHsrHA",
-    "est_revenue": 410092,
-    "est_revenue_fmt": "$410K",
+    "rating": 3.1,
+    "app_id": "com.ncsoft.lineagem",
+    "local_name": "리니지M(12)",
+    "icon": "https://play-lh.googleusercontent.com/MzMjZDpV2qLj34eMjWXBNSyOaSINWvqjWuzF7W0LiazKbWbqae230F0BwkATJl4eQd1a6S1Lp1SLeRn6tRUt",
+    "est_revenue": 356538,
+    "est_revenue_fmt": "$357K",
     "est_revenue_won": ""
   },
   {
-    "rank": 46,
+    "rank": 44,
+    "title": "GIRLS' FRONTLINE 2: EXILIUM",
+    "developer": "HaoPlay Limited",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.haoplay.game.and.exilium",
+    "local_name": "GIRLS' FRONTLINE 2: EXILIUM",
+    "icon": "https://play-lh.googleusercontent.com/N0Cq4MZ9VszB5TH_Wq229R62IuSVn1LfWwB3uhdjb0J_fsRn2hfHWc8XOEH7kAUs7Hg4SB2HLl_LEOj17YkwNQ",
+    "est_revenue": 362336,
+    "est_revenue_fmt": "$362K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 45,
     "title": "Mystery Town: Merge Games",
     "developer": "Cedar Games Studio",
     "genre": "Game",
@@ -595,6 +582,19 @@
     "icon": "https://play-lh.googleusercontent.com/uVjVMEJrhT-xRoUtKIUj8tOVSbCWw4IsRHaTDYICRNjQycUj6SucVpeoAPiNZWeJ5JuzIt_ZZRo1X1pW6XJFAQE",
     "est_revenue": 350953,
     "est_revenue_fmt": "$351K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 46,
+    "title": "PUBG Mobile",
+    "developer": "KRAFTON, Inc.",
+    "genre": "Game",
+    "rating": 4.1,
+    "app_id": "com.pubg.krmobile",
+    "local_name": "PUBG Mobile",
+    "icon": "https://play-lh.googleusercontent.com/xwFtt40YwOjDNuj4unNQRjbzz1yRmuZQAYN_o7HvTd0xS3IK3EGLYCqcz_bHijJk_SKyvPh78xw7tGdEHHsrHA",
+    "est_revenue": 410092,
+    "est_revenue_fmt": "$410K",
     "est_revenue_won": ""
   },
   {
