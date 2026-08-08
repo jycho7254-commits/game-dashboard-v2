@@ -105,32 +105,6 @@
   },
   {
     "rank": 9,
-    "title": "Roblox",
-    "developer": "Roblox Corporation",
-    "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.roblox.client",
-    "local_name": "Roblox",
-    "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
-    "est_revenue": 1059584,
-    "est_revenue_fmt": "$1.1M",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 10,
-    "title": "Gossip Harbor®: Merge & Story",
-    "developer": "Microfun Limited",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.mergegames.gossipharbor",
-    "local_name": "Gossip Harbor®: Merge & Story",
-    "icon": "https://play-lh.googleusercontent.com/HLRg8oInVYJV8Uebxlh1dTH4j7OTBMIWOPZY7A7ryW9UB8K4i7HCOqkGfSLORsK-XzqhnJcJM0mjObVKZYL8zA",
-    "est_revenue": 992645,
-    "est_revenue_fmt": "$993K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 11,
     "title": "오딘: 발할라 라이징",
     "developer": "Kakao Games Corp.",
     "genre": "Game",
@@ -143,7 +117,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 12,
+    "rank": 10,
     "title": "Royal Match",
     "developer": "Dream Games, Ltd.",
     "genre": "Game",
@@ -153,6 +127,32 @@
     "icon": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
     "est_revenue": 934808,
     "est_revenue_fmt": "$935K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 11,
+    "title": "Gossip Harbor®: Merge & Story",
+    "developer": "Microfun Limited",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "com.mergegames.gossipharbor",
+    "local_name": "Gossip Harbor®: Merge & Story",
+    "icon": "https://play-lh.googleusercontent.com/HLRg8oInVYJV8Uebxlh1dTH4j7OTBMIWOPZY7A7ryW9UB8K4i7HCOqkGfSLORsK-XzqhnJcJM0mjObVKZYL8zA",
+    "est_revenue": 992645,
+    "est_revenue_fmt": "$993K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 12,
+    "title": "Roblox",
+    "developer": "Roblox Corporation",
+    "genre": "Game",
+    "rating": 3.8,
+    "app_id": "com.roblox.client",
+    "local_name": "Roblox",
+    "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
+    "est_revenue": 1059584,
+    "est_revenue_fmt": "$1.1M",
     "est_revenue_won": ""
   },
   {
@@ -209,19 +209,6 @@
   },
   {
     "rank": 17,
-    "title": "GODDESS OF VICTORY: NIKKE",
-    "developer": "Level Infinite",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.proximabeta.nikke",
-    "local_name": "GODDESS OF VICTORY: NIKKE",
-    "icon": "https://play-lh.googleusercontent.com/JK5mejs0bVT_9613gCxNfCjRw_m3JiQ4wC8B8Kt471yu7ThFQazVkCLTfPZ81hnenft7ilaE-qSwVGpQT6sEFcY",
-    "est_revenue": 764439,
-    "est_revenue_fmt": "$764K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 18,
     "title": "Lucky Defense",
     "developer": "111%",
     "genre": "Game",
@@ -231,6 +218,19 @@
     "icon": "https://play-lh.googleusercontent.com/7Rih7H3B4QoHfjihDscNPVS1t8FZ0C-2TrK_j1ldhkb6RbnP8V2Vo1OHpjPH1qGnJpJ0WYGYPth8PhZgQ1Q-Vg",
     "est_revenue": 732361,
     "est_revenue_fmt": "$732K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 18,
+    "title": "GODDESS OF VICTORY: NIKKE",
+    "developer": "Level Infinite",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.proximabeta.nikke",
+    "local_name": "GODDESS OF VICTORY: NIKKE",
+    "icon": "https://play-lh.googleusercontent.com/JK5mejs0bVT_9613gCxNfCjRw_m3JiQ4wC8B8Kt471yu7ThFQazVkCLTfPZ81hnenft7ilaE-qSwVGpQT6sEFcY",
+    "est_revenue": 764439,
+    "est_revenue_fmt": "$764K",
     "est_revenue_won": ""
   },
   {
@@ -261,32 +261,6 @@
   },
   {
     "rank": 21,
-    "title": "Seaside Escape®: Merge & Story",
-    "developer": "Microfun Limited",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.gamedots.seasideescape",
-    "local_name": "Seaside Escape®: Merge & Story",
-    "icon": "https://play-lh.googleusercontent.com/k6h9_TspVCG4TIgvxox3eWp5Cwd04v6cL7msueboI5IUPGLPnhh8RHIZtiamoLJK75Mk6yo4awXd4XVW99XO8Q",
-    "est_revenue": 590230,
-    "est_revenue_fmt": "$590K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 22,
-    "title": "Gardenscapes",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.playrix.gardenscapes",
-    "local_name": "Gardenscapes",
-    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
-    "est_revenue": 572433,
-    "est_revenue_fmt": "$572K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 23,
     "title": "FC 모바일",
     "developer": "NEXON Company",
     "genre": "Game",
@@ -299,7 +273,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 24,
+    "rank": 22,
     "title": "한게임 섯다&맞고",
     "developer": "NHN Corp.",
     "genre": "Game",
@@ -312,7 +286,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 25,
+    "rank": 23,
     "title": "Tasty Travels: Merge Game",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -325,33 +299,33 @@
     "est_revenue_won": ""
   },
   {
+    "rank": 24,
+    "title": "Seaside Escape®: Merge & Story",
+    "developer": "Microfun Limited",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.gamedots.seasideescape",
+    "local_name": "Seaside Escape®: Merge & Story",
+    "icon": "https://play-lh.googleusercontent.com/k6h9_TspVCG4TIgvxox3eWp5Cwd04v6cL7msueboI5IUPGLPnhh8RHIZtiamoLJK75Mk6yo4awXd4XVW99XO8Q",
+    "est_revenue": 590230,
+    "est_revenue_fmt": "$590K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 25,
+    "title": "Gardenscapes",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.playrix.gardenscapes",
+    "local_name": "Gardenscapes",
+    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
+    "est_revenue": 572433,
+    "est_revenue_fmt": "$572K",
+    "est_revenue_won": ""
+  },
+  {
     "rank": 26,
-    "title": "Last Asylum: Plague",
-    "developer": "37GAMES GLOBAL",
-    "genre": "Game",
-    "rating": 4.9,
-    "app_id": "com.phs.global",
-    "local_name": "Last Asylum: Plague",
-    "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
-    "est_revenue": 540327,
-    "est_revenue_fmt": "$540K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 27,
-    "title": "마비노기 모바일",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 2.9,
-    "app_id": "com.nexon.devcat.mm",
-    "local_name": "마비노기 모바일",
-    "icon": "https://play-lh.googleusercontent.com/ljE3Q4kOQj0UEjbJoANQpgQ4rxdDvI1h1wARGv6jFgel-5oDIFjfTx2S0nINT8agCEOB_V3C9y61RZFoyLZ4",
-    "est_revenue": 512131,
-    "est_revenue_fmt": "$512K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 28,
     "title": "Pmang Poker : Casino Royal",
     "developer": "NEOWIZ corp",
     "genre": "Game",
@@ -364,7 +338,20 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 29,
+    "rank": 27,
+    "title": "Last Asylum: Plague",
+    "developer": "37GAMES GLOBAL",
+    "genre": "Game",
+    "rating": 4.9,
+    "app_id": "com.phs.global",
+    "local_name": "Last Asylum: Plague",
+    "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
+    "est_revenue": 540327,
+    "est_revenue_fmt": "$540K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 28,
     "title": "Royal Kingdom",
     "developer": "Dream Games, Ltd.",
     "genre": "Game",
@@ -377,7 +364,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 30,
+    "rank": 29,
     "title": "뱀피르",
     "developer": "Netmarble",
     "genre": "Game",
@@ -390,7 +377,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 31,
+    "rank": 30,
     "title": "Brawl Stars",
     "developer": "Supercell",
     "genre": "Game",
@@ -403,16 +390,29 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 32,
-    "title": "Honkai: Star Rail",
-    "developer": "COGNOSPHERE PTE. LTD.",
+    "rank": 31,
+    "title": "마비노기 모바일",
+    "developer": "NEXON Company",
     "genre": "Game",
-    "rating": 3.7,
-    "app_id": "com.HoYoverse.hkrpgoversea",
-    "local_name": "Honkai: Star Rail",
-    "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
-    "est_revenue": 454538,
-    "est_revenue_fmt": "$455K",
+    "rating": 2.9,
+    "app_id": "com.nexon.devcat.mm",
+    "local_name": "마비노기 모바일",
+    "icon": "https://play-lh.googleusercontent.com/ljE3Q4kOQj0UEjbJoANQpgQ4rxdDvI1h1wARGv6jFgel-5oDIFjfTx2S0nINT8agCEOB_V3C9y61RZFoyLZ4",
+    "est_revenue": 512131,
+    "est_revenue_fmt": "$512K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 32,
+    "title": "트릭컬 리바이브",
+    "developer": "EPIDGames",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.epidgames.trickcalrevive",
+    "local_name": "트릭컬 리바이브",
+    "icon": "https://play-lh.googleusercontent.com/OCiuBv70Dnuw9wcGet3EtTUF2nEkS1vhYYkvOahe9-MmKg6EhxGkf-9ZVxnWIJXflQSmfOIjTcaSbwJSJyuzHA",
+    "est_revenue": 426607,
+    "est_revenue_fmt": "$427K",
     "est_revenue_won": ""
   },
   {
@@ -430,15 +430,15 @@
   },
   {
     "rank": 34,
-    "title": "트릭컬 리바이브",
-    "developer": "EPIDGames",
+    "title": "Honkai: Star Rail",
+    "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.epidgames.trickcalrevive",
-    "local_name": "트릭컬 리바이브",
-    "icon": "https://play-lh.googleusercontent.com/OCiuBv70Dnuw9wcGet3EtTUF2nEkS1vhYYkvOahe9-MmKg6EhxGkf-9ZVxnWIJXflQSmfOIjTcaSbwJSJyuzHA",
-    "est_revenue": 426607,
-    "est_revenue_fmt": "$427K",
+    "rating": 3.7,
+    "app_id": "com.HoYoverse.hkrpgoversea",
+    "local_name": "Honkai: Star Rail",
+    "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
+    "est_revenue": 454538,
+    "est_revenue_fmt": "$455K",
     "est_revenue_won": ""
   },
   {
@@ -508,32 +508,6 @@
   },
   {
     "rank": 40,
-    "title": "Seven Knights Re:BIRTH",
-    "developer": "Netmarble",
-    "genre": "Game",
-    "rating": 4,
-    "app_id": "com.netmarble.tskgb",
-    "local_name": "Seven Knights Re:BIRTH",
-    "icon": "https://play-lh.googleusercontent.com/8CYFFvToiBwJ6NqGpd90FPRsnYzf6Fmn9zaILckmltokY8HMp-50ZJsCq04EVmjfpszgzoLLGwol9D2zn1qTP1I",
-    "est_revenue": 387920,
-    "est_revenue_fmt": "$388K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 41,
-    "title": "Candy Crush Saga",
-    "developer": "King",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.king.candycrushsaga",
-    "local_name": "Candy Crush Saga",
-    "icon": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI",
-    "est_revenue": 381134,
-    "est_revenue_fmt": "$381K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 42,
     "title": "AION2",
     "developer": "NC Corporation",
     "genre": "Game",
@@ -546,20 +520,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 43,
-    "title": "GIRLS' FRONTLINE 2: EXILIUM",
-    "developer": "HaoPlay Limited",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.haoplay.game.and.exilium",
-    "local_name": "GIRLS' FRONTLINE 2: EXILIUM",
-    "icon": "https://play-lh.googleusercontent.com/N0Cq4MZ9VszB5TH_Wq229R62IuSVn1LfWwB3uhdjb0J_fsRn2hfHWc8XOEH7kAUs7Hg4SB2HLl_LEOj17YkwNQ",
-    "est_revenue": 362336,
-    "est_revenue_fmt": "$362K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 44,
+    "rank": 41,
     "title": "Mystery Town: Merge Games",
     "developer": "Cedar Games Studio",
     "genre": "Game",
@@ -572,20 +533,20 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 45,
-    "title": "RF ONLINE NEXT",
+    "rank": 42,
+    "title": "Seven Knights Re:BIRTH",
     "developer": "Netmarble",
     "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.netmarble.rfnext",
-    "local_name": "RF ONLINE NEXT",
-    "icon": "https://play-lh.googleusercontent.com/IkNZqliSHoIRoWo-SFO0b8pzt53n1Epi-Tf9p8LbwczkafXbMcuQTpmgpdU-DIKeamrQoyqgRQTars9qnpe0Gg",
-    "est_revenue": 0,
-    "est_revenue_fmt": "",
+    "rating": 4,
+    "app_id": "com.netmarble.tskgb",
+    "local_name": "Seven Knights Re:BIRTH",
+    "icon": "https://play-lh.googleusercontent.com/8CYFFvToiBwJ6NqGpd90FPRsnYzf6Fmn9zaILckmltokY8HMp-50ZJsCq04EVmjfpszgzoLLGwol9D2zn1qTP1I",
+    "est_revenue": 387920,
+    "est_revenue_fmt": "$388K",
     "est_revenue_won": ""
   },
   {
-    "rank": 46,
+    "rank": 43,
     "title": "리니지M(12)",
     "developer": "NC Corporation",
     "genre": "Game",
@@ -598,20 +559,33 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 47,
-    "title": "I9: 인페르노 나인",
-    "developer": "Leniu Technology Co., Limited",
+    "rank": 44,
+    "title": "GIRLS' FRONTLINE 2: EXILIUM",
+    "developer": "HaoPlay Limited",
     "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.kr.firegp",
-    "local_name": "I9: 인페르노 나인",
-    "icon": "https://play-lh.googleusercontent.com/jZ0P5ZxOE4VorYhs9QmbcxzXi7VYiNqh4I5YlO2JXUdh_5D80ymAagbYxjtP6pGnU_7f_W0gWUVWUm9mIkCI5A",
-    "est_revenue": 0,
-    "est_revenue_fmt": "",
+    "rating": 4.3,
+    "app_id": "com.haoplay.game.and.exilium",
+    "local_name": "GIRLS' FRONTLINE 2: EXILIUM",
+    "icon": "https://play-lh.googleusercontent.com/N0Cq4MZ9VszB5TH_Wq229R62IuSVn1LfWwB3uhdjb0J_fsRn2hfHWc8XOEH7kAUs7Hg4SB2HLl_LEOj17YkwNQ",
+    "est_revenue": 362336,
+    "est_revenue_fmt": "$362K",
     "est_revenue_won": ""
   },
   {
-    "rank": 48,
+    "rank": 45,
+    "title": "Candy Crush Saga",
+    "developer": "King",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.king.candycrushsaga",
+    "local_name": "Candy Crush Saga",
+    "icon": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI",
+    "est_revenue": 381134,
+    "est_revenue_fmt": "$381K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 46,
     "title": "Flambé®: Merge & Cook",
     "developer": "Microfun Limited",
     "genre": "Game",
@@ -624,7 +598,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 49,
+    "rank": 47,
     "title": "삼국지: 천하결전",
     "developer": "BILIBILI",
     "genre": "Game",
@@ -637,14 +611,40 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 50,
-    "title": "Homescapes",
-    "developer": "Playrix",
+    "rank": 48,
+    "title": "RF ONLINE NEXT",
+    "developer": "Netmarble",
     "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.playrix.homescapes",
-    "local_name": "Homescapes",
-    "icon": "https://play-lh.googleusercontent.com/ft9OqNwpLaL45Jq3YuSYt0wm3y_j-YteTQqfq4Cu2PRWTrkFMuhlmUHmxggNxOP96gxR9Q3ML1Yt87iV3zD5fg",
+    "rating": 4.5,
+    "app_id": "com.netmarble.rfnext",
+    "local_name": "RF ONLINE NEXT",
+    "icon": "https://play-lh.googleusercontent.com/IkNZqliSHoIRoWo-SFO0b8pzt53n1Epi-Tf9p8LbwczkafXbMcuQTpmgpdU-DIKeamrQoyqgRQTars9qnpe0Gg",
+    "est_revenue": 0,
+    "est_revenue_fmt": "",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 49,
+    "title": "페이트/그랜드 오더",
+    "developer": "Netmarble",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.netmarble.fgok",
+    "local_name": "페이트/그랜드 오더",
+    "icon": "https://play-lh.googleusercontent.com/HA3nOzVN1Osr5sN0rGbHBRPr59r5PJ3kYWOwb9xzXjReoIOTNEuvr_oubfKLf8zCeG_V4tPFSApmeF7rDnqO_Tk",
+    "est_revenue": 0,
+    "est_revenue_fmt": "",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 50,
+    "title": "I9: 인페르노 나인",
+    "developer": "Leniu Technology Co., Limited",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.kr.firegp",
+    "local_name": "I9: 인페르노 나인",
+    "icon": "https://play-lh.googleusercontent.com/jZ0P5ZxOE4VorYhs9QmbcxzXi7VYiNqh4I5YlO2JXUdh_5D80ymAagbYxjtP6pGnU_7f_W0gWUVWUm9mIkCI5A",
     "est_revenue": 0,
     "est_revenue_fmt": "",
     "est_revenue_won": ""
