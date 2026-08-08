@@ -261,6 +261,15 @@ canvas{max-width:100%!important}
 .inf-rank-cols>div{padding:4px}
 /* 뉴스 주요뉴스 이미지 모바일 */
 #news-headline img{height:100px!important}
+/* 여론분석 — 모바일에서 샘플/소스 컬럼 숨김 */
+#sent-table th:nth-child(2),#sent-table td:nth-child(2),
+#sent-table th:nth-child(7),#sent-table td:nth-child(7){display:none!important}
+/* 게임사 매출분석 — 모바일에서 불필요 컬럼 숨김 */
+#co-table th:nth-child(3),#co-table td:nth-child(3),
+#co-table th:nth-child(8),#co-table td:nth-child(8),
+#co-table th:nth-child(9),#co-table td:nth-child(9),
+#co-table th:nth-child(10),#co-table td:nth-child(10),
+#co-table th:nth-child(11),#co-table td:nth-child(11){display:none!important}
 }
 </style>
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
@@ -279,7 +288,7 @@ try{sb=window.supabase.createClient(SUPABASE_URL,SUPABASE_KEY,{auth:{persistSess
 <nav class="topbar">
 <div class="topbar-inner">
 <div class="topbar-right">
-<span class="meta" id="update-time">2026-08-08 11:23</span>
+<span class="meta" id="update-time">2026-08-08 11:28</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 <span id="auth-area" style="display:flex;align-items:center;gap:6px">
 <button id="login-btn" onclick="openAuthModal('login')" style="padding:5px 14px;border-radius:6px;border:1px solid var(--accent);background:transparent;color:var(--accent);cursor:pointer;font-size:14px;font-weight:600">로그인</button>
