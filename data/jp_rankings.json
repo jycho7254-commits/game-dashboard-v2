@@ -586,19 +586,6 @@
   },
   {
     "rank": 46,
-    "title": "アークナイツ",
-    "developer": "Yostar, Inc.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.YoStarJP.Arknights",
-    "local_name": "アークナイツ",
-    "icon": "https://play-lh.googleusercontent.com/d768LvyQ1JVrv4K0900kVB-CpfKf_eFvHV22q7sLHk_JTZugf_qe4lOxbo5O_BMUO8cflqNkJk-SEshJDzX5zA",
-    "est_revenue": 5257889,
-    "est_revenue_fmt": "$5.3M",
-    "est_revenue_won": "28.2억"
-  },
-  {
-    "rank": 47,
     "title": "Wizardry Variants Daphne",
     "developer": "株式会社ドリコム",
     "genre": "Game",
@@ -611,7 +598,7 @@
     "est_revenue_won": "37.8억"
   },
   {
-    "rank": 48,
+    "rank": 47,
     "title": "転生したらスライムだった件 魔王と竜の建国譚 まおりゅう",
     "developer": "Bandai Namco Entertainment Inc.",
     "genre": "Game",
@@ -624,7 +611,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 49,
+    "rank": 48,
     "title": "旦那様の一発逆転人生",
     "developer": "37Games-Oversea",
     "genre": "Game",
@@ -637,7 +624,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 50,
+    "rank": 49,
     "title": "学園アイドルマスター",
     "developer": "Bandai Namco Entertainment Inc.",
     "genre": "Game",
@@ -648,5 +635,18 @@
     "est_revenue": 0,
     "est_revenue_fmt": "",
     "est_revenue_won": ""
+  },
+  {
+    "rank": 50,
+    "title": "アークナイツ",
+    "developer": "Yostar, Inc.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.YoStarJP.Arknights",
+    "local_name": "アークナイツ",
+    "icon": "https://play-lh.googleusercontent.com/d768LvyQ1JVrv4K0900kVB-CpfKf_eFvHV22q7sLHk_JTZugf_qe4lOxbo5O_BMUO8cflqNkJk-SEshJDzX5zA",
+    "est_revenue": 5257889,
+    "est_revenue_fmt": "$5.3M",
+    "est_revenue_won": "28.2억"
   }
 ]
