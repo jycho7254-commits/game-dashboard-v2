@@ -209,19 +209,6 @@
   },
   {
     "rank": 17,
-    "title": "トゥーンブラスト (Toon Blast)",
-    "developer": "Peak",
-    "genre": "Game",
-    "rating": 4.1,
-    "app_id": "net.peakgames.toonblast",
-    "local_name": "トゥーンブラスト (Toon Blast)",
-    "icon": "https://play-lh.googleusercontent.com/j3O3Pyk08XAv4iA4p-Irerfos8g-tLxQ3r42zlScMRsjjgnyQGeE1mqcH3aSY9wA2k6l8fBqpqEaIQfIG2gLLQ",
-    "est_revenue": 7644397,
-    "est_revenue_fmt": "$7.6M",
-    "est_revenue_won": "42.3억"
-  },
-  {
-    "rank": 18,
     "title": "Honkai: Star Rail",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -232,6 +219,19 @@
     "est_revenue": 9348080,
     "est_revenue_fmt": "$9.3M",
     "est_revenue_won": "51.2억"
+  },
+  {
+    "rank": 18,
+    "title": "トゥーンブラスト (Toon Blast)",
+    "developer": "Peak",
+    "genre": "Game",
+    "rating": 4.1,
+    "app_id": "net.peakgames.toonblast",
+    "local_name": "トゥーンブラスト (Toon Blast)",
+    "icon": "https://play-lh.googleusercontent.com/j3O3Pyk08XAv4iA4p-Irerfos8g-tLxQ3r42zlScMRsjjgnyQGeE1mqcH3aSY9wA2k6l8fBqpqEaIQfIG2gLLQ",
+    "est_revenue": 7644397,
+    "est_revenue_fmt": "$7.6M",
+    "est_revenue_won": "42.3억"
   },
   {
     "rank": 19,
@@ -456,19 +456,6 @@
   },
   {
     "rank": 36,
-    "title": "Last Z: Survival Shooter",
-    "developer": "Omnilojo Pte Ltd",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.readygo.barrel.gp",
-    "local_name": "Last Z: Survival Shooter",
-    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
-    "est_revenue": 4266076,
-    "est_revenue_fmt": "$4.3M",
-    "est_revenue_won": "12.4억"
-  },
-  {
-    "rank": 37,
     "title": "信長の野望 覇道",
     "developer": "KOEI TECMO GAMES CO., LTD.",
     "genre": "Game",
@@ -479,6 +466,19 @@
     "est_revenue": 3509530,
     "est_revenue_fmt": "$3.5M",
     "est_revenue_won": ""
+  },
+  {
+    "rank": 37,
+    "title": "Last Z: Survival Shooter",
+    "developer": "Omnilojo Pte Ltd",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.readygo.barrel.gp",
+    "local_name": "Last Z: Survival Shooter",
+    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
+    "est_revenue": 4266076,
+    "est_revenue_fmt": "$4.3M",
+    "est_revenue_won": "12.4억"
   },
   {
     "rank": 38,
