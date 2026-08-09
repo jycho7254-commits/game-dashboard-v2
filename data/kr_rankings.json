@@ -274,32 +274,6 @@
   },
   {
     "rank": 22,
-    "title": "메이플스토리M",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.nexon.nsc.maplem",
-    "local_name": "메이플스토리M",
-    "icon": "https://play-lh.googleusercontent.com/PkBuxJo-df0nSHREeWdVPB4ucRTMiEcz__Ta94AgpDJVaPgvwhE91ua-y1sQtNf5EmHzOfgQ-EDOlAwBDP4j4w",
-    "est_revenue": 609374,
-    "est_revenue_fmt": "$609K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 23,
-    "title": "Tasty Travels: Merge Game",
-    "developer": "Century Games PTE. LTD.",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.fatmerge.global",
-    "local_name": "Tasty Travels: Merge Game",
-    "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
-    "est_revenue": 555840,
-    "est_revenue_fmt": "$556K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 24,
     "title": "Last Asylum: Plague",
     "developer": "37GAMES GLOBAL",
     "genre": "Game",
@@ -312,7 +286,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 25,
+    "rank": 23,
     "title": "FC 모바일",
     "developer": "NEXON Company",
     "genre": "Game",
@@ -322,6 +296,32 @@
     "icon": "https://play-lh.googleusercontent.com/VKo4cXzxFpu7d5ua0Exk9QB7B7wz8ePAON_Km1lkIowLCf4kpww9alW6HUy-kQ50Kimy86PG1ivGFhayc7hb",
     "est_revenue": 630032,
     "est_revenue_fmt": "$630K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 24,
+    "title": "Tasty Travels: Merge Game",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.fatmerge.global",
+    "local_name": "Tasty Travels: Merge Game",
+    "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
+    "est_revenue": 555840,
+    "est_revenue_fmt": "$556K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 25,
+    "title": "메이플스토리M",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.nexon.nsc.maplem",
+    "local_name": "메이플스토리M",
+    "icon": "https://play-lh.googleusercontent.com/PkBuxJo-df0nSHREeWdVPB4ucRTMiEcz__Ta94AgpDJVaPgvwhE91ua-y1sQtNf5EmHzOfgQ-EDOlAwBDP4j4w",
+    "est_revenue": 609374,
+    "est_revenue_fmt": "$609K",
     "est_revenue_won": ""
   },
   {
@@ -391,32 +391,6 @@
   },
   {
     "rank": 31,
-    "title": "hololive Dreams",
-    "developer": "QualiArts, Inc.",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "game.qualiarts.hololive.dreams.com",
-    "local_name": "hololive Dreams",
-    "icon": "https://play-lh.googleusercontent.com/0ic1Lk3doNRloIKJFGjBLiZBxpwLj61z2U6uV9ZpK21CjnjHiGF4tXS4mBCUwrKx_5O5hJ6GeJL1A1TBl3AM2v8",
-    "est_revenue": 435464,
-    "est_revenue_fmt": "$435K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 32,
-    "title": "Honkai: Star Rail",
-    "developer": "COGNOSPHERE PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.7,
-    "app_id": "com.HoYoverse.hkrpgoversea",
-    "local_name": "Honkai: Star Rail",
-    "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
-    "est_revenue": 454538,
-    "est_revenue_fmt": "$455K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 33,
     "title": "마비노기 모바일",
     "developer": "NEXON Company",
     "genre": "Game",
@@ -429,7 +403,20 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 34,
+    "rank": 32,
+    "title": "hololive Dreams",
+    "developer": "QualiArts, Inc.",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "game.qualiarts.hololive.dreams.com",
+    "local_name": "hololive Dreams",
+    "icon": "https://play-lh.googleusercontent.com/0ic1Lk3doNRloIKJFGjBLiZBxpwLj61z2U6uV9ZpK21CjnjHiGF4tXS4mBCUwrKx_5O5hJ6GeJL1A1TBl3AM2v8",
+    "est_revenue": 435464,
+    "est_revenue_fmt": "$435K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 33,
     "title": "Lineage W",
     "developer": "NC Corporation",
     "genre": "Game",
@@ -439,6 +426,19 @@
     "icon": "https://play-lh.googleusercontent.com/VvwlyO5rMOgeedcbDmvBQv-vDoCeHqxBdSHqTrA3xUZAEuRcAwTBznrJBwkj3_xvhUTkLJ4D98RT1fZTtu8W",
     "est_revenue": 418159,
     "est_revenue_fmt": "$418K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 34,
+    "title": "Honkai: Star Rail",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "genre": "Game",
+    "rating": 3.7,
+    "app_id": "com.HoYoverse.hkrpgoversea",
+    "local_name": "Honkai: Star Rail",
+    "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
+    "est_revenue": 454538,
+    "est_revenue_fmt": "$455K",
     "est_revenue_won": ""
   },
   {
@@ -469,15 +469,15 @@
   },
   {
     "rank": 37,
-    "title": "Coop TD: Together",
-    "developer": "Supermagic",
+    "title": "EA SPORTS FC Online M",
+    "developer": "NEXON Company",
     "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.percent.aos.cooptd",
-    "local_name": "Coop TD: Together",
-    "icon": "https://play-lh.googleusercontent.com/vTxEJvWJq3cIbideJTNd9ZAYolS4ll7hUlMT3piDAsP6y84EPI-k1tPpoALoCwvmbJMn3LBW-sjzhHpERqfY",
-    "est_revenue": 402378,
-    "est_revenue_fmt": "$402K",
+    "rating": 2.3,
+    "app_id": "com.nexon.fo4m",
+    "local_name": "EA SPORTS FC Online M",
+    "icon": "https://play-lh.googleusercontent.com/3kHUd_bPqo2Mz00jcm8gxIjgawGnkg1w7V1KZfQ-UalXUj8QrLwqmGxpUNniLQ4o3exMUCl_lKa5KOolaOqBFdo",
+    "est_revenue": 525788,
+    "est_revenue_fmt": "$526K",
     "est_revenue_won": ""
   },
   {
@@ -495,32 +495,6 @@
   },
   {
     "rank": 39,
-    "title": "EA SPORTS FC Online M",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 2.3,
-    "app_id": "com.nexon.fo4m",
-    "local_name": "EA SPORTS FC Online M",
-    "icon": "https://play-lh.googleusercontent.com/3kHUd_bPqo2Mz00jcm8gxIjgawGnkg1w7V1KZfQ-UalXUj8QrLwqmGxpUNniLQ4o3exMUCl_lKa5KOolaOqBFdo",
-    "est_revenue": 525788,
-    "est_revenue_fmt": "$526K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 40,
-    "title": "Candy Crush Saga",
-    "developer": "King",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.king.candycrushsaga",
-    "local_name": "Candy Crush Saga",
-    "icon": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI",
-    "est_revenue": 381134,
-    "est_revenue_fmt": "$381K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 41,
     "title": "GIRLS' FRONTLINE 2: EXILIUM",
     "developer": "HaoPlay Limited",
     "genre": "Game",
@@ -533,7 +507,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 42,
+    "rank": 40,
     "title": "RF ONLINE NEXT",
     "developer": "Netmarble",
     "genre": "Game",
@@ -546,7 +520,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 43,
+    "rank": 41,
     "title": "PUBG Mobile",
     "developer": "KRAFTON, Inc.",
     "genre": "Game",
@@ -559,7 +533,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 44,
+    "rank": 42,
     "title": "Mystery Town: Merge Games",
     "developer": "Cedar Games Studio",
     "genre": "Game",
@@ -572,7 +546,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 45,
+    "rank": 43,
     "title": "Flambé®: Merge & Cook",
     "developer": "Microfun Limited",
     "genre": "Game",
@@ -582,6 +556,32 @@
     "icon": "https://play-lh.googleusercontent.com/DxEYTS_nNDbesjgAGulDTgl8V2cV42UUmeOGPei2c95XRW7GY_XgihSsaPF7rnRua18Egkd1-siIgbkVjq73Hg",
     "est_revenue": 0,
     "est_revenue_fmt": "",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 44,
+    "title": "Candy Crush Saga",
+    "developer": "King",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.king.candycrushsaga",
+    "local_name": "Candy Crush Saga",
+    "icon": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI",
+    "est_revenue": 381134,
+    "est_revenue_fmt": "$381K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 45,
+    "title": "Coop TD: Together",
+    "developer": "Supermagic",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.percent.aos.cooptd",
+    "local_name": "Coop TD: Together",
+    "icon": "https://play-lh.googleusercontent.com/vTxEJvWJq3cIbideJTNd9ZAYolS4ll7hUlMT3piDAsP6y84EPI-k1tPpoALoCwvmbJMn3LBW-sjzhHpERqfY",
+    "est_revenue": 402378,
+    "est_revenue_fmt": "$402K",
     "est_revenue_won": ""
   },
   {
