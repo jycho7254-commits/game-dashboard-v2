@@ -391,19 +391,6 @@
   },
   {
     "rank": 31,
-    "title": "Lineage W",
-    "developer": "NC Corporation",
-    "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.ncsoft.lineagew",
-    "local_name": "Lineage W",
-    "icon": "https://play-lh.googleusercontent.com/VvwlyO5rMOgeedcbDmvBQv-vDoCeHqxBdSHqTrA3xUZAEuRcAwTBznrJBwkj3_xvhUTkLJ4D98RT1fZTtu8W",
-    "est_revenue": 418159,
-    "est_revenue_fmt": "$418K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 32,
     "title": "Honkai: Star Rail",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -413,6 +400,19 @@
     "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
     "est_revenue": 454538,
     "est_revenue_fmt": "$455K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 32,
+    "title": "Lineage W",
+    "developer": "NC Corporation",
+    "genre": "Game",
+    "rating": 3.8,
+    "app_id": "com.ncsoft.lineagew",
+    "local_name": "Lineage W",
+    "icon": "https://play-lh.googleusercontent.com/VvwlyO5rMOgeedcbDmvBQv-vDoCeHqxBdSHqTrA3xUZAEuRcAwTBznrJBwkj3_xvhUTkLJ4D98RT1fZTtu8W",
+    "est_revenue": 418159,
+    "est_revenue_fmt": "$418K",
     "est_revenue_won": ""
   },
   {
@@ -469,6 +469,19 @@
   },
   {
     "rank": 37,
+    "title": "Candy Crush Saga",
+    "developer": "King",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.king.candycrushsaga",
+    "local_name": "Candy Crush Saga",
+    "icon": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI",
+    "est_revenue": 381134,
+    "est_revenue_fmt": "$381K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 38,
     "title": "Seven Knights Re:BIRTH",
     "developer": "Netmarble",
     "genre": "Game",
@@ -481,7 +494,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 38,
+    "rank": 39,
     "title": "RF ONLINE NEXT",
     "developer": "Netmarble",
     "genre": "Game",
@@ -491,19 +504,6 @@
     "icon": "https://play-lh.googleusercontent.com/IkNZqliSHoIRoWo-SFO0b8pzt53n1Epi-Tf9p8LbwczkafXbMcuQTpmgpdU-DIKeamrQoyqgRQTars9qnpe0Gg",
     "est_revenue": 0,
     "est_revenue_fmt": "",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 39,
-    "title": "Candy Crush Saga",
-    "developer": "King",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.king.candycrushsaga",
-    "local_name": "Candy Crush Saga",
-    "icon": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI",
-    "est_revenue": 381134,
-    "est_revenue_fmt": "$381K",
     "est_revenue_won": ""
   },
   {
@@ -576,7 +576,7 @@
     "title": "킹덤2: 타오르는 전장",
     "developer": "FOW Games",
     "genre": "Game",
-    "rating": 3.8,
+    "rating": 4.2,
     "app_id": "com.fowgames.kingdom2",
     "local_name": "킹덤2: 타오르는 전장",
     "icon": "https://play-lh.googleusercontent.com/e9fghg-B6E_QuhMmyW8PIyYCE8uVv78HaEEtPh7E1BMpEvoBRONp5IEvSiDGJ9GlX6VQkOKtIa8Jk8r9m5uZ3Pw",
