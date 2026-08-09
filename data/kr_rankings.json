@@ -92,19 +92,6 @@
   },
   {
     "rank": 8,
-    "title": "오딘: 발할라 라이징",
-    "developer": "Kakao Games Corp.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.kakaogames.odin",
-    "local_name": "오딘: 발할라 라이징",
-    "icon": "https://play-lh.googleusercontent.com/65JquVIM391Il8M5oXrUzwTOFvFn72Yef4EJGWLBp190MflgritBJqiMuSjoK_ZeA2jF53OV9rRNgAXRm8_scQ",
-    "est_revenue": 1914046,
-    "est_revenue_fmt": "$1.9M",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 9,
     "title": "Gossip Harbor®: Merge & Story",
     "developer": "Microfun Limited",
     "genre": "Game",
@@ -117,20 +104,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 10,
-    "title": "MapleStory : Idle RPG",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.nexon.ma",
-    "local_name": "MapleStory : Idle RPG",
-    "icon": "https://play-lh.googleusercontent.com/iqpY1xJzA5iIQdnHxk-IOfQFESViwUyTQ1AIwF1_i3kd8sQTTQDrkMLys26QqSb9tG35M5FTw2VjQuCcoe3MJA",
-    "est_revenue": 1138098,
-    "est_revenue_fmt": "$1.1M",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 11,
+    "rank": 9,
     "title": "Roblox",
     "developer": "Roblox Corporation",
     "genre": "Game",
@@ -139,6 +113,32 @@
     "local_name": "Roblox",
     "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
     "est_revenue": 1059584,
+    "est_revenue_fmt": "$1.1M",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 10,
+    "title": "오딘: 발할라 라이징",
+    "developer": "Kakao Games Corp.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.kakaogames.odin",
+    "local_name": "오딘: 발할라 라이징",
+    "icon": "https://play-lh.googleusercontent.com/65JquVIM391Il8M5oXrUzwTOFvFn72Yef4EJGWLBp190MflgritBJqiMuSjoK_ZeA2jF53OV9rRNgAXRm8_scQ",
+    "est_revenue": 1914046,
+    "est_revenue_fmt": "$1.9M",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 11,
+    "title": "MapleStory : Idle RPG",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.nexon.ma",
+    "local_name": "MapleStory : Idle RPG",
+    "icon": "https://play-lh.googleusercontent.com/iqpY1xJzA5iIQdnHxk-IOfQFESViwUyTQ1AIwF1_i3kd8sQTTQDrkMLys26QqSb9tG35M5FTw2VjQuCcoe3MJA",
+    "est_revenue": 1138098,
     "est_revenue_fmt": "$1.1M",
     "est_revenue_won": ""
   },
@@ -248,19 +248,6 @@
   },
   {
     "rank": 20,
-    "title": "FC 모바일",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 2.9,
-    "app_id": "com.nexon.fmk",
-    "local_name": "FC 모바일",
-    "icon": "https://play-lh.googleusercontent.com/VKo4cXzxFpu7d5ua0Exk9QB7B7wz8ePAON_Km1lkIowLCf4kpww9alW6HUy-kQ50Kimy86PG1ivGFhayc7hb",
-    "est_revenue": 630032,
-    "est_revenue_fmt": "$630K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 21,
     "title": "Seaside Escape®: Merge & Story",
     "developer": "Microfun Limited",
     "genre": "Game",
@@ -273,20 +260,20 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 22,
-    "title": "메이플스토리M",
+    "rank": 21,
+    "title": "FC 모바일",
     "developer": "NEXON Company",
     "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.nexon.nsc.maplem",
-    "local_name": "메이플스토리M",
-    "icon": "https://play-lh.googleusercontent.com/PkBuxJo-df0nSHREeWdVPB4ucRTMiEcz__Ta94AgpDJVaPgvwhE91ua-y1sQtNf5EmHzOfgQ-EDOlAwBDP4j4w",
-    "est_revenue": 609374,
-    "est_revenue_fmt": "$609K",
+    "rating": 2.9,
+    "app_id": "com.nexon.fmk",
+    "local_name": "FC 모바일",
+    "icon": "https://play-lh.googleusercontent.com/VKo4cXzxFpu7d5ua0Exk9QB7B7wz8ePAON_Km1lkIowLCf4kpww9alW6HUy-kQ50Kimy86PG1ivGFhayc7hb",
+    "est_revenue": 630032,
+    "est_revenue_fmt": "$630K",
     "est_revenue_won": ""
   },
   {
-    "rank": 23,
+    "rank": 22,
     "title": "Gardenscapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -296,6 +283,19 @@
     "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
     "est_revenue": 572433,
     "est_revenue_fmt": "$572K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 23,
+    "title": "메이플스토리M",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.nexon.nsc.maplem",
+    "local_name": "메이플스토리M",
+    "icon": "https://play-lh.googleusercontent.com/PkBuxJo-df0nSHREeWdVPB4ucRTMiEcz__Ta94AgpDJVaPgvwhE91ua-y1sQtNf5EmHzOfgQ-EDOlAwBDP4j4w",
+    "est_revenue": 609374,
+    "est_revenue_fmt": "$609K",
     "est_revenue_won": ""
   },
   {
@@ -482,6 +482,19 @@
   },
   {
     "rank": 38,
+    "title": "Coop TD: Together",
+    "developer": "Supermagic",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.percent.aos.cooptd",
+    "local_name": "Coop TD: Together",
+    "icon": "https://play-lh.googleusercontent.com/vTxEJvWJq3cIbideJTNd9ZAYolS4ll7hUlMT3piDAsP6y84EPI-k1tPpoALoCwvmbJMn3LBW-sjzhHpERqfY",
+    "est_revenue": 402378,
+    "est_revenue_fmt": "$402K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 39,
     "title": "Seven Knights Re:BIRTH",
     "developer": "Netmarble",
     "genre": "Game",
@@ -494,7 +507,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 39,
+    "rank": 40,
     "title": "AION2",
     "developer": "NC Corporation",
     "genre": "Game",
@@ -504,19 +517,6 @@
     "icon": "https://play-lh.googleusercontent.com/aqqsbPuYk-dU9f0qnyEkHje_IIchFrOhDQfDXozQbD5_n_Hxi18ja4GyEbNYuFD9inoFBUYfZFWK4zSOjsy8Aw",
     "est_revenue": 475682,
     "est_revenue_fmt": "$476K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 40,
-    "title": "Coop TD: Together",
-    "developer": "Supermagic",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.percent.aos.cooptd",
-    "local_name": "Coop TD: Together",
-    "icon": "https://play-lh.googleusercontent.com/vTxEJvWJq3cIbideJTNd9ZAYolS4ll7hUlMT3piDAsP6y84EPI-k1tPpoALoCwvmbJMn3LBW-sjzhHpERqfY",
-    "est_revenue": 402378,
-    "est_revenue_fmt": "$402K",
     "est_revenue_won": ""
   },
   {
@@ -534,19 +534,6 @@
   },
   {
     "rank": 42,
-    "title": "GIRLS' FRONTLINE 2: EXILIUM",
-    "developer": "HaoPlay Limited",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.haoplay.game.and.exilium",
-    "local_name": "GIRLS' FRONTLINE 2: EXILIUM",
-    "icon": "https://play-lh.googleusercontent.com/N0Cq4MZ9VszB5TH_Wq229R62IuSVn1LfWwB3uhdjb0J_fsRn2hfHWc8XOEH7kAUs7Hg4SB2HLl_LEOj17YkwNQ",
-    "est_revenue": 362336,
-    "est_revenue_fmt": "$362K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 43,
     "title": "RF ONLINE NEXT",
     "developer": "Netmarble",
     "genre": "Game",
@@ -556,6 +543,19 @@
     "icon": "https://play-lh.googleusercontent.com/IkNZqliSHoIRoWo-SFO0b8pzt53n1Epi-Tf9p8LbwczkafXbMcuQTpmgpdU-DIKeamrQoyqgRQTars9qnpe0Gg",
     "est_revenue": 0,
     "est_revenue_fmt": "",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 43,
+    "title": "GIRLS' FRONTLINE 2: EXILIUM",
+    "developer": "HaoPlay Limited",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.haoplay.game.and.exilium",
+    "local_name": "GIRLS' FRONTLINE 2: EXILIUM",
+    "icon": "https://play-lh.googleusercontent.com/N0Cq4MZ9VszB5TH_Wq229R62IuSVn1LfWwB3uhdjb0J_fsRn2hfHWc8XOEH7kAUs7Hg4SB2HLl_LEOj17YkwNQ",
+    "est_revenue": 362336,
+    "est_revenue_fmt": "$362K",
     "est_revenue_won": ""
   },
   {
@@ -638,13 +638,13 @@
   },
   {
     "rank": 50,
-    "title": "삼국지: 천하결전",
-    "developer": "BILIBILI",
+    "title": "Homescapes",
+    "developer": "Playrix",
     "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.bhk.newslgkr",
-    "local_name": "삼국지: 천하결전",
-    "icon": "https://play-lh.googleusercontent.com/rG1RyXnhrSZk0-Huvu-x4lLJivzk5QgQ2w9-5LYFHGUsEJG2suk-SbLFT7Nkuz99Y56lXBkKfRudyoUWthbY",
+    "rating": 4.7,
+    "app_id": "com.playrix.homescapes",
+    "local_name": "Homescapes",
+    "icon": "https://play-lh.googleusercontent.com/ft9OqNwpLaL45Jq3YuSYt0wm3y_j-YteTQqfq4Cu2PRWTrkFMuhlmUHmxggNxOP96gxR9Q3ML1Yt87iV3zD5fg",
     "est_revenue": 0,
     "est_revenue_fmt": "",
     "est_revenue_won": ""
