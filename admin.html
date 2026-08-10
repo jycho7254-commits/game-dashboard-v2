@@ -27,7 +27,7 @@ button{padding:10px 20px;border-radius:8px;border:1px solid #818cf8;background:#
 </head>
 <body>
 <div class="container">
-<h1>운영툴 — Game Market Insight</h1>
+<h1>운영툴 — Game Market Insight <button onclick="adminLogout()" style="float:right;padding:8px 16px;border-radius:8px;border:1px solid #e74c3c;background:transparent;color:#e74c3c;cursor:pointer;font-size:14px;font-weight:600">로그아웃</button></h1>
 
 <div id="login-section" class="card">
 <h2>관리자 로그인</h2>
@@ -133,6 +133,15 @@ async function loadData(){
     console.error('Load error:',e);
     alert('데이터 로드 실패: '+e.message);
   }
+}
+
+async function adminLogout(){
+  try{await sb.auth.signOut();}catch(e){}
+  adminUser=null;
+  document.getElementById('admin-panel').style.display='none';
+  document.getElementById('login-section').style.display='block';
+  document.getElementById('admin-email').value='';
+  document.getElementById('admin-pw').value='';
 }
 
 // 세션 확인
