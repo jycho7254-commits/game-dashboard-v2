@@ -482,19 +482,6 @@
   },
   {
     "rank": 38,
-    "title": "キングダム 覇道",
-    "developer": "Bandai Namco Entertainment Inc.",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.bandainamcoent.kingdomhadou",
-    "local_name": "キングダム 覇道",
-    "icon": "https://play-lh.googleusercontent.com/spozptD1nlGRuMlsw2IziEEWf4MEegI6kmVzkjme-xzj-APa38V3yIg_1PX5VJwf1vahy9xlKIuwikr75oGqhA",
-    "est_revenue": 3879207,
-    "est_revenue_fmt": "$3.9M",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 39,
     "title": "Last Z: Survival Shooter",
     "developer": "Omnilojo Pte Ltd",
     "genre": "Game",
@@ -505,6 +492,19 @@
     "est_revenue": 4266076,
     "est_revenue_fmt": "$4.3M",
     "est_revenue_won": "12.4억"
+  },
+  {
+    "rank": 39,
+    "title": "キングダム 覇道",
+    "developer": "Bandai Namco Entertainment Inc.",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.bandainamcoent.kingdomhadou",
+    "local_name": "キングダム 覇道",
+    "icon": "https://play-lh.googleusercontent.com/spozptD1nlGRuMlsw2IziEEWf4MEegI6kmVzkjme-xzj-APa38V3yIg_1PX5VJwf1vahy9xlKIuwikr75oGqhA",
+    "est_revenue": 3879207,
+    "est_revenue_fmt": "$3.9M",
+    "est_revenue_won": ""
   },
   {
     "rank": 40,
@@ -599,19 +599,6 @@
   },
   {
     "rank": 47,
-    "title": "アークナイツ",
-    "developer": "Yostar, Inc.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.YoStarJP.Arknights",
-    "local_name": "アークナイツ",
-    "icon": "https://play-lh.googleusercontent.com/d768LvyQ1JVrv4K0900kVB-CpfKf_eFvHV22q7sLHk_JTZugf_qe4lOxbo5O_BMUO8cflqNkJk-SEshJDzX5zA",
-    "est_revenue": 3509530,
-    "est_revenue_fmt": "$3.5M",
-    "est_revenue_won": "28.2억"
-  },
-  {
-    "rank": 48,
     "title": "Paranoize",
     "developer": "ZigZaGame Inc.",
     "genre": "Game",
@@ -624,7 +611,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 49,
+    "rank": 48,
     "title": "転生したらスライムだった件 魔王と竜の建国譚 まおりゅう",
     "developer": "Bandai Namco Entertainment Inc.",
     "genre": "Game",
@@ -635,6 +622,19 @@
     "est_revenue": 0,
     "est_revenue_fmt": "",
     "est_revenue_won": ""
+  },
+  {
+    "rank": 49,
+    "title": "アークナイツ",
+    "developer": "Yostar, Inc.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.YoStarJP.Arknights",
+    "local_name": "アークナイツ",
+    "icon": "https://play-lh.googleusercontent.com/d768LvyQ1JVrv4K0900kVB-CpfKf_eFvHV22q7sLHk_JTZugf_qe4lOxbo5O_BMUO8cflqNkJk-SEshJDzX5zA",
+    "est_revenue": 3509530,
+    "est_revenue_fmt": "$3.5M",
+    "est_revenue_won": "28.2억"
   },
   {
     "rank": 50,
