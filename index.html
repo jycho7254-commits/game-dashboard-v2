@@ -333,7 +333,7 @@ try{sb=window.supabase.createClient(SUPABASE_URL,SUPABASE_KEY,{auth:{persistSess
 <nav class="topbar">
 <div class="topbar-inner">
 <div class="topbar-right">
-<span class="meta" id="update-time">2026-08-10 14:50</span>
+<span class="meta" id="update-time">2026-08-10 14:51</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 <span id="auth-area" style="display:flex;align-items:center;gap:6px">
 <button id="login-btn" onclick="openAuthModal('login')" style="padding:5px 14px;border-radius:6px;border:1px solid var(--accent);background:transparent;color:var(--accent);cursor:pointer;font-size:14px;font-weight:600">로그인</button>
@@ -611,17 +611,20 @@ const GAME_I18N={"SOL: enchant":{"cn":"SOL: 附魔","jp":"SOL: エンチャン�
 
 // ===== 글로벌 상태 =====
 let country='all',activeTab='overview',activeInfTab='kr';
-function setInfCountry(c){
+function setInfCountry(c,el){
   activeInfTab=c;
-  var infCtabs=document.querySelectorAll('#inf-ctabs .ctab');
-  infCtabs.forEach(function(t){t.classList.remove('on')});
-  for(var i=0;i<infCtabs.length;i++){
-    if(infCtabs[i].textContent.indexOf(c==='kr'?'한국':c==='jp'?'일본':'중국')>=0){
-      infCtabs[i].classList.add('on');
-      break;
+  // 실제 인플루언서 렌더링 함수 호출
+  infCountry=c;
+  if(!el){
+    var infCtabs=document.querySelectorAll('#inf-ctabs .ctab');
+    infCtabs.forEach(function(t){t.classList.remove('on')});
+    for(var i=0;i<infCtabs.length;i++){
+      if(infCtabs[i].textContent.indexOf(c==='kr'?'한국':c==='jp'?'일본':'중국')>=0){
+        infCtabs[i].classList.add('on');
+        break;
+      }
     }
   }
-  renderInfluencers(document.getElementById('inf-search')?document.getElementById('inf-search').value:'');
 }
 let calDate=new Date(),calSelectedDate=null,calCountry='all';
 let modalChart=null;
@@ -2945,7 +2948,17 @@ function closeInfPopup(){
 }
 function setInfCountry(c,el){
   infCountry=c;
-  if(el){
+  activeInfTab=c;
+  if(!el){
+    var infCtabs2=document.querySelectorAll('#inf-ctabs .ctab');
+    infCtabs2.forEach(function(t){t.classList.remove('on')});
+    for(var i=0;i<infCtabs2.length;i++){
+      if(infCtabs2[i].textContent.indexOf(c==='kr'?'한국':c==='jp'?'일본':'중국')>=0){
+        infCtabs2[i].classList.add('on');
+        break;
+      }
+    }
+  } else {
     var parent=el.parentElement;
     parent.querySelectorAll('.ctab').forEach(function(t){t.classList.remove('on')});
     el.classList.add('on');
