@@ -164,8 +164,8 @@ tr:last-child td{border-bottom:none}
 .inf-pager .pinfo{font-size:15px;color:var(--t3);margin:0 6px}
 @media(max-width:768px){
 /* 상단바 — 모바일 3줄 구조 */
-.topbar{position:sticky;top:0;z-index:200}
-.topbar-inner{flex-wrap:wrap;padding:0 10px;gap:0}
+.topbar{position:sticky;top:0;z-index:200;overflow:visible}
+.topbar-inner{flex-wrap:wrap;padding:0 10px;gap:0;overflow:visible}
 /* 1줄: 시간 + 다크 + 로그인/회원가입 */
 .topbar-right{position:relative!important;right:auto!important;top:auto!important;width:100%;justify-content:space-between;padding:6px 0 2px}
 .topbar-right .meta{font-size:12px}
@@ -173,10 +173,10 @@ tr:last-child td{border-bottom:none}
 #user-email{max-width:80px!important;font-size:12px!important}
 /* 2줄: 타이틀 */
 .topbar-title{padding:2px 0 4px;font-size:16px}
-/* 3줄: 탭 메뉴 */
-.topbar-tabs{order:3;width:100%;border-top:1px solid var(--border);overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch}
+/* 3줄: 탭 메뉴 — 모바일에서 가로 스크롤, flex:1 해제 */
+.topbar-tabs{order:3;width:100%;border-top:1px solid var(--border);overflow-x:auto;overflow-y:visible;scrollbar-width:none;-webkit-overflow-scrolling:touch}
 .topbar-tabs::-webkit-scrollbar{display:none}
-.topbar-tabs a{padding:8px 10px;font-size:13px;white-space:nowrap}
+.topbar-tabs a{flex:none;padding:10px 12px;font-size:14px;white-space:nowrap}
 /* 메인 콘텐츠 */
 .mn{padding:12px 10px!important;max-width:100%!important;margin:0!important}
 .header{margin-bottom:12px}
@@ -275,6 +275,23 @@ canvas{max-width:100%!important}
 #co-table th:nth-child(9),#co-table td:nth-child(9),
 #co-table th:nth-child(10),#co-table td:nth-child(10),
 #co-table th:nth-child(11),#co-table td:nth-child(11){display:none!important}
+/* 텍스트 깨짐 방지 */
+.card,.card *{word-break:break-word!important}
+td,th{word-break:break-all!important}
+/* KPI 숫자 잘림 방지 */
+.kpi .v{font-size:16px!important;word-break:keep-all!important}
+/* 헤더 h1 */
+.header h1{font-size:15px!important}
+/* 모달 — 모바일 전체 화면 */
+.modal{max-width:100%!important;padding:14px!important;border-radius:0!important;margin:0!important}
+.modal-bg{padding:0!important}
+/* 국가 탭 — 모바일 터치 영역 */
+.ctab{min-height:36px;padding:6px 12px!important}
+/* 차트 캔버스 최소 높이 */
+canvas{min-height:180px!important}
+/* 드롭다운 — 모바일에서 하단 고정형 */
+.tab-dropdown{min-width:100px}
+.tab-dropdown-item{padding:12px 16px!important;font-size:14px!important}
 }
 </style>
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
