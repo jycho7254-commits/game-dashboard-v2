@@ -310,7 +310,7 @@ try{sb=window.supabase.createClient(SUPABASE_URL,SUPABASE_KEY,{auth:{persistSess
 <nav class="topbar">
 <div class="topbar-inner">
 <div class="topbar-right">
-<span class="meta" id="update-time">2026-08-10 11:44</span>
+<span class="meta" id="update-time">2026-08-10 11:49</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 <span id="auth-area" style="display:flex;align-items:center;gap:6px">
 <button id="login-btn" onclick="openAuthModal('login')" style="padding:5px 14px;border-radius:6px;border:1px solid var(--accent);background:transparent;color:var(--accent);cursor:pointer;font-size:14px;font-weight:600">로그인</button>
@@ -2981,29 +2981,30 @@ function initTabDropdowns(){
   var openTimer=null;
   tabs.forEach(function(tab){
     var tabName=tab.getAttribute('data-tab');
-    tab.addEventListener('mouseenter',function(e){
+    tab.addEventListener('mouseenter',function(){
       clearTimeout(dropdownTimer);
       clearTimeout(openTimer);
+      // 즉시 rect 캡처 — 나중에 변하지 않도록
+      var rect=tab.getBoundingClientRect();
+      var savedName=tabName;
       openTimer=setTimeout(function(){
-        var items=SUBMENUS[tabName];
+        var items=SUBMENUS[savedName];
         if(!items||items.length===0){dd.classList.remove('on');return;}
-        var rect=tab.getBoundingClientRect();
         var html='';
         items.forEach(function(item){
-          html+='<div class="tab-dropdown-item" data-tab="'+tabName+'" data-country="'+item.c+'">'+item.label+'</div>';
+          html+='<div class="tab-dropdown-item" data-tab="'+savedName+'" data-country="'+item.c+'">'+item.label+'</div>';
         });
         dd.innerHTML=html;
         dd.classList.add('on');
         var ddRect=dd.getBoundingClientRect();
-        var centerX=rect.left+rect.width/2-ddRect.width/2;
-        dd.style.left=Math.max(8,Math.min(centerX,window.innerWidth-ddRect.width-8))+'px';
+        var leftPos=rect.left+rect.width/2-ddRect.width/2;
+        if(leftPos<8)leftPos=8;
+        if(leftPos+ddRect.width>window.innerWidth-8)leftPos=window.innerWidth-ddRect.width-8;
+        dd.style.left=leftPos+'px';
         dd.style.top=(rect.bottom+4)+'px';
-        // 아이템 클릭
         dd.querySelectorAll('.tab-dropdown-item').forEach(function(el){
           el.addEventListener('click',function(){
-            var t=el.getAttribute('data-tab');
-            var c=el.getAttribute('data-country');
-            goToTabCountry(t,c);
+            goToTabCountry(el.getAttribute('data-tab'),el.getAttribute('data-country'));
             dd.classList.remove('on');
           });
         });
@@ -3011,7 +3012,7 @@ function initTabDropdowns(){
     });
     tab.addEventListener('mouseleave',function(){
       clearTimeout(openTimer);
-      dropdownTimer=setTimeout(function(){dd.classList.remove('on')},200);
+      dropdownTimer=setTimeout(function(){dd.classList.remove('on')},250);
     });
   });
   dd.addEventListener('mouseenter',function(){clearTimeout(dropdownTimer)});
