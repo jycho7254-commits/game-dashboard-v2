@@ -269,8 +269,11 @@ canvas{max-width:100%!important}
 /* 여론분석 — 모바일에서 샘플/소스 컬럼 숨김 */
 #sent-table th:nth-child(2),#sent-table td:nth-child(2),
 #sent-table th:nth-child(7),#sent-table td:nth-child(7){display:none!important}
-/* 게임사 매출분석 — 모바일에서 불필요 컬럼 숨김 */
+/* 게임사 매출분석 — 모바일에서 추가 컬럼 숨김 (6열→3열) */
 #co-table th:nth-child(3),#co-table td:nth-child(3),
+#co-table th:nth-child(4),#co-table td:nth-child(4),
+#co-table th:nth-child(5),#co-table td:nth-child(5),
+#co-table th:nth-child(7),#co-table td:nth-child(7),
 #co-table th:nth-child(8),#co-table td:nth-child(8),
 #co-table th:nth-child(9),#co-table td:nth-child(9),
 #co-table th:nth-child(10),#co-table td:nth-child(10),
@@ -285,13 +288,33 @@ td,th{word-break:break-all!important}
 /* 모달 — 모바일 전체 화면 */
 .modal{max-width:100%!important;padding:14px!important;border-radius:0!important;margin:0!important}
 .modal-bg{padding:0!important}
+/* 모달 닫기 버튼 — 44px 터치 영역 */
+.modal-close{width:44px!important;height:44px!important;font-size:24px!important;top:8px!important;right:8px!important}
+.modal h2{padding-right:44px!important}
 /* 국가 탭 — 모바일 터치 영역 */
-.ctab{min-height:36px;padding:6px 12px!important}
+.ctab{min-height:40px;padding:8px 12px!important}
 /* 차트 캔버스 최소 높이 */
 canvas{min-height:180px!important}
-/* 드롭다운 — 모바일에서 하단 고정형 */
-.tab-dropdown{min-width:100px}
-.tab-dropdown-item{padding:12px 16px!important;font-size:14px!important}
+/* 드롭다운 — 모바일 터치 영역 */
+.tab-dropdown{min-width:140px}
+.tab-dropdown-item{padding:14px 18px!important;font-size:15px!important;min-height:44px}
+/* 캘린더 셀 — 터치 영역 44px */
+.cal-day{min-height:44px!important}
+/* 라이브 방송 제목 말줄임 */
+#inf-streamers-chzzk a,#inf-streamers-youtube a{display:block;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+/* 게임사 테이블 — 모바일 폰트 축소 */
+#co-table{font-size:14px!important}
+/* 매출순위/여론 테이블 — 폰트 축소 */
+#rank-table th,#rank-table td,#sent-table th,#sent-table td{padding:5px 4px!important;font-size:14px!important}
+/* 랭크 카드 — 개발사 말줄임 */
+.gcard-rank .gdev{max-width:100px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+}
+/* 초소형 모바일 (480px) */
+@media(max-width:480px){
+.trend-grid{grid-template-columns:1fr!important}
+.trend-grid img{width:32px!important;height:32px!important}
+.cal-day .day-event{display:none}
+.cal-day.has-event::after{width:8px;height:8px;background:var(--accent);border-radius:50%;position:absolute;top:3px;right:3px;content:''}
 }
 </style>
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
@@ -310,7 +333,7 @@ try{sb=window.supabase.createClient(SUPABASE_URL,SUPABASE_KEY,{auth:{persistSess
 <nav class="topbar">
 <div class="topbar-inner">
 <div class="topbar-right">
-<span class="meta" id="update-time">2026-08-10 11:50</span>
+<span class="meta" id="update-time">2026-08-10 11:51</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 <span id="auth-area" style="display:flex;align-items:center;gap:6px">
 <button id="login-btn" onclick="openAuthModal('login')" style="padding:5px 14px;border-radius:6px;border:1px solid var(--accent);background:transparent;color:var(--accent);cursor:pointer;font-size:14px;font-weight:600">로그인</button>
