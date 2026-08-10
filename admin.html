@@ -113,8 +113,11 @@ async function loadData(){
       return '<tr><td>'+u.email+'</td><td>'+(u.created_at||'').slice(0,10)+'</td><td>'+(u.last_sign_in_at||'').slice(0,10)+'</td><td><span class="pill '+(u.email_confirmed_at?'pill-active':'pill-inactive')+'">'+(u.email_confirmed_at?'인증':'미인증')+'</span></td><td><button onclick="deleteUser(\''+u.id+'\')" style="padding:4px 10px;border-radius:6px;border:1px solid #e74c3c;background:transparent;color:#e74c3c;cursor:pointer;font-size:13px">삭제</button></td></tr>';
     }).join('');
 
-    // 2. 리포트 구독
-    const{data:subs,error:subsError}=await sb.from('report_subscriptions').select('*').order('created_at',{ascending:false});
+    // 2. 리포트 구독 (service_role로 직접 조회)
+    const subsResp=await fetch(SUPABASE_URL+'/rest/v1/report_subscriptions?select=*&order=created_at.desc',{
+      headers:{'apikey':SERVICE_KEY,'Authorization':'Bearer '+SERVICE_KEY}
+    });
+    const subs=subsResp.ok?await subsResp.json():[];
     document.getElementById('stat-subs').textContent=subs?subs.length:0;
 
     // 구독 테이블
@@ -177,8 +180,12 @@ async function deleteUser(uid){
 
 async function toggleSub(id,active){
   try{
-    const{error}=await sb.from('report_subscriptions').update({active:active}).eq('id',id);
-    if(error)throw error;
+    const resp=await fetch(SUPABASE_URL+'/rest/v1/report_subscriptions?id=eq.'+id,{
+      method:'PATCH',
+      headers:{'apikey':SERVICE_KEY,'Authorization':'Bearer '+SERVICE_KEY,'Content-Type':'application/json','Prefer':'return=minimal'},
+      body:JSON.stringify({active:active})
+    });
+    if(!resp.ok)throw new Error('HTTP '+resp.status);
     loadData();
   }catch(e){
     alert('에러: '+e.message);
