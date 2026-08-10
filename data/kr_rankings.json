@@ -92,19 +92,6 @@
   },
   {
     "rank": 8,
-    "title": "Roblox",
-    "developer": "Roblox Corporation",
-    "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.roblox.client",
-    "local_name": "로블록스",
-    "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
-    "est_revenue": 1412705,
-    "est_revenue_fmt": "$1.4M",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 9,
     "title": "Last War:Survival Game",
     "developer": "FUNFLY PTE. LTD.",
     "genre": "Game",
@@ -114,6 +101,19 @@
     "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc",
     "est_revenue": 1345434,
     "est_revenue_fmt": "$1.3M",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 9,
+    "title": "Roblox",
+    "developer": "Roblox Corporation",
+    "genre": "Game",
+    "rating": 3.8,
+    "app_id": "com.roblox.client",
+    "local_name": "로블록스",
+    "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
+    "est_revenue": 1412705,
+    "est_revenue_fmt": "$1.4M",
     "est_revenue_won": ""
   },
   {
@@ -248,19 +248,6 @@
   },
   {
     "rank": 20,
-    "title": "FC 모바일",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 2.9,
-    "app_id": "com.nexon.fmk",
-    "local_name": "FC 모바일",
-    "icon": "https://play-lh.googleusercontent.com/VKo4cXzxFpu7d5ua0Exk9QB7B7wz8ePAON_Km1lkIowLCf4kpww9alW6HUy-kQ50Kimy86PG1ivGFhayc7hb",
-    "est_revenue": 676717,
-    "est_revenue_fmt": "$677K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 21,
     "title": "Seaside Escape®: Merge & Story",
     "developer": "Microfun Limited",
     "genre": "Game",
@@ -273,7 +260,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 22,
+    "rank": 21,
     "title": "Gardenscapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -286,7 +273,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 23,
+    "rank": 22,
     "title": "Tasty Travels: Merge Game",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -296,6 +283,19 @@
     "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
     "est_revenue": 609374,
     "est_revenue_fmt": "$609K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 23,
+    "title": "FC 모바일",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 2.9,
+    "app_id": "com.nexon.fmk",
+    "local_name": "FC 모바일",
+    "icon": "https://play-lh.googleusercontent.com/VKo4cXzxFpu7d5ua0Exk9QB7B7wz8ePAON_Km1lkIowLCf4kpww9alW6HUy-kQ50Kimy86PG1ivGFhayc7hb",
+    "est_revenue": 676717,
+    "est_revenue_fmt": "$677K",
     "est_revenue_won": ""
   },
   {
@@ -391,19 +391,6 @@
   },
   {
     "rank": 31,
-    "title": "Pmang Poker : Casino Royal",
-    "developer": "NEOWIZ corp",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.neowiz.games.poker",
-    "local_name": "피망 포커",
-    "icon": "https://play-lh.googleusercontent.com/MkI60z70bUF0YIi9loQzKm08WLinhruANPb6D7j1Gh1iPiLrfL1W-2ZQ0Q8ICCMdkFY0jDlTjx9_iZFVGOourg",
-    "est_revenue": 487145,
-    "est_revenue_fmt": "$487K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 32,
     "title": "hololive Dreams",
     "developer": "QualiArts, Inc.",
     "genre": "Game",
@@ -416,7 +403,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 33,
+    "rank": 32,
     "title": "Lineage W",
     "developer": "NC Corporation",
     "genre": "Game",
@@ -429,7 +416,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 34,
+    "rank": 33,
     "title": "Honkai: Star Rail",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -442,7 +429,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 35,
+    "rank": 34,
     "title": "컴투스프로야구V26",
     "developer": "Com2uS",
     "genre": "Game",
@@ -455,7 +442,33 @@
     "est_revenue_won": ""
   },
   {
+    "rank": 35,
+    "title": "Pmang Poker : Casino Royal",
+    "developer": "NEOWIZ corp",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.neowiz.games.poker",
+    "local_name": "피망 포커",
+    "icon": "https://play-lh.googleusercontent.com/MkI60z70bUF0YIi9loQzKm08WLinhruANPb6D7j1Gh1iPiLrfL1W-2ZQ0Q8ICCMdkFY0jDlTjx9_iZFVGOourg",
+    "est_revenue": 487145,
+    "est_revenue_fmt": "$487K",
+    "est_revenue_won": ""
+  },
+  {
     "rank": 36,
+    "title": "킹덤2: 타오르는 전장",
+    "developer": "FOW Games",
+    "genre": "Game",
+    "rating": 4.1,
+    "app_id": "com.fowgames.kingdom2",
+    "local_name": "킹덤2: 타오르는 전장",
+    "icon": "https://play-lh.googleusercontent.com/e9fghg-B6E_QuhMmyW8PIyYCE8uVv78HaEEtPh7E1BMpEvoBRONp5IEvSiDGJ9GlX6VQkOKtIa8Jk8r9m5uZ3Pw",
+    "est_revenue": 387920,
+    "est_revenue_fmt": "$388K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 37,
     "title": "트릭컬 리바이브",
     "developer": "EPIDGames",
     "genre": "Game",
@@ -468,7 +481,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 37,
+    "rank": 38,
     "title": "RF ONLINE NEXT",
     "developer": "Netmarble",
     "genre": "Game",
@@ -481,7 +494,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 38,
+    "rank": 39,
     "title": "Seven Knights Re:BIRTH",
     "developer": "Netmarble",
     "genre": "Game",
@@ -494,7 +507,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 39,
+    "rank": 40,
     "title": "Coop TD: Together",
     "developer": "Supermagic",
     "genre": "Game",
@@ -507,7 +520,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 40,
+    "rank": 41,
     "title": "Candy Crush Saga",
     "developer": "King",
     "genre": "Game",
@@ -520,7 +533,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 41,
+    "rank": 42,
     "title": "EA SPORTS FC Online M",
     "developer": "NEXON Company",
     "genre": "Game",
@@ -530,19 +543,6 @@
     "icon": "https://play-lh.googleusercontent.com/3kHUd_bPqo2Mz00jcm8gxIjgawGnkg1w7V1KZfQ-UalXUj8QrLwqmGxpUNniLQ4o3exMUCl_lKa5KOolaOqBFdo",
     "est_revenue": 422496,
     "est_revenue_fmt": "$422K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 42,
-    "title": "킹덤2: 타오르는 전장",
-    "developer": "FOW Games",
-    "genre": "Game",
-    "rating": 4.1,
-    "app_id": "com.fowgames.kingdom2",
-    "local_name": "킹덤2: 타오르는 전장",
-    "icon": "https://play-lh.googleusercontent.com/e9fghg-B6E_QuhMmyW8PIyYCE8uVv78HaEEtPh7E1BMpEvoBRONp5IEvSiDGJ9GlX6VQkOKtIa8Jk8r9m5uZ3Pw",
-    "est_revenue": 387920,
-    "est_revenue_fmt": "$388K",
     "est_revenue_won": ""
   },
   {
