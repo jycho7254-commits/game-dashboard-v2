@@ -365,45 +365,6 @@
   },
   {
     "rank": 29,
-    "title": "마비노기 모바일",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 2.9,
-    "app_id": "com.nexon.devcat.mm",
-    "local_name": "마비노기 모바일",
-    "icon": "https://play-lh.googleusercontent.com/ljE3Q4kOQj0UEjbJoANQpgQ4rxdDvI1h1wARGv6jFgel-5oDIFjfTx2S0nINT8agCEOB_V3C9y61RZFoyLZ4",
-    "est_revenue": 512131,
-    "est_revenue_fmt": "$512K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 30,
-    "title": "Pmang Poker : Casino Royal",
-    "developer": "NEOWIZ corp",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.neowiz.games.poker",
-    "local_name": "Pmang Poker : Casino Royal",
-    "icon": "https://play-lh.googleusercontent.com/MkI60z70bUF0YIi9loQzKm08WLinhruANPb6D7j1Gh1iPiLrfL1W-2ZQ0Q8ICCMdkFY0jDlTjx9_iZFVGOourg",
-    "est_revenue": 499274,
-    "est_revenue_fmt": "$499K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 31,
-    "title": "hololive Dreams",
-    "developer": "QualiArts, Inc.",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "game.qualiarts.hololive.dreams.com",
-    "local_name": "hololive Dreams",
-    "icon": "https://play-lh.googleusercontent.com/0ic1Lk3doNRloIKJFGjBLiZBxpwLj61z2U6uV9ZpK21CjnjHiGF4tXS4mBCUwrKx_5O5hJ6GeJL1A1TBl3AM2v8",
-    "est_revenue": 487145,
-    "est_revenue_fmt": "$487K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 32,
     "title": "뱀피르",
     "developer": "Netmarble",
     "genre": "Game",
@@ -416,7 +377,33 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 33,
+    "rank": 30,
+    "title": "마비노기 모바일",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 2.9,
+    "app_id": "com.nexon.devcat.mm",
+    "local_name": "마비노기 모바일",
+    "icon": "https://play-lh.googleusercontent.com/ljE3Q4kOQj0UEjbJoANQpgQ4rxdDvI1h1wARGv6jFgel-5oDIFjfTx2S0nINT8agCEOB_V3C9y61RZFoyLZ4",
+    "est_revenue": 512131,
+    "est_revenue_fmt": "$512K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 31,
+    "title": "Pmang Poker : Casino Royal",
+    "developer": "NEOWIZ corp",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.neowiz.games.poker",
+    "local_name": "Pmang Poker : Casino Royal",
+    "icon": "https://play-lh.googleusercontent.com/MkI60z70bUF0YIi9loQzKm08WLinhruANPb6D7j1Gh1iPiLrfL1W-2ZQ0Q8ICCMdkFY0jDlTjx9_iZFVGOourg",
+    "est_revenue": 499274,
+    "est_revenue_fmt": "$499K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 32,
     "title": "Lineage W",
     "developer": "NC Corporation",
     "genre": "Game",
@@ -426,6 +413,19 @@
     "icon": "https://play-lh.googleusercontent.com/VvwlyO5rMOgeedcbDmvBQv-vDoCeHqxBdSHqTrA3xUZAEuRcAwTBznrJBwkj3_xvhUTkLJ4D98RT1fZTtu8W",
     "est_revenue": 464830,
     "est_revenue_fmt": "$465K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 33,
+    "title": "hololive Dreams",
+    "developer": "QualiArts, Inc.",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "game.qualiarts.hololive.dreams.com",
+    "local_name": "hololive Dreams",
+    "icon": "https://play-lh.googleusercontent.com/0ic1Lk3doNRloIKJFGjBLiZBxpwLj61z2U6uV9ZpK21CjnjHiGF4tXS4mBCUwrKx_5O5hJ6GeJL1A1TBl3AM2v8",
+    "est_revenue": 487145,
+    "est_revenue_fmt": "$487K",
     "est_revenue_won": ""
   },
   {
