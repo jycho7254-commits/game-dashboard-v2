@@ -293,7 +293,7 @@ try{sb=window.supabase.createClient(SUPABASE_URL,SUPABASE_KEY,{auth:{persistSess
 <nav class="topbar">
 <div class="topbar-inner">
 <div class="topbar-right">
-<span class="meta" id="update-time">2026-08-10 11:09</span>
+<span class="meta" id="update-time">2026-08-10 11:10</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 <span id="auth-area" style="display:flex;align-items:center;gap:6px">
 <button id="login-btn" onclick="openAuthModal('login')" style="padding:5px 14px;border-radius:6px;border:1px solid var(--accent);background:transparent;color:var(--accent);cursor:pointer;font-size:14px;font-weight:600">로그인</button>
@@ -305,40 +305,18 @@ try{sb=window.supabase.createClient(SUPABASE_URL,SUPABASE_KEY,{auth:{persistSess
 </span>
 </div>
 <div class="topbar-title">Game Market Insight</div>
-<div class="topbar-tabs">
-<a class="on" onclick="showTab('overview',this)"><span>종합</span></a>
-<a onclick="showTab('rank',this)"><span>매출 순위</span>
-<div class="tab-submenu">
-<div onclick="event.stopPropagation();showTab('rank',document.querySelectorAll('.topbar-tabs a')[1]);setCountry('kr',document.querySelector('#rank-ctabs .ctab')||document.querySelectorAll('.ctab')[0])">한국</div>
-<div onclick="event.stopPropagation();showTab('rank',document.querySelectorAll('.topbar-tabs a')[1]);setCountry('cn',document.querySelectorAll('.ctab')[1]||document.querySelectorAll('.ctab')[1])">중국</div>
-<div onclick="event.stopPropagation();showTab('rank',document.querySelectorAll('.topbar-tabs a')[1]);setCountry('jp',document.querySelectorAll('.ctab')[2]||document.querySelectorAll('.ctab')[2])">일본</div>
+<div class="topbar-tabs" id="main-tabs">
+<a class="on" data-tab="overview" onclick="showTab('overview',this)"><span>종합</span></a>
+<a data-tab="rank" onclick="showTab('rank',this)"><span>매출 순위</span></a>
+<a data-tab="sentiment" onclick="showTab('sentiment',this)"><span>여론 분석</span></a>
+<a data-tab="video" onclick="showTab('video',this)"><span>인플루언서</span></a>
+<a data-tab="company" onclick="showTab('company',this)"><span>게임사 매출분석</span></a>
+<a data-tab="news" onclick="showTab('news',this)"><span>뉴스</span></a>
+<a data-tab="calendar" onclick="showTab('calendar',this)"><span>캘린더</span></a>
 </div>
-</a>
-<a onclick="showTab('sentiment',this)"><span>여론 분석</span>
-<div class="tab-submenu">
-<div onclick="event.stopPropagation();showTab('sentiment',document.querySelectorAll('.topbar-tabs a')[2]);setCountry('kr',document.querySelectorAll('.ctab')[0])">한국</div>
-<div onclick="event.stopPropagation();showTab('sentiment',document.querySelectorAll('.topbar-tabs a')[2]);setCountry('cn',document.querySelectorAll('.ctab')[1])">중국</div>
-<div onclick="event.stopPropagation();showTab('sentiment',document.querySelectorAll('.topbar-tabs a')[2]);setCountry('jp',document.querySelectorAll('.ctab')[2])">일본</div>
-</div>
-</a>
-<a onclick="showTab('video',this)"><span>인플루언서</span>
-<div class="tab-submenu">
-<div onclick="event.stopPropagation();showTab('video',document.querySelectorAll('.topbar-tabs a')[3]);setInfCountry('kr')">한국</div>
-<div onclick="event.stopPropagation();showTab('video',document.querySelectorAll('.topbar-tabs a')[3]);setInfCountry('jp')">일본</div>
-<div onclick="event.stopPropagation();showTab('video',document.querySelectorAll('.topbar-tabs a')[3]);setInfCountry('cn')">중국</div>
-</div>
-</a>
-<a onclick="showTab('company',this)"><span>게임사 매출분석</span></a>
-<a onclick="showTab('news',this)"><span>뉴스</span>
-<div class="tab-submenu">
-<div onclick="event.stopPropagation();showTab('news',document.querySelectorAll('.topbar-tabs a')[5]);setCountry('all',document.querySelectorAll('.ctab')[0])">전체</div>
-<div onclick="event.stopPropagation();showTab('news',document.querySelectorAll('.topbar-tabs a')[5]);setCountry('kr',document.querySelectorAll('.ctab')[1])">한국</div>
-<div onclick="event.stopPropagation();showTab('news',document.querySelectorAll('.topbar-tabs a')[5]);setCountry('cn',document.querySelectorAll('.ctab')[2])">중국</div>
-<div onclick="event.stopPropagation();showTab('news',document.querySelectorAll('.topbar-tabs a')[5]);setCountry('jp',document.querySelectorAll('.ctab')[3])">일본</div>
-</div>
-</a>
-<a onclick="showTab('calendar',this)"><span>캘린더</span></a>
-</div>
+
+<!-- 드롭다운 컨테이너 -->
+<div class="tab-dropdown" id="tab-dropdown"></div>
 </div>
 </nav>
 <div class="mn">
@@ -2967,7 +2945,82 @@ function initAds(){
     (adsbygoogle=window.adsbygoogle||[]).push({});
   });
 }
-document.addEventListener('DOMContentLoaded',function(){try{initAds()}catch(e){}try{initAuth()}catch(e){}});
+// ===== 탭 드롭다운 (hover) =====
+var SUBMENUS={
+  'overview':[{'label':'전체','c':'all'},{'label':'한국','c':'kr'},{'label':'중국','c':'cn'},{'label':'일본','c':'jp'}],
+  'rank':[{'label':'한국','c':'kr'},{'label':'중국','c':'cn'},{'label':'일본','c':'jp'}],
+  'sentiment':[{'label':'한국','c':'kr'},{'label':'중국','c':'cn'},{'label':'일본','c':'jp'}],
+  'video':[{'label':'한국','c':'kr'},{'label':'일본','c':'jp'},{'label':'중국','c':'cn'}],
+  'news':[{'label':'전체','c':'all'},{'label':'한국','c':'kr'},{'label':'중국','c':'cn'},{'label':'일본','c':'jp'}],
+  'calendar':[{'label':'전체','c':'all'},{'label':'한국','c':'kr'}],
+  'company':[]
+};
+var dropdownTimer=null;
+
+function initTabDropdowns(){
+  var tabs=document.querySelectorAll('#main-tabs a');
+  var dd=document.getElementById('tab-dropdown');
+  if(!dd)return;
+  tabs.forEach(function(tab){
+    var tabName=tab.getAttribute('data-tab');
+    tab.addEventListener('mouseenter',function(e){
+      clearTimeout(dropdownTimer);
+      var items=SUBMENUS[tabName];
+      if(!items||items.length===0){dd.classList.remove('on');return;}
+      var rect=tab.getBoundingClientRect();
+      var html='';
+      items.forEach(function(item){
+        html+='<div class="tab-dropdown-item" data-tab="'+tabName+'" data-country="'+item.c+'">'+item.label+'</div>';
+      });
+      dd.innerHTML=html;
+      dd.style.left=rect.left+'px';
+      dd.style.top=(rect.bottom+2)+'px';
+      dd.classList.add('on');
+      // 아이템 클릭
+      dd.querySelectorAll('.tab-dropdown-item').forEach(function(el){
+        el.addEventListener('click',function(){
+          var t=el.getAttribute('data-tab');
+          var c=el.getAttribute('data-country');
+          goToTabCountry(t,c);
+          dd.classList.remove('on');
+        });
+      });
+    });
+    tab.addEventListener('mouseleave',function(){
+      dropdownTimer=setTimeout(function(){dd.classList.remove('on')},200);
+    });
+  });
+  dd.addEventListener('mouseenter',function(){clearTimeout(dropdownTimer)});
+  dd.addEventListener('mouseleave',function(){dd.classList.remove('on')});
+}
+
+function goToTabCountry(tab,c){
+  // 탭 이동
+  var tabEl=document.querySelector('#main-tabs a[data-tab="'+tab+'"]');
+  if(tabEl)showTab(tab,tabEl);
+  // 국가 설정 (약간 지연 후)
+  setTimeout(function(){
+    if(tab==='video'){
+      setInfCountry(c);
+    } else {
+      country=c;
+      var ctabs=document.querySelectorAll('.tc.on .ctab');
+      ctabs.forEach(function(t){t.classList.remove('on')});
+      for(var i=0;i<ctabs.length;i++){
+        var txt=ctabs[i].textContent;
+        if((c==='all'&&txt.indexOf('전체')>=0)||(c==='kr'&&txt.indexOf('한국')>=0)||(c==='cn'&&txt.indexOf('중국')>=0)||(c==='jp'&&txt.indexOf('일본')>=0)){
+          ctabs[i].classList.add('on');break;
+        }
+      }
+      if(tab==='overview')loadOverview();
+      if(tab==='rank')renderRank(document.getElementById('rank-search')?document.getElementById('rank-search').value:'');
+      if(tab==='sentiment')renderSentiment(document.getElementById('sent-search')?document.getElementById('sent-search').value:'');
+      if(tab==='news')renderNews();
+    }
+  },100);
+}
+
+document.addEventListener('DOMContentLoaded',function(){try{initAds()}catch(e){}try{initAuth()}catch(e){}try{initTabDropdowns()}catch(e){console.log('dropdown init:',e)}});
 </script>
 <!-- 구글 애드센스 -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script>
