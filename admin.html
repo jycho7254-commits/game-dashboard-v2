@@ -47,7 +47,7 @@ button{padding:10px 20px;border-radius:8px;border:1px solid #818cf8;background:#
 <div class="card">
 <h2>회원 목록</h2>
 <table id="users-table">
-<thead><tr><th>이메일</th><th>가입일</th><th>마지막 로그인</th><th>상태</th></tr></thead>
+<thead><tr><th>이메일</th><th>가입일</th><th>마지막 로그인</th><th>상태</th><th>관리</th></tr></thead>
 <tbody></tbody>
 </table>
 </div>
@@ -55,7 +55,7 @@ button{padding:10px 20px;border-radius:8px;border:1px solid #818cf8;background:#
 <div class="card">
 <h2>리포트 구독 현황</h2>
 <table id="subs-table">
-<thead><tr><th>이메일</th><th>게임</th><th>빈도</th><th>요청사항</th><th>첨부파일</th><th>신청일</th><th>상태</th></tr></thead>
+<thead><tr><th>이메일</th><th>게임</th><th>빈도</th><th>요청사항</th><th>첨부파일</th><th>신청일</th><th>상태</th><th>관리</th></tr></thead>
 <tbody></tbody>
 </table>
 </div>
@@ -110,7 +110,7 @@ async function loadData(){
     // 회원 테이블
     const usersTbody=document.querySelector('#users-table tbody');
     usersTbody.innerHTML=users.map(u=>{
-      return '<tr><td>'+u.email+'</td><td>'+(u.created_at||'').slice(0,10)+'</td><td>'+(u.last_sign_in_at||'').slice(0,10)+'</td><td><span class="pill '+(u.email_confirmed_at?'pill-active':'pill-inactive')+'">'+(u.email_confirmed_at?'인증':'미인증')+'</span></td></tr>';
+      return '<tr><td>'+u.email+'</td><td>'+(u.created_at||'').slice(0,10)+'</td><td>'+(u.last_sign_in_at||'').slice(0,10)+'</td><td><span class="pill '+(u.email_confirmed_at?'pill-active':'pill-inactive')+'">'+(u.email_confirmed_at?'인증':'미인증')+'</span></td><td><button onclick="deleteUser(\''+u.id+'\')" style="padding:4px 10px;border-radius:6px;border:1px solid #e74c3c;background:transparent;color:#e74c3c;cursor:pointer;font-size:13px">삭제</button></td></tr>';
     }).join('');
 
     // 2. 리포트 구독
@@ -120,14 +120,26 @@ async function loadData(){
     // 구독 테이블
     const subsTbody=document.querySelector('#subs-table tbody');
     subsTbody.innerHTML=(subs||[]).map(s=>{
+      var fileCell='-';
+      if(s.file_name){
+        if(s.file_url){
+          fileCell='<a href="'+s.file_url+'" target="_blank" style="color:#818cf8;text-decoration:none">'+s.file_name+'</a>';
+        } else {
+          fileCell=s.file_name;
+        }
+      }
+      var activeBtn=s.active
+        ?'<button onclick="toggleSub(\''+s.id+'\',false)" style="padding:4px 10px;border-radius:6px;border:1px solid #e74c3c;background:transparent;color:#e74c3c;cursor:pointer;font-size:13px">차단</button>'
+        :'<button onclick="toggleSub(\''+s.id+'\',true)" style="padding:4px 10px;border-radius:6px;border:1px solid #27ae60;background:transparent;color:#27ae60;cursor:pointer;font-size:13px">해제</button>';
       return '<tr>'+
         '<td>'+s.email+'</td>'+
         '<td>'+s.game+'</td>'+
         '<td>'+s.freq+'</td>'+
         '<td>'+(s.notes||'-').slice(0,30)+'</td>'+
-        '<td>'+(s.file_name||'-')+'</td>'+
+        '<td>'+fileCell+'</td>'+
         '<td>'+(s.created_at||'').slice(0,10)+'</td>'+
-        '<td><span class="pill '+(s.active?'pill-active':'pill-inactive')+'">'+(s.active?'활성':'비활성')+'</span></td>'+
+        '<td><span class="pill '+(s.active?'pill-active':'pill-inactive')+'">'+(s.active?'활성':'차단')+'</span></td>'+
+        '<td>'+activeBtn+'</td>'+
         '</tr>';
     }).join('');
   }catch(e){
@@ -143,6 +155,34 @@ async function adminLogout(){
   document.getElementById('login-section').style.display='block';
   document.getElementById('admin-email').value='';
   document.getElementById('admin-pw').value='';
+}
+
+async function deleteUser(uid){
+  if(!confirm('정말 삭제하시겠습니까? 이 작업은 되돌릴 수 없습니다.'))return;
+  try{
+    const resp=await fetch(SUPABASE_URL+'/auth/v1/admin/users/'+uid,{
+      method:'DELETE',
+      headers:{'apikey':SERVICE_KEY,'Authorization':'Bearer '+SERVICE_KEY}
+    });
+    if(resp.ok){
+      alert('삭제 완료');
+      loadData();
+    } else {
+      alert('삭제 실패: '+resp.status);
+    }
+  }catch(e){
+    alert('에러: '+e.message);
+  }
+}
+
+async function toggleSub(id,active){
+  try{
+    const{error}=await sb.from('report_subscriptions').update({active:active}).eq('id',id);
+    if(error)throw error;
+    loadData();
+  }catch(e){
+    alert('에러: '+e.message);
+  }
 }
 
 // 세션 확인
