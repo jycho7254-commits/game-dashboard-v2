@@ -333,7 +333,7 @@ try{sb=window.supabase.createClient(SUPABASE_URL,SUPABASE_KEY,{auth:{persistSess
 <nav class="topbar">
 <div class="topbar-inner">
 <div class="topbar-right">
-<span class="meta" id="update-time">2026-08-10 13:57</span>
+<span class="meta" id="update-time">2026-08-10 13:58</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 <span id="auth-area" style="display:flex;align-items:center;gap:6px">
 <button id="login-btn" onclick="openAuthModal('login')" style="padding:5px 14px;border-radius:6px;border:1px solid var(--accent);background:transparent;color:var(--accent);cursor:pointer;font-size:14px;font-weight:600">로그인</button>
@@ -3003,11 +3003,10 @@ function initTabDropdowns(){
   if(!dd)return;
   tabs.forEach(function(tab){
     var tabName=tab.getAttribute('data-tab');
-    tab.addEventListener('mouseenter',function(){
+    tab.addEventListener('mouseenter',function(e){
       clearTimeout(dropdownTimer);
       var items=SUBMENUS[tabName];
       if(!items||items.length===0){dd.classList.remove('on');return;}
-      // 즉시 위치 계산
       var rect=tab.getBoundingClientRect();
       var html='';
       items.forEach(function(item){
@@ -3016,9 +3015,15 @@ function initTabDropdowns(){
       dd.innerHTML=html;
       dd.classList.add('on');
       var ddRect=dd.getBoundingClientRect();
-      var leftPos=rect.left+rect.width/2-ddRect.width/2;
+      // 탭 left에서 시작해서 탭 right까지 확장
+      var leftPos=rect.left;
+      var ddWidth=ddRect.width;
+      // 탭 너비가 드롭다운보다 작으면 중앙 정렬, 크면 왼쪽 정렬
+      if(rect.width<ddWidth){
+        leftPos=rect.left+rect.width/2-ddWidth/2;
+      }
       if(leftPos<8)leftPos=8;
-      if(leftPos+ddRect.width>window.innerWidth-8)leftPos=window.innerWidth-ddRect.width-8;
+      if(leftPos+ddWidth>window.innerWidth-8)leftPos=window.innerWidth-ddWidth-8;
       dd.style.left=leftPos+'px';
       dd.style.top=(rect.bottom+4)+'px';
       dd.querySelectorAll('.tab-dropdown-item').forEach(function(el){
