@@ -105,6 +105,19 @@
   },
   {
     "rank": 9,
+    "title": "Kingshot",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 3.5,
+    "app_id": "com.run.tower.defense",
+    "local_name": "Kingshot",
+    "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
+    "est_revenue": 11380988,
+    "est_revenue_fmt": "$11.4M",
+    "est_revenue_won": "34.0억"
+  },
+  {
+    "rank": 10,
     "title": "幻想水滸伝 STAR LEAP",
     "developer": "KONAMI",
     "genre": "Game",
@@ -115,19 +128,6 @@
     "est_revenue": 12316805,
     "est_revenue_fmt": "$12.3M",
     "est_revenue_won": ""
-  },
-  {
-    "rank": 10,
-    "title": "Kingshot",
-    "developer": "Century Games PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.6,
-    "app_id": "com.run.tower.defense",
-    "local_name": "Kingshot",
-    "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
-    "est_revenue": 11380988,
-    "est_revenue_fmt": "$11.4M",
-    "est_revenue_won": "34.0억"
   },
   {
     "rank": 11,
@@ -196,19 +196,6 @@
   },
   {
     "rank": 16,
-    "title": "Arknights: Endfield",
-    "developer": "GRYPHLINE",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.gryphline.endfield.gp",
-    "local_name": "Arknights: Endfield",
-    "icon": "https://play-lh.googleusercontent.com/l6FVNa293RykBWy88TqEhUakIcGSC8bRygSnKOBgztln48JX-WzMWnrBAETrKZsxDNC4HhwCsvfle_UI7rBE",
-    "est_revenue": 8000000,
-    "est_revenue_fmt": "$8.0M",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 17,
     "title": "トゥーンブラスト (Toon Blast)",
     "developer": "Peak",
     "genre": "Game",
@@ -221,7 +208,7 @@
     "est_revenue_won": "42.3억"
   },
   {
-    "rank": 18,
+    "rank": 17,
     "title": "Pokémon GO",
     "developer": "Scopely Explore, Inc.",
     "genre": "Game",
@@ -234,20 +221,20 @@
     "est_revenue_won": "40.0억"
   },
   {
-    "rank": 19,
-    "title": "Honkai: Star Rail",
-    "developer": "COGNOSPHERE PTE. LTD.",
+    "rank": 18,
+    "title": "Arknights: Endfield",
+    "developer": "GRYPHLINE",
     "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.HoYoverse.hkrpgoversea",
-    "local_name": "崩壊:スターレイル",
-    "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
-    "est_revenue": 7032581,
-    "est_revenue_fmt": "$7.0M",
-    "est_revenue_won": "51.2억"
+    "rating": 4.6,
+    "app_id": "com.gryphline.endfield.gp",
+    "local_name": "Arknights: Endfield",
+    "icon": "https://play-lh.googleusercontent.com/l6FVNa293RykBWy88TqEhUakIcGSC8bRygSnKOBgztln48JX-WzMWnrBAETrKZsxDNC4HhwCsvfle_UI7rBE",
+    "est_revenue": 8000000,
+    "est_revenue_fmt": "$8.0M",
+    "est_revenue_won": ""
   },
   {
-    "rank": 20,
+    "rank": 19,
     "title": "Zenless Zone Zero - Anniv.",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -258,6 +245,19 @@
     "est_revenue": 6767176,
     "est_revenue_fmt": "$6.8M",
     "est_revenue_won": "222.6억"
+  },
+  {
+    "rank": 20,
+    "title": "Honkai: Star Rail",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "genre": "Game",
+    "rating": 3.8,
+    "app_id": "com.HoYoverse.hkrpgoversea",
+    "local_name": "崩壊:スターレイル",
+    "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
+    "est_revenue": 7032581,
+    "est_revenue_fmt": "$7.0M",
+    "est_revenue_won": "51.2억"
   },
   {
     "rank": 21,
@@ -391,6 +391,19 @@
   },
   {
     "rank": 31,
+    "title": "LINE Pokopoko",
+    "developer": "LINE (LY Corporation)",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.linecorp.LGPKPK",
+    "local_name": "LINE Pokopoko",
+    "icon": "https://play-lh.googleusercontent.com/RW37kh_sLiGoadwzE4fMx90rWyXWUED7bewIu0FOeyqDN1ggtba4MDqGLpUF666AToW2DbM-PDZKjkTuwBHXpPM",
+    "est_revenue": 4648303,
+    "est_revenue_fmt": "$4.6M",
+    "est_revenue_won": "22.8억"
+  },
+  {
+    "rank": 32,
     "title": "Royal Kingdom",
     "developer": "Dream Games, Ltd.",
     "genre": "Game",
@@ -403,7 +416,7 @@
     "est_revenue_won": "14.9억"
   },
   {
-    "rank": 32,
+    "rank": 33,
     "title": "Genshin Impact",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -414,19 +427,6 @@
     "est_revenue": 4756828,
     "est_revenue_fmt": "$4.8M",
     "est_revenue_won": "20.9억"
-  },
-  {
-    "rank": 33,
-    "title": "LINE Pokopoko",
-    "developer": "LINE (LY Corporation)",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.linecorp.LGPKPK",
-    "local_name": "LINE Pokopoko",
-    "icon": "https://play-lh.googleusercontent.com/RW37kh_sLiGoadwzE4fMx90rWyXWUED7bewIu0FOeyqDN1ggtba4MDqGLpUF666AToW2DbM-PDZKjkTuwBHXpPM",
-    "est_revenue": 4648303,
-    "est_revenue_fmt": "$4.6M",
-    "est_revenue_won": "22.8억"
   },
   {
     "rank": 34,
@@ -469,32 +469,6 @@
   },
   {
     "rank": 37,
-    "title": "Last Z: Survival Shooter",
-    "developer": "Omnilojo Pte Ltd",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.readygo.barrel.gp",
-    "local_name": "Last Z: Survival Shooter",
-    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
-    "est_revenue": 4266076,
-    "est_revenue_fmt": "$4.3M",
-    "est_revenue_won": "12.4억"
-  },
-  {
-    "rank": 38,
-    "title": "妖怪ウォッチ ぷにぷに",
-    "developer": "LEVEL-5 Inc.",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.Level5.YWP",
-    "local_name": "妖怪ウォッチ ぷにぷに",
-    "icon": "https://play-lh.googleusercontent.com/AZI9Tz7-HN64EOMKc0nR6U7YOCj5dNlf0M3p8DbGnCAhZE5o7553zvZhA9Ar7qAtDeJQRRWw0rmtpykTVbwV",
-    "est_revenue": 4181597,
-    "est_revenue_fmt": "$4.2M",
-    "est_revenue_won": "25.0억"
-  },
-  {
-    "rank": 39,
     "title": "Homescapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -507,7 +481,20 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 40,
+    "rank": 38,
+    "title": "Last Z: Survival Shooter",
+    "developer": "Omnilojo Pte Ltd",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.readygo.barrel.gp",
+    "local_name": "Last Z: Survival Shooter",
+    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
+    "est_revenue": 4266076,
+    "est_revenue_fmt": "$4.3M",
+    "est_revenue_won": "12.4억"
+  },
+  {
+    "rank": 39,
     "title": "信長の野望 覇道",
     "developer": "KOEI TECMO GAMES CO., LTD.",
     "genre": "Game",
@@ -518,6 +505,19 @@
     "est_revenue": 4023786,
     "est_revenue_fmt": "$4.0M",
     "est_revenue_won": ""
+  },
+  {
+    "rank": 40,
+    "title": "妖怪ウォッチ ぷにぷに",
+    "developer": "LEVEL-5 Inc.",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.Level5.YWP",
+    "local_name": "妖怪ウォッチ ぷにぷに",
+    "icon": "https://play-lh.googleusercontent.com/AZI9Tz7-HN64EOMKc0nR6U7YOCj5dNlf0M3p8DbGnCAhZE5o7553zvZhA9Ar7qAtDeJQRRWw0rmtpykTVbwV",
+    "est_revenue": 4181597,
+    "est_revenue_fmt": "$4.2M",
+    "est_revenue_won": "25.0억"
   },
   {
     "rank": 41,
