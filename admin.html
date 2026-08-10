@@ -65,6 +65,7 @@ button{padding:10px 20px;border-radius:8px;border:1px solid #818cf8;background:#
 <script>
 const SUPABASE_URL='https://csenbounuattwcivyuho.supabase.co';
 const SUPABASE_KEY='sb_publishable_fYfb017lB4Xku_Gni_5pxQ_T-q1fluV';
+const SERVICE_KEY='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNzZW5ib3VudWF0dHdjaXZ5dWhvIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc4NjA3OTk4NSwiZXhwIjoyMTAxNjU1OTg1fQ.tRKHZEQm3VmLCHPEY7HX64eFcQTL5QSGxqOCfI3LePI';
 const ADMIN_EMAILS=['jycho7253@naver.com']; // 관리자 화이트리스트
 const sb=window.supabase.createClient(SUPABASE_URL,SUPABASE_KEY);
 let adminUser=null;
@@ -93,28 +94,28 @@ async function adminLogin(){
 
 async function loadData(){
   try{
-    // 회원 수
-    const{count:userCount}=await sb.from('report_subscriptions').select('*',{count:'exact',head:true});
-    document.getElementById('stat-users').textContent=userCount||0;
-
-    // 리포트 구독
-    const{data:subs,error:subsError}=await sb.from('report_subscriptions').select('*').order('created_at',{ascending:false});
-    if(subsError)throw subsError;
-    document.getElementById('stat-subs').textContent=subs?subs.length:0;
+    // 1. Auth 유저 목록 (admin API)
+    const userResp=await fetch(SUPABASE_URL+'/auth/v1/admin/users',{
+      headers:{'apikey':SERVICE_KEY,'Authorization':'Bearer '+SERVICE_KEY}
+    });
+    const authUsers=userResp.ok?await userResp.json():[];
+    const users=authUsers.users||authUsers||[];
+    document.getElementById('stat-users').textContent=users.length;
 
     // 오늘 가입
     const today=new Date().toISOString().slice(0,10);
-    const todayCount=subs?subs.filter(s=>s.created_at&&s.created_at.slice(0,10)===today).length:0;
+    const todayCount=users.filter(u=>u.created_at&&u.created_at.slice(0,10)===today).length;
     document.getElementById('stat-today').textContent=todayCount;
 
-    // 회원 테이블 (구독에서 이메일 추출)
-    const uniqueEmails=[...new Set(subs?subs.map(s=>s.email):[])];
+    // 회원 테이블
     const usersTbody=document.querySelector('#users-table tbody');
-    usersTbody.innerHTML=uniqueEmails.map(email=>{
-      const userSubs=subs.filter(s=>s.email===email);
-      const latest=userSubs[0];
-      return '<tr><td>'+email+'</td><td>'+(latest.created_at||'').slice(0,10)+'</td><td>-</td><td><span class="pill pill-active">활성</span></td></tr>';
+    usersTbody.innerHTML=users.map(u=>{
+      return '<tr><td>'+u.email+'</td><td>'+(u.created_at||'').slice(0,10)+'</td><td>'+(u.last_sign_in_at||'').slice(0,10)+'</td><td><span class="pill '+(u.email_confirmed_at?'pill-active':'pill-inactive')+'">'+(u.email_confirmed_at?'인증':'미인증')+'</span></td></tr>';
     }).join('');
+
+    // 2. 리포트 구독
+    const{data:subs,error:subsError}=await sb.from('report_subscriptions').select('*').order('created_at',{ascending:false});
+    document.getElementById('stat-subs').textContent=subs?subs.length:0;
 
     // 구독 테이블
     const subsTbody=document.querySelector('#subs-table tbody');
