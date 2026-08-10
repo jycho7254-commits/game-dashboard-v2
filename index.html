@@ -333,7 +333,7 @@ try{sb=window.supabase.createClient(SUPABASE_URL,SUPABASE_KEY,{auth:{persistSess
 <nav class="topbar">
 <div class="topbar-inner">
 <div class="topbar-right">
-<span class="meta" id="update-time">2026-08-10 15:34</span>
+<span class="meta" id="update-time">2026-08-10 15:38</span>
 <button id="theme-toggle" onclick="toggleTheme()">다크</button>
 <span id="auth-area" style="display:flex;align-items:center;gap:6px">
 <button id="login-btn" onclick="openAuthModal('login')" style="padding:5px 14px;border-radius:6px;border:1px solid var(--accent);background:transparent;color:var(--accent);cursor:pointer;font-size:14px;font-weight:600">로그인</button>
@@ -2504,11 +2504,19 @@ function openReportModal(){
     '<div><label style="font-size:15px;color:var(--t2);font-weight:600">수신 빈도</label>'+
     '<select id="report-freq" style="width:100%;padding:10px 14px;border-radius:8px;border:1px solid var(--border);background:var(--surface);color:var(--t1);font-size:16px;margin-top:4px">'+
     '<option value="daily-8">매일 오전 8시</option>'+
+    '<option value="daily-9">매일 오전 9시</option>'+
+    '<option value="daily-10">매일 오전 10시</option>'+
+    '<option value="daily-11">매일 오전 11시</option>'+
     '<option value="daily-12">매일 오후 12시</option>'+
+    '<option value="daily-13">매일 오후 1시</option>'+
+    '<option value="daily-14">매일 오후 2시</option>'+
+    '<option value="daily-15">매일 오후 3시</option>'+
+    '<option value="daily-16">매일 오후 4시</option>'+
+    '<option value="daily-17">매일 오후 5시</option>'+
     '<option value="daily-18">매일 오후 6시</option>'+
-    '<option value="hourly-am">오전 매 시간 (9시~12시)</option>'+
+    '<option value="hourly-am">오전 매 시간 (8시~12시)</option>'+
     '<option value="hourly-pm">오후 매 시간 (1시~6시)</option>'+
-    '<option value="hourly-all">매 시간 (9시~6시)</option>'+
+    '<option value="hourly-all">매 시간 (8시~6시)</option>'+
     '</select></div>'+
 
     '<div><label style="font-size:15px;color:var(--t2);font-weight:600">추가 요청사항 (선택)</label>'+
@@ -2617,7 +2625,14 @@ async function submitReport(){
 
   if(result){
     result.style.display='block';
-    result.innerHTML='✅ 리포트 신청 완료!<br><span style="font-size:14px;font-weight:400">'+email.value+'로 발송됩니다.</span>';
+    result.innerHTML='신청이 완료되었습니다.<br><span style="font-size:14px;font-weight:400">'+email.value+'로 발송됩니다.</span>';
+    // 신청 폼 숨김
+    var formFields=document.getElementById('modal-sentiment').querySelectorAll('.modal-sec');
+    formFields.forEach(function(f){f.style.display='none'});
+    var submitBtn=document.getElementById('modal-sentiment').querySelector('button[onclick="submitReport()"]');
+    if(submitBtn)submitBtn.parentElement.style.display='none';
+    // 결과만 표시
+    result.scrollIntoView({behavior:'smooth'});
   }
 }
 
