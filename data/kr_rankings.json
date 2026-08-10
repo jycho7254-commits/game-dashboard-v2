@@ -14,19 +14,6 @@
   },
   {
     "rank": 2,
-    "title": "Kingshot",
-    "developer": "Century Games PTE. LTD.",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.run.tower.defense",
-    "local_name": "킹샷",
-    "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
-    "est_revenue": 2807624,
-    "est_revenue_fmt": "$2.8M",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 3,
     "title": "SOL: enchant",
     "developer": "Netmarble",
     "genre": "Game",
@@ -36,6 +23,19 @@
     "icon": "https://play-lh.googleusercontent.com/eRGPrWXzheZvTiTRBDBuaysX8ptDH5xasKV8rzWmuEKA9WsXfftcybnz9zQB89Iiqx7WKa_naS_WK5DdT1KB",
     "est_revenue": 3805462,
     "est_revenue_fmt": "$3.8M",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 3,
+    "title": "Kingshot",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.run.tower.defense",
+    "local_name": "킹샷",
+    "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
+    "est_revenue": 2807624,
+    "est_revenue_fmt": "$2.8M",
     "est_revenue_won": ""
   },
   {
@@ -121,7 +121,7 @@
     "title": "열혈강호: 넥스트",
     "developer": "Kingnet Technology Limited",
     "genre": "Game",
-    "rating": 4.6,
+    "rating": 4.5,
     "app_id": "com.rxjhglkr.gp",
     "local_name": "열혈강호: 넥스트",
     "icon": "https://play-lh.googleusercontent.com/ct9hCP6C7NRwwTT3p-eIRLAJHMYuK2k2kO0tC6nc8YUCwgRos5tOuzfKmflfPOwQdfJiuNHkmifu0lhVcEmY",
@@ -430,58 +430,6 @@
   },
   {
     "rank": 34,
-    "title": "Pmang Poker : Casino Royal",
-    "developer": "NEOWIZ corp",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.neowiz.games.poker",
-    "local_name": "피망 포커",
-    "icon": "https://play-lh.googleusercontent.com/MkI60z70bUF0YIi9loQzKm08WLinhruANPb6D7j1Gh1iPiLrfL1W-2ZQ0Q8ICCMdkFY0jDlTjx9_iZFVGOourg",
-    "est_revenue": 487145,
-    "est_revenue_fmt": "$487K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 35,
-    "title": "트릭컬 리바이브",
-    "developer": "EPIDGames",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.epidgames.trickcalrevive",
-    "local_name": "트릭컬 리바이브",
-    "icon": "https://play-lh.googleusercontent.com/OCiuBv70Dnuw9wcGet3EtTUF2nEkS1vhYYkvOahe9-MmKg6EhxGkf-9ZVxnWIJXflQSmfOIjTcaSbwJSJyuzHA",
-    "est_revenue": 435464,
-    "est_revenue_fmt": "$435K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 36,
-    "title": "컴투스프로야구V26",
-    "developer": "Com2uS",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.com2us.futurecpb.android.google.global.normal",
-    "local_name": "컴투스프로야구V26",
-    "icon": "https://play-lh.googleusercontent.com/lFrail_ogSgoETUZcsAgLG7gC4lvjcOdffEURRt5kTAaIbr3pdm7s7hrIQNMl-jTu_Hbw7NDuU9gpJZDRsqY",
-    "est_revenue": 444763,
-    "est_revenue_fmt": "$445K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 37,
-    "title": "킹덤2: 타오르는 전장",
-    "developer": "FOW Games",
-    "genre": "Game",
-    "rating": 4.1,
-    "app_id": "com.fowgames.kingdom2",
-    "local_name": "킹덤2: 타오르는 전장",
-    "icon": "https://play-lh.googleusercontent.com/e9fghg-B6E_QuhMmyW8PIyYCE8uVv78HaEEtPh7E1BMpEvoBRONp5IEvSiDGJ9GlX6VQkOKtIa8Jk8r9m5uZ3Pw",
-    "est_revenue": 387920,
-    "est_revenue_fmt": "$388K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 38,
     "title": "RF ONLINE NEXT",
     "developer": "Netmarble",
     "genre": "Game",
@@ -494,20 +442,59 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 39,
-    "title": "Seven Knights Re:BIRTH",
-    "developer": "Netmarble",
+    "rank": 35,
+    "title": "Pmang Poker : Casino Royal",
+    "developer": "NEOWIZ corp",
     "genre": "Game",
-    "rating": 4,
-    "app_id": "com.netmarble.tskgb",
-    "local_name": "세븐나이츠 리버스",
-    "icon": "https://play-lh.googleusercontent.com/8CYFFvToiBwJ6NqGpd90FPRsnYzf6Fmn9zaILckmltokY8HMp-50ZJsCq04EVmjfpszgzoLLGwol9D2zn1qTP1I",
-    "est_revenue": 426607,
-    "est_revenue_fmt": "$427K",
+    "rating": 4.2,
+    "app_id": "com.neowiz.games.poker",
+    "local_name": "피망 포커",
+    "icon": "https://play-lh.googleusercontent.com/MkI60z70bUF0YIi9loQzKm08WLinhruANPb6D7j1Gh1iPiLrfL1W-2ZQ0Q8ICCMdkFY0jDlTjx9_iZFVGOourg",
+    "est_revenue": 487145,
+    "est_revenue_fmt": "$487K",
     "est_revenue_won": ""
   },
   {
-    "rank": 40,
+    "rank": 36,
+    "title": "트릭컬 리바이브",
+    "developer": "EPIDGames",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.epidgames.trickcalrevive",
+    "local_name": "트릭컬 리바이브",
+    "icon": "https://play-lh.googleusercontent.com/OCiuBv70Dnuw9wcGet3EtTUF2nEkS1vhYYkvOahe9-MmKg6EhxGkf-9ZVxnWIJXflQSmfOIjTcaSbwJSJyuzHA",
+    "est_revenue": 435464,
+    "est_revenue_fmt": "$435K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 37,
+    "title": "컴투스프로야구V26",
+    "developer": "Com2uS",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.com2us.futurecpb.android.google.global.normal",
+    "local_name": "컴투스프로야구V26",
+    "icon": "https://play-lh.googleusercontent.com/lFrail_ogSgoETUZcsAgLG7gC4lvjcOdffEURRt5kTAaIbr3pdm7s7hrIQNMl-jTu_Hbw7NDuU9gpJZDRsqY",
+    "est_revenue": 444763,
+    "est_revenue_fmt": "$445K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 38,
+    "title": "킹덤2: 타오르는 전장",
+    "developer": "FOW Games",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.fowgames.kingdom2",
+    "local_name": "킹덤2: 타오르는 전장",
+    "icon": "https://play-lh.googleusercontent.com/e9fghg-B6E_QuhMmyW8PIyYCE8uVv78HaEEtPh7E1BMpEvoBRONp5IEvSiDGJ9GlX6VQkOKtIa8Jk8r9m5uZ3Pw",
+    "est_revenue": 387920,
+    "est_revenue_fmt": "$388K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 39,
     "title": "Coop TD: Together",
     "developer": "Supermagic",
     "genre": "Game",
@@ -517,6 +504,19 @@
     "icon": "https://play-lh.googleusercontent.com/vTxEJvWJq3cIbideJTNd9ZAYolS4ll7hUlMT3piDAsP6y84EPI-k1tPpoALoCwvmbJMn3LBW-sjzhHpERqfY",
     "est_revenue": 402378,
     "est_revenue_fmt": "$402K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 40,
+    "title": "Seven Knights Re:BIRTH",
+    "developer": "Netmarble",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "com.netmarble.tskgb",
+    "local_name": "세븐나이츠 리버스",
+    "icon": "https://play-lh.googleusercontent.com/8CYFFvToiBwJ6NqGpd90FPRsnYzf6Fmn9zaILckmltokY8HMp-50ZJsCq04EVmjfpszgzoLLGwol9D2zn1qTP1I",
+    "est_revenue": 426607,
+    "est_revenue_fmt": "$427K",
     "est_revenue_won": ""
   },
   {
@@ -547,19 +547,6 @@
   },
   {
     "rank": 43,
-    "title": "Flambé®: Merge & Cook",
-    "developer": "Microfun Limited",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.cola.game",
-    "local_name": "플랑베",
-    "icon": "https://play-lh.googleusercontent.com/DxEYTS_nNDbesjgAGulDTgl8V2cV42UUmeOGPei2c95XRW7GY_XgihSsaPF7rnRua18Egkd1-siIgbkVjq73Hg",
-    "est_revenue": 386775,
-    "est_revenue_fmt": "$387K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 44,
     "title": "AION2",
     "developer": "NC Corporation",
     "genre": "Game",
@@ -572,7 +559,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 45,
+    "rank": 44,
     "title": "PUBG Mobile",
     "developer": "KRAFTON, Inc.",
     "genre": "Game",
@@ -585,7 +572,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 46,
+    "rank": 45,
     "title": "EA SPORTS FC Online M",
     "developer": "NEXON Company",
     "genre": "Game",
@@ -595,6 +582,19 @@
     "icon": "https://play-lh.googleusercontent.com/3kHUd_bPqo2Mz00jcm8gxIjgawGnkg1w7V1KZfQ-UalXUj8QrLwqmGxpUNniLQ4o3exMUCl_lKa5KOolaOqBFdo",
     "est_revenue": 422496,
     "est_revenue_fmt": "$422K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 46,
+    "title": "Flambé®: Merge & Cook",
+    "developer": "Microfun Limited",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.cola.game",
+    "local_name": "플랑베",
+    "icon": "https://play-lh.googleusercontent.com/DxEYTS_nNDbesjgAGulDTgl8V2cV42UUmeOGPei2c95XRW7GY_XgihSsaPF7rnRua18Egkd1-siIgbkVjq73Hg",
+    "est_revenue": 386775,
+    "est_revenue_fmt": "$387K",
     "est_revenue_won": ""
   },
   {
