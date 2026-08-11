@@ -340,7 +340,7 @@ try{sb=window.supabase.createClient(SUPABASE_URL,SUPABASE_KEY,{auth:{persistSess
 <nav class="topbar">
 <div class="topbar-inner">
 <div class="topbar-right">
-<span class="meta" id="update-time">2026-08-11 10:52</span>
+<span class="meta" id="update-time">2026-08-11 10:53</span>
 <span id="auth-area" style="display:flex;align-items:center;gap:6px">
 <button id="login-btn" onclick="openAuthModal('login')" style="padding:5px 14px;border-radius:6px;border:1px solid var(--accent);background:transparent;color:var(--accent);cursor:pointer;font-size:14px;font-weight:600">로그인</button>
 <button id="signup-btn" onclick="openAuthModal('signup')" style="padding:5px 14px;border-radius:6px;border:1px solid var(--accent);background:var(--accent);color:#fff;cursor:pointer;font-size:14px;font-weight:600">회원가입</button>
@@ -1934,7 +1934,6 @@ function openCoModal(idx){
   html+='<div class="kpi"><div class="l">YoY 성장률</div><div class="v" style="'+(yoy>=0?'color:var(--pos)':'color:var(--neg)')+'">'+(yoy!=null?(yoy>=0?'+':'')+yoy+'%':'-')+'</div><div class="s">2024 대비</div></div>';
   html+='<div class="kpi"><div class="l">티커</div><div class="v" style="font-size:14px">'+(c.ticker||'비상장')+'</div><div class="s">'+(c.type||'')+'</div></div>';
   html+='</div>';
-  html+='</div>';
   // 기업 정보
   html+='<div class="modal-sec"><h4>기업 정보</h4><div style="font-size:15px;line-height:1.8">';
   html+='<p><b>영문명:</b> '+escAttr(c.name||'')+'</p>';
@@ -2068,59 +2067,7 @@ function toggleQuarterly(idx){
     if(window.coChartQ){try{window.coChartQ.destroy();window.coChartQ=null}catch(e){}}
   }
 }
-  // 정보
-  html+='<div class="modal-sec"><h4>🏢 기업 정보</h4><div style="font-size:15px;line-height:1.8">';
-  html+='<p><b>영문명:</b> '+escAttr(c.name||'')+'</p>';
-  if(c.ticker)html+='<p><b>상장:</b> '+escAttr(c.ticker)+'</p>';
-  html+='<p><b>출처:</b> <span style="color:var(--pos)">'+escAttr(c.source||'')+'</span></p>';
-  if(c.notes)html+='<p style="margin-top:8px;padding:8px;background:var(--bg3);border-radius:6px;font-size:14px;color:var(--t2)">'+escAttr(c.notes)+'</p>';
-  html+='</div></div>';
-  // 링크 버튼 3개
-  var searchName=c.name_kr||c.name||'';
-  html+='<div class="modal-sec"><h4>🔗 바로가기</h4><div style="display:flex;gap:8px;flex-wrap:wrap">';
-  // 1. 공식 사이트 / IR
-  var irUrl=c.ir_url||c.official_url||'';
-  if(irUrl){
-    var btnLabel=c.ir_url?'📋 IR 자료실':'🌐 공식 사이트';
-    html+='<a href="'+irUrl+'" target="_blank" style="padding:8px 14px;border-radius:8px;background:var(--accent);color:#fff;text-decoration:none;font-size:14px;font-weight:600;display:inline-flex;align-items:center;gap:4px">'+btnLabel+'</a>';
-  }else{
-    html+='<a href="https://www.google.com/search?q='+encodeURIComponent(searchName+' 공식 사이트')+'" target="_blank" style="padding:8px 14px;border-radius:8px;background:var(--bg3);border:1px solid var(--border);color:var(--t1);text-decoration:none;font-size:14px;font-weight:600">🌐 공식 사이트</a>';
-  }
-  // 2. 출처 (공시시스템 또는 Sensor Tower)
-  var srcUrl=c.source_url||'';
-  var srcName=c.source||'';
-  if(srcName.indexOf('Sensor Tower')>=0||srcName.indexOf('시장 추정')>=0){
-    // Sensor Tower — 검색 페이지로 이동
-    srcUrl='https://sensortower.com/overview?q='+encodeURIComponent(c.name||searchName);
-  }
-  if(srcUrl){
-    html+='<a href="'+srcUrl+'" target="_blank" style="padding:8px 14px;border-radius:8px;background:var(--bg3);border:1px solid var(--border);color:var(--t1);text-decoration:none;font-size:14px;font-weight:600;display:inline-flex;align-items:center;gap:4px">📊 '+escAttr(srcName.slice(0,15))+'</a>';
-  }else if(srcName){
-    html+='<a href="https://www.google.com/search?q='+encodeURIComponent(searchName+' '+srcName)+'" target="_blank" style="padding:8px 14px;border-radius:8px;background:var(--bg3);border:1px solid var(--border);color:var(--t1);text-decoration:none;font-size:14px;font-weight:600">📊 '+escAttr(srcName.slice(0,15))+'</a>';
-  }
-  // 3. 최근 뉴스 (국가별 맞춤)
-  var newsUrl='';
-  var newsLabel='';
-  if(c.country==='kr'){
-    newsUrl='https://www.google.com/search?q='+encodeURIComponent(searchName+' 게임')+'&tbm=nws&gl=kr&hl=ko';
-    newsLabel='📰 한국 뉴스';
-  }else if(c.country==='cn'){
-    var cnName=c.name||searchName;
-    newsUrl='https://www.google.com/search?q='+encodeURIComponent(cnName+' 游戏')+'&tbm=nws&gl=cn&hl=zh-CN';
-    newsLabel='📰 中国新闻';
-  }else if(c.country==='jp'){
-    var jpName=c.name_kr||c.name||searchName;
-    newsUrl='https://www.google.com/search?q='+encodeURIComponent(jpName+' ゲーム')+'&tbm=nws&gl=jp&hl=ja';
-    newsLabel='📰 日本ニュース';
-  }else{
-    newsUrl='https://www.google.com/search?q='+encodeURIComponent(c.name+' game')+'&tbm=nws';
-    newsLabel='📰 News';
-  }
-  html+='<a href="'+newsUrl+'" target="_blank" style="padding:8px 14px;border-radius:8px;background:var(--bg3);border:1px solid var(--border);color:var(--t1);text-decoration:none;font-size:14px;font-weight:600">'+newsLabel+'</a>';
-  html+='</div></div>';
-  document.getElementById('co-modal-body').innerHTML=html;
-  document.getElementById('co-modal').classList.add('on');
-}
+
 function closeCoModal(){
   if(window.coChart){try{window.coChart.destroy();window.coChart=null}catch(e){}}
   if(window.coChartQ){try{window.coChartQ.destroy();window.coChartQ=null}catch(e){}}
