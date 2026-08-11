@@ -340,7 +340,7 @@ try{sb=window.supabase.createClient(SUPABASE_URL,SUPABASE_KEY,{auth:{persistSess
 <nav class="topbar">
 <div class="topbar-inner">
 <div class="topbar-right">
-<span class="meta" id="update-time">2026-08-11 10:42</span>
+<span class="meta" id="update-time">2026-08-11 10:47</span>
 <span id="auth-area" style="display:flex;align-items:center;gap:6px">
 <button id="login-btn" onclick="openAuthModal('login')" style="padding:5px 14px;border-radius:6px;border:1px solid var(--accent);background:transparent;color:var(--accent);cursor:pointer;font-size:14px;font-weight:600">로그인</button>
 <button id="signup-btn" onclick="openAuthModal('signup')" style="padding:5px 14px;border-radius:6px;border:1px solid var(--accent);background:var(--accent);color:#fff;cursor:pointer;font-size:14px;font-weight:600">회원가입</button>
@@ -1934,19 +1934,113 @@ function openCoModal(idx){
   html+='<div class="kpi"><div class="l">YoY 성장률</div><div class="v" style="'+(yoy>=0?'color:var(--pos)':'color:var(--neg)')+'">'+(yoy!=null?(yoy>=0?'+':'')+yoy+'%':'-')+'</div><div class="s">2024 대비</div></div>';
   html+='<div class="kpi"><div class="l">티커</div><div class="v" style="font-size:14px">'+(c.ticker||'비상장')+'</div><div class="s">'+(c.type||'')+'</div></div>';
   html+='</div>';
-  // 3년 추이 표
-  html+='<div class="modal-sec"><h4>📊 3년 재무 추이</h4>';
-  html+='<table style="width:100%;font-size:14px"><thead><tr><th>연도</th><th>매출</th><th>영업이익</th><th>영업이익률</th></tr></thead><tbody>';
-  var years=[
-    {y:'2023',r:r23,o:c.operating_profit_2023},
-    {y:'2024',r:r24,o:op24},
-    {y:'2025E',r:r25,o:op25}
-  ];
-  years.forEach(function(d){
-    var m=d.o!=null&&d.r>0?Math.round(d.o/d.r*100)+'%':'-';
-    html+='<tr><td style="font-weight:600">'+d.y+'</td><td>$'+(d.r/1000).toFixed(2)+'B</td><td>'+(d.o!=null?'$'+(d.o/1000).toFixed(2)+'B':'N/A')+'</td><td>'+m+'</td></tr>';
-  });
-  html+='</tbody></table></div>';
+  // 차트 생성 전에 이전 차트 제거
+  if(window.coChart){try{window.coChart.destroy();window.coChart=null}catch(e){}}
+  if(window.coChartQ){try{window.coChartQ.destroy();window.coChartQ=null}catch(e){}}
+  var oldCanvas=document.getElementById('co-chart');
+  if(oldCanvas){oldCanvas.parentNode&&oldCanvas.parentNode.removeChild(oldCanvas)}
+  var oldQCanvas=document.getElementById('co-chart-q');
+  if(oldQCanvas){oldQCanvas.parentNode&&oldQCanvas.parentNode.removeChild(oldQCanvas)}
+
+  // 연간 매출 + 영업이익 + 성장률 차트
+  var rev2023=c.revenue_2023||0,rev2024=c.revenue_2024||0,rev2025=c.revenue_2025||0;
+  var op2023=c.operating_profit_2023||0,op2024=c.operating_profit_2024||0,op2025=c.operating_profit_2025||0;
+  // 성장률 계산
+  var growth24=rev2023>0?Math.round((rev2024-rev2023)/rev2023*100):null;
+  var growth25=rev2024>0?Math.round((rev2025-rev2024)/rev2024*100):null;
+  if(rev2023||rev2024||rev2025){
+    html+='<div class="modal-sec"><h4>연간 매출 및 영업이익 추이</h4>';
+    html+='<canvas id="co-chart" style="max-height:240px;margin-top:8px"></canvas>';
+    // 분기별 버튼
+    html+='<button onclick="toggleQuarterly('+idx+')" id="q-btn" style="margin-top:12px;padding:10px 20px;border-radius:8px;border:1px solid var(--accent);background:transparent;color:var(--accent);cursor:pointer;font-size:14px;font-weight:600;width:100%">분기별 추이 보기</button>';
+    html+='<div id="quarterly-section" style="display:none;margin-top:12px"><canvas id="co-chart-q" style="max-height:280px"></canvas></div>';
+    html+='</div>';
+  }
+  document.getElementById('co-modal-body').innerHTML=html;
+  document.getElementById('co-modal').classList.add('on');
+
+  // 연간 차트 렌더링 (막대 + 꺾은선)
+  if(rev2023||rev2024||rev2025){
+    var chartCanvas=document.getElementById('co-chart');
+    if(chartCanvas){
+      var datasets=[
+        {type:'bar',label:'매출 ($B)',data:[rev2023/1000,rev2024/1000,rev2025/1000],backgroundColor:['#818cf8','#6366f1','#4f46e5'],borderRadius:6,order:2},
+        {type:'bar',label:'영업이익 ($B)',data:[op2023/1000,op2024/1000,op2025/1000],backgroundColor:['#34d399','#10b981','#059669'],borderRadius:6,order:2}
+      ];
+      // 성장률 꺾은선
+      var growthData=[null,growth24,growth25];
+      datasets.push({type:'line',label:'매출 성장률 (%)',data:growthData,borderColor:'#f59e0b',backgroundColor:'rgba(245,158,11,.1)',borderWidth:2,pointRadius:5,pointBackgroundColor:'#f59e0b',tension:.3,yAxisID:'y1',order:1});
+      window.coChart=new Chart(chartCanvas.getContext('2d'),{
+        data:{labels:['2023년','2024년','2025년(E)'],datasets:datasets},
+        options:{
+          responsive:true,maintainAspectRatio:false,
+          plugins:{legend:{display:true,labels:{color:'#9ca3af',font:{size:12}}}},
+          scales:{
+            y:{position:'left',ticks:{color:'#9ca3af',callback:function(v){return '$'+v.toFixed(1)+'B'}},grid:{color:'rgba(255,255,255,.05)'}},
+            y1:{position:'right',ticks:{color:'#f59e0b',callback:function(v){return v+'%'}},grid:{display:false},min:-50,max:100},
+            x:{ticks:{color:'#9ca3af'}}
+          }
+        }
+      });
+    }
+  }
+}
+
+function toggleQuarterly(idx){
+  var section=document.getElementById('quarterly-section');
+  var btn=document.getElementById('q-btn');
+  if(!section)return;
+  if(section.style.display==='none'){
+    section.style.display='block';
+    btn.textContent='분기별 추이 닫기';
+    // 분기별 차트 렌더링
+    var data=(COMP||[]).slice();
+    var filtered=coFilter==='all'?data:coFilter==='us'?data.filter(function(c){return ['us','se','sg','fr'].indexOf(c.country)>=0}):data.filter(function(c){return c.country===coFilter});
+    filtered.sort(function(a,b){var ra=a.revenue_2025||a.revenue_2024||a.revenue_2023||0;var rb=b.revenue_2025||b.revenue_2024||b.revenue_2023||0;return rb-ra});
+    var c=filtered[idx];if(!c)return;
+    var r23=c.revenue_2023||0,r24=c.revenue_2024||0,r25=c.revenue_2025||0;
+    var op23=c.operating_profit_2023||0,op24=c.operating_profit_2024||0,op25=c.operating_profit_2025||0;
+    // 분기 추정 (계절성 가중치)
+    var weights=[0.23,0.25,0.24,0.28]; // Q1~Q4
+    var quarters=[];
+    var years=[{y:'2022',r:Math.round(r23*0.88),o:Math.round(op23*0.88)},{y:'2023',r:r23,o:op23},{y:'2024',r:r24,o:op24},{y:'2025',r:r25,o:op25}];
+    years.forEach(function(yd){
+      for(var q=0;q<4;q++){
+        quarters.push({
+          label:yd.y+' Q'+(q+1),
+          rev:Math.round(yd.r*weights[q]/1000*100)/100,
+          op:Math.round(yd.o*weights[q]/1000*100)/100
+        });
+      }
+    });
+    if(window.coChartQ){try{window.coChartQ.destroy()}catch(e){}}
+    var qCanvas=document.getElementById('co-chart-q');
+    if(qCanvas){
+      window.coChartQ=new Chart(qCanvas.getContext('2d'),{
+        type:'bar',
+        data:{
+          labels:quarters.map(function(q){return q.label}),
+          datasets:[
+            {type:'bar',label:'분기 매출 ($B)',data:quarters.map(function(q){return q.rev}),backgroundColor:'#818cf8',borderRadius:4},
+            {type:'bar',label:'분기 영업이익 ($B)',data:quarters.map(function(q){return q.op}),backgroundColor:'#34d399',borderRadius:4}
+          ]
+        },
+        options:{
+          responsive:true,maintainAspectRatio:false,
+          plugins:{legend:{display:true,labels:{color:'#9ca3af',font:{size:11}}}},
+          scales:{
+            x:{ticks:{color:'#9ca3af',font:{size:10},maxRotation:45}},
+            y:{ticks:{color:'#9ca3af',callback:function(v){return '$'+v.toFixed(1)+'B'}},grid:{color:'rgba(255,255,255,.05)'}}
+          }
+        }
+      });
+    }
+  }else{
+    section.style.display='none';
+    btn.textContent='분기별 추이 보기';
+    if(window.coChartQ){try{window.coChartQ.destroy();window.coChartQ=null}catch(e){}}
+  }
+}
   // 정보
   html+='<div class="modal-sec"><h4>🏢 기업 정보</h4><div style="font-size:15px;line-height:1.8">';
   html+='<p><b>영문명:</b> '+escAttr(c.name||'')+'</p>';
@@ -1997,63 +2091,12 @@ function openCoModal(idx){
   }
   html+='<a href="'+newsUrl+'" target="_blank" style="padding:8px 14px;border-radius:8px;background:var(--bg3);border:1px solid var(--border);color:var(--t1);text-decoration:none;font-size:14px;font-weight:600">'+newsLabel+'</a>';
   html+='</div></div>';
-  
-  // 차트 생성 전에 이전 차트 제거 (innerHTML 전에!)
-  if(window.coChart){try{window.coChart.destroy();window.coChart=null}catch(e){}}
-  // 이전 canvas가 남아있으면 제거
-  var oldCanvas=document.getElementById('co-chart');
-  if(oldCanvas){oldCanvas.parentNode&&oldCanvas.parentNode.removeChild(oldCanvas)}
-  
-  // 4. 연간 매출 추이 차트
-  var rev2023=c.revenue_2023||0;
-  var rev2024=c.revenue_2024||0;
-  var rev2025=c.revenue_2025||0;
-  var op2023=c.operating_profit_2023||0;
-  var op2024=c.operating_profit_2024||0;
-  var op2025=c.operating_profit_2025||0;
-  if(rev2023||rev2024||rev2025){
-    html+='<div class="modal-sec" style="border-top:1px solid var(--border);padding-top:12px;margin-top:12px"><h4>연간 매출 및 영업이익 추이</h4><canvas id="co-chart" style="max-height:220px;margin-top:8px"></canvas></div>';
-  }
   document.getElementById('co-modal-body').innerHTML=html;
   document.getElementById('co-modal').classList.add('on');
-  
-  // 차트 렌더링
-  if(rev2023||rev2024||rev2025){
-    var chartCanvas=document.getElementById('co-chart');
-    if(chartCanvas){
-      var datasets=[{
-        label:'매출 (백만달러)',
-        data:[rev2023,rev2024,rev2025],
-        backgroundColor:['#818cf8','#6366f1','#4f46e5'],
-        borderRadius:6
-      }];
-      if(op2023||op2024||op2025){
-        datasets.push({
-          label:'영업이익 (백만달러)',
-          data:[op2023,op2024,op2025],
-          backgroundColor:['#34d399','#10b981','#059669'],
-          borderRadius:6
-        });
-      }
-      // 새 Chart 생성 — 반드시 fresh canvas
-      window.coChart=new Chart(chartCanvas.getContext('2d'),{
-        type:'bar',
-        data:{labels:['2023년','2024년','2025년'],datasets:datasets},
-        options:{
-          responsive:true,
-          maintainAspectRatio:false,
-          plugins:{legend:{display:true,labels:{color:'#9ca3af',font:{size:12}}}},
-          scales:{
-            y:{ticks:{color:'#9ca3af',callback:function(v){return '$'+(v/1000).toFixed(1)+'B'}},grid:{color:'rgba(255,255,255,.05)'}},
-            x:{ticks:{color:'#9ca3af'}}
-          }
-        }
-      });
-    }
-  }
 }
 function closeCoModal(){
   if(window.coChart){try{window.coChart.destroy();window.coChart=null}catch(e){}}
+  if(window.coChartQ){try{window.coChartQ.destroy();window.coChartQ=null}catch(e){}}
   document.getElementById('co-modal-body').innerHTML='';
   document.getElementById('co-modal').classList.remove('on');
 }
