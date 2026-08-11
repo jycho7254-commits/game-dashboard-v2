@@ -1,84 +1,146 @@
-# 대시보드 아키텍처 v3.1
+# 대시보드 아키텍처 v3.2
 
 ## 시스템 구성도
 
 ```
-┌─────────────────────────────────────────────────┐
-│                  사용자 브라우저                    │
-│  https://gameinsight.pages.dev (Cloudflare CDN)  │
-├─────────────────────────────────────────────────┤
-│  Frontend (인라인 HTML + Chart.js)               │
-│  ├─ 7개 탭 (종합/매출/여론/인플루언서/게임사/뉴스/캘린더) │
-│  ├─ 호버 드롭다운 서브메뉴 (KR/CN/JP)              │
-│  ├─ 회원가입/로그인 (Supabase Auth)               │
-│  ├─ 여론 리포트 신청 (Supabase Storage)           │
-│  └─ 다크/라이트 모드                               │
-├─────────────────────────────────────────────────┤
-│  Supabase Backend                                │
-│  ├─ Auth (이메일 회원가입/로그인)                   │
-│  ├─ Storage (report-templates bucket)            │
-│  └─ PostgreSQL (report_subscriptions 테이블)      │
-├─────────────────────────────────────────────────┤
-│  데이터 수집 (Hermes 크론)                         │
-│  ├─ 10분: live_update.py (치지직+YT Live)        │
-│  ├─ 일(11시/17시): daily_update_p1.py            │
-│  └─ 수동: reestimate_revenue.py (매출 추정)       │
-├─────────────────────────────────────────────────┤
-│  데이터 소스                                       │
-│  ├─ Google Play API (한국/일본 매출)               │
-│  ├─ Qimai (중국 iOS 매출)                        │
-│  ├─ 치지직 API (실시간 방송)                      │
-│  ├─ YouTube 검색 (Live + 영상)                   │
-│  ├─ DC Inside / 아카라이브 (여론)                 │
-│  ├─ 게임메카/인벤/루리웹/데일리게임/게임동아 (뉴스) │
-│  ├─ wame.is (신작 런칭 캘린더)                    │
-│  ├─ DART/CSRC/HKEX/EDINET (게임사 공시)           │
-│  └─ Sensor Tower (비상장사 추정)                  │
-├─────────────────────────────────────────────────┤
-│  배포                                             │
-│  ├─ Cloudflare Pages (메인, no-cache, 무료)       │
-│  ├─ GitHub Pages (개발/백업)                      │
-│  └─ Netlify (폐기)                               │
-└─────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────┐
+│                  사용자 브라우저                       │
+│         https://gameinsight.pages.dev                │
+│              (Cloudflare CDN, no-cache)              │
+├─────────────────────────────────────────────────────┤
+│  HTML/CSS/JS (인라인)  │  Chart.js  │  Supabase JS   │
+├──────────┬──────────┬──────────┬───────────────────┤
+│  대시보드  │  운영툴   │  Auth    │  Storage          │
+│  7개 탭   │ /admin   │ 회원가입  │ report-templates  │
+│  드롭다운  │ 화이트리스트│ 로그인   │ 첨부파일 업로드    │
+└──────────┴──────────┴────┬─────┴───────────────────┘
+                           │
+                    ┌──────▼──────┐
+                    │  Supabase   │
+                    │ PostgreSQL  │
+                    │   (RLS)     │
+                    │             │
+                    │ report_     │
+                    │ subscriptions│
+                    │             │
+                    │ Auth Users  │
+                    └──────┬──────┘
+                           │
+                    ┌──────▼──────┐
+                    │   Gmail     │
+                    │   SMTP      │
+                    │ 리포트 발송  │
+                    └─────────────┘
+
+┌─────────────────────────────────────────────────────┐
+│                  Python 데이터 파이프라인              │
+│                  (Hermes Cron)                       │
+├─────────────────────────────────────────────────────┤
+│                                                     │
+│  [10분] live_update.py                              │
+│    └─ 치지직/YT Live 수집 → GitHub push              │
+│                                                     │
+│  [11:00/17:00] daily_update_p1.py                   │
+│    ├─ Google Play / Qimai 랭킹 수집                  │
+│    ├─ DC 모바일 여론 수집                            │
+│    ├─ 한국 여론 통합                                 │
+│    └─ 빌드 + 배포                                    │
+│                                                     │
+│  [11:20/17:20] daily_update_p2.py                   │
+│    ├─ 한국 뉴스 수집 (루리웹)                         │
+│    ├─ 중국/일본 뉴스 수집                             │
+│    └─ 빌드 + 배포                                    │
+│                                                     │
+│  [8~18시 매시간] send_report_cron.py                │
+│    ├─ Supabase에서 구독자 조회                       │
+│    ├─ freq별 발송 대상 필터링                        │
+│    ├─ 게임별 여론+매출 데이터 수집                    │
+│    └─ Gmail SMTP 발송                               │
+│                                                     │
+│  [새벽 1시] auto_new_games.py                       │
+│    └─ 신작 게임 자동 감지 + 아이콘/여론 수집          │
+│                                                     │
+└─────────────────────────────────────────────────────┘
 ```
 
-## 파일 구조
-```
-C:\Users\user\Desktop\game_dashboard_v2\     ← 개발
-├── templates/index.html                      ← 메인 템플릿 (모든 UI/JS)
-├── build_dashboard.py                        ← 빌드 스크립트
-├── scripts/
-│   ├── live_update.py                        ← 10분 크론
-│   ├── daily_update_p1.py                    ← 일 크론
-│   ├── collect_yt_live.py                    ← YouTube Live 수집
-│   ├── collect_cn_rankings.py                ← 중국 순위 + 매출표 내장
-│   ├── collect_kr_sentiment_full.py          ← 한국 여론 수집
-│   ├── reestimate_revenue.py                 ← 3개국 매출 추정
-│   └── scrape_kr_news.py                     ← 다중 소스 뉴스 스크랩
-├── data/
-│   ├── kr_rankings.json                      ← 한국 매출 50개
-│   ├── cn_rankings.json                      ← 중국 매출 50개
-│   ├── jp_rankings.json                      ← 일본 매출 50개
-│   ├── all_influencers.json                  ← 464명 인플루언서
-│   ├── kr_sentiment_full.json                ← 한국 여론 87개
-│   ├── game_company_financials.json          ← 131개사 재무
-│   ├── kr_news.json                          ← 한국 뉴스 149개
-│   ├── softc_data.json                       ← 실시간 방송
-│   ├── all_calendar.json                     ← 캘린더 177개
-│   └── gp_updates.json                       ← GP 업데이트
-└── README.md / ARCHITECTURE.md
+## 데이터 흐름
 
-C:\Users\user\game-dashboard-v2\             ← 배포
-├── index.html                                ← 빌드된 인라인 HTML
-├── privacy.html / about.html / admin.html
-├── data/ (JSON 파일들)
-├── netlify.toml (폐기)
-└── README.md
+```
+Google Play / Qimai / DC갤러리 / 치지직 / YouTube
+              │
+              ▼
+     Python 수집 스크립트 (cron)
+              │
+              ▼
+     JSON 파일 (data/*.json)
+              │
+              ▼
+     build_dashboard.py (인라인 빌드)
+              │
+              ▼
+     index.html (단일 파일, 1.6MB)
+              │
+              ├──→ Cloudflare Pages (wrangler deploy)
+              └──→ GitHub Pages (git push)
+              │
+              ▼
+        사용자 브라우저
 ```
 
 ## 캐시 정책
-| 파일 | 캐시 |
-|------|------|
-| Cloudflare 전체 | **no-cache** (즉시 갱신) |
-| GitHub Pages | ~10분 |
-| softc_data.json | no-cache (실시간) |
+
+| 플랫폼 | 캐시 | 비고 |
+|--------|------|------|
+| Cloudflare Pages | **no-cache** | must-revalidate, 즉시 반영 |
+| GitHub Pages | 10분 | 개발용 |
+
+## Chart.js 인스턴스 관리
+
+| 변수명 | 위치 | 용도 |
+|--------|------|------|
+| `window.rankChart` | 매출순위 탭 | 국가별 TOP10 막대 |
+| `window.ovChart` | 종합 탭 | 전체 TOP10 막대 |
+| `window.coChart` | 게임사 탭 메인 | 매출 TOP15 (메인 페이지) |
+| Chart.getChart('co-profit-chart') | 게임사 탭 | 영업이익률 TOP15 (지연 렌더링) |
+| `window.coChartModal` | 게임사 모달 | 개별사 연간 매출+영업이익+성장률 |
+| `window.coChartQ` | 게임사 모달 | 분기별 추이 (토글) |
+| `window.modalChart` | 게임 상세 모달 | 게임별 매출 추이 |
+
+> **주의**: Canvas ID 충돌 방지를 위해 모달 차트는 `co-modal-chart` ID 사용
+
+## Supabase 테이블
+
+```sql
+-- report_subscriptions
+CREATE TABLE report_subscriptions (
+  id UUID DEFAULT gen_random_uuid() PRIMARY KEY,
+  email TEXT NOT NULL,
+  game TEXT NOT NULL,
+  freq TEXT DEFAULT 'daily-8',
+  notes TEXT,
+  file_name TEXT,
+  file_url TEXT,
+  file_path TEXT,
+  user_id UUID,
+  created_at TIMESTAMPTZ DEFAULT NOW(),
+  active BOOLEAN DEFAULT TRUE
+);
+
+-- RLS 정책
+-- INSERT: authenticated만
+-- SELECT: authenticated 전체 (운영툴에서 service_role로 조회)
+-- Storage: authenticated만 업로드/조회 (report-templates 버킷)
+```
+
+## 크론 스케줄
+
+| 크론 ID | 이름 | 스케줄 | 스크립트 |
+|---------|------|--------|---------|
+| 77cddc6a27ee | 실시간 통합 업데이트 | every 10m | live_update.py |
+| 9bd09d267be7 | Part1 매출+DC+빌드 | 0 11 * * * | daily_update_p1.py |
+| b5b5b9baf5c3 | Part2 뉴스+배포 | 20 11 * * * | daily_update_p2.py |
+| ccf52c34f6c3 | 2차 업데이트 | 0 17 * * * | daily_update_p1.py |
+| 28ae4aad8586 | 2차 배포 | 20 17 * * * | daily_update_p2.py |
+| 656d175f02f9 | 리포트 자동 발송 | 0 8-18 * * * | send_report_cron.py |
+| aaa557c34300 | 신작 게임 감지 | 0 1 * * * | auto_new_games.py |
+| 6d83018a30ba | 메모리+스킬 백업 | 0 3 * * * | backup_memory.py |

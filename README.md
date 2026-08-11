@@ -1,4 +1,4 @@
-# Game Market Insight v3.1
+# Game Market Insight v3.2
 
 3개국(한국/중국/일본) 모바일 게임 시장 통합 대시보드
 
@@ -7,95 +7,116 @@
 - **GitHub Pages (개발)**: https://jycho7254-commits.github.io/game-dashboard-v2/
 - **운영툴**: https://gameinsight.pages.dev/admin.html
 
-## 아키텍처
-```
-[데이터 수집]
-  ├─ live_update.py (10분 크론) — 치지직 + YouTube Live + GitHub push
-  ├─ daily_update_p1.py (11시/17시) — 매출 + 여론 + 뉴스 + 빌드
-  ├─ reestimate_revenue.py — 3개국 매출 추정 (로그 곡선)
-  └─ build_dashboard.py — 인라인 HTML 빌드
+## 주요 기능 (v3.2)
 
-[배포]
-  ├─ Cloudflare Pages (gameinsight.pages.dev) — 메인, no-cache, 무료 무제한
-  ├─ GitHub Pages — 개발/백업
-  └─ Netlify — 폐기 (크레딧 소모)
+### 대시보드
+- **7개 탭**: 종합 / 매출순위 / 여론분석 / 인플루언서 / 게임사매출분석 / 뉴스 / 캘린더
+- **탭 드롭다운**: 매출순위/여론/인플루언서/뉴스/캘린더에 국가별 서브메뉴 (탭 내부 absolute)
+- **다크 테마 only** (라이트 모드 제거)
 
-[백엔드]
-  └─ Supabase
-      ├─ Auth (회원가입/로그인, Confirm email OFF)
-      ├─ Storage (report-templates bucket)
-      └─ DB (report_subscriptions 테이블, RLS 완료)
-```
+### 게임사 매출분석
+- **매출 TOP15 차트** + **영업이익률 TOP15 차트** (접기/펼치기, 지연 렌더링)
+- **게임사 상세 모달**: KPI + 기업정보 + 바로가기 + 연간 매출/영업이익/성장률 차트
+- **분기별 추이**: 버튼 클릭 시 4년×4분기 막대 차트 (토글)
+- **131개사** (KR 41 / CN 48 / JP 27 / US 15)
+
+### 회원 서비스
+- **회원가입/로그인** (Supabase Auth, 이메일+비밀번호)
+- **여론 리포트 신청** (로그인 필수, 14개 수신빈도 옵션)
+- **첨부파일 업로드** (Supabase Storage, report-templates 버킷)
+- **Gmail SMTP 자동 발송** (send_report_cron.py, 8~18시 매시간)
+
+### 운영툴 (/admin.html)
+- 관리자 화이트리스트 (jycho7253@naver.com)
+- 회원 목록 (이메일/가입일/로그인/인증상태/삭제)
+- 리포트 구독 현황 (이메일/게임/빈도/요청사항/첨부파일 다운로드/차단/해제)
+- service_role key로 RLS 무시 조회
+
+### 데이터 자동화
+| 크론 | 시간 | 내용 |
+|------|------|------|
+| live_update | 10분 | 치지직/YT Live 수집 + GitHub push |
+| daily_p1 | 11:00, 17:00 | 매출+DC여론+빌드+배포 |
+| daily_p2 | 11:20, 17:20 | 한국/중국/일본 뉴스+빌드+배포 |
+| weekly | 월 12:00 | Bilibili+JP리뷰 |
+| send_report | 8~18시 매시간 | 여론 리포트 이메일 발송 |
+| auto_new_games | 새벽 1시 | 신작 게임 자동 감지 |
+| backup | 새벽 3시 | 메모리+스킬 백업 |
+
+### 한국 게임명 자동화
+- `reestimate_revenue.py`에 36개 수동 매핑 (KR_NAME_MAP)
+- Google Play `hl=ko`에서 자동 한국어명 조회
+- Flambé 특수문자 처리
 
 ## 데이터 규모
-| 항목 | 수량 | 출처 |
-|------|------|------|
-| 한국 매출 순위 | 50개 | Google Play |
-| 중국 매출 순위 | 50개 | iOS Qimai |
-| 일본 매출 순위 | 50개 | Google Play |
-| 게임사 재무 | 131개사 | DART/CSRC/HKEX/EDINET 공식 공시 |
-| 인플루언서 | 464명 | YouTube/치지직/Bilibili (중복 제거) |
-| 한국 여론 | 87개 게임 | DC/GP/YT/아카 |
-| 중국 여론 | 280개 게임 | Bilibili/TapTap |
-| 일본 여론 | 282개 게임 | 5ch/YouTube |
-| 한국 뉴스 | 149개 | 게임메카/인벤/루리웹/데일리게임/게임동아 |
-| 캘린더 | 177개 이벤트 | wame.is + 자체 수집 |
-| 실시간 방송 | 치지직 30 + YouTube Live | 공개 API |
-
-## 탭 구조
-1. **종합** — KPI + 매출 Top10 차트(순번) + 시장 점유율 + 트렌드 아이콘 그리드 + 클릭 시 팝업
-2. **매출 순위** — 국가별 Top50 + 국가별 차트 (한/중/일 분리) + 매출 추정 팝업 + 꺾은선 추이
-3. **여론 분석** — 게임별 여론 지수 + 여론 지수 기준 팝업 + 여론 리포트 신청 (로그인 필수)
-4. **인플루언서** — 464명 KOL 랭킹 + 실시간 방송 (치지직/YouTube)
-5. **게임사 매출분석** — 131개사 3년(2023-2025) 매출/영업이익
-6. **뉴스** — 주요 뉴스 5건 (썸네일) + 최근 뉴스 20개 (날짜 표시, 펼치기/접기)
-7. **캘린더** — 월별 게임 이벤트 + 신작 런칭 (한국/전체만)
-
-## 주요 기능
-- **호버 드롭다운 서브메뉴** — 탭에 마우스 올리면 국가별(한/중/일) 바로 이동
-- **전체 너비 탭** — 7개 탭이 한 줄 꽉 채움 (16px 폰트)
-- **회원가입/로그인** (Supabase Auth)
-- **여론 리포트 신청** (로그인 필수, 첨부파일 업로드 → Supabase Storage, 6개 수신 빈도)
-- **운영툴** (/admin.html) — 회원/구독 현황
-- **매출 추정 방식 팝업** — 국가별 산출 방식 설명
-- **다크/라이트 모드**
-- **모바일 반응형** (3줄 topbar, 터치 영역 40px, 테이블 컬럼 숨김)
+| 항목 | 수량 |
+|------|------|
+| 추적 게임 | 150개 (KR/CN/JP 각 50) |
+| 게임사 | 131개사 |
+| 인플루언서 | 464명 (KR 209 / JP 183 / CN 74) |
+| 한국 뉴스 | 179개 (루리웹 자동 수집) |
+| 캘린더 이벤트 | 177개 |
 
 ## 기술 스택
-- Frontend: HTML/CSS/JS (인라인, Chart.js)
-- Backend: Supabase (Auth + Storage + PostgreSQL)
-- Hosting: Cloudflare Pages (wrangler CLI)
-- Data: Google Play, Qimai, DC Inside, 치지직 API, YouTube, Sensor Tower
-- Build: Python (build_dashboard.py)
+| 계층 | 기술 |
+|------|------|
+| 프론트엔드 | HTML + CSS + JavaScript + Chart.js |
+| 호스팅 | Cloudflare Pages (no-cache) |
+| 인증 | Supabase Auth |
+| DB | Supabase PostgreSQL (RLS 적용) |
+| 파일 | Supabase Storage |
+| 데이터 수집 | Python (cron) |
+| 이메일 | Gmail SMTP |
 
-## 배포 명령어
-```bash
-PY=/c/Users/user/AppData/Roaming/uv/python/cpython-3.11-windows-x86_64-none/python.exe
+## 파일 구조
+```
+game_dashboard_v2/
+├── templates/index.html      # 메인 템플릿 (minified)
+├── build_dashboard.py        # 빌드 스크립트
+├── data/
+│   ├── kr_rankings.json      # 한국 매출순위 (50개)
+│   ├── cn_rankings.json      # 중국 매출순위 (50개)
+│   ├── jp_rankings.json      # 일본 매출순위 (50개)
+│   ├── game_company_financials.json  # 게임사 재무 (131개사)
+│   ├── kr_news.json          # 한국 뉴스 (179개)
+│   ├── cn_news.json          # 중국 뉴스 (25개)
+│   ├── jp_news.json          # 일본 뉴스 (10개)
+│   ├── all_influencers.json  # 인플루언서 (464명)
+│   ├── kr_sentiment_full.json # 한국 여론
+│   ├── calendar_events.json  # 캘린더 (177개)
+│   └── softc_data.json       # 실시간 스트리머
+└── scripts/
+    ├── reestimate_revenue.py # 매출 추정 + 한국어명 자동화
+    ├── collect_kr_news.py    # 한국 뉴스 자동 수집
+    ├── collect_cn_news.py    # 중국 뉴스
+    ├── collect_jp_news.py    # 일본 뉴스
+    └── collect_dc_mobile.py  # DC 여론 수집
 
-# 빌드
-cd /c/Users/user/Desktop/game_dashboard_v2
-$PY build_dashboard.py
+hermes/scripts/
+├── daily_update_p1.py        # 일일 업데이트 Part 1
+├── daily_update_p2.py        # 일일 업데이트 Part 2
+├── live_update.py            # 실시간 업데이트 (10분)
+├── send_report_cron.py       # 여론 리포트 발송
+└── auto_new_games.py         # 신작 게임 감지
 
-# Cloudflare 배포
-cd /c/Users/user/game-dashboard-v2
-npx wrangler pages deploy . --project-name gameinsight --branch main
-
-# GitHub Pages
-git add -A && git commit -m "msg" && git push origin master
+game-dashboard-v2/            # 배포 폴더
+├── index.html                # 빌드 결과
+├── admin.html                # 운영툴
+├── privacy.html              # 개인정보처리방침
+├── about.html                # 서비스 소개
+├── ARCHITECTURE.md           # 아키텍처 문서
+└── README.md                 # 이 파일
 ```
 
-## 개발 경로
-```
-C:\Users\user\Desktop\game_dashboard_v2\     ← 개발 폴더
-C:\Users\user\game-dashboard-v2\             ← 배포 폴더 (Cloudflare + GitHub)
-```
+## 보안
+- RLS: authenticated만 INSERT/SELECT (비로그인 차단)
+- admin 화이트리스트: jycho7253@naver.com만 접근
+- service_role key: admin.html에서만 사용 (운영툴)
+- publishable key: 프론트엔드 공개용 (정상)
 
-## Python 경로
-```
-C:\Users\user\AppData\Roaming\uv\python\cpython-3.11-windows-x86_64-none\python.exe
-```
-
-## 백업
-```
-C:\Users\user\Desktop\game_dashboard_v2_backup_0805\  (.bak2~.bak14)
-```
+## TODO (Phase 2)
+- 분기별 재무 데이터 공식 수집 (DART/EDINET/CSRC)
+- 도메인 구매 (gameinsight.kr) + AdSense
+- Slack 웹훅 알림
+- QA팀용 PDF 리포트 템플릿
+- 엑셀/CSV 내보내기
