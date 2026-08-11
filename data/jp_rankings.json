@@ -300,19 +300,6 @@
   },
   {
     "rank": 24,
-    "title": "Pokémon GO",
-    "developer": "Scopely Explore, Inc.",
-    "genre": "Game",
-    "rating": 3.5,
-    "app_id": "com.nianticlabs.pokemongo",
-    "local_name": "Pokémon GO",
-    "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
-    "est_revenue": 7323616,
-    "est_revenue_fmt": "$7.3M",
-    "est_revenue_won": "40.0억"
-  },
-  {
-    "rank": 25,
     "title": "Yu-Gi-Oh! Master Duel",
     "developer": "KONAMI",
     "genre": "Game",
@@ -325,7 +312,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 26,
+    "rank": 25,
     "title": "Township",
     "developer": "Playrix",
     "genre": "Game",
@@ -338,7 +325,7 @@
     "est_revenue_won": "23.8억"
   },
   {
-    "rank": 27,
+    "rank": 26,
     "title": "GODDESS OF VICTORY: NIKKE",
     "developer": "Level Infinite",
     "genre": "Game",
@@ -351,7 +338,7 @@
     "est_revenue_won": "58.6억"
   },
   {
-    "rank": 28,
+    "rank": 27,
     "title": "Genshin Impact",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -364,7 +351,7 @@
     "est_revenue_won": "20.9억"
   },
   {
-    "rank": 29,
+    "rank": 28,
     "title": "Tasty Travels: Merge Game",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -377,7 +364,7 @@
     "est_revenue_won": "16.5억"
   },
   {
-    "rank": 30,
+    "rank": 29,
     "title": "ドラゴンクエストスマッシュグロウ ドラクエローグライトRPG",
     "developer": "SQUARE ENIX Co.,Ltd.",
     "genre": "Game",
@@ -390,7 +377,7 @@
     "est_revenue_won": "16.0억"
   },
   {
-    "rank": 31,
+    "rank": 30,
     "title": "Pokémon TCG Pocket",
     "developer": "The Pokémon Company",
     "genre": "Game",
@@ -403,7 +390,7 @@
     "est_revenue_won": "110.6억"
   },
   {
-    "rank": 32,
+    "rank": 31,
     "title": "LINE Pokopoko",
     "developer": "LINE (LY Corporation)",
     "genre": "Game",
@@ -416,7 +403,7 @@
     "est_revenue_won": "22.8억"
   },
   {
-    "rank": 33,
+    "rank": 32,
     "title": "Royal Kingdom",
     "developer": "Dream Games, Ltd.",
     "genre": "Game",
@@ -429,7 +416,7 @@
     "est_revenue_won": "14.9억"
   },
   {
-    "rank": 34,
+    "rank": 33,
     "title": "信長の野望 覇道",
     "developer": "KOEI TECMO GAMES CO., LTD.",
     "genre": "Game",
@@ -442,7 +429,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 35,
+    "rank": 34,
     "title": "ドラゴンクエストタクト",
     "developer": "SQUARE ENIX Co.,Ltd.",
     "genre": "Game",
@@ -455,7 +442,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 36,
+    "rank": 35,
     "title": "Homescapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -468,7 +455,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 37,
+    "rank": 36,
     "title": "SDガンダム ジージェネレーション エターナル",
     "developer": "Bandai Namco Entertainment Inc.",
     "genre": "Game",
@@ -481,7 +468,7 @@
     "est_revenue_won": "97.9억"
   },
   {
-    "rank": 38,
+    "rank": 37,
     "title": "Last Z: Survival Shooter",
     "developer": "Omnilojo Pte Ltd",
     "genre": "Game",
@@ -492,6 +479,19 @@
     "est_revenue": 4266076,
     "est_revenue_fmt": "$4.3M",
     "est_revenue_won": "12.4억"
+  },
+  {
+    "rank": 38,
+    "title": "学園アイドルマスター",
+    "developer": "Bandai Namco Entertainment Inc.",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.bandainamcoent.idolmaster_gakuen",
+    "local_name": "学園アイドルマスター",
+    "icon": "https://play-lh.googleusercontent.com/ch_SGwCMoLElrzColmSthRPYxzv608YoyBx4tXY3ciM8Bg4fLxKhRHdeoqPSbygFruy62D9p5EdGAwLW8KGTfwI",
+    "est_revenue": 0,
+    "est_revenue_fmt": "",
+    "est_revenue_won": ""
   },
   {
     "rank": 39,
