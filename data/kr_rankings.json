@@ -105,19 +105,6 @@
   },
   {
     "rank": 9,
-    "title": "Royal Match",
-    "developer": "Dream Games, Ltd.",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.dreamgames.royalmatch",
-    "local_name": "로얄 매치",
-    "icon": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
-    "est_revenue": 1138098,
-    "est_revenue_fmt": "$1.1M",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 10,
     "title": "열혈강호: 넥스트",
     "developer": "Kingnet Technology Limited",
     "genre": "Game",
@@ -127,6 +114,19 @@
     "icon": "https://play-lh.googleusercontent.com/ct9hCP6C7NRwwTT3p-eIRLAJHMYuK2k2kO0tC6nc8YUCwgRos5tOuzfKmflfPOwQdfJiuNHkmifu0lhVcEmY",
     "est_revenue": 1487155,
     "est_revenue_fmt": "$1.5M",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 10,
+    "title": "Royal Match",
+    "developer": "Dream Games, Ltd.",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.dreamgames.royalmatch",
+    "local_name": "로얄 매치",
+    "icon": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
+    "est_revenue": 1138098,
+    "est_revenue_fmt": "$1.1M",
     "est_revenue_won": ""
   },
   {
@@ -456,15 +456,15 @@
   },
   {
     "rank": 36,
-    "title": "트릭컬 리바이브",
-    "developer": "EPIDGames",
+    "title": "킹덤2: 타오르는 전장",
+    "developer": "FOW Games",
     "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.epidgames.trickcalrevive",
-    "local_name": "트릭컬 리바이브",
-    "icon": "https://play-lh.googleusercontent.com/OCiuBv70Dnuw9wcGet3EtTUF2nEkS1vhYYkvOahe9-MmKg6EhxGkf-9ZVxnWIJXflQSmfOIjTcaSbwJSJyuzHA",
-    "est_revenue": 435464,
-    "est_revenue_fmt": "$435K",
+    "rating": 4.2,
+    "app_id": "com.fowgames.kingdom2",
+    "local_name": "킹덤2: 타오르는 전장",
+    "icon": "https://play-lh.googleusercontent.com/e9fghg-B6E_QuhMmyW8PIyYCE8uVv78HaEEtPh7E1BMpEvoBRONp5IEvSiDGJ9GlX6VQkOKtIa8Jk8r9m5uZ3Pw",
+    "est_revenue": 387920,
+    "est_revenue_fmt": "$388K",
     "est_revenue_won": ""
   },
   {
@@ -482,19 +482,6 @@
   },
   {
     "rank": 38,
-    "title": "킹덤2: 타오르는 전장",
-    "developer": "FOW Games",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.fowgames.kingdom2",
-    "local_name": "킹덤2: 타오르는 전장",
-    "icon": "https://play-lh.googleusercontent.com/e9fghg-B6E_QuhMmyW8PIyYCE8uVv78HaEEtPh7E1BMpEvoBRONp5IEvSiDGJ9GlX6VQkOKtIa8Jk8r9m5uZ3Pw",
-    "est_revenue": 387920,
-    "est_revenue_fmt": "$388K",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 39,
     "title": "Zombie High School",
     "developer": "AWESOMEPIECE",
     "genre": "Game",
@@ -507,7 +494,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 40,
+    "rank": 39,
     "title": "Seven Knights Re:BIRTH",
     "developer": "Netmarble",
     "genre": "Game",
@@ -520,7 +507,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 41,
+    "rank": 40,
     "title": "Coop TD: Together",
     "developer": "Supermagic",
     "genre": "Game",
@@ -533,7 +520,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 42,
+    "rank": 41,
     "title": "Candy Crush Saga",
     "developer": "King",
     "genre": "Game",
@@ -546,7 +533,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 43,
+    "rank": 42,
     "title": "PUBG Mobile",
     "developer": "KRAFTON, Inc.",
     "genre": "Game",
@@ -559,7 +546,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 44,
+    "rank": 43,
     "title": "EA SPORTS FC Online M",
     "developer": "NEXON Company",
     "genre": "Game",
@@ -572,7 +559,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 45,
+    "rank": 44,
     "title": "Flambé®: Merge & Cook",
     "developer": "Microfun Limited",
     "genre": "Game",
@@ -585,7 +572,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 46,
+    "rank": 45,
     "title": "GIRLS' FRONTLINE 2: EXILIUM",
     "developer": "HaoPlay Limited",
     "genre": "Game",
@@ -598,7 +585,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 47,
+    "rank": 46,
     "title": "AION2",
     "developer": "NC Corporation",
     "genre": "Game",
@@ -611,7 +598,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 48,
+    "rank": 47,
     "title": "Homescapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -624,7 +611,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 49,
+    "rank": 48,
     "title": "Mystery Town: Merge Games",
     "developer": "Cedar Games Studio",
     "genre": "Game",
@@ -637,7 +624,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 50,
+    "rank": 49,
     "title": "I9: 인페르노 나인",
     "developer": "Leniu Technology Co., Limited",
     "genre": "Game",
@@ -647,6 +634,19 @@
     "icon": "https://play-lh.googleusercontent.com/jZ0P5ZxOE4VorYhs9QmbcxzXi7VYiNqh4I5YlO2JXUdh_5D80ymAagbYxjtP6pGnU_7f_W0gWUVWUm9mIkCI5A",
     "est_revenue": 350953,
     "est_revenue_fmt": "$351K",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 50,
+    "title": "삼국지: 천하결전",
+    "developer": "BILIBILI",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.bhk.newslgkr",
+    "local_name": "삼국지: 천하결전",
+    "icon": "https://play-lh.googleusercontent.com/rG1RyXnhrSZk0-Huvu-x4lLJivzk5QgQ2w9-5LYFHGUsEJG2suk-SbLFT7Nkuz99Y56lXBkKfRudyoUWthbY",
+    "est_revenue": 0,
+    "est_revenue_fmt": "",
     "est_revenue_won": ""
   }
 ]
