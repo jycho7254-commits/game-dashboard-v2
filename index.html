@@ -340,7 +340,7 @@ try{sb=window.supabase.createClient(SUPABASE_URL,SUPABASE_KEY,{auth:{persistSess
 <nav class="topbar">
 <div class="topbar-inner">
 <div class="topbar-right">
-<span class="meta" id="update-time">2026-08-11 12:29</span>
+<span class="meta" id="update-time">2026-08-11 12:33</span>
 <span id="auth-area" style="display:flex;align-items:center;gap:6px">
 <button id="login-btn" onclick="openAuthModal('login')" style="padding:5px 14px;border-radius:6px;border:1px solid var(--accent);background:transparent;color:var(--accent);cursor:pointer;font-size:14px;font-weight:600">로그인</button>
 <button id="signup-btn" onclick="openAuthModal('signup')" style="padding:5px 14px;border-radius:6px;border:1px solid var(--accent);background:var(--accent);color:#fff;cursor:pointer;font-size:14px;font-weight:600">회원가입</button>
@@ -497,7 +497,7 @@ try{sb=window.supabase.createClient(SUPABASE_URL,SUPABASE_KEY,{auth:{persistSess
 <div class="ctab" onclick="setCoFilter('us',this)">🇺🇸 미국/기타</div>
 </div>
 <div class="kpis" id="co-kpis"></div>
-<div class="card"><h3 id="co-chart-title">매출 Top 15 (2023-2025)</h3><canvas id="co-chart" width="600" height="300" style="margin-top:8px"></canvas><button onclick="toggleChart('co-profit-card',this)" style="margin-top:8px;padding:8px 16px;border-radius:8px;border:1px solid var(--border);background:var(--bg3);color:var(--t2);cursor:pointer;font-size:13px;font-weight:600;width:100%">▼ 영업이익률 Top 15 펼치기</button></div>
+<div class="card"><h3 id="co-chart-title">매출 Top 15 (2023-2025)</h3><canvas id="co-chart" width="600" height="300" style="margin-top:8px"></canvas><button onclick="toggleChart('co-profit-card',this,'co-profit-chart')" style="margin-top:8px;padding:8px 16px;border-radius:8px;border:1px solid var(--border);background:var(--bg3);color:var(--t2);cursor:pointer;font-size:13px;font-weight:600;width:100%">▼ 영업이익률 Top 15 펼치기</button></div>
 <div class="card" id="co-profit-card" style="display:none"><h3 id="co-profit-title">영업이익률 Top 15</h3><canvas id="co-profit-chart" width="600" height="250" style="margin-top:8px"></canvas></div>
 <div class="card"><h3 id="co-title">🏢 글로벌 게임사 전사 매출 분석</h3><div style="overflow-x:auto"><table id="co-table" style="font-size:14px"><thead><tr><th>#</th><th>게임사</th><th>국가</th><th>2023 매출</th><th>2024 매출</th><th>2025 매출</th><th>YoY</th><th>2025 영업이익</th><th>영업이익률</th><th>주요 프랜차이즈</th><th>출처</th></tr></thead><tbody></tbody></table></div></div>
 </div>
@@ -1844,28 +1844,8 @@ function renderCompany(){
   }
 
   // 영업이익률 차트 (Top 15)
-  var profitCanvas=document.getElementById('co-profit-chart');
-  if(profitCanvas&&window.Chart){
-    var pctx=profitCanvas.getContext('2d');
-    var profitData=filtered.filter(function(c){var r=c.revenue_2025||c.revenue_2024;var o=c.operating_profit_2025;if(o==null)o=c.operating_profit_2024;return r&&o!=null}).map(function(c){
-      var r=c.revenue_2025||c.revenue_2024;var o=c.operating_profit_2025;if(o==null)o=c.operating_profit_2024;
-      return {name:c.name_kr||c.name,country:c.country,margin:Math.round(o/r*100),rev:r,op:o};
-    }).sort(function(a,b){return b.margin-a.margin}).slice(0,15);
-    var pLabels=profitData.map(function(d){return d.name.length>8?d.name.slice(0,7)+'..':d.name});
-    var pMargins=profitData.map(function(d){return d.margin});
-    var pColors=profitData.map(function(d){return d.margin>=30?'#10b981':d.margin>=15?'#3b82f6':d.margin>=0?'#f59e0b':'#ef4444'});
-    var profitChart=Chart.getChart('co-profit-chart');
-    if(profitChart)profitChart.destroy();
-    new Chart(pctx,{
-      type:'bar',
-      data:{labels:pLabels,datasets:[{label:'영업이익률',data:pMargins,backgroundColor:pColors,borderRadius:3}]},
-      options:{responsive:true,
-        scales:{y:{ticks:{color:_ct,callback:function(v){return v+'%'}},grid:{color:_cg}},x:{ticks:{color:_ct,font:{size:9}},grid:{display:false}}},
-        plugins:{legend:{display:false},
-          tooltip:{callbacks:{label:function(ctx){var d=profitData[ctx.dataIndex];if(!d)return'';return d.margin+'% (영업이익 $'+(d.op/1000).toFixed(1)+'B / 매출 $'+(d.rev/1000).toFixed(1)+'B)'}}}}
-      }
-    });
-  }
+  // 영업이익률 차트는 펼칠 때 렌더링 (초기 렌더링 스킵)
+  // toggleChart에서 co-profit-chart가 보일 때 renderProfitChart 호출
 
   // 테이블
   var tbody=document.querySelector('#co-table tbody');
@@ -2009,16 +1989,43 @@ function toggleProfitChart(){
   // 사용 안 함 — 원래 버전 유지
 }
 
-function toggleChart(id,btn){
+function toggleChart(id,btn,chartId){
   var el=document.getElementById(id);
   if(!el)return;
   if(el.style.display==='none'){
     el.style.display='block';
     if(btn)btn.textContent=btn.textContent.replace('▼','▲').replace('펼치기','접기');
+    // 펼칠 때 차트 렌더링
+    if(chartId==='co-profit-chart'){
+      setTimeout(function(){renderProfitChart()},50);
+    }
   }else{
     el.style.display='none';
     if(btn)btn.textContent=btn.textContent.replace('▲','▼').replace('접기','펼치기');
   }
+}
+
+function renderProfitChart(){
+  var data=(COMP||[]).slice();
+  var filtered=coFilter==='all'?data:coFilter==='us'?data.filter(function(c){return ['us','se','sg','fr'].indexOf(c.country)>=0}):data.filter(function(c){return c.country===coFilter});
+  var profitData=filtered.filter(function(c){var r=c.revenue_2025||c.revenue_2024;var o=c.operating_profit_2025;if(o==null)o=c.operating_profit_2024;return r&&o!=null}).map(function(c){
+    var r=c.revenue_2025||c.revenue_2024;var o=c.operating_profit_2025;if(o==null)o=c.operating_profit_2024;
+    return{name:c.name_kr||c.name,country:c.country,margin:Math.round(o/r*100),rev:r,op:o};
+  }).sort(function(a,b){return b.margin-a.margin}).slice(0,15);
+  var pCanvas=document.getElementById('co-profit-chart');
+  if(!pCanvas)return;
+  var existing=Chart.getChart('co-profit-chart');
+  if(existing)existing.destroy();
+  var pctx=pCanvas.getContext('2d');
+  var _ct='#9ca3af',_cg='rgba(255,255,255,.05)';
+  new Chart(pctx,{
+    type:'bar',
+    data:{labels:profitData.map(function(d){return d.name.length>8?d.name.slice(0,7)+'..':d.name}),datasets:[{label:'영업이익률',data:profitData.map(function(d){return d.margin}),backgroundColor:profitData.map(function(d){return d.margin>=30?'#10b981':d.margin>=15?'#3b82f6':d.margin>=0?'#f59e0b':'#ef4444'}),borderRadius:3}]},
+    options:{responsive:true,animation:{duration:300},
+      scales:{y:{ticks:{color:_ct,callback:function(v){return v+'%'}},grid:{color:_cg}},x:{ticks:{color:_ct,font:{size:9}},grid:{display:false}}},
+      plugins:{legend:{display:false},tooltip:{callbacks:{label:function(ctx){var d=profitData[ctx.dataIndex];if(!d)return'';return d.margin+'% (영업이익 $'+(d.op/1000).toFixed(1)+'B / 매출 $'+(d.rev/1000).toFixed(1)+'B)'}}}}
+    }
+  });
 }
 
 function toggleQuarterly(idx){
