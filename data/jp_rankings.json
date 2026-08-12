@@ -242,9 +242,9 @@
     "app_id": "com.HoYoverse.Nap",
     "local_name": "Zenless Zone Zero",
     "icon": "https://play-lh.googleusercontent.com/-OwYJcIdDSfGJBOQozVC3kKxqnA7ev2O897twi-aVUpc8AXVMNtB3YWEXDui_V0VJxelNAbUbLXpNZj9AqWa3A",
-    "est_revenue": 2666666,
-    "est_revenue_fmt": "$2.67M",
-    "est_revenue_won": "40.0억"
+    "est_revenue": 2822460,
+    "est_revenue_fmt": "$2.82M",
+    "est_revenue_won": "42.3억"
   },
   {
     "rank": 20,
@@ -255,9 +255,9 @@
     "app_id": "com.playrix.gardenscapes",
     "local_name": "Gardenscapes",
     "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
-    "est_revenue": 2822460,
-    "est_revenue_fmt": "$2.82M",
-    "est_revenue_won": "42.3억"
+    "est_revenue": 2666666,
+    "est_revenue_fmt": "$2.67M",
+    "est_revenue_won": "40.0억"
   },
   {
     "rank": 21,
@@ -294,38 +294,12 @@
     "app_id": "com.HoYoverse.hkrpgoversea",
     "local_name": "崩壊:スターレイル",
     "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
-    "est_revenue": 2158659,
-    "est_revenue_fmt": "$2.16M",
-    "est_revenue_won": "32.4억"
-  },
-  {
-    "rank": 24,
-    "title": "Township",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.playrix.township",
-    "local_name": "Township",
-    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
     "est_revenue": 2267824,
     "est_revenue_fmt": "$2.27M",
     "est_revenue_won": "34.0억"
   },
   {
-    "rank": 25,
-    "title": "Yu-Gi-Oh! Master Duel",
-    "developer": "KONAMI",
-    "genre": "Game",
-    "rating": 3.8,
-    "app_id": "jp.konami.masterduel",
-    "local_name": "Yu-Gi-Oh! Master Duel",
-    "icon": "https://play-lh.googleusercontent.com/iXWTX-D0Ehok3_lsmw-Bf0ow69CqUBsFv7u_zy8r-SOQML6e4KfOk7CYLutfvSwi-WLUvuctzvJQPKh1NjVb6g",
-    "est_revenue": 2058891,
-    "est_revenue_fmt": "$2.06M",
-    "est_revenue_won": "30.9억"
-  },
-  {
-    "rank": 26,
+    "rank": 24,
     "title": "にゃんこ大戦争",
     "developer": "PONOS Corporation",
     "genre": "Game",
@@ -333,6 +307,32 @@
     "app_id": "jp.co.ponos.battlecats",
     "local_name": "にゃんこ大戦争",
     "icon": "https://play-lh.googleusercontent.com/_zq2tHsoecoSDTyxqZr9VdehQ2If63W2YXKzM10feM192S9uLsY7RNWOyKN5UXAWQL3bSBnC2tIp5bvlBNmn8Q",
+    "est_revenue": 2158659,
+    "est_revenue_fmt": "$2.16M",
+    "est_revenue_won": "32.4억"
+  },
+  {
+    "rank": 25,
+    "title": "Township",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.playrix.township",
+    "local_name": "Township",
+    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
+    "est_revenue": 2058891,
+    "est_revenue_fmt": "$2.06M",
+    "est_revenue_won": "30.9억"
+  },
+  {
+    "rank": 26,
+    "title": "Yu-Gi-Oh! Master Duel",
+    "developer": "KONAMI",
+    "genre": "Game",
+    "rating": 3.8,
+    "app_id": "jp.konami.masterduel",
+    "local_name": "Yu-Gi-Oh! Master Duel",
+    "icon": "https://play-lh.googleusercontent.com/iXWTX-D0Ehok3_lsmw-Bf0ow69CqUBsFv7u_zy8r-SOQML6e4KfOk7CYLutfvSwi-WLUvuctzvJQPKh1NjVb6g",
     "est_revenue": 1967382,
     "est_revenue_fmt": "$1.97M",
     "est_revenue_won": "29.5억"
@@ -372,9 +372,9 @@
     "app_id": "com.fatmerge.global",
     "local_name": "Tasty Travels: Merge Game",
     "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
-    "est_revenue": 1666666,
-    "est_revenue_fmt": "$1.67M",
-    "est_revenue_won": "25.0억"
+    "est_revenue": 1733466,
+    "est_revenue_fmt": "$1.73M",
+    "est_revenue_won": "26.0억"
   },
   {
     "rank": 30,
@@ -385,9 +385,9 @@
     "app_id": "com.nianticlabs.pokemongo",
     "local_name": "Pokémon GO",
     "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
-    "est_revenue": 1733466,
-    "est_revenue_fmt": "$1.73M",
-    "est_revenue_won": "26.0억"
+    "est_revenue": 1666666,
+    "est_revenue_fmt": "$1.67M",
+    "est_revenue_won": "25.0억"
   },
   {
     "rank": 31,
@@ -417,19 +417,6 @@
   },
   {
     "rank": 33,
-    "title": "Pokémon TCG Pocket",
-    "developer": "The Pokémon Company",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "jp.pokemon.pokemontcgp",
-    "local_name": "Pokémon TCG Pocket",
-    "icon": "https://play-lh.googleusercontent.com/qdEdyVc19jfittS0bnDUnXLRM7jOPZzfHXEYoChPWOtzMrtwU6t3ZVm_FQ7wbeDYFlqLBuWCDK0Q6c1nEwYKTA",
-    "est_revenue": 1453364,
-    "est_revenue_fmt": "$1.45M",
-    "est_revenue_won": "21.8억"
-  },
-  {
-    "rank": 34,
     "title": "信長の野望 覇道",
     "developer": "KOEI TECMO GAMES CO., LTD.",
     "genre": "Game",
@@ -437,6 +424,19 @@
     "app_id": "jp.co.koeitecmo.Power",
     "local_name": "信長の野望 覇道",
     "icon": "https://play-lh.googleusercontent.com/lVRR7nQTSOqpmYdbXtRo_FsWkdEaljN4TaT-rrrr0TL5I0NR8t0wmClEHotszjovMLBOPruq6uxoky3kgTkB-oM",
+    "est_revenue": 1453364,
+    "est_revenue_fmt": "$1.45M",
+    "est_revenue_won": "21.8억"
+  },
+  {
+    "rank": 34,
+    "title": "Pokémon TCG Pocket",
+    "developer": "The Pokémon Company",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "jp.pokemon.pokemontcgp",
+    "local_name": "Pokémon TCG Pocket",
+    "icon": "https://play-lh.googleusercontent.com/qdEdyVc19jfittS0bnDUnXLRM7jOPZzfHXEYoChPWOtzMrtwU6t3ZVm_FQ7wbeDYFlqLBuWCDK0Q6c1nEwYKTA",
     "est_revenue": 1392342,
     "est_revenue_fmt": "$1.39M",
     "est_revenue_won": "20.9억"
@@ -502,9 +502,9 @@
     "app_id": "com.bandainamcoent.gget_JP",
     "local_name": "SDガンダム ジージェネレーション エターナル",
     "icon": "https://play-lh.googleusercontent.com/WI-nOxNBdI82iuMwMpFjVWkTxs4Bh3dVmAQL8xwJ-U9120sfcbXLJWnn3X5IpBtdG8wzph-sobJyM0P484APwDA",
-    "est_revenue": 1102384,
-    "est_revenue_fmt": "$1.10M",
-    "est_revenue_won": "16.5억"
+    "est_revenue": 1143224,
+    "est_revenue_fmt": "$1.14M",
+    "est_revenue_won": "17.1억"
   },
   {
     "rank": 40,
@@ -515,9 +515,9 @@
     "app_id": "jp.co.happyelements.boysm",
     "local_name": "あんさんぶるスターズ！！Music",
     "icon": "https://play-lh.googleusercontent.com/McMZLXR9hYWUG883v6EVIh5k9P5iME0wPSbgd_bhVNU9hkUV-NlpXsfR4Je8o9TrlF52jzhMUkRQcefF5ZVkFw",
-    "est_revenue": 1143224,
-    "est_revenue_fmt": "$1.14M",
-    "est_revenue_won": "17.1억"
+    "est_revenue": 1102384,
+    "est_revenue_fmt": "$1.10M",
+    "est_revenue_won": "16.5억"
   },
   {
     "rank": 41,
@@ -580,9 +580,9 @@
     "app_id": "com.qookkagames.xczyw.gp.jp",
     "local_name": "信長の野望 真戦",
     "icon": "https://play-lh.googleusercontent.com/3XmTeAwhy-k2u_bN2kvYHXzzTRcDsBIRR0EZOBzf-csvFVR7M7cKo_GNToLfTgeSsdYEUcnmWtrQhBigLSddxNg",
-    "est_revenue": 901821,
-    "est_revenue_fmt": "$902K",
-    "est_revenue_won": "13.5억"
+    "est_revenue": 930755,
+    "est_revenue_fmt": "$931K",
+    "est_revenue_won": "14.0억"
   },
   {
     "rank": 46,
@@ -593,9 +593,9 @@
     "app_id": "com.zigzagame.paranoize",
     "local_name": "Paranoize",
     "icon": "https://play-lh.googleusercontent.com/7LQtnB1OywAs4z9kyDT5NiAQtoE_TNMU6OdiPAm0znOARQB6lOlxZ7Dq9SQ8kdCvBAsDjGQKzhV2JMHHN2iuQ5g",
-    "est_revenue": 930755,
-    "est_revenue_fmt": "$931K",
-    "est_revenue_won": "14.0억"
+    "est_revenue": 901821,
+    "est_revenue_fmt": "$902K",
+    "est_revenue_won": "13.5억"
   },
   {
     "rank": 47,
@@ -632,9 +632,9 @@
     "app_id": "jp.pokemon.pokemonsleep",
     "local_name": "Pokémon Sleep",
     "icon": "https://play-lh.googleusercontent.com/tg-BeEJO7UDjvfxWXWJ1u-PMLa-45twu0YhJkZfQu-PEjRJU_2l9Sb9xMR3YBha3mtLzdzU-016ZpWN5IUwrFwU",
-    "est_revenue": 0,
-    "est_revenue_fmt": "",
-    "est_revenue_won": ""
+    "est_revenue": 823562,
+    "est_revenue_fmt": "$824K",
+    "est_revenue_won": "12.4억"
   },
   {
     "rank": 50,
@@ -645,8 +645,8 @@
     "app_id": "com.jp.beauty",
     "local_name": "旦那様の一発逆転人生",
     "icon": "https://play-lh.googleusercontent.com/dMZpIM_uav-hfQKPl5XUjHB98vvUJJl_7U99lE1sIMJ447lPXCn93_SiInconGTh89-ia18k5Q8dJF799wXctQ",
-    "est_revenue": 0,
-    "est_revenue_fmt": "",
-    "est_revenue_won": ""
+    "est_revenue": 800000,
+    "est_revenue_fmt": "$800K",
+    "est_revenue_won": "12.0억"
   }
 ]
