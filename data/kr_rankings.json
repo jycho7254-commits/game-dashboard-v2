@@ -92,19 +92,6 @@
   },
   {
     "rank": 8,
-    "title": "Royal Match",
-    "developer": "Dream Games, Ltd.",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.dreamgames.royalmatch",
-    "local_name": "로얄 매치",
-    "icon": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
-    "est_revenue": 2532550,
-    "est_revenue_fmt": "$2.53M",
-    "est_revenue_won": "38.0억"
-  },
-  {
-    "rank": 9,
     "title": "Roblox",
     "developer": "Roblox Corporation",
     "genre": "Game",
@@ -115,6 +102,19 @@
     "est_revenue": 2775458,
     "est_revenue_fmt": "$2.78M",
     "est_revenue_won": "41.6억"
+  },
+  {
+    "rank": 9,
+    "title": "Royal Match",
+    "developer": "Dream Games, Ltd.",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.dreamgames.royalmatch",
+    "local_name": "로얄 매치",
+    "icon": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
+    "est_revenue": 2532550,
+    "est_revenue_fmt": "$2.53M",
+    "est_revenue_won": "38.0억"
   },
   {
     "rank": 10,
@@ -287,19 +287,6 @@
   },
   {
     "rank": 23,
-    "title": "Gardenscapes",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.playrix.gardenscapes",
-    "local_name": "가든스케이프",
-    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
-    "est_revenue": 805188,
-    "est_revenue_fmt": "$805K",
-    "est_revenue_won": "12.1억"
-  },
-  {
-    "rank": 24,
     "title": "Seaside Escape®: Merge & Story",
     "developer": "Microfun Limited",
     "genre": "Game",
@@ -310,6 +297,19 @@
     "est_revenue": 753775,
     "est_revenue_fmt": "$754K",
     "est_revenue_won": "11.3억"
+  },
+  {
+    "rank": 24,
+    "title": "Gardenscapes",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.playrix.gardenscapes",
+    "local_name": "가든스케이프",
+    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
+    "est_revenue": 805188,
+    "est_revenue_fmt": "$805K",
+    "est_revenue_won": "12.1억"
   },
   {
     "rank": 25,
@@ -456,19 +456,6 @@
   },
   {
     "rank": 36,
-    "title": "한게임 섯다&맞고",
-    "developer": "NHN Corp.",
-    "genre": "Game",
-    "rating": 4,
-    "app_id": "com.NHNEnt.MSudda",
-    "local_name": "한게임 섯다&맞고",
-    "icon": "https://play-lh.googleusercontent.com/CqdDCCaoUKuuANbhIfbCWehb2UTPN6YPbucx6KUzurF6WebH10KPaG46AG-fBCl9w1hAnOqbr2psIJtQFoUOaHw",
-    "est_revenue": 375806,
-    "est_revenue_fmt": "$376K",
-    "est_revenue_won": "5.6억"
-  },
-  {
-    "rank": 37,
     "title": "Honkai: Star Rail",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -479,6 +466,19 @@
     "est_revenue": 356546,
     "est_revenue_fmt": "$357K",
     "est_revenue_won": "5.3억"
+  },
+  {
+    "rank": 37,
+    "title": "한게임 섯다&맞고",
+    "developer": "NHN Corp.",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "com.NHNEnt.MSudda",
+    "local_name": "한게임 섯다&맞고",
+    "icon": "https://play-lh.googleusercontent.com/CqdDCCaoUKuuANbhIfbCWehb2UTPN6YPbucx6KUzurF6WebH10KPaG46AG-fBCl9w1hAnOqbr2psIJtQFoUOaHw",
+    "est_revenue": 375806,
+    "est_revenue_fmt": "$376K",
+    "est_revenue_won": "5.6억"
   },
   {
     "rank": 38,
@@ -495,19 +495,6 @@
   },
   {
     "rank": 39,
-    "title": "RF ONLINE NEXT",
-    "developer": "Netmarble",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.netmarble.rfnext",
-    "local_name": "RF 온라인 넥스트",
-    "icon": "https://play-lh.googleusercontent.com/IkNZqliSHoIRoWo-SFO0b8pzt53n1Epi-Tf9p8LbwczkafXbMcuQTpmgpdU-DIKeamrQoyqgRQTars9qnpe0Gg",
-    "est_revenue": 322268,
-    "est_revenue_fmt": "$322K",
-    "est_revenue_won": "4.8억"
-  },
-  {
-    "rank": 40,
     "title": "Seven Knights Re:BIRTH",
     "developer": "Netmarble",
     "genre": "Game",
@@ -518,6 +505,19 @@
     "est_revenue": 306976,
     "est_revenue_fmt": "$307K",
     "est_revenue_won": "4.6억"
+  },
+  {
+    "rank": 40,
+    "title": "RF ONLINE NEXT",
+    "developer": "Netmarble",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.netmarble.rfnext",
+    "local_name": "RF 온라인 넥스트",
+    "icon": "https://play-lh.googleusercontent.com/IkNZqliSHoIRoWo-SFO0b8pzt53n1Epi-Tf9p8LbwczkafXbMcuQTpmgpdU-DIKeamrQoyqgRQTars9qnpe0Gg",
+    "est_revenue": 322268,
+    "est_revenue_fmt": "$322K",
+    "est_revenue_won": "4.8억"
   },
   {
     "rank": 41,
@@ -586,16 +586,16 @@
   },
   {
     "rank": 46,
-    "title": "Homescapes",
-    "developer": "Playrix",
+    "title": "Mystery Town: Merge Games",
+    "developer": "Cedar Games Studio",
     "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.playrix.homescapes",
-    "local_name": "홈스케이프",
-    "icon": "https://play-lh.googleusercontent.com/ft9OqNwpLaL45Jq3YuSYt0wm3y_j-YteTQqfq4Cu2PRWTrkFMuhlmUHmxggNxOP96gxR9Q3ML1Yt87iV3zD5fg",
-    "est_revenue": 234725,
-    "est_revenue_fmt": "$235K",
-    "est_revenue_won": "3.5억"
+    "rating": 4.9,
+    "app_id": "com.cedargames.mysterytown",
+    "local_name": "미스터리 타운",
+    "icon": "https://play-lh.googleusercontent.com/uVjVMEJrhT-xRoUtKIUj8tOVSbCWw4IsRHaTDYICRNjQycUj6SucVpeoAPiNZWeJ5JuzIt_ZZRo1X1pW6XJFAQE",
+    "est_revenue": 216307,
+    "est_revenue_fmt": "$216K",
+    "est_revenue_won": "3.2억"
   },
   {
     "rank": 47,
@@ -612,32 +612,19 @@
   },
   {
     "rank": 48,
-    "title": "Mystery Town: Merge Games",
-    "developer": "Cedar Games Studio",
+    "title": "Homescapes",
+    "developer": "Playrix",
     "genre": "Game",
-    "rating": 4.9,
-    "app_id": "com.cedargames.mysterytown",
-    "local_name": "미스터리 타운",
-    "icon": "https://play-lh.googleusercontent.com/uVjVMEJrhT-xRoUtKIUj8tOVSbCWw4IsRHaTDYICRNjQycUj6SucVpeoAPiNZWeJ5JuzIt_ZZRo1X1pW6XJFAQE",
-    "est_revenue": 216307,
-    "est_revenue_fmt": "$216K",
-    "est_revenue_won": "3.2억"
+    "rating": 4.7,
+    "app_id": "com.playrix.homescapes",
+    "local_name": "홈스케이프",
+    "icon": "https://play-lh.googleusercontent.com/ft9OqNwpLaL45Jq3YuSYt0wm3y_j-YteTQqfq4Cu2PRWTrkFMuhlmUHmxggNxOP96gxR9Q3ML1Yt87iV3zD5fg",
+    "est_revenue": 234725,
+    "est_revenue_fmt": "$235K",
+    "est_revenue_won": "3.5억"
   },
   {
     "rank": 49,
-    "title": "AION2",
-    "developer": "NC Corporation",
-    "genre": "Game",
-    "rating": 2.9,
-    "app_id": "com.ncsoft.aion2",
-    "local_name": "아이온2",
-    "icon": "https://play-lh.googleusercontent.com/aqqsbPuYk-dU9f0qnyEkHje_IIchFrOhDQfDXozQbD5_n_Hxi18ja4GyEbNYuFD9inoFBUYfZFWK4zSOjsy8Aw",
-    "est_revenue": 207910,
-    "est_revenue_fmt": "$208K",
-    "est_revenue_won": "3.1억"
-  },
-  {
-    "rank": 50,
     "title": "라그나로크M: Classic",
     "developer": "GRAVITY Co., Ltd.",
     "genre": "Game",
@@ -648,5 +635,18 @@
     "est_revenue": 200000,
     "est_revenue_fmt": "$200K",
     "est_revenue_won": "3.0억"
+  },
+  {
+    "rank": 50,
+    "title": "AION2",
+    "developer": "NC Corporation",
+    "genre": "Game",
+    "rating": 2.9,
+    "app_id": "com.ncsoft.aion2",
+    "local_name": "아이온2",
+    "icon": "https://play-lh.googleusercontent.com/aqqsbPuYk-dU9f0qnyEkHje_IIchFrOhDQfDXozQbD5_n_Hxi18ja4GyEbNYuFD9inoFBUYfZFWK4zSOjsy8Aw",
+    "est_revenue": 207910,
+    "est_revenue_fmt": "$208K",
+    "est_revenue_won": "3.1억"
   }
 ]
