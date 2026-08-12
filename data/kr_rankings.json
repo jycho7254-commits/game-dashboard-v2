@@ -40,19 +40,6 @@
   },
   {
     "rank": 4,
-    "title": "리니지M",
-    "developer": "NC Corporation",
-    "genre": "Game",
-    "rating": 2.6,
-    "app_id": "com.ncsoft.lineagem19",
-    "local_name": "리니지M",
-    "icon": "https://play-lh.googleusercontent.com/xy6xR7NsdX81HpwWu8CoVkseQECAug3pLvvpdBGtls12xwiQy3Qw5hvQ51fc3oTXPmI8xyOArPnm70t8395Mmdw",
-    "est_revenue": 4403488,
-    "est_revenue_fmt": "$4.40M",
-    "est_revenue_won": "66.1억"
-  },
-  {
-    "rank": 5,
     "title": "CookieRun: Crumble - Idle RPG",
     "developer": "Devsisters Corporation",
     "genre": "Game",
@@ -63,6 +50,19 @@
     "est_revenue": 4000000,
     "est_revenue_fmt": "$4.00M",
     "est_revenue_won": "60.0억"
+  },
+  {
+    "rank": 5,
+    "title": "리니지M",
+    "developer": "NC Corporation",
+    "genre": "Game",
+    "rating": 2.6,
+    "app_id": "com.ncsoft.lineagem19",
+    "local_name": "리니지M",
+    "icon": "https://play-lh.googleusercontent.com/xy6xR7NsdX81HpwWu8CoVkseQECAug3pLvvpdBGtls12xwiQy3Qw5hvQ51fc3oTXPmI8xyOArPnm70t8395Mmdw",
+    "est_revenue": 4403488,
+    "est_revenue_fmt": "$4.40M",
+    "est_revenue_won": "66.1억"
   },
   {
     "rank": 6,
@@ -209,19 +209,6 @@
   },
   {
     "rank": 17,
-    "title": "Lucky Defense",
-    "developer": "111%",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.percent.aos.luckydefense",
-    "local_name": "러키 디펜스",
-    "icon": "https://play-lh.googleusercontent.com/7Rih7H3B4QoHfjihDscNPVS1t8FZ0C-2TrK_j1ldhkb6RbnP8V2Vo1OHpjPH1qGnJpJ0WYGYPth8PhZgQ1Q-Vg",
-    "est_revenue": 1241551,
-    "est_revenue_fmt": "$1.24M",
-    "est_revenue_won": "18.6억"
-  },
-  {
-    "rank": 18,
     "title": "Wuthering Waves - To Xuanfang",
     "developer": "HK KURO GAMES LIMITED",
     "genre": "Game",
@@ -232,6 +219,19 @@
     "est_revenue": 1150580,
     "est_revenue_fmt": "$1.15M",
     "est_revenue_won": "17.3억"
+  },
+  {
+    "rank": 18,
+    "title": "Lucky Defense",
+    "developer": "111%",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.percent.aos.luckydefense",
+    "local_name": "러키 디펜스",
+    "icon": "https://play-lh.googleusercontent.com/7Rih7H3B4QoHfjihDscNPVS1t8FZ0C-2TrK_j1ldhkb6RbnP8V2Vo1OHpjPH1qGnJpJ0WYGYPth8PhZgQ1Q-Vg",
+    "est_revenue": 1241551,
+    "est_revenue_fmt": "$1.24M",
+    "est_revenue_won": "18.6억"
   },
   {
     "rank": 19,
@@ -586,6 +586,19 @@
   },
   {
     "rank": 46,
+    "title": "I9: 인페르노 나인",
+    "developer": "Leniu Technology Co., Limited",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.kr.firegp",
+    "local_name": "I9: 인페르노 나인",
+    "icon": "https://play-lh.googleusercontent.com/jZ0P5ZxOE4VorYhs9QmbcxzXi7VYiNqh4I5YlO2JXUdh_5D80ymAagbYxjtP6pGnU_7f_W0gWUVWUm9mIkCI5A",
+    "est_revenue": 216307,
+    "est_revenue_fmt": "$216K",
+    "est_revenue_won": "3.2억"
+  },
+  {
+    "rank": 47,
     "title": "Mystery Town: Merge Games",
     "developer": "Cedar Games Studio",
     "genre": "Game",
@@ -598,7 +611,7 @@
     "est_revenue_won": "3.5억"
   },
   {
-    "rank": 47,
+    "rank": 48,
     "title": "Homescapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -609,19 +622,6 @@
     "est_revenue": 225230,
     "est_revenue_fmt": "$225K",
     "est_revenue_won": "3.4억"
-  },
-  {
-    "rank": 48,
-    "title": "I9: 인페르노 나인",
-    "developer": "Leniu Technology Co., Limited",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.kr.firegp",
-    "local_name": "I9: 인페르노 나인",
-    "icon": "https://play-lh.googleusercontent.com/jZ0P5ZxOE4VorYhs9QmbcxzXi7VYiNqh4I5YlO2JXUdh_5D80ymAagbYxjtP6pGnU_7f_W0gWUVWUm9mIkCI5A",
-    "est_revenue": 216307,
-    "est_revenue_fmt": "$216K",
-    "est_revenue_won": "3.2억"
   },
   {
     "rank": 49,
@@ -641,7 +641,7 @@
     "title": "라그나로크M: Classic",
     "developer": "GRAVITY Co., Ltd.",
     "genre": "Game",
-    "rating": 4.5,
+    "rating": 4.6,
     "app_id": "com.gravity.romkrzeny.aos",
     "local_name": "라그나로크M: Classic",
     "icon": "https://play-lh.googleusercontent.com/5SFBw-txEgmxfiD8J5DcHchCZFvLCo1jZsalnlDHYjv5nddS-8oLSRIwGHmqKF0NLaZJ9Gmbx6wEMGxlNtFe",
