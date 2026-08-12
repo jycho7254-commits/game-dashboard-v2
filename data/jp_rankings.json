@@ -69,7 +69,7 @@
     "title": "幻想水滸伝 STAR LEAP",
     "developer": "KONAMI",
     "genre": "Game",
-    "rating": 4.6,
+    "rating": 4.7,
     "app_id": "jp.konami.suikoden.starleap",
     "local_name": "幻想水滸伝 STAR LEAP",
     "icon": "https://play-lh.googleusercontent.com/CZqC6kjKA871p5R5tf734xuTrgNd7B2DC9Q2Y1Fj0Bmdg3z2I8PhgV-7JNsOg-g-BV1ZWNLRPqq0frr9byaN",
@@ -326,19 +326,6 @@
   },
   {
     "rank": 26,
-    "title": "GODDESS OF VICTORY: NIKKE",
-    "developer": "Level Infinite",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.proximabeta.nikke",
-    "local_name": "勝利の女神:NIKKE",
-    "icon": "https://play-lh.googleusercontent.com/JK5mejs0bVT_9613gCxNfCjRw_m3JiQ4wC8B8Kt471yu7ThFQazVkCLTfPZ81hnenft7ilaE-qSwVGpQT6sEFcY",
-    "est_revenue": 1883170,
-    "est_revenue_fmt": "$1.88M",
-    "est_revenue_won": "28.2억"
-  },
-  {
-    "rank": 27,
     "title": "にゃんこ大戦争",
     "developer": "PONOS Corporation",
     "genre": "Game",
@@ -351,20 +338,20 @@
     "est_revenue_won": "29.5억"
   },
   {
-    "rank": 28,
-    "title": "Tasty Travels: Merge Game",
-    "developer": "Century Games PTE. LTD.",
+    "rank": 27,
+    "title": "GODDESS OF VICTORY: NIKKE",
+    "developer": "Level Infinite",
     "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.fatmerge.global",
-    "local_name": "Tasty Travels: Merge Game",
-    "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
-    "est_revenue": 1666666,
-    "est_revenue_fmt": "$1.67M",
-    "est_revenue_won": "25.0억"
+    "rating": 4.6,
+    "app_id": "com.proximabeta.nikke",
+    "local_name": "勝利の女神:NIKKE",
+    "icon": "https://play-lh.googleusercontent.com/JK5mejs0bVT_9613gCxNfCjRw_m3JiQ4wC8B8Kt471yu7ThFQazVkCLTfPZ81hnenft7ilaE-qSwVGpQT6sEFcY",
+    "est_revenue": 1883170,
+    "est_revenue_fmt": "$1.88M",
+    "est_revenue_won": "28.2억"
   },
   {
-    "rank": 29,
+    "rank": 28,
     "title": "Genshin Impact",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -375,6 +362,19 @@
     "est_revenue": 1805432,
     "est_revenue_fmt": "$1.81M",
     "est_revenue_won": "27.1억"
+  },
+  {
+    "rank": 29,
+    "title": "Tasty Travels: Merge Game",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "com.fatmerge.global",
+    "local_name": "Tasty Travels: Merge Game",
+    "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
+    "est_revenue": 1666666,
+    "est_revenue_fmt": "$1.67M",
+    "est_revenue_won": "25.0억"
   },
   {
     "rank": 30,
