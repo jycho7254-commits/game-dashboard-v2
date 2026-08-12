@@ -378,19 +378,6 @@
   },
   {
     "rank": 30,
-    "title": "트릭컬 리바이브",
-    "developer": "EPIDGames",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.epidgames.trickcalrevive",
-    "local_name": "트릭컬 리바이브",
-    "icon": "https://play-lh.googleusercontent.com/OCiuBv70Dnuw9wcGet3EtTUF2nEkS1vhYYkvOahe9-MmKg6EhxGkf-9ZVxnWIJXflQSmfOIjTcaSbwJSJyuzHA",
-    "est_revenue": 533333,
-    "est_revenue_fmt": "$533K",
-    "est_revenue_won": "8.0억"
-  },
-  {
-    "rank": 31,
     "title": "Pmang Poker : Casino Royal",
     "developer": "NEOWIZ corp",
     "genre": "Game",
@@ -403,20 +390,7 @@
     "est_revenue_won": "7.5억"
   },
   {
-    "rank": 32,
-    "title": "hololive Dreams",
-    "developer": "QualiArts, Inc.",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "game.qualiarts.hololive.dreams.com",
-    "local_name": "홀로라이브 드림스",
-    "icon": "https://play-lh.googleusercontent.com/0ic1Lk3doNRloIKJFGjBLiZBxpwLj61z2U6uV9ZpK21CjnjHiGF4tXS4mBCUwrKx_5O5hJ6GeJL1A1TBl3AM2v8",
-    "est_revenue": 471173,
-    "est_revenue_fmt": "$471K",
-    "est_revenue_won": "7.1억"
-  },
-  {
-    "rank": 33,
+    "rank": 31,
     "title": "Lineage W",
     "developer": "NC Corporation",
     "genre": "Game",
@@ -427,6 +401,32 @@
     "est_revenue": 444141,
     "est_revenue_fmt": "$444K",
     "est_revenue_won": "6.7억"
+  },
+  {
+    "rank": 32,
+    "title": "트릭컬 리바이브",
+    "developer": "EPIDGames",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.epidgames.trickcalrevive",
+    "local_name": "트릭컬 리바이브",
+    "icon": "https://play-lh.googleusercontent.com/OCiuBv70Dnuw9wcGet3EtTUF2nEkS1vhYYkvOahe9-MmKg6EhxGkf-9ZVxnWIJXflQSmfOIjTcaSbwJSJyuzHA",
+    "est_revenue": 533333,
+    "est_revenue_fmt": "$533K",
+    "est_revenue_won": "8.0억"
+  },
+  {
+    "rank": 33,
+    "title": "hololive Dreams",
+    "developer": "QualiArts, Inc.",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "game.qualiarts.hololive.dreams.com",
+    "local_name": "홀로라이브 드림스",
+    "icon": "https://play-lh.googleusercontent.com/0ic1Lk3doNRloIKJFGjBLiZBxpwLj61z2U6uV9ZpK21CjnjHiGF4tXS4mBCUwrKx_5O5hJ6GeJL1A1TBl3AM2v8",
+    "est_revenue": 471173,
+    "est_revenue_fmt": "$471K",
+    "est_revenue_won": "7.1억"
   },
   {
     "rank": 34,
@@ -547,19 +547,6 @@
   },
   {
     "rank": 43,
-    "title": "EA SPORTS FC Online M",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 2.3,
-    "app_id": "com.nexon.fo4m",
-    "local_name": "FC 온라인 M",
-    "icon": "https://play-lh.googleusercontent.com/3kHUd_bPqo2Mz00jcm8gxIjgawGnkg1w7V1KZfQ-UalXUj8QrLwqmGxpUNniLQ4o3exMUCl_lKa5KOolaOqBFdo",
-    "est_revenue": 267176,
-    "est_revenue_fmt": "$267K",
-    "est_revenue_won": "4.0억"
-  },
-  {
-    "rank": 44,
     "title": "PUBG Mobile",
     "developer": "KRAFTON, Inc.",
     "genre": "Game",
@@ -570,6 +557,19 @@
     "est_revenue": 255639,
     "est_revenue_fmt": "$256K",
     "est_revenue_won": "3.8억"
+  },
+  {
+    "rank": 44,
+    "title": "EA SPORTS FC Online M",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 2.3,
+    "app_id": "com.nexon.fo4m",
+    "local_name": "FC 온라인 M",
+    "icon": "https://play-lh.googleusercontent.com/3kHUd_bPqo2Mz00jcm8gxIjgawGnkg1w7V1KZfQ-UalXUj8QrLwqmGxpUNniLQ4o3exMUCl_lKa5KOolaOqBFdo",
+    "est_revenue": 267176,
+    "est_revenue_fmt": "$267K",
+    "est_revenue_won": "4.0억"
   },
   {
     "rank": 45,
