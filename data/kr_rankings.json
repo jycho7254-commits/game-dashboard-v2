@@ -157,19 +157,6 @@
   },
   {
     "rank": 13,
-    "title": "한게임포커 클래식 : 7포커 홀덤 섯다 훌라 슬롯",
-    "developer": "NHN Corp.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.nhnent.pokerclassic",
-    "local_name": "한게임 포커 클래식",
-    "icon": "https://play-lh.googleusercontent.com/Hv-D0Heegr2EW_eyGcfNv-HzI_WRrjxMqnN575pY17XaRfXA4wjmAtTwWsO_ON6WqVtTP0ajH2bKKRDx6CNXhQ",
-    "est_revenue": 1727818,
-    "est_revenue_fmt": "$1.73M",
-    "est_revenue_won": "25.9억"
-  },
-  {
-    "rank": 14,
     "title": "한게임 포커",
     "developer": "NHN Corp.",
     "genre": "Game",
@@ -182,7 +169,7 @@
     "est_revenue_won": "23.8억"
   },
   {
-    "rank": 15,
+    "rank": 14,
     "title": "GODDESS OF VICTORY: NIKKE",
     "developer": "Level Infinite",
     "genre": "Game",
@@ -193,6 +180,19 @@
     "est_revenue": 1466666,
     "est_revenue_fmt": "$1.47M",
     "est_revenue_won": "22.0억"
+  },
+  {
+    "rank": 15,
+    "title": "한게임포커 클래식 : 7포커 홀덤 섯다 훌라 슬롯",
+    "developer": "NHN Corp.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.nhnent.pokerclassic",
+    "local_name": "한게임 포커 클래식",
+    "icon": "https://play-lh.googleusercontent.com/Hv-D0Heegr2EW_eyGcfNv-HzI_WRrjxMqnN575pY17XaRfXA4wjmAtTwWsO_ON6WqVtTP0ajH2bKKRDx6CNXhQ",
+    "est_revenue": 1727818,
+    "est_revenue_fmt": "$1.73M",
+    "est_revenue_won": "25.9억"
   },
   {
     "rank": 16,
@@ -352,45 +352,6 @@
   },
   {
     "rank": 28,
-    "title": "트릭컬 리바이브",
-    "developer": "EPIDGames",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.epidgames.trickcalrevive",
-    "local_name": "트릭컬 리바이브",
-    "icon": "https://play-lh.googleusercontent.com/OCiuBv70Dnuw9wcGet3EtTUF2nEkS1vhYYkvOahe9-MmKg6EhxGkf-9ZVxnWIJXflQSmfOIjTcaSbwJSJyuzHA",
-    "est_revenue": 533333,
-    "est_revenue_fmt": "$533K",
-    "est_revenue_won": "8.0억"
-  },
-  {
-    "rank": 29,
-    "title": "뱀피르",
-    "developer": "Netmarble",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.netmarble.thered",
-    "local_name": "뱀피르",
-    "icon": "https://play-lh.googleusercontent.com/O3AtBJqCPmOHow-d2tskDjwXGWpYpgz2bPEJC5s-FQ1BzmtxnFTQ4h6OTTJ74pyih8KBs78UsTk7w6PAHkbt",
-    "est_revenue": 562114,
-    "est_revenue_fmt": "$562K",
-    "est_revenue_won": "8.4억"
-  },
-  {
-    "rank": 30,
-    "title": "Pmang Poker : Casino Royal",
-    "developer": "NEOWIZ corp",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.neowiz.games.poker",
-    "local_name": "피망 포커",
-    "icon": "https://play-lh.googleusercontent.com/MkI60z70bUF0YIi9loQzKm08WLinhruANPb6D7j1Gh1iPiLrfL1W-2ZQ0Q8ICCMdkFY0jDlTjx9_iZFVGOourg",
-    "est_revenue": 500790,
-    "est_revenue_fmt": "$501K",
-    "est_revenue_won": "7.5억"
-  },
-  {
-    "rank": 31,
     "title": "Lineage W",
     "developer": "NC Corporation",
     "genre": "Game",
@@ -403,7 +364,33 @@
     "est_revenue_won": "6.7억"
   },
   {
-    "rank": 32,
+    "rank": 29,
+    "title": "트릭컬 리바이브",
+    "developer": "EPIDGames",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.epidgames.trickcalrevive",
+    "local_name": "트릭컬 리바이브",
+    "icon": "https://play-lh.googleusercontent.com/OCiuBv70Dnuw9wcGet3EtTUF2nEkS1vhYYkvOahe9-MmKg6EhxGkf-9ZVxnWIJXflQSmfOIjTcaSbwJSJyuzHA",
+    "est_revenue": 533333,
+    "est_revenue_fmt": "$533K",
+    "est_revenue_won": "8.0억"
+  },
+  {
+    "rank": 30,
+    "title": "뱀피르",
+    "developer": "Netmarble",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.netmarble.thered",
+    "local_name": "뱀피르",
+    "icon": "https://play-lh.googleusercontent.com/O3AtBJqCPmOHow-d2tskDjwXGWpYpgz2bPEJC5s-FQ1BzmtxnFTQ4h6OTTJ74pyih8KBs78UsTk7w6PAHkbt",
+    "est_revenue": 562114,
+    "est_revenue_fmt": "$562K",
+    "est_revenue_won": "8.4억"
+  },
+  {
+    "rank": 31,
     "title": "킹덤2: 타오르는 전장",
     "developer": "FOW Games",
     "genre": "Game",
@@ -416,7 +403,7 @@
     "est_revenue_won": "6.3억"
   },
   {
-    "rank": 33,
+    "rank": 32,
     "title": "컴투스프로야구V26",
     "developer": "Com2uS",
     "genre": "Game",
@@ -429,7 +416,7 @@
     "est_revenue_won": "6.0억"
   },
   {
-    "rank": 34,
+    "rank": 33,
     "title": "한게임 섯다&맞고",
     "developer": "NHN Corp.",
     "genre": "Game",
@@ -440,6 +427,19 @@
     "est_revenue": 375806,
     "est_revenue_fmt": "$376K",
     "est_revenue_won": "5.6억"
+  },
+  {
+    "rank": 34,
+    "title": "Pmang Poker : Casino Royal",
+    "developer": "NEOWIZ corp",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.neowiz.games.poker",
+    "local_name": "피망 포커",
+    "icon": "https://play-lh.googleusercontent.com/MkI60z70bUF0YIi9loQzKm08WLinhruANPb6D7j1Gh1iPiLrfL1W-2ZQ0Q8ICCMdkFY0jDlTjx9_iZFVGOourg",
+    "est_revenue": 500790,
+    "est_revenue_fmt": "$501K",
+    "est_revenue_won": "7.5억"
   },
   {
     "rank": 35,
