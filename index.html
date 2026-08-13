@@ -340,7 +340,7 @@ try{sb=window.supabase.createClient(SUPABASE_URL,SUPABASE_KEY,{auth:{persistSess
 <nav class="topbar">
 <div class="topbar-inner">
 <div class="topbar-right">
-<span class="meta" id="update-time">2026-08-13 14:29</span>
+<span class="meta" id="update-time">2026-08-13 14:32</span>
 <span id="auth-area" style="display:flex;align-items:center;gap:6px">
 <button id="login-btn" onclick="openAuthModal('login')" style="padding:5px 14px;border-radius:6px;border:1px solid var(--accent);background:transparent;color:var(--accent);cursor:pointer;font-size:14px;font-weight:600">로그인</button>
 <button id="signup-btn" onclick="openAuthModal('signup')" style="padding:5px 14px;border-radius:6px;border:1px solid var(--accent);background:var(--accent);color:#fff;cursor:pointer;font-size:14px;font-weight:600">회원가입</button>
@@ -2099,20 +2099,34 @@ function renderNews(){
   if(!list)return;
   if(!data.length){list.innerHTML='<p style="color:var(--t2);padding:16px;text-align:center">데이터 수집 중</p>';return;}
   
-  // 주요 뉴스 5건 (썸네일 있는 것 우선)
+  // 주요 뉴스 — 소스별 비율: 인벤3, 게임메카1, 데일리게임1
   var headlineCard=document.getElementById('news-headline-card');
   var headlineDiv=document.getElementById('news-headline');
   if(headlineCard&&headlineDiv&&(country==='kr'||country==='all')){
     var withThumb=data.filter(function(n){return n.thumbnail});
     if(withThumb.length>=3){
       headlineCard.style.display='block';
-      headlineDiv.innerHTML=withThumb.slice(0,5).map(function(n){
+      // 소스별 필터링
+      var invens=withThumb.filter(function(n){return n.source&&n.source.indexOf('인벤')>=0}).slice(0,3);
+      var mecas=withThumb.filter(function(n){return n.source&&n.source.indexOf('게임메카')>=0}).slice(0,1);
+      var dailies=withThumb.filter(function(n){return n.source&&n.source.indexOf('데일리')>=0}).slice(0,1);
+      var headlines=[];
+      // 비율 맞추기 (부족하면 다른 소스로 채움)
+      headlines=headlines.concat(invens).concat(mecas).concat(dailies);
+      // 5개 안 되면 나머지로 채움
+      if(headlines.length<5){
+        var used=new Set(headlines.map(function(n){return n.url}));
+        var rest=withThumb.filter(function(n){return!used.has(n.url)});
+        headlines=headlines.concat(rest.slice(0,5-headlines.length));
+      }
+      headlines=headlines.slice(0,5);
+      headlineDiv.innerHTML=headlines.map(function(n){
         var title=(n.title||'').replace(/\s+/g,' ').trim();
         var url=n.url||'#';
         var thumb=n.thumbnail||'';
         var source=n.source||'';
         return '<a href="'+url+'" target="_blank" class="news-headline-item" style="text-decoration:none;display:flex;flex-direction:column">'+
-          '<div style="width:100%;height:140px;overflow:hidden;flex-shrink:0;background:var(--bg3)"><img src="'+thumb+'" style="width:100%;height:100%;object-fit:cover" onerror="this.parentElement.style.display=\'none\'"></div>'+
+          '<div style="width:100%;aspect-ratio:16/9;overflow:hidden;flex-shrink:0;background:var(--bg3)"><img src="'+thumb+'" style="width:100%;height:100%;object-fit:cover" onerror="this.parentElement.style.display=\'none\'"></div>'+
           '<div style="padding:8px 10px;flex:1"><div class="news-title" style="overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;color:var(--t1)!important">'+title+'</div><div style="font-size:13px;color:var(--t3);margin-top:4px">'+source+'</div></div></a>';
       }).join('');
     }else{headlineCard.style.display='none';}
