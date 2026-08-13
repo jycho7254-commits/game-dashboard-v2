@@ -1,4 +1,4 @@
-# 대시보드 아키텍처 v3.2
+# 대시보드 아키텍처 v3.3
 
 ## 시스템 구성도
 
@@ -22,7 +22,6 @@
                     │             │
                     │ report_     │
                     │ subscriptions│
-                    │             │
                     │ Auth Users  │
                     └──────┬──────┘
                            │
@@ -42,12 +41,12 @@
 │                                                     │
 │  [11:00/17:00] daily_update_p1.py                   │
 │    ├─ Google Play / Qimai 랭킹 수집                  │
-│    ├─ DC 모바일 여론 수집                            │
-│    ├─ 한국 여론 통합                                 │
+│    ├─ DC 모바일 여론 수집 (전체 90개 갤러리)           │
+│    ├─ 한국 여론 통합 (DC + GP + YT)                  │
 │    └─ 빌드 + 배포                                    │
 │                                                     │
 │  [11:20/17:20] daily_update_p2.py                   │
-│    ├─ 한국 뉴스 수집 (루리웹)                         │
+│    ├─ 한국 뉴스 수집 (루리웹/인벤/게임메카/데일리게임)  │
 │    ├─ 중국/일본 뉴스 수집                             │
 │    └─ 빌드 + 배포                                    │
 │                                                     │
@@ -78,7 +77,7 @@ Google Play / Qimai / DC갤러리 / 치지직 / YouTube
      build_dashboard.py (인라인 빌드)
               │
               ▼
-     index.html (단일 파일, 1.6MB)
+     index.html (단일 파일, ~1.75MB)
               │
               ├──→ Cloudflare Pages (wrangler deploy)
               └──→ GitHub Pages (git push)
@@ -132,6 +131,37 @@ CREATE TABLE report_subscriptions (
 -- Storage: authenticated만 업로드/조회 (report-templates 버킷)
 ```
 
+## 뉴스 데이터 구조
+
+```
+주요 뉴스 (5개):
+  인벤 3개 + 게임메카 1개 + 데일리게임 1개
+  썸네일 비율: 16:9 (aspect-ratio)
+  제목 색상: var(--t1) !important (링크 파란색 방지)
+
+일반 뉴스 (20개):
+  전체 소스에서 최신순
+```
+
+## 한국 여론 데이터
+
+```
+수집 소스:
+  - DC 갤러리 (90개 고유 갤러리, collect_dc_mobile.py)
+  - Google Play 평점 (kr_rankings.json)
+  - YouTube 댓글 (yt_sentiment_data.json)
+
+통합 가중치:
+  DC 40% + GP 35% + YT 25%
+
+지수 계산:
+  index = 50 + (total_pos - total_neg) * 3
+  범위: 0~100
+  70+ 긍정 / 45-54 중립 / 30- 부정
+
+현재: 95게임 (DC 갤러리 90개에서 수집)
+```
+
 ## 크론 스케줄
 
 | 크론 ID | 이름 | 스케줄 | 스크립트 |
@@ -144,3 +174,5 @@ CREATE TABLE report_subscriptions (
 | 656d175f02f9 | 리포트 자동 발송 | 0 8-18 * * * | send_report_cron.py |
 | aaa557c34300 | 신작 게임 감지 | 0 1 * * * | auto_new_games.py |
 | 6d83018a30ba | 메모리+스킬 백업 | 0 3 * * * | backup_memory.py |
+| dad08213e838 | 인플루언서 재확인 | 0 2 * * * | influencer_check.py |
+| 84bd9633ade0 | 주간 Bilibili+JP리뷰 | 0 12 * * 1 | weekly_data.py |
