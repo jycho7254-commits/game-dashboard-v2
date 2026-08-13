@@ -183,19 +183,6 @@
   },
   {
     "rank": 15,
-    "title": "Genshin Impact",
-    "developer": "COGNOSPHERE PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.9,
-    "app_id": "com.miHoYo.GenshinImpact",
-    "local_name": "Genshin Impact",
-    "icon": "https://play-lh.googleusercontent.com/YQqyKaXX-63krqsfIzUEJWUWLINxcb5tbS6QVySdxbS7eZV7YB2dUjUvX27xA0TIGtfxQ5v-tQjwlT5tTB-O",
-    "est_revenue": 0,
-    "est_revenue_fmt": "",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 16,
     "title": "한게임포커 클래식 : 7포커 홀덤 섯다 훌라 슬롯",
     "developer": "NHN Corp.",
     "genre": "Game",
@@ -206,6 +193,19 @@
     "est_revenue": 1727818,
     "est_revenue_fmt": "$1.73M",
     "est_revenue_won": "25.9억"
+  },
+  {
+    "rank": 16,
+    "title": "Genshin Impact",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "genre": "Game",
+    "rating": 3.9,
+    "app_id": "com.miHoYo.GenshinImpact",
+    "local_name": "Genshin Impact",
+    "icon": "https://play-lh.googleusercontent.com/YQqyKaXX-63krqsfIzUEJWUWLINxcb5tbS6QVySdxbS7eZV7YB2dUjUvX27xA0TIGtfxQ5v-tQjwlT5tTB-O",
+    "est_revenue": 0,
+    "est_revenue_fmt": "",
+    "est_revenue_won": ""
   },
   {
     "rank": 17,
@@ -404,6 +404,19 @@
   },
   {
     "rank": 32,
+    "title": "컴투스프로야구V26",
+    "developer": "Com2uS",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.com2us.futurecpb.android.google.global.normal",
+    "local_name": "컴투스프로야구V26",
+    "icon": "https://play-lh.googleusercontent.com/lFrail_ogSgoETUZcsAgLG7gC4lvjcOdffEURRt5kTAaIbr3pdm7s7hrIQNMl-jTu_Hbw7NDuU9gpJZDRsqY",
+    "est_revenue": 396693,
+    "est_revenue_fmt": "$397K",
+    "est_revenue_won": "6.0억"
+  },
+  {
+    "rank": 33,
     "title": "뱀피르",
     "developer": "Netmarble",
     "genre": "Game",
@@ -416,7 +429,7 @@
     "est_revenue_won": "8.4억"
   },
   {
-    "rank": 33,
+    "rank": 34,
     "title": "Pmang Poker : Casino Royal",
     "developer": "NEOWIZ corp",
     "genre": "Game",
@@ -429,7 +442,7 @@
     "est_revenue_won": "7.5억"
   },
   {
-    "rank": 34,
+    "rank": 35,
     "title": "페이트/그랜드 오더",
     "developer": "Netmarble",
     "genre": "Game",
@@ -442,7 +455,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 35,
+    "rank": 36,
     "title": "Coop TD: Together",
     "developer": "Supermagic",
     "genre": "Game",
@@ -453,19 +466,6 @@
     "est_revenue": 279524,
     "est_revenue_fmt": "$280K",
     "est_revenue_won": "4.2억"
-  },
-  {
-    "rank": 36,
-    "title": "컴투스프로야구V26",
-    "developer": "Com2uS",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.com2us.futurecpb.android.google.global.normal",
-    "local_name": "컴투스프로야구V26",
-    "icon": "https://play-lh.googleusercontent.com/lFrail_ogSgoETUZcsAgLG7gC4lvjcOdffEURRt5kTAaIbr3pdm7s7hrIQNMl-jTu_Hbw7NDuU9gpJZDRsqY",
-    "est_revenue": 396693,
-    "est_revenue_fmt": "$397K",
-    "est_revenue_won": "6.0억"
   },
   {
     "rank": 37,
