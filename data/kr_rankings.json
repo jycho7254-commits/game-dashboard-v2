@@ -508,16 +508,16 @@
   },
   {
     "rank": 40,
-    "title": "Seven Knights Re:BIRTH",
-    "developer": "Netmarble",
+    "title": "Honkai: Star Rail",
+    "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
-    "rating": 4,
-    "app_id": "com.netmarble.tskgb",
-    "local_name": "세븐나이츠 리버스",
-    "icon": "https://play-lh.googleusercontent.com/8CYFFvToiBwJ6NqGpd90FPRsnYzf6Fmn9zaILckmltokY8HMp-50ZJsCq04EVmjfpszgzoLLGwol9D2zn1qTP1I",
-    "est_revenue": 306976,
-    "est_revenue_fmt": "$307K",
-    "est_revenue_won": "4.6억"
+    "rating": 3.7,
+    "app_id": "com.HoYoverse.hkrpgoversea",
+    "local_name": "붕괴: 스타레일",
+    "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
+    "est_revenue": 356546,
+    "est_revenue_fmt": "$357K",
+    "est_revenue_won": "5.3억"
   },
   {
     "rank": 41,
@@ -534,19 +534,6 @@
   },
   {
     "rank": 42,
-    "title": "Honkai: Star Rail",
-    "developer": "COGNOSPHERE PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.7,
-    "app_id": "com.HoYoverse.hkrpgoversea",
-    "local_name": "붕괴: 스타레일",
-    "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
-    "est_revenue": 356546,
-    "est_revenue_fmt": "$357K",
-    "est_revenue_won": "5.3억"
-  },
-  {
-    "rank": 43,
     "title": "EA SPORTS FC Online M",
     "developer": "NEXON Company",
     "genre": "Game",
@@ -559,7 +546,7 @@
     "est_revenue_won": "4.0억"
   },
   {
-    "rank": 44,
+    "rank": 43,
     "title": "PUBG Mobile",
     "developer": "KRAFTON, Inc.",
     "genre": "Game",
@@ -572,7 +559,7 @@
     "est_revenue_won": "3.8억"
   },
   {
-    "rank": 45,
+    "rank": 44,
     "title": "페이트/그랜드 오더",
     "developer": "Netmarble",
     "genre": "Game",
@@ -585,7 +572,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 46,
+    "rank": 45,
     "title": "라그나로크M: Classic",
     "developer": "GRAVITY Co., Ltd.",
     "genre": "Game",
@@ -598,7 +585,7 @@
     "est_revenue_won": "3.0억"
   },
   {
-    "rank": 47,
+    "rank": 46,
     "title": "Mystery Town: Merge Games",
     "developer": "Cedar Games Studio",
     "genre": "Game",
@@ -611,7 +598,7 @@
     "est_revenue_won": "3.2억"
   },
   {
-    "rank": 48,
+    "rank": 47,
     "title": "Flambé®: Merge & Cook",
     "developer": "Microfun Limited",
     "genre": "Game",
@@ -624,7 +611,7 @@
     "est_revenue_won": "3.7억"
   },
   {
-    "rank": 49,
+    "rank": 48,
     "title": "RF ONLINE NEXT",
     "developer": "Netmarble",
     "genre": "Game",
@@ -637,7 +624,7 @@
     "est_revenue_won": "4.8억"
   },
   {
-    "rank": 50,
+    "rank": 49,
     "title": "Homescapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -648,5 +635,18 @@
     "est_revenue": 234725,
     "est_revenue_fmt": "$235K",
     "est_revenue_won": "3.5억"
+  },
+  {
+    "rank": 50,
+    "title": "AION2",
+    "developer": "NC Corporation",
+    "genre": "Game",
+    "rating": 2.9,
+    "app_id": "com.ncsoft.aion2",
+    "local_name": "AION2",
+    "icon": "https://play-lh.googleusercontent.com/aqqsbPuYk-dU9f0qnyEkHje_IIchFrOhDQfDXozQbD5_n_Hxi18ja4GyEbNYuFD9inoFBUYfZFWK4zSOjsy8Aw",
+    "est_revenue": 0,
+    "est_revenue_fmt": "",
+    "est_revenue_won": ""
   }
 ]
