@@ -105,19 +105,6 @@
   },
   {
     "rank": 9,
-    "title": "Royal Match",
-    "developer": "Dream Games, Ltd.",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.dreamgames.royalmatch",
-    "local_name": "로얄 매치",
-    "icon": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
-    "est_revenue": 2532550,
-    "est_revenue_fmt": "$2.53M",
-    "est_revenue_won": "38.0억"
-  },
-  {
-    "rank": 10,
     "title": "Last War:Survival Game",
     "developer": "FUNFLY PTE. LTD.",
     "genre": "Game",
@@ -128,6 +115,19 @@
     "est_revenue": 3079142,
     "est_revenue_fmt": "$3.08M",
     "est_revenue_won": "46.2억"
+  },
+  {
+    "rank": 10,
+    "title": "Royal Match",
+    "developer": "Dream Games, Ltd.",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.dreamgames.royalmatch",
+    "local_name": "로얄 매치",
+    "icon": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
+    "est_revenue": 2532550,
+    "est_revenue_fmt": "$2.53M",
+    "est_revenue_won": "38.0억"
   },
   {
     "rank": 11,
@@ -326,19 +326,6 @@
   },
   {
     "rank": 26,
-    "title": "FC 모바일",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 2.9,
-    "app_id": "com.nexon.fmk",
-    "local_name": "FC 모바일",
-    "icon": "https://play-lh.googleusercontent.com/VKo4cXzxFpu7d5ua0Exk9QB7B7wz8ePAON_Km1lkIowLCf4kpww9alW6HUy-kQ50Kimy86PG1ivGFhayc7hb",
-    "est_revenue": 862635,
-    "est_revenue_fmt": "$863K",
-    "est_revenue_won": "12.9억"
-  },
-  {
-    "rank": 27,
     "title": "리버스: 1999",
     "developer": "HaoPlay Limited",
     "genre": "Game",
@@ -349,6 +336,19 @@
     "est_revenue": 0,
     "est_revenue_fmt": "",
     "est_revenue_won": ""
+  },
+  {
+    "rank": 27,
+    "title": "FC 모바일",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 2.9,
+    "app_id": "com.nexon.fmk",
+    "local_name": "FC 모바일",
+    "icon": "https://play-lh.googleusercontent.com/VKo4cXzxFpu7d5ua0Exk9QB7B7wz8ePAON_Km1lkIowLCf4kpww9alW6HUy-kQ50Kimy86PG1ivGFhayc7hb",
+    "est_revenue": 862635,
+    "est_revenue_fmt": "$863K",
+    "est_revenue_won": "12.9억"
   },
   {
     "rank": 28,
@@ -534,19 +534,6 @@
   },
   {
     "rank": 42,
-    "title": "라그나로크M: Classic",
-    "developer": "GRAVITY Co., Ltd.",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.gravity.romkrzeny.aos",
-    "local_name": "라그나로크M: Classic",
-    "icon": "https://play-lh.googleusercontent.com/5SFBw-txEgmxfiD8J5DcHchCZFvLCo1jZsalnlDHYjv5nddS-8oLSRIwGHmqKF0NLaZJ9Gmbx6wEMGxlNtFe",
-    "est_revenue": 200000,
-    "est_revenue_fmt": "$200K",
-    "est_revenue_won": "3.0억"
-  },
-  {
-    "rank": 43,
     "title": "PUBG Mobile",
     "developer": "KRAFTON, Inc.",
     "genre": "Game",
@@ -557,6 +544,19 @@
     "est_revenue": 255639,
     "est_revenue_fmt": "$256K",
     "est_revenue_won": "3.8억"
+  },
+  {
+    "rank": 43,
+    "title": "라그나로크M: Classic",
+    "developer": "GRAVITY Co., Ltd.",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.gravity.romkrzeny.aos",
+    "local_name": "라그나로크M: Classic",
+    "icon": "https://play-lh.googleusercontent.com/5SFBw-txEgmxfiD8J5DcHchCZFvLCo1jZsalnlDHYjv5nddS-8oLSRIwGHmqKF0NLaZJ9Gmbx6wEMGxlNtFe",
+    "est_revenue": 200000,
+    "est_revenue_fmt": "$200K",
+    "est_revenue_won": "3.0억"
   },
   {
     "rank": 44,
