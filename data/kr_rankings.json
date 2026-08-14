@@ -105,6 +105,19 @@
   },
   {
     "rank": 9,
+    "title": "리니지M",
+    "developer": "NC Corporation",
+    "genre": "Game",
+    "rating": 2.6,
+    "app_id": "com.ncsoft.lineagem19",
+    "local_name": "리니지M",
+    "icon": "https://play-lh.googleusercontent.com/xy6xR7NsdX81HpwWu8CoVkseQECAug3pLvvpdBGtls12xwiQy3Qw5hvQ51fc3oTXPmI8xyOArPnm70t8395Mmdw",
+    "est_revenue": 4000000,
+    "est_revenue_fmt": "$4.00M",
+    "est_revenue_won": "60.0억"
+  },
+  {
+    "rank": 10,
     "title": "Royal Match",
     "developer": "Dream Games, Ltd.",
     "genre": "Game",
@@ -117,7 +130,7 @@
     "est_revenue_won": "38.0억"
   },
   {
-    "rank": 10,
+    "rank": 11,
     "title": "Roblox",
     "developer": "Roblox Corporation",
     "genre": "Game",
@@ -128,19 +141,6 @@
     "est_revenue": 2775458,
     "est_revenue_fmt": "$2.78M",
     "est_revenue_won": "41.6억"
-  },
-  {
-    "rank": 11,
-    "title": "리니지M",
-    "developer": "NC Corporation",
-    "genre": "Game",
-    "rating": 2.6,
-    "app_id": "com.ncsoft.lineagem19",
-    "local_name": "리니지M",
-    "icon": "https://play-lh.googleusercontent.com/xy6xR7NsdX81HpwWu8CoVkseQECAug3pLvvpdBGtls12xwiQy3Qw5hvQ51fc3oTXPmI8xyOArPnm70t8395Mmdw",
-    "est_revenue": 4000000,
-    "est_revenue_fmt": "$4.00M",
-    "est_revenue_won": "60.0억"
   },
   {
     "rank": 12,
@@ -417,6 +417,19 @@
   },
   {
     "rank": 33,
+    "title": "컴투스프로야구V26",
+    "developer": "Com2uS",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.com2us.futurecpb.android.google.global.normal",
+    "local_name": "컴투스프로야구V26",
+    "icon": "https://play-lh.googleusercontent.com/lFrail_ogSgoETUZcsAgLG7gC4lvjcOdffEURRt5kTAaIbr3pdm7s7hrIQNMl-jTu_Hbw7NDuU9gpJZDRsqY",
+    "est_revenue": 396693,
+    "est_revenue_fmt": "$397K",
+    "est_revenue_won": "6.0억"
+  },
+  {
+    "rank": 34,
     "title": "League of Legends: Wild Rift",
     "developer": "Riot Games, Inc",
     "genre": "Game",
@@ -429,7 +442,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 34,
+    "rank": 35,
     "title": "뱀피르",
     "developer": "Netmarble",
     "genre": "Game",
@@ -440,19 +453,6 @@
     "est_revenue": 562114,
     "est_revenue_fmt": "$562K",
     "est_revenue_won": "8.4억"
-  },
-  {
-    "rank": 35,
-    "title": "컴투스프로야구V26",
-    "developer": "Com2uS",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.com2us.futurecpb.android.google.global.normal",
-    "local_name": "컴투스프로야구V26",
-    "icon": "https://play-lh.googleusercontent.com/lFrail_ogSgoETUZcsAgLG7gC4lvjcOdffEURRt5kTAaIbr3pdm7s7hrIQNMl-jTu_Hbw7NDuU9gpJZDRsqY",
-    "est_revenue": 396693,
-    "est_revenue_fmt": "$397K",
-    "est_revenue_won": "6.0억"
   },
   {
     "rank": 36,
@@ -599,19 +599,6 @@
   },
   {
     "rank": 47,
-    "title": "던전앤파이터 모바일",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.nexon.mdnf",
-    "local_name": "던전앤파이터 모바일",
-    "icon": "https://play-lh.googleusercontent.com/nithn0YhAhZ4z3zpKlGGPPFxK8NjHcSkV1q-S8L_CNA5LWwUVDaSQ5SHM-hBFgbjBYNkVq-GpiUyLweMdwMy",
-    "est_revenue": 0,
-    "est_revenue_fmt": "",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 48,
     "title": "EA SPORTS FC Online M",
     "developer": "NEXON Company",
     "genre": "Game",
@@ -622,6 +609,19 @@
     "est_revenue": 267176,
     "est_revenue_fmt": "$267K",
     "est_revenue_won": "4.0억"
+  },
+  {
+    "rank": 48,
+    "title": "던전앤파이터 모바일",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.nexon.mdnf",
+    "local_name": "던전앤파이터 모바일",
+    "icon": "https://play-lh.googleusercontent.com/nithn0YhAhZ4z3zpKlGGPPFxK8NjHcSkV1q-S8L_CNA5LWwUVDaSQ5SHM-hBFgbjBYNkVq-GpiUyLweMdwMy",
+    "est_revenue": 0,
+    "est_revenue_fmt": "",
+    "est_revenue_won": ""
   },
   {
     "rank": 49,
