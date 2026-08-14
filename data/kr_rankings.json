@@ -134,7 +134,7 @@
     "title": "Roblox",
     "developer": "Roblox Corporation",
     "genre": "Game",
-    "rating": 3.8,
+    "rating": 3.9,
     "app_id": "com.roblox.client",
     "local_name": "로블록스",
     "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
@@ -456,19 +456,6 @@
   },
   {
     "rank": 36,
-    "title": "Coop TD: Together",
-    "developer": "Supermagic",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.percent.aos.cooptd",
-    "local_name": "협동 타워 디펜스",
-    "icon": "https://play-lh.googleusercontent.com/vTxEJvWJq3cIbideJTNd9ZAYolS4ll7hUlMT3piDAsP6y84EPI-k1tPpoALoCwvmbJMn3LBW-sjzhHpERqfY",
-    "est_revenue": 279524,
-    "est_revenue_fmt": "$280K",
-    "est_revenue_won": "4.2억"
-  },
-  {
-    "rank": 37,
     "title": "킹덤2: 타오르는 전장",
     "developer": "FOW Games",
     "genre": "Game",
@@ -479,6 +466,19 @@
     "est_revenue": 419398,
     "est_revenue_fmt": "$419K",
     "est_revenue_won": "6.3억"
+  },
+  {
+    "rank": 37,
+    "title": "Coop TD: Together",
+    "developer": "Supermagic",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.percent.aos.cooptd",
+    "local_name": "협동 타워 디펜스",
+    "icon": "https://play-lh.googleusercontent.com/vTxEJvWJq3cIbideJTNd9ZAYolS4ll7hUlMT3piDAsP6y84EPI-k1tPpoALoCwvmbJMn3LBW-sjzhHpERqfY",
+    "est_revenue": 279524,
+    "est_revenue_fmt": "$280K",
+    "est_revenue_won": "4.2억"
   },
   {
     "rank": 38,
