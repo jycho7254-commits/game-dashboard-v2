@@ -92,19 +92,6 @@
   },
   {
     "rank": 8,
-    "title": "SDガンダム ジージェネレーション エターナル",
-    "developer": "Bandai Namco Entertainment Inc.",
-    "genre": "Game",
-    "rating": 4,
-    "app_id": "com.bandainamcoent.gget_JP",
-    "local_name": "SDガンダム ジージェネレーション エターナル",
-    "icon": "https://play-lh.googleusercontent.com/WI-nOxNBdI82iuMwMpFjVWkTxs4Bh3dVmAQL8xwJ-U9120sfcbXLJWnn3X5IpBtdG8wzph-sobJyM0P484APwDA",
-    "est_revenue": 1143224,
-    "est_revenue_fmt": "$1.14M",
-    "est_revenue_won": "17.1억"
-  },
-  {
-    "rank": 9,
     "title": "ホロライブドリームス",
     "developer": "QualiArts, Inc.",
     "genre": "Game",
@@ -115,6 +102,19 @@
     "est_revenue": 14838275,
     "est_revenue_fmt": "$14.84M",
     "est_revenue_won": "222.6억"
+  },
+  {
+    "rank": 9,
+    "title": "SDガンダム ジージェネレーション エターナル",
+    "developer": "Bandai Namco Entertainment Inc.",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "com.bandainamcoent.gget_JP",
+    "local_name": "SDガンダム ジージェネレーション エターナル",
+    "icon": "https://play-lh.googleusercontent.com/WI-nOxNBdI82iuMwMpFjVWkTxs4Bh3dVmAQL8xwJ-U9120sfcbXLJWnn3X5IpBtdG8wzph-sobJyM0P484APwDA",
+    "est_revenue": 1143224,
+    "est_revenue_fmt": "$1.14M",
+    "est_revenue_won": "17.1억"
   },
   {
     "rank": 10,
@@ -300,32 +300,6 @@
   },
   {
     "rank": 24,
-    "title": "Zenless Zone Zero - Anniv.",
-    "developer": "COGNOSPHERE PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.4,
-    "app_id": "com.HoYoverse.Nap",
-    "local_name": "Zenless Zone Zero",
-    "icon": "https://play-lh.googleusercontent.com/-OwYJcIdDSfGJBOQozVC3kKxqnA7ev2O897twi-aVUpc8AXVMNtB3YWEXDui_V0VJxelNAbUbLXpNZj9AqWa3A",
-    "est_revenue": 2822460,
-    "est_revenue_fmt": "$2.82M",
-    "est_revenue_won": "42.3억"
-  },
-  {
-    "rank": 25,
-    "title": "Tasty Travels: Merge Game",
-    "developer": "Century Games PTE. LTD.",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.fatmerge.global",
-    "local_name": "Tasty Travels: Merge Game",
-    "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
-    "est_revenue": 1733466,
-    "est_revenue_fmt": "$1.73M",
-    "est_revenue_won": "26.0억"
-  },
-  {
-    "rank": 26,
     "title": "Pokémon TCG Pocket",
     "developer": "The Pokémon Company",
     "genre": "Game",
@@ -338,7 +312,7 @@
     "est_revenue_won": "20.9억"
   },
   {
-    "rank": 27,
+    "rank": 25,
     "title": "放置少女 - 百花繚乱の萌姫たち",
     "developer": "C4 Connect Inc.",
     "genre": "Game",
@@ -351,7 +325,20 @@
     "est_revenue_won": "35.8억"
   },
   {
-    "rank": 28,
+    "rank": 26,
+    "title": "Zenless Zone Zero - Anniv.",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "genre": "Game",
+    "rating": 3.4,
+    "app_id": "com.HoYoverse.Nap",
+    "local_name": "Zenless Zone Zero",
+    "icon": "https://play-lh.googleusercontent.com/-OwYJcIdDSfGJBOQozVC3kKxqnA7ev2O897twi-aVUpc8AXVMNtB3YWEXDui_V0VJxelNAbUbLXpNZj9AqWa3A",
+    "est_revenue": 2822460,
+    "est_revenue_fmt": "$2.82M",
+    "est_revenue_won": "42.3억"
+  },
+  {
+    "rank": 27,
     "title": "プロ野球スピリッツA",
     "developer": "KONAMI",
     "genre": "Game",
@@ -362,6 +349,19 @@
     "est_revenue": 3413851,
     "est_revenue_fmt": "$3.41M",
     "est_revenue_won": "51.2억"
+  },
+  {
+    "rank": 28,
+    "title": "Tasty Travels: Merge Game",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "com.fatmerge.global",
+    "local_name": "Tasty Travels: Merge Game",
+    "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
+    "est_revenue": 1733466,
+    "est_revenue_fmt": "$1.73M",
+    "est_revenue_won": "26.0억"
   },
   {
     "rank": 29,
@@ -521,13 +521,13 @@
   },
   {
     "rank": 41,
-    "title": "リバース：1999 - 3周年",
-    "developer": "Bluepoch Co.,Ltd.",
+    "title": "アズールレーン",
+    "developer": "Yostar, Inc.",
     "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.bluepoch.m.jp.reverse1999.and",
-    "local_name": "リバース：1999 - 3周年",
-    "icon": "https://play-lh.googleusercontent.com/xRGyDJE1i0RdCWENdiVi2fEEZQlmEJ6R7vVQ9fUJeSVZeAasnP5Okpa20Pyr0T7DC3P0PDpqt_UCRWipd7Qouvg",
+    "rating": 3.9,
+    "app_id": "com.YoStarJP.AzurLane",
+    "local_name": "アズールレーン",
+    "icon": "https://play-lh.googleusercontent.com/xm_fZgRuFC6npGnzKgBbw1V2VuZo4Pc67LLcrecmihkaDK-LFa_yKi6x4zmg-Nb-tvqy1ppLgjEdmgZMV00vg9E",
     "est_revenue": 0,
     "est_revenue_fmt": "",
     "est_revenue_won": ""
@@ -547,13 +547,13 @@
   },
   {
     "rank": 43,
-    "title": "アズールレーン",
-    "developer": "Yostar, Inc.",
+    "title": "リバース：1999 - 3周年",
+    "developer": "Bluepoch Co.,Ltd.",
     "genre": "Game",
-    "rating": 3.9,
-    "app_id": "com.YoStarJP.AzurLane",
-    "local_name": "アズールレーン",
-    "icon": "https://play-lh.googleusercontent.com/xm_fZgRuFC6npGnzKgBbw1V2VuZo4Pc67LLcrecmihkaDK-LFa_yKi6x4zmg-Nb-tvqy1ppLgjEdmgZMV00vg9E",
+    "rating": 4.3,
+    "app_id": "com.bluepoch.m.jp.reverse1999.and",
+    "local_name": "リバース：1999 - 3周年",
+    "icon": "https://play-lh.googleusercontent.com/xRGyDJE1i0RdCWENdiVi2fEEZQlmEJ6R7vVQ9fUJeSVZeAasnP5Okpa20Pyr0T7DC3P0PDpqt_UCRWipd7Qouvg",
     "est_revenue": 0,
     "est_revenue_fmt": "",
     "est_revenue_won": ""
@@ -573,19 +573,6 @@
   },
   {
     "rank": 45,
-    "title": "ドラゴンクエストウォーク",
-    "developer": "SQUARE ENIX Co.,Ltd.",
-    "genre": "Game",
-    "rating": 3.5,
-    "app_id": "com.square_enix.android_googleplay.dqwalkj",
-    "local_name": "ドラゴンクエストウォーク",
-    "icon": "https://play-lh.googleusercontent.com/lCEz96MbgeyFryIXLP_u5gF_GsxjzIhMMS4hgQsqRhZ5TviCrgd0vQgi_bC0QipqbJGaC1B0mRZm5yfyUCnzu-Y",
-    "est_revenue": 3192268,
-    "est_revenue_fmt": "$3.19M",
-    "est_revenue_won": "47.9억"
-  },
-  {
-    "rank": 46,
     "title": "Paranoize",
     "developer": "ZigZaGame Inc.",
     "genre": "Game",
@@ -598,7 +585,33 @@
     "est_revenue_won": "13.5억"
   },
   {
+    "rank": 46,
+    "title": "ドラゴンクエストウォーク",
+    "developer": "SQUARE ENIX Co.,Ltd.",
+    "genre": "Game",
+    "rating": 3.5,
+    "app_id": "com.square_enix.android_googleplay.dqwalkj",
+    "local_name": "ドラゴンクエストウォーク",
+    "icon": "https://play-lh.googleusercontent.com/lCEz96MbgeyFryIXLP_u5gF_GsxjzIhMMS4hgQsqRhZ5TviCrgd0vQgi_bC0QipqbJGaC1B0mRZm5yfyUCnzu-Y",
+    "est_revenue": 3192268,
+    "est_revenue_fmt": "$3.19M",
+    "est_revenue_won": "47.9억"
+  },
+  {
     "rank": 47,
+    "title": "転生したらスライムだった件 魔王と竜の建国譚 まおりゅう",
+    "developer": "Bandai Namco Entertainment Inc.",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.bandainamcoent.tensuramrkrelease",
+    "local_name": "転生したらスライムだった件 魔王と竜の建国譚 まおりゅう",
+    "icon": "https://play-lh.googleusercontent.com/XHppCshR7n1cbR2_sOoxe33acoy1nNFbzUBQ8fjLKavfPfQTLKtyONq3TCLpLfjZ08XEPx5nVcOGEToXO7qMEA",
+    "est_revenue": 0,
+    "est_revenue_fmt": "",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 48,
     "title": "Last Asylum: Plague",
     "developer": "37GAMES GLOBAL",
     "genre": "Game",
@@ -611,7 +624,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 48,
+    "rank": 49,
     "title": "Trickcal:Chibi Go",
     "developer": "BILIBILI",
     "genre": "Game",
@@ -624,7 +637,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 49,
+    "rank": 50,
     "title": "旦那様の一発逆転人生",
     "developer": "37Games-Oversea",
     "genre": "Game",
@@ -632,19 +645,6 @@
     "app_id": "com.jp.beauty",
     "local_name": "旦那様の一発逆転人生",
     "icon": "https://play-lh.googleusercontent.com/dMZpIM_uav-hfQKPl5XUjHB98vvUJJl_7U99lE1sIMJ447lPXCn93_SiInconGTh89-ia18k5Q8dJF799wXctQ",
-    "est_revenue": 0,
-    "est_revenue_fmt": "",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 50,
-    "title": "転生したらスライムだった件 魔王と竜の建国譚 まおりゅう",
-    "developer": "Bandai Namco Entertainment Inc.",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.bandainamcoent.tensuramrkrelease",
-    "local_name": "転生したらスライムだった件 魔王と竜の建国譚 まおりゅう",
-    "icon": "https://play-lh.googleusercontent.com/XHppCshR7n1cbR2_sOoxe33acoy1nNFbzUBQ8fjLKavfPfQTLKtyONq3TCLpLfjZ08XEPx5nVcOGEToXO7qMEA",
     "est_revenue": 0,
     "est_revenue_fmt": "",
     "est_revenue_won": ""
