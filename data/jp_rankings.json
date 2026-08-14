@@ -157,6 +157,19 @@
   },
   {
     "rank": 13,
+    "title": "eFootball™",
+    "developer": "KONAMI",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "jp.konami.pesam",
+    "local_name": "eFootball",
+    "icon": "https://play-lh.googleusercontent.com/G3_yBuB5EeVDuwcKhMIpdR55ebmyNszkzHnmEZxRqmihVHQ0dcTbNm4BV6NjFMLNZud_qy2Cc3qQbbRnawMpKg",
+    "est_revenue": 4506368,
+    "est_revenue_fmt": "$4.51M",
+    "est_revenue_won": "67.6억"
+  },
+  {
+    "rank": 14,
     "title": "トゥーンブラスト (Toon Blast)",
     "developer": "Peak",
     "genre": "Game",
@@ -169,7 +182,7 @@
     "est_revenue_won": "55.0억"
   },
   {
-    "rank": 14,
+    "rank": 15,
     "title": "モンスターストライク",
     "developer": "XFLAG, Inc.",
     "genre": "Game",
@@ -182,7 +195,7 @@
     "est_revenue_won": "97.9억"
   },
   {
-    "rank": 15,
+    "rank": 16,
     "title": "Kingshot",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -193,19 +206,6 @@
     "est_revenue": 4883682,
     "est_revenue_fmt": "$4.88M",
     "est_revenue_won": "73.3억"
-  },
-  {
-    "rank": 16,
-    "title": "eFootball™",
-    "developer": "KONAMI",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "jp.konami.pesam",
-    "local_name": "eFootball",
-    "icon": "https://play-lh.googleusercontent.com/G3_yBuB5EeVDuwcKhMIpdR55ebmyNszkzHnmEZxRqmihVHQ0dcTbNm4BV6NjFMLNZud_qy2Cc3qQbbRnawMpKg",
-    "est_revenue": 4506368,
-    "est_revenue_fmt": "$4.51M",
-    "est_revenue_won": "67.6억"
   },
   {
     "rank": 17,
@@ -430,19 +430,6 @@
   },
   {
     "rank": 34,
-    "title": "信長の野望 覇道",
-    "developer": "KOEI TECMO GAMES CO., LTD.",
-    "genre": "Game",
-    "rating": 4.1,
-    "app_id": "jp.co.koeitecmo.Power",
-    "local_name": "信長の野望 覇道",
-    "icon": "https://play-lh.googleusercontent.com/zT82LJTdzp4bcJBvkH5_wKW8yzLirUxslhuUa7jM8UF4RYF0dM30D3ohbY1Xu1uBdjHJpo_cdKVp68l2sxXr",
-    "est_revenue": 1453364,
-    "est_revenue_fmt": "$1.45M",
-    "est_revenue_won": "21.8억"
-  },
-  {
-    "rank": 35,
     "title": "Honkai: Star Rail",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -455,7 +442,7 @@
     "est_revenue_won": "34.0억"
   },
   {
-    "rank": 36,
+    "rank": 35,
     "title": "あんさんぶるスターズ！！Music",
     "developer": "Happy Elements K.K",
     "genre": "Game",
@@ -468,7 +455,7 @@
     "est_revenue_won": "16.5억"
   },
   {
-    "rank": 37,
+    "rank": 36,
     "title": "Last Z: Survival Shooter",
     "developer": "Omnilojo Pte Ltd",
     "genre": "Game",
@@ -481,7 +468,7 @@
     "est_revenue_won": "17.8억"
   },
   {
-    "rank": 38,
+    "rank": 37,
     "title": "Homescapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -494,7 +481,7 @@
     "est_revenue_won": "19.2억"
   },
   {
-    "rank": 39,
+    "rank": 38,
     "title": "MementoMori: AFKRPG",
     "developer": "Bank of Innovation, Inc.",
     "genre": "Game",
@@ -507,7 +494,7 @@
     "est_revenue_won": "14.9억"
   },
   {
-    "rank": 40,
+    "rank": 39,
     "title": "アークナイツ",
     "developer": "Yostar, Inc.",
     "genre": "Game",
@@ -520,7 +507,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 41,
+    "rank": 40,
     "title": "Pokémon Sleep",
     "developer": "The Pokémon Company",
     "genre": "Game",
@@ -533,7 +520,7 @@
     "est_revenue_won": "12.4억"
   },
   {
-    "rank": 42,
+    "rank": 41,
     "title": "学園アイドルマスター",
     "developer": "Bandai Namco Entertainment Inc.",
     "genre": "Game",
@@ -546,7 +533,7 @@
     "est_revenue_won": "16.0억"
   },
   {
-    "rank": 43,
+    "rank": 42,
     "title": "アズールレーン",
     "developer": "Yostar, Inc.",
     "genre": "Game",
@@ -559,7 +546,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 44,
+    "rank": 43,
     "title": "リバース：1999 - 3周年",
     "developer": "Bluepoch Co.,Ltd.",
     "genre": "Game",
@@ -572,20 +559,20 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 45,
-    "title": "旦那様の一発逆転人生",
-    "developer": "37Games-Oversea",
+    "rank": 44,
+    "title": "信長の野望 覇道",
+    "developer": "KOEI TECMO GAMES CO., LTD.",
     "genre": "Game",
-    "rating": 2.8,
-    "app_id": "com.jp.beauty",
-    "local_name": "旦那様の一発逆転人生",
-    "icon": "https://play-lh.googleusercontent.com/dMZpIM_uav-hfQKPl5XUjHB98vvUJJl_7U99lE1sIMJ447lPXCn93_SiInconGTh89-ia18k5Q8dJF799wXctQ",
-    "est_revenue": 0,
-    "est_revenue_fmt": "",
-    "est_revenue_won": ""
+    "rating": 4.1,
+    "app_id": "jp.co.koeitecmo.Power",
+    "local_name": "信長の野望 覇道",
+    "icon": "https://play-lh.googleusercontent.com/zT82LJTdzp4bcJBvkH5_wKW8yzLirUxslhuUa7jM8UF4RYF0dM30D3ohbY1Xu1uBdjHJpo_cdKVp68l2sxXr",
+    "est_revenue": 1453364,
+    "est_revenue_fmt": "$1.45M",
+    "est_revenue_won": "21.8억"
   },
   {
-    "rank": 46,
+    "rank": 45,
     "title": "Paranoize",
     "developer": "ZigZaGame Inc.",
     "genre": "Game",
@@ -598,7 +585,7 @@
     "est_revenue_won": "13.5억"
   },
   {
-    "rank": 47,
+    "rank": 46,
     "title": "ドラゴンクエストウォーク",
     "developer": "SQUARE ENIX Co.,Ltd.",
     "genre": "Game",
@@ -609,6 +596,19 @@
     "est_revenue": 3192268,
     "est_revenue_fmt": "$3.19M",
     "est_revenue_won": "47.9억"
+  },
+  {
+    "rank": 47,
+    "title": "旦那様の一発逆転人生",
+    "developer": "37Games-Oversea",
+    "genre": "Game",
+    "rating": 2.8,
+    "app_id": "com.jp.beauty",
+    "local_name": "旦那様の一発逆転人生",
+    "icon": "https://play-lh.googleusercontent.com/dMZpIM_uav-hfQKPl5XUjHB98vvUJJl_7U99lE1sIMJ447lPXCn93_SiInconGTh89-ia18k5Q8dJF799wXctQ",
+    "est_revenue": 0,
+    "est_revenue_fmt": "",
+    "est_revenue_won": ""
   },
   {
     "rank": 48,
@@ -638,13 +638,13 @@
   },
   {
     "rank": 50,
-    "title": "信長の野望 真戦",
-    "developer": "Qookka Games",
+    "title": "キングダム 頂天",
+    "developer": "Rudel inc.",
     "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.qookkagames.xczyw.gp.jp",
-    "local_name": "信長の野望 真戦",
-    "icon": "https://play-lh.googleusercontent.com/3XmTeAwhy-k2u_bN2kvYHXzzTRcDsBIRR0EZOBzf-csvFVR7M7cKo_GNToLfTgeSsdYEUcnmWtrQhBigLSddxNg",
+    "rating": 4.4,
+    "app_id": "jp.rudel.pjshin",
+    "local_name": "キングダム 頂天",
+    "icon": "https://play-lh.googleusercontent.com/ny36VVX3PHF3JWVflFdiGXVixWmrbjywie0en6wCaRgb3d3g2ylA-YkDJDUtZvy9NyJPlLwjXUhKWpQ0pMe-",
     "est_revenue": 0,
     "est_revenue_fmt": "",
     "est_revenue_won": ""
