@@ -92,19 +92,6 @@
   },
   {
     "rank": 8,
-    "title": "ホロライブドリームス",
-    "developer": "QualiArts, Inc.",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "game.qualiarts.hololive.dreams.jp",
-    "local_name": "ホロライブドリームス",
-    "icon": "https://play-lh.googleusercontent.com/j00IPpPSDv3cGqoKVIDf0qnCw6EbZQ4KpgMr10UWkf8Rm1qO9vCSoVhJwfCF1PbbKxV_Qt_eqZ_Sp4QMHuhwYBI",
-    "est_revenue": 14838275,
-    "est_revenue_fmt": "$14.84M",
-    "est_revenue_won": "222.6억"
-  },
-  {
-    "rank": 9,
     "title": "SDガンダム ジージェネレーション エターナル",
     "developer": "Bandai Namco Entertainment Inc.",
     "genre": "Game",
@@ -115,6 +102,19 @@
     "est_revenue": 1143224,
     "est_revenue_fmt": "$1.14M",
     "est_revenue_won": "17.1억"
+  },
+  {
+    "rank": 9,
+    "title": "ホロライブドリームス",
+    "developer": "QualiArts, Inc.",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "game.qualiarts.hololive.dreams.jp",
+    "local_name": "ホロライブドリームス",
+    "icon": "https://play-lh.googleusercontent.com/j00IPpPSDv3cGqoKVIDf0qnCw6EbZQ4KpgMr10UWkf8Rm1qO9vCSoVhJwfCF1PbbKxV_Qt_eqZ_Sp4QMHuhwYBI",
+    "est_revenue": 14838275,
+    "est_revenue_fmt": "$14.84M",
+    "est_revenue_won": "222.6억"
   },
   {
     "rank": 10,
@@ -329,7 +329,7 @@
     "title": "Zenless Zone Zero - Anniv.",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
-    "rating": 3.3,
+    "rating": 3.4,
     "app_id": "com.HoYoverse.Nap",
     "local_name": "Zenless Zone Zero",
     "icon": "https://play-lh.googleusercontent.com/-OwYJcIdDSfGJBOQozVC3kKxqnA7ev2O897twi-aVUpc8AXVMNtB3YWEXDui_V0VJxelNAbUbLXpNZj9AqWa3A",
@@ -391,19 +391,6 @@
   },
   {
     "rank": 31,
-    "title": "三國志 真戦",
-    "developer": "Qookka Games",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.qookkagame.sgzzlb.gp.jp",
-    "local_name": "三國志 真戦",
-    "icon": "https://play-lh.googleusercontent.com/xfbYWk3unWvvNS5lFFkIiAnsUv6iu0VWANsPnU_7A0EB-53NMqzA2AHcrDLwjEun3yMGqYRsYu_d8R0xC4RIYQ",
-    "est_revenue": 0,
-    "est_revenue_fmt": "",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 32,
     "title": "Wuthering Waves - To Xuanfang",
     "developer": "HK KURO GAMES LIMITED",
     "genre": "Game",
@@ -416,20 +403,20 @@
     "est_revenue_won": "37.8억"
   },
   {
-    "rank": 33,
-    "title": "Royal Kingdom",
-    "developer": "Dream Games, Ltd.",
+    "rank": 32,
+    "title": "三國志 真戦",
+    "developer": "Qookka Games",
     "genre": "Game",
-    "rating": 4.1,
-    "app_id": "com.dreamgames.royalkingdom",
-    "local_name": "Royal Kingdom",
-    "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
-    "est_revenue": 1519064,
-    "est_revenue_fmt": "$1.52M",
-    "est_revenue_won": "22.8억"
+    "rating": 4.2,
+    "app_id": "com.qookkagame.sgzzlb.gp.jp",
+    "local_name": "三國志 真戦",
+    "icon": "https://play-lh.googleusercontent.com/xfbYWk3unWvvNS5lFFkIiAnsUv6iu0VWANsPnU_7A0EB-53NMqzA2AHcrDLwjEun3yMGqYRsYu_d8R0xC4RIYQ",
+    "est_revenue": 0,
+    "est_revenue_fmt": "",
+    "est_revenue_won": ""
   },
   {
-    "rank": 34,
+    "rank": 33,
     "title": "Honkai: Star Rail",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -440,6 +427,19 @@
     "est_revenue": 2267824,
     "est_revenue_fmt": "$2.27M",
     "est_revenue_won": "34.0억"
+  },
+  {
+    "rank": 34,
+    "title": "Royal Kingdom",
+    "developer": "Dream Games, Ltd.",
+    "genre": "Game",
+    "rating": 4.1,
+    "app_id": "com.dreamgames.royalkingdom",
+    "local_name": "Royal Kingdom",
+    "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
+    "est_revenue": 1519064,
+    "est_revenue_fmt": "$1.52M",
+    "est_revenue_won": "22.8억"
   },
   {
     "rank": 35,
@@ -456,6 +456,19 @@
   },
   {
     "rank": 36,
+    "title": "MementoMori: AFKRPG",
+    "developer": "Bank of Innovation, Inc.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "jp.boi.mementomori.android",
+    "local_name": "MementoMori: AFKRPG",
+    "icon": "https://play-lh.googleusercontent.com/HG9W8SRyTeeLPFrrS17a06d5ANgakJbHomr73o3l6I23YAiIFL399Y1_Q-2FDBO_zxqETTkphFhE-uTeuD2nH6w",
+    "est_revenue": 993583,
+    "est_revenue_fmt": "$994K",
+    "est_revenue_won": "14.9억"
+  },
+  {
+    "rank": 37,
     "title": "Last Z: Survival Shooter",
     "developer": "Omnilojo Pte Ltd",
     "genre": "Game",
@@ -468,7 +481,7 @@
     "est_revenue_won": "17.8억"
   },
   {
-    "rank": 37,
+    "rank": 38,
     "title": "Homescapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -479,19 +492,6 @@
     "est_revenue": 1282563,
     "est_revenue_fmt": "$1.28M",
     "est_revenue_won": "19.2억"
-  },
-  {
-    "rank": 38,
-    "title": "MementoMori: AFKRPG",
-    "developer": "Bank of Innovation, Inc.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "jp.boi.mementomori.android",
-    "local_name": "MementoMori: AFKRPG",
-    "icon": "https://play-lh.googleusercontent.com/HG9W8SRyTeeLPFrrS17a06d5ANgakJbHomr73o3l6I23YAiIFL399Y1_Q-2FDBO_zxqETTkphFhE-uTeuD2nH6w",
-    "est_revenue": 993583,
-    "est_revenue_fmt": "$994K",
-    "est_revenue_won": "14.9억"
   },
   {
     "rank": 39,
@@ -560,19 +560,6 @@
   },
   {
     "rank": 44,
-    "title": "信長の野望 覇道",
-    "developer": "KOEI TECMO GAMES CO., LTD.",
-    "genre": "Game",
-    "rating": 4.1,
-    "app_id": "jp.co.koeitecmo.Power",
-    "local_name": "信長の野望 覇道",
-    "icon": "https://play-lh.googleusercontent.com/zT82LJTdzp4bcJBvkH5_wKW8yzLirUxslhuUa7jM8UF4RYF0dM30D3ohbY1Xu1uBdjHJpo_cdKVp68l2sxXr",
-    "est_revenue": 1453364,
-    "est_revenue_fmt": "$1.45M",
-    "est_revenue_won": "21.8억"
-  },
-  {
-    "rank": 45,
     "title": "Paranoize",
     "developer": "ZigZaGame Inc.",
     "genre": "Game",
@@ -583,6 +570,19 @@
     "est_revenue": 901821,
     "est_revenue_fmt": "$902K",
     "est_revenue_won": "13.5억"
+  },
+  {
+    "rank": 45,
+    "title": "信長の野望 覇道",
+    "developer": "KOEI TECMO GAMES CO., LTD.",
+    "genre": "Game",
+    "rating": 4.1,
+    "app_id": "jp.co.koeitecmo.Power",
+    "local_name": "信長の野望 覇道",
+    "icon": "https://play-lh.googleusercontent.com/zT82LJTdzp4bcJBvkH5_wKW8yzLirUxslhuUa7jM8UF4RYF0dM30D3ohbY1Xu1uBdjHJpo_cdKVp68l2sxXr",
+    "est_revenue": 1453364,
+    "est_revenue_fmt": "$1.45M",
+    "est_revenue_won": "21.8억"
   },
   {
     "rank": 46,
