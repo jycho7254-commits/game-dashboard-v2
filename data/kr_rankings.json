@@ -27,19 +27,6 @@
   },
   {
     "rank": 3,
-    "title": "Kingshot",
-    "developer": "Century Games PTE. LTD.",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.run.tower.defense",
-    "local_name": "킹샷",
-    "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
-    "est_revenue": 4984310,
-    "est_revenue_fmt": "$4.98M",
-    "est_revenue_won": "74.8억"
-  },
-  {
-    "rank": 4,
     "title": "Whiteout Survival",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -50,6 +37,19 @@
     "est_revenue": 8000000,
     "est_revenue_fmt": "$8.00M",
     "est_revenue_won": "120.0억"
+  },
+  {
+    "rank": 4,
+    "title": "Kingshot",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.run.tower.defense",
+    "local_name": "킹샷",
+    "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
+    "est_revenue": 4984310,
+    "est_revenue_fmt": "$4.98M",
+    "est_revenue_won": "74.8억"
   },
   {
     "rank": 5,
@@ -638,13 +638,13 @@
   },
   {
     "rank": 50,
-    "title": "Flambé®: Merge & Cook",
-    "developer": "Microfun Limited",
+    "title": "Pokémon GO",
+    "developer": "Scopely Explore, Inc.",
     "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.cola.game",
-    "local_name": "Flambé®: Merge & Cook",
-    "icon": "https://play-lh.googleusercontent.com/DxEYTS_nNDbesjgAGulDTgl8V2cV42UUmeOGPei2c95XRW7GY_XgihSsaPF7rnRua18Egkd1-siIgbkVjq73Hg",
+    "rating": 3.8,
+    "app_id": "com.nianticlabs.pokemongo",
+    "local_name": "Pokémon GO",
+    "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
     "est_revenue": 0,
     "est_revenue_fmt": "",
     "est_revenue_won": ""
