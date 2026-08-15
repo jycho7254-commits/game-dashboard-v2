@@ -118,19 +118,6 @@
   },
   {
     "rank": 10,
-    "title": "ホロライブドリームス",
-    "developer": "QualiArts, Inc.",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "game.qualiarts.hololive.dreams.jp",
-    "local_name": "ホロライブドリームス",
-    "icon": "https://play-lh.googleusercontent.com/j00IPpPSDv3cGqoKVIDf0qnCw6EbZQ4KpgMr10UWkf8Rm1qO9vCSoVhJwfCF1PbbKxV_Qt_eqZ_Sp4QMHuhwYBI",
-    "est_revenue": 14838275,
-    "est_revenue_fmt": "$14.84M",
-    "est_revenue_won": "222.6억"
-  },
-  {
-    "rank": 11,
     "title": "Royal Match",
     "developer": "Dream Games, Ltd.",
     "genre": "Game",
@@ -141,6 +128,19 @@
     "est_revenue": 5333333,
     "est_revenue_fmt": "$5.33M",
     "est_revenue_won": "80.0억"
+  },
+  {
+    "rank": 11,
+    "title": "ホロライブドリームス",
+    "developer": "QualiArts, Inc.",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "game.qualiarts.hololive.dreams.jp",
+    "local_name": "ホロライブドリームス",
+    "icon": "https://play-lh.googleusercontent.com/j00IPpPSDv3cGqoKVIDf0qnCw6EbZQ4KpgMr10UWkf8Rm1qO9vCSoVhJwfCF1PbbKxV_Qt_eqZ_Sp4QMHuhwYBI",
+    "est_revenue": 14838275,
+    "est_revenue_fmt": "$14.84M",
+    "est_revenue_won": "222.6억"
   },
   {
     "rank": 12,
@@ -209,19 +209,6 @@
   },
   {
     "rank": 17,
-    "title": "ウマ娘 プリティーダービー",
-    "developer": "Cygames, Inc.",
-    "genre": "Game",
-    "rating": 3.6,
-    "app_id": "jp.co.cygames.umamusume",
-    "local_name": "ウマ娘 プリティーダービー",
-    "icon": "https://play-lh.googleusercontent.com/bww9X1CiJudBPk1Bld11v61SPbS5UQhus43qHiDhapvfW5ahkfH3lgUNdjCx45yu_3Ft-OhT26SvWu2r01uu",
-    "est_revenue": 1027750,
-    "est_revenue_fmt": "$1.03M",
-    "est_revenue_won": "15.4억"
-  },
-  {
-    "rank": 18,
     "title": "Gardenscapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -234,20 +221,20 @@
     "est_revenue_won": "40.0억"
   },
   {
-    "rank": 19,
-    "title": "モンスターストライク",
-    "developer": "XFLAG, Inc.",
+    "rank": 18,
+    "title": "ウマ娘 プリティーダービー",
+    "developer": "Cygames, Inc.",
     "genre": "Game",
-    "rating": 4.3,
-    "app_id": "jp.co.mixi.monsterstrike",
-    "local_name": "モンスターストライク",
-    "icon": "https://play-lh.googleusercontent.com/WGW2AUzVfG3YF5cZJ_oRuhwAUGR5bskjiWFl4Kc_efzAeXsBMwnMXiMUGEGMTLHkihIWqrk6X_SEZ-T6LGMo",
-    "est_revenue": 6529583,
-    "est_revenue_fmt": "$6.53M",
-    "est_revenue_won": "97.9억"
+    "rating": 3.6,
+    "app_id": "jp.co.cygames.umamusume",
+    "local_name": "ウマ娘 プリティーダービー",
+    "icon": "https://play-lh.googleusercontent.com/bww9X1CiJudBPk1Bld11v61SPbS5UQhus43qHiDhapvfW5ahkfH3lgUNdjCx45yu_3Ft-OhT26SvWu2r01uu",
+    "est_revenue": 1027750,
+    "est_revenue_fmt": "$1.03M",
+    "est_revenue_won": "15.4억"
   },
   {
-    "rank": 20,
+    "rank": 19,
     "title": "ヘブンバーンズレッド",
     "developer": "WFS, Inc.",
     "genre": "Game",
@@ -258,6 +245,19 @@
     "est_revenue": 2996543,
     "est_revenue_fmt": "$3.00M",
     "est_revenue_won": "44.9억"
+  },
+  {
+    "rank": 20,
+    "title": "モンスターストライク",
+    "developer": "XFLAG, Inc.",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "jp.co.mixi.monsterstrike",
+    "local_name": "モンスターストライク",
+    "icon": "https://play-lh.googleusercontent.com/WGW2AUzVfG3YF5cZJ_oRuhwAUGR5bskjiWFl4Kc_efzAeXsBMwnMXiMUGEGMTLHkihIWqrk6X_SEZ-T6LGMo",
+    "est_revenue": 6529583,
+    "est_revenue_fmt": "$6.53M",
+    "est_revenue_won": "97.9억"
   },
   {
     "rank": 21,
@@ -547,6 +547,19 @@
   },
   {
     "rank": 43,
+    "title": "Paranoize",
+    "developer": "ZigZaGame Inc.",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "com.zigzagame.paranoize",
+    "local_name": "Paranoize",
+    "icon": "https://play-lh.googleusercontent.com/7LQtnB1OywAs4z9kyDT5NiAQtoE_TNMU6OdiPAm0znOARQB6lOlxZ7Dq9SQ8kdCvBAsDjGQKzhV2JMHHN2iuQ5g",
+    "est_revenue": 901821,
+    "est_revenue_fmt": "$902K",
+    "est_revenue_won": "13.5억"
+  },
+  {
+    "rank": 44,
     "title": "Trickcal:Chibi Go",
     "developer": "BILIBILI",
     "genre": "Game",
@@ -559,7 +572,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 44,
+    "rank": 45,
     "title": "旦那様の一発逆転人生",
     "developer": "37Games-Oversea",
     "genre": "Game",
@@ -572,7 +585,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 45,
+    "rank": 46,
     "title": "学園アイドルマスター",
     "developer": "Bandai Namco Entertainment Inc.",
     "genre": "Game",
@@ -583,19 +596,6 @@
     "est_revenue": 1063958,
     "est_revenue_fmt": "$1.06M",
     "est_revenue_won": "16.0억"
-  },
-  {
-    "rank": 46,
-    "title": "Paranoize",
-    "developer": "ZigZaGame Inc.",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.zigzagame.paranoize",
-    "local_name": "Paranoize",
-    "icon": "https://play-lh.googleusercontent.com/7LQtnB1OywAs4z9kyDT5NiAQtoE_TNMU6OdiPAm0znOARQB6lOlxZ7Dq9SQ8kdCvBAsDjGQKzhV2JMHHN2iuQ5g",
-    "est_revenue": 901821,
-    "est_revenue_fmt": "$902K",
-    "est_revenue_won": "13.5억"
   },
   {
     "rank": 47,
