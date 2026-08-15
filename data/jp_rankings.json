@@ -365,19 +365,6 @@
   },
   {
     "rank": 29,
-    "title": "Pokémon GO",
-    "developer": "Scopely Explore, Inc.",
-    "genre": "Game",
-    "rating": 3.5,
-    "app_id": "com.nianticlabs.pokemongo",
-    "local_name": "Pokémon GO",
-    "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
-    "est_revenue": 1666666,
-    "est_revenue_fmt": "$1.67M",
-    "est_revenue_won": "25.0억"
-  },
-  {
-    "rank": 30,
     "title": "プロ野球スピリッツA",
     "developer": "KONAMI",
     "genre": "Game",
@@ -388,6 +375,19 @@
     "est_revenue": 3413851,
     "est_revenue_fmt": "$3.41M",
     "est_revenue_won": "51.2억"
+  },
+  {
+    "rank": 30,
+    "title": "Pokémon GO",
+    "developer": "Scopely Explore, Inc.",
+    "genre": "Game",
+    "rating": 3.5,
+    "app_id": "com.nianticlabs.pokemongo",
+    "local_name": "Pokémon GO",
+    "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
+    "est_revenue": 1666666,
+    "est_revenue_fmt": "$1.67M",
+    "est_revenue_won": "25.0억"
   },
   {
     "rank": 31,
