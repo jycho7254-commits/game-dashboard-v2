@@ -92,6 +92,19 @@
   },
   {
     "rank": 8,
+    "title": "Royal Match",
+    "developer": "Dream Games, Ltd.",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.dreamgames.royalmatch",
+    "local_name": "로얄 매치",
+    "icon": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
+    "est_revenue": 2532550,
+    "est_revenue_fmt": "$2.53M",
+    "est_revenue_won": "38.0억"
+  },
+  {
+    "rank": 9,
     "title": "Last War:Survival Game",
     "developer": "FUNFLY PTE. LTD.",
     "genre": "Game",
@@ -104,7 +117,7 @@
     "est_revenue_won": "46.2억"
   },
   {
-    "rank": 9,
+    "rank": 10,
     "title": "리니지M",
     "developer": "NC Corporation",
     "genre": "Game",
@@ -115,19 +128,6 @@
     "est_revenue": 4000000,
     "est_revenue_fmt": "$4.00M",
     "est_revenue_won": "60.0억"
-  },
-  {
-    "rank": 10,
-    "title": "Royal Match",
-    "developer": "Dream Games, Ltd.",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.dreamgames.royalmatch",
-    "local_name": "로얄 매치",
-    "icon": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
-    "est_revenue": 2532550,
-    "est_revenue_fmt": "$2.53M",
-    "est_revenue_won": "38.0억"
   },
   {
     "rank": 11,
@@ -521,19 +521,6 @@
   },
   {
     "rank": 41,
-    "title": "한게임 섯다&맞고",
-    "developer": "NHN Corp.",
-    "genre": "Game",
-    "rating": 4,
-    "app_id": "com.NHNEnt.MSudda",
-    "local_name": "한게임 섯다&맞고",
-    "icon": "https://play-lh.googleusercontent.com/CqdDCCaoUKuuANbhIfbCWehb2UTPN6YPbucx6KUzurF6WebH10KPaG46AG-fBCl9w1hAnOqbr2psIJtQFoUOaHw",
-    "est_revenue": 375806,
-    "est_revenue_fmt": "$376K",
-    "est_revenue_won": "5.6억"
-  },
-  {
-    "rank": 42,
     "title": "Honkai: Star Rail",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -544,6 +531,19 @@
     "est_revenue": 356546,
     "est_revenue_fmt": "$357K",
     "est_revenue_won": "5.3억"
+  },
+  {
+    "rank": 42,
+    "title": "한게임 섯다&맞고",
+    "developer": "NHN Corp.",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "com.NHNEnt.MSudda",
+    "local_name": "한게임 섯다&맞고",
+    "icon": "https://play-lh.googleusercontent.com/CqdDCCaoUKuuANbhIfbCWehb2UTPN6YPbucx6KUzurF6WebH10KPaG46AG-fBCl9w1hAnOqbr2psIJtQFoUOaHw",
+    "est_revenue": 375806,
+    "est_revenue_fmt": "$376K",
+    "est_revenue_won": "5.6억"
   },
   {
     "rank": 43,
