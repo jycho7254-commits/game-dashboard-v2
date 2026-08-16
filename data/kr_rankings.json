@@ -27,19 +27,6 @@
   },
   {
     "rank": 3,
-    "title": "Whiteout Survival",
-    "developer": "Century Games PTE. LTD.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.gof.global",
-    "local_name": "화이트아웃 서바이벌",
-    "icon": "https://play-lh.googleusercontent.com/tNMaMiJ4wTQy_TeZSWHdSlP5qH0PGig9g9sDJu2QFvCHdnrbo2u17pX55W4i6KITo56v_ZyICkqLgA2svH9ycQ",
-    "est_revenue": 8000000,
-    "est_revenue_fmt": "$8.00M",
-    "est_revenue_won": "120.0억"
-  },
-  {
-    "rank": 4,
     "title": "Kingshot",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -50,6 +37,19 @@
     "est_revenue": 4984310,
     "est_revenue_fmt": "$4.98M",
     "est_revenue_won": "74.8억"
+  },
+  {
+    "rank": 4,
+    "title": "Whiteout Survival",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.gof.global",
+    "local_name": "화이트아웃 서바이벌",
+    "icon": "https://play-lh.googleusercontent.com/tNMaMiJ4wTQy_TeZSWHdSlP5qH0PGig9g9sDJu2QFvCHdnrbo2u17pX55W4i6KITo56v_ZyICkqLgA2svH9ycQ",
+    "est_revenue": 8000000,
+    "est_revenue_fmt": "$8.00M",
+    "est_revenue_won": "120.0억"
   },
   {
     "rank": 5,
@@ -222,6 +222,19 @@
   },
   {
     "rank": 18,
+    "title": "마비노기 모바일",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 2.8,
+    "app_id": "com.nexon.devcat.mm",
+    "local_name": "마비노기 모바일",
+    "icon": "https://play-lh.googleusercontent.com/ljE3Q4kOQj0UEjbJoANQpgQ4rxdDvI1h1wARGv6jFgel-5oDIFjfTx2S0nINT8agCEOB_V3C9y61RZFoyLZ4",
+    "est_revenue": 593542,
+    "est_revenue_fmt": "$594K",
+    "est_revenue_won": "8.9억"
+  },
+  {
+    "rank": 19,
     "title": "한게임포커 클래식 : 7포커 홀덤 섯다 훌라 슬롯",
     "developer": "NHN Corp.",
     "genre": "Game",
@@ -234,7 +247,7 @@
     "est_revenue_won": "25.9억"
   },
   {
-    "rank": 19,
+    "rank": 20,
     "title": "한게임 포커",
     "developer": "NHN Corp.",
     "genre": "Game",
@@ -247,7 +260,7 @@
     "est_revenue_won": "23.8억"
   },
   {
-    "rank": 20,
+    "rank": 21,
     "title": "리버스: 1999",
     "developer": "HaoPlay Limited",
     "genre": "Game",
@@ -258,19 +271,6 @@
     "est_revenue": 0,
     "est_revenue_fmt": "",
     "est_revenue_won": ""
-  },
-  {
-    "rank": 21,
-    "title": "마비노기 모바일",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 2.8,
-    "app_id": "com.nexon.devcat.mm",
-    "local_name": "마비노기 모바일",
-    "icon": "https://play-lh.googleusercontent.com/ljE3Q4kOQj0UEjbJoANQpgQ4rxdDvI1h1wARGv6jFgel-5oDIFjfTx2S0nINT8agCEOB_V3C9y61RZFoyLZ4",
-    "est_revenue": 593542,
-    "est_revenue_fmt": "$594K",
-    "est_revenue_won": "8.9억"
   },
   {
     "rank": 22,
