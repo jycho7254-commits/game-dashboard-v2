@@ -92,19 +92,6 @@
   },
   {
     "rank": 8,
-    "title": "Gossip Harbor®: Merge & Story",
-    "developer": "Microfun Limited",
-    "genre": "Game",
-    "rating": 3.7,
-    "app_id": "com.mergegames.gossipharbor",
-    "local_name": "Gossip Harbor",
-    "icon": "https://play-lh.googleusercontent.com/HLRg8oInVYJV8Uebxlh1dTH4j7OTBMIWOPZY7A7ryW9UB8K4i7HCOqkGfSLORsK-XzqhnJcJM0mjObVKZYL8zA",
-    "est_revenue": 5868076,
-    "est_revenue_fmt": "$5.87M",
-    "est_revenue_won": "88.0억"
-  },
-  {
-    "rank": 9,
     "title": "Puzzles & Survival",
     "developer": "37GAMES",
     "genre": "Game",
@@ -115,6 +102,19 @@
     "est_revenue": 7370175,
     "est_revenue_fmt": "$7.37M",
     "est_revenue_won": "110.6억"
+  },
+  {
+    "rank": 9,
+    "title": "Gossip Harbor®: Merge & Story",
+    "developer": "Microfun Limited",
+    "genre": "Game",
+    "rating": 3.7,
+    "app_id": "com.mergegames.gossipharbor",
+    "local_name": "Gossip Harbor",
+    "icon": "https://play-lh.googleusercontent.com/HLRg8oInVYJV8Uebxlh1dTH4j7OTBMIWOPZY7A7ryW9UB8K4i7HCOqkGfSLORsK-XzqhnJcJM0mjObVKZYL8zA",
+    "est_revenue": 5868076,
+    "est_revenue_fmt": "$5.87M",
+    "est_revenue_won": "88.0억"
   },
   {
     "rank": 10,
@@ -222,19 +222,6 @@
   },
   {
     "rank": 18,
-    "title": "Gardenscapes",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.playrix.gardenscapes",
-    "local_name": "Gardenscapes",
-    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
-    "est_revenue": 2666666,
-    "est_revenue_fmt": "$2.67M",
-    "est_revenue_won": "40.0억"
-  },
-  {
-    "rank": 19,
     "title": "モンスターストライク",
     "developer": "XFLAG, Inc.",
     "genre": "Game",
@@ -245,6 +232,19 @@
     "est_revenue": 6529583,
     "est_revenue_fmt": "$6.53M",
     "est_revenue_won": "97.9억"
+  },
+  {
+    "rank": 19,
+    "title": "Gardenscapes",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.playrix.gardenscapes",
+    "local_name": "Gardenscapes",
+    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
+    "est_revenue": 2666666,
+    "est_revenue_fmt": "$2.67M",
+    "est_revenue_won": "40.0억"
   },
   {
     "rank": 20,
@@ -365,32 +365,6 @@
   },
   {
     "rank": 29,
-    "title": "三國志 真戦",
-    "developer": "Qookka Games",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.qookkagame.sgzzlb.gp.jp",
-    "local_name": "三國志 真戦",
-    "icon": "https://play-lh.googleusercontent.com/xfbYWk3unWvvNS5lFFkIiAnsUv6iu0VWANsPnU_7A0EB-53NMqzA2AHcrDLwjEun3yMGqYRsYu_d8R0xC4RIYQ",
-    "est_revenue": 0,
-    "est_revenue_fmt": "",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 30,
-    "title": "Pokémon GO",
-    "developer": "Scopely Explore, Inc.",
-    "genre": "Game",
-    "rating": 3.5,
-    "app_id": "com.nianticlabs.pokemongo",
-    "local_name": "Pokémon GO",
-    "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
-    "est_revenue": 1666666,
-    "est_revenue_fmt": "$1.67M",
-    "est_revenue_won": "25.0억"
-  },
-  {
-    "rank": 31,
     "title": "プロ野球スピリッツA",
     "developer": "KONAMI",
     "genre": "Game",
@@ -403,20 +377,33 @@
     "est_revenue_won": "51.2억"
   },
   {
-    "rank": 32,
-    "title": "あんさんぶるスターズ！！Music",
-    "developer": "Happy Elements K.K",
+    "rank": 30,
+    "title": "三國志 真戦",
+    "developer": "Qookka Games",
     "genre": "Game",
-    "rating": 4.6,
-    "app_id": "jp.co.happyelements.boysm",
-    "local_name": "あんさんぶるスターズ！！Music",
-    "icon": "https://play-lh.googleusercontent.com/McMZLXR9hYWUG883v6EVIh5k9P5iME0wPSbgd_bhVNU9hkUV-NlpXsfR4Je8o9TrlF52jzhMUkRQcefF5ZVkFw",
-    "est_revenue": 1102384,
-    "est_revenue_fmt": "$1.10M",
-    "est_revenue_won": "16.5억"
+    "rating": 4.2,
+    "app_id": "com.qookkagame.sgzzlb.gp.jp",
+    "local_name": "三國志 真戦",
+    "icon": "https://play-lh.googleusercontent.com/xfbYWk3unWvvNS5lFFkIiAnsUv6iu0VWANsPnU_7A0EB-53NMqzA2AHcrDLwjEun3yMGqYRsYu_d8R0xC4RIYQ",
+    "est_revenue": 0,
+    "est_revenue_fmt": "",
+    "est_revenue_won": ""
   },
   {
-    "rank": 33,
+    "rank": 31,
+    "title": "Pokémon GO",
+    "developer": "Scopely Explore, Inc.",
+    "genre": "Game",
+    "rating": 3.5,
+    "app_id": "com.nianticlabs.pokemongo",
+    "local_name": "Pokémon GO",
+    "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
+    "est_revenue": 1666666,
+    "est_revenue_fmt": "$1.67M",
+    "est_revenue_won": "25.0억"
+  },
+  {
+    "rank": 32,
     "title": "Royal Kingdom",
     "developer": "Dream Games, Ltd.",
     "genre": "Game",
@@ -429,7 +416,7 @@
     "est_revenue_won": "22.8억"
   },
   {
-    "rank": 34,
+    "rank": 33,
     "title": "Wuthering Waves - To Xuanfang",
     "developer": "HK KURO GAMES LIMITED",
     "genre": "Game",
@@ -440,6 +427,19 @@
     "est_revenue": 2520035,
     "est_revenue_fmt": "$2.52M",
     "est_revenue_won": "37.8억"
+  },
+  {
+    "rank": 34,
+    "title": "あんさんぶるスターズ！！Music",
+    "developer": "Happy Elements K.K",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "jp.co.happyelements.boysm",
+    "local_name": "あんさんぶるスターズ！！Music",
+    "icon": "https://play-lh.googleusercontent.com/McMZLXR9hYWUG883v6EVIh5k9P5iME0wPSbgd_bhVNU9hkUV-NlpXsfR4Je8o9TrlF52jzhMUkRQcefF5ZVkFw",
+    "est_revenue": 1102384,
+    "est_revenue_fmt": "$1.10M",
+    "est_revenue_won": "16.5억"
   },
   {
     "rank": 35,
@@ -456,19 +456,6 @@
   },
   {
     "rank": 36,
-    "title": "アズールレーン",
-    "developer": "Yostar, Inc.",
-    "genre": "Game",
-    "rating": 3.9,
-    "app_id": "com.YoStarJP.AzurLane",
-    "local_name": "アズールレーン",
-    "icon": "https://play-lh.googleusercontent.com/xm_fZgRuFC6npGnzKgBbw1V2VuZo4Pc67LLcrecmihkaDK-LFa_yKi6x4zmg-Nb-tvqy1ppLgjEdmgZMV00vg9E",
-    "est_revenue": 0,
-    "est_revenue_fmt": "",
-    "est_revenue_won": ""
-  },
-  {
-    "rank": 37,
     "title": "MementoMori: AFKRPG",
     "developer": "Bank of Innovation, Inc.",
     "genre": "Game",
@@ -481,20 +468,20 @@
     "est_revenue_won": "14.9억"
   },
   {
-    "rank": 38,
-    "title": "Last Z: Survival Shooter",
-    "developer": "Omnilojo Pte Ltd",
+    "rank": 37,
+    "title": "アズールレーン",
+    "developer": "Yostar, Inc.",
     "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.readygo.barrel.gp",
-    "local_name": "Last Z: Survival Shooter",
-    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
-    "est_revenue": 1186698,
-    "est_revenue_fmt": "$1.19M",
-    "est_revenue_won": "17.8억"
+    "rating": 3.9,
+    "app_id": "com.YoStarJP.AzurLane",
+    "local_name": "アズールレーン",
+    "icon": "https://play-lh.googleusercontent.com/xm_fZgRuFC6npGnzKgBbw1V2VuZo4Pc67LLcrecmihkaDK-LFa_yKi6x4zmg-Nb-tvqy1ppLgjEdmgZMV00vg9E",
+    "est_revenue": 0,
+    "est_revenue_fmt": "",
+    "est_revenue_won": ""
   },
   {
-    "rank": 39,
+    "rank": 38,
     "title": "Pokémon Sleep",
     "developer": "The Pokémon Company",
     "genre": "Game",
@@ -505,6 +492,19 @@
     "est_revenue": 823562,
     "est_revenue_fmt": "$824K",
     "est_revenue_won": "12.4억"
+  },
+  {
+    "rank": 39,
+    "title": "Last Z: Survival Shooter",
+    "developer": "Omnilojo Pte Ltd",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.readygo.barrel.gp",
+    "local_name": "Last Z: Survival Shooter",
+    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
+    "est_revenue": 1186698,
+    "est_revenue_fmt": "$1.19M",
+    "est_revenue_won": "17.8억"
   },
   {
     "rank": 40,
@@ -586,6 +586,19 @@
   },
   {
     "rank": 46,
+    "title": "転生したらスライムだった件 魔王と竜の建国譚 まおりゅう",
+    "developer": "Bandai Namco Entertainment Inc.",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.bandainamcoent.tensuramrkrelease",
+    "local_name": "転生したらスライムだった件 魔王と竜の建国譚 まおりゅう",
+    "icon": "https://play-lh.googleusercontent.com/XHppCshR7n1cbR2_sOoxe33acoy1nNFbzUBQ8fjLKavfPfQTLKtyONq3TCLpLfjZ08XEPx5nVcOGEToXO7qMEA",
+    "est_revenue": 0,
+    "est_revenue_fmt": "",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 47,
     "title": "Last Asylum: Plague",
     "developer": "37GAMES GLOBAL",
     "genre": "Game",
@@ -598,7 +611,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 47,
+    "rank": 48,
     "title": "学園アイドルマスター",
     "developer": "Bandai Namco Entertainment Inc.",
     "genre": "Game",
@@ -609,19 +622,6 @@
     "est_revenue": 1063958,
     "est_revenue_fmt": "$1.06M",
     "est_revenue_won": "16.0억"
-  },
-  {
-    "rank": 48,
-    "title": "転生したらスライムだった件 魔王と竜の建国譚 まおりゅう",
-    "developer": "Bandai Namco Entertainment Inc.",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.bandainamcoent.tensuramrkrelease",
-    "local_name": "転生したらスライムだった件 魔王と竜の建国譚 まおりゅう",
-    "icon": "https://play-lh.googleusercontent.com/XHppCshR7n1cbR2_sOoxe33acoy1nNFbzUBQ8fjLKavfPfQTLKtyONq3TCLpLfjZ08XEPx5nVcOGEToXO7qMEA",
-    "est_revenue": 0,
-    "est_revenue_fmt": "",
-    "est_revenue_won": ""
   },
   {
     "rank": 49,
