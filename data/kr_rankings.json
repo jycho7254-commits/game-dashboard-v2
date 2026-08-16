@@ -235,19 +235,6 @@
   },
   {
     "rank": 19,
-    "title": "마비노기 모바일",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 2.8,
-    "app_id": "com.nexon.devcat.mm",
-    "local_name": "마비노기 모바일",
-    "icon": "https://play-lh.googleusercontent.com/ljE3Q4kOQj0UEjbJoANQpgQ4rxdDvI1h1wARGv6jFgel-5oDIFjfTx2S0nINT8agCEOB_V3C9y61RZFoyLZ4",
-    "est_revenue": 593542,
-    "est_revenue_fmt": "$594K",
-    "est_revenue_won": "8.9억"
-  },
-  {
-    "rank": 20,
     "title": "한게임 포커",
     "developer": "NHN Corp.",
     "genre": "Game",
@@ -258,6 +245,19 @@
     "est_revenue": 1587240,
     "est_revenue_fmt": "$1.59M",
     "est_revenue_won": "23.8억"
+  },
+  {
+    "rank": 20,
+    "title": "마비노기 모바일",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 2.8,
+    "app_id": "com.nexon.devcat.mm",
+    "local_name": "마비노기 모바일",
+    "icon": "https://play-lh.googleusercontent.com/ljE3Q4kOQj0UEjbJoANQpgQ4rxdDvI1h1wARGv6jFgel-5oDIFjfTx2S0nINT8agCEOB_V3C9y61RZFoyLZ4",
+    "est_revenue": 593542,
+    "est_revenue_fmt": "$594K",
+    "est_revenue_won": "8.9억"
   },
   {
     "rank": 21,
@@ -638,13 +638,13 @@
   },
   {
     "rank": 50,
-    "title": "Pokémon GO",
-    "developer": "Scopely Explore, Inc.",
+    "title": "I9: 인페르노 나인",
+    "developer": "Leniu Technology Co., Limited",
     "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.nianticlabs.pokemongo",
-    "local_name": "Pokémon GO",
-    "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
+    "rating": 4.5,
+    "app_id": "com.kr.firegp",
+    "local_name": "I9: 인페르노 나인",
+    "icon": "https://play-lh.googleusercontent.com/jZ0P5ZxOE4VorYhs9QmbcxzXi7VYiNqh4I5YlO2JXUdh_5D80ymAagbYxjtP6pGnU_7f_W0gWUVWUm9mIkCI5A",
     "est_revenue": 0,
     "est_revenue_fmt": "",
     "est_revenue_won": ""
