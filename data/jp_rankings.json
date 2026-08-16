@@ -27,19 +27,6 @@
   },
   {
     "rank": 3,
-    "title": "幻想水滸伝 STAR LEAP",
-    "developer": "KONAMI",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "jp.konami.suikoden.starleap",
-    "local_name": "幻想水滸伝 STAR LEAP",
-    "icon": "https://play-lh.googleusercontent.com/CZqC6kjKA871p5R5tf734xuTrgNd7B2DC9Q2Y1Fj0Bmdg3z2I8PhgV-7JNsOg-g-BV1ZWNLRPqq0frr9byaN",
-    "est_revenue": 8476006,
-    "est_revenue_fmt": "$8.48M",
-    "est_revenue_won": "127.1억"
-  },
-  {
-    "rank": 4,
     "title": "Last War:Survival Game",
     "developer": "FUNFLY PTE. LTD.",
     "genre": "Game",
@@ -50,6 +37,19 @@
     "est_revenue": 10000000,
     "est_revenue_fmt": "$10.00M",
     "est_revenue_won": "150.0억"
+  },
+  {
+    "rank": 4,
+    "title": "幻想水滸伝 STAR LEAP",
+    "developer": "KONAMI",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "jp.konami.suikoden.starleap",
+    "local_name": "幻想水滸伝 STAR LEAP",
+    "icon": "https://play-lh.googleusercontent.com/CZqC6kjKA871p5R5tf734xuTrgNd7B2DC9Q2Y1Fj0Bmdg3z2I8PhgV-7JNsOg-g-BV1ZWNLRPqq0frr9byaN",
+    "est_revenue": 8476006,
+    "est_revenue_fmt": "$8.48M",
+    "est_revenue_won": "127.1억"
   },
   {
     "rank": 5,
@@ -209,6 +209,19 @@
   },
   {
     "rank": 17,
+    "title": "ウマ娘 プリティーダービー",
+    "developer": "Cygames, Inc.",
+    "genre": "Game",
+    "rating": 3.6,
+    "app_id": "jp.co.cygames.umamusume",
+    "local_name": "ウマ娘 プリティーダービー",
+    "icon": "https://play-lh.googleusercontent.com/bww9X1CiJudBPk1Bld11v61SPbS5UQhus43qHiDhapvfW5ahkfH3lgUNdjCx45yu_3Ft-OhT26SvWu2r01uu",
+    "est_revenue": 1027750,
+    "est_revenue_fmt": "$1.03M",
+    "est_revenue_won": "15.4억"
+  },
+  {
+    "rank": 18,
     "title": "Gardenscapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -221,7 +234,7 @@
     "est_revenue_won": "40.0억"
   },
   {
-    "rank": 18,
+    "rank": 19,
     "title": "モンスターストライク",
     "developer": "XFLAG, Inc.",
     "genre": "Game",
@@ -232,19 +245,6 @@
     "est_revenue": 6529583,
     "est_revenue_fmt": "$6.53M",
     "est_revenue_won": "97.9억"
-  },
-  {
-    "rank": 19,
-    "title": "ウマ娘 プリティーダービー",
-    "developer": "Cygames, Inc.",
-    "genre": "Game",
-    "rating": 3.6,
-    "app_id": "jp.co.cygames.umamusume",
-    "local_name": "ウマ娘 プリティーダービー",
-    "icon": "https://play-lh.googleusercontent.com/bww9X1CiJudBPk1Bld11v61SPbS5UQhus43qHiDhapvfW5ahkfH3lgUNdjCx45yu_3Ft-OhT26SvWu2r01uu",
-    "est_revenue": 1027750,
-    "est_revenue_fmt": "$1.03M",
-    "est_revenue_won": "15.4억"
   },
   {
     "rank": 20,
@@ -365,6 +365,19 @@
   },
   {
     "rank": 29,
+    "title": "三國志 真戦",
+    "developer": "Qookka Games",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.qookkagame.sgzzlb.gp.jp",
+    "local_name": "三國志 真戦",
+    "icon": "https://play-lh.googleusercontent.com/xfbYWk3unWvvNS5lFFkIiAnsUv6iu0VWANsPnU_7A0EB-53NMqzA2AHcrDLwjEun3yMGqYRsYu_d8R0xC4RIYQ",
+    "est_revenue": 0,
+    "est_revenue_fmt": "",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 30,
     "title": "プロ野球スピリッツA",
     "developer": "KONAMI",
     "genre": "Game",
@@ -377,7 +390,7 @@
     "est_revenue_won": "51.2억"
   },
   {
-    "rank": 30,
+    "rank": 31,
     "title": "Pokémon GO",
     "developer": "Scopely Explore, Inc.",
     "genre": "Game",
@@ -388,19 +401,6 @@
     "est_revenue": 1666666,
     "est_revenue_fmt": "$1.67M",
     "est_revenue_won": "25.0억"
-  },
-  {
-    "rank": 31,
-    "title": "三國志 真戦",
-    "developer": "Qookka Games",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.qookkagame.sgzzlb.gp.jp",
-    "local_name": "三國志 真戦",
-    "icon": "https://play-lh.googleusercontent.com/xfbYWk3unWvvNS5lFFkIiAnsUv6iu0VWANsPnU_7A0EB-53NMqzA2AHcrDLwjEun3yMGqYRsYu_d8R0xC4RIYQ",
-    "est_revenue": 0,
-    "est_revenue_fmt": "",
-    "est_revenue_won": ""
   },
   {
     "rank": 32,
@@ -469,19 +469,6 @@
   },
   {
     "rank": 37,
-    "title": "Last Z: Survival Shooter",
-    "developer": "Omnilojo Pte Ltd",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.readygo.barrel.gp",
-    "local_name": "Last Z: Survival Shooter",
-    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
-    "est_revenue": 1186698,
-    "est_revenue_fmt": "$1.19M",
-    "est_revenue_won": "17.8억"
-  },
-  {
-    "rank": 38,
     "title": "MementoMori: AFKRPG",
     "developer": "Bank of Innovation, Inc.",
     "genre": "Game",
@@ -492,6 +479,19 @@
     "est_revenue": 993583,
     "est_revenue_fmt": "$994K",
     "est_revenue_won": "14.9억"
+  },
+  {
+    "rank": 38,
+    "title": "Last Z: Survival Shooter",
+    "developer": "Omnilojo Pte Ltd",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.readygo.barrel.gp",
+    "local_name": "Last Z: Survival Shooter",
+    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
+    "est_revenue": 1186698,
+    "est_revenue_fmt": "$1.19M",
+    "est_revenue_won": "17.8억"
   },
   {
     "rank": 39,
@@ -547,32 +547,19 @@
   },
   {
     "rank": 43,
-    "title": "Paranoize",
-    "developer": "ZigZaGame Inc.",
+    "title": "刀剣乱舞ONLINE",
+    "developer": "DMMGAMES",
     "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.zigzagame.paranoize",
-    "local_name": "Paranoize",
-    "icon": "https://play-lh.googleusercontent.com/7LQtnB1OywAs4z9kyDT5NiAQtoE_TNMU6OdiPAm0znOARQB6lOlxZ7Dq9SQ8kdCvBAsDjGQKzhV2JMHHN2iuQ5g",
-    "est_revenue": 901821,
-    "est_revenue_fmt": "$902K",
-    "est_revenue_won": "13.5억"
-  },
-  {
-    "rank": 44,
-    "title": "Last Asylum: Plague",
-    "developer": "37GAMES GLOBAL",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.phs.global",
-    "local_name": "Last Asylum: Plague",
-    "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
+    "rating": 4.3,
+    "app_id": "com.dmm.games.touken",
+    "local_name": "刀剣乱舞ONLINE",
+    "icon": "https://play-lh.googleusercontent.com/bl0CW3GHTGUKiIo91W7bwz_mfFLeKfGYEBkPV4_BWCUaBgWa7aiZhqFyfheGODr_WFVOARgYyEL4nw29yEIZ",
     "est_revenue": 0,
     "est_revenue_fmt": "",
     "est_revenue_won": ""
   },
   {
-    "rank": 45,
+    "rank": 44,
     "title": "Trickcal:Chibi Go",
     "developer": "BILIBILI",
     "genre": "Game",
@@ -585,7 +572,33 @@
     "est_revenue_won": ""
   },
   {
+    "rank": 45,
+    "title": "Paranoize",
+    "developer": "ZigZaGame Inc.",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "com.zigzagame.paranoize",
+    "local_name": "Paranoize",
+    "icon": "https://play-lh.googleusercontent.com/7LQtnB1OywAs4z9kyDT5NiAQtoE_TNMU6OdiPAm0znOARQB6lOlxZ7Dq9SQ8kdCvBAsDjGQKzhV2JMHHN2iuQ5g",
+    "est_revenue": 901821,
+    "est_revenue_fmt": "$902K",
+    "est_revenue_won": "13.5억"
+  },
+  {
     "rank": 46,
+    "title": "Last Asylum: Plague",
+    "developer": "37GAMES GLOBAL",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.phs.global",
+    "local_name": "Last Asylum: Plague",
+    "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
+    "est_revenue": 0,
+    "est_revenue_fmt": "",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 47,
     "title": "学園アイドルマスター",
     "developer": "Bandai Namco Entertainment Inc.",
     "genre": "Game",
@@ -598,7 +611,7 @@
     "est_revenue_won": "16.0억"
   },
   {
-    "rank": 47,
+    "rank": 48,
     "title": "転生したらスライムだった件 魔王と竜の建国譚 まおりゅう",
     "developer": "Bandai Namco Entertainment Inc.",
     "genre": "Game",
@@ -611,7 +624,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 48,
+    "rank": 49,
     "title": "旦那様の一発逆転人生",
     "developer": "37Games-Oversea",
     "genre": "Game",
@@ -624,7 +637,7 @@
     "est_revenue_won": ""
   },
   {
-    "rank": 49,
+    "rank": 50,
     "title": "信長の野望 覇道",
     "developer": "KOEI TECMO GAMES CO., LTD.",
     "genre": "Game",
@@ -635,18 +648,5 @@
     "est_revenue": 1453364,
     "est_revenue_fmt": "$1.45M",
     "est_revenue_won": "21.8억"
-  },
-  {
-    "rank": 50,
-    "title": "刀剣乱舞ONLINE",
-    "developer": "DMMGAMES",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.dmm.games.touken",
-    "local_name": "刀剣乱舞ONLINE",
-    "icon": "https://play-lh.googleusercontent.com/bl0CW3GHTGUKiIo91W7bwz_mfFLeKfGYEBkPV4_BWCUaBgWa7aiZhqFyfheGODr_WFVOARgYyEL4nw29yEIZ",
-    "est_revenue": 0,
-    "est_revenue_fmt": "",
-    "est_revenue_won": ""
   }
 ]
