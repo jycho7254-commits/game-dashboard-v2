@@ -190,7 +190,12 @@ tr:last-child td{border-bottom:none}
 .card{padding:12px!important;margin-bottom:10px!important}
 .card h3{font-size:14px!important}
 /* 테이블 — 가로 스크롤 */
-table{font-size:15px!important;display:block!important;overflow-x:auto!important;white-space:nowrap!important;-webkit-overflow-scrolling:touch}
+table{font-size:15px!important;display:block!important;overflow-x:auto!important;white-space:nowrap!important;-webkit-overflow-scrolling:touch;scrollbar-width:thin}
+/* 스크롤 가능함을 알리는 우측 페이드 힌트 */
+table::after{content:'';display:block;position:sticky;right:0;top:0;height:0}
+.table-scroll-hint{position:relative}
+.table-scroll-hint::after{content:'→';position:absolute;right:2px;top:50%;transform:translateY(-50%);color:var(--t3);font-size:13px;animation:scrollPulse 1.8s infinite;pointer-events:none;opacity:.7}
+@keyframes scrollPulse{0%,100%{transform:translateY(-50%);opacity:.4}50%{transform:translate(4px,-50%);opacity:.9}}
 th,td{padding:5px 6px!important}
 /* 국가 탭 */
 .country-tabs{gap:2px;margin-bottom:10px}
@@ -340,7 +345,7 @@ try{sb=window.supabase.createClient(SUPABASE_URL,SUPABASE_KEY,{auth:{persistSess
 <nav class="topbar">
 <div class="topbar-inner">
 <div class="topbar-right">
-<span class="meta" id="update-time">2026-08-16 23:16</span>
+<span class="meta" id="update-time">2026-08-16 23:17</span>
 <span id="auth-area" style="display:flex;align-items:center;gap:6px">
 <button id="login-btn" onclick="openAuthModal('login')" style="padding:5px 14px;border-radius:6px;border:1px solid var(--accent);background:transparent;color:var(--accent);cursor:pointer;font-size:14px;font-weight:600">로그인</button>
 <button id="signup-btn" onclick="openAuthModal('signup')" style="padding:5px 14px;border-radius:6px;border:1px solid var(--accent);background:var(--accent);color:#fff;cursor:pointer;font-size:14px;font-weight:600">회원가입</button>
