@@ -174,7 +174,7 @@ tr:last-child td{border-bottom:none}
 /* 2줄: 타이틀 */
 .topbar-title{padding:2px 0 4px;font-size:16px}
 /* 3줄: 탭 메뉴 — 모바일에서 가로 스크롤, flex:1 해제 */
-.topbar-tabs{order:3;width:100%;border-top:1px solid var(--border);overflow-x:auto;overflow-y:visible;scrollbar-width:none;-webkit-overflow-scrolling:touch}
+.topbar-tabs{order:3;width:100%;border-top:1px solid var(--border);overflow-x:auto;overflow-y:visible;scrollbar-width:none;-webkit-overflow-scrolling:touch;justify-content:flex-start}
 .topbar-tabs::-webkit-scrollbar{display:none}
 .topbar-tabs a{flex:none;padding:10px 12px;font-size:14px;white-space:nowrap}
 /* 메인 콘텐츠 */
@@ -340,7 +340,7 @@ try{sb=window.supabase.createClient(SUPABASE_URL,SUPABASE_KEY,{auth:{persistSess
 <nav class="topbar">
 <div class="topbar-inner">
 <div class="topbar-right">
-<span class="meta" id="update-time">2026-08-16 22:49</span>
+<span class="meta" id="update-time">2026-08-16 22:53</span>
 <span id="auth-area" style="display:flex;align-items:center;gap:6px">
 <button id="login-btn" onclick="openAuthModal('login')" style="padding:5px 14px;border-radius:6px;border:1px solid var(--accent);background:transparent;color:var(--accent);cursor:pointer;font-size:14px;font-weight:600">로그인</button>
 <button id="signup-btn" onclick="openAuthModal('signup')" style="padding:5px 14px;border-radius:6px;border:1px solid var(--accent);background:var(--accent);color:#fff;cursor:pointer;font-size:14px;font-weight:600">회원가입</button>
