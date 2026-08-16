@@ -118,19 +118,6 @@
   },
   {
     "rank": 10,
-    "title": "리니지M",
-    "developer": "NC Corporation",
-    "genre": "Game",
-    "rating": 2.6,
-    "app_id": "com.ncsoft.lineagem19",
-    "local_name": "리니지M",
-    "icon": "https://play-lh.googleusercontent.com/xy6xR7NsdX81HpwWu8CoVkseQECAug3pLvvpdBGtls12xwiQy3Qw5hvQ51fc3oTXPmI8xyOArPnm70t8395Mmdw",
-    "est_revenue": 4000000,
-    "est_revenue_fmt": "$4.00M",
-    "est_revenue_won": "60.0억"
-  },
-  {
-    "rank": 11,
     "title": "Royal Match",
     "developer": "Dream Games, Ltd.",
     "genre": "Game",
@@ -141,6 +128,19 @@
     "est_revenue": 2532550,
     "est_revenue_fmt": "$2.53M",
     "est_revenue_won": "38.0억"
+  },
+  {
+    "rank": 11,
+    "title": "리니지M",
+    "developer": "NC Corporation",
+    "genre": "Game",
+    "rating": 2.6,
+    "app_id": "com.ncsoft.lineagem19",
+    "local_name": "리니지M",
+    "icon": "https://play-lh.googleusercontent.com/xy6xR7NsdX81HpwWu8CoVkseQECAug3pLvvpdBGtls12xwiQy3Qw5hvQ51fc3oTXPmI8xyOArPnm70t8395Mmdw",
+    "est_revenue": 4000000,
+    "est_revenue_fmt": "$4.00M",
+    "est_revenue_won": "60.0억"
   },
   {
     "rank": 12,
@@ -482,6 +482,19 @@
   },
   {
     "rank": 38,
+    "title": "State of Survival: Zombie War",
+    "developer": "FunPlus International AG",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "com.kingsgroup.sos",
+    "local_name": "State of Survival: Zombie War",
+    "icon": "https://play-lh.googleusercontent.com/v4gBYHQkkjokISNaGIogV1PyR6vFJr-dFvoybqbtW5g4Zwk9l2mRHOL0rSwbigyVIIFe3FDuiqtESq4SJAeMNg",
+    "est_revenue": 0,
+    "est_revenue_fmt": "",
+    "est_revenue_won": ""
+  },
+  {
+    "rank": 39,
     "title": "Pmang Poker : Casino Royal",
     "developer": "NEOWIZ corp",
     "genre": "Game",
@@ -494,7 +507,7 @@
     "est_revenue_won": "7.5억"
   },
   {
-    "rank": 39,
+    "rank": 40,
     "title": "Brawl Stars",
     "developer": "Supercell",
     "genre": "Game",
@@ -505,19 +518,6 @@
     "est_revenue": 707549,
     "est_revenue_fmt": "$708K",
     "est_revenue_won": "10.6억"
-  },
-  {
-    "rank": 40,
-    "title": "State of Survival: Zombie War",
-    "developer": "FunPlus International AG",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.kingsgroup.sos",
-    "local_name": "State of Survival: Zombie War",
-    "icon": "https://play-lh.googleusercontent.com/v4gBYHQkkjokISNaGIogV1PyR6vFJr-dFvoybqbtW5g4Zwk9l2mRHOL0rSwbigyVIIFe3FDuiqtESq4SJAeMNg",
-    "est_revenue": 0,
-    "est_revenue_fmt": "",
-    "est_revenue_won": ""
   },
   {
     "rank": 41,
