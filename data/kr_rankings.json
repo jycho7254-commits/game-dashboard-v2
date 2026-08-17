@@ -78,10 +78,10 @@
     "app_id": "com.mergegames.gossipharbor",
     "local_name": "가십 하버",
     "icon": "https://play-lh.googleusercontent.com/HLRg8oInVYJV8Uebxlh1dTH4j7OTBMIWOPZY7A7ryW9UB8K4i7HCOqkGfSLORsK-XzqhnJcJM0mjObVKZYL8zA",
-    "est_revenue": 3013878,
-    "est_revenue_fmt": "$3.0M",
+    "est_revenue": 2843811,
+    "est_revenue_fmt": "$2.8M",
     "est_revenue_won": "52.1억",
-    "est_revenue_krw": 4068735300
+    "est_revenue_krw": 3839144850
   },
   {
     "rank": 7,
@@ -92,27 +92,13 @@
     "app_id": "com.roblox.client",
     "local_name": "로블록스",
     "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
-    "est_revenue": 2477539,
-    "est_revenue_fmt": "$2.5M",
+    "est_revenue": 2225709,
+    "est_revenue_fmt": "$2.2M",
     "est_revenue_won": "41.6억",
-    "est_revenue_krw": 3344677650
+    "est_revenue_krw": 3004707150
   },
   {
     "rank": 8,
-    "title": "CookieRun: Crumble - Idle RPG",
-    "developer": "Devsisters Corporation",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.devsisters.cc",
-    "local_name": "쿠키런: 크럼블",
-    "icon": "https://play-lh.googleusercontent.com/nH4gayvv0-dHdjwjxUIKY9QWr_6dYnNeqFNHPwckQ3dgvJgrsJPdkIEyevgE09j0IGUiAIwpniaoAZ7Xn0PH",
-    "est_revenue": 2090736,
-    "est_revenue_fmt": "$2.1M",
-    "est_revenue_won": "66.1억",
-    "est_revenue_krw": 2822493600
-  },
-  {
-    "rank": 9,
     "title": "Royal Match",
     "developer": "Dream Games, Ltd.",
     "genre": "Game",
@@ -123,6 +109,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "38.0억",
+    "est_revenue_krw": 2430000000
+  },
+  {
+    "rank": 9,
+    "title": "CookieRun: Crumble - Idle RPG",
+    "developer": "Devsisters Corporation",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.devsisters.cc",
+    "local_name": "쿠키런: 크럼블",
+    "icon": "https://play-lh.googleusercontent.com/nH4gayvv0-dHdjwjxUIKY9QWr_6dYnNeqFNHPwckQ3dgvJgrsJPdkIEyevgE09j0IGUiAIwpniaoAZ7Xn0PH",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "66.1억",
     "est_revenue_krw": 2430000000
   },
   {
@@ -197,6 +197,20 @@
   },
   {
     "rank": 15,
+    "title": "Lucky Defense",
+    "developer": "111%",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.percent.aos.luckydefense",
+    "local_name": "러키 디펜스",
+    "icon": "https://play-lh.googleusercontent.com/7Rih7H3B4QoHfjihDscNPVS1t8FZ0C-2TrK_j1ldhkb6RbnP8V2Vo1OHpjPH1qGnJpJ0WYGYPth8PhZgQ1Q-Vg",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "18.6억",
+    "est_revenue_krw": 2430000000
+  },
+  {
+    "rank": 16,
     "title": "Genshin Impact",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -210,20 +224,6 @@
     "est_revenue_krw": 2430000000
   },
   {
-    "rank": 16,
-    "title": "Lucky Defense",
-    "developer": "111%",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.percent.aos.luckydefense",
-    "local_name": "러키 디펜스",
-    "icon": "https://play-lh.googleusercontent.com/7Rih7H3B4QoHfjihDscNPVS1t8FZ0C-2TrK_j1ldhkb6RbnP8V2Vo1OHpjPH1qGnJpJ0WYGYPth8PhZgQ1Q-Vg",
-    "est_revenue": 1205144,
-    "est_revenue_fmt": "$1.2M",
-    "est_revenue_won": "18.6억",
-    "est_revenue_krw": 1626944400
-  },
-  {
     "rank": 17,
     "title": "마비노기 모바일",
     "developer": "NEXON Company",
@@ -232,10 +232,10 @@
     "app_id": "com.nexon.devcat.mm",
     "local_name": "마비노기 모바일",
     "icon": "https://play-lh.googleusercontent.com/ljE3Q4kOQj0UEjbJoANQpgQ4rxdDvI1h1wARGv6jFgel-5oDIFjfTx2S0nINT8agCEOB_V3C9y61RZFoyLZ4",
-    "est_revenue": 1205144,
+    "est_revenue": 1239287,
     "est_revenue_fmt": "$1.2M",
     "est_revenue_won": "8.9억",
-    "est_revenue_krw": 1626944400
+    "est_revenue_krw": 1673037450
   },
   {
     "rank": 18,
@@ -267,20 +267,6 @@
   },
   {
     "rank": 20,
-    "title": "리버스: 1999",
-    "developer": "HaoPlay Limited",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "kr.haoplay.game.and.reverse",
-    "local_name": "리버스: 1999",
-    "icon": "https://play-lh.googleusercontent.com/cixkKa8tiH8-Sg1Jn3Dm9tetzhldNlZjf2-NspczJOF8VqdRN50igOQf3xVv64UFKP2OaNb_Hgidb7u97mBsDd4",
-    "est_revenue": 872449,
-    "est_revenue_fmt": "$872K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 1177806150
-  },
-  {
-    "rank": 21,
     "title": "한게임포커 클래식 : 7포커 홀덤 섯다 훌라 슬롯",
     "developer": "NHN Corp.",
     "genre": "Game",
@@ -288,27 +274,27 @@
     "app_id": "com.nhnent.pokerclassic",
     "local_name": "한게임 포커 클래식",
     "icon": "https://play-lh.googleusercontent.com/Hv-D0Heegr2EW_eyGcfNv-HzI_WRrjxMqnN575pY17XaRfXA4wjmAtTwWsO_ON6WqVtTP0ajH2bKKRDx6CNXhQ",
-    "est_revenue": 769835,
-    "est_revenue_fmt": "$770K",
+    "est_revenue": 828827,
+    "est_revenue_fmt": "$829K",
     "est_revenue_won": "25.9억",
-    "est_revenue_krw": 1039277250
+    "est_revenue_krw": 1118916450
+  },
+  {
+    "rank": 21,
+    "title": "리버스: 1999",
+    "developer": "HaoPlay Limited",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "kr.haoplay.game.and.reverse",
+    "local_name": "리버스: 1999",
+    "icon": "https://play-lh.googleusercontent.com/cixkKa8tiH8-Sg1Jn3Dm9tetzhldNlZjf2-NspczJOF8VqdRN50igOQf3xVv64UFKP2OaNb_Hgidb7u97mBsDd4",
+    "est_revenue": 810353,
+    "est_revenue_fmt": "$810K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 1093976550
   },
   {
     "rank": 22,
-    "title": "Tasty Travels: Merge Game",
-    "developer": "Century Games PTE. LTD.",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.fatmerge.global",
-    "local_name": "테이스티 트래블스",
-    "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
-    "est_revenue": 641291,
-    "est_revenue_fmt": "$641K",
-    "est_revenue_won": "13.9억",
-    "est_revenue_krw": 865742850
-  },
-  {
-    "rank": 23,
     "title": "Last Z: Survival Shooter",
     "developer": "Omnilojo Pte Ltd",
     "genre": "Game",
@@ -316,10 +302,24 @@
     "app_id": "com.readygo.barrel.gp",
     "local_name": "라스트 Z: 서바이벌 슈터",
     "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
-    "est_revenue": 641291,
-    "est_revenue_fmt": "$641K",
+    "est_revenue": 810353,
+    "est_revenue_fmt": "$810K",
     "est_revenue_won": "15.0억",
-    "est_revenue_krw": 865742850
+    "est_revenue_krw": 1093976550
+  },
+  {
+    "rank": 23,
+    "title": "Tasty Travels: Merge Game",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.fatmerge.global",
+    "local_name": "테이스티 트래블스",
+    "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
+    "est_revenue": 598374,
+    "est_revenue_fmt": "$598K",
+    "est_revenue_won": "13.9억",
+    "est_revenue_krw": 807804900
   },
   {
     "rank": 24,
@@ -659,13 +659,13 @@
   },
   {
     "rank": 48,
-    "title": "Hollywood Merge",
-    "developer": "VoyagerOne IE",
+    "title": "Flambé®: Merge & Cook",
+    "developer": "Microfun Limited",
     "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.hollywood.merge",
-    "local_name": "Hollywood Merge",
-    "icon": "https://play-lh.googleusercontent.com/5mzN7_uKeXNnloF-zlXGxiwKuepToEdRwbFUK_aQqk7ORLUGPsMwQK__J9IL9DBMWty-zuLvZ4FYHikK2xCttIw",
+    "rating": 4.5,
+    "app_id": "com.cola.game",
+    "local_name": "Flambé®: Merge & Cook",
+    "icon": "https://play-lh.googleusercontent.com/DxEYTS_nNDbesjgAGulDTgl8V2cV42UUmeOGPei2c95XRW7GY_XgihSsaPF7rnRua18Egkd1-siIgbkVjq73Hg",
     "est_revenue": 165567,
     "est_revenue_fmt": "$166K",
     "est_revenue_won": "",
@@ -673,20 +673,6 @@
   },
   {
     "rank": 49,
-    "title": "I9: 인페르노 나인",
-    "developer": "Leniu Technology Co., Limited",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.kr.firegp",
-    "local_name": "I9: 인페르노 나인",
-    "icon": "https://play-lh.googleusercontent.com/jZ0P5ZxOE4VorYhs9QmbcxzXi7VYiNqh4I5YlO2JXUdh_5D80ymAagbYxjtP6pGnU_7f_W0gWUVWUm9mIkCI5A",
-    "est_revenue": 165567,
-    "est_revenue_fmt": "$166K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 223515450
-  },
-  {
-    "rank": 50,
     "title": "PUBG Mobile",
     "developer": "KRAFTON, Inc.",
     "genre": "Game",
@@ -698,5 +684,19 @@
     "est_revenue_fmt": "$166K",
     "est_revenue_won": "",
     "est_revenue_krw": 223515450
+  },
+  {
+    "rank": 50,
+    "title": "Hollywood Merge",
+    "developer": "VoyagerOne IE",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.hollywood.merge",
+    "local_name": "Hollywood Merge",
+    "icon": "https://play-lh.googleusercontent.com/5mzN7_uKeXNnloF-zlXGxiwKuepToEdRwbFUK_aQqk7ORLUGPsMwQK__J9IL9DBMWty-zuLvZ4FYHikK2xCttIw",
+    "est_revenue": 153000,
+    "est_revenue_fmt": "$153K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 206550000
   }
 ]
