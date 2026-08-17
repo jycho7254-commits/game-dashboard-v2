@@ -575,20 +575,6 @@
   },
   {
     "rank": 42,
-    "title": "ブルーアーカイブ",
-    "developer": "Yostar, Inc.",
-    "genre": "Game",
-    "rating": 3.2,
-    "app_id": "com.YostarJP.BlueArchive",
-    "local_name": "ブルーアーカイブ",
-    "icon": "https://play-lh.googleusercontent.com/H975s6W1-boCSogzpF5_rIyawbjiXfG842ncgjIRiVGzhXHFTCVut0DkBhlDR4CgN1nn98OOC1fWN-LE7kUHnQ",
-    "est_revenue": 463371,
-    "est_revenue_fmt": "$463K",
-    "est_revenue_won": "165.1억",
-    "est_revenue_krw": 625550850
-  },
-  {
-    "rank": 43,
     "title": "アークナイツ",
     "developer": "Yostar, Inc.",
     "genre": "Game",
@@ -596,9 +582,23 @@
     "app_id": "com.YoStarJP.Arknights",
     "local_name": "アークナイツ",
     "icon": "https://play-lh.googleusercontent.com/d768LvyQ1JVrv4K0900kVB-CpfKf_eFvHV22q7sLHk_JTZugf_qe4lOxbo5O_BMUO8cflqNkJk-SEshJDzX5zA",
+    "est_revenue": 463371,
+    "est_revenue_fmt": "$463K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 625550850
+  },
+  {
+    "rank": 43,
+    "title": "ブルーアーカイブ",
+    "developer": "Yostar, Inc.",
+    "genre": "Game",
+    "rating": 3.2,
+    "app_id": "com.YostarJP.BlueArchive",
+    "local_name": "ブルーアーカイブ",
+    "icon": "https://play-lh.googleusercontent.com/H975s6W1-boCSogzpF5_rIyawbjiXfG842ncgjIRiVGzhXHFTCVut0DkBhlDR4CgN1nn98OOC1fWN-LE7kUHnQ",
     "est_revenue": 451973,
     "est_revenue_fmt": "$452K",
-    "est_revenue_won": "",
+    "est_revenue_won": "165.1억",
     "est_revenue_krw": 610163550
   },
   {
@@ -687,16 +687,16 @@
   },
   {
     "rank": 50,
-    "title": "旦那様の一発逆転人生",
-    "developer": "37Games-Oversea",
+    "title": "Paranoize",
+    "developer": "ZigZaGame Inc.",
     "genre": "Game",
-    "rating": 2.8,
-    "app_id": "com.jp.beauty",
-    "local_name": "旦那様の一発逆転人生",
-    "icon": "https://play-lh.googleusercontent.com/dMZpIM_uav-hfQKPl5XUjHB98vvUJJl_7U99lE1sIMJ447lPXCn93_SiInconGTh89-ia18k5Q8dJF799wXctQ",
-    "est_revenue": 300000,
-    "est_revenue_fmt": "$300K",
+    "rating": 4.4,
+    "app_id": "com.zigzagame.paranoize",
+    "local_name": "Paranoize",
+    "icon": "https://play-lh.googleusercontent.com/7LQtnB1OywAs4z9kyDT5NiAQtoE_TNMU6OdiPAm0znOARQB6lOlxZ7Dq9SQ8kdCvBAsDjGQKzhV2JMHHN2iuQ5g",
+    "est_revenue": 328093,
+    "est_revenue_fmt": "$328K",
     "est_revenue_won": "",
-    "est_revenue_krw": 405000000
+    "est_revenue_krw": 442925550
   }
 ]
