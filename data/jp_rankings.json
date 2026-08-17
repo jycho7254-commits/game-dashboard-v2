@@ -309,20 +309,6 @@
   },
   {
     "rank": 23,
-    "title": "Pokémon GO",
-    "developer": "Scopely Explore, Inc.",
-    "genre": "Game",
-    "rating": 3.5,
-    "app_id": "com.nianticlabs.pokemongo",
-    "local_name": "Pokémon GO",
-    "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
-    "est_revenue": 1119670,
-    "est_revenue_fmt": "$1.1M",
-    "est_revenue_won": "25.0억",
-    "est_revenue_krw": 1511554500
-  },
-  {
-    "rank": 24,
     "title": "Tasty Travels: Merge Game",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -330,10 +316,24 @@
     "app_id": "com.fatmerge.global",
     "local_name": "Tasty Travels: Merge Game",
     "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
-    "est_revenue": 972230,
-    "est_revenue_fmt": "$972K",
+    "est_revenue": 1042230,
+    "est_revenue_fmt": "$1.0M",
     "est_revenue_won": "26.0억",
-    "est_revenue_krw": 1312510500
+    "est_revenue_krw": 1407010500
+  },
+  {
+    "rank": 24,
+    "title": "Pokémon GO",
+    "developer": "Scopely Explore, Inc.",
+    "genre": "Game",
+    "rating": 3.5,
+    "app_id": "com.nianticlabs.pokemongo",
+    "local_name": "Pokémon GO",
+    "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
+    "est_revenue": 1042230,
+    "est_revenue_fmt": "$1.0M",
+    "est_revenue_won": "25.0억",
+    "est_revenue_krw": 1407010500
   },
   {
     "rank": 25,
@@ -354,7 +354,7 @@
     "title": "三國志 真戦",
     "developer": "Qookka Games",
     "genre": "Game",
-    "rating": 4.1,
+    "rating": 4.2,
     "app_id": "com.qookkagame.sgzzlb.gp.jp",
     "local_name": "三國志 真戦",
     "icon": "https://play-lh.googleusercontent.com/xfbYWk3unWvvNS5lFFkIiAnsUv6iu0VWANsPnU_7A0EB-53NMqzA2AHcrDLwjEun3yMGqYRsYu_d8R0xC4RIYQ",
@@ -589,20 +589,6 @@
   },
   {
     "rank": 43,
-    "title": "Trickcal:Chibi Go",
-    "developer": "BILIBILI",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.bilibili.trickcal",
-    "local_name": "Trickcal:Chibi Go",
-    "icon": "https://play-lh.googleusercontent.com/lwMgjeWGUepED3XVqPk4AXrkJwm4Mo7LvvGggHV_HXF9-INHiXCrD0fUVZl6IKwa4QhQUHDKnJ6uwUYPgG9LXg",
-    "est_revenue": 442136,
-    "est_revenue_fmt": "$442K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 596883600
-  },
-  {
-    "rank": 44,
     "title": "Homescapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -610,10 +596,24 @@
     "app_id": "com.playrix.homescapes",
     "local_name": "Homescapes",
     "icon": "https://play-lh.googleusercontent.com/ft9OqNwpLaL45Jq3YuSYt0wm3y_j-YteTQqfq4Cu2PRWTrkFMuhlmUHmxggNxOP96gxR9Q3ML1Yt87iV3zD5fg",
-    "est_revenue": 328093,
-    "est_revenue_fmt": "$328K",
+    "est_revenue": 343015,
+    "est_revenue_fmt": "$343K",
     "est_revenue_won": "19.2억",
-    "est_revenue_krw": 442925550
+    "est_revenue_krw": 463070250
+  },
+  {
+    "rank": 44,
+    "title": "Trickcal:Chibi Go",
+    "developer": "BILIBILI",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.bilibili.trickcal",
+    "local_name": "Trickcal:Chibi Go",
+    "icon": "https://play-lh.googleusercontent.com/lwMgjeWGUepED3XVqPk4AXrkJwm4Mo7LvvGggHV_HXF9-INHiXCrD0fUVZl6IKwa4QhQUHDKnJ6uwUYPgG9LXg",
+    "est_revenue": 343015,
+    "est_revenue_fmt": "$343K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 463070250
   },
   {
     "rank": 45,
@@ -624,10 +624,10 @@
     "app_id": "jp.co.koeitecmo.Power",
     "local_name": "信長の野望 覇道",
     "icon": "https://play-lh.googleusercontent.com/zT82LJTdzp4bcJBvkH5_wKW8yzLirUxslhuUa7jM8UF4RYF0dM30D3ohbY1Xu1uBdjHJpo_cdKVp68l2sxXr",
-    "est_revenue": 328093,
-    "est_revenue_fmt": "$328K",
+    "est_revenue": 343015,
+    "est_revenue_fmt": "$343K",
     "est_revenue_won": "21.8억",
-    "est_revenue_krw": 442925550
+    "est_revenue_krw": 463070250
   },
   {
     "rank": 46,
@@ -638,27 +638,13 @@
     "app_id": "com.heavenburnsred",
     "local_name": "ヘブンバーンズレッド",
     "icon": "https://play-lh.googleusercontent.com/DnycnmD8KglZo2Bep7OQ7W5HiZnqdbsyqQL7EOOSjqY_IxukzzW_MPlyDghuWBL9Vguls1krtG5Vt66yyiKEgA",
-    "est_revenue": 328093,
-    "est_revenue_fmt": "$328K",
+    "est_revenue": 343015,
+    "est_revenue_fmt": "$343K",
     "est_revenue_won": "44.9억",
-    "est_revenue_krw": 442925550
+    "est_revenue_krw": 463070250
   },
   {
     "rank": 47,
-    "title": "転生したらスライムだった件 魔王と竜の建国譚 まおりゅう",
-    "developer": "Bandai Namco Entertainment Inc.",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.bandainamcoent.tensuramrkrelease",
-    "local_name": "転生したらスライムだった件 魔王と竜の建国譚 まおりゅう",
-    "icon": "https://play-lh.googleusercontent.com/XHppCshR7n1cbR2_sOoxe33acoy1nNFbzUBQ8fjLKavfPfQTLKtyONq3TCLpLfjZ08XEPx5nVcOGEToXO7qMEA",
-    "est_revenue": 328093,
-    "est_revenue_fmt": "$328K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 442925550
-  },
-  {
-    "rank": 48,
     "title": "Paranoize",
     "developer": "ZigZaGame Inc.",
     "genre": "Game",
@@ -666,13 +652,41 @@
     "app_id": "com.zigzagame.paranoize",
     "local_name": "Paranoize",
     "icon": "https://play-lh.googleusercontent.com/7LQtnB1OywAs4z9kyDT5NiAQtoE_TNMU6OdiPAm0znOARQB6lOlxZ7Dq9SQ8kdCvBAsDjGQKzhV2JMHHN2iuQ5g",
-    "est_revenue": 328093,
-    "est_revenue_fmt": "$328K",
+    "est_revenue": 343015,
+    "est_revenue_fmt": "$343K",
     "est_revenue_won": "13.5억",
-    "est_revenue_krw": 442925550
+    "est_revenue_krw": 463070250
+  },
+  {
+    "rank": 48,
+    "title": "転生したらスライムだった件 魔王と竜の建国譚 まおりゅう",
+    "developer": "Bandai Namco Entertainment Inc.",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.bandainamcoent.tensuramrkrelease",
+    "local_name": "転生したらスライムだった件 魔王と竜の建国譚 まおりゅう",
+    "icon": "https://play-lh.googleusercontent.com/XHppCshR7n1cbR2_sOoxe33acoy1nNFbzUBQ8fjLKavfPfQTLKtyONq3TCLpLfjZ08XEPx5nVcOGEToXO7qMEA",
+    "est_revenue": 325426,
+    "est_revenue_fmt": "$325K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 439325100
   },
   {
     "rank": 49,
+    "title": "妖怪ウォッチ ぷにぷに",
+    "developer": "LEVEL-5 Inc.",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.Level5.YWP",
+    "local_name": "妖怪ウォッチ ぷにぷに",
+    "icon": "https://play-lh.googleusercontent.com/XmiUFeMM8tlNrt-X9pHvGecRj40nPM-jPswgT6zr4H9-ZqEFz5TCH3DLVp2yYj8aBYTPP5vvaUTpBMcV3aJDmf4",
+    "est_revenue": 312356,
+    "est_revenue_fmt": "$312K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 421680600
+  },
+  {
+    "rank": 50,
     "title": "Last Asylum: Plague",
     "developer": "37GAMES GLOBAL",
     "genre": "Game",
@@ -680,23 +694,9 @@
     "app_id": "com.phs.global",
     "local_name": "Last Asylum: Plague",
     "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
-    "est_revenue": 328093,
-    "est_revenue_fmt": "$328K",
+    "est_revenue": 312356,
+    "est_revenue_fmt": "$312K",
     "est_revenue_won": "",
-    "est_revenue_krw": 442925550
-  },
-  {
-    "rank": 50,
-    "title": "グランブルーファンタジー",
-    "developer": "mobage",
-    "genre": "Game",
-    "rating": 3.9,
-    "app_id": "jp.mbga.a12016007.lite",
-    "local_name": "グランブルーファンタジー",
-    "icon": "https://play-lh.googleusercontent.com/kezieGaFO7Jl78eSwpJORGTrNGWGt1_2RHtVLtd8SrJ7QBFBnpLYQ-MmV5pUVD2JBcpuW3nqYt4Dc5wXHlWpgR8",
-    "est_revenue": 300000,
-    "est_revenue_fmt": "$300K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 405000000
+    "est_revenue_krw": 421680600
   }
 ]
