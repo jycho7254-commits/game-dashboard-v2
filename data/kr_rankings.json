@@ -155,20 +155,6 @@
   },
   {
     "rank": 12,
-    "title": "삼국지: 천하결전",
-    "developer": "BILIBILI",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.bhk.newslgkr",
-    "local_name": "삼국지: 천하결전",
-    "icon": "https://play-lh.googleusercontent.com/rG1RyXnhrSZk0-Huvu-x4lLJivzk5QgQ2w9-5LYFHGUsEJG2suk-SbLFT7Nkuz99Y56lXBkKfRudyoUWthbY",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "",
-    "est_revenue_krw": 2430000000
-  },
-  {
-    "rank": 13,
     "title": "열혈강호: 넥스트",
     "developer": "Kingnet Technology Limited",
     "genre": "Game",
@@ -179,6 +165,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "35.0억",
+    "est_revenue_krw": 2430000000
+  },
+  {
+    "rank": 13,
+    "title": "삼국지: 천하결전",
+    "developer": "BILIBILI",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.bhk.newslgkr",
+    "local_name": "삼국지: 천하결전",
+    "icon": "https://play-lh.googleusercontent.com/rG1RyXnhrSZk0-Huvu-x4lLJivzk5QgQ2w9-5LYFHGUsEJG2suk-SbLFT7Nkuz99Y56lXBkKfRudyoUWthbY",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "",
     "est_revenue_krw": 2430000000
   },
   {
@@ -505,20 +505,6 @@
   },
   {
     "rank": 37,
-    "title": "Candy Crush Saga",
-    "developer": "King",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.king.candycrushsaga",
-    "local_name": "캔디크러쉬 사가",
-    "icon": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI",
-    "est_revenue": 268750,
-    "est_revenue_fmt": "$269K",
-    "est_revenue_won": "4.4억",
-    "est_revenue_krw": 362812500
-  },
-  {
-    "rank": 38,
     "title": "Brawl Stars",
     "developer": "Supercell",
     "genre": "Game",
@@ -526,10 +512,24 @@
     "app_id": "com.supercell.brawlstars",
     "local_name": "브롤 스타즈",
     "icon": "https://play-lh.googleusercontent.com/c0hXyphuxh-gpnhSJGZV1I0IpWbq9IdEc1pautS7SmHlXNBrCff7bMqK-u63pJdfP3KJoxamG7W1dRMKr7ZzWKs",
-    "est_revenue": 268750,
-    "est_revenue_fmt": "$269K",
+    "est_revenue": 316176,
+    "est_revenue_fmt": "$316K",
     "est_revenue_won": "10.6억",
-    "est_revenue_krw": 362812500
+    "est_revenue_krw": 426837600
+  },
+  {
+    "rank": 38,
+    "title": "Candy Crush Saga",
+    "developer": "King",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.king.candycrushsaga",
+    "local_name": "캔디크러쉬 사가",
+    "icon": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI",
+    "est_revenue": 256121,
+    "est_revenue_fmt": "$256K",
+    "est_revenue_won": "4.4억",
+    "est_revenue_krw": 345763350
   },
   {
     "rank": 39,
@@ -540,10 +540,10 @@
     "app_id": "com.nianticlabs.pokemongo",
     "local_name": "Pokémon GO",
     "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
-    "est_revenue": 268750,
-    "est_revenue_fmt": "$269K",
+    "est_revenue": 256121,
+    "est_revenue_fmt": "$256K",
     "est_revenue_won": "",
-    "est_revenue_krw": 362812500
+    "est_revenue_krw": 345763350
   },
   {
     "rank": 40,
@@ -554,10 +554,10 @@
     "app_id": "com.percent.aos.cooptd",
     "local_name": "협동 타워 디펜스",
     "icon": "https://play-lh.googleusercontent.com/vTxEJvWJq3cIbideJTNd9ZAYolS4ll7hUlMT3piDAsP6y84EPI-k1tPpoALoCwvmbJMn3LBW-sjzhHpERqfY",
-    "est_revenue": 268750,
-    "est_revenue_fmt": "$269K",
+    "est_revenue": 256121,
+    "est_revenue_fmt": "$256K",
     "est_revenue_won": "4.2억",
-    "est_revenue_krw": 362812500
+    "est_revenue_krw": 345763350
   },
   {
     "rank": 41,
@@ -568,10 +568,10 @@
     "app_id": "com.kingsgroup.sos",
     "local_name": "State of Survival: Zombie War",
     "icon": "https://play-lh.googleusercontent.com/v4gBYHQkkjokISNaGIogV1PyR6vFJr-dFvoybqbtW5g4Zwk9l2mRHOL0rSwbigyVIIFe3FDuiqtESq4SJAeMNg",
-    "est_revenue": 268750,
-    "est_revenue_fmt": "$269K",
+    "est_revenue": 256121,
+    "est_revenue_fmt": "$256K",
     "est_revenue_won": "",
-    "est_revenue_krw": 362812500
+    "est_revenue_krw": 345763350
   },
   {
     "rank": 42,
@@ -617,20 +617,6 @@
   },
   {
     "rank": 45,
-    "title": "뱀피르",
-    "developer": "Netmarble",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.netmarble.thered",
-    "local_name": "뱀피르",
-    "icon": "https://play-lh.googleusercontent.com/O3AtBJqCPmOHow-d2tskDjwXGWpYpgz2bPEJC5s-FQ1BzmtxnFTQ4h6OTTJ74pyih8KBs78UsTk7w6PAHkbt",
-    "est_revenue": 203992,
-    "est_revenue_fmt": "$204K",
-    "est_revenue_won": "8.4억",
-    "est_revenue_krw": 275389200
-  },
-  {
-    "rank": 46,
     "title": "Hollywood Merge",
     "developer": "VoyagerOne IE",
     "genre": "Game",
@@ -638,10 +624,24 @@
     "app_id": "com.hollywood.merge",
     "local_name": "Hollywood Merge",
     "icon": "https://play-lh.googleusercontent.com/5mzN7_uKeXNnloF-zlXGxiwKuepToEdRwbFUK_aQqk7ORLUGPsMwQK__J9IL9DBMWty-zuLvZ4FYHikK2xCttIw",
-    "est_revenue": 179615,
-    "est_revenue_fmt": "$180K",
+    "est_revenue": 187267,
+    "est_revenue_fmt": "$187K",
     "est_revenue_won": "",
-    "est_revenue_krw": 242480250
+    "est_revenue_krw": 252810450
+  },
+  {
+    "rank": 46,
+    "title": "뱀피르",
+    "developer": "Netmarble",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.netmarble.thered",
+    "local_name": "뱀피르",
+    "icon": "https://play-lh.googleusercontent.com/O3AtBJqCPmOHow-d2tskDjwXGWpYpgz2bPEJC5s-FQ1BzmtxnFTQ4h6OTTJ74pyih8KBs78UsTk7w6PAHkbt",
+    "est_revenue": 187267,
+    "est_revenue_fmt": "$187K",
+    "est_revenue_won": "8.4억",
+    "est_revenue_krw": 252810450
   },
   {
     "rank": 47,
@@ -673,20 +673,6 @@
   },
   {
     "rank": 49,
-    "title": "Heartopia",
-    "developer": "XD Entertainment Co., Ltd.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.xd.xdtglobal.gp",
-    "local_name": "Heartopia",
-    "icon": "https://play-lh.googleusercontent.com/FtZNAkKn4faEpRU4UjtRRUk-aQP5zwiN1Kg4FzAcQBN7S8-PfDo7ODxmjaPlMu3HOFJ6-1WhzXxwKA6q1bOw",
-    "est_revenue": 172392,
-    "est_revenue_fmt": "$172K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 232729200
-  },
-  {
-    "rank": 50,
     "title": "Honkai: Star Rail",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -694,6 +680,20 @@
     "app_id": "com.HoYoverse.hkrpgoversea",
     "local_name": "Honkai: Star Rail",
     "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
+    "est_revenue": 172392,
+    "est_revenue_fmt": "$172K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 232729200
+  },
+  {
+    "rank": 50,
+    "title": "Heartopia",
+    "developer": "XD Entertainment Co., Ltd.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.xd.xdtglobal.gp",
+    "local_name": "Heartopia",
+    "icon": "https://play-lh.googleusercontent.com/FtZNAkKn4faEpRU4UjtRRUk-aQP5zwiN1Kg4FzAcQBN7S8-PfDo7ODxmjaPlMu3HOFJ6-1WhzXxwKA6q1bOw",
     "est_revenue": 172392,
     "est_revenue_fmt": "$172K",
     "est_revenue_won": "",
