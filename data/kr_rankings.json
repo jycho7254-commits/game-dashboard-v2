@@ -197,6 +197,20 @@
   },
   {
     "rank": 15,
+    "title": "Lucky Defense",
+    "developer": "111%",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.percent.aos.luckydefense",
+    "local_name": "러키 디펜스",
+    "icon": "https://play-lh.googleusercontent.com/7Rih7H3B4QoHfjihDscNPVS1t8FZ0C-2TrK_j1ldhkb6RbnP8V2Vo1OHpjPH1qGnJpJ0WYGYPth8PhZgQ1Q-Vg",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "18.6억",
+    "est_revenue_krw": 2430000000
+  },
+  {
+    "rank": 16,
     "title": "Genshin Impact",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -210,20 +224,6 @@
     "est_revenue_krw": 2430000000
   },
   {
-    "rank": 16,
-    "title": "Lucky Defense",
-    "developer": "111%",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.percent.aos.luckydefense",
-    "local_name": "러키 디펜스",
-    "icon": "https://play-lh.googleusercontent.com/7Rih7H3B4QoHfjihDscNPVS1t8FZ0C-2TrK_j1ldhkb6RbnP8V2Vo1OHpjPH1qGnJpJ0WYGYPth8PhZgQ1Q-Vg",
-    "est_revenue": 1205144,
-    "est_revenue_fmt": "$1.2M",
-    "est_revenue_won": "18.6억",
-    "est_revenue_krw": 1626944400
-  },
-  {
     "rank": 17,
     "title": "마비노기 모바일",
     "developer": "NEXON Company",
@@ -232,10 +232,10 @@
     "app_id": "com.nexon.devcat.mm",
     "local_name": "마비노기 모바일",
     "icon": "https://play-lh.googleusercontent.com/ljE3Q4kOQj0UEjbJoANQpgQ4rxdDvI1h1wARGv6jFgel-5oDIFjfTx2S0nINT8agCEOB_V3C9y61RZFoyLZ4",
-    "est_revenue": 1205144,
+    "est_revenue": 1239287,
     "est_revenue_fmt": "$1.2M",
     "est_revenue_won": "8.9억",
-    "est_revenue_krw": 1626944400
+    "est_revenue_krw": 1673037450
   },
   {
     "rank": 18,
