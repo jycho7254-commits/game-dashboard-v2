@@ -22,13 +22,27 @@
     "app_id": "com.nexon.ma",
     "local_name": "메이플스토리 키우기",
     "icon": "https://play-lh.googleusercontent.com/iqpY1xJzA5iIQdnHxk-IOfQFESViwUyTQ1AIwF1_i3kd8sQTTQDrkMLys26QqSb9tG35M5FTw2VjQuCcoe3MJA",
-    "est_revenue": 5329069,
-    "est_revenue_fmt": "$5.3M",
+    "est_revenue": 6008327,
+    "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "31.4억",
-    "est_revenue_krw": 7194243150
+    "est_revenue_krw": 8111241450
   },
   {
     "rank": 3,
+    "title": "Whiteout Survival",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.gof.global",
+    "local_name": "화이트아웃 서바이벌",
+    "icon": "https://play-lh.googleusercontent.com/tNMaMiJ4wTQy_TeZSWHdSlP5qH0PGig9g9sDJu2QFvCHdnrbo2u17pX55W4i6KITo56v_ZyICkqLgA2svH9ycQ",
+    "est_revenue": 4595826,
+    "est_revenue_fmt": "$4.6M",
+    "est_revenue_won": "120.0억",
+    "est_revenue_krw": 6204365100
+  },
+  {
+    "rank": 4,
     "title": "GODDESS OF VICTORY: NIKKE",
     "developer": "Level Infinite",
     "genre": "Game",
@@ -42,7 +56,7 @@
     "est_revenue_krw": 5130000000
   },
   {
-    "rank": 4,
+    "rank": 5,
     "title": "Kingshot",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -50,24 +64,10 @@
     "app_id": "com.run.tower.defense",
     "local_name": "킹샷",
     "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
-    "est_revenue": 3052129,
-    "est_revenue_fmt": "$3.1M",
+    "est_revenue": 2987544,
+    "est_revenue_fmt": "$3.0M",
     "est_revenue_won": "74.8억",
-    "est_revenue_krw": 4120374150
-  },
-  {
-    "rank": 5,
-    "title": "Whiteout Survival",
-    "developer": "Century Games PTE. LTD.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.gof.global",
-    "local_name": "화이트아웃 서바이벌",
-    "icon": "https://play-lh.googleusercontent.com/tNMaMiJ4wTQy_TeZSWHdSlP5qH0PGig9g9sDJu2QFvCHdnrbo2u17pX55W4i6KITo56v_ZyICkqLgA2svH9ycQ",
-    "est_revenue": 2574986,
-    "est_revenue_fmt": "$2.6M",
-    "est_revenue_won": "120.0억",
-    "est_revenue_krw": 3476231100
+    "est_revenue_krw": 4033184400
   },
   {
     "rank": 6,
@@ -78,10 +78,10 @@
     "app_id": "com.mergegames.gossipharbor",
     "local_name": "가십 하버",
     "icon": "https://play-lh.googleusercontent.com/HLRg8oInVYJV8Uebxlh1dTH4j7OTBMIWOPZY7A7ryW9UB8K4i7HCOqkGfSLORsK-XzqhnJcJM0mjObVKZYL8zA",
-    "est_revenue": 2241058,
-    "est_revenue_fmt": "$2.2M",
+    "est_revenue": 2454464,
+    "est_revenue_fmt": "$2.5M",
     "est_revenue_won": "52.1억",
-    "est_revenue_krw": 3025428300
+    "est_revenue_krw": 3313526400
   },
   {
     "rank": 7,
@@ -92,10 +92,10 @@
     "app_id": "com.roblox.client",
     "local_name": "로블록스",
     "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
-    "est_revenue": 1992745,
-    "est_revenue_fmt": "$2.0M",
+    "est_revenue": 2078681,
+    "est_revenue_fmt": "$2.1M",
     "est_revenue_won": "41.6억",
-    "est_revenue_krw": 2690205750
+    "est_revenue_krw": 2806219350
   },
   {
     "rank": 8,
@@ -155,20 +155,6 @@
   },
   {
     "rank": 12,
-    "title": "열혈강호: 넥스트",
-    "developer": "Kingnet Technology Limited",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.rxjhglkr.gp",
-    "local_name": "열혈강호: 넥스트",
-    "icon": "https://play-lh.googleusercontent.com/ct9hCP6C7NRwwTT3p-eIRLAJHMYuK2k2kO0tC6nc8YUCwgRos5tOuzfKmflfPOwQdfJiuNHkmifu0lhVcEmY",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "35.0억",
-    "est_revenue_krw": 2430000000
-  },
-  {
-    "rank": 13,
     "title": "삼국지: 천하결전",
     "developer": "BILIBILI",
     "genre": "Game",
@@ -179,6 +165,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "",
+    "est_revenue_krw": 2430000000
+  },
+  {
+    "rank": 13,
+    "title": "열혈강호: 넥스트",
+    "developer": "Kingnet Technology Limited",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.rxjhglkr.gp",
+    "local_name": "열혈강호: 넥스트",
+    "icon": "https://play-lh.googleusercontent.com/ct9hCP6C7NRwwTT3p-eIRLAJHMYuK2k2kO0tC6nc8YUCwgRos5tOuzfKmflfPOwQdfJiuNHkmifu0lhVcEmY",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "35.0억",
     "est_revenue_krw": 2430000000
   },
   {
@@ -197,6 +197,20 @@
   },
   {
     "rank": 15,
+    "title": "Lucky Defense",
+    "developer": "111%",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.percent.aos.luckydefense",
+    "local_name": "러키 디펜스",
+    "icon": "https://play-lh.googleusercontent.com/7Rih7H3B4QoHfjihDscNPVS1t8FZ0C-2TrK_j1ldhkb6RbnP8V2Vo1OHpjPH1qGnJpJ0WYGYPth8PhZgQ1Q-Vg",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "18.6억",
+    "est_revenue_krw": 2430000000
+  },
+  {
+    "rank": 16,
     "title": "Genshin Impact",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -210,20 +224,6 @@
     "est_revenue_krw": 2430000000
   },
   {
-    "rank": 16,
-    "title": "Lucky Defense",
-    "developer": "111%",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.percent.aos.luckydefense",
-    "local_name": "러키 디펜스",
-    "icon": "https://play-lh.googleusercontent.com/7Rih7H3B4QoHfjihDscNPVS1t8FZ0C-2TrK_j1ldhkb6RbnP8V2Vo1OHpjPH1qGnJpJ0WYGYPth8PhZgQ1Q-Vg",
-    "est_revenue": 1205144,
-    "est_revenue_fmt": "$1.2M",
-    "est_revenue_won": "18.6억",
-    "est_revenue_krw": 1626944400
-  },
-  {
     "rank": 17,
     "title": "마비노기 모바일",
     "developer": "NEXON Company",
@@ -232,10 +232,10 @@
     "app_id": "com.nexon.devcat.mm",
     "local_name": "마비노기 모바일",
     "icon": "https://play-lh.googleusercontent.com/ljE3Q4kOQj0UEjbJoANQpgQ4rxdDvI1h1wARGv6jFgel-5oDIFjfTx2S0nINT8agCEOB_V3C9y61RZFoyLZ4",
-    "est_revenue": 1205144,
+    "est_revenue": 1239287,
     "est_revenue_fmt": "$1.2M",
     "est_revenue_won": "8.9억",
-    "est_revenue_krw": 1626944400
+    "est_revenue_krw": 1673037450
   },
   {
     "rank": 18,
@@ -477,20 +477,6 @@
   },
   {
     "rank": 35,
-    "title": "메이플스토리M",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.nexon.nsc.maplem",
-    "local_name": "메이플스토리M",
-    "icon": "https://play-lh.googleusercontent.com/PkBuxJo-df0nSHREeWdVPB4ucRTMiEcz__Ta94AgpDJVaPgvwhE91ua-y1sQtNf5EmHzOfgQ-EDOlAwBDP4j4w",
-    "est_revenue": 366648,
-    "est_revenue_fmt": "$367K",
-    "est_revenue_won": "10.0억",
-    "est_revenue_krw": 494974800
-  },
-  {
-    "rank": 36,
     "title": "던전앤파이터 모바일",
     "developer": "NEXON Company",
     "genre": "Game",
@@ -501,6 +487,20 @@
     "est_revenue": 366648,
     "est_revenue_fmt": "$367K",
     "est_revenue_won": "",
+    "est_revenue_krw": 494974800
+  },
+  {
+    "rank": 36,
+    "title": "메이플스토리M",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.nexon.nsc.maplem",
+    "local_name": "메이플스토리M",
+    "icon": "https://play-lh.googleusercontent.com/PkBuxJo-df0nSHREeWdVPB4ucRTMiEcz__Ta94AgpDJVaPgvwhE91ua-y1sQtNf5EmHzOfgQ-EDOlAwBDP4j4w",
+    "est_revenue": 366648,
+    "est_revenue_fmt": "$367K",
+    "est_revenue_won": "10.0억",
     "est_revenue_krw": 494974800
   },
   {
