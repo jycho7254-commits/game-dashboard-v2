@@ -127,20 +127,6 @@
   },
   {
     "rank": 10,
-    "title": "Last War:Survival Game",
-    "developer": "FUNFLY PTE. LTD.",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.fun.lastwar.gp",
-    "local_name": "라스트 워: 서바이벌",
-    "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "46.2억",
-    "est_revenue_krw": 2430000000
-  },
-  {
-    "rank": 11,
     "title": "리니지M",
     "developer": "NC Corporation",
     "genre": "Game",
@@ -151,6 +137,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "60.0억",
+    "est_revenue_krw": 2430000000
+  },
+  {
+    "rank": 11,
+    "title": "Last War:Survival Game",
+    "developer": "FUNFLY PTE. LTD.",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.fun.lastwar.gp",
+    "local_name": "라스트 워: 서바이벌",
+    "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "46.2억",
     "est_revenue_krw": 2430000000
   },
   {
@@ -505,20 +505,6 @@
   },
   {
     "rank": 37,
-    "title": "Candy Crush Saga",
-    "developer": "King",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.king.candycrushsaga",
-    "local_name": "캔디크러쉬 사가",
-    "icon": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI",
-    "est_revenue": 268750,
-    "est_revenue_fmt": "$269K",
-    "est_revenue_won": "4.4억",
-    "est_revenue_krw": 362812500
-  },
-  {
-    "rank": 38,
     "title": "Brawl Stars",
     "developer": "Supercell",
     "genre": "Game",
@@ -526,13 +512,13 @@
     "app_id": "com.supercell.brawlstars",
     "local_name": "브롤스타즈",
     "icon": "https://play-lh.googleusercontent.com/c0hXyphuxh-gpnhSJGZV1I0IpWbq9IdEc1pautS7SmHlXNBrCff7bMqK-u63pJdfP3KJoxamG7W1dRMKr7ZzWKs",
-    "est_revenue": 268750,
-    "est_revenue_fmt": "$269K",
+    "est_revenue": 316176,
+    "est_revenue_fmt": "$316K",
     "est_revenue_won": "10.6억",
-    "est_revenue_krw": 362812500
+    "est_revenue_krw": 426837600
   },
   {
-    "rank": 39,
+    "rank": 38,
     "title": "Pokémon GO",
     "developer": "Scopely Explore, Inc.",
     "genre": "Game",
@@ -540,13 +526,13 @@
     "app_id": "com.nianticlabs.pokemongo",
     "local_name": "포켓몬 GO",
     "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
-    "est_revenue": 268750,
-    "est_revenue_fmt": "$269K",
+    "est_revenue": 301319,
+    "est_revenue_fmt": "$301K",
     "est_revenue_won": "",
-    "est_revenue_krw": 362812500
+    "est_revenue_krw": 406780650
   },
   {
-    "rank": 40,
+    "rank": 39,
     "title": "Coop TD: Together",
     "developer": "Supermagic",
     "genre": "Game",
@@ -554,13 +540,13 @@
     "app_id": "com.percent.aos.cooptd",
     "local_name": "쿱 TD: 투게더",
     "icon": "https://play-lh.googleusercontent.com/vTxEJvWJq3cIbideJTNd9ZAYolS4ll7hUlMT3piDAsP6y84EPI-k1tPpoALoCwvmbJMn3LBW-sjzhHpERqfY",
-    "est_revenue": 268750,
-    "est_revenue_fmt": "$269K",
+    "est_revenue": 287425,
+    "est_revenue_fmt": "$287K",
     "est_revenue_won": "4.2억",
-    "est_revenue_krw": 362812500
+    "est_revenue_krw": 388023750
   },
   {
-    "rank": 41,
+    "rank": 40,
     "title": "State of Survival: Zombie War",
     "developer": "FunPlus International AG",
     "genre": "Game",
@@ -568,10 +554,24 @@
     "app_id": "com.kingsgroup.sos",
     "local_name": "S.O.S: 스테이트 오브 서바이벌",
     "icon": "https://play-lh.googleusercontent.com/v4gBYHQkkjokISNaGIogV1PyR6vFJr-dFvoybqbtW5g4Zwk9l2mRHOL0rSwbigyVIIFe3FDuiqtESq4SJAeMNg",
-    "est_revenue": 268750,
-    "est_revenue_fmt": "$269K",
+    "est_revenue": 287425,
+    "est_revenue_fmt": "$287K",
     "est_revenue_won": "",
-    "est_revenue_krw": 362812500
+    "est_revenue_krw": 388023750
+  },
+  {
+    "rank": 41,
+    "title": "Candy Crush Saga",
+    "developer": "King",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.king.candycrushsaga",
+    "local_name": "캔디크러쉬 사가",
+    "icon": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI",
+    "est_revenue": 222881,
+    "est_revenue_fmt": "$223K",
+    "est_revenue_won": "4.4억",
+    "est_revenue_krw": 300889350
   },
   {
     "rank": 42,
@@ -582,10 +582,10 @@
     "app_id": "com.neowiz.games.poker",
     "local_name": "피망 포커",
     "icon": "https://play-lh.googleusercontent.com/MkI60z70bUF0YIi9loQzKm08WLinhruANPb6D7j1Gh1iPiLrfL1W-2ZQ0Q8ICCMdkFY0jDlTjx9_iZFVGOourg",
-    "est_revenue": 238220,
-    "est_revenue_fmt": "$238K",
+    "est_revenue": 222881,
+    "est_revenue_fmt": "$223K",
     "est_revenue_won": "7.5억",
-    "est_revenue_krw": 321597000
+    "est_revenue_krw": 300889350
   },
   {
     "rank": 43,
