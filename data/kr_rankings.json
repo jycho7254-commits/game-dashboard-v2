@@ -50,10 +50,10 @@
     "app_id": "com.gof.global",
     "local_name": "화이트아웃 서바이벌",
     "icon": "https://play-lh.googleusercontent.com/tNMaMiJ4wTQy_TeZSWHdSlP5qH0PGig9g9sDJu2QFvCHdnrbo2u17pX55W4i6KITo56v_ZyICkqLgA2svH9ycQ",
-    "est_revenue": 3124692,
+    "est_revenue": 3052129,
     "est_revenue_fmt": "$3.1M",
     "est_revenue_won": "120.0억",
-    "est_revenue_krw": 4218334200
+    "est_revenue_krw": 4120374150
   },
   {
     "rank": 5,
@@ -64,10 +64,10 @@
     "app_id": "com.run.tower.defense",
     "local_name": "킹샷",
     "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
-    "est_revenue": 2684692,
-    "est_revenue_fmt": "$2.7M",
+    "est_revenue": 2574986,
+    "est_revenue_fmt": "$2.6M",
     "est_revenue_won": "74.8억",
-    "est_revenue_krw": 3624334200
+    "est_revenue_krw": 3476231100
   },
   {
     "rank": 6,
@@ -78,27 +78,13 @@
     "app_id": "com.roblox.client",
     "local_name": "로블록스",
     "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
-    "est_revenue": 2371591,
-    "est_revenue_fmt": "$2.4M",
+    "est_revenue": 2241058,
+    "est_revenue_fmt": "$2.2M",
     "est_revenue_won": "41.6억",
-    "est_revenue_krw": 3201647850
+    "est_revenue_krw": 3025428300
   },
   {
     "rank": 7,
-    "title": "CookieRun: Crumble - Idle RPG",
-    "developer": "Devsisters Corporation",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.devsisters.cc",
-    "local_name": "쿠키런: 크럼블",
-    "icon": "https://play-lh.googleusercontent.com/nH4gayvv0-dHdjwjxUIKY9QWr_6dYnNeqFNHPwckQ3dgvJgrsJPdkIEyevgE09j0IGUiAIwpniaoAZ7Xn0PH",
-    "est_revenue": 2135533,
-    "est_revenue_fmt": "$2.1M",
-    "est_revenue_won": "66.1억",
-    "est_revenue_krw": 2882969550
-  },
-  {
-    "rank": 8,
     "title": "Gossip Harbor®: Merge & Story",
     "developer": "Microfun Limited",
     "genre": "Game",
@@ -106,13 +92,13 @@
     "app_id": "com.mergegames.gossipharbor",
     "local_name": "가십 하버",
     "icon": "https://play-lh.googleusercontent.com/HLRg8oInVYJV8Uebxlh1dTH4j7OTBMIWOPZY7A7ryW9UB8K4i7HCOqkGfSLORsK-XzqhnJcJM0mjObVKZYL8zA",
-    "est_revenue": 1950130,
+    "est_revenue": 1992745,
     "est_revenue_fmt": "$2.0M",
     "est_revenue_won": "52.1억",
-    "est_revenue_krw": 2632675500
+    "est_revenue_krw": 2690205750
   },
   {
-    "rank": 9,
+    "rank": 8,
     "title": "Royal Match",
     "developer": "Dream Games, Ltd.",
     "genre": "Game",
@@ -126,7 +112,7 @@
     "est_revenue_krw": 2430000000
   },
   {
-    "rank": 10,
+    "rank": 9,
     "title": "Last War:Survival Game",
     "developer": "FUNFLY PTE. LTD.",
     "genre": "Game",
@@ -137,6 +123,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "46.2억",
+    "est_revenue_krw": 2430000000
+  },
+  {
+    "rank": 10,
+    "title": "CookieRun: Crumble - Idle RPG",
+    "developer": "Devsisters Corporation",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.devsisters.cc",
+    "local_name": "쿠키런: 크럼블",
+    "icon": "https://play-lh.googleusercontent.com/nH4gayvv0-dHdjwjxUIKY9QWr_6dYnNeqFNHPwckQ3dgvJgrsJPdkIEyevgE09j0IGUiAIwpniaoAZ7Xn0PH",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "66.1억",
     "est_revenue_krw": 2430000000
   },
   {
