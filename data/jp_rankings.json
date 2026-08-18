@@ -477,20 +477,6 @@
   },
   {
     "rank": 35,
-    "title": "プロ野球スピリッツA",
-    "developer": "KONAMI",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "jp.konami.prospia",
-    "local_name": "プロ野球スピリッツA",
-    "icon": "https://play-lh.googleusercontent.com/F0IB7v9CufHt5hKPRfXC9WS7tOUunAuCD3_JtdMJTtlhkG93qwmNCg6Cbcbf10aipCZZ3rv82QA-6REtVaVLHD8",
-    "est_revenue": 561866,
-    "est_revenue_fmt": "$562K",
-    "est_revenue_won": "51.2억",
-    "est_revenue_krw": 758519100
-  },
-  {
-    "rank": 36,
     "title": "Honkai: Star Rail",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -501,6 +487,20 @@
     "est_revenue": 561866,
     "est_revenue_fmt": "$562K",
     "est_revenue_won": "34.0억",
+    "est_revenue_krw": 758519100
+  },
+  {
+    "rank": 36,
+    "title": "プロ野球スピリッツA",
+    "developer": "KONAMI",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "jp.konami.prospia",
+    "local_name": "プロ野球スピリッツA",
+    "icon": "https://play-lh.googleusercontent.com/F0IB7v9CufHt5hKPRfXC9WS7tOUunAuCD3_JtdMJTtlhkG93qwmNCg6Cbcbf10aipCZZ3rv82QA-6REtVaVLHD8",
+    "est_revenue": 561866,
+    "est_revenue_fmt": "$562K",
+    "est_revenue_won": "51.2억",
     "est_revenue_krw": 758519100
   },
   {
@@ -687,16 +687,16 @@
   },
   {
     "rank": 50,
-    "title": "Paranoize",
-    "developer": "ZigZaGame Inc.",
+    "title": "旦那様の一発逆転人生",
+    "developer": "37Games-Oversea",
     "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.zigzagame.paranoize",
-    "local_name": "Paranoize",
-    "icon": "https://play-lh.googleusercontent.com/7LQtnB1OywAs4z9kyDT5NiAQtoE_TNMU6OdiPAm0znOARQB6lOlxZ7Dq9SQ8kdCvBAsDjGQKzhV2JMHHN2iuQ5g",
-    "est_revenue": 314055,
-    "est_revenue_fmt": "$314K",
+    "rating": 2.8,
+    "app_id": "com.jp.beauty",
+    "local_name": "旦那様の一発逆転人生",
+    "icon": "https://play-lh.googleusercontent.com/dMZpIM_uav-hfQKPl5XUjHB98vvUJJl_7U99lE1sIMJ447lPXCn93_SiInconGTh89-ia18k5Q8dJF799wXctQ",
+    "est_revenue": 300000,
+    "est_revenue_fmt": "$300K",
     "est_revenue_won": "",
-    "est_revenue_krw": 423974250
+    "est_revenue_krw": 405000000
   }
 ]
