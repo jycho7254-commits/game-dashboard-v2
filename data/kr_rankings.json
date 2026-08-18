@@ -1,6 +1,20 @@
 [
   {
     "rank": 1,
+    "title": "MapleStory : Idle RPG",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.nexon.ma",
+    "local_name": "메이플스토리: 모바일",
+    "icon": "https://play-lh.googleusercontent.com/iqpY1xJzA5iIQdnHxk-IOfQFESViwUyTQ1AIwF1_i3kd8sQTTQDrkMLys26QqSb9tG35M5FTw2VjQuCcoe3MJA",
+    "est_revenue": 10080000,
+    "est_revenue_fmt": "$10.1M",
+    "est_revenue_won": "31.4억",
+    "est_revenue_krw": 13608000000
+  },
+  {
+    "rank": 2,
     "title": "SOL: enchant",
     "developer": "Netmarble",
     "genre": "Game",
@@ -12,20 +26,6 @@
     "est_revenue_fmt": "$9.5M",
     "est_revenue_won": "89.0억",
     "est_revenue_krw": 12825000000
-  },
-  {
-    "rank": 2,
-    "title": "MapleStory : Idle RPG",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.nexon.ma",
-    "local_name": "메이플스토리: 모바일",
-    "icon": "https://play-lh.googleusercontent.com/iqpY1xJzA5iIQdnHxk-IOfQFESViwUyTQ1AIwF1_i3kd8sQTTQDrkMLys26QqSb9tG35M5FTw2VjQuCcoe3MJA",
-    "est_revenue": 5329069,
-    "est_revenue_fmt": "$5.3M",
-    "est_revenue_won": "31.4억",
-    "est_revenue_krw": 7194243150
   },
   {
     "rank": 3,
@@ -267,20 +267,6 @@
   },
   {
     "rank": 20,
-    "title": "한게임포커 클래식 : 7포커 홀덤 섯다 훌라 슬롯",
-    "developer": "NHN Corp.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.nhnent.pokerclassic",
-    "local_name": "한게임 포커 클래식",
-    "icon": "https://play-lh.googleusercontent.com/Hv-D0Heegr2EW_eyGcfNv-HzI_WRrjxMqnN575pY17XaRfXA4wjmAtTwWsO_ON6WqVtTP0ajH2bKKRDx6CNXhQ",
-    "est_revenue": 828827,
-    "est_revenue_fmt": "$829K",
-    "est_revenue_won": "25.9억",
-    "est_revenue_krw": 1118916450
-  },
-  {
-    "rank": 21,
     "title": "한게임 포커",
     "developer": "NHN Corp.",
     "genre": "Game",
@@ -288,13 +274,13 @@
     "app_id": "com.nhnent.Qpoker",
     "local_name": "한게임 포커",
     "icon": "https://play-lh.googleusercontent.com/Imi0dOs8mMcOxNvc4MGXbfdG1QNKgE70v1DYU4GTIXPlbCy5RGoC-XjBRdEwvb-jDGXAXFj9j43c7flORYphv7I",
-    "est_revenue": 769835,
-    "est_revenue_fmt": "$770K",
+    "est_revenue": 828827,
+    "est_revenue_fmt": "$829K",
     "est_revenue_won": "23.8억",
-    "est_revenue_krw": 1039277250
+    "est_revenue_krw": 1118916450
   },
   {
-    "rank": 22,
+    "rank": 21,
     "title": "Last Z: Survival Shooter",
     "developer": "Omnilojo Pte Ltd",
     "genre": "Game",
@@ -302,10 +288,24 @@
     "app_id": "com.readygo.barrel.gp",
     "local_name": "라스트 Z: 서바이벌 슈터",
     "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
-    "est_revenue": 769835,
-    "est_revenue_fmt": "$770K",
+    "est_revenue": 828827,
+    "est_revenue_fmt": "$829K",
     "est_revenue_won": "15.0억",
-    "est_revenue_krw": 1039277250
+    "est_revenue_krw": 1118916450
+  },
+  {
+    "rank": 22,
+    "title": "한게임포커 클래식 : 7포커 홀덤 섯다 훌라 슬롯",
+    "developer": "NHN Corp.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.nhnent.pokerclassic",
+    "local_name": "한게임 포커 클래식",
+    "icon": "https://play-lh.googleusercontent.com/Hv-D0Heegr2EW_eyGcfNv-HzI_WRrjxMqnN575pY17XaRfXA4wjmAtTwWsO_ON6WqVtTP0ajH2bKKRDx6CNXhQ",
+    "est_revenue": 716737,
+    "est_revenue_fmt": "$717K",
+    "est_revenue_won": "25.9억",
+    "est_revenue_krw": 967594950
   },
   {
     "rank": 23,
@@ -435,20 +435,6 @@
   },
   {
     "rank": 32,
-    "title": "컴투스프로야구V26",
-    "developer": "Com2uS",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.com2us.futurecpb.android.google.global.normal",
-    "local_name": "컴투스프로야구V26",
-    "icon": "https://play-lh.googleusercontent.com/lFrail_ogSgoETUZcsAgLG7gC4lvjcOdffEURRt5kTAaIbr3pdm7s7hrIQNMl-jTu_Hbw7NDuU9gpJZDRsqY",
-    "est_revenue": 387731,
-    "est_revenue_fmt": "$388K",
-    "est_revenue_won": "6.0억",
-    "est_revenue_krw": 523436850
-  },
-  {
-    "rank": 33,
     "title": "던전앤파이터 모바일",
     "developer": "NEXON Company",
     "genre": "Game",
@@ -459,6 +445,20 @@
     "est_revenue": 387731,
     "est_revenue_fmt": "$388K",
     "est_revenue_won": "",
+    "est_revenue_krw": 523436850
+  },
+  {
+    "rank": 33,
+    "title": "컴투스프로야구V26",
+    "developer": "Com2uS",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.com2us.futurecpb.android.google.global.normal",
+    "local_name": "컴투스프로야구V26",
+    "icon": "https://play-lh.googleusercontent.com/lFrail_ogSgoETUZcsAgLG7gC4lvjcOdffEURRt5kTAaIbr3pdm7s7hrIQNMl-jTu_Hbw7NDuU9gpJZDRsqY",
+    "est_revenue": 387731,
+    "est_revenue_fmt": "$388K",
+    "est_revenue_won": "6.0억",
     "est_revenue_krw": 523436850
   },
   {
@@ -687,13 +687,13 @@
   },
   {
     "rank": 50,
-    "title": "Dark War Survival",
-    "developer": "Omnilojo Pte Ltd",
+    "title": "Honkai: Star Rail",
+    "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.readygo.dark.gp",
-    "local_name": "Dark War Survival",
-    "icon": "https://play-lh.googleusercontent.com/gaanbGpciRZh801jTahoaImwr96KtBp2Uuez12ww9sIxFQhqieIZgTjB_dGzhCaR1ccM9Eku11FxhOWgoxifwdc",
+    "rating": 3.6,
+    "app_id": "com.HoYoverse.hkrpgoversea",
+    "local_name": "붕괴: 스타레일",
+    "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
     "est_revenue": 179615,
     "est_revenue_fmt": "$180K",
     "est_revenue_won": "",
