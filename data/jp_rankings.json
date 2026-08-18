@@ -71,20 +71,6 @@
   },
   {
     "rank": 6,
-    "title": "Last War:Survival Game",
-    "developer": "FUNFLY PTE. LTD.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.fun.lastwar.gp",
-    "local_name": "Last War:Survival Game",
-    "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc",
-    "est_revenue": 9082474,
-    "est_revenue_fmt": "$9.1M",
-    "est_revenue_won": "150.0억",
-    "est_revenue_krw": 12261339900
-  },
-  {
-    "rank": 7,
     "title": "幻想水滸伝 STAR LEAP",
     "developer": "KONAMI",
     "genre": "Game",
@@ -92,9 +78,23 @@
     "app_id": "jp.konami.suikoden.starleap",
     "local_name": "幻想水滸伝 STAR LEAP",
     "icon": "https://play-lh.googleusercontent.com/CZqC6kjKA871p5R5tf734xuTrgNd7B2DC9Q2Y1Fj0Bmdg3z2I8PhgV-7JNsOg-g-BV1ZWNLRPqq0frr9byaN",
+    "est_revenue": 9082474,
+    "est_revenue_fmt": "$9.1M",
+    "est_revenue_won": "127.1억",
+    "est_revenue_krw": 12261339900
+  },
+  {
+    "rank": 7,
+    "title": "Last War:Survival Game",
+    "developer": "FUNFLY PTE. LTD.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.fun.lastwar.gp",
+    "local_name": "Last War:Survival Game",
+    "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc",
     "est_revenue": 9038187,
     "est_revenue_fmt": "$9.0M",
-    "est_revenue_won": "127.1억",
+    "est_revenue_won": "150.0억",
     "est_revenue_krw": 12201552450
   },
   {
@@ -309,20 +309,6 @@
   },
   {
     "rank": 23,
-    "title": "Township",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.playrix.township",
-    "local_name": "Township",
-    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
-    "est_revenue": 1042230,
-    "est_revenue_fmt": "$1.0M",
-    "est_revenue_won": "30.9억",
-    "est_revenue_krw": 1407010500
-  },
-  {
-    "rank": 24,
     "title": "Pokémon GO",
     "developer": "Scopely Explore, Inc.",
     "genre": "Game",
@@ -330,10 +316,24 @@
     "app_id": "com.nianticlabs.pokemongo",
     "local_name": "Pokémon GO",
     "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
-    "est_revenue": 1042230,
-    "est_revenue_fmt": "$1.0M",
+    "est_revenue": 1119670,
+    "est_revenue_fmt": "$1.1M",
     "est_revenue_won": "25.0억",
-    "est_revenue_krw": 1407010500
+    "est_revenue_krw": 1511554500
+  },
+  {
+    "rank": 24,
+    "title": "Township",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.playrix.township",
+    "local_name": "Township",
+    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
+    "est_revenue": 972230,
+    "est_revenue_fmt": "$972K",
+    "est_revenue_won": "30.9억",
+    "est_revenue_krw": 1312510500
   },
   {
     "rank": 25,
