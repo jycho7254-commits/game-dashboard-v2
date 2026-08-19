@@ -113,20 +113,6 @@
   },
   {
     "rank": 9,
-    "title": "Puzzles & Survival",
-    "developer": "37GAMES",
-    "genre": "Game",
-    "rating": 4.1,
-    "app_id": "com.global.ztmslg",
-    "local_name": "Puzzles & Survival",
-    "icon": "https://play-lh.googleusercontent.com/ummlqp5oiU1hRPrz9pt-XYFhbMIITY_b-viFnnMu-RgtdH--uFrcFoEEGrXpRrOTVf94f8GCDQwEK-VBln18",
-    "est_revenue": 7873660,
-    "est_revenue_fmt": "$7.9M",
-    "est_revenue_won": "110.6억",
-    "est_revenue_krw": 10629441000
-  },
-  {
-    "rank": 10,
     "title": "Whiteout Survival",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -134,9 +120,23 @@
     "app_id": "com.gof.global",
     "local_name": "Whiteout Survival",
     "icon": "https://play-lh.googleusercontent.com/tNMaMiJ4wTQy_TeZSWHdSlP5qH0PGig9g9sDJu2QFvCHdnrbo2u17pX55W4i6KITo56v_ZyICkqLgA2svH9ycQ",
+    "est_revenue": 7873660,
+    "est_revenue_fmt": "$7.9M",
+    "est_revenue_won": "186.9억",
+    "est_revenue_krw": 10629441000
+  },
+  {
+    "rank": 10,
+    "title": "Puzzles & Survival",
+    "developer": "37GAMES",
+    "genre": "Game",
+    "rating": 4.1,
+    "app_id": "com.global.ztmslg",
+    "local_name": "Puzzles & Survival",
+    "icon": "https://play-lh.googleusercontent.com/ummlqp5oiU1hRPrz9pt-XYFhbMIITY_b-viFnnMu-RgtdH--uFrcFoEEGrXpRrOTVf94f8GCDQwEK-VBln18",
     "est_revenue": 7444462,
     "est_revenue_fmt": "$7.4M",
-    "est_revenue_won": "186.9억",
+    "est_revenue_won": "110.6억",
     "est_revenue_krw": 10050023700
   },
   {
@@ -379,20 +379,6 @@
   },
   {
     "rank": 28,
-    "title": "三國志 真戦",
-    "developer": "Qookka Games",
-    "genre": "Game",
-    "rating": 4.1,
-    "app_id": "com.qookkagame.sgzzlb.gp.jp",
-    "local_name": "三國志 真戦",
-    "icon": "https://play-lh.googleusercontent.com/xfbYWk3unWvvNS5lFFkIiAnsUv6iu0VWANsPnU_7A0EB-53NMqzA2AHcrDLwjEun3yMGqYRsYu_d8R0xC4RIYQ",
-    "est_revenue": 798364,
-    "est_revenue_fmt": "$798K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 1077791400
-  },
-  {
-    "rank": 29,
     "title": "Tasty Travels: Merge Game",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -400,10 +386,24 @@
     "app_id": "com.fatmerge.global",
     "local_name": "Tasty Travels: Merge Game",
     "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
-    "est_revenue": 706076,
-    "est_revenue_fmt": "$706K",
+    "est_revenue": 750214,
+    "est_revenue_fmt": "$750K",
     "est_revenue_won": "26.0억",
-    "est_revenue_krw": 953202600
+    "est_revenue_krw": 1012788900
+  },
+  {
+    "rank": 29,
+    "title": "三國志 真戦",
+    "developer": "Qookka Games",
+    "genre": "Game",
+    "rating": 4.1,
+    "app_id": "com.qookkagame.sgzzlb.gp.jp",
+    "local_name": "三國志 真戦",
+    "icon": "https://play-lh.googleusercontent.com/xfbYWk3unWvvNS5lFFkIiAnsUv6iu0VWANsPnU_7A0EB-53NMqzA2AHcrDLwjEun3yMGqYRsYu_d8R0xC4RIYQ",
+    "est_revenue": 750214,
+    "est_revenue_fmt": "$750K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 1012788900
   },
   {
     "rank": 30,
@@ -414,10 +414,10 @@
     "app_id": "com.dmm.games.touken",
     "local_name": "刀剣乱舞ONLINE",
     "icon": "https://play-lh.googleusercontent.com/bl0CW3GHTGUKiIo91W7bwz_mfFLeKfGYEBkPV4_BWCUaBgWa7aiZhqFyfheGODr_WFVOARgYyEL4nw29yEIZ",
-    "est_revenue": 706076,
-    "est_revenue_fmt": "$706K",
+    "est_revenue": 750214,
+    "est_revenue_fmt": "$750K",
     "est_revenue_won": "",
-    "est_revenue_krw": 953202600
+    "est_revenue_krw": 1012788900
   },
   {
     "rank": 31,
@@ -463,6 +463,20 @@
   },
   {
     "rank": 34,
+    "title": "Pokémon Sleep",
+    "developer": "The Pokémon Company",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "jp.pokemon.pokemonsleep",
+    "local_name": "Pokémon Sleep",
+    "icon": "https://play-lh.googleusercontent.com/tg-BeEJO7UDjvfxWXWJ1u-PMLa-45twu0YhJkZfQu-PEjRJU_2l9Sb9xMR3YBha3mtLzdzU-016ZpWN5IUwrFwU",
+    "est_revenue": 593722,
+    "est_revenue_fmt": "$594K",
+    "est_revenue_won": "12.4억",
+    "est_revenue_krw": 801524700
+  },
+  {
+    "rank": 35,
     "title": "Last Z: Survival Shooter",
     "developer": "Omnilojo Pte Ltd",
     "genre": "Game",
@@ -476,7 +490,7 @@
     "est_revenue_krw": 801524700
   },
   {
-    "rank": 35,
+    "rank": 36,
     "title": "MementoMori: AFKRPG",
     "developer": "Bank of Innovation, Inc.",
     "genre": "Game",
@@ -490,20 +504,6 @@
     "est_revenue_krw": 801524700
   },
   {
-    "rank": 36,
-    "title": "Pokémon Sleep",
-    "developer": "The Pokémon Company",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "jp.pokemon.pokemonsleep",
-    "local_name": "Pokémon Sleep",
-    "icon": "https://play-lh.googleusercontent.com/tg-BeEJO7UDjvfxWXWJ1u-PMLa-45twu0YhJkZfQu-PEjRJU_2l9Sb9xMR3YBha3mtLzdzU-016ZpWN5IUwrFwU",
-    "est_revenue": 564160,
-    "est_revenue_fmt": "$564K",
-    "est_revenue_won": "12.4억",
-    "est_revenue_krw": 761616000
-  },
-  {
     "rank": 37,
     "title": "Zenless Zone Zero - Anniv.",
     "developer": "COGNOSPHERE PTE. LTD.",
@@ -512,10 +512,10 @@
     "app_id": "com.HoYoverse.Nap",
     "local_name": "Zenless Zone Zero",
     "icon": "https://play-lh.googleusercontent.com/-OwYJcIdDSfGJBOQozVC3kKxqnA7ev2O897twi-aVUpc8AXVMNtB3YWEXDui_V0VJxelNAbUbLXpNZj9AqWa3A",
-    "est_revenue": 564160,
-    "est_revenue_fmt": "$564K",
+    "est_revenue": 593722,
+    "est_revenue_fmt": "$594K",
     "est_revenue_won": "42.3억",
-    "est_revenue_krw": 761616000
+    "est_revenue_krw": 801524700
   },
   {
     "rank": 38,
@@ -617,20 +617,6 @@
   },
   {
     "rank": 45,
-    "title": "転生したらスライムだった件 魔王と竜の建国譚 まおりゅう",
-    "developer": "Bandai Namco Entertainment Inc.",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.bandainamcoent.tensuramrkrelease",
-    "local_name": "転生したらスライムだった件 魔王と竜の建国譚 まおりゅう",
-    "icon": "https://play-lh.googleusercontent.com/XHppCshR7n1cbR2_sOoxe33acoy1nNFbzUBQ8fjLKavfPfQTLKtyONq3TCLpLfjZ08XEPx5nVcOGEToXO7qMEA",
-    "est_revenue": 343015,
-    "est_revenue_fmt": "$343K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 463070250
-  },
-  {
-    "rank": 46,
     "title": "にゃんこ大戦争",
     "developer": "PONOS Corporation",
     "genre": "Game",
@@ -644,7 +630,7 @@
     "est_revenue_krw": 463070250
   },
   {
-    "rank": 47,
+    "rank": 46,
     "title": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
     "developer": "SEGA CORPORATION",
     "genre": "Game",
@@ -658,6 +644,20 @@
     "est_revenue_krw": 463070250
   },
   {
+    "rank": 47,
+    "title": "転生したらスライムだった件 魔王と竜の建国譚 まおりゅう",
+    "developer": "Bandai Namco Entertainment Inc.",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.bandainamcoent.tensuramrkrelease",
+    "local_name": "転生したらスライムだった件 魔王と竜の建国譚 まおりゅう",
+    "icon": "https://play-lh.googleusercontent.com/XHppCshR7n1cbR2_sOoxe33acoy1nNFbzUBQ8fjLKavfPfQTLKtyONq3TCLpLfjZ08XEPx5nVcOGEToXO7qMEA",
+    "est_revenue": 339262,
+    "est_revenue_fmt": "$339K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 458003700
+  },
+  {
     "rank": 48,
     "title": "Paranoize",
     "developer": "ZigZaGame Inc.",
@@ -666,10 +666,10 @@
     "app_id": "com.zigzagame.paranoize",
     "local_name": "Paranoize",
     "icon": "https://play-lh.googleusercontent.com/7LQtnB1OywAs4z9kyDT5NiAQtoE_TNMU6OdiPAm0znOARQB6lOlxZ7Dq9SQ8kdCvBAsDjGQKzhV2JMHHN2iuQ5g",
-    "est_revenue": 343015,
-    "est_revenue_fmt": "$343K",
+    "est_revenue": 339262,
+    "est_revenue_fmt": "$339K",
     "est_revenue_won": "",
-    "est_revenue_krw": 463070250
+    "est_revenue_krw": 458003700
   },
   {
     "rank": 49,
