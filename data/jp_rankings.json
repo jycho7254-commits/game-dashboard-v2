@@ -295,20 +295,6 @@
   },
   {
     "rank": 22,
-    "title": "LINE Pokopoko",
-    "developer": "LINE (LY Corporation)",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.linecorp.LGPKPK",
-    "local_name": "LINE Pokopoko",
-    "icon": "https://play-lh.googleusercontent.com/gmtJmLVwGjTuK9-5TLqyy1EMjrA7C9VvyJiSYU_LQSf8QGCzsfI7fIGRLM3HxEXd1ady8LV316h1Mjco8aX0",
-    "est_revenue": 1119670,
-    "est_revenue_fmt": "$1.1M",
-    "est_revenue_won": "23.8억",
-    "est_revenue_krw": 1511554500
-  },
-  {
-    "rank": 23,
     "title": "Gardenscapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -316,9 +302,23 @@
     "app_id": "com.playrix.gardenscapes",
     "local_name": "Gardenscapes",
     "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
+    "est_revenue": 1119670,
+    "est_revenue_fmt": "$1.1M",
+    "est_revenue_won": "40.0억",
+    "est_revenue_krw": 1511554500
+  },
+  {
+    "rank": 23,
+    "title": "LINE Pokopoko",
+    "developer": "LINE (LY Corporation)",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.linecorp.LGPKPK",
+    "local_name": "LINE Pokopoko",
+    "icon": "https://play-lh.googleusercontent.com/gmtJmLVwGjTuK9-5TLqyy1EMjrA7C9VvyJiSYU_LQSf8QGCzsfI7fIGRLM3HxEXd1ady8LV316h1Mjco8aX0",
     "est_revenue": 1042230,
     "est_revenue_fmt": "$1.0M",
-    "est_revenue_won": "40.0억",
+    "est_revenue_won": "23.8억",
     "est_revenue_krw": 1407010500
   },
   {
