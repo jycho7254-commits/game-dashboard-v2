@@ -256,7 +256,7 @@
     "title": "Kingshot",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
-    "rating": 3.6,
+    "rating": 3.5,
     "app_id": "com.run.tower.defense",
     "local_name": "Kingshot",
     "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
@@ -449,20 +449,6 @@
   },
   {
     "rank": 33,
-    "title": "Honkai: Star Rail",
-    "developer": "COGNOSPHERE PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.HoYoverse.hkrpgoversea",
-    "local_name": "崩壊:スターレイル",
-    "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
-    "est_revenue": 593722,
-    "est_revenue_fmt": "$594K",
-    "est_revenue_won": "34.0억",
-    "est_revenue_krw": 801524700
-  },
-  {
-    "rank": 34,
     "title": "Last Z: Survival Shooter",
     "developer": "Omnilojo Pte Ltd",
     "genre": "Game",
@@ -473,6 +459,20 @@
     "est_revenue": 593722,
     "est_revenue_fmt": "$594K",
     "est_revenue_won": "17.8억",
+    "est_revenue_krw": 801524700
+  },
+  {
+    "rank": 34,
+    "title": "Honkai: Star Rail",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "genre": "Game",
+    "rating": 3.8,
+    "app_id": "com.HoYoverse.hkrpgoversea",
+    "local_name": "崩壊:スターレイル",
+    "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
+    "est_revenue": 593722,
+    "est_revenue_fmt": "$594K",
+    "est_revenue_won": "34.0억",
     "est_revenue_krw": 801524700
   },
   {
