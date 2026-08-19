@@ -561,20 +561,6 @@
   },
   {
     "rank": 41,
-    "title": "Pmang Poker : Casino Royal",
-    "developer": "NEOWIZ corp",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.neowiz.games.poker",
-    "local_name": "피망 포커",
-    "icon": "https://play-lh.googleusercontent.com/MkI60z70bUF0YIi9loQzKm08WLinhruANPb6D7j1Gh1iPiLrfL1W-2ZQ0Q8ICCMdkFY0jDlTjx9_iZFVGOourg",
-    "est_revenue": 249102,
-    "est_revenue_fmt": "$249K",
-    "est_revenue_won": "7.5억",
-    "est_revenue_krw": 336287700
-  },
-  {
-    "rank": 42,
     "title": "Mystery Town: Merge Games",
     "developer": "Cedar Games Studio",
     "genre": "Game",
@@ -582,10 +568,24 @@
     "app_id": "com.cedargames.mysterytown",
     "local_name": "미스터리 타운",
     "icon": "https://play-lh.googleusercontent.com/uVjVMEJrhT-xRoUtKIUj8tOVSbCWw4IsRHaTDYICRNjQycUj6SucVpeoAPiNZWeJ5JuzIt_ZZRo1X1pW6XJFAQE",
-    "est_revenue": 213144,
-    "est_revenue_fmt": "$213K",
+    "est_revenue": 222881,
+    "est_revenue_fmt": "$223K",
     "est_revenue_won": "3.2억",
-    "est_revenue_krw": 287744400
+    "est_revenue_krw": 300889350
+  },
+  {
+    "rank": 42,
+    "title": "Pmang Poker : Casino Royal",
+    "developer": "NEOWIZ corp",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.neowiz.games.poker",
+    "local_name": "피망 포커",
+    "icon": "https://play-lh.googleusercontent.com/MkI60z70bUF0YIi9loQzKm08WLinhruANPb6D7j1Gh1iPiLrfL1W-2ZQ0Q8ICCMdkFY0jDlTjx9_iZFVGOourg",
+    "est_revenue": 222881,
+    "est_revenue_fmt": "$223K",
+    "est_revenue_won": "7.5억",
+    "est_revenue_krw": 300889350
   },
   {
     "rank": 43,
@@ -648,7 +648,7 @@
     "title": "라그나로크M: Classic",
     "developer": "GRAVITY Co., Ltd.",
     "genre": "Game",
-    "rating": 4.6,
+    "rating": 4.5,
     "app_id": "com.gravity.romkrzeny.aos",
     "local_name": "라그나로크M: Classic",
     "icon": "https://play-lh.googleusercontent.com/5SFBw-txEgmxfiD8J5DcHchCZFvLCo1jZsalnlDHYjv5nddS-8oLSRIwGHmqKF0NLaZJ9Gmbx6wEMGxlNtFe",
@@ -673,6 +673,20 @@
   },
   {
     "rank": 49,
+    "title": "Township",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.playrix.township",
+    "local_name": "Township",
+    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
+    "est_revenue": 159111,
+    "est_revenue_fmt": "$159K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 214799850
+  },
+  {
+    "rank": 50,
     "title": "뱀피르",
     "developer": "Netmarble",
     "genre": "Game",
@@ -680,23 +694,9 @@
     "app_id": "com.netmarble.thered",
     "local_name": "뱀피르",
     "icon": "https://play-lh.googleusercontent.com/O3AtBJqCPmOHow-d2tskDjwXGWpYpgz2bPEJC5s-FQ1BzmtxnFTQ4h6OTTJ74pyih8KBs78UsTk7w6PAHkbt",
-    "est_revenue": 187190,
-    "est_revenue_fmt": "$187K",
+    "est_revenue": 159111,
+    "est_revenue_fmt": "$159K",
     "est_revenue_won": "",
-    "est_revenue_krw": 252706500
-  },
-  {
-    "rank": 50,
-    "title": "Honkai: Star Rail",
-    "developer": "COGNOSPHERE PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.6,
-    "app_id": "com.HoYoverse.hkrpgoversea",
-    "local_name": "붕괴: 스타레일",
-    "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
-    "est_revenue": 187190,
-    "est_revenue_fmt": "$187K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 252706500
+    "est_revenue_krw": 214799850
   }
 ]
