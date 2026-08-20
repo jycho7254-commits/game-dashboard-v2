@@ -505,20 +505,6 @@
   },
   {
     "rank": 37,
-    "title": "Pokémon Sleep",
-    "developer": "The Pokémon Company",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "jp.pokemon.pokemonsleep",
-    "local_name": "Pokémon Sleep",
-    "icon": "https://play-lh.googleusercontent.com/tg-BeEJO7UDjvfxWXWJ1u-PMLa-45twu0YhJkZfQu-PEjRJU_2l9Sb9xMR3YBha3mtLzdzU-016ZpWN5IUwrFwU",
-    "est_revenue": 479536,
-    "est_revenue_fmt": "$480K",
-    "est_revenue_won": "12.4억",
-    "est_revenue_krw": 647373600
-  },
-  {
-    "rank": 38,
     "title": "Trickcal:Chibi Go",
     "developer": "BILIBILI",
     "genre": "Game",
@@ -529,6 +515,20 @@
     "est_revenue": 479536,
     "est_revenue_fmt": "$480K",
     "est_revenue_won": "",
+    "est_revenue_krw": 647373600
+  },
+  {
+    "rank": 38,
+    "title": "Pokémon Sleep",
+    "developer": "The Pokémon Company",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "jp.pokemon.pokemonsleep",
+    "local_name": "Pokémon Sleep",
+    "icon": "https://play-lh.googleusercontent.com/tg-BeEJO7UDjvfxWXWJ1u-PMLa-45twu0YhJkZfQu-PEjRJU_2l9Sb9xMR3YBha3mtLzdzU-016ZpWN5IUwrFwU",
+    "est_revenue": 479536,
+    "est_revenue_fmt": "$480K",
+    "est_revenue_won": "12.4억",
     "est_revenue_krw": 647373600
   },
   {
