@@ -71,20 +71,6 @@
   },
   {
     "rank": 6,
-    "title": "Whiteout Survival",
-    "developer": "Century Games PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.3,
-    "app_id": "com.gof.global",
-    "local_name": "Whiteout Survival",
-    "icon": "https://play-lh.googleusercontent.com/tNMaMiJ4wTQy_TeZSWHdSlP5qH0PGig9g9sDJu2QFvCHdnrbo2u17pX55W4i6KITo56v_ZyICkqLgA2svH9ycQ",
-    "est_revenue": 9000000,
-    "est_revenue_fmt": "$9.0M",
-    "est_revenue_won": "186.9억",
-    "est_revenue_krw": 12150000000
-  },
-  {
-    "rank": 7,
     "title": "Puzzles & Survival",
     "developer": "37GAMES",
     "genre": "Game",
@@ -95,6 +81,20 @@
     "est_revenue": 9000000,
     "est_revenue_fmt": "$9.0M",
     "est_revenue_won": "110.6억",
+    "est_revenue_krw": 12150000000
+  },
+  {
+    "rank": 7,
+    "title": "Whiteout Survival",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 3.3,
+    "app_id": "com.gof.global",
+    "local_name": "Whiteout Survival",
+    "icon": "https://play-lh.googleusercontent.com/tNMaMiJ4wTQy_TeZSWHdSlP5qH0PGig9g9sDJu2QFvCHdnrbo2u17pX55W4i6KITo56v_ZyICkqLgA2svH9ycQ",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
+    "est_revenue_won": "186.9억",
     "est_revenue_krw": 12150000000
   },
   {
@@ -231,7 +231,7 @@
     "rating": 4.5,
     "app_id": "jp.konami.pesam",
     "local_name": "eFootball",
-    "icon": "https://play-lh.googleusercontent.com/G3_yBuB5EeVDuwcKhMIpdR55ebmyNszkzHnmEZxRqmihVHQ0dcTbNm4BV6NjFMLNZud_qy2Cc3qQbbRnawMpKg",
+    "icon": "https://play-lh.googleusercontent.com/jn-jaGEFUPiu0dBP9O6PjiRk-BCwFFLm0RdeOjLH-qLYjhHJlzNBMgl3Sah24htajj67_fdve-DzGsqmMUx1tqQ",
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "67.6억",
@@ -253,6 +253,20 @@
   },
   {
     "rank": 19,
+    "title": "Pokémon GO",
+    "developer": "Scopely Explore, Inc.",
+    "genre": "Game",
+    "rating": 3.5,
+    "app_id": "com.nianticlabs.pokemongo",
+    "local_name": "Pokémon GO",
+    "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
+    "est_revenue": 1528918,
+    "est_revenue_fmt": "$1.5M",
+    "est_revenue_won": "25.0억",
+    "est_revenue_krw": 2064039300
+  },
+  {
+    "rank": 20,
     "title": "Zenless Zone Zero - Anniv.",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -266,7 +280,7 @@
     "est_revenue_krw": 2064039300
   },
   {
-    "rank": 20,
+    "rank": 21,
     "title": "Pokémon TCG Pocket",
     "developer": "The Pokémon Company",
     "genre": "Game",
@@ -274,23 +288,9 @@
     "app_id": "jp.pokemon.pokemontcgp",
     "local_name": "Pokémon TCG Pocket",
     "icon": "https://play-lh.googleusercontent.com/qdEdyVc19jfittS0bnDUnXLRM7jOPZzfHXEYoChPWOtzMrtwU6t3ZVm_FQ7wbeDYFlqLBuWCDK0Q6c1nEwYKTA",
-    "est_revenue": 1528918,
-    "est_revenue_fmt": "$1.5M",
-    "est_revenue_won": "20.9억",
-    "est_revenue_krw": 2064039300
-  },
-  {
-    "rank": 21,
-    "title": "Pokémon GO",
-    "developer": "Scopely Explore, Inc.",
-    "genre": "Game",
-    "rating": 3.5,
-    "app_id": "com.nianticlabs.pokemongo",
-    "local_name": "Pokémon GO",
-    "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
     "est_revenue": 1418394,
     "est_revenue_fmt": "$1.4M",
-    "est_revenue_won": "25.0억",
+    "est_revenue_won": "20.9억",
     "est_revenue_krw": 1914831900
   },
   {
@@ -463,48 +463,6 @@
   },
   {
     "rank": 34,
-    "title": "MementoMori: AFKRPG",
-    "developer": "Bank of Innovation, Inc.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "jp.boi.mementomori.android",
-    "local_name": "MementoMori: AFKRPG",
-    "icon": "https://play-lh.googleusercontent.com/HG9W8SRyTeeLPFrrS17a06d5ANgakJbHomr73o3l6I23YAiIFL399Y1_Q-2FDBO_zxqETTkphFhE-uTeuD2nH6w",
-    "est_revenue": 665522,
-    "est_revenue_fmt": "$666K",
-    "est_revenue_won": "14.9억",
-    "est_revenue_krw": 898454700
-  },
-  {
-    "rank": 35,
-    "title": "Royal Kingdom",
-    "developer": "Dream Games, Ltd.",
-    "genre": "Game",
-    "rating": 4.1,
-    "app_id": "com.dreamgames.royalkingdom",
-    "local_name": "Royal Kingdom",
-    "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
-    "est_revenue": 504982,
-    "est_revenue_fmt": "$505K",
-    "est_revenue_won": "22.8억",
-    "est_revenue_krw": 681725700
-  },
-  {
-    "rank": 36,
-    "title": "グランブルーファンタジー",
-    "developer": "mobage",
-    "genre": "Game",
-    "rating": 3.9,
-    "app_id": "jp.mbga.a12016007.lite",
-    "local_name": "グランブルーファンタジー",
-    "icon": "https://play-lh.googleusercontent.com/kezieGaFO7Jl78eSwpJORGTrNGWGt1_2RHtVLtd8SrJ7QBFBnpLYQ-MmV5pUVD2JBcpuW3nqYt4Dc5wXHlWpgR8",
-    "est_revenue": 504982,
-    "est_revenue_fmt": "$505K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 681725700
-  },
-  {
-    "rank": 37,
     "title": "Pokémon Sleep",
     "developer": "The Pokémon Company",
     "genre": "Game",
@@ -512,10 +470,52 @@
     "app_id": "jp.pokemon.pokemonsleep",
     "local_name": "Pokémon Sleep",
     "icon": "https://play-lh.googleusercontent.com/tg-BeEJO7UDjvfxWXWJ1u-PMLa-45twu0YhJkZfQu-PEjRJU_2l9Sb9xMR3YBha3mtLzdzU-016ZpWN5IUwrFwU",
-    "est_revenue": 504982,
-    "est_revenue_fmt": "$505K",
+    "est_revenue": 626306,
+    "est_revenue_fmt": "$626K",
     "est_revenue_won": "12.4억",
-    "est_revenue_krw": 681725700
+    "est_revenue_krw": 845513100
+  },
+  {
+    "rank": 35,
+    "title": "MementoMori: AFKRPG",
+    "developer": "Bank of Innovation, Inc.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "jp.boi.mementomori.android",
+    "local_name": "MementoMori: AFKRPG",
+    "icon": "https://play-lh.googleusercontent.com/HG9W8SRyTeeLPFrrS17a06d5ANgakJbHomr73o3l6I23YAiIFL399Y1_Q-2FDBO_zxqETTkphFhE-uTeuD2nH6w",
+    "est_revenue": 626306,
+    "est_revenue_fmt": "$626K",
+    "est_revenue_won": "14.9억",
+    "est_revenue_krw": 845513100
+  },
+  {
+    "rank": 36,
+    "title": "Royal Kingdom",
+    "developer": "Dream Games, Ltd.",
+    "genre": "Game",
+    "rating": 4.1,
+    "app_id": "com.dreamgames.royalkingdom",
+    "local_name": "Royal Kingdom",
+    "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
+    "est_revenue": 479536,
+    "est_revenue_fmt": "$480K",
+    "est_revenue_won": "22.8억",
+    "est_revenue_krw": 647373600
+  },
+  {
+    "rank": 37,
+    "title": "グランブルーファンタジー",
+    "developer": "mobage",
+    "genre": "Game",
+    "rating": 3.9,
+    "app_id": "jp.mbga.a12016007.lite",
+    "local_name": "グランブルーファンタジー",
+    "icon": "https://play-lh.googleusercontent.com/kezieGaFO7Jl78eSwpJORGTrNGWGt1_2RHtVLtd8SrJ7QBFBnpLYQ-MmV5pUVD2JBcpuW3nqYt4Dc5wXHlWpgR8",
+    "est_revenue": 479536,
+    "est_revenue_fmt": "$480K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 647373600
   },
   {
     "rank": 38,
@@ -526,10 +526,10 @@
     "app_id": "com.bilibili.trickcal",
     "local_name": "Trickcal:Chibi Go",
     "icon": "https://play-lh.googleusercontent.com/lwMgjeWGUepED3XVqPk4AXrkJwm4Mo7LvvGggHV_HXF9-INHiXCrD0fUVZl6IKwa4QhQUHDKnJ6uwUYPgG9LXg",
-    "est_revenue": 504982,
-    "est_revenue_fmt": "$505K",
+    "est_revenue": 479536,
+    "est_revenue_fmt": "$480K",
     "est_revenue_won": "",
-    "est_revenue_krw": 681725700
+    "est_revenue_krw": 647373600
   },
   {
     "rank": 39,
@@ -540,10 +540,10 @@
     "app_id": "jp.konami.prospia",
     "local_name": "プロ野球スピリッツA",
     "icon": "https://play-lh.googleusercontent.com/F0IB7v9CufHt5hKPRfXC9WS7tOUunAuCD3_JtdMJTtlhkG93qwmNCg6Cbcbf10aipCZZ3rv82QA-6REtVaVLHD8",
-    "est_revenue": 486052,
-    "est_revenue_fmt": "$486K",
+    "est_revenue": 479536,
+    "est_revenue_fmt": "$480K",
     "est_revenue_won": "51.2억",
-    "est_revenue_krw": 656170200
+    "est_revenue_krw": 647373600
   },
   {
     "rank": 40,
