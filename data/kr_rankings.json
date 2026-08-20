@@ -281,20 +281,6 @@
   },
   {
     "rank": 21,
-    "title": "Seaside Escape®: Merge & Story",
-    "developer": "Microfun Limited",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.gamedots.seasideescape",
-    "local_name": "시사이드 이스케이프",
-    "icon": "https://play-lh.googleusercontent.com/k6h9_TspVCG4TIgvxox3eWp5Cwd04v6cL7msueboI5IUPGLPnhh8RHIZtiamoLJK75Mk6yo4awXd4XVW99XO8Q",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "11.3억",
-    "est_revenue_krw": 2430000000
-  },
-  {
-    "rank": 22,
     "title": "Tasty Travels: Merge Game",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -305,6 +291,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "13.9억",
+    "est_revenue_krw": 2430000000
+  },
+  {
+    "rank": 22,
+    "title": "Seaside Escape®: Merge & Story",
+    "developer": "Microfun Limited",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.gamedots.seasideescape",
+    "local_name": "시사이드 이스케이프",
+    "icon": "https://play-lh.googleusercontent.com/k6h9_TspVCG4TIgvxox3eWp5Cwd04v6cL7msueboI5IUPGLPnhh8RHIZtiamoLJK75Mk6yo4awXd4XVW99XO8Q",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "11.3억",
     "est_revenue_krw": 2430000000
   },
   {
@@ -631,6 +631,20 @@
   },
   {
     "rank": 46,
+    "title": "Coop TD: Together",
+    "developer": "Supermagic",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.percent.aos.cooptd",
+    "local_name": "쿱 TD: 투게더",
+    "icon": "https://play-lh.googleusercontent.com/vTxEJvWJq3cIbideJTNd9ZAYolS4ll7hUlMT3piDAsP6y84EPI-k1tPpoALoCwvmbJMn3LBW-sjzhHpERqfY",
+    "est_revenue": 187267,
+    "est_revenue_fmt": "$187K",
+    "est_revenue_won": "4.2억",
+    "est_revenue_krw": 252810450
+  },
+  {
+    "rank": 47,
     "title": "Legend of Avatar",
     "developer": "BillionaireGames",
     "genre": "Game",
@@ -644,7 +658,7 @@
     "est_revenue_krw": 252810450
   },
   {
-    "rank": 47,
+    "rank": 48,
     "title": "Heartopia",
     "developer": "XD Entertainment Co., Ltd.",
     "genre": "Game",
@@ -658,7 +672,7 @@
     "est_revenue_krw": 252810450
   },
   {
-    "rank": 48,
+    "rank": 49,
     "title": "RF ONLINE NEXT",
     "developer": "Netmarble",
     "genre": "Game",
@@ -666,23 +680,9 @@
     "app_id": "com.netmarble.rfnext",
     "local_name": "RF ONLINE NEXT",
     "icon": "https://play-lh.googleusercontent.com/IkNZqliSHoIRoWo-SFO0b8pzt53n1Epi-Tf9p8LbwczkafXbMcuQTpmgpdU-DIKeamrQoyqgRQTars9qnpe0Gg",
-    "est_revenue": 187267,
-    "est_revenue_fmt": "$187K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 252810450
-  },
-  {
-    "rank": 49,
-    "title": "Coop TD: Together",
-    "developer": "Supermagic",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.percent.aos.cooptd",
-    "local_name": "쿱 TD: 투게더",
-    "icon": "https://play-lh.googleusercontent.com/vTxEJvWJq3cIbideJTNd9ZAYolS4ll7hUlMT3piDAsP6y84EPI-k1tPpoALoCwvmbJMn3LBW-sjzhHpERqfY",
     "est_revenue": 187190,
     "est_revenue_fmt": "$187K",
-    "est_revenue_won": "4.2억",
+    "est_revenue_won": "",
     "est_revenue_krw": 252706500
   },
   {
