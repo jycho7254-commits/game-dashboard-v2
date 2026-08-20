@@ -85,20 +85,6 @@
   },
   {
     "rank": 7,
-    "title": "Gossip Harbor®: Merge & Story",
-    "developer": "Microfun Limited",
-    "genre": "Game",
-    "rating": 3.7,
-    "app_id": "com.mergegames.gossipharbor",
-    "local_name": "Gossip Harbor",
-    "icon": "https://play-lh.googleusercontent.com/HLRg8oInVYJV8Uebxlh1dTH4j7OTBMIWOPZY7A7ryW9UB8K4i7HCOqkGfSLORsK-XzqhnJcJM0mjObVKZYL8zA",
-    "est_revenue": 9000000,
-    "est_revenue_fmt": "$9.0M",
-    "est_revenue_won": "88.0억",
-    "est_revenue_krw": 12150000000
-  },
-  {
-    "rank": 8,
     "title": "Puzzles & Survival",
     "developer": "37GAMES",
     "genre": "Game",
@@ -112,21 +98,7 @@
     "est_revenue_krw": 12150000000
   },
   {
-    "rank": 9,
-    "title": "SDガンダム ジージェネレーション エターナル",
-    "developer": "Bandai Namco Entertainment Inc.",
-    "genre": "Game",
-    "rating": 4,
-    "app_id": "com.bandainamcoent.gget_JP",
-    "local_name": "SDガンダム ジージェネレーション エターナル",
-    "icon": "https://play-lh.googleusercontent.com/WI-nOxNBdI82iuMwMpFjVWkTxs4Bh3dVmAQL8xwJ-U9120sfcbXLJWnn3X5IpBtdG8wzph-sobJyM0P484APwDA",
-    "est_revenue": 9000000,
-    "est_revenue_fmt": "$9.0M",
-    "est_revenue_won": "17.1억",
-    "est_revenue_krw": 12150000000
-  },
-  {
-    "rank": 10,
+    "rank": 8,
     "title": "GODDESS OF VICTORY: NIKKE",
     "developer": "Level Infinite",
     "genre": "Game",
@@ -137,6 +109,34 @@
     "est_revenue": 9000000,
     "est_revenue_fmt": "$9.0M",
     "est_revenue_won": "28.2억",
+    "est_revenue_krw": 12150000000
+  },
+  {
+    "rank": 9,
+    "title": "Gossip Harbor®: Merge & Story",
+    "developer": "Microfun Limited",
+    "genre": "Game",
+    "rating": 3.7,
+    "app_id": "com.mergegames.gossipharbor",
+    "local_name": "Gossip Harbor",
+    "icon": "https://play-lh.googleusercontent.com/HLRg8oInVYJV8Uebxlh1dTH4j7OTBMIWOPZY7A7ryW9UB8K4i7HCOqkGfSLORsK-XzqhnJcJM0mjObVKZYL8zA",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
+    "est_revenue_won": "88.0억",
+    "est_revenue_krw": 12150000000
+  },
+  {
+    "rank": 10,
+    "title": "SDガンダム ジージェネレーション エターナル",
+    "developer": "Bandai Namco Entertainment Inc.",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "com.bandainamcoent.gget_JP",
+    "local_name": "SDガンダム ジージェネレーション エターナル",
+    "icon": "https://play-lh.googleusercontent.com/WI-nOxNBdI82iuMwMpFjVWkTxs4Bh3dVmAQL8xwJ-U9120sfcbXLJWnn3X5IpBtdG8wzph-sobJyM0P484APwDA",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
+    "est_revenue_won": "17.1억",
     "est_revenue_krw": 12150000000
   },
   {
@@ -477,20 +477,6 @@
   },
   {
     "rank": 35,
-    "title": "グランブルーファンタジー",
-    "developer": "mobage",
-    "genre": "Game",
-    "rating": 3.9,
-    "app_id": "jp.mbga.a12016007.lite",
-    "local_name": "グランブルーファンタジー",
-    "icon": "https://play-lh.googleusercontent.com/kezieGaFO7Jl78eSwpJORGTrNGWGt1_2RHtVLtd8SrJ7QBFBnpLYQ-MmV5pUVD2JBcpuW3nqYt4Dc5wXHlWpgR8",
-    "est_revenue": 594096,
-    "est_revenue_fmt": "$594K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 802029600
-  },
-  {
-    "rank": 36,
     "title": "Royal Kingdom",
     "developer": "Dream Games, Ltd.",
     "genre": "Game",
@@ -498,10 +484,24 @@
     "app_id": "com.dreamgames.royalkingdom",
     "local_name": "Royal Kingdom",
     "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
-    "est_revenue": 479536,
-    "est_revenue_fmt": "$480K",
+    "est_revenue": 504982,
+    "est_revenue_fmt": "$505K",
     "est_revenue_won": "22.8억",
-    "est_revenue_krw": 647373600
+    "est_revenue_krw": 681725700
+  },
+  {
+    "rank": 36,
+    "title": "グランブルーファンタジー",
+    "developer": "mobage",
+    "genre": "Game",
+    "rating": 3.9,
+    "app_id": "jp.mbga.a12016007.lite",
+    "local_name": "グランブルーファンタジー",
+    "icon": "https://play-lh.googleusercontent.com/kezieGaFO7Jl78eSwpJORGTrNGWGt1_2RHtVLtd8SrJ7QBFBnpLYQ-MmV5pUVD2JBcpuW3nqYt4Dc5wXHlWpgR8",
+    "est_revenue": 504982,
+    "est_revenue_fmt": "$505K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 681725700
   },
   {
     "rank": 37,
@@ -512,10 +512,10 @@
     "app_id": "com.bilibili.trickcal",
     "local_name": "Trickcal:Chibi Go",
     "icon": "https://play-lh.googleusercontent.com/lwMgjeWGUepED3XVqPk4AXrkJwm4Mo7LvvGggHV_HXF9-INHiXCrD0fUVZl6IKwa4QhQUHDKnJ6uwUYPgG9LXg",
-    "est_revenue": 479536,
-    "est_revenue_fmt": "$480K",
+    "est_revenue": 504982,
+    "est_revenue_fmt": "$505K",
     "est_revenue_won": "",
-    "est_revenue_krw": 647373600
+    "est_revenue_krw": 681725700
   },
   {
     "rank": 38,
@@ -526,10 +526,10 @@
     "app_id": "jp.pokemon.pokemonsleep",
     "local_name": "Pokémon Sleep",
     "icon": "https://play-lh.googleusercontent.com/tg-BeEJO7UDjvfxWXWJ1u-PMLa-45twu0YhJkZfQu-PEjRJU_2l9Sb9xMR3YBha3mtLzdzU-016ZpWN5IUwrFwU",
-    "est_revenue": 479536,
-    "est_revenue_fmt": "$480K",
+    "est_revenue": 504982,
+    "est_revenue_fmt": "$505K",
     "est_revenue_won": "12.4억",
-    "est_revenue_krw": 647373600
+    "est_revenue_krw": 681725700
   },
   {
     "rank": 39,
@@ -540,27 +540,13 @@
     "app_id": "jp.konami.prospia",
     "local_name": "プロ野球スピリッツA",
     "icon": "https://play-lh.googleusercontent.com/F0IB7v9CufHt5hKPRfXC9WS7tOUunAuCD3_JtdMJTtlhkG93qwmNCg6Cbcbf10aipCZZ3rv82QA-6REtVaVLHD8",
-    "est_revenue": 479536,
-    "est_revenue_fmt": "$480K",
+    "est_revenue": 486052,
+    "est_revenue_fmt": "$486K",
     "est_revenue_won": "51.2억",
-    "est_revenue_krw": 647373600
+    "est_revenue_krw": 656170200
   },
   {
     "rank": 40,
-    "title": "雀魂‐じゃんたま‐",
-    "developer": "Yostar, Inc.",
-    "genre": "Game",
-    "rating": 3.9,
-    "app_id": "com.YoStarJP.MajSoul",
-    "local_name": "雀魂‐じゃんたま‐",
-    "icon": "https://play-lh.googleusercontent.com/ZIvFCENZGRDrWUa0hird_ekjoKv31aOQ-LcxfSjBddJxsfjdYZy9T-7Ncd-dYc9NzcNizbHp257Oz4tLNQrbrw",
-    "est_revenue": 463371,
-    "est_revenue_fmt": "$463K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 625550850
-  },
-  {
-    "rank": 41,
     "title": "刀剣乱舞ONLINE",
     "developer": "DMMGAMES",
     "genre": "Game",
@@ -568,6 +554,20 @@
     "app_id": "com.dmm.games.touken",
     "local_name": "刀剣乱舞ONLINE",
     "icon": "https://play-lh.googleusercontent.com/bl0CW3GHTGUKiIo91W7bwz_mfFLeKfGYEBkPV4_BWCUaBgWa7aiZhqFyfheGODr_WFVOARgYyEL4nw29yEIZ",
+    "est_revenue": 463371,
+    "est_revenue_fmt": "$463K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 625550850
+  },
+  {
+    "rank": 41,
+    "title": "雀魂‐じゃんたま‐",
+    "developer": "Yostar, Inc.",
+    "genre": "Game",
+    "rating": 3.9,
+    "app_id": "com.YoStarJP.MajSoul",
+    "local_name": "雀魂‐じゃんたま‐",
+    "icon": "https://play-lh.googleusercontent.com/ZIvFCENZGRDrWUa0hird_ekjoKv31aOQ-LcxfSjBddJxsfjdYZy9T-7Ncd-dYc9NzcNizbHp257Oz4tLNQrbrw",
     "est_revenue": 442136,
     "est_revenue_fmt": "$442K",
     "est_revenue_won": "",
