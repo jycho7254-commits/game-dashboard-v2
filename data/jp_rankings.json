@@ -99,20 +99,6 @@
   },
   {
     "rank": 8,
-    "title": "Gossip Harbor®: Merge & Story",
-    "developer": "Microfun Limited",
-    "genre": "Game",
-    "rating": 3.7,
-    "app_id": "com.mergegames.gossipharbor",
-    "local_name": "Gossip Harbor",
-    "icon": "https://play-lh.googleusercontent.com/HLRg8oInVYJV8Uebxlh1dTH4j7OTBMIWOPZY7A7ryW9UB8K4i7HCOqkGfSLORsK-XzqhnJcJM0mjObVKZYL8zA",
-    "est_revenue": 9000000,
-    "est_revenue_fmt": "$9.0M",
-    "est_revenue_won": "88.0억",
-    "est_revenue_krw": 12150000000
-  },
-  {
-    "rank": 9,
     "title": "Puzzles & Survival",
     "developer": "37GAMES",
     "genre": "Game",
@@ -123,6 +109,20 @@
     "est_revenue": 9000000,
     "est_revenue_fmt": "$9.0M",
     "est_revenue_won": "110.6억",
+    "est_revenue_krw": 12150000000
+  },
+  {
+    "rank": 9,
+    "title": "Gossip Harbor®: Merge & Story",
+    "developer": "Microfun Limited",
+    "genre": "Game",
+    "rating": 3.7,
+    "app_id": "com.mergegames.gossipharbor",
+    "local_name": "Gossip Harbor",
+    "icon": "https://play-lh.googleusercontent.com/HLRg8oInVYJV8Uebxlh1dTH4j7OTBMIWOPZY7A7ryW9UB8K4i7HCOqkGfSLORsK-XzqhnJcJM0mjObVKZYL8zA",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
+    "est_revenue_won": "88.0억",
     "est_revenue_krw": 12150000000
   },
   {
@@ -232,10 +232,10 @@
     "app_id": "com.bandainamcoent.gget_JP",
     "local_name": "SDガンダム ジージェネレーション エターナル",
     "icon": "https://play-lh.googleusercontent.com/WI-nOxNBdI82iuMwMpFjVWkTxs4Bh3dVmAQL8xwJ-U9120sfcbXLJWnn3X5IpBtdG8wzph-sobJyM0P484APwDA",
-    "est_revenue": 8274197,
-    "est_revenue_fmt": "$8.3M",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
     "est_revenue_won": "17.1억",
-    "est_revenue_krw": 11170165950
+    "est_revenue_krw": 12150000000
   },
   {
     "rank": 18,
@@ -246,13 +246,27 @@
     "app_id": "com.nianticlabs.pokemongo",
     "local_name": "Pokémon GO",
     "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
-    "est_revenue": 7014537,
-    "est_revenue_fmt": "$7.0M",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
     "est_revenue_won": "25.0억",
-    "est_revenue_krw": 9469624950
+    "est_revenue_krw": 12150000000
   },
   {
     "rank": 19,
+    "title": "ウマ娘 プリティーダービー",
+    "developer": "Cygames, Inc.",
+    "genre": "Game",
+    "rating": 3.6,
+    "app_id": "jp.co.cygames.umamusume",
+    "local_name": "ウマ娘 プリティーダービー",
+    "icon": "https://play-lh.googleusercontent.com/bww9X1CiJudBPk1Bld11v61SPbS5UQhus43qHiDhapvfW5ahkfH3lgUNdjCx45yu_3Ft-OhT26SvWu2r01uu",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
+    "est_revenue_won": "15.4억",
+    "est_revenue_krw": 12150000000
+  },
+  {
+    "rank": 20,
     "title": "eFootball™",
     "developer": "KONAMI",
     "genre": "Game",
@@ -263,20 +277,6 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "67.6억",
-    "est_revenue_krw": 8100000000
-  },
-  {
-    "rank": 20,
-    "title": "ウマ娘 プリティーダービー",
-    "developer": "Cygames, Inc.",
-    "genre": "Game",
-    "rating": 3.6,
-    "app_id": "jp.co.cygames.umamusume",
-    "local_name": "ウマ娘 プリティーダービー",
-    "icon": "https://play-lh.googleusercontent.com/bww9X1CiJudBPk1Bld11v61SPbS5UQhus43qHiDhapvfW5ahkfH3lgUNdjCx45yu_3Ft-OhT26SvWu2r01uu",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "15.4억",
     "est_revenue_krw": 8100000000
   },
   {
@@ -505,6 +505,20 @@
   },
   {
     "rank": 37,
+    "title": "ONE PIECE バウンティラッシュ - アクションゲーム",
+    "developer": "Bandai Namco Entertainment Inc.",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.bandainamcoent.opbrjp",
+    "local_name": "ONE PIECE バウンティラッシュ - アクションゲーム",
+    "icon": "https://play-lh.googleusercontent.com/B1mHaeo7VRgCohe_DV1XCOS2mtvoujEinoZoqRDW2GbvWvxooS55LycfHlBs8p1bsx9C8YUfPk-RKEaNeF1cu58",
+    "est_revenue": 504982,
+    "est_revenue_fmt": "$505K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 681725700
+  },
+  {
+    "rank": 38,
     "title": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
     "developer": "SEGA CORPORATION",
     "genre": "Game",
@@ -518,7 +532,7 @@
     "est_revenue_krw": 681725700
   },
   {
-    "rank": 38,
+    "rank": 39,
     "title": "妖怪ウォッチ ぷにぷに",
     "developer": "LEVEL-5 Inc.",
     "genre": "Game",
@@ -526,20 +540,6 @@
     "app_id": "com.Level5.YWP",
     "local_name": "妖怪ウォッチ ぷにぷに",
     "icon": "https://play-lh.googleusercontent.com/XmiUFeMM8tlNrt-X9pHvGecRj40nPM-jPswgT6zr4H9-ZqEFz5TCH3DLVp2yYj8aBYTPP5vvaUTpBMcV3aJDmf4",
-    "est_revenue": 504982,
-    "est_revenue_fmt": "$505K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 681725700
-  },
-  {
-    "rank": 39,
-    "title": "刀剣乱舞ONLINE",
-    "developer": "DMMGAMES",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.dmm.games.touken",
-    "local_name": "刀剣乱舞ONLINE",
-    "icon": "https://play-lh.googleusercontent.com/bl0CW3GHTGUKiIo91W7bwz_mfFLeKfGYEBkPV4_BWCUaBgWa7aiZhqFyfheGODr_WFVOARgYyEL4nw29yEIZ",
     "est_revenue": 486052,
     "est_revenue_fmt": "$486K",
     "est_revenue_won": "",
@@ -547,13 +547,13 @@
   },
   {
     "rank": 40,
-    "title": "ONE PIECE バウンティラッシュ - アクションゲーム",
-    "developer": "Bandai Namco Entertainment Inc.",
+    "title": "刀剣乱舞ONLINE",
+    "developer": "DMMGAMES",
     "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.bandainamcoent.opbrjp",
-    "local_name": "ONE PIECE バウンティラッシュ - アクションゲーム",
-    "icon": "https://play-lh.googleusercontent.com/B1mHaeo7VRgCohe_DV1XCOS2mtvoujEinoZoqRDW2GbvWvxooS55LycfHlBs8p1bsx9C8YUfPk-RKEaNeF1cu58",
+    "rating": 4.3,
+    "app_id": "com.dmm.games.touken",
+    "local_name": "刀剣乱舞ONLINE",
+    "icon": "https://play-lh.googleusercontent.com/bl0CW3GHTGUKiIo91W7bwz_mfFLeKfGYEBkPV4_BWCUaBgWa7aiZhqFyfheGODr_WFVOARgYyEL4nw29yEIZ",
     "est_revenue": 463371,
     "est_revenue_fmt": "$463K",
     "est_revenue_won": "",
