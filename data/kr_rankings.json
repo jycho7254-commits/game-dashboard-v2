@@ -92,27 +92,13 @@
     "app_id": "com.roblox.client",
     "local_name": "로블록스",
     "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
-    "est_revenue": 2860290,
-    "est_revenue_fmt": "$2.9M",
+    "est_revenue": 2546235,
+    "est_revenue_fmt": "$2.5M",
     "est_revenue_won": "41.6억",
-    "est_revenue_krw": 3861391500
+    "est_revenue_krw": 3437417250
   },
   {
     "rank": 8,
-    "title": "Wuthering Waves",
-    "developer": "HK KURO GAMES LIMITED",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.kurogame.wutheringwaves.global",
-    "local_name": "명조",
-    "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_",
-    "est_revenue": 2236347,
-    "est_revenue_fmt": "$2.2M",
-    "est_revenue_won": "17.3억",
-    "est_revenue_krw": 3019068450
-  },
-  {
-    "rank": 9,
     "title": "Royal Match",
     "developer": "Dream Games, Ltd.",
     "genre": "Game",
@@ -123,6 +109,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "38.0억",
+    "est_revenue_krw": 2430000000
+  },
+  {
+    "rank": 9,
+    "title": "Wuthering Waves",
+    "developer": "HK KURO GAMES LIMITED",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.kurogame.wutheringwaves.global",
+    "local_name": "명조",
+    "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "17.3억",
     "est_revenue_krw": 2430000000
   },
   {
@@ -351,20 +351,6 @@
   },
   {
     "rank": 26,
-    "title": "Last Asylum: Plague",
-    "developer": "37GAMES GLOBAL",
-    "genre": "Game",
-    "rating": 4.9,
-    "app_id": "com.phs.global",
-    "local_name": "라스트 어사일럼",
-    "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "16.1억",
-    "est_revenue_krw": 2430000000
-  },
-  {
-    "rank": 27,
     "title": "Gardenscapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -375,6 +361,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "12.1억",
+    "est_revenue_krw": 2430000000
+  },
+  {
+    "rank": 27,
+    "title": "Last Asylum: Plague",
+    "developer": "37GAMES GLOBAL",
+    "genre": "Game",
+    "rating": 4.9,
+    "app_id": "com.phs.global",
+    "local_name": "라스트 어사일럼",
+    "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "16.1억",
     "est_revenue_krw": 2430000000
   },
   {
@@ -505,20 +505,6 @@
   },
   {
     "rank": 37,
-    "title": "Candy Crush Saga",
-    "developer": "King",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.king.candycrushsaga",
-    "local_name": "캔디크러쉬 사가",
-    "icon": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI",
-    "est_revenue": 268750,
-    "est_revenue_fmt": "$269K",
-    "est_revenue_won": "4.4억",
-    "est_revenue_krw": 362812500
-  },
-  {
-    "rank": 38,
     "title": "메이플스토리M",
     "developer": "NEXON Company",
     "genre": "Game",
@@ -526,10 +512,24 @@
     "app_id": "com.nexon.nsc.maplem",
     "local_name": "메이플스토리M",
     "icon": "https://play-lh.googleusercontent.com/PkBuxJo-df0nSHREeWdVPB4ucRTMiEcz__Ta94AgpDJVaPgvwhE91ua-y1sQtNf5EmHzOfgQ-EDOlAwBDP4j4w",
-    "est_revenue": 268750,
-    "est_revenue_fmt": "$269K",
+    "est_revenue": 349144,
+    "est_revenue_fmt": "$349K",
     "est_revenue_won": "10.0억",
-    "est_revenue_krw": 362812500
+    "est_revenue_krw": 471344400
+  },
+  {
+    "rank": 38,
+    "title": "Candy Crush Saga",
+    "developer": "King",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.king.candycrushsaga",
+    "local_name": "캔디크러쉬 사가",
+    "icon": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI",
+    "est_revenue": 256121,
+    "est_revenue_fmt": "$256K",
+    "est_revenue_won": "4.4억",
+    "est_revenue_krw": 345763350
   },
   {
     "rank": 39,
@@ -540,10 +540,10 @@
     "app_id": "com.smilegate.chaoszero.stove.google",
     "local_name": "Chaos Zero Nightmare",
     "icon": "https://play-lh.googleusercontent.com/rZ0kLPx7Y_zRavJ1TImLv3oj0HYRrye8K9wJOuegTIrfxaS2qyGu9tWJcXphO0ELMfj3BgOSG_BPKKVST6zDPg",
-    "est_revenue": 268750,
-    "est_revenue_fmt": "$269K",
+    "est_revenue": 256121,
+    "est_revenue_fmt": "$256K",
     "est_revenue_won": "",
-    "est_revenue_krw": 362812500
+    "est_revenue_krw": 345763350
   },
   {
     "rank": 40,
@@ -554,10 +554,10 @@
     "app_id": "com.supercell.brawlstars",
     "local_name": "브롤스타즈",
     "icon": "https://play-lh.googleusercontent.com/c0hXyphuxh-gpnhSJGZV1I0IpWbq9IdEc1pautS7SmHlXNBrCff7bMqK-u63pJdfP3KJoxamG7W1dRMKr7ZzWKs",
-    "est_revenue": 268750,
-    "est_revenue_fmt": "$269K",
+    "est_revenue": 256121,
+    "est_revenue_fmt": "$256K",
     "est_revenue_won": "10.6억",
-    "est_revenue_krw": 362812500
+    "est_revenue_krw": 345763350
   },
   {
     "rank": 41,
@@ -673,20 +673,6 @@
   },
   {
     "rank": 49,
-    "title": "Dark War Survival",
-    "developer": "Omnilojo Pte Ltd",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.readygo.dark.gp",
-    "local_name": "Dark War Survival",
-    "icon": "https://play-lh.googleusercontent.com/gaanbGpciRZh801jTahoaImwr96KtBp2Uuez12ww9sIxFQhqieIZgTjB_dGzhCaR1ccM9Eku11FxhOWgoxifwdc",
-    "est_revenue": 172392,
-    "est_revenue_fmt": "$172K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 232729200
-  },
-  {
-    "rank": 50,
     "title": "RF ONLINE NEXT",
     "developer": "Netmarble",
     "genre": "Game",
@@ -694,6 +680,20 @@
     "app_id": "com.netmarble.rfnext",
     "local_name": "RF ONLINE NEXT",
     "icon": "https://play-lh.googleusercontent.com/IkNZqliSHoIRoWo-SFO0b8pzt53n1Epi-Tf9p8LbwczkafXbMcuQTpmgpdU-DIKeamrQoyqgRQTars9qnpe0Gg",
+    "est_revenue": 172392,
+    "est_revenue_fmt": "$172K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 232729200
+  },
+  {
+    "rank": 50,
+    "title": "Dark War Survival",
+    "developer": "Omnilojo Pte Ltd",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.readygo.dark.gp",
+    "local_name": "Dark War Survival",
+    "icon": "https://play-lh.googleusercontent.com/gaanbGpciRZh801jTahoaImwr96KtBp2Uuez12ww9sIxFQhqieIZgTjB_dGzhCaR1ccM9Eku11FxhOWgoxifwdc",
     "est_revenue": 172392,
     "est_revenue_fmt": "$172K",
     "est_revenue_won": "",
