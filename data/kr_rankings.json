@@ -295,20 +295,6 @@
   },
   {
     "rank": 22,
-    "title": "한게임포커 클래식 : 7포커 홀덤 섯다 훌라 슬롯",
-    "developer": "NHN Corp.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.nhnent.pokerclassic",
-    "local_name": "한게임 포커 클래식",
-    "icon": "https://play-lh.googleusercontent.com/Hv-D0Heegr2EW_eyGcfNv-HzI_WRrjxMqnN575pY17XaRfXA4wjmAtTwWsO_ON6WqVtTP0ajH2bKKRDx6CNXhQ",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "25.9억",
-    "est_revenue_krw": 2430000000
-  },
-  {
-    "rank": 23,
     "title": "Tasty Travels: Merge Game",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -322,7 +308,7 @@
     "est_revenue_krw": 2430000000
   },
   {
-    "rank": 24,
+    "rank": 23,
     "title": "Seaside Escape®: Merge & Story",
     "developer": "Microfun Limited",
     "genre": "Game",
@@ -333,6 +319,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "11.3억",
+    "est_revenue_krw": 2430000000
+  },
+  {
+    "rank": 24,
+    "title": "한게임포커 클래식 : 7포커 홀덤 섯다 훌라 슬롯",
+    "developer": "NHN Corp.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.nhnent.pokerclassic",
+    "local_name": "한게임 포커 클래식",
+    "icon": "https://play-lh.googleusercontent.com/Hv-D0Heegr2EW_eyGcfNv-HzI_WRrjxMqnN575pY17XaRfXA4wjmAtTwWsO_ON6WqVtTP0ajH2bKKRDx6CNXhQ",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "25.9억",
     "est_revenue_krw": 2430000000
   },
   {
@@ -617,20 +617,6 @@
   },
   {
     "rank": 45,
-    "title": "RF ONLINE NEXT",
-    "developer": "Netmarble",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.netmarble.rfnext",
-    "local_name": "RF ONLINE NEXT",
-    "icon": "https://play-lh.googleusercontent.com/IkNZqliSHoIRoWo-SFO0b8pzt53n1Epi-Tf9p8LbwczkafXbMcuQTpmgpdU-DIKeamrQoyqgRQTars9qnpe0Gg",
-    "est_revenue": 203992,
-    "est_revenue_fmt": "$204K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 275389200
-  },
-  {
-    "rank": 46,
     "title": "Dark War Survival",
     "developer": "Omnilojo Pte Ltd",
     "genre": "Game",
@@ -644,7 +630,7 @@
     "est_revenue_krw": 275389200
   },
   {
-    "rank": 47,
+    "rank": 46,
     "title": "Flambé®: Merge & Cook",
     "developer": "Microfun Limited",
     "genre": "Game",
@@ -652,13 +638,13 @@
     "app_id": "com.cola.game",
     "local_name": "플람베",
     "icon": "https://play-lh.googleusercontent.com/DxEYTS_nNDbesjgAGulDTgl8V2cV42UUmeOGPei2c95XRW7GY_XgihSsaPF7rnRua18Egkd1-siIgbkVjq73Hg",
-    "est_revenue": 172392,
-    "est_revenue_fmt": "$172K",
+    "est_revenue": 179615,
+    "est_revenue_fmt": "$180K",
     "est_revenue_won": "",
-    "est_revenue_krw": 232729200
+    "est_revenue_krw": 242480250
   },
   {
-    "rank": 48,
+    "rank": 47,
     "title": "League of Legends: Wild Rift",
     "developer": "Riot Games, Inc",
     "genre": "Game",
@@ -666,10 +652,24 @@
     "app_id": "com.riotgames.league.wildrift",
     "local_name": "리그 오브 레전드: 와일드 리프트",
     "icon": "https://play-lh.googleusercontent.com/7-kbcpgrCOE1mleJ9g0d61sJeoqKcQRIj4iFvJ8DjPlRIfocOWfOQsXzKWw2I5oHySVdbjR2fvzfCCz1FYQ-RQ",
-    "est_revenue": 172392,
-    "est_revenue_fmt": "$172K",
+    "est_revenue": 179615,
+    "est_revenue_fmt": "$180K",
     "est_revenue_won": "",
-    "est_revenue_krw": 232729200
+    "est_revenue_krw": 242480250
+  },
+  {
+    "rank": 48,
+    "title": "RF ONLINE NEXT",
+    "developer": "Netmarble",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.netmarble.rfnext",
+    "local_name": "RF ONLINE NEXT",
+    "icon": "https://play-lh.googleusercontent.com/IkNZqliSHoIRoWo-SFO0b8pzt53n1Epi-Tf9p8LbwczkafXbMcuQTpmgpdU-DIKeamrQoyqgRQTars9qnpe0Gg",
+    "est_revenue": 179615,
+    "est_revenue_fmt": "$180K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 242480250
   },
   {
     "rank": 49,
@@ -680,10 +680,10 @@
     "app_id": "com.neowiz.games.poker",
     "local_name": "피망 포커",
     "icon": "https://play-lh.googleusercontent.com/MkI60z70bUF0YIi9loQzKm08WLinhruANPb6D7j1Gh1iPiLrfL1W-2ZQ0Q8ICCMdkFY0jDlTjx9_iZFVGOourg",
-    "est_revenue": 172392,
-    "est_revenue_fmt": "$172K",
+    "est_revenue": 177830,
+    "est_revenue_fmt": "$178K",
     "est_revenue_won": "",
-    "est_revenue_krw": 232729200
+    "est_revenue_krw": 240070500
   },
   {
     "rank": 50,
@@ -694,9 +694,9 @@
     "app_id": "com.netmarble.tskgb",
     "local_name": "Seven Knights Re:BIRTH",
     "icon": "https://play-lh.googleusercontent.com/8CYFFvToiBwJ6NqGpd90FPRsnYzf6Fmn9zaILckmltokY8HMp-50ZJsCq04EVmjfpszgzoLLGwol9D2zn1qTP1I",
-    "est_revenue": 172392,
-    "est_revenue_fmt": "$172K",
+    "est_revenue": 177830,
+    "est_revenue_fmt": "$178K",
     "est_revenue_won": "",
-    "est_revenue_krw": 232729200
+    "est_revenue_krw": 240070500
   }
 ]
