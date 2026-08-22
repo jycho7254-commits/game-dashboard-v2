@@ -295,20 +295,6 @@
   },
   {
     "rank": 22,
-    "title": "Township",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.playrix.township",
-    "local_name": "Township",
-    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
-    "est_revenue": 7496281,
-    "est_revenue_fmt": "$7.5M",
-    "est_revenue_won": "30.9억",
-    "est_revenue_krw": 10119979350
-  },
-  {
-    "rank": 23,
     "title": "Kingshot",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -316,9 +302,23 @@
     "app_id": "com.run.tower.defense",
     "local_name": "Kingshot",
     "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
+    "est_revenue": 7496281,
+    "est_revenue_fmt": "$7.5M",
+    "est_revenue_won": "73.3억",
+    "est_revenue_krw": 10119979350
+  },
+  {
+    "rank": 23,
+    "title": "Township",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.playrix.township",
+    "local_name": "Township",
+    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
     "est_revenue": 6690324,
     "est_revenue_fmt": "$6.7M",
-    "est_revenue_won": "73.3억",
+    "est_revenue_won": "30.9억",
     "est_revenue_krw": 9031937400
   },
   {
@@ -463,20 +463,6 @@
   },
   {
     "rank": 34,
-    "title": "Pokémon Sleep",
-    "developer": "The Pokémon Company",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "jp.pokemon.pokemonsleep",
-    "local_name": "Pokémon Sleep",
-    "icon": "https://play-lh.googleusercontent.com/tg-BeEJO7UDjvfxWXWJ1u-PMLa-45twu0YhJkZfQu-PEjRJU_2l9Sb9xMR3YBha3mtLzdzU-016ZpWN5IUwrFwU",
-    "est_revenue": 626306,
-    "est_revenue_fmt": "$626K",
-    "est_revenue_won": "12.4억",
-    "est_revenue_krw": 845513100
-  },
-  {
-    "rank": 35,
     "title": "ONE PIECE バウンティラッシュ - アクションゲーム",
     "developer": "Bandai Namco Entertainment Inc.",
     "genre": "Game",
@@ -484,13 +470,13 @@
     "app_id": "com.bandainamcoent.opbrjp",
     "local_name": "ONE PIECE バウンティラッシュ - アクションゲーム",
     "icon": "https://play-lh.googleusercontent.com/B1mHaeo7VRgCohe_DV1XCOS2mtvoujEinoZoqRDW2GbvWvxooS55LycfHlBs8p1bsx9C8YUfPk-RKEaNeF1cu58",
-    "est_revenue": 594096,
-    "est_revenue_fmt": "$594K",
+    "est_revenue": 626306,
+    "est_revenue_fmt": "$626K",
     "est_revenue_won": "",
-    "est_revenue_krw": 802029600
+    "est_revenue_krw": 845513100
   },
   {
-    "rank": 36,
+    "rank": 35,
     "title": "放置少女 - 百花繚乱の萌姫たち",
     "developer": "C4 Connect Inc.",
     "genre": "Game",
@@ -498,10 +484,24 @@
     "app_id": "jp.glee.girl",
     "local_name": "放置少女 - 百花繚乱の萌姫たち",
     "icon": "https://play-lh.googleusercontent.com/fkp_VLPLnTcgHIdZutQCvIJhEy5BkpetWeKonidaYW8HrnM-ASjALh2tK5xkku3jJFc6gMY1LF7caAthHTBBFg",
-    "est_revenue": 479536,
-    "est_revenue_fmt": "$480K",
+    "est_revenue": 504982,
+    "est_revenue_fmt": "$505K",
     "est_revenue_won": "35.8억",
-    "est_revenue_krw": 647373600
+    "est_revenue_krw": 681725700
+  },
+  {
+    "rank": 36,
+    "title": "Pokémon Sleep",
+    "developer": "The Pokémon Company",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "jp.pokemon.pokemonsleep",
+    "local_name": "Pokémon Sleep",
+    "icon": "https://play-lh.googleusercontent.com/tg-BeEJO7UDjvfxWXWJ1u-PMLa-45twu0YhJkZfQu-PEjRJU_2l9Sb9xMR3YBha3mtLzdzU-016ZpWN5IUwrFwU",
+    "est_revenue": 504982,
+    "est_revenue_fmt": "$505K",
+    "est_revenue_won": "12.4억",
+    "est_revenue_krw": 681725700
   },
   {
     "rank": 37,
