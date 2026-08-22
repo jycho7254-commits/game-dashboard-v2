@@ -225,20 +225,6 @@
   },
   {
     "rank": 17,
-    "title": "Genshin Impact",
-    "developer": "COGNOSPHERE PTE. LTD.",
-    "genre": "Game",
-    "rating": 4,
-    "app_id": "com.miHoYo.GenshinImpact",
-    "local_name": "原神",
-    "icon": "https://play-lh.googleusercontent.com/YQqyKaXX-63krqsfIzUEJWUWLINxcb5tbS6QVySdxbS7eZV7YB2dUjUvX27xA0TIGtfxQ5v-tQjwlT5tTB-O",
-    "est_revenue": 9000000,
-    "est_revenue_fmt": "$9.0M",
-    "est_revenue_won": "27.1억",
-    "est_revenue_krw": 12150000000
-  },
-  {
-    "rank": 18,
     "title": "Trickcal:Chibi Go",
     "developer": "BILIBILI",
     "genre": "Game",
@@ -252,7 +238,7 @@
     "est_revenue_krw": 12150000000
   },
   {
-    "rank": 19,
+    "rank": 18,
     "title": "幻想水滸伝 STAR LEAP",
     "developer": "KONAMI",
     "genre": "Game",
@@ -266,7 +252,7 @@
     "est_revenue_krw": 12150000000
   },
   {
-    "rank": 20,
+    "rank": 19,
     "title": "SDガンダム ジージェネレーション エターナル",
     "developer": "Bandai Namco Entertainment Inc.",
     "genre": "Game",
@@ -280,7 +266,7 @@
     "est_revenue_krw": 12150000000
   },
   {
-    "rank": 21,
+    "rank": 20,
     "title": "LINE：ディズニー ツムツム",
     "developer": "LINE (LY Corporation)",
     "genre": "Game",
@@ -294,7 +280,7 @@
     "est_revenue_krw": 12150000000
   },
   {
-    "rank": 22,
+    "rank": 21,
     "title": "Kingshot",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -308,7 +294,7 @@
     "est_revenue_krw": 12150000000
   },
   {
-    "rank": 23,
+    "rank": 22,
     "title": "Township",
     "developer": "Playrix",
     "genre": "Game",
@@ -322,7 +308,7 @@
     "est_revenue_krw": 12150000000
   },
   {
-    "rank": 24,
+    "rank": 23,
     "title": "LINE Pokopoko",
     "developer": "LINE (LY Corporation)",
     "genre": "Game",
@@ -336,7 +322,7 @@
     "est_revenue_krw": 12150000000
   },
   {
-    "rank": 25,
+    "rank": 24,
     "title": "ウマ娘 プリティーダービー",
     "developer": "Cygames, Inc.",
     "genre": "Game",
@@ -350,7 +336,7 @@
     "est_revenue_krw": 12150000000
   },
   {
-    "rank": 26,
+    "rank": 25,
     "title": "Gardenscapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -358,10 +344,24 @@
     "app_id": "com.playrix.gardenscapes",
     "local_name": "Gardenscapes",
     "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
-    "est_revenue": 7894648,
-    "est_revenue_fmt": "$7.9M",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
     "est_revenue_won": "40.0억",
-    "est_revenue_krw": 10657774800
+    "est_revenue_krw": 12150000000
+  },
+  {
+    "rank": 26,
+    "title": "Genshin Impact",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "com.miHoYo.GenshinImpact",
+    "local_name": "原神",
+    "icon": "https://play-lh.googleusercontent.com/YQqyKaXX-63krqsfIzUEJWUWLINxcb5tbS6QVySdxbS7eZV7YB2dUjUvX27xA0TIGtfxQ5v-tQjwlT5tTB-O",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
+    "est_revenue_won": "27.1억",
+    "est_revenue_krw": 12150000000
   },
   {
     "rank": 27,
@@ -603,20 +603,6 @@
   },
   {
     "rank": 44,
-    "title": "グランブルーファンタジー",
-    "developer": "mobage",
-    "genre": "Game",
-    "rating": 3.9,
-    "app_id": "jp.mbga.a12016007.lite",
-    "local_name": "グランブルーファンタジー",
-    "icon": "https://play-lh.googleusercontent.com/kezieGaFO7Jl78eSwpJORGTrNGWGt1_2RHtVLtd8SrJ7QBFBnpLYQ-MmV5pUVD2JBcpuW3nqYt4Dc5wXHlWpgR8",
-    "est_revenue": 343015,
-    "est_revenue_fmt": "$343K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 463070250
-  },
-  {
-    "rank": 45,
     "title": "MementoMori: AFKRPG",
     "developer": "Bank of Innovation, Inc.",
     "genre": "Game",
@@ -630,7 +616,7 @@
     "est_revenue_krw": 463070250
   },
   {
-    "rank": 46,
+    "rank": 45,
     "title": "Paranoize",
     "developer": "ZigZaGame Inc.",
     "genre": "Game",
@@ -644,7 +630,7 @@
     "est_revenue_krw": 463070250
   },
   {
-    "rank": 47,
+    "rank": 46,
     "title": "刀剣乱舞ONLINE",
     "developer": "DMMGAMES",
     "genre": "Game",
@@ -652,13 +638,13 @@
     "app_id": "com.dmm.games.touken",
     "local_name": "刀剣乱舞ONLINE",
     "icon": "https://play-lh.googleusercontent.com/bl0CW3GHTGUKiIo91W7bwz_mfFLeKfGYEBkPV4_BWCUaBgWa7aiZhqFyfheGODr_WFVOARgYyEL4nw29yEIZ",
-    "est_revenue": 339262,
-    "est_revenue_fmt": "$339K",
+    "est_revenue": 343015,
+    "est_revenue_fmt": "$343K",
     "est_revenue_won": "",
-    "est_revenue_krw": 458003700
+    "est_revenue_krw": 463070250
   },
   {
-    "rank": 48,
+    "rank": 47,
     "title": "アズールレーン",
     "developer": "Yostar, Inc.",
     "genre": "Game",
@@ -666,6 +652,20 @@
     "app_id": "com.YoStarJP.AzurLane",
     "local_name": "アズールレーン",
     "icon": "https://play-lh.googleusercontent.com/xm_fZgRuFC6npGnzKgBbw1V2VuZo4Pc67LLcrecmihkaDK-LFa_yKi6x4zmg-Nb-tvqy1ppLgjEdmgZMV00vg9E",
+    "est_revenue": 339262,
+    "est_revenue_fmt": "$339K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 458003700
+  },
+  {
+    "rank": 48,
+    "title": "ヘブンバーンズレッド",
+    "developer": "WFS, Inc.",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "com.heavenburnsred",
+    "local_name": "ヘブンバーンズレッド",
+    "icon": "https://play-lh.googleusercontent.com/DnycnmD8KglZo2Bep7OQ7W5HiZnqdbsyqQL7EOOSjqY_IxukzzW_MPlyDghuWBL9Vguls1krtG5Vt66yyiKEgA",
     "est_revenue": 325426,
     "est_revenue_fmt": "$325K",
     "est_revenue_won": "",
@@ -687,16 +687,16 @@
   },
   {
     "rank": 50,
-    "title": "Fishdom",
-    "developer": "Playrix",
+    "title": "杖と剣の伝説 -『ぼっち・ざ・ろっく！』コラボ",
+    "developer": "BOLTRAY GAMES",
     "genre": "Game",
     "rating": 4.4,
-    "app_id": "com.playrix.fishdomdd.gplay",
-    "local_name": "Fishdom",
-    "icon": "https://play-lh.googleusercontent.com/xCNnX62AirslBmOf5Zp2fySAT9S9XsMUAK3PUGeLVCO4uYHGvfG8lHEof253BQ2q1vS85qsySHt8imuLfIMw",
-    "est_revenue": 300000,
-    "est_revenue_fmt": "$300K",
+    "app_id": "com.zjcs.android.jp",
+    "local_name": "杖と剣の伝説 -『ぼっち・ざ・ろっく！』コラボ",
+    "icon": "https://play-lh.googleusercontent.com/_g3vhIncainR70bvht2nmbuquMrAV1c5BaHI8M7GCgUliMEYYi2bfTi-ir7ZkMBCEHcGJ4oDZT-7StOOhEyfP3k",
+    "est_revenue": 312356,
+    "est_revenue_fmt": "$312K",
     "est_revenue_won": "",
-    "est_revenue_krw": 405000000
+    "est_revenue_krw": 421680600
   }
 ]
