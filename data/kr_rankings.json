@@ -463,20 +463,6 @@
   },
   {
     "rank": 34,
-    "title": "Pokémon GO",
-    "developer": "Scopely Explore, Inc.",
-    "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.nianticlabs.pokemongo",
-    "local_name": "포켓몬 GO",
-    "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "",
-    "est_revenue_krw": 2430000000
-  },
-  {
-    "rank": 35,
     "title": "State of Survival: Zombie War",
     "developer": "FunPlus International AG",
     "genre": "Game",
@@ -484,6 +470,20 @@
     "app_id": "com.kingsgroup.sos",
     "local_name": "S.O.S: 스테이트 오브 서바이벌",
     "icon": "https://play-lh.googleusercontent.com/v4gBYHQkkjokISNaGIogV1PyR6vFJr-dFvoybqbtW5g4Zwk9l2mRHOL0rSwbigyVIIFe3FDuiqtESq4SJAeMNg",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "",
+    "est_revenue_krw": 2430000000
+  },
+  {
+    "rank": 35,
+    "title": "Pokémon GO",
+    "developer": "Scopely Explore, Inc.",
+    "genre": "Game",
+    "rating": 3.8,
+    "app_id": "com.nianticlabs.pokemongo",
+    "local_name": "포켓몬 GO",
+    "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "",
@@ -687,16 +687,16 @@
   },
   {
     "rank": 50,
-    "title": "히어로 랜드M",
-    "developer": "Orienjoy International Company Limited",
+    "title": "Honkai: Star Rail",
+    "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.orienjoy.heroland.kr",
-    "local_name": "히어로 랜드M",
-    "icon": "https://play-lh.googleusercontent.com/S4_WFt9oWp_UPVqTtqSwfE8RP4s9VixhUgrtZx3TgSHI9KwgU0B9QJC9RNMhnRRcU7ZVrx5eO0t0kNg7k1F6L4Y",
-    "est_revenue": 180000,
-    "est_revenue_fmt": "$180K",
+    "rating": 3.6,
+    "app_id": "com.HoYoverse.hkrpgoversea",
+    "local_name": "붕괴: 스타레일",
+    "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
+    "est_revenue": 187190,
+    "est_revenue_fmt": "$187K",
     "est_revenue_won": "",
-    "est_revenue_krw": 243000000
+    "est_revenue_krw": 252706500
   }
 ]
