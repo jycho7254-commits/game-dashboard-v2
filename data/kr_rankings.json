@@ -183,20 +183,6 @@
   },
   {
     "rank": 14,
-    "title": "NTE: Neverness to Everness",
-    "developer": "N2E",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.hottagames.nte",
-    "local_name": "NTE: Neverness to Everness",
-    "icon": "https://play-lh.googleusercontent.com/TGl3DdDbi4hty6ooOhEvv_2s5tkpGLbL6derP8y5hK-_Bw--Ve375b08ba9HHQ9ueRpoQ9oye1T_T24BJriLUmw",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "",
-    "est_revenue_krw": 2430000000
-  },
-  {
-    "rank": 15,
     "title": "CookieRun: Crumble - Idle RPG",
     "developer": "Devsisters Corporation",
     "genre": "Game",
@@ -207,6 +193,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "66.1억",
+    "est_revenue_krw": 2430000000
+  },
+  {
+    "rank": 15,
+    "title": "NTE: Neverness to Everness",
+    "developer": "N2E",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.hottagames.nte",
+    "local_name": "NTE: Neverness to Everness",
+    "icon": "https://play-lh.googleusercontent.com/TGl3DdDbi4hty6ooOhEvv_2s5tkpGLbL6derP8y5hK-_Bw--Ve375b08ba9HHQ9ueRpoQ9oye1T_T24BJriLUmw",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "",
     "est_revenue_krw": 2430000000
   },
   {
@@ -505,6 +505,20 @@
   },
   {
     "rank": 37,
+    "title": "메이플스토리M",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.nexon.nsc.maplem",
+    "local_name": "메이플스토리M",
+    "icon": "https://play-lh.googleusercontent.com/PkBuxJo-df0nSHREeWdVPB4ucRTMiEcz__Ta94AgpDJVaPgvwhE91ua-y1sQtNf5EmHzOfgQ-EDOlAwBDP4j4w",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "10.0억",
+    "est_revenue_krw": 2430000000
+  },
+  {
+    "rank": 38,
     "title": "Hollywood Merge",
     "developer": "VoyagerOne IE",
     "genre": "Game",
@@ -518,7 +532,7 @@
     "est_revenue_krw": 2430000000
   },
   {
-    "rank": 38,
+    "rank": 39,
     "title": "Genshin Impact",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -532,49 +546,7 @@
     "est_revenue_krw": 2430000000
   },
   {
-    "rank": 39,
-    "title": "메이플스토리M",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.nexon.nsc.maplem",
-    "local_name": "메이플스토리M",
-    "icon": "https://play-lh.googleusercontent.com/PkBuxJo-df0nSHREeWdVPB4ucRTMiEcz__Ta94AgpDJVaPgvwhE91ua-y1sQtNf5EmHzOfgQ-EDOlAwBDP4j4w",
-    "est_revenue": 321916,
-    "est_revenue_fmt": "$322K",
-    "est_revenue_won": "10.0억",
-    "est_revenue_krw": 434586600
-  },
-  {
     "rank": 40,
-    "title": "Township",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.playrix.township",
-    "local_name": "Township",
-    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
-    "est_revenue": 233251,
-    "est_revenue_fmt": "$233K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 314888850
-  },
-  {
-    "rank": 41,
-    "title": "Dark War Survival",
-    "developer": "Omnilojo Pte Ltd",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.readygo.dark.gp",
-    "local_name": "Dark War Survival",
-    "icon": "https://play-lh.googleusercontent.com/gaanbGpciRZh801jTahoaImwr96KtBp2Uuez12ww9sIxFQhqieIZgTjB_dGzhCaR1ccM9Eku11FxhOWgoxifwdc",
-    "est_revenue": 233251,
-    "est_revenue_fmt": "$233K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 314888850
-  },
-  {
-    "rank": 42,
     "title": "Flambé®: Merge & Cook",
     "developer": "Microfun Limited",
     "genre": "Game",
@@ -582,10 +554,38 @@
     "app_id": "com.cola.game",
     "local_name": "플람베",
     "icon": "https://play-lh.googleusercontent.com/DxEYTS_nNDbesjgAGulDTgl8V2cV42UUmeOGPei2c95XRW7GY_XgihSsaPF7rnRua18Egkd1-siIgbkVjq73Hg",
-    "est_revenue": 213144,
-    "est_revenue_fmt": "$213K",
+    "est_revenue": 233251,
+    "est_revenue_fmt": "$233K",
     "est_revenue_won": "",
-    "est_revenue_krw": 287744400
+    "est_revenue_krw": 314888850
+  },
+  {
+    "rank": 41,
+    "title": "Township",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.playrix.township",
+    "local_name": "Township",
+    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
+    "est_revenue": 222881,
+    "est_revenue_fmt": "$223K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 300889350
+  },
+  {
+    "rank": 42,
+    "title": "Dark War Survival",
+    "developer": "Omnilojo Pte Ltd",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.readygo.dark.gp",
+    "local_name": "Dark War Survival",
+    "icon": "https://play-lh.googleusercontent.com/gaanbGpciRZh801jTahoaImwr96KtBp2Uuez12ww9sIxFQhqieIZgTjB_dGzhCaR1ccM9Eku11FxhOWgoxifwdc",
+    "est_revenue": 222881,
+    "est_revenue_fmt": "$223K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 300889350
   },
   {
     "rank": 43,
