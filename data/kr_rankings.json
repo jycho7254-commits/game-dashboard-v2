@@ -228,7 +228,7 @@
     "title": "삼국지: 천하결전",
     "developer": "BILIBILI",
     "genre": "Game",
-    "rating": 4.6,
+    "rating": 4.7,
     "app_id": "com.bhk.newslgkr",
     "local_name": "삼국지: 천하결전",
     "icon": "https://play-lh.googleusercontent.com/rG1RyXnhrSZk0-Huvu-x4lLJivzk5QgQ2w9-5LYFHGUsEJG2suk-SbLFT7Nkuz99Y56lXBkKfRudyoUWthbY",
@@ -505,20 +505,6 @@
   },
   {
     "rank": 37,
-    "title": "Hollywood Merge",
-    "developer": "VoyagerOne IE",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.hollywood.merge",
-    "local_name": "할리우드 머지",
-    "icon": "https://play-lh.googleusercontent.com/5mzN7_uKeXNnloF-zlXGxiwKuepToEdRwbFUK_aQqk7ORLUGPsMwQK__J9IL9DBMWty-zuLvZ4FYHikK2xCttIw",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "",
-    "est_revenue_krw": 2430000000
-  },
-  {
-    "rank": 38,
     "title": "Genshin Impact",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -532,6 +518,20 @@
     "est_revenue_krw": 2430000000
   },
   {
+    "rank": 38,
+    "title": "Hollywood Merge",
+    "developer": "VoyagerOne IE",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.hollywood.merge",
+    "local_name": "할리우드 머지",
+    "icon": "https://play-lh.googleusercontent.com/5mzN7_uKeXNnloF-zlXGxiwKuepToEdRwbFUK_aQqk7ORLUGPsMwQK__J9IL9DBMWty-zuLvZ4FYHikK2xCttIw",
+    "est_revenue": 256121,
+    "est_revenue_fmt": "$256K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 345763350
+  },
+  {
     "rank": 39,
     "title": "메이플스토리M",
     "developer": "NEXON Company",
@@ -540,10 +540,10 @@
     "app_id": "com.nexon.nsc.maplem",
     "local_name": "메이플스토리M",
     "icon": "https://play-lh.googleusercontent.com/PkBuxJo-df0nSHREeWdVPB4ucRTMiEcz__Ta94AgpDJVaPgvwhE91ua-y1sQtNf5EmHzOfgQ-EDOlAwBDP4j4w",
-    "est_revenue": 321916,
-    "est_revenue_fmt": "$322K",
+    "est_revenue": 256121,
+    "est_revenue_fmt": "$256K",
     "est_revenue_won": "10.0억",
-    "est_revenue_krw": 434586600
+    "est_revenue_krw": 345763350
   },
   {
     "rank": 40,
