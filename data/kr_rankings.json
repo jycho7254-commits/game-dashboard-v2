@@ -127,20 +127,6 @@
   },
   {
     "rank": 10,
-    "title": "리니지M",
-    "developer": "NC Corporation",
-    "genre": "Game",
-    "rating": 2.6,
-    "app_id": "com.ncsoft.lineagem19",
-    "local_name": "리니지M",
-    "icon": "https://play-lh.googleusercontent.com/xy6xR7NsdX81HpwWu8CoVkseQECAug3pLvvpdBGtls12xwiQy3Qw5hvQ51fc3oTXPmI8xyOArPnm70t8395Mmdw",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "60.0억",
-    "est_revenue_krw": 2430000000
-  },
-  {
-    "rank": 11,
     "title": "열혈강호: 넥스트",
     "developer": "Kingnet Technology Limited",
     "genre": "Game",
@@ -151,6 +137,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "35.0억",
+    "est_revenue_krw": 2430000000
+  },
+  {
+    "rank": 11,
+    "title": "리니지M",
+    "developer": "NC Corporation",
+    "genre": "Game",
+    "rating": 2.6,
+    "app_id": "com.ncsoft.lineagem19",
+    "local_name": "리니지M",
+    "icon": "https://play-lh.googleusercontent.com/xy6xR7NsdX81HpwWu8CoVkseQECAug3pLvvpdBGtls12xwiQy3Qw5hvQ51fc3oTXPmI8xyOArPnm70t8395Mmdw",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "60.0억",
     "est_revenue_krw": 2430000000
   },
   {
@@ -365,20 +365,6 @@
   },
   {
     "rank": 27,
-    "title": "마비노기 모바일",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 2.8,
-    "app_id": "com.nexon.devcat.mm",
-    "local_name": "마비노기 모바일",
-    "icon": "https://play-lh.googleusercontent.com/ljE3Q4kOQj0UEjbJoANQpgQ4rxdDvI1h1wARGv6jFgel-5oDIFjfTx2S0nINT8agCEOB_V3C9y61RZFoyLZ4",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "8.9억",
-    "est_revenue_krw": 2430000000
-  },
-  {
-    "rank": 28,
     "title": "컴투스프로야구V26",
     "developer": "Com2uS",
     "genre": "Game",
@@ -389,6 +375,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "6.0억",
+    "est_revenue_krw": 2430000000
+  },
+  {
+    "rank": 28,
+    "title": "마비노기 모바일",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 2.8,
+    "app_id": "com.nexon.devcat.mm",
+    "local_name": "마비노기 모바일",
+    "icon": "https://play-lh.googleusercontent.com/ljE3Q4kOQj0UEjbJoANQpgQ4rxdDvI1h1wARGv6jFgel-5oDIFjfTx2S0nINT8agCEOB_V3C9y61RZFoyLZ4",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "8.9억",
     "est_revenue_krw": 2430000000
   },
   {
@@ -435,6 +435,20 @@
   },
   {
     "rank": 32,
+    "title": "Lineage W",
+    "developer": "NC Corporation",
+    "genre": "Game",
+    "rating": 3.8,
+    "app_id": "com.ncsoft.lineagew",
+    "local_name": "리니지W",
+    "icon": "https://play-lh.googleusercontent.com/VvwlyO5rMOgeedcbDmvBQv-vDoCeHqxBdSHqTrA3xUZAEuRcAwTBznrJBwkj3_xvhUTkLJ4D98RT1fZTtu8W",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "6.7억",
+    "est_revenue_krw": 2430000000
+  },
+  {
+    "rank": 33,
     "title": "Chaos Zero Nightmare",
     "developer": "Smilegate, Inc.",
     "genre": "Game",
@@ -448,7 +462,7 @@
     "est_revenue_krw": 2430000000
   },
   {
-    "rank": 33,
+    "rank": 34,
     "title": "Pokémon GO",
     "developer": "Scopely Explore, Inc.",
     "genre": "Game",
@@ -459,20 +473,6 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "",
-    "est_revenue_krw": 2430000000
-  },
-  {
-    "rank": 34,
-    "title": "Lineage W",
-    "developer": "NC Corporation",
-    "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.ncsoft.lineagew",
-    "local_name": "리니지W",
-    "icon": "https://play-lh.googleusercontent.com/VvwlyO5rMOgeedcbDmvBQv-vDoCeHqxBdSHqTrA3xUZAEuRcAwTBznrJBwkj3_xvhUTkLJ4D98RT1fZTtu8W",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "6.7억",
     "est_revenue_krw": 2430000000
   },
   {
@@ -561,48 +561,6 @@
   },
   {
     "rank": 41,
-    "title": "Flambé®: Merge & Cook",
-    "developer": "Microfun Limited",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.cola.game",
-    "local_name": "플람베",
-    "icon": "https://play-lh.googleusercontent.com/DxEYTS_nNDbesjgAGulDTgl8V2cV42UUmeOGPei2c95XRW7GY_XgihSsaPF7rnRua18Egkd1-siIgbkVjq73Hg",
-    "est_revenue": 222881,
-    "est_revenue_fmt": "$223K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 300889350
-  },
-  {
-    "rank": 42,
-    "title": "Seven Knights Re:BIRTH",
-    "developer": "Netmarble",
-    "genre": "Game",
-    "rating": 4,
-    "app_id": "com.netmarble.tskgb",
-    "local_name": "Seven Knights Re:BIRTH",
-    "icon": "https://play-lh.googleusercontent.com/8CYFFvToiBwJ6NqGpd90FPRsnYzf6Fmn9zaILckmltokY8HMp-50ZJsCq04EVmjfpszgzoLLGwol9D2zn1qTP1I",
-    "est_revenue": 222881,
-    "est_revenue_fmt": "$223K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 300889350
-  },
-  {
-    "rank": 43,
-    "title": "Mystery Town: Merge Games",
-    "developer": "Cedar Games Studio",
-    "genre": "Game",
-    "rating": 4.9,
-    "app_id": "com.cedargames.mysterytown",
-    "local_name": "미스터리 타운",
-    "icon": "https://play-lh.googleusercontent.com/uVjVMEJrhT-xRoUtKIUj8tOVSbCWw4IsRHaTDYICRNjQycUj6SucVpeoAPiNZWeJ5JuzIt_ZZRo1X1pW6XJFAQE",
-    "est_revenue": 203992,
-    "est_revenue_fmt": "$204K",
-    "est_revenue_won": "3.2억",
-    "est_revenue_krw": 275389200
-  },
-  {
-    "rank": 44,
     "title": "EA SPORTS FC Online M",
     "developer": "NEXON Company",
     "genre": "Game",
@@ -610,10 +568,52 @@
     "app_id": "com.nexon.fo4m",
     "local_name": "FC 온라인 M",
     "icon": "https://play-lh.googleusercontent.com/3kHUd_bPqo2Mz00jcm8gxIjgawGnkg1w7V1KZfQ-UalXUj8QrLwqmGxpUNniLQ4o3exMUCl_lKa5KOolaOqBFdo",
-    "est_revenue": 203992,
-    "est_revenue_fmt": "$204K",
+    "est_revenue": 275323,
+    "est_revenue_fmt": "$275K",
     "est_revenue_won": "",
-    "est_revenue_krw": 275389200
+    "est_revenue_krw": 371686050
+  },
+  {
+    "rank": 42,
+    "title": "Flambé®: Merge & Cook",
+    "developer": "Microfun Limited",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.cola.game",
+    "local_name": "플람베",
+    "icon": "https://play-lh.googleusercontent.com/DxEYTS_nNDbesjgAGulDTgl8V2cV42UUmeOGPei2c95XRW7GY_XgihSsaPF7rnRua18Egkd1-siIgbkVjq73Hg",
+    "est_revenue": 213144,
+    "est_revenue_fmt": "$213K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 287744400
+  },
+  {
+    "rank": 43,
+    "title": "Seven Knights Re:BIRTH",
+    "developer": "Netmarble",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "com.netmarble.tskgb",
+    "local_name": "Seven Knights Re:BIRTH",
+    "icon": "https://play-lh.googleusercontent.com/8CYFFvToiBwJ6NqGpd90FPRsnYzf6Fmn9zaILckmltokY8HMp-50ZJsCq04EVmjfpszgzoLLGwol9D2zn1qTP1I",
+    "est_revenue": 213144,
+    "est_revenue_fmt": "$213K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 287744400
+  },
+  {
+    "rank": 44,
+    "title": "Mystery Town: Merge Games",
+    "developer": "Cedar Games Studio",
+    "genre": "Game",
+    "rating": 4.9,
+    "app_id": "com.cedargames.mysterytown",
+    "local_name": "미스터리 타운",
+    "icon": "https://play-lh.googleusercontent.com/uVjVMEJrhT-xRoUtKIUj8tOVSbCWw4IsRHaTDYICRNjQycUj6SucVpeoAPiNZWeJ5JuzIt_ZZRo1X1pW6XJFAQE",
+    "est_revenue": 195380,
+    "est_revenue_fmt": "$195K",
+    "est_revenue_won": "3.2억",
+    "est_revenue_krw": 263763000
   },
   {
     "rank": 45,
@@ -624,10 +624,10 @@
     "app_id": "com.readygo.dark.gp",
     "local_name": "Dark War Survival",
     "icon": "https://play-lh.googleusercontent.com/gaanbGpciRZh801jTahoaImwr96KtBp2Uuez12ww9sIxFQhqieIZgTjB_dGzhCaR1ccM9Eku11FxhOWgoxifwdc",
-    "est_revenue": 203992,
-    "est_revenue_fmt": "$204K",
+    "est_revenue": 195380,
+    "est_revenue_fmt": "$195K",
     "est_revenue_won": "",
-    "est_revenue_krw": 275389200
+    "est_revenue_krw": 263763000
   },
   {
     "rank": 46,
@@ -638,13 +638,27 @@
     "app_id": "com.supercell.brawlstars",
     "local_name": "브롤스타즈",
     "icon": "https://play-lh.googleusercontent.com/c0hXyphuxh-gpnhSJGZV1I0IpWbq9IdEc1pautS7SmHlXNBrCff7bMqK-u63pJdfP3KJoxamG7W1dRMKr7ZzWKs",
-    "est_revenue": 203992,
-    "est_revenue_fmt": "$204K",
+    "est_revenue": 195380,
+    "est_revenue_fmt": "$195K",
     "est_revenue_won": "",
-    "est_revenue_krw": 275389200
+    "est_revenue_krw": 263763000
   },
   {
     "rank": 47,
+    "title": "Pmang Poker : Casino Royal",
+    "developer": "NEOWIZ corp",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.neowiz.games.poker",
+    "local_name": "피망 포커",
+    "icon": "https://play-lh.googleusercontent.com/MkI60z70bUF0YIi9loQzKm08WLinhruANPb6D7j1Gh1iPiLrfL1W-2ZQ0Q8ICCMdkFY0jDlTjx9_iZFVGOourg",
+    "est_revenue": 192674,
+    "est_revenue_fmt": "$193K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 260109900
+  },
+  {
+    "rank": 48,
     "title": "Honkai: Star Rail",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -652,13 +666,13 @@
     "app_id": "com.HoYoverse.hkrpgoversea",
     "local_name": "붕괴: 스타레일",
     "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
-    "est_revenue": 203992,
-    "est_revenue_fmt": "$204K",
+    "est_revenue": 192674,
+    "est_revenue_fmt": "$193K",
     "est_revenue_won": "",
-    "est_revenue_krw": 275389200
+    "est_revenue_krw": 260109900
   },
   {
-    "rank": 48,
+    "rank": 49,
     "title": "Legend of Avatar",
     "developer": "BillionaireGames",
     "genre": "Game",
@@ -666,20 +680,6 @@
     "app_id": "com.billionairegames.serares",
     "local_name": "Legend of Avatar",
     "icon": "https://play-lh.googleusercontent.com/32hdADT1diPHMRQB8Yc9hWNLeSKpUVAn1_289IXeYZ8IijrbPvvI-TlQIzN9Gyk2e_nONde2DaM9zKNyX_na4R4",
-    "est_revenue": 194785,
-    "est_revenue_fmt": "$195K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 262959750
-  },
-  {
-    "rank": 49,
-    "title": "히어로 랜드M",
-    "developer": "Orienjoy International Company Limited",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.orienjoy.heroland.kr",
-    "local_name": "히어로 랜드M",
-    "icon": "https://play-lh.googleusercontent.com/S4_WFt9oWp_UPVqTtqSwfE8RP4s9VixhUgrtZx3TgSHI9KwgU0B9QJC9RNMhnRRcU7ZVrx5eO0t0kNg7k1F6L4Y",
     "est_revenue": 187190,
     "est_revenue_fmt": "$187K",
     "est_revenue_won": "",
@@ -687,16 +687,16 @@
   },
   {
     "rank": 50,
-    "title": "Homescapes",
-    "developer": "Playrix",
+    "title": "히어로 랜드M",
+    "developer": "Orienjoy International Company Limited",
     "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.playrix.homescapes",
-    "local_name": "홈스케이프",
-    "icon": "https://play-lh.googleusercontent.com/ft9OqNwpLaL45Jq3YuSYt0wm3y_j-YteTQqfq4Cu2PRWTrkFMuhlmUHmxggNxOP96gxR9Q3ML1Yt87iV3zD5fg",
-    "est_revenue": 153000,
-    "est_revenue_fmt": "$153K",
+    "rating": 4.6,
+    "app_id": "com.orienjoy.heroland.kr",
+    "local_name": "히어로 랜드M",
+    "icon": "https://play-lh.googleusercontent.com/S4_WFt9oWp_UPVqTtqSwfE8RP4s9VixhUgrtZx3TgSHI9KwgU0B9QJC9RNMhnRRcU7ZVrx5eO0t0kNg7k1F6L4Y",
+    "est_revenue": 180000,
+    "est_revenue_fmt": "$180K",
     "est_revenue_won": "",
-    "est_revenue_krw": 206550000
+    "est_revenue_krw": 243000000
   }
 ]
