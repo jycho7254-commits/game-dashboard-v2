@@ -99,6 +99,20 @@
   },
   {
     "rank": 8,
+    "title": "Roblox",
+    "developer": "Roblox Corporation",
+    "genre": "Game",
+    "rating": 3.9,
+    "app_id": "com.roblox.client",
+    "local_name": "로블록스",
+    "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
+    "est_revenue": 2554820,
+    "est_revenue_fmt": "$2.6M",
+    "est_revenue_won": "41.6억",
+    "est_revenue_krw": 3449007000
+  },
+  {
+    "rank": 9,
     "title": "Royal Match",
     "developer": "Dream Games, Ltd.",
     "genre": "Game",
@@ -109,20 +123,6 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "38.0억",
-    "est_revenue_krw": 2430000000
-  },
-  {
-    "rank": 9,
-    "title": "Roblox",
-    "developer": "Roblox Corporation",
-    "genre": "Game",
-    "rating": 3.9,
-    "app_id": "com.roblox.client",
-    "local_name": "로블록스",
-    "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "41.6억",
     "est_revenue_krw": 2430000000
   },
   {
@@ -505,6 +505,20 @@
   },
   {
     "rank": 37,
+    "title": "Hollywood Merge",
+    "developer": "VoyagerOne IE",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.hollywood.merge",
+    "local_name": "할리우드 머지",
+    "icon": "https://play-lh.googleusercontent.com/5mzN7_uKeXNnloF-zlXGxiwKuepToEdRwbFUK_aQqk7ORLUGPsMwQK__J9IL9DBMWty-zuLvZ4FYHikK2xCttIw",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "",
+    "est_revenue_krw": 2430000000
+  },
+  {
+    "rank": 38,
     "title": "메이플스토리M",
     "developer": "NEXON Company",
     "genre": "Game",
@@ -518,7 +532,7 @@
     "est_revenue_krw": 2430000000
   },
   {
-    "rank": 38,
+    "rank": 39,
     "title": "Genshin Impact",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -532,49 +546,7 @@
     "est_revenue_krw": 2430000000
   },
   {
-    "rank": 39,
-    "title": "Hollywood Merge",
-    "developer": "VoyagerOne IE",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.hollywood.merge",
-    "local_name": "할리우드 머지",
-    "icon": "https://play-lh.googleusercontent.com/5mzN7_uKeXNnloF-zlXGxiwKuepToEdRwbFUK_aQqk7ORLUGPsMwQK__J9IL9DBMWty-zuLvZ4FYHikK2xCttIw",
-    "est_revenue": 244311,
-    "est_revenue_fmt": "$244K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 329819850
-  },
-  {
     "rank": 40,
-    "title": "Flambé®: Merge & Cook",
-    "developer": "Microfun Limited",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.cola.game",
-    "local_name": "플람베",
-    "icon": "https://play-lh.googleusercontent.com/DxEYTS_nNDbesjgAGulDTgl8V2cV42UUmeOGPei2c95XRW7GY_XgihSsaPF7rnRua18Egkd1-siIgbkVjq73Hg",
-    "est_revenue": 233251,
-    "est_revenue_fmt": "$233K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 314888850
-  },
-  {
-    "rank": 41,
-    "title": "Dark War Survival",
-    "developer": "Omnilojo Pte Ltd",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.readygo.dark.gp",
-    "local_name": "Dark War Survival",
-    "icon": "https://play-lh.googleusercontent.com/gaanbGpciRZh801jTahoaImwr96KtBp2Uuez12ww9sIxFQhqieIZgTjB_dGzhCaR1ccM9Eku11FxhOWgoxifwdc",
-    "est_revenue": 233251,
-    "est_revenue_fmt": "$233K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 314888850
-  },
-  {
-    "rank": 42,
     "title": "Township",
     "developer": "Playrix",
     "genre": "Game",
@@ -582,10 +554,38 @@
     "app_id": "com.playrix.township",
     "local_name": "Township",
     "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
-    "est_revenue": 213144,
-    "est_revenue_fmt": "$213K",
+    "est_revenue": 233251,
+    "est_revenue_fmt": "$233K",
     "est_revenue_won": "",
-    "est_revenue_krw": 287744400
+    "est_revenue_krw": 314888850
+  },
+  {
+    "rank": 41,
+    "title": "Flambé®: Merge & Cook",
+    "developer": "Microfun Limited",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.cola.game",
+    "local_name": "플람베",
+    "icon": "https://play-lh.googleusercontent.com/DxEYTS_nNDbesjgAGulDTgl8V2cV42UUmeOGPei2c95XRW7GY_XgihSsaPF7rnRua18Egkd1-siIgbkVjq73Hg",
+    "est_revenue": 222881,
+    "est_revenue_fmt": "$223K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 300889350
+  },
+  {
+    "rank": 42,
+    "title": "Dark War Survival",
+    "developer": "Omnilojo Pte Ltd",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.readygo.dark.gp",
+    "local_name": "Dark War Survival",
+    "icon": "https://play-lh.googleusercontent.com/gaanbGpciRZh801jTahoaImwr96KtBp2Uuez12ww9sIxFQhqieIZgTjB_dGzhCaR1ccM9Eku11FxhOWgoxifwdc",
+    "est_revenue": 222881,
+    "est_revenue_fmt": "$223K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 300889350
   },
   {
     "rank": 43,
@@ -631,20 +631,6 @@
   },
   {
     "rank": 46,
-    "title": "Legend of Avatar",
-    "developer": "BillionaireGames",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.billionairegames.serares",
-    "local_name": "Legend of Avatar",
-    "icon": "https://play-lh.googleusercontent.com/32hdADT1diPHMRQB8Yc9hWNLeSKpUVAn1_289IXeYZ8IijrbPvvI-TlQIzN9Gyk2e_nONde2DaM9zKNyX_na4R4",
-    "est_revenue": 203992,
-    "est_revenue_fmt": "$204K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 275389200
-  },
-  {
-    "rank": 47,
     "title": "Seven Knights Re:BIRTH",
     "developer": "Netmarble",
     "genre": "Game",
@@ -652,6 +638,20 @@
     "app_id": "com.netmarble.tskgb",
     "local_name": "Seven Knights Re:BIRTH",
     "icon": "https://play-lh.googleusercontent.com/8CYFFvToiBwJ6NqGpd90FPRsnYzf6Fmn9zaILckmltokY8HMp-50ZJsCq04EVmjfpszgzoLLGwol9D2zn1qTP1I",
+    "est_revenue": 203992,
+    "est_revenue_fmt": "$204K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 275389200
+  },
+  {
+    "rank": 47,
+    "title": "Legend of Avatar",
+    "developer": "BillionaireGames",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.billionairegames.serares",
+    "local_name": "Legend of Avatar",
+    "icon": "https://play-lh.googleusercontent.com/32hdADT1diPHMRQB8Yc9hWNLeSKpUVAn1_289IXeYZ8IijrbPvvI-TlQIzN9Gyk2e_nONde2DaM9zKNyX_na4R4",
     "est_revenue": 202814,
     "est_revenue_fmt": "$203K",
     "est_revenue_won": "",
@@ -659,6 +659,20 @@
   },
   {
     "rank": 48,
+    "title": "히어로 랜드M",
+    "developer": "Orienjoy International Company Limited",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.orienjoy.heroland.kr",
+    "local_name": "히어로 랜드M",
+    "icon": "https://play-lh.googleusercontent.com/S4_WFt9oWp_UPVqTtqSwfE8RP4s9VixhUgrtZx3TgSHI9KwgU0B9QJC9RNMhnRRcU7ZVrx5eO0t0kNg7k1F6L4Y",
+    "est_revenue": 194785,
+    "est_revenue_fmt": "$195K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 262959750
+  },
+  {
+    "rank": 49,
     "title": "냥코 대전쟁",
     "developer": "PONOS Corporation",
     "genre": "Game",
@@ -666,13 +680,13 @@
     "app_id": "jp.co.ponos.battlecatskr",
     "local_name": "냥코 대전쟁",
     "icon": "https://play-lh.googleusercontent.com/9fY1igv-MK4667G0NWBTVvtUCzQoY-j_9Q0ehaCsybocI-U2txomDZQ7MXexpgxgBxXNI_pSlhkhDwyzZBRYl5w",
-    "est_revenue": 202814,
-    "est_revenue_fmt": "$203K",
+    "est_revenue": 194785,
+    "est_revenue_fmt": "$195K",
     "est_revenue_won": "",
-    "est_revenue_krw": 273798900
+    "est_revenue_krw": 262959750
   },
   {
-    "rank": 49,
+    "rank": 50,
     "title": "RF ONLINE NEXT",
     "developer": "Netmarble",
     "genre": "Game",
@@ -680,23 +694,9 @@
     "app_id": "com.netmarble.rfnext",
     "local_name": "RF ONLINE NEXT",
     "icon": "https://play-lh.googleusercontent.com/IkNZqliSHoIRoWo-SFO0b8pzt53n1Epi-Tf9p8LbwczkafXbMcuQTpmgpdU-DIKeamrQoyqgRQTars9qnpe0Gg",
-    "est_revenue": 187190,
-    "est_revenue_fmt": "$187K",
+    "est_revenue": 180000,
+    "est_revenue_fmt": "$180K",
     "est_revenue_won": "",
-    "est_revenue_krw": 252706500
-  },
-  {
-    "rank": 50,
-    "title": "Pmang Poker : Casino Royal",
-    "developer": "NEOWIZ corp",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.neowiz.games.poker",
-    "local_name": "피망 포커",
-    "icon": "https://play-lh.googleusercontent.com/MkI60z70bUF0YIi9loQzKm08WLinhruANPb6D7j1Gh1iPiLrfL1W-2ZQ0Q8ICCMdkFY0jDlTjx9_iZFVGOourg",
-    "est_revenue": 171000,
-    "est_revenue_fmt": "$171K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 230850000
+    "est_revenue_krw": 243000000
   }
 ]
