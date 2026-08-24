@@ -449,20 +449,6 @@
   },
   {
     "rank": 33,
-    "title": "Chaos Zero Nightmare",
-    "developer": "Smilegate, Inc.",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.smilegate.chaoszero.stove.google",
-    "local_name": "Chaos Zero Nightmare",
-    "icon": "https://play-lh.googleusercontent.com/rZ0kLPx7Y_zRavJ1TImLv3oj0HYRrye8K9wJOuegTIrfxaS2qyGu9tWJcXphO0ELMfj3BgOSG_BPKKVST6zDPg",
-    "est_revenue": 661019,
-    "est_revenue_fmt": "$661K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 892375650
-  },
-  {
-    "rank": 34,
     "title": "Pokémon Sleep",
     "developer": "The Pokémon Company",
     "genre": "Game",
@@ -470,9 +456,23 @@
     "app_id": "jp.pokemon.pokemonsleep",
     "local_name": "Pokémon Sleep",
     "icon": "https://play-lh.googleusercontent.com/tg-BeEJO7UDjvfxWXWJ1u-PMLa-45twu0YhJkZfQu-PEjRJU_2l9Sb9xMR3YBha3mtLzdzU-016ZpWN5IUwrFwU",
+    "est_revenue": 661019,
+    "est_revenue_fmt": "$661K",
+    "est_revenue_won": "12.4억",
+    "est_revenue_krw": 892375650
+  },
+  {
+    "rank": 34,
+    "title": "Chaos Zero Nightmare",
+    "developer": "Smilegate, Inc.",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.smilegate.chaoszero.stove.google",
+    "local_name": "Chaos Zero Nightmare",
+    "icon": "https://play-lh.googleusercontent.com/rZ0kLPx7Y_zRavJ1TImLv3oj0HYRrye8K9wJOuegTIrfxaS2qyGu9tWJcXphO0ELMfj3BgOSG_BPKKVST6zDPg",
     "est_revenue": 626306,
     "est_revenue_fmt": "$626K",
-    "est_revenue_won": "12.4억",
+    "est_revenue_won": "",
     "est_revenue_krw": 845513100
   },
   {
