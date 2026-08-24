@@ -253,20 +253,6 @@
   },
   {
     "rank": 19,
-    "title": "Lucky Defense",
-    "developer": "111%",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.percent.aos.luckydefense",
-    "local_name": "러키 디펜스",
-    "icon": "https://play-lh.googleusercontent.com/7Rih7H3B4QoHfjihDscNPVS1t8FZ0C-2TrK_j1ldhkb6RbnP8V2Vo1OHpjPH1qGnJpJ0WYGYPth8PhZgQ1Q-Vg",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "18.6억",
-    "est_revenue_krw": 2430000000
-  },
-  {
-    "rank": 20,
     "title": "뱀피르",
     "developer": "Netmarble",
     "genre": "Game",
@@ -277,6 +263,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "",
+    "est_revenue_krw": 2430000000
+  },
+  {
+    "rank": 20,
+    "title": "Lucky Defense",
+    "developer": "111%",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.percent.aos.luckydefense",
+    "local_name": "러키 디펜스",
+    "icon": "https://play-lh.googleusercontent.com/7Rih7H3B4QoHfjihDscNPVS1t8FZ0C-2TrK_j1ldhkb6RbnP8V2Vo1OHpjPH1qGnJpJ0WYGYPth8PhZgQ1Q-Vg",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "18.6억",
     "est_revenue_krw": 2430000000
   },
   {
@@ -631,20 +631,6 @@
   },
   {
     "rank": 46,
-    "title": "Brawl Stars",
-    "developer": "Supercell",
-    "genre": "Game",
-    "rating": 3.7,
-    "app_id": "com.supercell.brawlstars",
-    "local_name": "브롤스타즈",
-    "icon": "https://play-lh.googleusercontent.com/c0hXyphuxh-gpnhSJGZV1I0IpWbq9IdEc1pautS7SmHlXNBrCff7bMqK-u63pJdfP3KJoxamG7W1dRMKr7ZzWKs",
-    "est_revenue": 203992,
-    "est_revenue_fmt": "$204K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 275389200
-  },
-  {
-    "rank": 47,
     "title": "Pmang Poker : Casino Royal",
     "developer": "NEOWIZ corp",
     "genre": "Game",
@@ -652,10 +638,24 @@
     "app_id": "com.neowiz.games.poker",
     "local_name": "피망 포커",
     "icon": "https://play-lh.googleusercontent.com/MkI60z70bUF0YIi9loQzKm08WLinhruANPb6D7j1Gh1iPiLrfL1W-2ZQ0Q8ICCMdkFY0jDlTjx9_iZFVGOourg",
-    "est_revenue": 192674,
-    "est_revenue_fmt": "$193K",
+    "est_revenue": 200746,
+    "est_revenue_fmt": "$201K",
     "est_revenue_won": "",
-    "est_revenue_krw": 260109900
+    "est_revenue_krw": 271007100
+  },
+  {
+    "rank": 47,
+    "title": "Brawl Stars",
+    "developer": "Supercell",
+    "genre": "Game",
+    "rating": 3.7,
+    "app_id": "com.supercell.brawlstars",
+    "local_name": "브롤스타즈",
+    "icon": "https://play-lh.googleusercontent.com/c0hXyphuxh-gpnhSJGZV1I0IpWbq9IdEc1pautS7SmHlXNBrCff7bMqK-u63pJdfP3KJoxamG7W1dRMKr7ZzWKs",
+    "est_revenue": 200746,
+    "est_revenue_fmt": "$201K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 271007100
   },
   {
     "rank": 48,
@@ -666,10 +666,10 @@
     "app_id": "com.orienjoy.heroland.kr",
     "local_name": "히어로 랜드M",
     "icon": "https://play-lh.googleusercontent.com/S4_WFt9oWp_UPVqTtqSwfE8RP4s9VixhUgrtZx3TgSHI9KwgU0B9QJC9RNMhnRRcU7ZVrx5eO0t0kNg7k1F6L4Y",
-    "est_revenue": 192674,
-    "est_revenue_fmt": "$193K",
+    "est_revenue": 194785,
+    "est_revenue_fmt": "$195K",
     "est_revenue_won": "",
-    "est_revenue_krw": 260109900
+    "est_revenue_krw": 262959750
   },
   {
     "rank": 49,
