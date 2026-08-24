@@ -589,20 +589,6 @@
   },
   {
     "rank": 43,
-    "title": "Seven Knights Re:BIRTH",
-    "developer": "Netmarble",
-    "genre": "Game",
-    "rating": 4,
-    "app_id": "com.netmarble.tskgb",
-    "local_name": "Seven Knights Re:BIRTH",
-    "icon": "https://play-lh.googleusercontent.com/8CYFFvToiBwJ6NqGpd90FPRsnYzf6Fmn9zaILckmltokY8HMp-50ZJsCq04EVmjfpszgzoLLGwol9D2zn1qTP1I",
-    "est_revenue": 213144,
-    "est_revenue_fmt": "$213K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 287744400
-  },
-  {
-    "rank": 44,
     "title": "Mystery Town: Merge Games",
     "developer": "Cedar Games Studio",
     "genre": "Game",
@@ -610,10 +596,24 @@
     "app_id": "com.cedargames.mysterytown",
     "local_name": "미스터리 타운",
     "icon": "https://play-lh.googleusercontent.com/uVjVMEJrhT-xRoUtKIUj8tOVSbCWw4IsRHaTDYICRNjQycUj6SucVpeoAPiNZWeJ5JuzIt_ZZRo1X1pW6XJFAQE",
-    "est_revenue": 195380,
-    "est_revenue_fmt": "$195K",
+    "est_revenue": 203992,
+    "est_revenue_fmt": "$204K",
     "est_revenue_won": "3.2억",
-    "est_revenue_krw": 263763000
+    "est_revenue_krw": 275389200
+  },
+  {
+    "rank": 44,
+    "title": "Seven Knights Re:BIRTH",
+    "developer": "Netmarble",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "com.netmarble.tskgb",
+    "local_name": "Seven Knights Re:BIRTH",
+    "icon": "https://play-lh.googleusercontent.com/8CYFFvToiBwJ6NqGpd90FPRsnYzf6Fmn9zaILckmltokY8HMp-50ZJsCq04EVmjfpszgzoLLGwol9D2zn1qTP1I",
+    "est_revenue": 203992,
+    "est_revenue_fmt": "$204K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 275389200
   },
   {
     "rank": 45,
@@ -624,10 +624,10 @@
     "app_id": "com.readygo.dark.gp",
     "local_name": "Dark War Survival",
     "icon": "https://play-lh.googleusercontent.com/gaanbGpciRZh801jTahoaImwr96KtBp2Uuez12ww9sIxFQhqieIZgTjB_dGzhCaR1ccM9Eku11FxhOWgoxifwdc",
-    "est_revenue": 195380,
-    "est_revenue_fmt": "$195K",
+    "est_revenue": 203992,
+    "est_revenue_fmt": "$204K",
     "est_revenue_won": "",
-    "est_revenue_krw": 263763000
+    "est_revenue_krw": 275389200
   },
   {
     "rank": 46,
@@ -638,10 +638,10 @@
     "app_id": "com.supercell.brawlstars",
     "local_name": "브롤스타즈",
     "icon": "https://play-lh.googleusercontent.com/c0hXyphuxh-gpnhSJGZV1I0IpWbq9IdEc1pautS7SmHlXNBrCff7bMqK-u63pJdfP3KJoxamG7W1dRMKr7ZzWKs",
-    "est_revenue": 195380,
-    "est_revenue_fmt": "$195K",
+    "est_revenue": 203992,
+    "est_revenue_fmt": "$204K",
     "est_revenue_won": "",
-    "est_revenue_krw": 263763000
+    "est_revenue_krw": 275389200
   },
   {
     "rank": 47,
@@ -673,6 +673,20 @@
   },
   {
     "rank": 49,
+    "title": "Legend of Avatar",
+    "developer": "BillionaireGames",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.billionairegames.serares",
+    "local_name": "Legend of Avatar",
+    "icon": "https://play-lh.googleusercontent.com/32hdADT1diPHMRQB8Yc9hWNLeSKpUVAn1_289IXeYZ8IijrbPvvI-TlQIzN9Gyk2e_nONde2DaM9zKNyX_na4R4",
+    "est_revenue": 187190,
+    "est_revenue_fmt": "$187K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 252706500
+  },
+  {
+    "rank": 50,
     "title": "Homescapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -680,23 +694,9 @@
     "app_id": "com.playrix.homescapes",
     "local_name": "홈스케이프",
     "icon": "https://play-lh.googleusercontent.com/ft9OqNwpLaL45Jq3YuSYt0wm3y_j-YteTQqfq4Cu2PRWTrkFMuhlmUHmxggNxOP96gxR9Q3ML1Yt87iV3zD5fg",
-    "est_revenue": 159111,
-    "est_revenue_fmt": "$159K",
+    "est_revenue": 153000,
+    "est_revenue_fmt": "$153K",
     "est_revenue_won": "",
-    "est_revenue_krw": 214799850
-  },
-  {
-    "rank": 50,
-    "title": "Honkai: Star Rail",
-    "developer": "COGNOSPHERE PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.6,
-    "app_id": "com.HoYoverse.hkrpgoversea",
-    "local_name": "붕괴: 스타레일",
-    "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
-    "est_revenue": 159111,
-    "est_revenue_fmt": "$159K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 214799850
+    "est_revenue_krw": 206550000
   }
 ]
