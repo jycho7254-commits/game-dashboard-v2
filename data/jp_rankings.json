@@ -197,20 +197,6 @@
   },
   {
     "rank": 15,
-    "title": "Zenless Zone Zero - Anniv.",
-    "developer": "COGNOSPHERE PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.4,
-    "app_id": "com.HoYoverse.Nap",
-    "local_name": "Zenless Zone Zero",
-    "icon": "https://play-lh.googleusercontent.com/-OwYJcIdDSfGJBOQozVC3kKxqnA7ev2O897twi-aVUpc8AXVMNtB3YWEXDui_V0VJxelNAbUbLXpNZj9AqWa3A",
-    "est_revenue": 9000000,
-    "est_revenue_fmt": "$9.0M",
-    "est_revenue_won": "42.3억",
-    "est_revenue_krw": 12150000000
-  },
-  {
-    "rank": 16,
     "title": "学園アイドルマスター",
     "developer": "Bandai Namco Entertainment Inc.",
     "genre": "Game",
@@ -221,6 +207,20 @@
     "est_revenue": 9000000,
     "est_revenue_fmt": "$9.0M",
     "est_revenue_won": "",
+    "est_revenue_krw": 12150000000
+  },
+  {
+    "rank": 16,
+    "title": "Zenless Zone Zero - Anniv.",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "genre": "Game",
+    "rating": 3.4,
+    "app_id": "com.HoYoverse.Nap",
+    "local_name": "Zenless Zone Zero",
+    "icon": "https://play-lh.googleusercontent.com/-OwYJcIdDSfGJBOQozVC3kKxqnA7ev2O897twi-aVUpc8AXVMNtB3YWEXDui_V0VJxelNAbUbLXpNZj9AqWa3A",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
+    "est_revenue_won": "42.3억",
     "est_revenue_krw": 12150000000
   },
   {
@@ -309,20 +309,6 @@
   },
   {
     "rank": 23,
-    "title": "LINE Pokopoko",
-    "developer": "LINE (LY Corporation)",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.linecorp.LGPKPK",
-    "local_name": "LINE Pokopoko",
-    "icon": "https://play-lh.googleusercontent.com/gmtJmLVwGjTuK9-5TLqyy1EMjrA7C9VvyJiSYU_LQSf8QGCzsfI7fIGRLM3HxEXd1ady8LV316h1Mjco8aX0",
-    "est_revenue": 9000000,
-    "est_revenue_fmt": "$9.0M",
-    "est_revenue_won": "23.8억",
-    "est_revenue_krw": 12150000000
-  },
-  {
-    "rank": 24,
     "title": "ウマ娘 プリティーダービー",
     "developer": "Cygames, Inc.",
     "genre": "Game",
@@ -336,7 +322,7 @@
     "est_revenue_krw": 12150000000
   },
   {
-    "rank": 25,
+    "rank": 24,
     "title": "SDガンダム ジージェネレーション エターナル",
     "developer": "Bandai Namco Entertainment Inc.",
     "genre": "Game",
@@ -350,6 +336,20 @@
     "est_revenue_krw": 12150000000
   },
   {
+    "rank": 25,
+    "title": "LINE Pokopoko",
+    "developer": "LINE (LY Corporation)",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.linecorp.LGPKPK",
+    "local_name": "LINE Pokopoko",
+    "icon": "https://play-lh.googleusercontent.com/gmtJmLVwGjTuK9-5TLqyy1EMjrA7C9VvyJiSYU_LQSf8QGCzsfI7fIGRLM3HxEXd1ady8LV316h1Mjco8aX0",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
+    "est_revenue_won": "23.8억",
+    "est_revenue_krw": 12150000000
+  },
+  {
     "rank": 26,
     "title": "Honkai: Star Rail",
     "developer": "COGNOSPHERE PTE. LTD.",
@@ -358,10 +358,10 @@
     "app_id": "com.HoYoverse.hkrpgoversea",
     "local_name": "崩壊:スターレイル",
     "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
-    "est_revenue": 8986033,
-    "est_revenue_fmt": "$9.0M",
+    "est_revenue": 8530242,
+    "est_revenue_fmt": "$8.5M",
     "est_revenue_won": "34.0억",
-    "est_revenue_krw": 12131144550
+    "est_revenue_krw": 11515826700
   },
   {
     "rank": 27,
@@ -372,10 +372,10 @@
     "app_id": "com.readygo.barrel.gp",
     "local_name": "Last Z: Survival Shooter",
     "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
-    "est_revenue": 8349961,
-    "est_revenue_fmt": "$8.3M",
+    "est_revenue": 8001782,
+    "est_revenue_fmt": "$8.0M",
     "est_revenue_won": "17.8억",
-    "est_revenue_krw": 11272447350
+    "est_revenue_krw": 10802405700
   },
   {
     "rank": 28,
@@ -386,10 +386,10 @@
     "app_id": "jp.gungho.pad",
     "local_name": "パズル＆ドラゴンズ(Puzzle & Dragons)",
     "icon": "https://play-lh.googleusercontent.com/ra7eGhpGZqaK3zVeyaat5kJZ3qRiJVQ8Yel-fOB4o5lWh6WgeivGdzRTJl14tAKKqBkcDYmw_DSziNL_Dq9F",
-    "est_revenue": 7779658,
-    "est_revenue_fmt": "$7.8M",
+    "est_revenue": 7523541,
+    "est_revenue_fmt": "$7.5M",
     "est_revenue_won": "58.6억",
-    "est_revenue_krw": 10502538300
+    "est_revenue_krw": 10156780350
   },
   {
     "rank": 29,
@@ -400,10 +400,10 @@
     "app_id": "jp.konami.suikoden.starleap",
     "local_name": "幻想水滸伝 STAR LEAP",
     "icon": "https://play-lh.googleusercontent.com/CZqC6kjKA871p5R5tf734xuTrgNd7B2DC9Q2Y1Fj0Bmdg3z2I8PhgV-7JNsOg-g-BV1ZWNLRPqq0frr9byaN",
-    "est_revenue": 7266325,
-    "est_revenue_fmt": "$7.3M",
+    "est_revenue": 7089200,
+    "est_revenue_fmt": "$7.1M",
     "est_revenue_won": "127.1억",
-    "est_revenue_krw": 9809538750
+    "est_revenue_krw": 9570420000
   },
   {
     "rank": 30,
@@ -414,10 +414,10 @@
     "app_id": "com.fatmerge.global",
     "local_name": "Tasty Travels: Merge Game",
     "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
-    "est_revenue": 6802590,
-    "est_revenue_fmt": "$6.8M",
+    "est_revenue": 6693414,
+    "est_revenue_fmt": "$6.7M",
     "est_revenue_won": "26.0억",
-    "est_revenue_krw": 9183496500
+    "est_revenue_krw": 9036108900
   },
   {
     "rank": 31,
@@ -428,10 +428,10 @@
     "app_id": "com.bandainamcoent.opbrjp",
     "local_name": "ONE PIECE バウンティラッシュ - アクションゲーム",
     "icon": "https://play-lh.googleusercontent.com/B1mHaeo7VRgCohe_DV1XCOS2mtvoujEinoZoqRDW2GbvWvxooS55LycfHlBs8p1bsx9C8YUfPk-RKEaNeF1cu58",
-    "est_revenue": 6382238,
-    "est_revenue_fmt": "$6.4M",
+    "est_revenue": 6331642,
+    "est_revenue_fmt": "$6.3M",
     "est_revenue_won": "",
-    "est_revenue_krw": 8616021300
+    "est_revenue_krw": 8547716700
   },
   {
     "rank": 32,
@@ -449,20 +449,6 @@
   },
   {
     "rank": 33,
-    "title": "Pokémon Sleep",
-    "developer": "The Pokémon Company",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "jp.pokemon.pokemonsleep",
-    "local_name": "Pokémon Sleep",
-    "icon": "https://play-lh.googleusercontent.com/tg-BeEJO7UDjvfxWXWJ1u-PMLa-45twu0YhJkZfQu-PEjRJU_2l9Sb9xMR3YBha3mtLzdzU-016ZpWN5IUwrFwU",
-    "est_revenue": 661019,
-    "est_revenue_fmt": "$661K",
-    "est_revenue_won": "12.4억",
-    "est_revenue_krw": 892375650
-  },
-  {
-    "rank": 34,
     "title": "Chaos Zero Nightmare",
     "developer": "Smilegate, Inc.",
     "genre": "Game",
@@ -470,9 +456,23 @@
     "app_id": "com.smilegate.chaoszero.stove.google",
     "local_name": "Chaos Zero Nightmare",
     "icon": "https://play-lh.googleusercontent.com/rZ0kLPx7Y_zRavJ1TImLv3oj0HYRrye8K9wJOuegTIrfxaS2qyGu9tWJcXphO0ELMfj3BgOSG_BPKKVST6zDPg",
+    "est_revenue": 661019,
+    "est_revenue_fmt": "$661K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 892375650
+  },
+  {
+    "rank": 34,
+    "title": "Pokémon Sleep",
+    "developer": "The Pokémon Company",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "jp.pokemon.pokemonsleep",
+    "local_name": "Pokémon Sleep",
+    "icon": "https://play-lh.googleusercontent.com/tg-BeEJO7UDjvfxWXWJ1u-PMLa-45twu0YhJkZfQu-PEjRJU_2l9Sb9xMR3YBha3mtLzdzU-016ZpWN5IUwrFwU",
     "est_revenue": 626306,
     "est_revenue_fmt": "$626K",
-    "est_revenue_won": "",
+    "est_revenue_won": "12.4억",
     "est_revenue_krw": 845513100
   },
   {
@@ -589,16 +589,16 @@
   },
   {
     "rank": 43,
-    "title": "eFootball™  CHAMPION SQUADS",
-    "developer": "KONAMI",
+    "title": "MementoMori: AFKRPG",
+    "developer": "Bank of Innovation, Inc.",
     "genre": "Game",
-    "rating": 4.4,
-    "app_id": "jp.konami.wecc",
-    "local_name": "eFootball™  CHAMPION SQUADS",
-    "icon": "https://play-lh.googleusercontent.com/uvaRNAr5rHRq9wFGjPEEBGDMIP9pgWOMj4cPNTM4dosust2m4vUVcD_En5WE5wLewHCNJZwskc8n2zE_uhf_",
+    "rating": 4.5,
+    "app_id": "jp.boi.mementomori.android",
+    "local_name": "MementoMori: AFKRPG",
+    "icon": "https://play-lh.googleusercontent.com/HG9W8SRyTeeLPFrrS17a06d5ANgakJbHomr73o3l6I23YAiIFL399Y1_Q-2FDBO_zxqETTkphFhE-uTeuD2nH6w",
     "est_revenue": 413144,
     "est_revenue_fmt": "$413K",
-    "est_revenue_won": "",
+    "est_revenue_won": "14.9억",
     "est_revenue_krw": 557744400
   },
   {
@@ -617,16 +617,16 @@
   },
   {
     "rank": 45,
-    "title": "MementoMori: AFKRPG",
-    "developer": "Bank of Innovation, Inc.",
+    "title": "eFootball™  CHAMPION SQUADS",
+    "developer": "KONAMI",
     "genre": "Game",
-    "rating": 4.5,
-    "app_id": "jp.boi.mementomori.android",
-    "local_name": "MementoMori: AFKRPG",
-    "icon": "https://play-lh.googleusercontent.com/HG9W8SRyTeeLPFrrS17a06d5ANgakJbHomr73o3l6I23YAiIFL399Y1_Q-2FDBO_zxqETTkphFhE-uTeuD2nH6w",
+    "rating": 4.4,
+    "app_id": "jp.konami.wecc",
+    "local_name": "eFootball™  CHAMPION SQUADS",
+    "icon": "https://play-lh.googleusercontent.com/uvaRNAr5rHRq9wFGjPEEBGDMIP9pgWOMj4cPNTM4dosust2m4vUVcD_En5WE5wLewHCNJZwskc8n2zE_uhf_",
     "est_revenue": 328093,
     "est_revenue_fmt": "$328K",
-    "est_revenue_won": "14.9억",
+    "est_revenue_won": "",
     "est_revenue_krw": 442925550
   },
   {
