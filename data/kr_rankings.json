@@ -127,20 +127,6 @@
   },
   {
     "rank": 10,
-    "title": "리니지M",
-    "developer": "NC Corporation",
-    "genre": "Game",
-    "rating": 2.6,
-    "app_id": "com.ncsoft.lineagem19",
-    "local_name": "리니지M",
-    "icon": "https://play-lh.googleusercontent.com/xy6xR7NsdX81HpwWu8CoVkseQECAug3pLvvpdBGtls12xwiQy3Qw5hvQ51fc3oTXPmI8xyOArPnm70t8395Mmdw",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "60.0억",
-    "est_revenue_krw": 2430000000
-  },
-  {
-    "rank": 11,
     "title": "열혈강호: 넥스트",
     "developer": "Kingnet Technology Limited",
     "genre": "Game",
@@ -151,6 +137,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "35.0억",
+    "est_revenue_krw": 2430000000
+  },
+  {
+    "rank": 11,
+    "title": "리니지M",
+    "developer": "NC Corporation",
+    "genre": "Game",
+    "rating": 2.6,
+    "app_id": "com.ncsoft.lineagem19",
+    "local_name": "리니지M",
+    "icon": "https://play-lh.googleusercontent.com/xy6xR7NsdX81HpwWu8CoVkseQECAug3pLvvpdBGtls12xwiQy3Qw5hvQ51fc3oTXPmI8xyOArPnm70t8395Mmdw",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "60.0억",
     "est_revenue_krw": 2430000000
   },
   {
@@ -393,20 +393,6 @@
   },
   {
     "rank": 29,
-    "title": "Last Asylum: Plague",
-    "developer": "37GAMES GLOBAL",
-    "genre": "Game",
-    "rating": 4.9,
-    "app_id": "com.phs.global",
-    "local_name": "라스트 어사일럼",
-    "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "16.1억",
-    "est_revenue_krw": 2430000000
-  },
-  {
-    "rank": 30,
     "title": "Royal Kingdom",
     "developer": "Dream Games, Ltd.",
     "genre": "Game",
@@ -417,6 +403,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "9.4억",
+    "est_revenue_krw": 2430000000
+  },
+  {
+    "rank": 30,
+    "title": "Last Asylum: Plague",
+    "developer": "37GAMES GLOBAL",
+    "genre": "Game",
+    "rating": 4.9,
+    "app_id": "com.phs.global",
+    "local_name": "라스트 어사일럼",
+    "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "16.1억",
     "est_revenue_krw": 2430000000
   },
   {
@@ -505,20 +505,6 @@
   },
   {
     "rank": 37,
-    "title": "메이플스토리M",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.nexon.nsc.maplem",
-    "local_name": "메이플스토리M",
-    "icon": "https://play-lh.googleusercontent.com/PkBuxJo-df0nSHREeWdVPB4ucRTMiEcz__Ta94AgpDJVaPgvwhE91ua-y1sQtNf5EmHzOfgQ-EDOlAwBDP4j4w",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "10.0억",
-    "est_revenue_krw": 2430000000
-  },
-  {
-    "rank": 38,
     "title": "Hollywood Merge",
     "developer": "VoyagerOne IE",
     "genre": "Game",
@@ -532,7 +518,35 @@
     "est_revenue_krw": 2430000000
   },
   {
+    "rank": 38,
+    "title": "메이플스토리M",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.nexon.nsc.maplem",
+    "local_name": "메이플스토리M",
+    "icon": "https://play-lh.googleusercontent.com/PkBuxJo-df0nSHREeWdVPB4ucRTMiEcz__Ta94AgpDJVaPgvwhE91ua-y1sQtNf5EmHzOfgQ-EDOlAwBDP4j4w",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "10.0억",
+    "est_revenue_krw": 2430000000
+  },
+  {
     "rank": 39,
+    "title": "Township",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.playrix.township",
+    "local_name": "Township",
+    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "",
+    "est_revenue_krw": 2430000000
+  },
+  {
+    "rank": 40,
     "title": "Genshin Impact",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -546,35 +560,7 @@
     "est_revenue_krw": 2430000000
   },
   {
-    "rank": 40,
-    "title": "Township",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.playrix.township",
-    "local_name": "Township",
-    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
-    "est_revenue": 233251,
-    "est_revenue_fmt": "$233K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 314888850
-  },
-  {
     "rank": 41,
-    "title": "EA SPORTS FC Online M",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 2.3,
-    "app_id": "com.nexon.fo4m",
-    "local_name": "FC 온라인 M",
-    "icon": "https://play-lh.googleusercontent.com/3kHUd_bPqo2Mz00jcm8gxIjgawGnkg1w7V1KZfQ-UalXUj8QrLwqmGxpUNniLQ4o3exMUCl_lKa5KOolaOqBFdo",
-    "est_revenue": 233251,
-    "est_revenue_fmt": "$233K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 314888850
-  },
-  {
-    "rank": 42,
     "title": "Flambé®: Merge & Cook",
     "developer": "Microfun Limited",
     "genre": "Game",
@@ -582,10 +568,24 @@
     "app_id": "com.cola.game",
     "local_name": "플람베",
     "icon": "https://play-lh.googleusercontent.com/DxEYTS_nNDbesjgAGulDTgl8V2cV42UUmeOGPei2c95XRW7GY_XgihSsaPF7rnRua18Egkd1-siIgbkVjq73Hg",
-    "est_revenue": 213144,
-    "est_revenue_fmt": "$213K",
+    "est_revenue": 222881,
+    "est_revenue_fmt": "$223K",
     "est_revenue_won": "",
-    "est_revenue_krw": 287744400
+    "est_revenue_krw": 300889350
+  },
+  {
+    "rank": 42,
+    "title": "EA SPORTS FC Online M",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 2.3,
+    "app_id": "com.nexon.fo4m",
+    "local_name": "FC 온라인 M",
+    "icon": "https://play-lh.googleusercontent.com/3kHUd_bPqo2Mz00jcm8gxIjgawGnkg1w7V1KZfQ-UalXUj8QrLwqmGxpUNniLQ4o3exMUCl_lKa5KOolaOqBFdo",
+    "est_revenue": 222881,
+    "est_revenue_fmt": "$223K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 300889350
   },
   {
     "rank": 43,
@@ -645,6 +645,20 @@
   },
   {
     "rank": 47,
+    "title": "Honkai: Star Rail",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "genre": "Game",
+    "rating": 3.6,
+    "app_id": "com.HoYoverse.hkrpgoversea",
+    "local_name": "붕괴: 스타레일",
+    "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
+    "est_revenue": 203992,
+    "est_revenue_fmt": "$204K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 275389200
+  },
+  {
+    "rank": 48,
     "title": "Pmang Poker : Casino Royal",
     "developer": "NEOWIZ corp",
     "genre": "Game",
@@ -652,24 +666,10 @@
     "app_id": "com.neowiz.games.poker",
     "local_name": "피망 포커",
     "icon": "https://play-lh.googleusercontent.com/MkI60z70bUF0YIi9loQzKm08WLinhruANPb6D7j1Gh1iPiLrfL1W-2ZQ0Q8ICCMdkFY0jDlTjx9_iZFVGOourg",
-    "est_revenue": 192674,
-    "est_revenue_fmt": "$193K",
+    "est_revenue": 185045,
+    "est_revenue_fmt": "$185K",
     "est_revenue_won": "",
-    "est_revenue_krw": 260109900
-  },
-  {
-    "rank": 48,
-    "title": "Homescapes",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.playrix.homescapes",
-    "local_name": "홈스케이프",
-    "icon": "https://play-lh.googleusercontent.com/ft9OqNwpLaL45Jq3YuSYt0wm3y_j-YteTQqfq4Cu2PRWTrkFMuhlmUHmxggNxOP96gxR9Q3ML1Yt87iV3zD5fg",
-    "est_revenue": 165567,
-    "est_revenue_fmt": "$166K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 223515450
+    "est_revenue_krw": 249810750
   },
   {
     "rank": 49,
@@ -680,23 +680,23 @@
     "app_id": "com.orienjoy.heroland.kr",
     "local_name": "히어로 랜드M",
     "icon": "https://play-lh.googleusercontent.com/S4_WFt9oWp_UPVqTtqSwfE8RP4s9VixhUgrtZx3TgSHI9KwgU0B9QJC9RNMhnRRcU7ZVrx5eO0t0kNg7k1F6L4Y",
-    "est_revenue": 165567,
-    "est_revenue_fmt": "$166K",
+    "est_revenue": 185045,
+    "est_revenue_fmt": "$185K",
     "est_revenue_won": "",
-    "est_revenue_krw": 223515450
+    "est_revenue_krw": 249810750
   },
   {
     "rank": 50,
-    "title": "Honkai: Star Rail",
-    "developer": "COGNOSPHERE PTE. LTD.",
+    "title": "Homescapes",
+    "developer": "Playrix",
     "genre": "Game",
-    "rating": 3.6,
-    "app_id": "com.HoYoverse.hkrpgoversea",
-    "local_name": "붕괴: 스타레일",
-    "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
-    "est_revenue": 165567,
-    "est_revenue_fmt": "$166K",
+    "rating": 4.7,
+    "app_id": "com.playrix.homescapes",
+    "local_name": "홈스케이프",
+    "icon": "https://play-lh.googleusercontent.com/ft9OqNwpLaL45Jq3YuSYt0wm3y_j-YteTQqfq4Cu2PRWTrkFMuhlmUHmxggNxOP96gxR9Q3ML1Yt87iV3zD5fg",
+    "est_revenue": 153000,
+    "est_revenue_fmt": "$153K",
     "est_revenue_won": "",
-    "est_revenue_krw": 223515450
+    "est_revenue_krw": 206550000
   }
 ]
