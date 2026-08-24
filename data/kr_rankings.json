@@ -113,20 +113,6 @@
   },
   {
     "rank": 9,
-    "title": "열혈강호: 넥스트",
-    "developer": "Kingnet Technology Limited",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.rxjhglkr.gp",
-    "local_name": "열혈강호: 넥스트",
-    "icon": "https://play-lh.googleusercontent.com/ct9hCP6C7NRwwTT3p-eIRLAJHMYuK2k2kO0tC6nc8YUCwgRos5tOuzfKmflfPOwQdfJiuNHkmifu0lhVcEmY",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "35.0억",
-    "est_revenue_krw": 2430000000
-  },
-  {
-    "rank": 10,
     "title": "Roblox",
     "developer": "Roblox Corporation",
     "genre": "Game",
@@ -140,7 +126,7 @@
     "est_revenue_krw": 2430000000
   },
   {
-    "rank": 11,
+    "rank": 10,
     "title": "리니지M",
     "developer": "NC Corporation",
     "genre": "Game",
@@ -151,6 +137,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "60.0억",
+    "est_revenue_krw": 2430000000
+  },
+  {
+    "rank": 11,
+    "title": "열혈강호: 넥스트",
+    "developer": "Kingnet Technology Limited",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.rxjhglkr.gp",
+    "local_name": "열혈강호: 넥스트",
+    "icon": "https://play-lh.googleusercontent.com/ct9hCP6C7NRwwTT3p-eIRLAJHMYuK2k2kO0tC6nc8YUCwgRos5tOuzfKmflfPOwQdfJiuNHkmifu0lhVcEmY",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "35.0억",
     "est_revenue_krw": 2430000000
   },
   {
@@ -239,20 +239,6 @@
   },
   {
     "rank": 18,
-    "title": "Last Z: Survival Shooter",
-    "developer": "Omnilojo Pte Ltd",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.readygo.barrel.gp",
-    "local_name": "라스트 Z: 서바이벌 슈터",
-    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "15.0억",
-    "est_revenue_krw": 2430000000
-  },
-  {
-    "rank": 19,
     "title": "뱀피르",
     "developer": "Netmarble",
     "genre": "Game",
@@ -263,6 +249,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "",
+    "est_revenue_krw": 2430000000
+  },
+  {
+    "rank": 19,
+    "title": "Last Z: Survival Shooter",
+    "developer": "Omnilojo Pte Ltd",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.readygo.barrel.gp",
+    "local_name": "라스트 Z: 서바이벌 슈터",
+    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "15.0억",
     "est_revenue_krw": 2430000000
   },
   {
@@ -617,20 +617,6 @@
   },
   {
     "rank": 45,
-    "title": "Dark War Survival",
-    "developer": "Omnilojo Pte Ltd",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.readygo.dark.gp",
-    "local_name": "Dark War Survival",
-    "icon": "https://play-lh.googleusercontent.com/gaanbGpciRZh801jTahoaImwr96KtBp2Uuez12ww9sIxFQhqieIZgTjB_dGzhCaR1ccM9Eku11FxhOWgoxifwdc",
-    "est_revenue": 195380,
-    "est_revenue_fmt": "$195K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 263763000
-  },
-  {
-    "rank": 46,
     "title": "Honkai: Star Rail",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -644,7 +630,7 @@
     "est_revenue_krw": 263763000
   },
   {
-    "rank": 47,
+    "rank": 46,
     "title": "한게임 섯다&맞고",
     "developer": "NHN Corp.",
     "genre": "Game",
@@ -652,13 +638,13 @@
     "app_id": "com.NHNEnt.MSudda",
     "local_name": "한게임 섯다&맞고",
     "icon": "https://play-lh.googleusercontent.com/CqdDCCaoUKuuANbhIfbCWehb2UTPN6YPbucx6KUzurF6WebH10KPaG46AG-fBCl9w1hAnOqbr2psIJtQFoUOaHw",
-    "est_revenue": 192674,
-    "est_revenue_fmt": "$193K",
+    "est_revenue": 195380,
+    "est_revenue_fmt": "$195K",
     "est_revenue_won": "",
-    "est_revenue_krw": 260109900
+    "est_revenue_krw": 263763000
   },
   {
-    "rank": 48,
+    "rank": 47,
     "title": "Legend of Avatar",
     "developer": "BillionaireGames",
     "genre": "Game",
@@ -666,13 +652,13 @@
     "app_id": "com.billionairegames.serares",
     "local_name": "Legend of Avatar",
     "icon": "https://play-lh.googleusercontent.com/32hdADT1diPHMRQB8Yc9hWNLeSKpUVAn1_289IXeYZ8IijrbPvvI-TlQIzN9Gyk2e_nONde2DaM9zKNyX_na4R4",
-    "est_revenue": 192674,
-    "est_revenue_fmt": "$193K",
+    "est_revenue": 195380,
+    "est_revenue_fmt": "$195K",
     "est_revenue_won": "",
-    "est_revenue_krw": 260109900
+    "est_revenue_krw": 263763000
   },
   {
-    "rank": 49,
+    "rank": 48,
     "title": "Homescapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -680,23 +666,37 @@
     "app_id": "com.playrix.homescapes",
     "local_name": "홈스케이프",
     "icon": "https://play-lh.googleusercontent.com/ft9OqNwpLaL45Jq3YuSYt0wm3y_j-YteTQqfq4Cu2PRWTrkFMuhlmUHmxggNxOP96gxR9Q3ML1Yt87iV3zD5fg",
-    "est_revenue": 159111,
-    "est_revenue_fmt": "$159K",
+    "est_revenue": 165567,
+    "est_revenue_fmt": "$166K",
     "est_revenue_won": "",
-    "est_revenue_krw": 214799850
+    "est_revenue_krw": 223515450
   },
   {
-    "rank": 50,
+    "rank": 49,
     "title": "히어로 랜드M",
     "developer": "Orienjoy International Company Limited",
     "genre": "Game",
-    "rating": 4.5,
+    "rating": 4.6,
     "app_id": "com.orienjoy.heroland.kr",
     "local_name": "히어로 랜드M",
     "icon": "https://play-lh.googleusercontent.com/S4_WFt9oWp_UPVqTtqSwfE8RP4s9VixhUgrtZx3TgSHI9KwgU0B9QJC9RNMhnRRcU7ZVrx5eO0t0kNg7k1F6L4Y",
-    "est_revenue": 159111,
-    "est_revenue_fmt": "$159K",
+    "est_revenue": 165567,
+    "est_revenue_fmt": "$166K",
     "est_revenue_won": "",
-    "est_revenue_krw": 214799850
+    "est_revenue_krw": 223515450
+  },
+  {
+    "rank": 50,
+    "title": "Dark War Survival",
+    "developer": "Omnilojo Pte Ltd",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.readygo.dark.gp",
+    "local_name": "Dark War Survival",
+    "icon": "https://play-lh.googleusercontent.com/gaanbGpciRZh801jTahoaImwr96KtBp2Uuez12ww9sIxFQhqieIZgTjB_dGzhCaR1ccM9Eku11FxhOWgoxifwdc",
+    "est_revenue": 165567,
+    "est_revenue_fmt": "$166K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 223515450
   }
 ]
