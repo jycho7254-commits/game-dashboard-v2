@@ -127,20 +127,6 @@
   },
   {
     "rank": 10,
-    "title": "Pokémon GO",
-    "developer": "Scopely Explore, Inc.",
-    "genre": "Game",
-    "rating": 3.5,
-    "app_id": "com.nianticlabs.pokemongo",
-    "local_name": "Pokémon GO",
-    "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
-    "est_revenue": 8423630,
-    "est_revenue_fmt": "$8.4M",
-    "est_revenue_won": "25.0억",
-    "est_revenue_krw": 11650878431
-  },
-  {
-    "rank": 11,
     "title": "Last War:Survival Game",
     "developer": "FUNFLY PTE. LTD.",
     "genre": "Game",
@@ -148,9 +134,23 @@
     "app_id": "com.fun.lastwar.gp",
     "local_name": "Last War:Survival Game",
     "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc",
+    "est_revenue": 8423630,
+    "est_revenue_fmt": "$8.4M",
+    "est_revenue_won": "150.0억",
+    "est_revenue_krw": 11650878431
+  },
+  {
+    "rank": 11,
+    "title": "Pokémon GO",
+    "developer": "Scopely Explore, Inc.",
+    "genre": "Game",
+    "rating": 3.5,
+    "app_id": "com.nianticlabs.pokemongo",
+    "local_name": "Pokémon GO",
+    "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
     "est_revenue": 7777913,
     "est_revenue_fmt": "$7.8M",
-    "est_revenue_won": "150.0억",
+    "est_revenue_won": "25.0억",
     "est_revenue_krw": 10757775307
   },
   {
