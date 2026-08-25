@@ -183,6 +183,20 @@
   },
   {
     "rank": 14,
+    "title": "CookieRun: Crumble - Idle RPG",
+    "developer": "Devsisters Corporation",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.devsisters.cc",
+    "local_name": "쿠키런: 크럼블",
+    "icon": "https://play-lh.googleusercontent.com/nH4gayvv0-dHdjwjxUIKY9QWr_6dYnNeqFNHPwckQ3dgvJgrsJPdkIEyevgE09j0IGUiAIwpniaoAZ7Xn0PH",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "66.1억",
+    "est_revenue_krw": 2489613287
+  },
+  {
+    "rank": 15,
     "title": "Zenless Zone Zero - Anniv.",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -196,7 +210,7 @@
     "est_revenue_krw": 2489613287
   },
   {
-    "rank": 15,
+    "rank": 16,
     "title": "Lucky Defense",
     "developer": "111%",
     "genre": "Game",
@@ -207,20 +221,6 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "18.6억",
-    "est_revenue_krw": 2489613287
-  },
-  {
-    "rank": 16,
-    "title": "CookieRun: Crumble - Idle RPG",
-    "developer": "Devsisters Corporation",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.devsisters.cc",
-    "local_name": "쿠키런: 크럼블",
-    "icon": "https://play-lh.googleusercontent.com/nH4gayvv0-dHdjwjxUIKY9QWr_6dYnNeqFNHPwckQ3dgvJgrsJPdkIEyevgE09j0IGUiAIwpniaoAZ7Xn0PH",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "66.1억",
     "est_revenue_krw": 2489613287
   },
   {
@@ -281,6 +281,20 @@
   },
   {
     "rank": 21,
+    "title": "뱀피르",
+    "developer": "Netmarble",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.netmarble.thered",
+    "local_name": "뱀피르",
+    "icon": "https://play-lh.googleusercontent.com/O3AtBJqCPmOHow-d2tskDjwXGWpYpgz2bPEJC5s-FQ1BzmtxnFTQ4h6OTTJ74pyih8KBs78UsTk7w6PAHkbt",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "",
+    "est_revenue_krw": 2489613287
+  },
+  {
+    "rank": 22,
     "title": "삼국지: 천하결전",
     "developer": "BILIBILI",
     "genre": "Game",
@@ -294,7 +308,7 @@
     "est_revenue_krw": 2489613287
   },
   {
-    "rank": 22,
+    "rank": 23,
     "title": "한게임 포커",
     "developer": "NHN Corp.",
     "genre": "Game",
@@ -305,20 +319,6 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "23.8억",
-    "est_revenue_krw": 2489613287
-  },
-  {
-    "rank": 23,
-    "title": "뱀피르",
-    "developer": "Netmarble",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.netmarble.thered",
-    "local_name": "뱀피르",
-    "icon": "https://play-lh.googleusercontent.com/O3AtBJqCPmOHow-d2tskDjwXGWpYpgz2bPEJC5s-FQ1BzmtxnFTQ4h6OTTJ74pyih8KBs78UsTk7w6PAHkbt",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "",
     "est_revenue_krw": 2489613287
   },
   {
@@ -631,20 +631,6 @@
   },
   {
     "rank": 46,
-    "title": "히어로 랜드M",
-    "developer": "Orienjoy International Company Limited",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.orienjoy.heroland.kr",
-    "local_name": "히어로 랜드M",
-    "icon": "https://play-lh.googleusercontent.com/S4_WFt9oWp_UPVqTtqSwfE8RP4s9VixhUgrtZx3TgSHI9KwgU0B9QJC9RNMhnRRcU7ZVrx5eO0t0kNg7k1F6L4Y",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "",
-    "est_revenue_krw": 2489613287
-  },
-  {
-    "rank": 47,
     "title": "Genshin Impact",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -658,35 +644,7 @@
     "est_revenue_krw": 2489613287
   },
   {
-    "rank": 48,
-    "title": "Pmang Poker : Casino Royal",
-    "developer": "NEOWIZ corp",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.neowiz.games.poker",
-    "local_name": "피망 포커",
-    "icon": "https://play-lh.googleusercontent.com/MkI60z70bUF0YIi9loQzKm08WLinhruANPb6D7j1Gh1iPiLrfL1W-2ZQ0Q8ICCMdkFY0jDlTjx9_iZFVGOourg",
-    "est_revenue": 185045,
-    "est_revenue_fmt": "$185K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 255939162
-  },
-  {
-    "rank": 49,
-    "title": "Legend of Avatar",
-    "developer": "BillionaireGames",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.billionairegames.serares",
-    "local_name": "Legend of Avatar",
-    "icon": "https://play-lh.googleusercontent.com/32hdADT1diPHMRQB8Yc9hWNLeSKpUVAn1_289IXeYZ8IijrbPvvI-TlQIzN9Gyk2e_nONde2DaM9zKNyX_na4R4",
-    "est_revenue": 185045,
-    "est_revenue_fmt": "$185K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 255939162
-  },
-  {
-    "rank": 50,
+    "rank": 47,
     "title": "한게임 섯다&맞고",
     "developer": "NHN Corp.",
     "genre": "Game",
@@ -694,6 +652,48 @@
     "app_id": "com.NHNEnt.MSudda",
     "local_name": "한게임 섯다&맞고",
     "icon": "https://play-lh.googleusercontent.com/CqdDCCaoUKuuANbhIfbCWehb2UTPN6YPbucx6KUzurF6WebH10KPaG46AG-fBCl9w1hAnOqbr2psIJtQFoUOaHw",
+    "est_revenue": 192674,
+    "est_revenue_fmt": "$193K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 266490973
+  },
+  {
+    "rank": 48,
+    "title": "Dark War Survival",
+    "developer": "Omnilojo Pte Ltd",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.readygo.dark.gp",
+    "local_name": "Dark War Survival",
+    "icon": "https://play-lh.googleusercontent.com/gaanbGpciRZh801jTahoaImwr96KtBp2Uuez12ww9sIxFQhqieIZgTjB_dGzhCaR1ccM9Eku11FxhOWgoxifwdc",
+    "est_revenue": 192674,
+    "est_revenue_fmt": "$193K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 266490973
+  },
+  {
+    "rank": 49,
+    "title": "히어로 랜드M",
+    "developer": "Orienjoy International Company Limited",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.orienjoy.heroland.kr",
+    "local_name": "히어로 랜드M",
+    "icon": "https://play-lh.googleusercontent.com/S4_WFt9oWp_UPVqTtqSwfE8RP4s9VixhUgrtZx3TgSHI9KwgU0B9QJC9RNMhnRRcU7ZVrx5eO0t0kNg7k1F6L4Y",
+    "est_revenue": 187190,
+    "est_revenue_fmt": "$187K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 258905951
+  },
+  {
+    "rank": 50,
+    "title": "Pmang Poker : Casino Royal",
+    "developer": "NEOWIZ corp",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.neowiz.games.poker",
+    "local_name": "피망 포커",
+    "icon": "https://play-lh.googleusercontent.com/MkI60z70bUF0YIi9loQzKm08WLinhruANPb6D7j1Gh1iPiLrfL1W-2ZQ0Q8ICCMdkFY0jDlTjx9_iZFVGOourg",
     "est_revenue": 171000,
     "est_revenue_fmt": "$171K",
     "est_revenue_won": "",
