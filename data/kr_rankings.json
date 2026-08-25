@@ -22,10 +22,10 @@
     "app_id": "com.gof.global",
     "local_name": "화이트아웃 서바이벌",
     "icon": "https://play-lh.googleusercontent.com/tNMaMiJ4wTQy_TeZSWHdSlP5qH0PGig9g9sDJu2QFvCHdnrbo2u17pX55W4i6KITo56v_ZyICkqLgA2svH9ycQ",
-    "est_revenue": 6854480,
-    "est_revenue_fmt": "$6.9M",
+    "est_revenue": 5252684,
+    "est_revenue_fmt": "$5.3M",
     "est_revenue_won": "120.0억",
-    "est_revenue_krw": 9480558048
+    "est_revenue_krw": 7265084378
   },
   {
     "rank": 3,
@@ -36,10 +36,10 @@
     "app_id": "com.nexon.ma",
     "local_name": "메이플스토리: 모바일",
     "icon": "https://play-lh.googleusercontent.com/iqpY1xJzA5iIQdnHxk-IOfQFESViwUyTQ1AIwF1_i3kd8sQTTQDrkMLys26QqSb9tG35M5FTw2VjQuCcoe3MJA",
-    "est_revenue": 5663131,
-    "est_revenue_fmt": "$5.7M",
+    "est_revenue": 3714032,
+    "est_revenue_fmt": "$3.7M",
     "est_revenue_won": "31.4억",
-    "est_revenue_krw": 7832781214
+    "est_revenue_krw": 5136946343
   },
   {
     "rank": 4,
@@ -50,10 +50,10 @@
     "app_id": "com.kurogame.wutheringwaves.global",
     "local_name": "명조",
     "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_",
-    "est_revenue": 4945673,
-    "est_revenue_fmt": "$4.9M",
+    "est_revenue": 2904283,
+    "est_revenue_fmt": "$2.9M",
     "est_revenue_won": "17.3억",
-    "est_revenue_krw": 6840451787
+    "est_revenue_krw": 4016967526
   },
   {
     "rank": 5,
@@ -64,10 +64,10 @@
     "app_id": "com.run.tower.defense",
     "local_name": "킹샷",
     "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
-    "est_revenue": 4452381,
-    "est_revenue_fmt": "$4.5M",
+    "est_revenue": 2399901,
+    "est_revenue_fmt": "$2.4M",
     "est_revenue_won": "74.8억",
-    "est_revenue_krw": 6158170499
+    "est_revenue_krw": 3319347454
   },
   {
     "rank": 6,
@@ -78,27 +78,13 @@
     "app_id": "com.mergegames.gossipharbor",
     "local_name": "가십 하버",
     "icon": "https://play-lh.googleusercontent.com/HLRg8oInVYJV8Uebxlh1dTH4j7OTBMIWOPZY7A7ryW9UB8K4i7HCOqkGfSLORsK-XzqhnJcJM0mjObVKZYL8zA",
-    "est_revenue": 4086086,
-    "est_revenue_fmt": "$4.1M",
+    "est_revenue": 2053541,
+    "est_revenue_fmt": "$2.1M",
     "est_revenue_won": "52.1억",
-    "est_revenue_krw": 5651541111
+    "est_revenue_krw": 2840290533
   },
   {
     "rank": 7,
-    "title": "GODDESS OF VICTORY: NIKKE",
-    "developer": "Level Infinite",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.proximabeta.nikke",
-    "local_name": "승리의 여신: 니케",
-    "icon": "https://play-lh.googleusercontent.com/JK5mejs0bVT_9613gCxNfCjRw_m3JiQ4wC8B8Kt471yu7ThFQazVkCLTfPZ81hnenft7ilaE-qSwVGpQT6sEFcY",
-    "est_revenue": 3800000,
-    "est_revenue_fmt": "$3.8M",
-    "est_revenue_won": "22.0억",
-    "est_revenue_krw": 5255850273
-  },
-  {
-    "rank": 8,
     "title": "Royal Match",
     "developer": "Dream Games, Ltd.",
     "genre": "Game",
@@ -109,6 +95,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "38.0억",
+    "est_revenue_krw": 2489613287
+  },
+  {
+    "rank": 8,
+    "title": "GODDESS OF VICTORY: NIKKE",
+    "developer": "Level Infinite",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.proximabeta.nikke",
+    "local_name": "승리의 여신: 니케",
+    "icon": "https://play-lh.googleusercontent.com/JK5mejs0bVT_9613gCxNfCjRw_m3JiQ4wC8B8Kt471yu7ThFQazVkCLTfPZ81hnenft7ilaE-qSwVGpQT6sEFcY",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "22.0억",
     "est_revenue_krw": 2489613287
   },
   {
@@ -200,7 +200,7 @@
     "title": "Zenless Zone Zero - Anniv.",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
-    "rating": 3.3,
+    "rating": 3.2,
     "app_id": "com.HoYoverse.Nap",
     "local_name": "젠레스 존 제로",
     "icon": "https://play-lh.googleusercontent.com/-OwYJcIdDSfGJBOQozVC3kKxqnA7ev2O897twi-aVUpc8AXVMNtB3YWEXDui_V0VJxelNAbUbLXpNZj9AqWa3A",
@@ -253,20 +253,6 @@
   },
   {
     "rank": 19,
-    "title": "Last Z: Survival Shooter",
-    "developer": "Omnilojo Pte Ltd",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.readygo.barrel.gp",
-    "local_name": "라스트 Z: 서바이벌 슈터",
-    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "15.0억",
-    "est_revenue_krw": 2489613287
-  },
-  {
-    "rank": 20,
     "title": "Lucky Defense",
     "developer": "111%",
     "genre": "Game",
@@ -277,6 +263,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "18.6억",
+    "est_revenue_krw": 2489613287
+  },
+  {
+    "rank": 20,
+    "title": "Last Z: Survival Shooter",
+    "developer": "Omnilojo Pte Ltd",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.readygo.barrel.gp",
+    "local_name": "라스트 Z: 서바이벌 슈터",
+    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "15.0억",
     "est_revenue_krw": 2489613287
   },
   {
@@ -575,20 +575,6 @@
   },
   {
     "rank": 42,
-    "title": "Mystery Town: Merge Games",
-    "developer": "Cedar Games Studio",
-    "genre": "Game",
-    "rating": 4.9,
-    "app_id": "com.cedargames.mysterytown",
-    "local_name": "미스터리 타운",
-    "icon": "https://play-lh.googleusercontent.com/uVjVMEJrhT-xRoUtKIUj8tOVSbCWw4IsRHaTDYICRNjQycUj6SucVpeoAPiNZWeJ5JuzIt_ZZRo1X1pW6XJFAQE",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "3.2억",
-    "est_revenue_krw": 2489613287
-  },
-  {
-    "rank": 43,
     "title": "Seven Knights Re:BIRTH",
     "developer": "Netmarble",
     "genre": "Game",
@@ -599,6 +585,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "",
+    "est_revenue_krw": 2489613287
+  },
+  {
+    "rank": 43,
+    "title": "Mystery Town: Merge Games",
+    "developer": "Cedar Games Studio",
+    "genre": "Game",
+    "rating": 4.9,
+    "app_id": "com.cedargames.mysterytown",
+    "local_name": "미스터리 타운",
+    "icon": "https://play-lh.googleusercontent.com/uVjVMEJrhT-xRoUtKIUj8tOVSbCWw4IsRHaTDYICRNjQycUj6SucVpeoAPiNZWeJ5JuzIt_ZZRo1X1pW6XJFAQE",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "3.2억",
     "est_revenue_krw": 2489613287
   },
   {
