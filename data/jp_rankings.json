@@ -134,10 +134,10 @@
     "app_id": "com.fun.lastwar.gp",
     "local_name": "Last War:Survival Game",
     "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc",
-    "est_revenue": 8423630,
-    "est_revenue_fmt": "$8.4M",
+    "est_revenue": 8507346,
+    "est_revenue_fmt": "$8.5M",
     "est_revenue_won": "150.0억",
-    "est_revenue_krw": 11650870176
+    "est_revenue_krw": 11766659242
   },
   {
     "rank": 11,
@@ -148,27 +148,13 @@
     "app_id": "com.nianticlabs.pokemongo",
     "local_name": "Pokémon GO",
     "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
-    "est_revenue": 7777913,
-    "est_revenue_fmt": "$7.8M",
+    "est_revenue": 7925798,
+    "est_revenue_fmt": "$7.9M",
     "est_revenue_won": "25.0억",
-    "est_revenue_krw": 10757767685
+    "est_revenue_krw": 10962310018
   },
   {
     "rank": 12,
-    "title": "ホロライブドリームス",
-    "developer": "QualiArts, Inc.",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "game.qualiarts.hololive.dreams.jp",
-    "local_name": "ホロライブドリームス",
-    "icon": "https://play-lh.googleusercontent.com/j00IPpPSDv3cGqoKVIDf0qnCw6EbZQ4KpgMr10UWkf8Rm1qO9vCSoVhJwfCF1PbbKxV_Qt_eqZ_Sp4QMHuhwYBI",
-    "est_revenue": 7231738,
-    "est_revenue_fmt": "$7.2M",
-    "est_revenue_won": "222.6억",
-    "est_revenue_krw": 10002343477
-  },
-  {
-    "rank": 13,
     "title": "トゥーンブラスト (Toon Blast)",
     "developer": "Peak",
     "genre": "Game",
@@ -176,10 +162,24 @@
     "app_id": "net.peakgames.toonblast",
     "local_name": "トゥーンブラスト (Toon Blast)",
     "icon": "https://play-lh.googleusercontent.com/j3O3Pyk08XAv4iA4p-Irerfos8g-tLxQ3r42zlScMRsjjgnyQGeE1mqcH3aSY9wA2k6l8fBqpqEaIQfIG2gLLQ",
-    "est_revenue": 6763240,
-    "est_revenue_fmt": "$6.8M",
+    "est_revenue": 7429670,
+    "est_revenue_fmt": "$7.4M",
     "est_revenue_won": "55.0억",
-    "est_revenue_krw": 9354355689
+    "est_revenue_krw": 10276106693
+  },
+  {
+    "rank": 13,
+    "title": "ホロライブドリームス",
+    "developer": "QualiArts, Inc.",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "game.qualiarts.hololive.dreams.jp",
+    "local_name": "ホロライブドリームス",
+    "icon": "https://play-lh.googleusercontent.com/j00IPpPSDv3cGqoKVIDf0qnCw6EbZQ4KpgMr10UWkf8Rm1qO9vCSoVhJwfCF1PbbKxV_Qt_eqZ_Sp4QMHuhwYBI",
+    "est_revenue": 7000747,
+    "est_revenue_fmt": "$7.0M",
+    "est_revenue_won": "222.6억",
+    "est_revenue_krw": 9682855780
   },
   {
     "rank": 14,
@@ -190,13 +190,27 @@
     "app_id": "com.dreamgames.royalmatch",
     "local_name": "Royal Match",
     "icon": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
-    "est_revenue": 6356581,
-    "est_revenue_fmt": "$6.4M",
+    "est_revenue": 6625735,
+    "est_revenue_fmt": "$6.6M",
     "est_revenue_won": "80.0억",
-    "est_revenue_krw": 8791898504
+    "est_revenue_krw": 9164170115
   },
   {
     "rank": 15,
+    "title": "Trickcal:Chibi Go",
+    "developer": "BILIBILI",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.bilibili.trickcal",
+    "local_name": "Trickcal:Chibi Go",
+    "icon": "https://play-lh.googleusercontent.com/lwMgjeWGUepED3XVqPk4AXrkJwm4Mo7LvvGggHV_HXF9-INHiXCrD0fUVZl6IKwa4QhQUHDKnJ6uwUYPgG9LXg",
+    "est_revenue": 6294686,
+    "est_revenue_fmt": "$6.3M",
+    "est_revenue_won": "",
+    "est_revenue_krw": 8706290445
+  },
+  {
+    "rank": 16,
     "title": "eFootball™",
     "developer": "KONAMI",
     "genre": "Game",
@@ -207,20 +221,6 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "67.6억",
-    "est_revenue_krw": 8298705078
-  },
-  {
-    "rank": 16,
-    "title": "Trickcal:Chibi Go",
-    "developer": "BILIBILI",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.bilibili.trickcal",
-    "local_name": "Trickcal:Chibi Go",
-    "icon": "https://play-lh.googleusercontent.com/lwMgjeWGUepED3XVqPk4AXrkJwm4Mo7LvvGggHV_HXF9-INHiXCrD0fUVZl6IKwa4QhQUHDKnJ6uwUYPgG9LXg",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "",
     "est_revenue_krw": 8298705078
   },
   {
@@ -253,6 +253,20 @@
   },
   {
     "rank": 19,
+    "title": "Kingshot",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 3.6,
+    "app_id": "com.run.tower.defense",
+    "local_name": "Kingshot",
+    "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "73.3억",
+    "est_revenue_krw": 8298705078
+  },
+  {
+    "rank": 20,
     "title": "Honkai: Star Rail",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -263,20 +277,6 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "34.0억",
-    "est_revenue_krw": 8298705078
-  },
-  {
-    "rank": 20,
-    "title": "Kingshot",
-    "developer": "Century Games PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.5,
-    "app_id": "com.run.tower.defense",
-    "local_name": "Kingshot",
-    "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "73.3억",
     "est_revenue_krw": 8298705078
   },
   {
@@ -491,20 +491,6 @@
   },
   {
     "rank": 36,
-    "title": "放置少女 - 百花繚乱の萌姫たち",
-    "developer": "C4 Connect Inc.",
-    "genre": "Game",
-    "rating": 4,
-    "app_id": "jp.glee.girl",
-    "local_name": "放置少女 - 百花繚乱の萌姫たち",
-    "icon": "https://play-lh.googleusercontent.com/fkp_VLPLnTcgHIdZutQCvIJhEy5BkpetWeKonidaYW8HrnM-ASjALh2tK5xkku3jJFc6gMY1LF7caAthHTBBFg",
-    "est_revenue": 479536,
-    "est_revenue_fmt": "$480K",
-    "est_revenue_won": "35.8억",
-    "est_revenue_krw": 663254640
-  },
-  {
-    "rank": 37,
     "title": "あんさんぶるスターズ！！Music",
     "developer": "Happy Elements K.K",
     "genre": "Game",
@@ -512,10 +498,24 @@
     "app_id": "jp.co.happyelements.boysm",
     "local_name": "あんさんぶるスターズ！！Music",
     "icon": "https://play-lh.googleusercontent.com/McMZLXR9hYWUG883v6EVIh5k9P5iME0wPSbgd_bhVNU9hkUV-NlpXsfR4Je8o9TrlF52jzhMUkRQcefF5ZVkFw",
-    "est_revenue": 479536,
-    "est_revenue_fmt": "$480K",
+    "est_revenue": 532360,
+    "est_revenue_fmt": "$532K",
     "est_revenue_won": "",
-    "est_revenue_krw": 663254640
+    "est_revenue_krw": 736316439
+  },
+  {
+    "rank": 37,
+    "title": "放置少女 - 百花繚乱の萌姫たち",
+    "developer": "C4 Connect Inc.",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "jp.glee.girl",
+    "local_name": "放置少女 - 百花繚乱の萌姫たち",
+    "icon": "https://play-lh.googleusercontent.com/fkp_VLPLnTcgHIdZutQCvIJhEy5BkpetWeKonidaYW8HrnM-ASjALh2tK5xkku3jJFc6gMY1LF7caAthHTBBFg",
+    "est_revenue": 455849,
+    "est_revenue_fmt": "$456K",
+    "est_revenue_won": "35.8억",
+    "est_revenue_krw": 630492735
   },
   {
     "rank": 38,
@@ -526,10 +526,10 @@
     "app_id": "com.namcobandaigames.spmoja010",
     "local_name": "ONE PIECE トレジャークルーズ",
     "icon": "https://play-lh.googleusercontent.com/dn_lUDclwmGkLuyXUaZGAfiSZ2laqmFN-2kEhiziyzOi_2I_fryeQsGHot_HnNPg5_zS6zp7CtiTIZDCZeIHVw",
-    "est_revenue": 479536,
-    "est_revenue_fmt": "$480K",
+    "est_revenue": 455849,
+    "est_revenue_fmt": "$456K",
     "est_revenue_won": "",
-    "est_revenue_krw": 663254640
+    "est_revenue_krw": 630492735
   },
   {
     "rank": 39,
