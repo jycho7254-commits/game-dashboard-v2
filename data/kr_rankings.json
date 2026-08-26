@@ -169,6 +169,20 @@
   },
   {
     "rank": 13,
+    "title": "오딘: 발할라 라이징",
+    "developer": "Kakao Games Corp.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.kakaogames.odin",
+    "local_name": "오딘: 발할라 라이징",
+    "icon": "https://play-lh.googleusercontent.com/65JquVIM391Il8M5oXrUzwTOFvFn72Yef4EJGWLBp190MflgritBJqiMuSjoK_ZeA2jF53OV9rRNgAXRm8_scQ",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "28.4억",
+    "est_revenue_krw": 2489611523
+  },
+  {
+    "rank": 14,
     "title": "Coop TD: Together",
     "developer": "Supermagic",
     "genre": "Game",
@@ -182,7 +196,7 @@
     "est_revenue_krw": 2489611523
   },
   {
-    "rank": 14,
+    "rank": 15,
     "title": "CookieRun: Crumble - Idle RPG",
     "developer": "Devsisters Corporation",
     "genre": "Game",
@@ -193,20 +207,6 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "66.1억",
-    "est_revenue_krw": 2489611523
-  },
-  {
-    "rank": 15,
-    "title": "Zenless Zone Zero - Anniv.",
-    "developer": "COGNOSPHERE PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.3,
-    "app_id": "com.HoYoverse.Nap",
-    "local_name": "젠레스 존 제로",
-    "icon": "https://play-lh.googleusercontent.com/-OwYJcIdDSfGJBOQozVC3kKxqnA7ev2O897twi-aVUpc8AXVMNtB3YWEXDui_V0VJxelNAbUbLXpNZj9AqWa3A",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "20.2억",
     "est_revenue_krw": 2489611523
   },
   {
@@ -225,6 +225,20 @@
   },
   {
     "rank": 17,
+    "title": "Zenless Zone Zero - Anniv.",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "genre": "Game",
+    "rating": 3.3,
+    "app_id": "com.HoYoverse.Nap",
+    "local_name": "젠레스 존 제로",
+    "icon": "https://play-lh.googleusercontent.com/-OwYJcIdDSfGJBOQozVC3kKxqnA7ev2O897twi-aVUpc8AXVMNtB3YWEXDui_V0VJxelNAbUbLXpNZj9AqWa3A",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "20.2억",
+    "est_revenue_krw": 2489611523
+  },
+  {
+    "rank": 18,
     "title": "Last Z: Survival Shooter",
     "developer": "Omnilojo Pte Ltd",
     "genre": "Game",
@@ -235,20 +249,6 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "15.0억",
-    "est_revenue_krw": 2489611523
-  },
-  {
-    "rank": 18,
-    "title": "오딘: 발할라 라이징",
-    "developer": "Kakao Games Corp.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.kakaogames.odin",
-    "local_name": "오딘: 발할라 라이징",
-    "icon": "https://play-lh.googleusercontent.com/65JquVIM391Il8M5oXrUzwTOFvFn72Yef4EJGWLBp190MflgritBJqiMuSjoK_ZeA2jF53OV9rRNgAXRm8_scQ",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "28.4억",
     "est_revenue_krw": 2489611523
   },
   {
@@ -463,20 +463,6 @@
   },
   {
     "rank": 34,
-    "title": "State of Survival: Zombie War",
-    "developer": "FunPlus International AG",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.kingsgroup.sos",
-    "local_name": "S.O.S: 스테이트 오브 서바이벌",
-    "icon": "https://play-lh.googleusercontent.com/v4gBYHQkkjokISNaGIogV1PyR6vFJr-dFvoybqbtW5g4Zwk9l2mRHOL0rSwbigyVIIFe3FDuiqtESq4SJAeMNg",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "",
-    "est_revenue_krw": 2489611523
-  },
-  {
-    "rank": 35,
     "title": "Lineage W",
     "developer": "NC Corporation",
     "genre": "Game",
@@ -487,6 +473,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "6.7억",
+    "est_revenue_krw": 2489611523
+  },
+  {
+    "rank": 35,
+    "title": "State of Survival: Zombie War",
+    "developer": "FunPlus International AG",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "com.kingsgroup.sos",
+    "local_name": "S.O.S: 스테이트 오브 서바이벌",
+    "icon": "https://play-lh.googleusercontent.com/v4gBYHQkkjokISNaGIogV1PyR6vFJr-dFvoybqbtW5g4Zwk9l2mRHOL0rSwbigyVIIFe3FDuiqtESq4SJAeMNg",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "",
     "est_revenue_krw": 2489611523
   },
   {
@@ -617,6 +617,20 @@
   },
   {
     "rank": 45,
+    "title": "Homescapes",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.playrix.homescapes",
+    "local_name": "홈스케이프",
+    "icon": "https://play-lh.googleusercontent.com/ft9OqNwpLaL45Jq3YuSYt0wm3y_j-YteTQqfq4Cu2PRWTrkFMuhlmUHmxggNxOP96gxR9Q3ML1Yt87iV3zD5fg",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "",
+    "est_revenue_krw": 2489611523
+  },
+  {
+    "rank": 46,
     "title": "Genshin Impact",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -630,20 +644,6 @@
     "est_revenue_krw": 2489611523
   },
   {
-    "rank": 46,
-    "title": "Homescapes",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.playrix.homescapes",
-    "local_name": "홈스케이프",
-    "icon": "https://play-lh.googleusercontent.com/ft9OqNwpLaL45Jq3YuSYt0wm3y_j-YteTQqfq4Cu2PRWTrkFMuhlmUHmxggNxOP96gxR9Q3ML1Yt87iV3zD5fg",
-    "est_revenue": 179615,
-    "est_revenue_fmt": "$180K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 248428652
-  },
-  {
     "rank": 47,
     "title": "한게임 섯다&맞고",
     "developer": "NHN Corp.",
@@ -652,24 +652,24 @@
     "app_id": "com.NHNEnt.MSudda",
     "local_name": "한게임 섯다&맞고",
     "icon": "https://play-lh.googleusercontent.com/CqdDCCaoUKuuANbhIfbCWehb2UTPN6YPbucx6KUzurF6WebH10KPaG46AG-fBCl9w1hAnOqbr2psIJtQFoUOaHw",
-    "est_revenue": 179615,
-    "est_revenue_fmt": "$180K",
+    "est_revenue": 192674,
+    "est_revenue_fmt": "$193K",
     "est_revenue_won": "",
-    "est_revenue_krw": 248428652
+    "est_revenue_krw": 266490784
   },
   {
     "rank": 48,
-    "title": "Dark War Survival",
-    "developer": "Omnilojo Pte Ltd",
+    "title": "Legend of Avatar",
+    "developer": "BillionaireGames",
     "genre": "Game",
     "rating": 4.7,
-    "app_id": "com.readygo.dark.gp",
-    "local_name": "Dark War Survival",
-    "icon": "https://play-lh.googleusercontent.com/gaanbGpciRZh801jTahoaImwr96KtBp2Uuez12ww9sIxFQhqieIZgTjB_dGzhCaR1ccM9Eku11FxhOWgoxifwdc",
-    "est_revenue": 179615,
-    "est_revenue_fmt": "$180K",
+    "app_id": "com.billionairegames.serares",
+    "local_name": "Legend of Avatar",
+    "icon": "https://play-lh.googleusercontent.com/32hdADT1diPHMRQB8Yc9hWNLeSKpUVAn1_289IXeYZ8IijrbPvvI-TlQIzN9Gyk2e_nONde2DaM9zKNyX_na4R4",
+    "est_revenue": 192674,
+    "est_revenue_fmt": "$193K",
     "est_revenue_won": "",
-    "est_revenue_krw": 248428652
+    "est_revenue_krw": 266490784
   },
   {
     "rank": 49,
@@ -680,23 +680,23 @@
     "app_id": "com.orienjoy.heroland.kr",
     "local_name": "히어로 랜드M",
     "icon": "https://play-lh.googleusercontent.com/S4_WFt9oWp_UPVqTtqSwfE8RP4s9VixhUgrtZx3TgSHI9KwgU0B9QJC9RNMhnRRcU7ZVrx5eO0t0kNg7k1F6L4Y",
-    "est_revenue": 179615,
-    "est_revenue_fmt": "$180K",
+    "est_revenue": 187190,
+    "est_revenue_fmt": "$187K",
     "est_revenue_won": "",
-    "est_revenue_krw": 248428652
+    "est_revenue_krw": 258905767
   },
   {
     "rank": 50,
-    "title": "Pmang Poker : Casino Royal",
-    "developer": "NEOWIZ corp",
+    "title": "Dark War Survival",
+    "developer": "Omnilojo Pte Ltd",
     "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.neowiz.games.poker",
-    "local_name": "피망 포커",
-    "icon": "https://play-lh.googleusercontent.com/MkI60z70bUF0YIi9loQzKm08WLinhruANPb6D7j1Gh1iPiLrfL1W-2ZQ0Q8ICCMdkFY0jDlTjx9_iZFVGOourg",
-    "est_revenue": 171000,
-    "est_revenue_fmt": "$171K",
+    "rating": 4.7,
+    "app_id": "com.readygo.dark.gp",
+    "local_name": "Dark War Survival",
+    "icon": "https://play-lh.googleusercontent.com/gaanbGpciRZh801jTahoaImwr96KtBp2Uuez12ww9sIxFQhqieIZgTjB_dGzhCaR1ccM9Eku11FxhOWgoxifwdc",
+    "est_revenue": 187190,
+    "est_revenue_fmt": "$187K",
     "est_revenue_won": "",
-    "est_revenue_krw": 236513095
+    "est_revenue_krw": 258905767
   }
 ]
