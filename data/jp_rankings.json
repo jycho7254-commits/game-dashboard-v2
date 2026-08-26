@@ -134,10 +134,10 @@
     "app_id": "com.fun.lastwar.gp",
     "local_name": "Last War:Survival Game",
     "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc",
-    "est_revenue": 8507346,
-    "est_revenue_fmt": "$8.5M",
+    "est_revenue": 8423630,
+    "est_revenue_fmt": "$8.4M",
     "est_revenue_won": "150.0억",
-    "est_revenue_krw": 11766659242
+    "est_revenue_krw": 11650870176
   },
   {
     "rank": 11,
@@ -148,10 +148,10 @@
     "app_id": "com.nianticlabs.pokemongo",
     "local_name": "Pokémon GO",
     "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
-    "est_revenue": 7925798,
-    "est_revenue_fmt": "$7.9M",
+    "est_revenue": 7777913,
+    "est_revenue_fmt": "$7.8M",
     "est_revenue_won": "25.0억",
-    "est_revenue_krw": 10962310018
+    "est_revenue_krw": 10757767685
   },
   {
     "rank": 12,
@@ -162,10 +162,10 @@
     "app_id": "game.qualiarts.hololive.dreams.jp",
     "local_name": "ホロライブドリームス",
     "icon": "https://play-lh.googleusercontent.com/j00IPpPSDv3cGqoKVIDf0qnCw6EbZQ4KpgMr10UWkf8Rm1qO9vCSoVhJwfCF1PbbKxV_Qt_eqZ_Sp4QMHuhwYBI",
-    "est_revenue": 7429670,
-    "est_revenue_fmt": "$7.4M",
+    "est_revenue": 7231738,
+    "est_revenue_fmt": "$7.2M",
     "est_revenue_won": "222.6억",
-    "est_revenue_krw": 10276106693
+    "est_revenue_krw": 10002343477
   },
   {
     "rank": 13,
@@ -176,10 +176,10 @@
     "app_id": "net.peakgames.toonblast",
     "local_name": "トゥーンブラスト (Toon Blast)",
     "icon": "https://play-lh.googleusercontent.com/j3O3Pyk08XAv4iA4p-Irerfos8g-tLxQ3r42zlScMRsjjgnyQGeE1mqcH3aSY9wA2k6l8fBqpqEaIQfIG2gLLQ",
-    "est_revenue": 7000747,
-    "est_revenue_fmt": "$7.0M",
+    "est_revenue": 6763240,
+    "est_revenue_fmt": "$6.8M",
     "est_revenue_won": "55.0억",
-    "est_revenue_krw": 9682855780
+    "est_revenue_krw": 9354355689
   },
   {
     "rank": 14,
@@ -190,27 +190,13 @@
     "app_id": "com.dreamgames.royalmatch",
     "local_name": "Royal Match",
     "icon": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
-    "est_revenue": 6625735,
-    "est_revenue_fmt": "$6.6M",
+    "est_revenue": 6356581,
+    "est_revenue_fmt": "$6.4M",
     "est_revenue_won": "80.0억",
-    "est_revenue_krw": 9164170115
+    "est_revenue_krw": 8791898504
   },
   {
     "rank": 15,
-    "title": "Trickcal:Chibi Go",
-    "developer": "BILIBILI",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.bilibili.trickcal",
-    "local_name": "Trickcal:Chibi Go",
-    "icon": "https://play-lh.googleusercontent.com/lwMgjeWGUepED3XVqPk4AXrkJwm4Mo7LvvGggHV_HXF9-INHiXCrD0fUVZl6IKwa4QhQUHDKnJ6uwUYPgG9LXg",
-    "est_revenue": 6294686,
-    "est_revenue_fmt": "$6.3M",
-    "est_revenue_won": "",
-    "est_revenue_krw": 8706290445
-  },
-  {
-    "rank": 16,
     "title": "eFootball™",
     "developer": "KONAMI",
     "genre": "Game",
@@ -221,6 +207,20 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "67.6억",
+    "est_revenue_krw": 8298705078
+  },
+  {
+    "rank": 16,
+    "title": "Trickcal:Chibi Go",
+    "developer": "BILIBILI",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.bilibili.trickcal",
+    "local_name": "Trickcal:Chibi Go",
+    "icon": "https://play-lh.googleusercontent.com/lwMgjeWGUepED3XVqPk4AXrkJwm4Mo7LvvGggHV_HXF9-INHiXCrD0fUVZl6IKwa4QhQUHDKnJ6uwUYPgG9LXg",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "",
     "est_revenue_krw": 8298705078
   },
   {
@@ -603,20 +603,6 @@
   },
   {
     "rank": 44,
-    "title": "MementoMori: AFKRPG",
-    "developer": "Bank of Innovation, Inc.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "jp.boi.mementomori.android",
-    "local_name": "MementoMori: AFKRPG",
-    "icon": "https://play-lh.googleusercontent.com/HG9W8SRyTeeLPFrrS17a06d5ANgakJbHomr73o3l6I23YAiIFL399Y1_Q-2FDBO_zxqETTkphFhE-uTeuD2nH6w",
-    "est_revenue": 403547,
-    "est_revenue_fmt": "$404K",
-    "est_revenue_won": "14.9억",
-    "est_revenue_krw": 558152923
-  },
-  {
-    "rank": 45,
     "title": "ディズニー ツイステッドワンダーランド",
     "developer": "Aniplex Inc.",
     "genre": "Game",
@@ -624,10 +610,24 @@
     "app_id": "com.aniplex.twst.jp",
     "local_name": "ディズニー ツイステッドワンダーランド",
     "icon": "https://play-lh.googleusercontent.com/MWl3p8AK5JePFPbozr-mbGUNYqBTupUJTUg5QBalXhkXUlNaaRxoFC9_3fthp0aPUTSQgaRFLTPYWJgLGRAk7Ro",
-    "est_revenue": 369476,
-    "est_revenue_fmt": "$369K",
+    "est_revenue": 385991,
+    "est_revenue_fmt": "$386K",
     "est_revenue_won": "",
-    "est_revenue_krw": 511028726
+    "est_revenue_krw": 533870912
+  },
+  {
+    "rank": 45,
+    "title": "MementoMori: AFKRPG",
+    "developer": "Bank of Innovation, Inc.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "jp.boi.mementomori.android",
+    "local_name": "MementoMori: AFKRPG",
+    "icon": "https://play-lh.googleusercontent.com/HG9W8SRyTeeLPFrrS17a06d5ANgakJbHomr73o3l6I23YAiIFL399Y1_Q-2FDBO_zxqETTkphFhE-uTeuD2nH6w",
+    "est_revenue": 385991,
+    "est_revenue_fmt": "$386K",
+    "est_revenue_won": "14.9억",
+    "est_revenue_krw": 533870912
   },
   {
     "rank": 46,
