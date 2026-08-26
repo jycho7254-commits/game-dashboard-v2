@@ -239,20 +239,6 @@
   },
   {
     "rank": 18,
-    "title": "Vampir",
-    "developer": "Netmarble",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.netmarble.thered",
-    "local_name": "뱀피르",
-    "icon": "https://play-lh.googleusercontent.com/O3AtBJqCPmOHow-d2tskDjwXGWpYpgz2bPEJC5s-FQ1BzmtxnFTQ4h6OTTJ74pyih8KBs78UsTk7w6PAHkbt",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "",
-    "est_revenue_krw": 2489611523
-  },
-  {
-    "rank": 19,
     "title": "CookieRun: Crumble - Idle RPG",
     "developer": "Devsisters Corporation",
     "genre": "Game",
@@ -266,7 +252,7 @@
     "est_revenue_krw": 2489611523
   },
   {
-    "rank": 20,
+    "rank": 19,
     "title": "Tasty Travels: Merge Game",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -280,7 +266,7 @@
     "est_revenue_krw": 2489611523
   },
   {
-    "rank": 21,
+    "rank": 20,
     "title": "삼국지: 천하결전",
     "developer": "BILIBILI",
     "genre": "Game",
@@ -294,7 +280,7 @@
     "est_revenue_krw": 2489611523
   },
   {
-    "rank": 22,
+    "rank": 21,
     "title": "한게임 포커",
     "developer": "NHN Corp.",
     "genre": "Game",
@@ -308,7 +294,7 @@
     "est_revenue_krw": 2489611523
   },
   {
-    "rank": 23,
+    "rank": 22,
     "title": "Gardenscapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -322,7 +308,7 @@
     "est_revenue_krw": 2489611523
   },
   {
-    "rank": 24,
+    "rank": 23,
     "title": "Seaside Escape®: Merge & Story",
     "developer": "Microfun Limited",
     "genre": "Game",
@@ -336,7 +322,7 @@
     "est_revenue_krw": 2489611523
   },
   {
-    "rank": 25,
+    "rank": 24,
     "title": "Zenless Zone Zero - Anniv.",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -350,7 +336,7 @@
     "est_revenue_krw": 2489611523
   },
   {
-    "rank": 26,
+    "rank": 25,
     "title": "Last Asylum: Plague",
     "developer": "37GAMES GLOBAL",
     "genre": "Game",
@@ -364,7 +350,7 @@
     "est_revenue_krw": 2489611523
   },
   {
-    "rank": 27,
+    "rank": 26,
     "title": "한게임포커 클래식 : 7포커 홀덤 섯다 훌라 슬롯",
     "developer": "NHN Corp.",
     "genre": "Game",
@@ -375,6 +361,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "25.9억",
+    "est_revenue_krw": 2489611523
+  },
+  {
+    "rank": 27,
+    "title": "Vampir",
+    "developer": "Netmarble",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.netmarble.thered",
+    "local_name": "뱀피르",
+    "icon": "https://play-lh.googleusercontent.com/O3AtBJqCPmOHow-d2tskDjwXGWpYpgz2bPEJC5s-FQ1BzmtxnFTQ4h6OTTJ74pyih8KBs78UsTk7w6PAHkbt",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "",
     "est_revenue_krw": 2489611523
   },
   {
@@ -603,20 +603,6 @@
   },
   {
     "rank": 44,
-    "title": "Dark War Survival",
-    "developer": "Omnilojo Pte Ltd",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.readygo.dark.gp",
-    "local_name": "Dark War Survival",
-    "icon": "https://play-lh.googleusercontent.com/gaanbGpciRZh801jTahoaImwr96KtBp2Uuez12ww9sIxFQhqieIZgTjB_dGzhCaR1ccM9Eku11FxhOWgoxifwdc",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "",
-    "est_revenue_krw": 2489611523
-  },
-  {
-    "rank": 45,
     "title": "Homescapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -630,7 +616,7 @@
     "est_revenue_krw": 2489611523
   },
   {
-    "rank": 46,
+    "rank": 45,
     "title": "Genshin Impact",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -642,6 +628,20 @@
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "",
     "est_revenue_krw": 2489611523
+  },
+  {
+    "rank": 46,
+    "title": "Dark War Survival",
+    "developer": "Omnilojo Pte Ltd",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.readygo.dark.gp",
+    "local_name": "Dark War Survival",
+    "icon": "https://play-lh.googleusercontent.com/gaanbGpciRZh801jTahoaImwr96KtBp2Uuez12ww9sIxFQhqieIZgTjB_dGzhCaR1ccM9Eku11FxhOWgoxifwdc",
+    "est_revenue": 232443,
+    "est_revenue_fmt": "$232K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 321495984
   },
   {
     "rank": 47,
