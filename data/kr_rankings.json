@@ -449,20 +449,6 @@
   },
   {
     "rank": 33,
-    "title": "Lineage W",
-    "developer": "NC Corporation",
-    "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.ncsoft.lineagew",
-    "local_name": "리니지W",
-    "icon": "https://play-lh.googleusercontent.com/VvwlyO5rMOgeedcbDmvBQv-vDoCeHqxBdSHqTrA3xUZAEuRcAwTBznrJBwkj3_xvhUTkLJ4D98RT1fZTtu8W",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "6.7억",
-    "est_revenue_krw": 2489611523
-  },
-  {
-    "rank": 34,
     "title": "Pokémon GO",
     "developer": "Scopely Explore, Inc.",
     "genre": "Game",
@@ -473,6 +459,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "",
+    "est_revenue_krw": 2489611523
+  },
+  {
+    "rank": 34,
+    "title": "Lineage W",
+    "developer": "NC Corporation",
+    "genre": "Game",
+    "rating": 3.8,
+    "app_id": "com.ncsoft.lineagew",
+    "local_name": "리니지W",
+    "icon": "https://play-lh.googleusercontent.com/VvwlyO5rMOgeedcbDmvBQv-vDoCeHqxBdSHqTrA3xUZAEuRcAwTBznrJBwkj3_xvhUTkLJ4D98RT1fZTtu8W",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "6.7억",
     "est_revenue_krw": 2489611523
   },
   {
@@ -617,6 +617,20 @@
   },
   {
     "rank": 45,
+    "title": "AION2",
+    "developer": "NC Corporation",
+    "genre": "Game",
+    "rating": 2.8,
+    "app_id": "com.ncsoft.aion2",
+    "local_name": "아이온2",
+    "icon": "https://play-lh.googleusercontent.com/aqqsbPuYk-dU9f0qnyEkHje_IIchFrOhDQfDXozQbD5_n_Hxi18ja4GyEbNYuFD9inoFBUYfZFWK4zSOjsy8Aw",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "",
+    "est_revenue_krw": 2489611523
+  },
+  {
+    "rank": 46,
     "title": "Genshin Impact",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -630,7 +644,7 @@
     "est_revenue_krw": 2489611523
   },
   {
-    "rank": 46,
+    "rank": 47,
     "title": "Dark War Survival",
     "developer": "Omnilojo Pte Ltd",
     "genre": "Game",
@@ -638,13 +652,13 @@
     "app_id": "com.readygo.dark.gp",
     "local_name": "Dark War Survival",
     "icon": "https://play-lh.googleusercontent.com/gaanbGpciRZh801jTahoaImwr96KtBp2Uuez12ww9sIxFQhqieIZgTjB_dGzhCaR1ccM9Eku11FxhOWgoxifwdc",
-    "est_revenue": 232443,
-    "est_revenue_fmt": "$232K",
+    "est_revenue": 223096,
+    "est_revenue_fmt": "$223K",
     "est_revenue_won": "",
-    "est_revenue_krw": 321495984
+    "est_revenue_krw": 308567985
   },
   {
-    "rank": 47,
+    "rank": 48,
     "title": "트릭컬 리바이브",
     "developer": "EPIDGames",
     "genre": "Game",
@@ -652,13 +666,13 @@
     "app_id": "com.epidgames.trickcalrevive",
     "local_name": "트릭컬 리바이브",
     "icon": "https://play-lh.googleusercontent.com/OCiuBv70Dnuw9wcGet3EtTUF2nEkS1vhYYkvOahe9-MmKg6EhxGkf-9ZVxnWIJXflQSmfOIjTcaSbwJSJyuzHA",
-    "est_revenue": 227152,
-    "est_revenue_fmt": "$227K",
+    "est_revenue": 218159,
+    "est_revenue_fmt": "$218K",
     "est_revenue_won": "",
-    "est_revenue_krw": 314177909
+    "est_revenue_krw": 301739534
   },
   {
-    "rank": 48,
+    "rank": 49,
     "title": "히어로 랜드M",
     "developer": "Orienjoy International Company Limited",
     "genre": "Game",
@@ -666,20 +680,6 @@
     "app_id": "com.orienjoy.heroland.kr",
     "local_name": "히어로 랜드M",
     "icon": "https://play-lh.googleusercontent.com/S4_WFt9oWp_UPVqTtqSwfE8RP4s9VixhUgrtZx3TgSHI9KwgU0B9QJC9RNMhnRRcU7ZVrx5eO0t0kNg7k1F6L4Y",
-    "est_revenue": 194785,
-    "est_revenue_fmt": "$195K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 269410545
-  },
-  {
-    "rank": 49,
-    "title": "PUBG Mobile",
-    "developer": "KRAFTON, Inc.",
-    "genre": "Game",
-    "rating": 4.1,
-    "app_id": "com.pubg.krmobile",
-    "local_name": "배틀그라운드 모바일",
-    "icon": "https://play-lh.googleusercontent.com/xwFtt40YwOjDNuj4unNQRjbzz1yRmuZQAYN_o7HvTd0xS3IK3EGLYCqcz_bHijJk_SKyvPh78xw7tGdEHHsrHA",
     "est_revenue": 187190,
     "est_revenue_fmt": "$187K",
     "est_revenue_won": "",
@@ -687,16 +687,16 @@
   },
   {
     "rank": 50,
-    "title": "I9: 인페르노 나인",
-    "developer": "Leniu Technology Co., Limited",
+    "title": "PUBG Mobile",
+    "developer": "KRAFTON, Inc.",
     "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.kr.firegp",
-    "local_name": "I9: 인페르노 나인",
-    "icon": "https://play-lh.googleusercontent.com/jZ0P5ZxOE4VorYhs9QmbcxzXi7VYiNqh4I5YlO2JXUdh_5D80ymAagbYxjtP6pGnU_7f_W0gWUVWUm9mIkCI5A",
-    "est_revenue": 187190,
-    "est_revenue_fmt": "$187K",
+    "rating": 4.1,
+    "app_id": "com.pubg.krmobile",
+    "local_name": "배틀그라운드 모바일",
+    "icon": "https://play-lh.googleusercontent.com/xwFtt40YwOjDNuj4unNQRjbzz1yRmuZQAYN_o7HvTd0xS3IK3EGLYCqcz_bHijJk_SKyvPh78xw7tGdEHHsrHA",
+    "est_revenue": 180000,
+    "est_revenue_fmt": "$180K",
     "est_revenue_won": "",
-    "est_revenue_krw": 258905767
+    "est_revenue_krw": 248961152
   }
 ]
