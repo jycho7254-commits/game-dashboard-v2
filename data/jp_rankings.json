@@ -281,20 +281,6 @@
   },
   {
     "rank": 21,
-    "title": "Township",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.playrix.township",
-    "local_name": "Township",
-    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "30.9억",
-    "est_revenue_krw": 8307647898
-  },
-  {
-    "rank": 22,
     "title": "パズル＆ドラゴンズ(Puzzle & Dragons)",
     "developer": "GungHo Online Entertainment, Inc.",
     "genre": "Game",
@@ -305,6 +291,20 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "58.6억",
+    "est_revenue_krw": 8307647898
+  },
+  {
+    "rank": 22,
+    "title": "Township",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.playrix.township",
+    "local_name": "Township",
+    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "30.9억",
     "est_revenue_krw": 8307647898
   },
   {
@@ -631,20 +631,6 @@
   },
   {
     "rank": 46,
-    "title": "Roblox",
-    "developer": "Roblox Corporation",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.roblox.client",
-    "local_name": "Roblox",
-    "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
-    "est_revenue": 353924,
-    "est_revenue_fmt": "$354K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 490045996
-  },
-  {
-    "rank": 47,
     "title": "Wizardry Variants Daphne",
     "developer": "株式会社ドリコム",
     "genre": "Game",
@@ -652,13 +638,13 @@
     "app_id": "jp.co.drecom.wizardry.daphne",
     "local_name": "Wizardry Variants Daphne",
     "icon": "https://play-lh.googleusercontent.com/zHq6ZKQhVsI5DTjy05zsWTggWgQfNZ7Qg5PJk5Kv3Rhctyt2HgfYYXHjEhS6k_6Y5NzwKvf2ZpQiXCWfc9htnw",
-    "est_revenue": 339262,
-    "est_revenue_fmt": "$339K",
+    "est_revenue": 353924,
+    "est_revenue_fmt": "$354K",
     "est_revenue_won": "",
-    "est_revenue_krw": 469744874
+    "est_revenue_krw": 490045996
   },
   {
-    "rank": 48,
+    "rank": 47,
     "title": "ドラゴンクエストウォーク",
     "developer": "SQUARE ENIX Co.,Ltd.",
     "genre": "Game",
@@ -666,13 +652,13 @@
     "app_id": "com.square_enix.android_googleplay.dqwalkj",
     "local_name": "ドラゴンクエストウォーク",
     "icon": "https://play-lh.googleusercontent.com/lCEz96MbgeyFryIXLP_u5gF_GsxjzIhMMS4hgQsqRhZ5TviCrgd0vQgi_bC0QipqbJGaC1B0mRZm5yfyUCnzu-Y",
-    "est_revenue": 339262,
-    "est_revenue_fmt": "$339K",
+    "est_revenue": 353924,
+    "est_revenue_fmt": "$354K",
     "est_revenue_won": "",
-    "est_revenue_krw": 469744874
+    "est_revenue_krw": 490045996
   },
   {
-    "rank": 49,
+    "rank": 48,
     "title": "Fishdom",
     "developer": "Playrix",
     "genre": "Game",
@@ -680,13 +666,13 @@
     "app_id": "com.playrix.fishdomdd.gplay",
     "local_name": "Fishdom",
     "icon": "https://play-lh.googleusercontent.com/xCNnX62AirslBmOf5Zp2fySAT9S9XsMUAK3PUGeLVCO4uYHGvfG8lHEof253BQ2q1vS85qsySHt8imuLfIMw",
-    "est_revenue": 312356,
-    "est_revenue_fmt": "$312K",
+    "est_revenue": 325426,
+    "est_revenue_fmt": "$325K",
     "est_revenue_won": "",
-    "est_revenue_krw": 432490611
+    "est_revenue_krw": 450587437
   },
   {
-    "rank": 50,
+    "rank": 49,
     "title": "刀剣乱舞ONLINE",
     "developer": "DMMGAMES",
     "genre": "Game",
@@ -694,6 +680,20 @@
     "app_id": "com.dmm.games.touken",
     "local_name": "刀剣乱舞ONLINE",
     "icon": "https://play-lh.googleusercontent.com/bl0CW3GHTGUKiIo91W7bwz_mfFLeKfGYEBkPV4_BWCUaBgWa7aiZhqFyfheGODr_WFVOARgYyEL4nw29yEIZ",
+    "est_revenue": 312356,
+    "est_revenue_fmt": "$312K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 432490611
+  },
+  {
+    "rank": 50,
+    "title": "Roblox",
+    "developer": "Roblox Corporation",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.roblox.client",
+    "local_name": "Roblox",
+    "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
     "est_revenue": 300000,
     "est_revenue_fmt": "$300K",
     "est_revenue_won": "",
