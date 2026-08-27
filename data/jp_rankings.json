@@ -407,6 +407,34 @@
   },
   {
     "rank": 30,
+    "title": "Shadowverse: Worlds Beyond",
+    "developer": "Cygames, Inc.",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "jp.co.cygames.ShadowverseWorldsBeyond",
+    "local_name": "Shadowverse: Worlds Beyond",
+    "icon": "https://play-lh.googleusercontent.com/lar367tZF_JA5j4LKOfZ9zZRUXcNJUFPi60iIiZhBt54aOkfUxlXw1vCh6hP3HVN01-ZdWPpgaPFw_NggOpPdrA",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "",
+    "est_revenue_krw": 8307647898
+  },
+  {
+    "rank": 31,
+    "title": "ONE PIECE トレジャークルーズ",
+    "developer": "Bandai Namco Entertainment Inc.",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.namcobandaigames.spmoja010",
+    "local_name": "ONE PIECE トレジャークルーズ",
+    "icon": "https://play-lh.googleusercontent.com/dn_lUDclwmGkLuyXUaZGAfiSZ2laqmFN-2kEhiziyzOi_2I_fryeQsGHot_HnNPg5_zS6zp7CtiTIZDCZeIHVw",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "",
+    "est_revenue_krw": 8307647898
+  },
+  {
+    "rank": 32,
     "title": "Genshin Impact",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -420,46 +448,18 @@
     "est_revenue_krw": 8307647898
   },
   {
-    "rank": 31,
-    "title": "Shadowverse: Worlds Beyond",
-    "developer": "Cygames, Inc.",
-    "genre": "Game",
-    "rating": 4,
-    "app_id": "jp.co.cygames.ShadowverseWorldsBeyond",
-    "local_name": "Shadowverse: Worlds Beyond",
-    "icon": "https://play-lh.googleusercontent.com/lar367tZF_JA5j4LKOfZ9zZRUXcNJUFPi60iIiZhBt54aOkfUxlXw1vCh6hP3HVN01-ZdWPpgaPFw_NggOpPdrA",
-    "est_revenue": 827718,
-    "est_revenue_fmt": "$828K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 1146064950
-  },
-  {
-    "rank": 32,
-    "title": "ONE PIECE トレジャークルーズ",
-    "developer": "Bandai Namco Entertainment Inc.",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.namcobandaigames.spmoja010",
-    "local_name": "ONE PIECE トレジャークルーズ",
-    "icon": "https://play-lh.googleusercontent.com/dn_lUDclwmGkLuyXUaZGAfiSZ2laqmFN-2kEhiziyzOi_2I_fryeQsGHot_HnNPg5_zS6zp7CtiTIZDCZeIHVw",
-    "est_revenue": 698497,
-    "est_revenue_fmt": "$698K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 967144522
-  },
-  {
     "rank": 33,
     "title": "Zenless Zone Zero - Anniv.",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
-    "rating": 3.3,
+    "rating": 3.4,
     "app_id": "com.HoYoverse.Nap",
     "local_name": "Zenless Zone Zero",
     "icon": "https://play-lh.googleusercontent.com/-OwYJcIdDSfGJBOQozVC3kKxqnA7ev2O897twi-aVUpc8AXVMNtB3YWEXDui_V0VJxelNAbUbLXpNZj9AqWa3A",
-    "est_revenue": 698497,
-    "est_revenue_fmt": "$698K",
+    "est_revenue": 740341,
+    "est_revenue_fmt": "$740K",
     "est_revenue_won": "42.3억",
-    "est_revenue_krw": 967144522
+    "est_revenue_krw": 1025082059
   },
   {
     "rank": 34,
@@ -519,20 +519,6 @@
   },
   {
     "rank": 38,
-    "title": "アズールレーン",
-    "developer": "Yostar, Inc.",
-    "genre": "Game",
-    "rating": 3.9,
-    "app_id": "com.YoStarJP.AzurLane",
-    "local_name": "アズールレーン",
-    "icon": "https://play-lh.googleusercontent.com/xm_fZgRuFC6npGnzKgBbw1V2VuZo4Pc67LLcrecmihkaDK-LFa_yKi6x4zmg-Nb-tvqy1ppLgjEdmgZMV00vg9E",
-    "est_revenue": 479536,
-    "est_revenue_fmt": "$480K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 663969374
-  },
-  {
-    "rank": 39,
     "title": "プリンセスコネクト！Re:Dive",
     "developer": "Cygames, Inc.",
     "genre": "Game",
@@ -546,7 +532,7 @@
     "est_revenue_krw": 663969374
   },
   {
-    "rank": 40,
+    "rank": 39,
     "title": "放置少女 - 百花繚乱の萌姫たち",
     "developer": "C4 Connect Inc.",
     "genre": "Game",
@@ -554,10 +540,24 @@
     "app_id": "jp.glee.girl",
     "local_name": "放置少女 - 百花繚乱の萌姫たち",
     "icon": "https://play-lh.googleusercontent.com/fkp_VLPLnTcgHIdZutQCvIJhEy5BkpetWeKonidaYW8HrnM-ASjALh2tK5xkku3jJFc6gMY1LF7caAthHTBBFg",
-    "est_revenue": 393865,
-    "est_revenue_fmt": "$394K",
+    "est_revenue": 413144,
+    "est_revenue_fmt": "$413K",
     "est_revenue_won": "35.8억",
-    "est_revenue_krw": 545348623
+    "est_revenue_krw": 572042481
+  },
+  {
+    "rank": 40,
+    "title": "アズールレーン",
+    "developer": "Yostar, Inc.",
+    "genre": "Game",
+    "rating": 3.9,
+    "app_id": "com.YoStarJP.AzurLane",
+    "local_name": "アズールレーン",
+    "icon": "https://play-lh.googleusercontent.com/xm_fZgRuFC6npGnzKgBbw1V2VuZo4Pc67LLcrecmihkaDK-LFa_yKi6x4zmg-Nb-tvqy1ppLgjEdmgZMV00vg9E",
+    "est_revenue": 413144,
+    "est_revenue_fmt": "$413K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 572042481
   },
   {
     "rank": 41,
