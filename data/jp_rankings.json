@@ -323,20 +323,6 @@
   },
   {
     "rank": 24,
-    "title": "Township",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.playrix.township",
-    "local_name": "Township",
-    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "32.4억",
-    "est_revenue_krw": 8289403956
-  },
-  {
-    "rank": 25,
     "title": "Gardenscapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -350,7 +336,7 @@
     "est_revenue_krw": 8289403956
   },
   {
-    "rank": 26,
+    "rank": 25,
     "title": "Trickcal:Chibi Go",
     "developer": "BILIBILI",
     "genre": "Game",
@@ -364,7 +350,7 @@
     "est_revenue_krw": 8289403956
   },
   {
-    "rank": 27,
+    "rank": 26,
     "title": "LINE Pokopoko",
     "developer": "LINE (LY Corporation)",
     "genre": "Game",
@@ -378,7 +364,7 @@
     "est_revenue_krw": 8289403956
   },
   {
-    "rank": 28,
+    "rank": 27,
     "title": "Shadowverse: Worlds Beyond",
     "developer": "Cygames, Inc.",
     "genre": "Game",
@@ -392,7 +378,7 @@
     "est_revenue_krw": 8289403956
   },
   {
-    "rank": 29,
+    "rank": 28,
     "title": "Tasty Travels: Merge Game",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -406,7 +392,7 @@
     "est_revenue_krw": 8289403956
   },
   {
-    "rank": 30,
+    "rank": 29,
     "title": "モンスターストライク",
     "developer": "XFLAG, Inc.",
     "genre": "Game",
@@ -420,7 +406,63 @@
     "est_revenue_krw": 8289403956
   },
   {
+    "rank": 30,
+    "title": "Township",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.playrix.township",
+    "local_name": "Township",
+    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "32.4억",
+    "est_revenue_krw": 8289403956
+  },
+  {
     "rank": 31,
+    "title": "ONE PIECE トレジャークルーズ",
+    "developer": "Bandai Namco Entertainment Inc.",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.namcobandaigames.spmoja010",
+    "local_name": "ONE PIECE トレジャークルーズ",
+    "icon": "https://play-lh.googleusercontent.com/dn_lUDclwmGkLuyXUaZGAfiSZ2laqmFN-2kEhiziyzOi_2I_fryeQsGHot_HnNPg5_zS6zp7CtiTIZDCZeIHVw",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "22.8억",
+    "est_revenue_krw": 8289403956
+  },
+  {
+    "rank": 32,
+    "title": "Zenless Zone Zero - Anniv.",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "genre": "Game",
+    "rating": 3.3,
+    "app_id": "com.HoYoverse.Nap",
+    "local_name": "Zenless Zone Zero",
+    "icon": "https://play-lh.googleusercontent.com/-OwYJcIdDSfGJBOQozVC3kKxqnA7ev2O897twi-aVUpc8AXVMNtB3YWEXDui_V0VJxelNAbUbLXpNZj9AqWa3A",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "21.8억",
+    "est_revenue_krw": 8289403956
+  },
+  {
+    "rank": 33,
+    "title": "Last Z: Survival Shooter",
+    "developer": "Omnilojo Pte Ltd",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.readygo.barrel.gp",
+    "local_name": "Last Z: Survival Shooter",
+    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "20.9억",
+    "est_revenue_krw": 8289403956
+  },
+  {
+    "rank": 34,
     "title": "Genshin Impact",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -432,48 +474,6 @@
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "23.8억",
     "est_revenue_krw": 8289403956
-  },
-  {
-    "rank": 32,
-    "title": "ONE PIECE トレジャークルーズ",
-    "developer": "Bandai Namco Entertainment Inc.",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.namcobandaigames.spmoja010",
-    "local_name": "ONE PIECE トレジャークルーズ",
-    "icon": "https://play-lh.googleusercontent.com/dn_lUDclwmGkLuyXUaZGAfiSZ2laqmFN-2kEhiziyzOi_2I_fryeQsGHot_HnNPg5_zS6zp7CtiTIZDCZeIHVw",
-    "est_revenue": 698497,
-    "est_revenue_fmt": "$698K",
-    "est_revenue_won": "22.8억",
-    "est_revenue_krw": 965020633
-  },
-  {
-    "rank": 33,
-    "title": "Zenless Zone Zero - Anniv.",
-    "developer": "COGNOSPHERE PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.3,
-    "app_id": "com.HoYoverse.Nap",
-    "local_name": "Zenless Zone Zero",
-    "icon": "https://play-lh.googleusercontent.com/-OwYJcIdDSfGJBOQozVC3kKxqnA7ev2O897twi-aVUpc8AXVMNtB3YWEXDui_V0VJxelNAbUbLXpNZj9AqWa3A",
-    "est_revenue": 698497,
-    "est_revenue_fmt": "$698K",
-    "est_revenue_won": "21.8억",
-    "est_revenue_krw": 965020633
-  },
-  {
-    "rank": 34,
-    "title": "Last Z: Survival Shooter",
-    "developer": "Omnilojo Pte Ltd",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.readygo.barrel.gp",
-    "local_name": "Last Z: Survival Shooter",
-    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
-    "est_revenue": 688936,
-    "est_revenue_fmt": "$689K",
-    "est_revenue_won": "20.9억",
-    "est_revenue_krw": 951811467
   },
   {
     "rank": 35,
