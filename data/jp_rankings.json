@@ -183,20 +183,6 @@
   },
   {
     "rank": 14,
-    "title": "ホロライブドリームス",
-    "developer": "QualiArts, Inc.",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "game.qualiarts.hololive.dreams.jp",
-    "local_name": "ホロライブドリームス",
-    "icon": "https://play-lh.googleusercontent.com/j00IPpPSDv3cGqoKVIDf0qnCw6EbZQ4KpgMr10UWkf8Rm1qO9vCSoVhJwfCF1PbbKxV_Qt_eqZ_Sp4QMHuhwYBI",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "55.0억",
-    "est_revenue_krw": 8289403956
-  },
-  {
-    "rank": 15,
     "title": "学園アイドルマスター",
     "developer": "Bandai Namco Entertainment Inc.",
     "genre": "Game",
@@ -207,6 +193,20 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "58.6억",
+    "est_revenue_krw": 8289403956
+  },
+  {
+    "rank": 15,
+    "title": "ホロライブドリームス",
+    "developer": "QualiArts, Inc.",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "game.qualiarts.hololive.dreams.jp",
+    "local_name": "ホロライブドリームス",
+    "icon": "https://play-lh.googleusercontent.com/j00IPpPSDv3cGqoKVIDf0qnCw6EbZQ4KpgMr10UWkf8Rm1qO9vCSoVhJwfCF1PbbKxV_Qt_eqZ_Sp4QMHuhwYBI",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "55.0억",
     "est_revenue_krw": 8289403956
   },
   {
@@ -253,20 +253,6 @@
   },
   {
     "rank": 19,
-    "title": "幻想水滸伝 STAR LEAP",
-    "developer": "KONAMI",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "jp.konami.suikoden.starleap",
-    "local_name": "幻想水滸伝 STAR LEAP",
-    "icon": "https://play-lh.googleusercontent.com/CZqC6kjKA871p5R5tf734xuTrgNd7B2DC9Q2Y1Fj0Bmdg3z2I8PhgV-7JNsOg-g-BV1ZWNLRPqq0frr9byaN",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "42.3억",
-    "est_revenue_krw": 8289403956
-  },
-  {
-    "rank": 20,
     "title": "Kingshot",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -277,6 +263,20 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "40.0억",
+    "est_revenue_krw": 8289403956
+  },
+  {
+    "rank": 20,
+    "title": "幻想水滸伝 STAR LEAP",
+    "developer": "KONAMI",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "jp.konami.suikoden.starleap",
+    "local_name": "幻想水滸伝 STAR LEAP",
+    "icon": "https://play-lh.googleusercontent.com/CZqC6kjKA871p5R5tf734xuTrgNd7B2DC9Q2Y1Fj0Bmdg3z2I8PhgV-7JNsOg-g-BV1ZWNLRPqq0frr9byaN",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "42.3억",
     "est_revenue_krw": 8289403956
   },
   {
@@ -365,6 +365,20 @@
   },
   {
     "rank": 27,
+    "title": "Shadowverse: Worlds Beyond",
+    "developer": "Cygames, Inc.",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "jp.co.cygames.ShadowverseWorldsBeyond",
+    "local_name": "Shadowverse: Worlds Beyond",
+    "icon": "https://play-lh.googleusercontent.com/lar367tZF_JA5j4LKOfZ9zZRUXcNJUFPi60iIiZhBt54aOkfUxlXw1vCh6hP3HVN01-ZdWPpgaPFw_NggOpPdrA",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "26.0억",
+    "est_revenue_krw": 8289403956
+  },
+  {
+    "rank": 28,
     "title": "LINE Pokopoko",
     "developer": "LINE (LY Corporation)",
     "genre": "Game",
@@ -378,7 +392,7 @@
     "est_revenue_krw": 8289403956
   },
   {
-    "rank": 28,
+    "rank": 29,
     "title": "Tasty Travels: Merge Game",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -392,7 +406,7 @@
     "est_revenue_krw": 8289403956
   },
   {
-    "rank": 29,
+    "rank": 30,
     "title": "モンスターストライク",
     "developer": "XFLAG, Inc.",
     "genre": "Game",
@@ -403,20 +417,6 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "25.0억",
-    "est_revenue_krw": 8289403956
-  },
-  {
-    "rank": 30,
-    "title": "Shadowverse: Worlds Beyond",
-    "developer": "Cygames, Inc.",
-    "genre": "Game",
-    "rating": 4,
-    "app_id": "jp.co.cygames.ShadowverseWorldsBeyond",
-    "local_name": "Shadowverse: Worlds Beyond",
-    "icon": "https://play-lh.googleusercontent.com/lar367tZF_JA5j4LKOfZ9zZRUXcNJUFPi60iIiZhBt54aOkfUxlXw1vCh6hP3HVN01-ZdWPpgaPFw_NggOpPdrA",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "26.0억",
     "est_revenue_krw": 8289403956
   },
   {
@@ -645,20 +645,6 @@
   },
   {
     "rank": 47,
-    "title": "Pokémon Sleep",
-    "developer": "The Pokémon Company",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "jp.pokemon.pokemonsleep",
-    "local_name": "Pokémon Sleep",
-    "icon": "https://play-lh.googleusercontent.com/tg-BeEJO7UDjvfxWXWJ1u-PMLa-45twu0YhJkZfQu-PEjRJU_2l9Sb9xMR3YBha3mtLzdzU-016ZpWN5IUwrFwU",
-    "est_revenue": 339262,
-    "est_revenue_fmt": "$339K",
-    "est_revenue_won": "13.1억",
-    "est_revenue_krw": 468713294
-  },
-  {
-    "rank": 48,
     "title": "Wizardry Variants Daphne",
     "developer": "株式会社ドリコム",
     "genre": "Game",
@@ -666,9 +652,23 @@
     "app_id": "jp.co.drecom.wizardry.daphne",
     "local_name": "Wizardry Variants Daphne",
     "icon": "https://play-lh.googleusercontent.com/zHq6ZKQhVsI5DTjy05zsWTggWgQfNZ7Qg5PJk5Kv3Rhctyt2HgfYYXHjEhS6k_6Y5NzwKvf2ZpQiXCWfc9htnw",
+    "est_revenue": 339262,
+    "est_revenue_fmt": "$339K",
+    "est_revenue_won": "12.7억",
+    "est_revenue_krw": 468713294
+  },
+  {
+    "rank": 48,
+    "title": "Pokémon Sleep",
+    "developer": "The Pokémon Company",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "jp.pokemon.pokemonsleep",
+    "local_name": "Pokémon Sleep",
+    "icon": "https://play-lh.googleusercontent.com/tg-BeEJO7UDjvfxWXWJ1u-PMLa-45twu0YhJkZfQu-PEjRJU_2l9Sb9xMR3YBha3mtLzdzU-016ZpWN5IUwrFwU",
     "est_revenue": 325426,
     "est_revenue_fmt": "$325K",
-    "est_revenue_won": "12.7억",
+    "est_revenue_won": "13.1억",
     "est_revenue_krw": 449597929
   },
   {
