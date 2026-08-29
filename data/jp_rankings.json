@@ -29,20 +29,6 @@
   },
   {
     "rank": 3,
-    "title": "パズル＆ドラゴンズ(Puzzle & Dragons)",
-    "developer": "GungHo Online Entertainment, Inc.",
-    "genre": "Game",
-    "rating": 3.2,
-    "app_id": "jp.gungho.pad",
-    "local_name": "パズル＆ドラゴンズ(Puzzle & Dragons)",
-    "icon": "https://play-lh.googleusercontent.com/ra7eGhpGZqaK3zVeyaat5kJZ3qRiJVQ8Yel-fOB4o5lWh6WgeivGdzRTJl14tAKKqBkcDYmw_DSziNL_Dq9F",
-    "est_revenue": 10500000,
-    "est_revenue_fmt": "$10.5M",
-    "est_revenue_won": "165.1억",
-    "est_revenue_krw": 14468393320
-  },
-  {
-    "rank": 4,
     "title": "ホロライブドリームス",
     "developer": "QualiArts, Inc.",
     "genre": "Game",
@@ -53,6 +39,20 @@
     "est_revenue": 10500000,
     "est_revenue_fmt": "$10.5M",
     "est_revenue_won": "55.0억",
+    "est_revenue_krw": 14468393320
+  },
+  {
+    "rank": 4,
+    "title": "パズル＆ドラゴンズ(Puzzle & Dragons)",
+    "developer": "GungHo Online Entertainment, Inc.",
+    "genre": "Game",
+    "rating": 3.2,
+    "app_id": "jp.gungho.pad",
+    "local_name": "パズル＆ドラゴンズ(Puzzle & Dragons)",
+    "icon": "https://play-lh.googleusercontent.com/ra7eGhpGZqaK3zVeyaat5kJZ3qRiJVQ8Yel-fOB4o5lWh6WgeivGdzRTJl14tAKKqBkcDYmw_DSziNL_Dq9F",
+    "est_revenue": 10500000,
+    "est_revenue_fmt": "$10.5M",
+    "est_revenue_won": "165.1억",
     "est_revenue_krw": 14468393320
   },
   {
@@ -155,20 +155,6 @@
   },
   {
     "rank": 12,
-    "title": "Pokémon TCG Pocket",
-    "developer": "The Pokémon Company",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "jp.pokemon.pokemontcgp",
-    "local_name": "Pokémon TCG Pocket",
-    "icon": "https://play-lh.googleusercontent.com/qdEdyVc19jfittS0bnDUnXLRM7jOPZzfHXEYoChPWOtzMrtwU6t3ZVm_FQ7wbeDYFlqLBuWCDK0Q6c1nEwYKTA",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "67.6억",
-    "est_revenue_krw": 8267653326
-  },
-  {
-    "rank": 13,
     "title": "トゥーンブラスト (Toon Blast)",
     "developer": "Peak",
     "genre": "Game",
@@ -182,21 +168,7 @@
     "est_revenue_krw": 8267653326
   },
   {
-    "rank": 14,
-    "title": "Royal Match",
-    "developer": "Dream Games, Ltd.",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.dreamgames.royalmatch",
-    "local_name": "Royal Match",
-    "icon": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "80.0억",
-    "est_revenue_krw": 8267653326
-  },
-  {
-    "rank": 15,
+    "rank": 13,
     "title": "ドラゴンボールZ ドッカンバトル",
     "developer": "Bandai Namco Entertainment Inc.",
     "genre": "Game",
@@ -207,6 +179,34 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "",
+    "est_revenue_krw": 8267653326
+  },
+  {
+    "rank": 14,
+    "title": "Pokémon TCG Pocket",
+    "developer": "The Pokémon Company",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "jp.pokemon.pokemontcgp",
+    "local_name": "Pokémon TCG Pocket",
+    "icon": "https://play-lh.googleusercontent.com/qdEdyVc19jfittS0bnDUnXLRM7jOPZzfHXEYoChPWOtzMrtwU6t3ZVm_FQ7wbeDYFlqLBuWCDK0Q6c1nEwYKTA",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "67.6억",
+    "est_revenue_krw": 8267653326
+  },
+  {
+    "rank": 15,
+    "title": "Royal Match",
+    "developer": "Dream Games, Ltd.",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.dreamgames.royalmatch",
+    "local_name": "Royal Match",
+    "icon": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "80.0억",
     "est_revenue_krw": 8267653326
   },
   {
@@ -309,20 +309,6 @@
   },
   {
     "rank": 23,
-    "title": "Gardenscapes",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.playrix.gardenscapes",
-    "local_name": "Gardenscapes",
-    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "34.0억",
-    "est_revenue_krw": 8267653326
-  },
-  {
-    "rank": 24,
     "title": "Township",
     "developer": "Playrix",
     "genre": "Game",
@@ -333,6 +319,20 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "29.5억",
+    "est_revenue_krw": 8267653326
+  },
+  {
+    "rank": 24,
+    "title": "Gardenscapes",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.playrix.gardenscapes",
+    "local_name": "Gardenscapes",
+    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "34.0억",
     "est_revenue_krw": 8267653326
   },
   {
@@ -449,6 +449,20 @@
   },
   {
     "rank": 33,
+    "title": "GIRLS' FRONTLINE 2: EXILIUM",
+    "developer": "HaoPlay Limited",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.haoplay.game.and.exilium",
+    "local_name": "GIRLS' FRONTLINE 2: EXILIUM",
+    "icon": "https://play-lh.googleusercontent.com/N0Cq4MZ9VszB5TH_Wq229R62IuSVn1LfWwB3uhdjb0J_fsRn2hfHWc8XOEH7kAUs7Hg4SB2HLl_LEOj17YkwNQ",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "19.2억",
+    "est_revenue_krw": 8267653326
+  },
+  {
+    "rank": 34,
     "title": "Genshin Impact",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -462,35 +476,7 @@
     "est_revenue_krw": 8267653326
   },
   {
-    "rank": 34,
-    "title": "GIRLS' FRONTLINE 2: EXILIUM",
-    "developer": "HaoPlay Limited",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.haoplay.game.and.exilium",
-    "local_name": "GIRLS' FRONTLINE 2: EXILIUM",
-    "icon": "https://play-lh.googleusercontent.com/N0Cq4MZ9VszB5TH_Wq229R62IuSVn1LfWwB3uhdjb0J_fsRn2hfHWc8XOEH7kAUs7Hg4SB2HLl_LEOj17YkwNQ",
-    "est_revenue": 626306,
-    "est_revenue_fmt": "$626K",
-    "est_revenue_won": "19.2억",
-    "est_revenue_krw": 863013481
-  },
-  {
     "rank": 35,
-    "title": "放置少女 - 百花繚乱の萌姫たち",
-    "developer": "C4 Connect Inc.",
-    "genre": "Game",
-    "rating": 4,
-    "app_id": "jp.glee.girl",
-    "local_name": "放置少女 - 百花繚乱の萌姫たち",
-    "icon": "https://play-lh.googleusercontent.com/fkp_VLPLnTcgHIdZutQCvIJhEy5BkpetWeKonidaYW8HrnM-ASjALh2tK5xkku3jJFc6gMY1LF7caAthHTBBFg",
-    "est_revenue": 504982,
-    "est_revenue_fmt": "$505K",
-    "est_revenue_won": "20.9억",
-    "est_revenue_krw": 695836019
-  },
-  {
-    "rank": 36,
     "title": "Zenless Zone Zero - Anniv.",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -498,10 +484,24 @@
     "app_id": "com.HoYoverse.Nap",
     "local_name": "Zenless Zone Zero",
     "icon": "https://play-lh.googleusercontent.com/-OwYJcIdDSfGJBOQozVC3kKxqnA7ev2O897twi-aVUpc8AXVMNtB3YWEXDui_V0VJxelNAbUbLXpNZj9AqWa3A",
-    "est_revenue": 504982,
-    "est_revenue_fmt": "$505K",
+    "est_revenue": 665388,
+    "est_revenue_fmt": "$665K",
     "est_revenue_won": "21.8억",
-    "est_revenue_krw": 695836019
+    "est_revenue_krw": 916866219
+  },
+  {
+    "rank": 36,
+    "title": "放置少女 - 百花繚乱の萌姫たち",
+    "developer": "C4 Connect Inc.",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "jp.glee.girl",
+    "local_name": "放置少女 - 百花繚乱の萌姫たち",
+    "icon": "https://play-lh.googleusercontent.com/fkp_VLPLnTcgHIdZutQCvIJhEy5BkpetWeKonidaYW8HrnM-ASjALh2tK5xkku3jJFc6gMY1LF7caAthHTBBFg",
+    "est_revenue": 479536,
+    "est_revenue_fmt": "$480K",
+    "est_revenue_won": "20.9억",
+    "est_revenue_krw": 660772901
   },
   {
     "rank": 37,
@@ -512,27 +512,13 @@
     "app_id": "com.readygo.barrel.gp",
     "local_name": "Last Z: Survival Shooter",
     "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
-    "est_revenue": 504982,
-    "est_revenue_fmt": "$505K",
+    "est_revenue": 479536,
+    "est_revenue_fmt": "$480K",
     "est_revenue_won": "20.0억",
-    "est_revenue_krw": 695836019
+    "est_revenue_krw": 660772901
   },
   {
     "rank": 38,
-    "title": "Royal Kingdom",
-    "developer": "Dream Games, Ltd.",
-    "genre": "Game",
-    "rating": 4.1,
-    "app_id": "com.dreamgames.royalkingdom",
-    "local_name": "Royal Kingdom",
-    "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
-    "est_revenue": 433764,
-    "est_revenue_fmt": "$434K",
-    "est_revenue_won": "18.5억",
-    "est_revenue_krw": 597701730
-  },
-  {
-    "rank": 39,
     "title": "あんさんぶるスターズ！！Music",
     "developer": "Happy Elements K.K",
     "genre": "Game",
@@ -540,10 +526,24 @@
     "app_id": "jp.co.happyelements.boysm",
     "local_name": "あんさんぶるスターズ！！Music",
     "icon": "https://play-lh.googleusercontent.com/McMZLXR9hYWUG883v6EVIh5k9P5iME0wPSbgd_bhVNU9hkUV-NlpXsfR4Je8o9TrlF52jzhMUkRQcefF5ZVkFw",
-    "est_revenue": 433764,
-    "est_revenue_fmt": "$434K",
+    "est_revenue": 479536,
+    "est_revenue_fmt": "$480K",
     "est_revenue_won": "17.8억",
-    "est_revenue_krw": 597701730
+    "est_revenue_krw": 660772901
+  },
+  {
+    "rank": 39,
+    "title": "Royal Kingdom",
+    "developer": "Dream Games, Ltd.",
+    "genre": "Game",
+    "rating": 4.1,
+    "app_id": "com.dreamgames.royalkingdom",
+    "local_name": "Royal Kingdom",
+    "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
+    "est_revenue": 413144,
+    "est_revenue_fmt": "$413K",
+    "est_revenue_won": "18.5억",
+    "est_revenue_krw": 569288561
   },
   {
     "rank": 40,
@@ -554,27 +554,13 @@
     "app_id": "jp.co.koeitecmo.nobunaga.shutsujin",
     "local_name": "信長の野望 出陣",
     "icon": "https://play-lh.googleusercontent.com/eBRy1bNgigJRz8AHFnUC39RySgktprBV3YBX5gmffDrKLiy1uN6GUF0_Qm3MuhJHIOnSEp90JEmUG7Tuq2704ME",
-    "est_revenue": 433764,
-    "est_revenue_fmt": "$434K",
+    "est_revenue": 413144,
+    "est_revenue_fmt": "$413K",
     "est_revenue_won": "14.9억",
-    "est_revenue_krw": 597701730
+    "est_revenue_krw": 569288561
   },
   {
     "rank": 41,
-    "title": "SDガンダム ジージェネレーション エターナル",
-    "developer": "Bandai Namco Entertainment Inc.",
-    "genre": "Game",
-    "rating": 4,
-    "app_id": "com.bandainamcoent.gget_JP",
-    "local_name": "SDガンダム ジージェネレーション エターナル",
-    "icon": "https://play-lh.googleusercontent.com/WI-nOxNBdI82iuMwMpFjVWkTxs4Bh3dVmAQL8xwJ-U9120sfcbXLJWnn3X5IpBtdG8wzph-sobJyM0P484APwDA",
-    "est_revenue": 433764,
-    "est_revenue_fmt": "$434K",
-    "est_revenue_won": "17.1억",
-    "est_revenue_krw": 597701730
-  },
-  {
-    "rank": 42,
     "title": "Paranoize",
     "developer": "ZigZaGame Inc.",
     "genre": "Game",
@@ -582,27 +568,27 @@
     "app_id": "com.zigzagame.paranoize",
     "local_name": "Paranoize",
     "icon": "https://play-lh.googleusercontent.com/7LQtnB1OywAs4z9kyDT5NiAQtoE_TNMU6OdiPAm0znOARQB6lOlxZ7Dq9SQ8kdCvBAsDjGQKzhV2JMHHN2iuQ5g",
-    "est_revenue": 433764,
-    "est_revenue_fmt": "$434K",
+    "est_revenue": 413144,
+    "est_revenue_fmt": "$413K",
     "est_revenue_won": "15.4억",
-    "est_revenue_krw": 597701730
+    "est_revenue_krw": 569288561
+  },
+  {
+    "rank": 42,
+    "title": "SDガンダム ジージェネレーション エターナル",
+    "developer": "Bandai Namco Entertainment Inc.",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "com.bandainamcoent.gget_JP",
+    "local_name": "SDガンダム ジージェネレーション エターナル",
+    "icon": "https://play-lh.googleusercontent.com/WI-nOxNBdI82iuMwMpFjVWkTxs4Bh3dVmAQL8xwJ-U9120sfcbXLJWnn3X5IpBtdG8wzph-sobJyM0P484APwDA",
+    "est_revenue": 413144,
+    "est_revenue_fmt": "$413K",
+    "est_revenue_won": "17.1억",
+    "est_revenue_krw": 569288561
   },
   {
     "rank": 43,
-    "title": "プリンセスコネクト！Re:Dive",
-    "developer": "Cygames, Inc.",
-    "genre": "Game",
-    "rating": 3.8,
-    "app_id": "jp.co.cygames.princessconnectredive",
-    "local_name": "プリンセスコネクト！Re:Dive",
-    "icon": "https://play-lh.googleusercontent.com/qf2LIxx-EybAMt5rkc524Salj9k-FOLFL2NNTB0JNMY_NWMWu4Lz4cF6XwO5uR4UP5t046sGgt6kU4GZGtGPUw",
-    "est_revenue": 403547,
-    "est_revenue_fmt": "$404K",
-    "est_revenue_won": "16.5억",
-    "est_revenue_krw": 556064449
-  },
-  {
-    "rank": 44,
     "title": "Homescapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -610,10 +596,24 @@
     "app_id": "com.playrix.homescapes",
     "local_name": "Homescapes",
     "icon": "https://play-lh.googleusercontent.com/ft9OqNwpLaL45Jq3YuSYt0wm3y_j-YteTQqfq4Cu2PRWTrkFMuhlmUHmxggNxOP96gxR9Q3ML1Yt87iV3zD5fg",
-    "est_revenue": 328093,
-    "est_revenue_fmt": "$328K",
+    "est_revenue": 343015,
+    "est_revenue_fmt": "$343K",
     "est_revenue_won": "16.0억",
-    "est_revenue_krw": 452093197
+    "est_revenue_krw": 472654851
+  },
+  {
+    "rank": 44,
+    "title": "プリンセスコネクト！Re:Dive",
+    "developer": "Cygames, Inc.",
+    "genre": "Game",
+    "rating": 3.8,
+    "app_id": "jp.co.cygames.princessconnectredive",
+    "local_name": "プリンセスコネクト！Re:Dive",
+    "icon": "https://play-lh.googleusercontent.com/qf2LIxx-EybAMt5rkc524Salj9k-FOLFL2NNTB0JNMY_NWMWu4Lz4cF6XwO5uR4UP5t046sGgt6kU4GZGtGPUw",
+    "est_revenue": 343015,
+    "est_revenue_fmt": "$343K",
+    "est_revenue_won": "16.5억",
+    "est_revenue_krw": 472654851
   },
   {
     "rank": 45,
@@ -624,10 +624,10 @@
     "app_id": "com.dena.a12026418",
     "local_name": "Pokémon Masters EX",
     "icon": "https://play-lh.googleusercontent.com/IsrKHHbA8zI-ek18iMBN1yCBqCocyGVX_0dT-Q4uRRF1pnlaqhn-_E1KjJ0u5nPcXyprqprFlgq7ijx5qy5i",
-    "est_revenue": 328093,
-    "est_revenue_fmt": "$328K",
+    "est_revenue": 343015,
+    "est_revenue_fmt": "$343K",
     "est_revenue_won": "14.0억",
-    "est_revenue_krw": 452093197
+    "est_revenue_krw": 472654851
   },
   {
     "rank": 46,
@@ -638,10 +638,10 @@
     "app_id": "com.nhnpa.cps",
     "local_name": "#コンパス【戦闘摂理解析システム】",
     "icon": "https://play-lh.googleusercontent.com/v5z77yXfMu0GL0a9_kgFDbPRqtVCa4jlLGxoEApDZmxTDxceI81rdIywQse5ttmQQKMYkcqGeVx2oSk5HhEK4w",
-    "est_revenue": 328093,
-    "est_revenue_fmt": "$328K",
+    "est_revenue": 343015,
+    "est_revenue_fmt": "$343K",
     "est_revenue_won": "12.7억",
-    "est_revenue_krw": 452093197
+    "est_revenue_krw": 472654851
   },
   {
     "rank": 47,
@@ -652,27 +652,13 @@
     "app_id": "com.YoStarJP.AzurLane",
     "local_name": "アズールレーン",
     "icon": "https://play-lh.googleusercontent.com/xm_fZgRuFC6npGnzKgBbw1V2VuZo4Pc67LLcrecmihkaDK-LFa_yKi6x4zmg-Nb-tvqy1ppLgjEdmgZMV00vg9E",
-    "est_revenue": 328093,
-    "est_revenue_fmt": "$328K",
+    "est_revenue": 339262,
+    "est_revenue_fmt": "$339K",
     "est_revenue_won": "14.4억",
-    "est_revenue_krw": 452093197
+    "est_revenue_krw": 467483434
   },
   {
     "rank": 48,
-    "title": "キングダム 覇道",
-    "developer": "Bandai Namco Entertainment Inc.",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.bandainamcoent.kingdomhadou",
-    "local_name": "キングダム 覇道",
-    "icon": "https://play-lh.googleusercontent.com/spozptD1nlGRuMlsw2IziEEWf4MEegI6kmVzkjme-xzj-APa38V3yIg_1PX5VJwf1vahy9xlKIuwikr75oGqhA",
-    "est_revenue": 325426,
-    "est_revenue_fmt": "$325K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 448418225
-  },
-  {
-    "rank": 49,
     "title": "デュエル・マスターズ プレイス",
     "developer": "TOMY COMPANY,LTD.",
     "genre": "Game",
@@ -680,6 +666,20 @@
     "app_id": "jp.co.takaratomy.duelmastersplays",
     "local_name": "デュエル・マスターズ プレイス",
     "icon": "https://play-lh.googleusercontent.com/aN_bUP9Ofk7T9aGa6dN2lGFxp1AJO6swcmIatWGVLRrhjMy_FsCw-ae_z1AJZWGjCbg4XntWLcEyRitG8kz0",
+    "est_revenue": 325426,
+    "est_revenue_fmt": "$325K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 448418225
+  },
+  {
+    "rank": 49,
+    "title": "キングダム 覇道",
+    "developer": "Bandai Namco Entertainment Inc.",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.bandainamcoent.kingdomhadou",
+    "local_name": "キングダム 覇道",
+    "icon": "https://play-lh.googleusercontent.com/spozptD1nlGRuMlsw2IziEEWf4MEegI6kmVzkjme-xzj-APa38V3yIg_1PX5VJwf1vahy9xlKIuwikr75oGqhA",
     "est_revenue": 312356,
     "est_revenue_fmt": "$312K",
     "est_revenue_won": "",
@@ -687,13 +687,13 @@
   },
   {
     "rank": 50,
-    "title": "Monster Hunter Now",
-    "developer": "Scopely Explore, Inc.",
+    "title": "ONE PIECE バウンティラッシュ - アクションゲーム",
+    "developer": "Bandai Namco Entertainment Inc.",
     "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.nianticlabs.monsterhunter",
-    "local_name": "Monster Hunter Now",
-    "icon": "https://play-lh.googleusercontent.com/K2RWvW5xywjfBLxg7hTWy5TvzoKXuyvUQFM-MlTVRGo_2asbuIep-7DRhqJDI8ejL1Ws--8gIei0iKLxyhfIKQ",
+    "rating": 4.2,
+    "app_id": "com.bandainamcoent.opbrjp",
+    "local_name": "ONE PIECE バウンティラッシュ - アクションゲーム",
+    "icon": "https://play-lh.googleusercontent.com/B1mHaeo7VRgCohe_DV1XCOS2mtvoujEinoZoqRDW2GbvWvxooS55LycfHlBs8p1bsx9C8YUfPk-RKEaNeF1cu58",
     "est_revenue": 300000,
     "est_revenue_fmt": "$300K",
     "est_revenue_won": "",
