@@ -169,20 +169,6 @@
   },
   {
     "rank": 13,
-    "title": "Last War:Survival Game",
-    "developer": "FUNFLY PTE. LTD.",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.fun.lastwar.gp",
-    "local_name": "라스트 워: 서바이벌",
-    "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "25.9억",
-    "est_revenue_krw": 2480295998
-  },
-  {
-    "rank": 14,
     "title": "열혈강호: 넥스트",
     "developer": "Kingnet Technology Limited",
     "genre": "Game",
@@ -193,6 +179,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "23.8억",
+    "est_revenue_krw": 2480295998
+  },
+  {
+    "rank": 14,
+    "title": "Last War:Survival Game",
+    "developer": "FUNFLY PTE. LTD.",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.fun.lastwar.gp",
+    "local_name": "라스트 워: 서바이벌",
+    "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "25.9억",
     "est_revenue_krw": 2480295998
   },
   {
@@ -365,20 +365,6 @@
   },
   {
     "rank": 27,
-    "title": "FC 모바일",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 2.9,
-    "app_id": "com.nexon.fmk",
-    "local_name": "FC 모바일",
-    "icon": "https://play-lh.googleusercontent.com/VKo4cXzxFpu7d5ua0Exk9QB7B7wz8ePAON_Km1lkIowLCf4kpww9alW6HUy-kQ50Kimy86PG1ivGFhayc7hb",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "9.4억",
-    "est_revenue_krw": 2480295998
-  },
-  {
-    "rank": 28,
     "title": "Zenless Zone Zero - Anniv.",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -389,6 +375,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "8.9억",
+    "est_revenue_krw": 2480295998
+  },
+  {
+    "rank": 28,
+    "title": "FC 모바일",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 2.9,
+    "app_id": "com.nexon.fmk",
+    "local_name": "FC 모바일",
+    "icon": "https://play-lh.googleusercontent.com/VKo4cXzxFpu7d5ua0Exk9QB7B7wz8ePAON_Km1lkIowLCf4kpww9alW6HUy-kQ50Kimy86PG1ivGFhayc7hb",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "9.4억",
     "est_revenue_krw": 2480295998
   },
   {
@@ -561,20 +561,6 @@
   },
   {
     "rank": 41,
-    "title": "State of Survival: Zombie War",
-    "developer": "FunPlus International AG",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.kingsgroup.sos",
-    "local_name": "S.O.S: 스테이트 오브 서바이벌",
-    "icon": "https://play-lh.googleusercontent.com/v4gBYHQkkjokISNaGIogV1PyR6vFJr-dFvoybqbtW5g4Zwk9l2mRHOL0rSwbigyVIIFe3FDuiqtESq4SJAeMNg",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "4.4억",
-    "est_revenue_krw": 2480295998
-  },
-  {
-    "rank": 42,
     "title": "Pokémon GO",
     "developer": "Scopely Explore, Inc.",
     "genre": "Game",
@@ -585,6 +571,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "4.2억",
+    "est_revenue_krw": 2480295998
+  },
+  {
+    "rank": 42,
+    "title": "State of Survival: Zombie War",
+    "developer": "FunPlus International AG",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "com.kingsgroup.sos",
+    "local_name": "S.O.S: 스테이트 오브 서바이벌",
+    "icon": "https://play-lh.googleusercontent.com/v4gBYHQkkjokISNaGIogV1PyR6vFJr-dFvoybqbtW5g4Zwk9l2mRHOL0rSwbigyVIIFe3FDuiqtESq4SJAeMNg",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "4.4억",
     "est_revenue_krw": 2480295998
   },
   {
@@ -687,16 +687,16 @@
   },
   {
     "rank": 50,
-    "title": "I9: 인페르노 나인",
-    "developer": "Leniu Technology Co., Limited",
+    "title": "Township",
+    "developer": "Playrix",
     "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.kr.firegp",
-    "local_name": "I9: 인페르노 나인",
-    "icon": "https://play-lh.googleusercontent.com/jZ0P5ZxOE4VorYhs9QmbcxzXi7VYiNqh4I5YlO2JXUdh_5D80ymAagbYxjtP6pGnU_7f_W0gWUVWUm9mIkCI5A",
-    "est_revenue": 196549,
-    "est_revenue_fmt": "$197K",
+    "rating": 4.8,
+    "app_id": "com.playrix.township",
+    "local_name": "Township",
+    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
+    "est_revenue": 153000,
+    "est_revenue_fmt": "$153K",
     "est_revenue_won": "",
-    "est_revenue_krw": 270833166
+    "est_revenue_krw": 210825160
   }
 ]
