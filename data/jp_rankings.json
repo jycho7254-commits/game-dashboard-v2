@@ -407,20 +407,6 @@
   },
   {
     "rank": 30,
-    "title": "Genshin Impact",
-    "developer": "COGNOSPHERE PTE. LTD.",
-    "genre": "Game",
-    "rating": 4,
-    "app_id": "com.miHoYo.GenshinImpact",
-    "local_name": "原神",
-    "icon": "https://play-lh.googleusercontent.com/YQqyKaXX-63krqsfIzUEJWUWLINxcb5tbS6QVySdxbS7eZV7YB2dUjUvX27xA0TIGtfxQ5v-tQjwlT5tTB-O",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "22.8억",
-    "est_revenue_krw": 8267653326
-  },
-  {
-    "rank": 31,
     "title": "モンスターストライク",
     "developer": "XFLAG, Inc.",
     "genre": "Game",
@@ -434,7 +420,7 @@
     "est_revenue_krw": 8267653326
   },
   {
-    "rank": 32,
+    "rank": 31,
     "title": "Wuthering Waves",
     "developer": "HK KURO GAMES LIMITED",
     "genre": "Game",
@@ -442,13 +428,13 @@
     "app_id": "com.kurogame.wutheringwaves.global",
     "local_name": "鸣潮",
     "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_",
-    "est_revenue": 782316,
-    "est_revenue_fmt": "$782K",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "30.9억",
-    "est_revenue_krw": 1077986247
+    "est_revenue_krw": 8267653326
   },
   {
-    "rank": 33,
+    "rank": 32,
     "title": "Trickcal:Chibi Go",
     "developer": "BILIBILI",
     "genre": "Game",
@@ -456,10 +442,24 @@
     "app_id": "com.bilibili.trickcal",
     "local_name": "Trickcal:Chibi Go",
     "icon": "https://play-lh.googleusercontent.com/lwMgjeWGUepED3XVqPk4AXrkJwm4Mo7LvvGggHV_HXF9-INHiXCrD0fUVZl6IKwa4QhQUHDKnJ6uwUYPgG9LXg",
-    "est_revenue": 740341,
-    "est_revenue_fmt": "$740K",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "23.8억",
-    "est_revenue_krw": 1020147122
+    "est_revenue_krw": 8267653326
+  },
+  {
+    "rank": 33,
+    "title": "Genshin Impact",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "com.miHoYo.GenshinImpact",
+    "local_name": "原神",
+    "icon": "https://play-lh.googleusercontent.com/YQqyKaXX-63krqsfIzUEJWUWLINxcb5tbS6QVySdxbS7eZV7YB2dUjUvX27xA0TIGtfxQ5v-tQjwlT5tTB-O",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "22.8억",
+    "est_revenue_krw": 8267653326
   },
   {
     "rank": 34,
