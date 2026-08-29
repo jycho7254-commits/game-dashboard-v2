@@ -508,7 +508,7 @@
     "title": "Hollywood Merge",
     "developer": "VoyagerOne IE",
     "genre": "Game",
-    "rating": 4.7,
+    "rating": 4.8,
     "app_id": "com.hollywood.merge",
     "local_name": "할리우드 머지",
     "icon": "https://play-lh.googleusercontent.com/5mzN7_uKeXNnloF-zlXGxiwKuepToEdRwbFUK_aQqk7ORLUGPsMwQK__J9IL9DBMWty-zuLvZ4FYHikK2xCttIw",
@@ -645,20 +645,6 @@
   },
   {
     "rank": 47,
-    "title": "리니지2M",
-    "developer": "NC Corporation",
-    "genre": "Game",
-    "rating": 3.5,
-    "app_id": "com.ncsoft.lineage2m19",
-    "local_name": "리니지2M",
-    "icon": "https://play-lh.googleusercontent.com/bh67_a9Z2UyAoJHcktORocXm_c25UcWz_diX4kuGbQ2W1tbWwzK1QqapGahZrlDmwWCAp-CFoy9NA2KMYojBAik",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "3.4억",
-    "est_revenue_krw": 2480295998
-  },
-  {
-    "rank": 48,
     "title": "Genshin Impact",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -670,6 +656,20 @@
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "3.2억",
     "est_revenue_krw": 2480295998
+  },
+  {
+    "rank": 48,
+    "title": "리니지2M",
+    "developer": "NC Corporation",
+    "genre": "Game",
+    "rating": 3.5,
+    "app_id": "com.ncsoft.lineage2m19",
+    "local_name": "리니지2M",
+    "icon": "https://play-lh.googleusercontent.com/bh67_a9Z2UyAoJHcktORocXm_c25UcWz_diX4kuGbQ2W1tbWwzK1QqapGahZrlDmwWCAp-CFoy9NA2KMYojBAik",
+    "est_revenue": 243481,
+    "est_revenue_fmt": "$243K",
+    "est_revenue_won": "3.4억",
+    "est_revenue_krw": 335502750
   },
   {
     "rank": 49,
@@ -687,16 +687,16 @@
   },
   {
     "rank": 50,
-    "title": "Township",
-    "developer": "Playrix",
+    "title": "한게임 섯다&맞고",
+    "developer": "NHN Corp.",
     "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.playrix.township",
-    "local_name": "Township",
-    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
-    "est_revenue": 153000,
-    "est_revenue_fmt": "$153K",
+    "rating": 4,
+    "app_id": "com.NHNEnt.MSudda",
+    "local_name": "한게임 섯다&맞고",
+    "icon": "https://play-lh.googleusercontent.com/CqdDCCaoUKuuANbhIfbCWehb2UTPN6YPbucx6KUzurF6WebH10KPaG46AG-fBCl9w1hAnOqbr2psIJtQFoUOaHw",
+    "est_revenue": 171000,
+    "est_revenue_fmt": "$171K",
     "est_revenue_won": "",
-    "est_revenue_krw": 210825160
+    "est_revenue_krw": 235628120
   }
 ]
