@@ -169,20 +169,6 @@
   },
   {
     "rank": 13,
-    "title": "トゥーンブラスト (Toon Blast)",
-    "developer": "Peak",
-    "genre": "Game",
-    "rating": 4.1,
-    "app_id": "net.peakgames.toonblast",
-    "local_name": "トゥーンブラスト (Toon Blast)",
-    "icon": "https://play-lh.googleusercontent.com/j3O3Pyk08XAv4iA4p-Irerfos8g-tLxQ3r42zlScMRsjjgnyQGeE1mqcH3aSY9wA2k6l8fBqpqEaIQfIG2gLLQ",
-    "est_revenue": 6566927,
-    "est_revenue_fmt": "$6.6M",
-    "est_revenue_won": "58.6억",
-    "est_revenue_krw": 9048570519
-  },
-  {
-    "rank": 14,
     "title": "Royal Match",
     "developer": "Dream Games, Ltd.",
     "genre": "Game",
@@ -190,9 +176,23 @@
     "app_id": "com.dreamgames.royalmatch",
     "local_name": "Royal Match",
     "icon": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
+    "est_revenue": 6566927,
+    "est_revenue_fmt": "$6.6M",
+    "est_revenue_won": "55.0억",
+    "est_revenue_krw": 9048570519
+  },
+  {
+    "rank": 14,
+    "title": "トゥーンブラスト (Toon Blast)",
+    "developer": "Peak",
+    "genre": "Game",
+    "rating": 4.1,
+    "app_id": "net.peakgames.toonblast",
+    "local_name": "トゥーンブラスト (Toon Blast)",
+    "icon": "https://play-lh.googleusercontent.com/j3O3Pyk08XAv4iA4p-Irerfos8g-tLxQ3r42zlScMRsjjgnyQGeE1mqcH3aSY9wA2k6l8fBqpqEaIQfIG2gLLQ",
     "est_revenue": 6266945,
     "est_revenue_fmt": "$6.3M",
-    "est_revenue_won": "55.0억",
+    "est_revenue_won": "58.6억",
     "est_revenue_krw": 8635225239
   },
   {
@@ -211,6 +211,20 @@
   },
   {
     "rank": 16,
+    "title": "Pokémon GO",
+    "developer": "Scopely Explore, Inc.",
+    "genre": "Game",
+    "rating": 3.5,
+    "app_id": "com.nianticlabs.pokemongo",
+    "local_name": "Pokémon GO",
+    "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "51.2억",
+    "est_revenue_krw": 8267401650
+  },
+  {
+    "rank": 17,
     "title": "Shadowverse: Worlds Beyond",
     "developer": "Cygames, Inc.",
     "genre": "Game",
@@ -224,7 +238,7 @@
     "est_revenue_krw": 8267401650
   },
   {
-    "rank": 17,
+    "rank": 18,
     "title": "学園アイドルマスター",
     "developer": "Bandai Namco Entertainment Inc.",
     "genre": "Game",
@@ -235,20 +249,6 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "47.9억",
-    "est_revenue_krw": 8267401650
-  },
-  {
-    "rank": 18,
-    "title": "Pokémon GO",
-    "developer": "Scopely Explore, Inc.",
-    "genre": "Game",
-    "rating": 3.5,
-    "app_id": "com.nianticlabs.pokemongo",
-    "local_name": "Pokémon GO",
-    "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "51.2억",
     "est_revenue_krw": 8267401650
   },
   {
@@ -323,20 +323,6 @@
   },
   {
     "rank": 24,
-    "title": "モンスターストライク",
-    "developer": "XFLAG, Inc.",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "jp.co.mixi.monsterstrike",
-    "local_name": "モンスターストライク",
-    "icon": "https://play-lh.googleusercontent.com/WGW2AUzVfG3YF5cZJ_oRuhwAUGR5bskjiWFl4Kc_efzAeXsBMwnMXiMUGEGMTLHkihIWqrk6X_SEZ-T6LGMo",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "25.0억",
-    "est_revenue_krw": 8267401650
-  },
-  {
-    "rank": 25,
     "title": "Township",
     "developer": "Playrix",
     "genre": "Game",
@@ -350,21 +336,21 @@
     "est_revenue_krw": 8267401650
   },
   {
-    "rank": 26,
-    "title": "Tasty Travels: Merge Game",
-    "developer": "Century Games PTE. LTD.",
+    "rank": 25,
+    "title": "モンスターストライク",
+    "developer": "XFLAG, Inc.",
     "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.fatmerge.global",
-    "local_name": "Tasty Travels: Merge Game",
-    "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
+    "rating": 4.3,
+    "app_id": "jp.co.mixi.monsterstrike",
+    "local_name": "モンスターストライク",
+    "icon": "https://play-lh.googleusercontent.com/WGW2AUzVfG3YF5cZJ_oRuhwAUGR5bskjiWFl4Kc_efzAeXsBMwnMXiMUGEGMTLHkihIWqrk6X_SEZ-T6LGMo",
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "29.5억",
+    "est_revenue_won": "25.0억",
     "est_revenue_krw": 8267401650
   },
   {
-    "rank": 27,
+    "rank": 26,
     "title": "LINE Pokopoko",
     "developer": "LINE (LY Corporation)",
     "genre": "Game",
@@ -375,6 +361,20 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "30.9억",
+    "est_revenue_krw": 8267401650
+  },
+  {
+    "rank": 27,
+    "title": "Tasty Travels: Merge Game",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "com.fatmerge.global",
+    "local_name": "Tasty Travels: Merge Game",
+    "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "29.5억",
     "est_revenue_krw": 8267401650
   },
   {
