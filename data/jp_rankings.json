@@ -323,20 +323,6 @@
   },
   {
     "rank": 24,
-    "title": "プロ野球スピリッツA",
-    "developer": "KONAMI",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "jp.konami.prospia",
-    "local_name": "プロ野球スピリッツA",
-    "icon": "https://play-lh.googleusercontent.com/F0IB7v9CufHt5hKPRfXC9WS7tOUunAuCD3_JtdMJTtlhkG93qwmNCg6Cbcbf10aipCZZ3rv82QA-6REtVaVLHD8",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "28.2억",
-    "est_revenue_krw": 8267401650
-  },
-  {
-    "rank": 25,
     "title": "Township",
     "developer": "Playrix",
     "genre": "Game",
@@ -350,7 +336,7 @@
     "est_revenue_krw": 8267401650
   },
   {
-    "rank": 26,
+    "rank": 25,
     "title": "LINE Pokopoko",
     "developer": "LINE (LY Corporation)",
     "genre": "Game",
@@ -364,7 +350,7 @@
     "est_revenue_krw": 8267401650
   },
   {
-    "rank": 27,
+    "rank": 26,
     "title": "モンスターストライク",
     "developer": "XFLAG, Inc.",
     "genre": "Game",
@@ -378,7 +364,7 @@
     "est_revenue_krw": 8267401650
   },
   {
-    "rank": 28,
+    "rank": 27,
     "title": "Tasty Travels: Merge Game",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -392,7 +378,7 @@
     "est_revenue_krw": 8267401650
   },
   {
-    "rank": 29,
+    "rank": 28,
     "title": "NTE: Neverness to Everness",
     "developer": "N2E",
     "genre": "Game",
@@ -406,7 +392,7 @@
     "est_revenue_krw": 8267401650
   },
   {
-    "rank": 30,
+    "rank": 29,
     "title": "Genshin Impact",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -420,7 +406,7 @@
     "est_revenue_krw": 8267401650
   },
   {
-    "rank": 31,
+    "rank": 30,
     "title": "GIRLS' FRONTLINE 2: EXILIUM",
     "developer": "HaoPlay Limited",
     "genre": "Game",
@@ -428,9 +414,23 @@
     "app_id": "com.haoplay.game.and.exilium",
     "local_name": "GIRLS' FRONTLINE 2: EXILIUM",
     "icon": "https://play-lh.googleusercontent.com/N0Cq4MZ9VszB5TH_Wq229R62IuSVn1LfWwB3uhdjb0J_fsRn2hfHWc8XOEH7kAUs7Hg4SB2HLl_LEOj17YkwNQ",
+    "est_revenue": 782967,
+    "est_revenue_fmt": "$783K",
+    "est_revenue_won": "21.8억",
+    "est_revenue_krw": 1078850445
+  },
+  {
+    "rank": 31,
+    "title": "プロ野球スピリッツA",
+    "developer": "KONAMI",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "jp.konami.prospia",
+    "local_name": "プロ野球スピリッツA",
+    "icon": "https://play-lh.googleusercontent.com/F0IB7v9CufHt5hKPRfXC9WS7tOUunAuCD3_JtdMJTtlhkG93qwmNCg6Cbcbf10aipCZZ3rv82QA-6REtVaVLHD8",
     "est_revenue": 739034,
     "est_revenue_fmt": "$739K",
-    "est_revenue_won": "21.8억",
+    "est_revenue_won": "28.2억",
     "est_revenue_krw": 1018315152
   },
   {
@@ -645,20 +645,6 @@
   },
   {
     "rank": 47,
-    "title": "アズールレーン",
-    "developer": "Yostar, Inc.",
-    "genre": "Game",
-    "rating": 3.9,
-    "app_id": "com.YoStarJP.AzurLane",
-    "local_name": "アズールレーン",
-    "icon": "https://play-lh.googleusercontent.com/xm_fZgRuFC6npGnzKgBbw1V2VuZo4Pc67LLcrecmihkaDK-LFa_yKi6x4zmg-Nb-tvqy1ppLgjEdmgZMV00vg9E",
-    "est_revenue": 300835,
-    "est_revenue_fmt": "$301K",
-    "est_revenue_won": "12.7억",
-    "est_revenue_krw": 414520629
-  },
-  {
-    "rank": 48,
     "title": "デュエル・マスターズ プレイス",
     "developer": "TOMY COMPANY,LTD.",
     "genre": "Game",
@@ -672,7 +658,7 @@
     "est_revenue_krw": 414520629
   },
   {
-    "rank": 49,
+    "rank": 48,
     "title": "プリンセスコネクト！Re:Dive",
     "developer": "Cygames, Inc.",
     "genre": "Game",
@@ -683,6 +669,20 @@
     "est_revenue": 300835,
     "est_revenue_fmt": "$301K",
     "est_revenue_won": "14.4억",
+    "est_revenue_krw": 414520629
+  },
+  {
+    "rank": 49,
+    "title": "アズールレーン",
+    "developer": "Yostar, Inc.",
+    "genre": "Game",
+    "rating": 3.9,
+    "app_id": "com.YoStarJP.AzurLane",
+    "local_name": "アズールレーン",
+    "icon": "https://play-lh.googleusercontent.com/xm_fZgRuFC6npGnzKgBbw1V2VuZo4Pc67LLcrecmihkaDK-LFa_yKi6x4zmg-Nb-tvqy1ppLgjEdmgZMV00vg9E",
+    "est_revenue": 300835,
+    "est_revenue_fmt": "$301K",
+    "est_revenue_won": "12.7억",
     "est_revenue_krw": 414520629
   },
   {
