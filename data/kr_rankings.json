@@ -18,7 +18,7 @@
     "title": "SOL: enchant",
     "developer": "Netmarble",
     "genre": "Game",
-    "rating": 2.5,
+    "rating": 2.6,
     "app_id": "com.netmarble.sol",
     "local_name": "SOL: 인챈트",
     "icon": "https://play-lh.googleusercontent.com/eRGPrWXzheZvTiTRBDBuaysX8ptDH5xasKV8rzWmuEKA9WsXfftcybnz9zQB89Iiqx7WKa_naS_WK5DdT1KB",
@@ -659,6 +659,20 @@
   },
   {
     "rank": 48,
+    "title": "Epic Seven",
+    "developer": "Smilegate, Inc.",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.stove.epic7.google",
+    "local_name": "Epic Seven",
+    "icon": "https://play-lh.googleusercontent.com/r3Q3Q8qy8C2SoUUF59o8NMHyE3lTGh3TuUw4XsJVCs5L1tpkRPWp__TKYth0oqr5enygDUi3LrHq1030Rifw5w",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "",
+    "est_revenue_krw": 2480220495
+  },
+  {
+    "rank": 49,
     "title": "Genshin Impact",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -672,7 +686,7 @@
     "est_revenue_krw": 2480220495
   },
   {
-    "rank": 49,
+    "rank": 50,
     "title": "Township",
     "developer": "Playrix",
     "genre": "Game",
@@ -680,23 +694,9 @@
     "app_id": "com.playrix.township",
     "local_name": "Township",
     "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
-    "est_revenue": 159111,
-    "est_revenue_fmt": "$159K",
+    "est_revenue": 153000,
+    "est_revenue_fmt": "$153K",
     "est_revenue_won": "",
-    "est_revenue_krw": 219239091
-  },
-  {
-    "rank": 50,
-    "title": "Epic Seven",
-    "developer": "Smilegate, Inc.",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.stove.epic7.google",
-    "local_name": "Epic Seven",
-    "icon": "https://play-lh.googleusercontent.com/r3Q3Q8qy8C2SoUUF59o8NMHyE3lTGh3TuUw4XsJVCs5L1tpkRPWp__TKYth0oqr5enygDUi3LrHq1030Rifw5w",
-    "est_revenue": 159111,
-    "est_revenue_fmt": "$159K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 219239091
+    "est_revenue_krw": 210818742
   }
 ]
