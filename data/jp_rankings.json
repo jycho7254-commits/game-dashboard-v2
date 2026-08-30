@@ -99,34 +99,6 @@
   },
   {
     "rank": 8,
-    "title": "Gossip Harbor®: Merge & Story",
-    "developer": "Microfun Limited",
-    "genre": "Game",
-    "rating": 3.6,
-    "app_id": "com.mergegames.gossipharbor",
-    "local_name": "Gossip Harbor",
-    "icon": "https://play-lh.googleusercontent.com/HLRg8oInVYJV8Uebxlh1dTH4j7OTBMIWOPZY7A7ryW9UB8K4i7HCOqkGfSLORsK-XzqhnJcJM0mjObVKZYL8zA",
-    "est_revenue": 8533132,
-    "est_revenue_fmt": "$8.5M",
-    "est_revenue_won": "97.9억",
-    "est_revenue_krw": 11757804929
-  },
-  {
-    "rank": 9,
-    "title": "Last War:Survival Game",
-    "developer": "FUNFLY PTE. LTD.",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.fun.lastwar.gp",
-    "local_name": "Last War:Survival Game",
-    "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc",
-    "est_revenue": 7834322,
-    "est_revenue_fmt": "$7.8M",
-    "est_revenue_won": "88.0억",
-    "est_revenue_krw": 10794914438
-  },
-  {
-    "rank": 10,
     "title": "ドラゴンボールZ ドッカンバトル",
     "developer": "Bandai Namco Entertainment Inc.",
     "genre": "Game",
@@ -134,9 +106,37 @@
     "app_id": "com.bandainamcogames.dbzdokkan",
     "local_name": "ドラゴンボールZ ドッカンバトル",
     "icon": "https://play-lh.googleusercontent.com/AjC0FM5Y7Y-Nte45TKgOmvKZlfXPj3u9_CCLnWwzgDJfTTOziul3L4NqqzwupcdF7P4xgrwc1N_X0jRKwOSlf8M",
+    "est_revenue": 8533132,
+    "est_revenue_fmt": "$8.5M",
+    "est_revenue_won": "80.0억",
+    "est_revenue_krw": 11757804929
+  },
+  {
+    "rank": 9,
+    "title": "Gossip Harbor®: Merge & Story",
+    "developer": "Microfun Limited",
+    "genre": "Game",
+    "rating": 3.6,
+    "app_id": "com.mergegames.gossipharbor",
+    "local_name": "Gossip Harbor",
+    "icon": "https://play-lh.googleusercontent.com/HLRg8oInVYJV8Uebxlh1dTH4j7OTBMIWOPZY7A7ryW9UB8K4i7HCOqkGfSLORsK-XzqhnJcJM0mjObVKZYL8zA",
+    "est_revenue": 7834322,
+    "est_revenue_fmt": "$7.8M",
+    "est_revenue_won": "97.9억",
+    "est_revenue_krw": 10794914438
+  },
+  {
+    "rank": 10,
+    "title": "Last War:Survival Game",
+    "developer": "FUNFLY PTE. LTD.",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "com.fun.lastwar.gp",
+    "local_name": "Last War:Survival Game",
+    "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc",
     "est_revenue": 7257850,
     "est_revenue_fmt": "$7.3M",
-    "est_revenue_won": "80.0억",
+    "est_revenue_won": "88.0억",
     "est_revenue_krw": 10000593511
   },
   {
@@ -421,20 +421,6 @@
   },
   {
     "rank": 31,
-    "title": "Wuthering Waves",
-    "developer": "HK KURO GAMES LIMITED",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.kurogame.wutheringwaves.global",
-    "local_name": "鸣潮",
-    "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "23.8억",
-    "est_revenue_krw": 8267401650
-  },
-  {
-    "rank": 32,
     "title": "Genshin Impact",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -448,7 +434,7 @@
     "est_revenue_krw": 8267401650
   },
   {
-    "rank": 33,
+    "rank": 32,
     "title": "GIRLS' FRONTLINE 2: EXILIUM",
     "developer": "HaoPlay Limited",
     "genre": "Game",
@@ -456,10 +442,24 @@
     "app_id": "com.haoplay.game.and.exilium",
     "local_name": "GIRLS' FRONTLINE 2: EXILIUM",
     "icon": "https://play-lh.googleusercontent.com/N0Cq4MZ9VszB5TH_Wq229R62IuSVn1LfWwB3uhdjb0J_fsRn2hfHWc8XOEH7kAUs7Hg4SB2HLl_LEOj17YkwNQ",
-    "est_revenue": 661019,
-    "est_revenue_fmt": "$661K",
+    "est_revenue": 698497,
+    "est_revenue_fmt": "$698K",
     "est_revenue_won": "21.8억",
-    "est_revenue_krw": 910818262
+    "est_revenue_krw": 962459208
+  },
+  {
+    "rank": 33,
+    "title": "Trickcal:Chibi Go",
+    "developer": "BILIBILI",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.bilibili.trickcal",
+    "local_name": "Trickcal:Chibi Go",
+    "icon": "https://play-lh.googleusercontent.com/lwMgjeWGUepED3XVqPk4AXrkJwm4Mo7LvvGggHV_HXF9-INHiXCrD0fUVZl6IKwa4QhQUHDKnJ6uwUYPgG9LXg",
+    "est_revenue": 698497,
+    "est_revenue_fmt": "$698K",
+    "est_revenue_won": "20.0억",
+    "est_revenue_krw": 962459208
   },
   {
     "rank": 34,
@@ -477,34 +477,20 @@
   },
   {
     "rank": 35,
-    "title": "Trickcal:Chibi Go",
-    "developer": "BILIBILI",
+    "title": "Wuthering Waves",
+    "developer": "HK KURO GAMES LIMITED",
     "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.bilibili.trickcal",
-    "local_name": "Trickcal:Chibi Go",
-    "icon": "https://play-lh.googleusercontent.com/lwMgjeWGUepED3XVqPk4AXrkJwm4Mo7LvvGggHV_HXF9-INHiXCrD0fUVZl6IKwa4QhQUHDKnJ6uwUYPgG9LXg",
+    "rating": 4.4,
+    "app_id": "com.kurogame.wutheringwaves.global",
+    "local_name": "鸣潮",
+    "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_",
     "est_revenue": 532360,
     "est_revenue_fmt": "$532K",
-    "est_revenue_won": "20.0억",
+    "est_revenue_won": "23.8억",
     "est_revenue_krw": 733538990
   },
   {
     "rank": 36,
-    "title": "Zenless Zone Zero - Anniv.",
-    "developer": "COGNOSPHERE PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.3,
-    "app_id": "com.HoYoverse.Nap",
-    "local_name": "Zenless Zone Zero",
-    "icon": "https://play-lh.googleusercontent.com/-OwYJcIdDSfGJBOQozVC3kKxqnA7ev2O897twi-aVUpc8AXVMNtB3YWEXDui_V0VJxelNAbUbLXpNZj9AqWa3A",
-    "est_revenue": 532360,
-    "est_revenue_fmt": "$532K",
-    "est_revenue_won": "19.2억",
-    "est_revenue_krw": 733538990
-  },
-  {
-    "rank": 37,
     "title": "Last Z: Survival Shooter",
     "developer": "Omnilojo Pte Ltd",
     "genre": "Game",
@@ -518,7 +504,7 @@
     "est_revenue_krw": 733538990
   },
   {
-    "rank": 38,
+    "rank": 37,
     "title": "Royal Kingdom",
     "developer": "Dream Games, Ltd.",
     "genre": "Game",
@@ -526,10 +512,24 @@
     "app_id": "com.dreamgames.royalkingdom",
     "local_name": "Royal Kingdom",
     "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
-    "est_revenue": 433764,
-    "est_revenue_fmt": "$434K",
+    "est_revenue": 455849,
+    "est_revenue_fmt": "$456K",
     "est_revenue_won": "17.8억",
-    "est_revenue_krw": 597683535
+    "est_revenue_krw": 628114462
+  },
+  {
+    "rank": 38,
+    "title": "Zenless Zone Zero - Anniv.",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "genre": "Game",
+    "rating": 3.3,
+    "app_id": "com.HoYoverse.Nap",
+    "local_name": "Zenless Zone Zero",
+    "icon": "https://play-lh.googleusercontent.com/-OwYJcIdDSfGJBOQozVC3kKxqnA7ev2O897twi-aVUpc8AXVMNtB3YWEXDui_V0VJxelNAbUbLXpNZj9AqWa3A",
+    "est_revenue": 455849,
+    "est_revenue_fmt": "$456K",
+    "est_revenue_won": "19.2억",
+    "est_revenue_krw": 628114462
   },
   {
     "rank": 39,
@@ -540,10 +540,10 @@
     "app_id": "jp.co.happyelements.boysm",
     "local_name": "あんさんぶるスターズ！！Music",
     "icon": "https://play-lh.googleusercontent.com/McMZLXR9hYWUG883v6EVIh5k9P5iME0wPSbgd_bhVNU9hkUV-NlpXsfR4Je8o9TrlF52jzhMUkRQcefF5ZVkFw",
-    "est_revenue": 433764,
-    "est_revenue_fmt": "$434K",
+    "est_revenue": 455849,
+    "est_revenue_fmt": "$456K",
     "est_revenue_won": "17.1억",
-    "est_revenue_krw": 597683535
+    "est_revenue_krw": 628114462
   },
   {
     "rank": 40,
@@ -554,10 +554,10 @@
     "app_id": "jp.co.koeitecmo.nobunaga.shutsujin",
     "local_name": "信長の野望 出陣",
     "icon": "https://play-lh.googleusercontent.com/eBRy1bNgigJRz8AHFnUC39RySgktprBV3YBX5gmffDrKLiy1uN6GUF0_Qm3MuhJHIOnSEp90JEmUG7Tuq2704ME",
-    "est_revenue": 433764,
-    "est_revenue_fmt": "$434K",
+    "est_revenue": 455849,
+    "est_revenue_fmt": "$456K",
     "est_revenue_won": "16.5억",
-    "est_revenue_krw": 597683535
+    "est_revenue_krw": 628114462
   },
   {
     "rank": 41,
@@ -568,10 +568,10 @@
     "app_id": "com.zigzagame.paranoize",
     "local_name": "Paranoize",
     "icon": "https://play-lh.googleusercontent.com/7LQtnB1OywAs4z9kyDT5NiAQtoE_TNMU6OdiPAm0znOARQB6lOlxZ7Dq9SQ8kdCvBAsDjGQKzhV2JMHHN2iuQ5g",
-    "est_revenue": 433764,
-    "est_revenue_fmt": "$434K",
+    "est_revenue": 455849,
+    "est_revenue_fmt": "$456K",
     "est_revenue_won": "16.0억",
-    "est_revenue_krw": 597683535
+    "est_revenue_krw": 628114462
   },
   {
     "rank": 42,
@@ -582,10 +582,10 @@
     "app_id": "com.bandainamcoent.gget_JP",
     "local_name": "SDガンダム ジージェネレーション エターナル",
     "icon": "https://play-lh.googleusercontent.com/WI-nOxNBdI82iuMwMpFjVWkTxs4Bh3dVmAQL8xwJ-U9120sfcbXLJWnn3X5IpBtdG8wzph-sobJyM0P484APwDA",
-    "est_revenue": 433764,
-    "est_revenue_fmt": "$434K",
+    "est_revenue": 455849,
+    "est_revenue_fmt": "$456K",
     "est_revenue_won": "15.4억",
-    "est_revenue_krw": 597683535
+    "est_revenue_krw": 628114462
   },
   {
     "rank": 43,
