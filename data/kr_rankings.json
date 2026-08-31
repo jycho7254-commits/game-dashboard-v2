@@ -4,7 +4,7 @@
     "title": "제우스: 오만의 신",
     "developer": "Com2uS",
     "genre": "Game",
-    "rating": 4.1,
+    "rating": 4,
     "app_id": "com.com2us.es.android.google.kr.normal",
     "local_name": "제우스: 오만의 신",
     "icon": "https://play-lh.googleusercontent.com/Cn3mFHKMLbpjEBSZGiCKysZpRKXYNm5CH4vGFBLUMpWtZ7gk_2ONDoqAfJ6OIh_V-Lm3d8uZOmzKoAFdQxW4",
@@ -365,20 +365,6 @@
   },
   {
     "rank": 27,
-    "title": "Zenless Zone Zero - Anniv.",
-    "developer": "COGNOSPHERE PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.2,
-    "app_id": "com.HoYoverse.Nap",
-    "local_name": "젠레스 존 제로",
-    "icon": "https://play-lh.googleusercontent.com/-OwYJcIdDSfGJBOQozVC3kKxqnA7ev2O897twi-aVUpc8AXVMNtB3YWEXDui_V0VJxelNAbUbLXpNZj9AqWa3A",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "9.4억",
-    "est_revenue_krw": 2477874031
-  },
-  {
-    "rank": 28,
     "title": "GIRLS' FRONTLINE 2: EXILIUM",
     "developer": "HaoPlay Limited",
     "genre": "Game",
@@ -389,6 +375,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "8.9억",
+    "est_revenue_krw": 2477874031
+  },
+  {
+    "rank": 28,
+    "title": "Zenless Zone Zero - Anniv.",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "genre": "Game",
+    "rating": 3.2,
+    "app_id": "com.HoYoverse.Nap",
+    "local_name": "젠레스 존 제로",
+    "icon": "https://play-lh.googleusercontent.com/-OwYJcIdDSfGJBOQozVC3kKxqnA7ev2O897twi-aVUpc8AXVMNtB3YWEXDui_V0VJxelNAbUbLXpNZj9AqWa3A",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "9.4억",
     "est_revenue_krw": 2477874031
   },
   {
@@ -575,20 +575,6 @@
   },
   {
     "rank": 42,
-    "title": "Pokémon GO",
-    "developer": "Scopely Explore, Inc.",
-    "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.nianticlabs.pokemongo",
-    "local_name": "포켓몬 GO",
-    "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "4.0억",
-    "est_revenue_krw": 2477874031
-  },
-  {
-    "rank": 43,
     "title": "PUBG Mobile",
     "developer": "KRAFTON, Inc.",
     "genre": "Game",
@@ -599,6 +585,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "4.2억",
+    "est_revenue_krw": 2477874031
+  },
+  {
+    "rank": 43,
+    "title": "Pokémon GO",
+    "developer": "Scopely Explore, Inc.",
+    "genre": "Game",
+    "rating": 3.8,
+    "app_id": "com.nianticlabs.pokemongo",
+    "local_name": "포켓몬 GO",
+    "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "4.0억",
     "est_revenue_krw": 2477874031
   },
   {
