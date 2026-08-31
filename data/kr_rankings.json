@@ -449,20 +449,6 @@
   },
   {
     "rank": 33,
-    "title": "마비노기 모바일",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 2.8,
-    "app_id": "com.nexon.devcat.mm",
-    "local_name": "마비노기 모바일",
-    "icon": "https://play-lh.googleusercontent.com/ljE3Q4kOQj0UEjbJoANQpgQ4rxdDvI1h1wARGv6jFgel-5oDIFjfTx2S0nINT8agCEOB_V3C9y61RZFoyLZ4",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "6.7억",
-    "est_revenue_krw": 2480220495
-  },
-  {
-    "rank": 34,
     "title": "Hollywood Merge",
     "developer": "VoyagerOne IE",
     "genre": "Game",
@@ -473,6 +459,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "5.6억",
+    "est_revenue_krw": 2480220495
+  },
+  {
+    "rank": 34,
+    "title": "마비노기 모바일",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 2.8,
+    "app_id": "com.nexon.devcat.mm",
+    "local_name": "마비노기 모바일",
+    "icon": "https://play-lh.googleusercontent.com/ljE3Q4kOQj0UEjbJoANQpgQ4rxdDvI1h1wARGv6jFgel-5oDIFjfTx2S0nINT8agCEOB_V3C9y61RZFoyLZ4",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "6.7억",
     "est_revenue_krw": 2480220495
   },
   {
@@ -673,20 +673,6 @@
   },
   {
     "rank": 49,
-    "title": "Township",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.playrix.township",
-    "local_name": "Township",
-    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
-    "est_revenue": 159111,
-    "est_revenue_fmt": "$159K",
-    "est_revenue_won": "3.1억",
-    "est_revenue_krw": 219239091
-  },
-  {
-    "rank": 50,
     "title": "I9: 인페르노 나인",
     "developer": "Leniu Technology Co., Limited",
     "genre": "Game",
@@ -694,9 +680,23 @@
     "app_id": "com.kr.firegp",
     "local_name": "I9: 인페르노 나인",
     "icon": "https://play-lh.googleusercontent.com/jZ0P5ZxOE4VorYhs9QmbcxzXi7VYiNqh4I5YlO2JXUdh_5D80ymAagbYxjtP6pGnU_7f_W0gWUVWUm9mIkCI5A",
-    "est_revenue": 159111,
-    "est_revenue_fmt": "$159K",
+    "est_revenue": 209653,
+    "est_revenue_fmt": "$210K",
     "est_revenue_won": "",
-    "est_revenue_krw": 219239091
+    "est_revenue_krw": 288880926
+  },
+  {
+    "rank": 50,
+    "title": "Township",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.playrix.township",
+    "local_name": "Township",
+    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
+    "est_revenue": 153000,
+    "est_revenue_fmt": "$153K",
+    "est_revenue_won": "3.1억",
+    "est_revenue_krw": 210818742
   }
 ]
