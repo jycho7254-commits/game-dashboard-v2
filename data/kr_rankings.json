@@ -92,13 +92,41 @@
     "app_id": "com.roblox.client",
     "local_name": "로블록스",
     "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
-    "est_revenue": 3555181,
-    "est_revenue_fmt": "$3.6M",
+    "est_revenue": 7800000,
+    "est_revenue_fmt": "$7.8M",
     "est_revenue_won": "46.2억",
-    "est_revenue_krw": 4894050376
+    "est_revenue_krw": 10737454135
   },
   {
     "rank": 8,
+    "title": "MapleStory : Idle RPG",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.nexon.ma",
+    "local_name": "메이플스토리: 모바일",
+    "icon": "https://play-lh.googleusercontent.com/iqpY1xJzA5iIQdnHxk-IOfQFESViwUyTQ1AIwF1_i3kd8sQTTQDrkMLys26QqSb9tG35M5FTw2VjQuCcoe3MJA",
+    "est_revenue": 7800000,
+    "est_revenue_fmt": "$7.8M",
+    "est_revenue_won": "38.0억",
+    "est_revenue_krw": 10737454135
+  },
+  {
+    "rank": 9,
+    "title": "리니지M",
+    "developer": "NC Corporation",
+    "genre": "Game",
+    "rating": 2.6,
+    "app_id": "com.ncsoft.lineagem19",
+    "local_name": "리니지M",
+    "icon": "https://play-lh.googleusercontent.com/xy6xR7NsdX81HpwWu8CoVkseQECAug3pLvvpdBGtls12xwiQy3Qw5hvQ51fc3oTXPmI8xyOArPnm70t8395Mmdw",
+    "est_revenue": 7800000,
+    "est_revenue_fmt": "$7.8M",
+    "est_revenue_won": "35.0억",
+    "est_revenue_krw": 10737454135
+  },
+  {
+    "rank": 10,
     "title": "Royal Match",
     "developer": "Dream Games, Ltd.",
     "genre": "Game",
@@ -109,34 +137,6 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "41.6억",
-    "est_revenue_krw": 2477874031
-  },
-  {
-    "rank": 9,
-    "title": "MapleStory : Idle RPG",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.nexon.ma",
-    "local_name": "메이플스토리: 모바일",
-    "icon": "https://play-lh.googleusercontent.com/iqpY1xJzA5iIQdnHxk-IOfQFESViwUyTQ1AIwF1_i3kd8sQTTQDrkMLys26QqSb9tG35M5FTw2VjQuCcoe3MJA",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "38.0억",
-    "est_revenue_krw": 2477874031
-  },
-  {
-    "rank": 10,
-    "title": "리니지M",
-    "developer": "NC Corporation",
-    "genre": "Game",
-    "rating": 2.6,
-    "app_id": "com.ncsoft.lineagem19",
-    "local_name": "리니지M",
-    "icon": "https://play-lh.googleusercontent.com/xy6xR7NsdX81HpwWu8CoVkseQECAug3pLvvpdBGtls12xwiQy3Qw5hvQ51fc3oTXPmI8xyOArPnm70t8395Mmdw",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "35.0억",
     "est_revenue_krw": 2477874031
   },
   {
@@ -687,16 +687,16 @@
   },
   {
     "rank": 50,
-    "title": "Township",
-    "developer": "Playrix",
+    "title": "EA SPORTS FC Online M",
+    "developer": "NEXON Company",
     "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.playrix.township",
-    "local_name": "Township",
-    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
-    "est_revenue": 153000,
-    "est_revenue_fmt": "$153K",
-    "est_revenue_won": "3.0억",
-    "est_revenue_krw": 210619293
+    "rating": 2.3,
+    "app_id": "com.nexon.fo4m",
+    "local_name": "FC 온라인 M",
+    "icon": "https://play-lh.googleusercontent.com/3kHUd_bPqo2Mz00jcm8gxIjgawGnkg1w7V1KZfQ-UalXUj8QrLwqmGxpUNniLQ4o3exMUCl_lKa5KOolaOqBFdo",
+    "est_revenue": 189000,
+    "est_revenue_fmt": "$189K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 260176773
   }
 ]
