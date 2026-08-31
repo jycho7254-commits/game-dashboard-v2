@@ -351,20 +351,6 @@
   },
   {
     "rank": 26,
-    "title": "Zenless Zone Zero - Anniv.",
-    "developer": "COGNOSPHERE PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.2,
-    "app_id": "com.HoYoverse.Nap",
-    "local_name": "젠레스 존 제로",
-    "icon": "https://play-lh.googleusercontent.com/-OwYJcIdDSfGJBOQozVC3kKxqnA7ev2O897twi-aVUpc8AXVMNtB3YWEXDui_V0VJxelNAbUbLXpNZj9AqWa3A",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "9.4억",
-    "est_revenue_krw": 2477874031
-  },
-  {
-    "rank": 27,
     "title": "GIRLS' FRONTLINE 2: EXILIUM",
     "developer": "HaoPlay Limited",
     "genre": "Game",
@@ -378,7 +364,7 @@
     "est_revenue_krw": 2477874031
   },
   {
-    "rank": 28,
+    "rank": 27,
     "title": "Wuthering Waves",
     "developer": "HK KURO GAMES LIMITED",
     "genre": "Game",
@@ -389,6 +375,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "11.3억",
+    "est_revenue_krw": 2477874031
+  },
+  {
+    "rank": 28,
+    "title": "Zenless Zone Zero - Anniv.",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "genre": "Game",
+    "rating": 3.2,
+    "app_id": "com.HoYoverse.Nap",
+    "local_name": "젠레스 존 제로",
+    "icon": "https://play-lh.googleusercontent.com/-OwYJcIdDSfGJBOQozVC3kKxqnA7ev2O897twi-aVUpc8AXVMNtB3YWEXDui_V0VJxelNAbUbLXpNZj9AqWa3A",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "9.4억",
     "est_revenue_krw": 2477874031
   },
   {
@@ -491,6 +491,20 @@
   },
   {
     "rank": 36,
+    "title": "메이플스토리M",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.nexon.nsc.maplem",
+    "local_name": "메이플스토리M",
+    "icon": "https://play-lh.googleusercontent.com/tZScySue9fnf1qKzEtKmmKe7BM9kYzgLrzdxWRgEMID3kL1JLQDKh1AyvI8ZXWE11CIpZqzjD9WceSyDdjeN",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "6.0억",
+    "est_revenue_krw": 2477874031
+  },
+  {
+    "rank": 37,
     "title": "뮤 모나크2",
     "developer": "Webzen Inc.",
     "genre": "Game",
@@ -504,7 +518,7 @@
     "est_revenue_krw": 2477874031
   },
   {
-    "rank": 37,
+    "rank": 38,
     "title": "Lineage W",
     "developer": "NC Corporation",
     "genre": "Game",
@@ -515,20 +529,6 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "5.3억",
-    "est_revenue_krw": 2477874031
-  },
-  {
-    "rank": 38,
-    "title": "메이플스토리M",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.nexon.nsc.maplem",
-    "local_name": "메이플스토리M",
-    "icon": "https://play-lh.googleusercontent.com/tZScySue9fnf1qKzEtKmmKe7BM9kYzgLrzdxWRgEMID3kL1JLQDKh1AyvI8ZXWE11CIpZqzjD9WceSyDdjeN",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "6.0억",
     "est_revenue_krw": 2477874031
   },
   {
@@ -631,20 +631,6 @@
   },
   {
     "rank": 46,
-    "title": "I9: 인페르노 나인",
-    "developer": "Leniu Technology Co., Limited",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.kr.firegp",
-    "local_name": "I9: 인페르노 나인",
-    "icon": "https://play-lh.googleusercontent.com/jZ0P5ZxOE4VorYhs9QmbcxzXi7VYiNqh4I5YlO2JXUdh_5D80ymAagbYxjtP6pGnU_7f_W0gWUVWUm9mIkCI5A",
-    "est_revenue": 236669,
-    "est_revenue_fmt": "$237K",
-    "est_revenue_won": "3.1억",
-    "est_revenue_krw": 325797761
-  },
-  {
-    "rank": 47,
     "title": "Flambé®: Merge & Cook",
     "developer": "Microfun Limited",
     "genre": "Game",
@@ -652,13 +638,13 @@
     "app_id": "com.cola.game",
     "local_name": "플람베",
     "icon": "https://play-lh.googleusercontent.com/DxEYTS_nNDbesjgAGulDTgl8V2cV42UUmeOGPei2c95XRW7GY_XgihSsaPF7rnRua18Egkd1-siIgbkVjq73Hg",
-    "est_revenue": 172392,
-    "est_revenue_fmt": "$172K",
+    "est_revenue": 179615,
+    "est_revenue_fmt": "$180K",
     "est_revenue_won": "3.7억",
-    "est_revenue_krw": 237314256
+    "est_revenue_krw": 247257413
   },
   {
-    "rank": 48,
+    "rank": 47,
     "title": "리니지2M",
     "developer": "NC Corporation",
     "genre": "Game",
@@ -666,13 +652,13 @@
     "app_id": "com.ncsoft.lineage2m19",
     "local_name": "리니지2M",
     "icon": "https://play-lh.googleusercontent.com/bh67_a9Z2UyAoJHcktORocXm_c25UcWz_diX4kuGbQ2W1tbWwzK1QqapGahZrlDmwWCAp-CFoy9NA2KMYojBAik",
-    "est_revenue": 172392,
-    "est_revenue_fmt": "$172K",
+    "est_revenue": 179615,
+    "est_revenue_fmt": "$180K",
     "est_revenue_won": "3.2억",
-    "est_revenue_krw": 237314256
+    "est_revenue_krw": 247257413
   },
   {
-    "rank": 49,
+    "rank": 48,
     "title": "Homescapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -680,13 +666,13 @@
     "app_id": "com.playrix.homescapes",
     "local_name": "홈스케이프",
     "icon": "https://play-lh.googleusercontent.com/ft9OqNwpLaL45Jq3YuSYt0wm3y_j-YteTQqfq4Cu2PRWTrkFMuhlmUHmxggNxOP96gxR9Q3ML1Yt87iV3zD5fg",
-    "est_revenue": 159111,
-    "est_revenue_fmt": "$159K",
+    "est_revenue": 165567,
+    "est_revenue_fmt": "$166K",
     "est_revenue_won": "3.5억",
-    "est_revenue_krw": 219031675
+    "est_revenue_krw": 227918983
   },
   {
-    "rank": 50,
+    "rank": 49,
     "title": "EA SPORTS FC Online M",
     "developer": "NEXON Company",
     "genre": "Game",
@@ -694,9 +680,23 @@
     "app_id": "com.nexon.fo4m",
     "local_name": "FC 온라인 M",
     "icon": "https://play-lh.googleusercontent.com/3kHUd_bPqo2Mz00jcm8gxIjgawGnkg1w7V1KZfQ-UalXUj8QrLwqmGxpUNniLQ4o3exMUCl_lKa5KOolaOqBFdo",
-    "est_revenue": 159111,
-    "est_revenue_fmt": "$159K",
+    "est_revenue": 165567,
+    "est_revenue_fmt": "$166K",
     "est_revenue_won": "",
-    "est_revenue_krw": 219031675
+    "est_revenue_krw": 227918983
+  },
+  {
+    "rank": 50,
+    "title": "Township",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.playrix.township",
+    "local_name": "Township",
+    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
+    "est_revenue": 153000,
+    "est_revenue_fmt": "$153K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 210619293
   }
 ]
