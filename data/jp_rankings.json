@@ -15,20 +15,6 @@
   },
   {
     "rank": 2,
-    "title": "Honkai: Star Rail",
-    "developer": "COGNOSPHERE PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.HoYoverse.hkrpgoversea",
-    "local_name": "崩壊:スターレイル",
-    "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
-    "est_revenue": 10500000,
-    "est_revenue_fmt": "$10.5M",
-    "est_revenue_won": "222.6억",
-    "est_revenue_krw": 14369490828
-  },
-  {
-    "rank": 3,
     "title": "ホロライブドリームス",
     "developer": "QualiArts, Inc.",
     "genre": "Game",
@@ -39,6 +25,20 @@
     "est_revenue": 10500000,
     "est_revenue_fmt": "$10.5M",
     "est_revenue_won": "186.9억",
+    "est_revenue_krw": 14369490828
+  },
+  {
+    "rank": 3,
+    "title": "Honkai: Star Rail",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "genre": "Game",
+    "rating": 3.8,
+    "app_id": "com.HoYoverse.hkrpgoversea",
+    "local_name": "崩壊:スターレイル",
+    "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
+    "est_revenue": 10500000,
+    "est_revenue_fmt": "$10.5M",
+    "est_revenue_won": "222.6억",
     "est_revenue_krw": 14369490828
   },
   {
@@ -365,20 +365,6 @@
   },
   {
     "rank": 27,
-    "title": "幻想水滸伝 STAR LEAP",
-    "developer": "KONAMI",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "jp.konami.suikoden.starleap",
-    "local_name": "幻想水滸伝 STAR LEAP",
-    "icon": "https://play-lh.googleusercontent.com/CZqC6kjKA871p5R5tf734xuTrgNd7B2DC9Q2Y1Fj0Bmdg3z2I8PhgV-7JNsOg-g-BV1ZWNLRPqq0frr9byaN",
-    "est_revenue": 851020,
-    "est_revenue_fmt": "$851K",
-    "est_revenue_won": "28.2억",
-    "est_revenue_krw": 1164640389
-  },
-  {
-    "rank": 28,
     "title": "Township",
     "developer": "Playrix",
     "genre": "Game",
@@ -386,10 +372,24 @@
     "app_id": "com.playrix.township",
     "local_name": "Township",
     "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
-    "est_revenue": 750214,
-    "est_revenue_fmt": "$750K",
+    "est_revenue": 798364,
+    "est_revenue_fmt": "$798K",
     "est_revenue_won": "27.1억",
-    "est_revenue_krw": 1026685066
+    "est_revenue_krw": 1092579445
+  },
+  {
+    "rank": 28,
+    "title": "幻想水滸伝 STAR LEAP",
+    "developer": "KONAMI",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "jp.konami.suikoden.starleap",
+    "local_name": "幻想水滸伝 STAR LEAP",
+    "icon": "https://play-lh.googleusercontent.com/CZqC6kjKA871p5R5tf734xuTrgNd7B2DC9Q2Y1Fj0Bmdg3z2I8PhgV-7JNsOg-g-BV1ZWNLRPqq0frr9byaN",
+    "est_revenue": 798364,
+    "est_revenue_fmt": "$798K",
+    "est_revenue_won": "28.2억",
+    "est_revenue_krw": 1092579445
   },
   {
     "rank": 29,
@@ -400,10 +400,10 @@
     "app_id": "com.hottagames.nte",
     "local_name": "NTE: Neverness to Everness",
     "icon": "https://play-lh.googleusercontent.com/TGl3DdDbi4hty6ooOhEvv_2s5tkpGLbL6derP8y5hK-_Bw--Ve375b08ba9HHQ9ueRpoQ9oye1T_T24BJriLUmw",
-    "est_revenue": 750214,
-    "est_revenue_fmt": "$750K",
+    "est_revenue": 798364,
+    "est_revenue_fmt": "$798K",
     "est_revenue_won": "25.0억",
-    "est_revenue_krw": 1026685066
+    "est_revenue_krw": 1092579445
   },
   {
     "rank": 30,
