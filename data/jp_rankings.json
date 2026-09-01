@@ -477,20 +477,6 @@
   },
   {
     "rank": 35,
-    "title": "Zenless Zone Zero - Anniv.",
-    "developer": "COGNOSPHERE PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.4,
-    "app_id": "com.HoYoverse.Nap",
-    "local_name": "Zenless Zone Zero",
-    "icon": "https://play-lh.googleusercontent.com/-OwYJcIdDSfGJBOQozVC3kKxqnA7ev2O897twi-aVUpc8AXVMNtB3YWEXDui_V0VJxelNAbUbLXpNZj9AqWa3A",
-    "est_revenue": 626306,
-    "est_revenue_fmt": "$626K",
-    "est_revenue_won": "20.9억",
-    "est_revenue_krw": 857114126
-  },
-  {
-    "rank": 36,
     "title": "信長の野望 出陣",
     "developer": "KOEI TECMO GAMES CO., LTD.",
     "genre": "Game",
@@ -501,6 +487,20 @@
     "est_revenue": 626306,
     "est_revenue_fmt": "$626K",
     "est_revenue_won": "19.2억",
+    "est_revenue_krw": 857114126
+  },
+  {
+    "rank": 36,
+    "title": "Zenless Zone Zero - Anniv.",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "genre": "Game",
+    "rating": 3.4,
+    "app_id": "com.HoYoverse.Nap",
+    "local_name": "Zenless Zone Zero",
+    "icon": "https://play-lh.googleusercontent.com/-OwYJcIdDSfGJBOQozVC3kKxqnA7ev2O897twi-aVUpc8AXVMNtB3YWEXDui_V0VJxelNAbUbLXpNZj9AqWa3A",
+    "est_revenue": 626306,
+    "est_revenue_fmt": "$626K",
+    "est_revenue_won": "20.9억",
     "est_revenue_krw": 857114126
   },
   {
@@ -533,34 +533,6 @@
   },
   {
     "rank": 39,
-    "title": "Paranoize",
-    "developer": "ZigZaGame Inc.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.zigzagame.paranoize",
-    "local_name": "Paranoize",
-    "icon": "https://play-lh.googleusercontent.com/7LQtnB1OywAs4z9kyDT5NiAQtoE_TNMU6OdiPAm0znOARQB6lOlxZ7Dq9SQ8kdCvBAsDjGQKzhV2JMHHN2iuQ5g",
-    "est_revenue": 510311,
-    "est_revenue_fmt": "$510K",
-    "est_revenue_won": "14.9억",
-    "est_revenue_krw": 698372308
-  },
-  {
-    "rank": 40,
-    "title": "Royal Kingdom",
-    "developer": "Dream Games, Ltd.",
-    "genre": "Game",
-    "rating": 4.1,
-    "app_id": "com.dreamgames.royalkingdom",
-    "local_name": "Royal Kingdom",
-    "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
-    "est_revenue": 393865,
-    "est_revenue_fmt": "$394K",
-    "est_revenue_won": "18.5억",
-    "est_revenue_krw": 539013286
-  },
-  {
-    "rank": 41,
     "title": "グランブルーファンタジー",
     "developer": "mobage",
     "genre": "Game",
@@ -568,10 +540,38 @@
     "app_id": "jp.mbga.a12016007.lite",
     "local_name": "グランブルーファンタジー",
     "icon": "https://play-lh.googleusercontent.com/kezieGaFO7Jl78eSwpJORGTrNGWGt1_2RHtVLtd8SrJ7QBFBnpLYQ-MmV5pUVD2JBcpuW3nqYt4Dc5wXHlWpgR8",
-    "est_revenue": 393865,
-    "est_revenue_fmt": "$394K",
+    "est_revenue": 486052,
+    "est_revenue_fmt": "$486K",
     "est_revenue_won": "",
-    "est_revenue_krw": 539013286
+    "est_revenue_krw": 665173310
+  },
+  {
+    "rank": 40,
+    "title": "Paranoize",
+    "developer": "ZigZaGame Inc.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.zigzagame.paranoize",
+    "local_name": "Paranoize",
+    "icon": "https://play-lh.googleusercontent.com/7LQtnB1OywAs4z9kyDT5NiAQtoE_TNMU6OdiPAm0znOARQB6lOlxZ7Dq9SQ8kdCvBAsDjGQKzhV2JMHHN2iuQ5g",
+    "est_revenue": 486052,
+    "est_revenue_fmt": "$486K",
+    "est_revenue_won": "14.9억",
+    "est_revenue_krw": 665173310
+  },
+  {
+    "rank": 41,
+    "title": "Royal Kingdom",
+    "developer": "Dream Games, Ltd.",
+    "genre": "Game",
+    "rating": 4.1,
+    "app_id": "com.dreamgames.royalkingdom",
+    "local_name": "Royal Kingdom",
+    "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
+    "est_revenue": 375815,
+    "est_revenue_fmt": "$376K",
+    "est_revenue_won": "18.5억",
+    "est_revenue_krw": 514311447
   },
   {
     "rank": 42,
@@ -582,10 +582,10 @@
     "app_id": "com.readygo.barrel.gp",
     "local_name": "Last Z: Survival Shooter",
     "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
-    "est_revenue": 393865,
-    "est_revenue_fmt": "$394K",
+    "est_revenue": 375815,
+    "est_revenue_fmt": "$376K",
     "est_revenue_won": "17.1억",
-    "est_revenue_krw": 539013286
+    "est_revenue_krw": 514311447
   },
   {
     "rank": 43,
@@ -596,10 +596,10 @@
     "app_id": "com.nhnpa.cps",
     "local_name": "#コンパス【戦闘摂理解析システム】",
     "icon": "https://play-lh.googleusercontent.com/v5z77yXfMu0GL0a9_kgFDbPRqtVCa4jlLGxoEApDZmxTDxceI81rdIywQse5ttmQQKMYkcqGeVx2oSk5HhEK4w",
-    "est_revenue": 393865,
-    "est_revenue_fmt": "$394K",
+    "est_revenue": 375815,
+    "est_revenue_fmt": "$376K",
     "est_revenue_won": "14.4억",
-    "est_revenue_krw": 539013286
+    "est_revenue_krw": 514311447
   },
   {
     "rank": 44,
