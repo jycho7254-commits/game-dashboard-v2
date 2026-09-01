@@ -295,6 +295,20 @@
   },
   {
     "rank": 22,
+    "title": "Genshin Impact",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "com.miHoYo.GenshinImpact",
+    "local_name": "原神",
+    "icon": "https://play-lh.googleusercontent.com/YQqyKaXX-63krqsfIzUEJWUWLINxcb5tbS6QVySdxbS7eZV7YB2dUjUvX27xA0TIGtfxQ5v-tQjwlT5tTB-O",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
+    "est_revenue_won": "32.4억",
+    "est_revenue_krw": 12316706424
+  },
+  {
+    "rank": 23,
     "title": "eFootball™",
     "developer": "KONAMI",
     "genre": "Game",
@@ -308,7 +322,7 @@
     "est_revenue_krw": 8211137616
   },
   {
-    "rank": 23,
+    "rank": 24,
     "title": "Kingshot",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -316,24 +330,10 @@
     "app_id": "com.run.tower.defense",
     "local_name": "Kingshot",
     "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
+    "est_revenue": 1258180,
+    "est_revenue_fmt": "$1.3M",
     "est_revenue_won": "34.0억",
-    "est_revenue_krw": 8211137616
-  },
-  {
-    "rank": 24,
-    "title": "Genshin Impact",
-    "developer": "COGNOSPHERE PTE. LTD.",
-    "genre": "Game",
-    "rating": 4,
-    "app_id": "com.miHoYo.GenshinImpact",
-    "local_name": "原神",
-    "icon": "https://play-lh.googleusercontent.com/YQqyKaXX-63krqsfIzUEJWUWLINxcb5tbS6QVySdxbS7eZV7YB2dUjUvX27xA0TIGtfxQ5v-tQjwlT5tTB-O",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "32.4억",
-    "est_revenue_krw": 8211137616
+    "est_revenue_krw": 1721848188
   },
   {
     "rank": 25,
@@ -603,6 +603,20 @@
   },
   {
     "rank": 44,
+    "title": "キングダム 覇道",
+    "developer": "Bandai Namco Entertainment Inc.",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.bandainamcoent.kingdomhadou",
+    "local_name": "キングダム 覇道",
+    "icon": "https://play-lh.googleusercontent.com/spozptD1nlGRuMlsw2IziEEWf4MEegI6kmVzkjme-xzj-APa38V3yIg_1PX5VJwf1vahy9xlKIuwikr75oGqhA",
+    "est_revenue": 358895,
+    "est_revenue_fmt": "$359K",
+    "est_revenue_won": "14.0억",
+    "est_revenue_krw": 491156039
+  },
+  {
+    "rank": 45,
     "title": "Trickcal:Chibi Go",
     "developer": "BILIBILI",
     "genre": "Game",
@@ -616,7 +630,7 @@
     "est_revenue_krw": 491156039
   },
   {
-    "rank": 45,
+    "rank": 46,
     "title": "LINE：ディズニー ツムツム",
     "developer": "LINE (LY Corporation)",
     "genre": "Game",
@@ -624,24 +638,10 @@
     "app_id": "com.linecorp.LGTMTM",
     "local_name": "LINE：ディズニー ツムツム",
     "icon": "https://play-lh.googleusercontent.com/lNl6tzVizf3A8M1LQNZtapTyO_T5vUfC_JzNuNZrniM9xJ9Au5aSohql2vF4Ojg2rbDaOhSoHbRH-dpK9Fq9fQ",
-    "est_revenue": 314055,
-    "est_revenue_fmt": "$314K",
+    "est_revenue": 300835,
+    "est_revenue_fmt": "$301K",
     "est_revenue_won": "14.4억",
-    "est_revenue_krw": 429791471
-  },
-  {
-    "rank": 46,
-    "title": "キングダム 覇道",
-    "developer": "Bandai Namco Entertainment Inc.",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.bandainamcoent.kingdomhadou",
-    "local_name": "キングダム 覇道",
-    "icon": "https://play-lh.googleusercontent.com/spozptD1nlGRuMlsw2IziEEWf4MEegI6kmVzkjme-xzj-APa38V3yIg_1PX5VJwf1vahy9xlKIuwikr75oGqhA",
-    "est_revenue": 314055,
-    "est_revenue_fmt": "$314K",
-    "est_revenue_won": "14.0억",
-    "est_revenue_krw": 429791471
+    "est_revenue_krw": 411699597
   },
   {
     "rank": 47,
@@ -652,10 +652,10 @@
     "app_id": "com.namcobandaigames.spmoja010",
     "local_name": "ONE PIECE トレジャークルーズ",
     "icon": "https://play-lh.googleusercontent.com/dn_lUDclwmGkLuyXUaZGAfiSZ2laqmFN-2kEhiziyzOi_2I_fryeQsGHot_HnNPg5_zS6zp7CtiTIZDCZeIHVw",
-    "est_revenue": 314055,
-    "est_revenue_fmt": "$314K",
+    "est_revenue": 300835,
+    "est_revenue_fmt": "$301K",
     "est_revenue_won": "13.5억",
-    "est_revenue_krw": 429791471
+    "est_revenue_krw": 411699597
   },
   {
     "rank": 48,
@@ -666,10 +666,10 @@
     "app_id": "jp.co.takaratomy.duelmastersplays",
     "local_name": "デュエル・マスターズ プレイス",
     "icon": "https://play-lh.googleusercontent.com/aN_bUP9Ofk7T9aGa6dN2lGFxp1AJO6swcmIatWGVLRrhjMy_FsCw-ae_z1AJZWGjCbg4XntWLcEyRitG8kz0",
-    "est_revenue": 314055,
-    "est_revenue_fmt": "$314K",
+    "est_revenue": 300835,
+    "est_revenue_fmt": "$301K",
     "est_revenue_won": "13.1억",
-    "est_revenue_krw": 429791471
+    "est_revenue_krw": 411699597
   },
   {
     "rank": 49,
@@ -680,10 +680,10 @@
     "app_id": "jp.konami.prospia",
     "local_name": "プロ野球スピリッツA",
     "icon": "https://play-lh.googleusercontent.com/F0IB7v9CufHt5hKPRfXC9WS7tOUunAuCD3_JtdMJTtlhkG93qwmNCg6Cbcbf10aipCZZ3rv82QA-6REtVaVLHD8",
-    "est_revenue": 312356,
-    "est_revenue_fmt": "$312K",
+    "est_revenue": 300835,
+    "est_revenue_fmt": "$301K",
     "est_revenue_won": "12.7억",
-    "est_revenue_krw": 427466350
+    "est_revenue_krw": 411699597
   },
   {
     "rank": 50,
