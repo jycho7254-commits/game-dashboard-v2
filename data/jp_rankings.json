@@ -309,6 +309,20 @@
   },
   {
     "rank": 23,
+    "title": "LINE：ディズニー ツムツム",
+    "developer": "LINE (LY Corporation)",
+    "genre": "Game",
+    "rating": 3.9,
+    "app_id": "com.linecorp.LGTMTM",
+    "local_name": "LINE：ディズニー ツムツム",
+    "icon": "https://play-lh.googleusercontent.com/lNl6tzVizf3A8M1LQNZtapTyO_T5vUfC_JzNuNZrniM9xJ9Au5aSohql2vF4Ojg2rbDaOhSoHbRH-dpK9Fq9fQ",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
+    "est_revenue_won": "17.8억",
+    "est_revenue_krw": 12316706424
+  },
+  {
+    "rank": 24,
     "title": "LINE Pokopoko",
     "developer": "LINE (LY Corporation)",
     "genre": "Game",
@@ -322,7 +336,7 @@
     "est_revenue_krw": 12316706424
   },
   {
-    "rank": 24,
+    "rank": 25,
     "title": "Wuthering Waves",
     "developer": "HK KURO GAMES LIMITED",
     "genre": "Game",
@@ -330,23 +344,9 @@
     "app_id": "com.kurogame.wutheringwaves.global",
     "local_name": "鸣潮",
     "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_",
-    "est_revenue": 9000000,
-    "est_revenue_fmt": "$9.0M",
-    "est_revenue_won": "25.0억",
-    "est_revenue_krw": 12316706424
-  },
-  {
-    "rank": 25,
-    "title": "LINE：ディズニー ツムツム",
-    "developer": "LINE (LY Corporation)",
-    "genre": "Game",
-    "rating": 3.9,
-    "app_id": "com.linecorp.LGTMTM",
-    "local_name": "LINE：ディズニー ツムツム",
-    "icon": "https://play-lh.googleusercontent.com/lNl6tzVizf3A8M1LQNZtapTyO_T5vUfC_JzNuNZrniM9xJ9Au5aSohql2vF4Ojg2rbDaOhSoHbRH-dpK9Fq9fQ",
     "est_revenue": 8874599,
     "est_revenue_fmt": "$8.9M",
-    "est_revenue_won": "17.8억",
+    "est_revenue_won": "25.0억",
     "est_revenue_krw": 12145092279
   },
   {
@@ -407,20 +407,6 @@
   },
   {
     "rank": 30,
-    "title": "Gardenscapes",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.playrix.gardenscapes",
-    "local_name": "Gardenscapes",
-    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
-    "est_revenue": 7036384,
-    "est_revenue_fmt": "$7.0M",
-    "est_revenue_won": "29.5억",
-    "est_revenue_krw": 9629452891
-  },
-  {
-    "rank": 31,
     "title": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
     "developer": "SEGA CORPORATION",
     "genre": "Game",
@@ -428,9 +414,23 @@
     "app_id": "com.sega.pjsekai",
     "local_name": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
     "icon": "https://play-lh.googleusercontent.com/pdv4ajv4O-ow2BVpWopiMy9XSHXTJSEzi1gjTeD-mg4V3bkM6dmu8qJv_-Poupg5mQ6wNXlhJRuXaH-8SE91",
+    "est_revenue": 7036384,
+    "est_revenue_fmt": "$7.0M",
+    "est_revenue_won": "19.2억",
+    "est_revenue_krw": 9629452891
+  },
+  {
+    "rank": 31,
+    "title": "Gardenscapes",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.playrix.gardenscapes",
+    "local_name": "Gardenscapes",
+    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
     "est_revenue": 6748717,
     "est_revenue_fmt": "$6.7M",
-    "est_revenue_won": "19.2억",
+    "est_revenue_won": "29.5억",
     "est_revenue_krw": 9235774003
   },
   {
