@@ -267,20 +267,6 @@
   },
   {
     "rank": 20,
-    "title": "Seaside Escape®: Merge & Story",
-    "developer": "Microfun Limited",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.gamedots.seasideescape",
-    "local_name": "시사이드 이스케이프",
-    "icon": "https://play-lh.googleusercontent.com/k6h9_TspVCG4TIgvxox3eWp5Cwd04v6cL7msueboI5IUPGLPnhh8RHIZtiamoLJK75Mk6yo4awXd4XVW99XO8Q",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "12.9억",
-    "est_revenue_krw": 2472799208
-  },
-  {
-    "rank": 21,
     "title": "FC 모바일",
     "developer": "NEXON Company",
     "genre": "Game",
@@ -291,6 +277,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "12.1억",
+    "est_revenue_krw": 2472799208
+  },
+  {
+    "rank": 21,
+    "title": "Seaside Escape®: Merge & Story",
+    "developer": "Microfun Limited",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.gamedots.seasideescape",
+    "local_name": "시사이드 이스케이프",
+    "icon": "https://play-lh.googleusercontent.com/k6h9_TspVCG4TIgvxox3eWp5Cwd04v6cL7msueboI5IUPGLPnhh8RHIZtiamoLJK75Mk6yo4awXd4XVW99XO8Q",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "12.9억",
     "est_revenue_krw": 2472799208
   },
   {
@@ -603,6 +603,20 @@
   },
   {
     "rank": 44,
+    "title": "Lineage W",
+    "developer": "NC Corporation",
+    "genre": "Game",
+    "rating": 3.8,
+    "app_id": "com.ncsoft.lineagew",
+    "local_name": "리니지W",
+    "icon": "https://play-lh.googleusercontent.com/VvwlyO5rMOgeedcbDmvBQv-vDoCeHqxBdSHqTrA3xUZAEuRcAwTBznrJBwkj3_xvhUTkLJ4D98RT1fZTtu8W",
+    "est_revenue": 213144,
+    "est_revenue_fmt": "$213K",
+    "est_revenue_won": "3.7억",
+    "est_revenue_krw": 292812397
+  },
+  {
+    "rank": 45,
     "title": "뮤 모나크2",
     "developer": "Webzen Inc.",
     "genre": "Game",
@@ -616,7 +630,7 @@
     "est_revenue_krw": 292812397
   },
   {
-    "rank": 45,
+    "rank": 46,
     "title": "Epic Seven",
     "developer": "Smilegate, Inc.",
     "genre": "Game",
@@ -624,13 +638,13 @@
     "app_id": "com.stove.epic7.google",
     "local_name": "Epic Seven",
     "icon": "https://play-lh.googleusercontent.com/r3Q3Q8qy8C2SoUUF59o8NMHyE3lTGh3TuUw4XsJVCs5L1tpkRPWp__TKYth0oqr5enygDUi3LrHq1030Rifw5w",
-    "est_revenue": 213144,
-    "est_revenue_fmt": "$213K",
+    "est_revenue": 211312,
+    "est_revenue_fmt": "$211K",
     "est_revenue_won": "3.4억",
-    "est_revenue_krw": 292812397
+    "est_revenue_krw": 290295637
   },
   {
-    "rank": 46,
+    "rank": 47,
     "title": "NTE: Neverness to Everness",
     "developer": "N2E",
     "genre": "Game",
@@ -638,13 +652,13 @@
     "app_id": "com.hottagames.nte",
     "local_name": "NTE: Neverness to Everness",
     "icon": "https://play-lh.googleusercontent.com/TGl3DdDbi4hty6ooOhEvv_2s5tkpGLbL6derP8y5hK-_Bw--Ve375b08ba9HHQ9ueRpoQ9oye1T_T24BJriLUmw",
-    "est_revenue": 213144,
-    "est_revenue_fmt": "$213K",
+    "est_revenue": 211312,
+    "est_revenue_fmt": "$211K",
     "est_revenue_won": "4.0억",
-    "est_revenue_krw": 292812397
+    "est_revenue_krw": 290295637
   },
   {
-    "rank": 47,
+    "rank": 48,
     "title": "Mystery Town: Merge Games",
     "developer": "Cedar Games Studio",
     "genre": "Game",
@@ -652,13 +666,13 @@
     "app_id": "com.cedargames.mysterytown",
     "local_name": "미스터리 타운",
     "icon": "https://play-lh.googleusercontent.com/uVjVMEJrhT-xRoUtKIUj8tOVSbCWw4IsRHaTDYICRNjQycUj6SucVpeoAPiNZWeJ5JuzIt_ZZRo1X1pW6XJFAQE",
-    "est_revenue": 172392,
-    "est_revenue_fmt": "$172K",
+    "est_revenue": 165567,
+    "est_revenue_fmt": "$166K",
     "est_revenue_won": "3.5억",
-    "est_revenue_krw": 236828223
+    "est_revenue_krw": 227452193
   },
   {
-    "rank": 48,
+    "rank": 49,
     "title": "Candy Crush Saga",
     "developer": "King",
     "genre": "Game",
@@ -666,24 +680,10 @@
     "app_id": "com.king.candycrushsaga",
     "local_name": "캔디크러쉬 사가",
     "icon": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI",
-    "est_revenue": 165567,
-    "est_revenue_fmt": "$166K",
+    "est_revenue": 159111,
+    "est_revenue_fmt": "$159K",
     "est_revenue_won": "3.2억",
-    "est_revenue_krw": 227452193
-  },
-  {
-    "rank": 49,
-    "title": "Lineage W",
-    "developer": "NC Corporation",
-    "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.ncsoft.lineagew",
-    "local_name": "리니지W",
-    "icon": "https://play-lh.googleusercontent.com/VvwlyO5rMOgeedcbDmvBQv-vDoCeHqxBdSHqTrA3xUZAEuRcAwTBznrJBwkj3_xvhUTkLJ4D98RT1fZTtu8W",
-    "est_revenue": 165567,
-    "est_revenue_fmt": "$166K",
-    "est_revenue_won": "3.7억",
-    "est_revenue_krw": 227452193
+    "est_revenue_krw": 218583086
   },
   {
     "rank": 50,
@@ -694,9 +694,9 @@
     "app_id": "com.ncsoft.lineage2m19",
     "local_name": "리니지2M",
     "icon": "https://play-lh.googleusercontent.com/bh67_a9Z2UyAoJHcktORocXm_c25UcWz_diX4kuGbQ2W1tbWwzK1QqapGahZrlDmwWCAp-CFoy9NA2KMYojBAik",
-    "est_revenue": 165567,
-    "est_revenue_fmt": "$166K",
+    "est_revenue": 159111,
+    "est_revenue_fmt": "$159K",
     "est_revenue_won": "",
-    "est_revenue_krw": 227452193
+    "est_revenue_krw": 218583086
   }
 ]
