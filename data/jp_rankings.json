@@ -407,20 +407,6 @@
   },
   {
     "rank": 30,
-    "title": "Gardenscapes",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.playrix.gardenscapes",
-    "local_name": "Gardenscapes",
-    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
-    "est_revenue": 7243604,
-    "est_revenue_fmt": "$7.2M",
-    "est_revenue_won": "23.8억",
-    "est_revenue_krw": 9951099021
-  },
-  {
-    "rank": 31,
     "title": "プロ野球スピリッツA",
     "developer": "KONAMI",
     "genre": "Game",
@@ -428,9 +414,23 @@
     "app_id": "jp.konami.prospia",
     "local_name": "プロ野球スピリッツA",
     "icon": "https://play-lh.googleusercontent.com/F0IB7v9CufHt5hKPRfXC9WS7tOUunAuCD3_JtdMJTtlhkG93qwmNCg6Cbcbf10aipCZZ3rv82QA-6REtVaVLHD8",
+    "est_revenue": 7243604,
+    "est_revenue_fmt": "$7.2M",
+    "est_revenue_won": "22.8억",
+    "est_revenue_krw": 9951099021
+  },
+  {
+    "rank": 31,
+    "title": "Gardenscapes",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.playrix.gardenscapes",
+    "local_name": "Gardenscapes",
+    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
     "est_revenue": 6959115,
     "est_revenue_fmt": "$7.0M",
-    "est_revenue_won": "22.8억",
+    "est_revenue_won": "23.8억",
     "est_revenue_krw": 9560274480
   },
   {
