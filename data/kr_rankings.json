@@ -4,7 +4,7 @@
     "title": "제우스: 오만의 신",
     "developer": "Com2uS",
     "genre": "Game",
-    "rating": 4,
+    "rating": 4.1,
     "app_id": "com.com2us.es.android.google.kr.normal",
     "local_name": "제우스: 오만의 신",
     "icon": "https://play-lh.googleusercontent.com/Cn3mFHKMLbpjEBSZGiCKysZpRKXYNm5CH4vGFBLUMpWtZ7gk_2ONDoqAfJ6OIh_V-Lm3d8uZOmzKoAFdQxW4",
@@ -281,20 +281,6 @@
   },
   {
     "rank": 21,
-    "title": "Seaside Escape®: Merge & Story",
-    "developer": "Microfun Limited",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.gamedots.seasideescape",
-    "local_name": "시사이드 이스케이프",
-    "icon": "https://play-lh.googleusercontent.com/k6h9_TspVCG4TIgvxox3eWp5Cwd04v6cL7msueboI5IUPGLPnhh8RHIZtiamoLJK75Mk6yo4awXd4XVW99XO8Q",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "12.9억",
-    "est_revenue_krw": 2450050637
-  },
-  {
-    "rank": 22,
     "title": "한게임 섯다&맞고",
     "developer": "NHN Corp.",
     "genre": "Game",
@@ -305,6 +291,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "8.4억",
+    "est_revenue_krw": 2450050637
+  },
+  {
+    "rank": 22,
+    "title": "Seaside Escape®: Merge & Story",
+    "developer": "Microfun Limited",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.gamedots.seasideescape",
+    "local_name": "시사이드 이스케이프",
+    "icon": "https://play-lh.googleusercontent.com/k6h9_TspVCG4TIgvxox3eWp5Cwd04v6cL7msueboI5IUPGLPnhh8RHIZtiamoLJK75Mk6yo4awXd4XVW99XO8Q",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "12.9억",
     "est_revenue_krw": 2450050637
   },
   {
@@ -340,7 +340,7 @@
     "title": "Zenless Zone Zero - Anniv.",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
-    "rating": 3.2,
+    "rating": 3.3,
     "app_id": "com.HoYoverse.Nap",
     "local_name": "젠레스 존 제로",
     "icon": "https://play-lh.googleusercontent.com/-OwYJcIdDSfGJBOQozVC3kKxqnA7ev2O897twi-aVUpc8AXVMNtB3YWEXDui_V0VJxelNAbUbLXpNZj9AqWa3A",
@@ -659,6 +659,20 @@
   },
   {
     "rank": 48,
+    "title": "WPL:Texas Hold'em, MTT, Sit&Go",
+    "developer": "Zempot INC.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.zempot.wplpoker",
+    "local_name": "WPL:Texas Hold'em, MTT, Sit&Go",
+    "icon": "https://play-lh.googleusercontent.com/QQVS3cmt_fMF91ecz8fHExUP_VJUty-9dCmA7sOZQR3086-4nD-2ANOA2cOkFeiHt5eFW55CZJGpiaO_BahNZA",
+    "est_revenue": 194785,
+    "est_revenue_fmt": "$195K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 265129507
+  },
+  {
+    "rank": 49,
     "title": "Candy Crush Saga",
     "developer": "King",
     "genre": "Game",
@@ -666,13 +680,13 @@
     "app_id": "com.king.candycrushsaga",
     "local_name": "캔디크러쉬 사가",
     "icon": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI",
-    "est_revenue": 165567,
-    "est_revenue_fmt": "$166K",
+    "est_revenue": 159111,
+    "est_revenue_fmt": "$159K",
     "est_revenue_won": "3.2억",
-    "est_revenue_krw": 225359741
+    "est_revenue_krw": 216572226
   },
   {
-    "rank": 49,
+    "rank": 50,
     "title": "Mystery Town: Merge Games",
     "developer": "Cedar Games Studio",
     "genre": "Game",
@@ -680,23 +694,9 @@
     "app_id": "com.cedargames.mysterytown",
     "local_name": "미스터리 타운",
     "icon": "https://play-lh.googleusercontent.com/uVjVMEJrhT-xRoUtKIUj8tOVSbCWw4IsRHaTDYICRNjQycUj6SucVpeoAPiNZWeJ5JuzIt_ZZRo1X1pW6XJFAQE",
-    "est_revenue": 159111,
-    "est_revenue_fmt": "$159K",
+    "est_revenue": 153000,
+    "est_revenue_fmt": "$153K",
     "est_revenue_won": "3.5억",
-    "est_revenue_krw": 216572226
-  },
-  {
-    "rank": 50,
-    "title": "리니지2M",
-    "developer": "NC Corporation",
-    "genre": "Game",
-    "rating": 3.5,
-    "app_id": "com.ncsoft.lineage2m19",
-    "local_name": "리니지2M",
-    "icon": "https://play-lh.googleusercontent.com/bh67_a9Z2UyAoJHcktORocXm_c25UcWz_diX4kuGbQ2W1tbWwzK1QqapGahZrlDmwWCAp-CFoy9NA2KMYojBAik",
-    "est_revenue": 159111,
-    "est_revenue_fmt": "$159K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 216572226
+    "est_revenue_krw": 208254304
   }
 ]
