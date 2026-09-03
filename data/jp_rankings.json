@@ -113,20 +113,6 @@
   },
   {
     "rank": 9,
-    "title": "Pokémon GO",
-    "developer": "Scopely Explore, Inc.",
-    "genre": "Game",
-    "rating": 3.5,
-    "app_id": "com.nianticlabs.pokemongo",
-    "local_name": "Pokémon GO",
-    "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
-    "est_revenue": 9000000,
-    "est_revenue_fmt": "$9.0M",
-    "est_revenue_won": "88.0억",
-    "est_revenue_krw": 12250253187
-  },
-  {
-    "rank": 10,
     "title": "Whiteout Survival",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -137,6 +123,20 @@
     "est_revenue": 9000000,
     "est_revenue_fmt": "$9.0M",
     "est_revenue_won": "80.0억",
+    "est_revenue_krw": 12250253187
+  },
+  {
+    "rank": 10,
+    "title": "Pokémon GO",
+    "developer": "Scopely Explore, Inc.",
+    "genre": "Game",
+    "rating": 3.5,
+    "app_id": "com.nianticlabs.pokemongo",
+    "local_name": "Pokémon GO",
+    "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
+    "est_revenue_won": "88.0억",
     "est_revenue_krw": 12250253187
   },
   {
@@ -169,20 +169,6 @@
   },
   {
     "rank": 13,
-    "title": "Last War:Survival Game",
-    "developer": "FUNFLY PTE. LTD.",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.fun.lastwar.gp",
-    "local_name": "Last War:Survival Game",
-    "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc",
-    "est_revenue": 9000000,
-    "est_revenue_fmt": "$9.0M",
-    "est_revenue_won": "62.8억",
-    "est_revenue_krw": 12250253187
-  },
-  {
-    "rank": 14,
     "title": "ドラゴンクエストウォーク",
     "developer": "SQUARE ENIX Co.,Ltd.",
     "genre": "Game",
@@ -193,6 +179,20 @@
     "est_revenue": 9000000,
     "est_revenue_fmt": "$9.0M",
     "est_revenue_won": "67.6억",
+    "est_revenue_krw": 12250253187
+  },
+  {
+    "rank": 14,
+    "title": "Last War:Survival Game",
+    "developer": "FUNFLY PTE. LTD.",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "com.fun.lastwar.gp",
+    "local_name": "Last War:Survival Game",
+    "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
+    "est_revenue_won": "62.8억",
     "est_revenue_krw": 12250253187
   },
   {
@@ -421,16 +421,16 @@
   },
   {
     "rank": 31,
-    "title": "幻想水滸伝 STAR LEAP",
-    "developer": "KONAMI",
+    "title": "Gardenscapes",
+    "developer": "Playrix",
     "genre": "Game",
-    "rating": 4.2,
-    "app_id": "jp.konami.suikoden.starleap",
-    "local_name": "幻想水滸伝 STAR LEAP",
-    "icon": "https://play-lh.googleusercontent.com/CZqC6kjKA871p5R5tf734xuTrgNd7B2DC9Q2Y1Fj0Bmdg3z2I8PhgV-7JNsOg-g-BV1ZWNLRPqq0frr9byaN",
+    "rating": 4.3,
+    "app_id": "com.playrix.gardenscapes",
+    "local_name": "Gardenscapes",
+    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
     "est_revenue": 6814752,
     "est_revenue_fmt": "$6.8M",
-    "est_revenue_won": "20.0억",
+    "est_revenue_won": "22.8억",
     "est_revenue_krw": 9275826379
   },
   {
@@ -449,16 +449,16 @@
   },
   {
     "rank": 33,
-    "title": "Gardenscapes",
-    "developer": "Playrix",
+    "title": "幻想水滸伝 STAR LEAP",
+    "developer": "KONAMI",
     "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.playrix.gardenscapes",
-    "local_name": "Gardenscapes",
-    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
+    "rating": 4.2,
+    "app_id": "jp.konami.suikoden.starleap",
+    "local_name": "幻想水滸伝 STAR LEAP",
+    "icon": "https://play-lh.googleusercontent.com/CZqC6kjKA871p5R5tf734xuTrgNd7B2DC9Q2Y1Fj0Bmdg3z2I8PhgV-7JNsOg-g-BV1ZWNLRPqq0frr9byaN",
     "est_revenue": 6605204,
     "est_revenue_fmt": "$6.6M",
-    "est_revenue_won": "22.8억",
+    "est_revenue_won": "20.0억",
     "est_revenue_krw": 8990602372
   },
   {
@@ -561,20 +561,6 @@
   },
   {
     "rank": 41,
-    "title": "Pokémon Masters EX",
-    "developer": "DeNA Co., Ltd.",
-    "genre": "Game",
-    "rating": 4.1,
-    "app_id": "com.dena.a12026418",
-    "local_name": "Pokémon Masters EX",
-    "icon": "https://play-lh.googleusercontent.com/IsrKHHbA8zI-ek18iMBN1yCBqCocyGVX_0dT-Q4uRRF1pnlaqhn-_E1KjJ0u5nPcXyprqprFlgq7ijx5qy5i",
-    "est_revenue": 442136,
-    "est_revenue_fmt": "$442K",
-    "est_revenue_won": "16.0억",
-    "est_revenue_krw": 601808660
-  },
-  {
-    "rank": 42,
     "title": "Pokémon Sleep",
     "developer": "The Pokémon Company",
     "genre": "Game",
@@ -582,9 +568,23 @@
     "app_id": "jp.pokemon.pokemonsleep",
     "local_name": "Pokémon Sleep",
     "icon": "https://play-lh.googleusercontent.com/tg-BeEJO7UDjvfxWXWJ1u-PMLa-45twu0YhJkZfQu-PEjRJU_2l9Sb9xMR3YBha3mtLzdzU-016ZpWN5IUwrFwU",
+    "est_revenue": 442136,
+    "est_revenue_fmt": "$442K",
+    "est_revenue_won": "15.4억",
+    "est_revenue_krw": 601808660
+  },
+  {
+    "rank": 42,
+    "title": "Pokémon Masters EX",
+    "developer": "DeNA Co., Ltd.",
+    "genre": "Game",
+    "rating": 4.1,
+    "app_id": "com.dena.a12026418",
+    "local_name": "Pokémon Masters EX",
+    "icon": "https://play-lh.googleusercontent.com/IsrKHHbA8zI-ek18iMBN1yCBqCocyGVX_0dT-Q4uRRF1pnlaqhn-_E1KjJ0u5nPcXyprqprFlgq7ijx5qy5i",
     "est_revenue": 422230,
     "est_revenue_fmt": "$422K",
-    "est_revenue_won": "15.4억",
+    "est_revenue_won": "16.0억",
     "est_revenue_krw": 574713823
   },
   {
@@ -645,20 +645,6 @@
   },
   {
     "rank": 47,
-    "title": "MementoMori: AFKRPG",
-    "developer": "Bank of Innovation, Inc.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "jp.boi.mementomori.android",
-    "local_name": "MementoMori: AFKRPG",
-    "icon": "https://play-lh.googleusercontent.com/HG9W8SRyTeeLPFrrS17a06d5ANgakJbHomr73o3l6I23YAiIFL399Y1_Q-2FDBO_zxqETTkphFhE-uTeuD2nH6w",
-    "est_revenue": 314055,
-    "est_revenue_fmt": "$314K",
-    "est_revenue_won": "13.1억",
-    "est_revenue_krw": 427472585
-  },
-  {
-    "rank": 48,
     "title": "Last Z: Survival Shooter",
     "developer": "Omnilojo Pte Ltd",
     "genre": "Game",
@@ -669,6 +655,20 @@
     "est_revenue": 314055,
     "est_revenue_fmt": "$314K",
     "est_revenue_won": "12.7억",
+    "est_revenue_krw": 427472585
+  },
+  {
+    "rank": 48,
+    "title": "MementoMori: AFKRPG",
+    "developer": "Bank of Innovation, Inc.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "jp.boi.mementomori.android",
+    "local_name": "MementoMori: AFKRPG",
+    "icon": "https://play-lh.googleusercontent.com/HG9W8SRyTeeLPFrrS17a06d5ANgakJbHomr73o3l6I23YAiIFL399Y1_Q-2FDBO_zxqETTkphFhE-uTeuD2nH6w",
+    "est_revenue": 314055,
+    "est_revenue_fmt": "$314K",
+    "est_revenue_won": "13.1억",
     "est_revenue_krw": 427472585
   },
   {
@@ -687,16 +687,16 @@
   },
   {
     "rank": 50,
-    "title": "信長の野望 真戦",
-    "developer": "Qookka Games",
+    "title": "白猫プロジェクト",
+    "developer": "COLOPL, Inc.",
     "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.qookkagames.xczyw.gp.jp",
-    "local_name": "信長の野望 真戦",
-    "icon": "https://play-lh.googleusercontent.com/3XmTeAwhy-k2u_bN2kvYHXzzTRcDsBIRR0EZOBzf-csvFVR7M7cKo_GNToLfTgeSsdYEUcnmWtrQhBigLSddxNg",
-    "est_revenue": 312356,
-    "est_revenue_fmt": "$312K",
-    "est_revenue_won": "12.0억",
-    "est_revenue_krw": 425160009
+    "rating": 3.6,
+    "app_id": "jp.colopl.wcat",
+    "local_name": "白猫プロジェクト",
+    "icon": "https://play-lh.googleusercontent.com/pufOi1EEGS77Sayep7SrcWjFu0C3kI3eQBAToyN3-zSUv6gPRpWSSq3yxfzA45YmaAd-ANoaxOrlWHTOAGVjkA",
+    "est_revenue": 300000,
+    "est_revenue_fmt": "$300K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 408341773
   }
 ]
