@@ -18,7 +18,7 @@
     "title": "ホロライブドリームス",
     "developer": "QualiArts, Inc.",
     "genre": "Game",
-    "rating": 4.2,
+    "rating": 4.3,
     "app_id": "game.qualiarts.hololive.dreams.jp",
     "local_name": "ホロライブドリームス",
     "icon": "https://play-lh.googleusercontent.com/j00IPpPSDv3cGqoKVIDf0qnCw6EbZQ4KpgMr10UWkf8Rm1qO9vCSoVhJwfCF1PbbKxV_Qt_eqZ_Sp4QMHuhwYBI",
@@ -477,20 +477,6 @@
   },
   {
     "rank": 35,
-    "title": "あんさんぶるスターズ！！Music",
-    "developer": "Happy Elements K.K",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "jp.co.happyelements.boysm",
-    "local_name": "あんさんぶるスターズ！！Music",
-    "icon": "https://play-lh.googleusercontent.com/McMZLXR9hYWUG883v6EVIh5k9P5iME0wPSbgd_bhVNU9hkUV-NlpXsfR4Je8o9TrlF52jzhMUkRQcefF5ZVkFw",
-    "est_revenue": 6525065,
-    "est_revenue_fmt": "$6.5M",
-    "est_revenue_won": "20.0억",
-    "est_revenue_krw": 8852762452
-  },
-  {
-    "rank": 36,
     "title": "Tasty Travels: Merge Game",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -498,9 +484,23 @@
     "app_id": "com.fatmerge.global",
     "local_name": "Tasty Travels: Merge Game",
     "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
+    "est_revenue": 6525065,
+    "est_revenue_fmt": "$6.5M",
+    "est_revenue_won": "19.2억",
+    "est_revenue_krw": 8852762452
+  },
+  {
+    "rank": 36,
+    "title": "あんさんぶるスターズ！！Music",
+    "developer": "Happy Elements K.K",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "jp.co.happyelements.boysm",
+    "local_name": "あんさんぶるスターズ！！Music",
+    "icon": "https://play-lh.googleusercontent.com/McMZLXR9hYWUG883v6EVIh5k9P5iME0wPSbgd_bhVNU9hkUV-NlpXsfR4Je8o9TrlF52jzhMUkRQcefF5ZVkFw",
     "est_revenue": 6340221,
     "est_revenue_fmt": "$6.3M",
-    "est_revenue_won": "19.2억",
+    "est_revenue_won": "20.0억",
     "est_revenue_krw": 8601978740
   },
   {
@@ -547,20 +547,6 @@
   },
   {
     "rank": 40,
-    "title": "Shadowverse: Worlds Beyond",
-    "developer": "Cygames, Inc.",
-    "genre": "Game",
-    "rating": 4.1,
-    "app_id": "jp.co.cygames.ShadowverseWorldsBeyond",
-    "local_name": "Shadowverse: Worlds Beyond",
-    "icon": "https://play-lh.googleusercontent.com/lar367tZF_JA5j4LKOfZ9zZRUXcNJUFPi60iIiZhBt54aOkfUxlXw1vCh6hP3HVN01-ZdWPpgaPFw_NggOpPdrA",
-    "est_revenue": 486052,
-    "est_revenue_fmt": "$486K",
-    "est_revenue_won": "16.5억",
-    "est_revenue_krw": 659442150
-  },
-  {
-    "rank": 41,
     "title": "グランブルーファンタジー",
     "developer": "mobage",
     "genre": "Game",
@@ -568,10 +554,24 @@
     "app_id": "jp.mbga.a12016007.lite",
     "local_name": "グランブルーファンタジー",
     "icon": "https://play-lh.googleusercontent.com/kezieGaFO7Jl78eSwpJORGTrNGWGt1_2RHtVLtd8SrJ7QBFBnpLYQ-MmV5pUVD2JBcpuW3nqYt4Dc5wXHlWpgR8",
-    "est_revenue": 442136,
-    "est_revenue_fmt": "$442K",
+    "est_revenue": 463371,
+    "est_revenue_fmt": "$463K",
     "est_revenue_won": "16.0억",
-    "est_revenue_krw": 599859922
+    "est_revenue_krw": 628670119
+  },
+  {
+    "rank": 41,
+    "title": "Shadowverse: Worlds Beyond",
+    "developer": "Cygames, Inc.",
+    "genre": "Game",
+    "rating": 4.1,
+    "app_id": "jp.co.cygames.ShadowverseWorldsBeyond",
+    "local_name": "Shadowverse: Worlds Beyond",
+    "icon": "https://play-lh.googleusercontent.com/lar367tZF_JA5j4LKOfZ9zZRUXcNJUFPi60iIiZhBt54aOkfUxlXw1vCh6hP3HVN01-ZdWPpgaPFw_NggOpPdrA",
+    "est_revenue": 463371,
+    "est_revenue_fmt": "$463K",
+    "est_revenue_won": "16.5억",
+    "est_revenue_krw": 628670119
   },
   {
     "rank": 42,
