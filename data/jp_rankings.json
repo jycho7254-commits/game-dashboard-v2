@@ -673,20 +673,6 @@
   },
   {
     "rank": 49,
-    "title": "妖怪ウォッチ ぷにぷに",
-    "developer": "LEVEL-5 Inc.",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.Level5.YWP",
-    "local_name": "妖怪ウォッチ ぷにぷに",
-    "icon": "https://play-lh.googleusercontent.com/gLJhf9CphneUaQLaiNoJ9E8FSUlygLYQRuLrj1j02l5Hj54QTMiRYhRJxSGSoZoSEAlRF0bsnyZsK8rb1m-9",
-    "est_revenue": 312356,
-    "est_revenue_fmt": "$312K",
-    "est_revenue_won": "12.0억",
-    "est_revenue_krw": 423783283
-  },
-  {
-    "rank": 50,
     "title": "信長の野望 出陣",
     "developer": "KOEI TECMO GAMES CO., LTD.",
     "genre": "Game",
@@ -694,9 +680,23 @@
     "app_id": "jp.co.koeitecmo.nobunaga.shutsujin",
     "local_name": "信長の野望 出陣",
     "icon": "https://play-lh.googleusercontent.com/eBRy1bNgigJRz8AHFnUC39RySgktprBV3YBX5gmffDrKLiy1uN6GUF0_Qm3MuhJHIOnSEp90JEmUG7Tuq2704ME",
-    "est_revenue": 312356,
-    "est_revenue_fmt": "$312K",
+    "est_revenue": 325426,
+    "est_revenue_fmt": "$325K",
     "est_revenue_won": "12.4억",
-    "est_revenue_krw": 423783283
+    "est_revenue_krw": 441515766
+  },
+  {
+    "rank": 50,
+    "title": "妖怪ウォッチ ぷにぷに",
+    "developer": "LEVEL-5 Inc.",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.Level5.YWP",
+    "local_name": "妖怪ウォッチ ぷにぷに",
+    "icon": "https://play-lh.googleusercontent.com/gLJhf9CphneUaQLaiNoJ9E8FSUlygLYQRuLrj1j02l5Hj54QTMiRYhRJxSGSoZoSEAlRF0bsnyZsK8rb1m-9",
+    "est_revenue": 300000,
+    "est_revenue_fmt": "$300K",
+    "est_revenue_won": "12.0억",
+    "est_revenue_krw": 407019506
   }
 ]
