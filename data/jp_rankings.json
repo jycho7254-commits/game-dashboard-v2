@@ -127,20 +127,6 @@
   },
   {
     "rank": 10,
-    "title": "Whiteout Survival",
-    "developer": "Century Games PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.2,
-    "app_id": "com.gof.global",
-    "local_name": "Whiteout Survival",
-    "icon": "https://play-lh.googleusercontent.com/tNMaMiJ4wTQy_TeZSWHdSlP5qH0PGig9g9sDJu2QFvCHdnrbo2u17pX55W4i6KITo56v_ZyICkqLgA2svH9ycQ",
-    "est_revenue": 9000000,
-    "est_revenue_fmt": "$9.0M",
-    "est_revenue_won": "80.0억",
-    "est_revenue_krw": 12210585192
-  },
-  {
-    "rank": 11,
     "title": "Arknights: Endfield",
     "developer": "GRYPHLINE",
     "genre": "Game",
@@ -151,6 +137,20 @@
     "est_revenue": 9000000,
     "est_revenue_fmt": "$9.0M",
     "est_revenue_won": "73.3억",
+    "est_revenue_krw": 12210585192
+  },
+  {
+    "rank": 11,
+    "title": "Whiteout Survival",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 3.2,
+    "app_id": "com.gof.global",
+    "local_name": "Whiteout Survival",
+    "icon": "https://play-lh.googleusercontent.com/tNMaMiJ4wTQy_TeZSWHdSlP5qH0PGig9g9sDJu2QFvCHdnrbo2u17pX55W4i6KITo56v_ZyICkqLgA2svH9ycQ",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
+    "est_revenue_won": "80.0억",
     "est_revenue_krw": 12210585192
   },
   {
@@ -225,20 +225,6 @@
   },
   {
     "rank": 17,
-    "title": "LINE：ディズニー ツムツム",
-    "developer": "LINE (LY Corporation)",
-    "genre": "Game",
-    "rating": 3.9,
-    "app_id": "com.linecorp.LGTMTM",
-    "local_name": "LINE：ディズニー ツムツム",
-    "icon": "https://play-lh.googleusercontent.com/lNl6tzVizf3A8M1LQNZtapTyO_T5vUfC_JzNuNZrniM9xJ9Au5aSohql2vF4Ojg2rbDaOhSoHbRH-dpK9Fq9fQ",
-    "est_revenue": 9000000,
-    "est_revenue_fmt": "$9.0M",
-    "est_revenue_won": "47.9억",
-    "est_revenue_krw": 12210585192
-  },
-  {
-    "rank": 18,
     "title": "Royal Match",
     "developer": "Dream Games, Ltd.",
     "genre": "Game",
@@ -249,6 +235,20 @@
     "est_revenue": 9000000,
     "est_revenue_fmt": "$9.0M",
     "est_revenue_won": "44.9억",
+    "est_revenue_krw": 12210585192
+  },
+  {
+    "rank": 18,
+    "title": "LINE：ディズニー ツムツム",
+    "developer": "LINE (LY Corporation)",
+    "genre": "Game",
+    "rating": 3.9,
+    "app_id": "com.linecorp.LGTMTM",
+    "local_name": "LINE：ディズニー ツムツム",
+    "icon": "https://play-lh.googleusercontent.com/lNl6tzVizf3A8M1LQNZtapTyO_T5vUfC_JzNuNZrniM9xJ9Au5aSohql2vF4Ojg2rbDaOhSoHbRH-dpK9Fq9fQ",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
+    "est_revenue_won": "47.9억",
     "est_revenue_krw": 12210585192
   },
   {
@@ -491,34 +491,6 @@
   },
   {
     "rank": 36,
-    "title": "Tasty Travels: Merge Game",
-    "developer": "Century Games PTE. LTD.",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.fatmerge.global",
-    "local_name": "Tasty Travels: Merge Game",
-    "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
-    "est_revenue": 479536,
-    "est_revenue_fmt": "$480K",
-    "est_revenue_won": "19.2억",
-    "est_revenue_krw": 650601687
-  },
-  {
-    "rank": 37,
-    "title": "あんさんぶるスターズ！！Music",
-    "developer": "Happy Elements K.K",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "jp.co.happyelements.boysm",
-    "local_name": "あんさんぶるスターズ！！Music",
-    "icon": "https://play-lh.googleusercontent.com/McMZLXR9hYWUG883v6EVIh5k9P5iME0wPSbgd_bhVNU9hkUV-NlpXsfR4Je8o9TrlF52jzhMUkRQcefF5ZVkFw",
-    "est_revenue": 479536,
-    "est_revenue_fmt": "$480K",
-    "est_revenue_won": "18.5억",
-    "est_revenue_krw": 650601687
-  },
-  {
-    "rank": 38,
     "title": "Paranoize",
     "developer": "ZigZaGame Inc.",
     "genre": "Game",
@@ -526,10 +498,38 @@
     "app_id": "com.zigzagame.paranoize",
     "local_name": "Paranoize",
     "icon": "https://play-lh.googleusercontent.com/7LQtnB1OywAs4z9kyDT5NiAQtoE_TNMU6OdiPAm0znOARQB6lOlxZ7Dq9SQ8kdCvBAsDjGQKzhV2JMHHN2iuQ5g",
-    "est_revenue": 479536,
-    "est_revenue_fmt": "$480K",
+    "est_revenue": 504982,
+    "est_revenue_fmt": "$505K",
     "est_revenue_won": "17.8억",
-    "est_revenue_krw": 650601687
+    "est_revenue_krw": 685125081
+  },
+  {
+    "rank": 37,
+    "title": "Tasty Travels: Merge Game",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "com.fatmerge.global",
+    "local_name": "Tasty Travels: Merge Game",
+    "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
+    "est_revenue": 455849,
+    "est_revenue_fmt": "$456K",
+    "est_revenue_won": "19.2억",
+    "est_revenue_krw": 618464783
+  },
+  {
+    "rank": 38,
+    "title": "あんさんぶるスターズ！！Music",
+    "developer": "Happy Elements K.K",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "jp.co.happyelements.boysm",
+    "local_name": "あんさんぶるスターズ！！Music",
+    "icon": "https://play-lh.googleusercontent.com/McMZLXR9hYWUG883v6EVIh5k9P5iME0wPSbgd_bhVNU9hkUV-NlpXsfR4Je8o9TrlF52jzhMUkRQcefF5ZVkFw",
+    "est_revenue": 455849,
+    "est_revenue_fmt": "$456K",
+    "est_revenue_won": "18.5억",
+    "est_revenue_krw": 618464783
   },
   {
     "rank": 39,
@@ -540,27 +540,13 @@
     "app_id": "jp.pokemon.pokemonsleep",
     "local_name": "Pokémon Sleep",
     "icon": "https://play-lh.googleusercontent.com/tg-BeEJO7UDjvfxWXWJ1u-PMLa-45twu0YhJkZfQu-PEjRJU_2l9Sb9xMR3YBha3mtLzdzU-016ZpWN5IUwrFwU",
-    "est_revenue": 479536,
-    "est_revenue_fmt": "$480K",
+    "est_revenue": 455849,
+    "est_revenue_fmt": "$456K",
     "est_revenue_won": "17.1억",
-    "est_revenue_krw": 650601687
+    "est_revenue_krw": 618464783
   },
   {
     "rank": 40,
-    "title": "グランブルーファンタジー",
-    "developer": "mobage",
-    "genre": "Game",
-    "rating": 3.9,
-    "app_id": "jp.mbga.a12016007.lite",
-    "local_name": "グランブルーファンタジー",
-    "icon": "https://play-lh.googleusercontent.com/kezieGaFO7Jl78eSwpJORGTrNGWGt1_2RHtVLtd8SrJ7QBFBnpLYQ-MmV5pUVD2JBcpuW3nqYt4Dc5wXHlWpgR8",
-    "est_revenue": 463371,
-    "est_revenue_fmt": "$463K",
-    "est_revenue_won": "16.5억",
-    "est_revenue_krw": 628670119
-  },
-  {
-    "rank": 41,
     "title": "Shadowverse: Worlds Beyond",
     "developer": "Cygames, Inc.",
     "genre": "Game",
@@ -568,10 +554,24 @@
     "app_id": "jp.co.cygames.ShadowverseWorldsBeyond",
     "local_name": "Shadowverse: Worlds Beyond",
     "icon": "https://play-lh.googleusercontent.com/lar367tZF_JA5j4LKOfZ9zZRUXcNJUFPi60iIiZhBt54aOkfUxlXw1vCh6hP3HVN01-ZdWPpgaPFw_NggOpPdrA",
-    "est_revenue": 463371,
-    "est_revenue_fmt": "$463K",
+    "est_revenue": 455849,
+    "est_revenue_fmt": "$456K",
     "est_revenue_won": "16.0억",
-    "est_revenue_krw": 628670119
+    "est_revenue_krw": 618464783
+  },
+  {
+    "rank": 41,
+    "title": "グランブルーファンタジー",
+    "developer": "mobage",
+    "genre": "Game",
+    "rating": 3.9,
+    "app_id": "jp.mbga.a12016007.lite",
+    "local_name": "グランブルーファンタジー",
+    "icon": "https://play-lh.googleusercontent.com/kezieGaFO7Jl78eSwpJORGTrNGWGt1_2RHtVLtd8SrJ7QBFBnpLYQ-MmV5pUVD2JBcpuW3nqYt4Dc5wXHlWpgR8",
+    "est_revenue": 442136,
+    "est_revenue_fmt": "$442K",
+    "est_revenue_won": "16.5억",
+    "est_revenue_krw": 599859922
   },
   {
     "rank": 42,
