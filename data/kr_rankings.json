@@ -295,20 +295,6 @@
   },
   {
     "rank": 22,
-    "title": "Last Z: Survival Shooter",
-    "developer": "Omnilojo Pte Ltd",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.readygo.barrel.gp",
-    "local_name": "라스트 Z: 서바이벌 슈터",
-    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "12.9억",
-    "est_revenue_krw": 2442117038
-  },
-  {
-    "rank": 23,
     "title": "Tasty Travels: Merge Game",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -322,7 +308,7 @@
     "est_revenue_krw": 2442117038
   },
   {
-    "rank": 24,
+    "rank": 23,
     "title": "FC 모바일",
     "developer": "NEXON Company",
     "genre": "Game",
@@ -336,7 +322,7 @@
     "est_revenue_krw": 2442117038
   },
   {
-    "rank": 25,
+    "rank": 24,
     "title": "삼국지: 천하결전",
     "developer": "BILIBILI",
     "genre": "Game",
@@ -350,7 +336,7 @@
     "est_revenue_krw": 2442117038
   },
   {
-    "rank": 26,
+    "rank": 25,
     "title": "Seaside Escape®: Merge & Story",
     "developer": "Microfun Limited",
     "genre": "Game",
@@ -361,6 +347,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "9.4억",
+    "est_revenue_krw": 2442117038
+  },
+  {
+    "rank": 26,
+    "title": "Last Z: Survival Shooter",
+    "developer": "Omnilojo Pte Ltd",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.readygo.barrel.gp",
+    "local_name": "라스트 Z: 서바이벌 슈터",
+    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "12.9억",
     "est_revenue_krw": 2442117038
   },
   {
@@ -617,20 +617,6 @@
   },
   {
     "rank": 45,
-    "title": "WPL:Texas Hold'em, MTT, Sit&Go",
-    "developer": "Zempot INC.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.zempot.wplpoker",
-    "local_name": "WPL:Texas Hold'em, MTT, Sit&Go",
-    "icon": "https://play-lh.googleusercontent.com/QQVS3cmt_fMF91ecz8fHExUP_VJUty-9dCmA7sOZQR3086-4nD-2ANOA2cOkFeiHt5eFW55CZJGpiaO_BahNZA",
-    "est_revenue": 195380,
-    "est_revenue_fmt": "$195K",
-    "est_revenue_won": "3.7억",
-    "est_revenue_krw": 265078237
-  },
-  {
-    "rank": 46,
     "title": "Epic Seven",
     "developer": "Smilegate, Inc.",
     "genre": "Game",
@@ -644,7 +630,7 @@
     "est_revenue_krw": 265078237
   },
   {
-    "rank": 47,
+    "rank": 46,
     "title": "Mystery Town: Merge Games",
     "developer": "Cedar Games Studio",
     "genre": "Game",
@@ -652,13 +638,13 @@
     "app_id": "com.cedargames.mysterytown",
     "local_name": "미스터리 타운",
     "icon": "https://play-lh.googleusercontent.com/uVjVMEJrhT-xRoUtKIUj8tOVSbCWw4IsRHaTDYICRNjQycUj6SucVpeoAPiNZWeJ5JuzIt_ZZRo1X1pW6XJFAQE",
-    "est_revenue": 172392,
-    "est_revenue_fmt": "$172K",
+    "est_revenue": 179615,
+    "est_revenue_fmt": "$180K",
     "est_revenue_won": "3.4억",
-    "est_revenue_krw": 233889689
+    "est_revenue_krw": 243689362
   },
   {
-    "rank": 48,
+    "rank": 47,
     "title": "Candy Crush Saga",
     "developer": "King",
     "genre": "Game",
@@ -666,10 +652,24 @@
     "app_id": "com.king.candycrushsaga",
     "local_name": "캔디크러쉬 사가",
     "icon": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI",
-    "est_revenue": 165567,
-    "est_revenue_fmt": "$166K",
+    "est_revenue": 172392,
+    "est_revenue_fmt": "$172K",
     "est_revenue_won": "3.2억",
-    "est_revenue_krw": 224629995
+    "est_revenue_krw": 233889689
+  },
+  {
+    "rank": 48,
+    "title": "WPL:Texas Hold'em, MTT, Sit&Go",
+    "developer": "Zempot INC.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.zempot.wplpoker",
+    "local_name": "WPL:Texas Hold'em, MTT, Sit&Go",
+    "icon": "https://play-lh.googleusercontent.com/QQVS3cmt_fMF91ecz8fHExUP_VJUty-9dCmA7sOZQR3086-4nD-2ANOA2cOkFeiHt5eFW55CZJGpiaO_BahNZA",
+    "est_revenue": 172392,
+    "est_revenue_fmt": "$172K",
+    "est_revenue_won": "3.7억",
+    "est_revenue_krw": 233889689
   },
   {
     "rank": 49,
@@ -680,10 +680,10 @@
     "app_id": "com.webzen.mumonarch2.google",
     "local_name": "뮤 모나크2",
     "icon": "https://play-lh.googleusercontent.com/eCVt-iIP0KQ_kawpBtpUWoRmDt9SSL-oE952YbCITcUEd2nFF8hKCEupDNOlps3LRwa_9nMzImq_bsokBCt3Cg",
-    "est_revenue": 165567,
-    "est_revenue_fmt": "$166K",
+    "est_revenue": 172392,
+    "est_revenue_fmt": "$172K",
     "est_revenue_won": "3.1억",
-    "est_revenue_krw": 224629995
+    "est_revenue_krw": 233889689
   },
   {
     "rank": 50,
@@ -694,9 +694,9 @@
     "app_id": "com.ncsoft.lineage2m19",
     "local_name": "리니지2M",
     "icon": "https://play-lh.googleusercontent.com/bh67_a9Z2UyAoJHcktORocXm_c25UcWz_diX4kuGbQ2W1tbWwzK1QqapGahZrlDmwWCAp-CFoy9NA2KMYojBAik",
-    "est_revenue": 165567,
-    "est_revenue_fmt": "$166K",
+    "est_revenue": 172392,
+    "est_revenue_fmt": "$172K",
     "est_revenue_won": "3.0억",
-    "est_revenue_krw": 224629995
+    "est_revenue_krw": 233889689
   }
 ]
