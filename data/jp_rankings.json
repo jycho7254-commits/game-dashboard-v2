@@ -99,20 +99,6 @@
   },
   {
     "rank": 8,
-    "title": "Arknights: Endfield",
-    "developer": "GRYPHLINE",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.gryphline.endfield.gp",
-    "local_name": "Arknights: Endfield",
-    "icon": "https://play-lh.googleusercontent.com/l6FVNa293RykBWy88TqEhUakIcGSC8bRygSnKOBgztln48JX-WzMWnrBAETrKZsxDNC4HhwCsvfle_UI7rBE",
-    "est_revenue": 9000000,
-    "est_revenue_fmt": "$9.0M",
-    "est_revenue_won": "73.3억",
-    "est_revenue_krw": 12210585192
-  },
-  {
-    "rank": 9,
     "title": "Pokémon GO",
     "developer": "Scopely Explore, Inc.",
     "genre": "Game",
@@ -123,6 +109,20 @@
     "est_revenue": 9000000,
     "est_revenue_fmt": "$9.0M",
     "est_revenue_won": "88.0억",
+    "est_revenue_krw": 12210585192
+  },
+  {
+    "rank": 9,
+    "title": "Arknights: Endfield",
+    "developer": "GRYPHLINE",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.gryphline.endfield.gp",
+    "local_name": "Arknights: Endfield",
+    "icon": "https://play-lh.googleusercontent.com/l6FVNa293RykBWy88TqEhUakIcGSC8bRygSnKOBgztln48JX-WzMWnrBAETrKZsxDNC4HhwCsvfle_UI7rBE",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
+    "est_revenue_won": "73.3억",
     "est_revenue_krw": 12210585192
   },
   {
@@ -253,20 +253,6 @@
   },
   {
     "rank": 19,
-    "title": "ドラゴンクエストウォーク",
-    "developer": "SQUARE ENIX Co.,Ltd.",
-    "genre": "Game",
-    "rating": 3.5,
-    "app_id": "com.square_enix.android_googleplay.dqwalkj",
-    "local_name": "ドラゴンクエストウォーク",
-    "icon": "https://play-lh.googleusercontent.com/lCEz96MbgeyFryIXLP_u5gF_GsxjzIhMMS4hgQsqRhZ5TviCrgd0vQgi_bC0QipqbJGaC1B0mRZm5yfyUCnzu-Y",
-    "est_revenue": 9000000,
-    "est_revenue_fmt": "$9.0M",
-    "est_revenue_won": "42.3억",
-    "est_revenue_krw": 12210585192
-  },
-  {
-    "rank": 20,
     "title": "トゥーンブラスト (Toon Blast)",
     "developer": "Peak",
     "genre": "Game",
@@ -277,6 +263,20 @@
     "est_revenue": 9000000,
     "est_revenue_fmt": "$9.0M",
     "est_revenue_won": "40.0억",
+    "est_revenue_krw": 12210585192
+  },
+  {
+    "rank": 20,
+    "title": "ドラゴンクエストウォーク",
+    "developer": "SQUARE ENIX Co.,Ltd.",
+    "genre": "Game",
+    "rating": 3.5,
+    "app_id": "com.square_enix.android_googleplay.dqwalkj",
+    "local_name": "ドラゴンクエストウォーク",
+    "icon": "https://play-lh.googleusercontent.com/lCEz96MbgeyFryIXLP_u5gF_GsxjzIhMMS4hgQsqRhZ5TviCrgd0vQgi_bC0QipqbJGaC1B0mRZm5yfyUCnzu-Y",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
+    "est_revenue_won": "42.3억",
     "est_revenue_krw": 12210585192
   },
   {
@@ -344,27 +344,13 @@
     "app_id": "com.HoYoverse.Nap",
     "local_name": "Zenless Zone Zero",
     "icon": "https://play-lh.googleusercontent.com/-OwYJcIdDSfGJBOQozVC3kKxqnA7ev2O897twi-aVUpc8AXVMNtB3YWEXDui_V0VJxelNAbUbLXpNZj9AqWa3A",
-    "est_revenue": 8767555,
-    "est_revenue_fmt": "$8.8M",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
     "est_revenue_won": "30.9억",
-    "est_revenue_krw": 11895219695
+    "est_revenue_krw": 12210585192
   },
   {
     "rank": 26,
-    "title": "幻想水滸伝 STAR LEAP",
-    "developer": "KONAMI",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "jp.konami.suikoden.starleap",
-    "local_name": "幻想水滸伝 STAR LEAP",
-    "icon": "https://play-lh.googleusercontent.com/CZqC6kjKA871p5R5tf734xuTrgNd7B2DC9Q2Y1Fj0Bmdg3z2I8PhgV-7JNsOg-g-BV1ZWNLRPqq0frr9byaN",
-    "est_revenue": 8388361,
-    "est_revenue_fmt": "$8.4M",
-    "est_revenue_won": "26.0억",
-    "est_revenue_krw": 11380755179
-  },
-  {
-    "rank": 27,
     "title": "Kingshot",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -372,10 +358,24 @@
     "app_id": "com.run.tower.defense",
     "local_name": "Kingshot",
     "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
-    "est_revenue": 8038972,
-    "est_revenue_fmt": "$8.0M",
+    "est_revenue": 8698269,
+    "est_revenue_fmt": "$8.7M",
     "est_revenue_won": "28.2억",
-    "est_revenue_krw": 10906728051
+    "est_revenue_krw": 11801217183
+  },
+  {
+    "rank": 27,
+    "title": "幻想水滸伝 STAR LEAP",
+    "developer": "KONAMI",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "jp.konami.suikoden.starleap",
+    "local_name": "幻想水滸伝 STAR LEAP",
+    "icon": "https://play-lh.googleusercontent.com/CZqC6kjKA871p5R5tf734xuTrgNd7B2DC9Q2Y1Fj0Bmdg3z2I8PhgV-7JNsOg-g-BV1ZWNLRPqq0frr9byaN",
+    "est_revenue": 8359513,
+    "est_revenue_fmt": "$8.4M",
+    "est_revenue_won": "26.0억",
+    "est_revenue_krw": 11341616183
   },
   {
     "rank": 28,
@@ -386,10 +386,10 @@
     "app_id": "jp.konami.prospia",
     "local_name": "プロ野球スピリッツA",
     "icon": "https://play-lh.googleusercontent.com/F0IB7v9CufHt5hKPRfXC9WS7tOUunAuCD3_JtdMJTtlhkG93qwmNCg6Cbcbf10aipCZZ3rv82QA-6REtVaVLHD8",
-    "est_revenue": 7716067,
-    "est_revenue_fmt": "$7.7M",
+    "est_revenue": 8045566,
+    "est_revenue_fmt": "$8.0M",
     "est_revenue_won": "22.8억",
-    "est_revenue_krw": 10468632606
+    "est_revenue_krw": 10915674340
   },
   {
     "rank": 29,
@@ -400,10 +400,10 @@
     "app_id": "com.YostarJP.BlueArchive",
     "local_name": "ブルーアーカイブ",
     "icon": "https://play-lh.googleusercontent.com/H975s6W1-boCSogzpF5_rIyawbjiXfG842ncgjIRiVGzhXHFTCVut0DkBhlDR4CgN1nn98OOC1fWN-LE7kUHnQ",
-    "est_revenue": 7416795,
-    "est_revenue_fmt": "$7.4M",
+    "est_revenue": 7753819,
+    "est_revenue_fmt": "$7.8M",
     "est_revenue_won": "27.1억",
-    "est_revenue_krw": 10062600800
+    "est_revenue_krw": 10519851940
   },
   {
     "rank": 30,
@@ -414,10 +414,10 @@
     "app_id": "jp.pokemon.pokemontcgp",
     "local_name": "Pokémon TCG Pocket",
     "icon": "https://play-lh.googleusercontent.com/qdEdyVc19jfittS0bnDUnXLRM7jOPZzfHXEYoChPWOtzMrtwU6t3ZVm_FQ7wbeDYFlqLBuWCDK0Q6c1nEwYKTA",
-    "est_revenue": 7138698,
-    "est_revenue_fmt": "$7.1M",
+    "est_revenue": 7482015,
+    "est_revenue_fmt": "$7.5M",
     "est_revenue_won": "32.4억",
-    "est_revenue_krw": 9685297788
+    "est_revenue_krw": 10151086841
   },
   {
     "rank": 31,
@@ -428,10 +428,10 @@
     "app_id": "com.playrix.township",
     "local_name": "Township",
     "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
-    "est_revenue": 6879645,
-    "est_revenue_fmt": "$6.9M",
+    "est_revenue": 7228193,
+    "est_revenue_fmt": "$7.2M",
     "est_revenue_won": "25.0억",
-    "est_revenue_krw": 9333832374
+    "est_revenue_krw": 9806718490
   },
   {
     "rank": 32,
@@ -442,10 +442,10 @@
     "app_id": "com.playrix.gardenscapes",
     "local_name": "Gardenscapes",
     "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
-    "est_revenue": 6637779,
-    "est_revenue_fmt": "$6.6M",
+    "est_revenue": 6990637,
+    "est_revenue_fmt": "$7.0M",
     "est_revenue_won": "23.8억",
-    "est_revenue_krw": 9005685107
+    "est_revenue_krw": 9484418737
   },
   {
     "rank": 33,
@@ -456,10 +456,10 @@
     "app_id": "com.hottagames.nte",
     "local_name": "NTE: Neverness to Everness",
     "icon": "https://play-lh.googleusercontent.com/TGl3DdDbi4hty6ooOhEvv_2s5tkpGLbL6derP8y5hK-_Bw--Ve375b08ba9HHQ9ueRpoQ9oye1T_T24BJriLUmw",
-    "est_revenue": 6411474,
-    "est_revenue_fmt": "$6.4M",
+    "est_revenue": 6767846,
+    "est_revenue_fmt": "$6.8M",
     "est_revenue_won": "21.8억",
-    "est_revenue_krw": 8698649943
+    "est_revenue_krw": 9182151128
   },
   {
     "rank": 34,
@@ -470,13 +470,41 @@
     "app_id": "jp.glee.girl",
     "local_name": "放置少女 - 百花繚乱の萌姫たち",
     "icon": "https://play-lh.googleusercontent.com/fkp_VLPLnTcgHIdZutQCvIJhEy5BkpetWeKonidaYW8HrnM-ASjALh2tK5xkku3jJFc6gMY1LF7caAthHTBBFg",
-    "est_revenue": 6199301,
-    "est_revenue_fmt": "$6.2M",
+    "est_revenue": 6558493,
+    "est_revenue_fmt": "$6.6M",
     "est_revenue_won": "20.0억",
-    "est_revenue_krw": 8410788110
+    "est_revenue_krw": 8898115279
   },
   {
     "rank": 35,
+    "title": "Paranoize",
+    "developer": "ZigZaGame Inc.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.zigzagame.paranoize",
+    "local_name": "Paranoize",
+    "icon": "https://play-lh.googleusercontent.com/7LQtnB1OywAs4z9kyDT5NiAQtoE_TNMU6OdiPAm0znOARQB6lOlxZ7Dq9SQ8kdCvBAsDjGQKzhV2JMHHN2iuQ5g",
+    "est_revenue": 6361409,
+    "est_revenue_fmt": "$6.4M",
+    "est_revenue_won": "17.8억",
+    "est_revenue_krw": 8630725171
+  },
+  {
+    "rank": 36,
+    "title": "Tasty Travels: Merge Game",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "com.fatmerge.global",
+    "local_name": "Tasty Travels: Merge Game",
+    "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
+    "est_revenue": 6175553,
+    "est_revenue_fmt": "$6.2M",
+    "est_revenue_won": "19.2억",
+    "est_revenue_krw": 8378568446
+  },
+  {
+    "rank": 37,
     "title": "eFootball™",
     "developer": "KONAMI",
     "genre": "Game",
@@ -490,21 +518,7 @@
     "est_revenue_krw": 8140390128
   },
   {
-    "rank": 36,
-    "title": "Tasty Travels: Merge Game",
-    "developer": "Century Games PTE. LTD.",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.fatmerge.global",
-    "local_name": "Tasty Travels: Merge Game",
-    "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
-    "est_revenue": 479536,
-    "est_revenue_fmt": "$480K",
-    "est_revenue_won": "19.2억",
-    "est_revenue_krw": 650601687
-  },
-  {
-    "rank": 37,
+    "rank": 38,
     "title": "Yu-Gi-Oh! Master Duel",
     "developer": "KONAMI",
     "genre": "Game",
@@ -512,13 +526,13 @@
     "app_id": "jp.konami.masterduel",
     "local_name": "Yu-Gi-Oh! Master Duel",
     "icon": "https://play-lh.googleusercontent.com/iXWTX-D0Ehok3_lsmw-Bf0ow69CqUBsFv7u_zy8r-SOQML6e4KfOk7CYLutfvSwi-WLUvuctzvJQPKh1NjVb6g",
-    "est_revenue": 479536,
-    "est_revenue_fmt": "$480K",
+    "est_revenue": 510311,
+    "est_revenue_fmt": "$510K",
     "est_revenue_won": "12.7억",
-    "est_revenue_krw": 650601687
+    "est_revenue_krw": 692355104
   },
   {
-    "rank": 38,
+    "rank": 39,
     "title": "グランブルーファンタジー",
     "developer": "mobage",
     "genre": "Game",
@@ -526,24 +540,10 @@
     "app_id": "jp.mbga.a12016007.lite",
     "local_name": "グランブルーファンタジー",
     "icon": "https://play-lh.googleusercontent.com/kezieGaFO7Jl78eSwpJORGTrNGWGt1_2RHtVLtd8SrJ7QBFBnpLYQ-MmV5pUVD2JBcpuW3nqYt4Dc5wXHlWpgR8",
-    "est_revenue": 479536,
-    "est_revenue_fmt": "$480K",
+    "est_revenue": 486052,
+    "est_revenue_fmt": "$486K",
     "est_revenue_won": "16.5억",
-    "est_revenue_krw": 650601687
-  },
-  {
-    "rank": 39,
-    "title": "Paranoize",
-    "developer": "ZigZaGame Inc.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.zigzagame.paranoize",
-    "local_name": "Paranoize",
-    "icon": "https://play-lh.googleusercontent.com/7LQtnB1OywAs4z9kyDT5NiAQtoE_TNMU6OdiPAm0znOARQB6lOlxZ7Dq9SQ8kdCvBAsDjGQKzhV2JMHHN2iuQ5g",
-    "est_revenue": 479536,
-    "est_revenue_fmt": "$480K",
-    "est_revenue_won": "17.8억",
-    "est_revenue_krw": 650601687
+    "est_revenue_krw": 659442150
   },
   {
     "rank": 40,
@@ -589,17 +589,17 @@
   },
   {
     "rank": 43,
-    "title": "#コンパス【戦闘摂理解析システム】",
-    "developer": "NHN PlayArt Corp.",
+    "title": "Royal Kingdom",
+    "developer": "Dream Games, Ltd.",
     "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.nhnpa.cps",
-    "local_name": "#コンパス【戦闘摂理解析システム】",
-    "icon": "https://play-lh.googleusercontent.com/v5z77yXfMu0GL0a9_kgFDbPRqtVCa4jlLGxoEApDZmxTDxceI81rdIywQse5ttmQQKMYkcqGeVx2oSk5HhEK4w",
-    "est_revenue": 403547,
-    "est_revenue_fmt": "$404K",
-    "est_revenue_won": "14.0억",
-    "est_revenue_krw": 547505002
+    "rating": 4.1,
+    "app_id": "com.dreamgames.royalkingdom",
+    "local_name": "Royal Kingdom",
+    "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
+    "est_revenue": 343015,
+    "est_revenue_fmt": "$343K",
+    "est_revenue_won": "15.4억",
+    "est_revenue_krw": 465379320
   },
   {
     "rank": 44,
@@ -610,41 +610,27 @@
     "app_id": "jp.colopl.wcat",
     "local_name": "白猫プロジェクト",
     "icon": "https://play-lh.googleusercontent.com/pufOi1EEGS77Sayep7SrcWjFu0C3kI3eQBAToyN3-zSUv6gPRpWSSq3yxfzA45YmaAd-ANoaxOrlWHTOAGVjkA",
-    "est_revenue": 385991,
-    "est_revenue_fmt": "$386K",
+    "est_revenue": 343015,
+    "est_revenue_fmt": "$343K",
     "est_revenue_won": "13.1억",
-    "est_revenue_krw": 523686221
+    "est_revenue_krw": 465379320
   },
   {
     "rank": 45,
-    "title": "Royal Kingdom",
-    "developer": "Dream Games, Ltd.",
+    "title": "#コンパス【戦闘摂理解析システム】",
+    "developer": "NHN PlayArt Corp.",
     "genre": "Game",
-    "rating": 4.1,
-    "app_id": "com.dreamgames.royalkingdom",
-    "local_name": "Royal Kingdom",
-    "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
-    "est_revenue": 314055,
-    "est_revenue_fmt": "$314K",
-    "est_revenue_won": "15.4억",
-    "est_revenue_krw": 426088370
+    "rating": 3.8,
+    "app_id": "com.nhnpa.cps",
+    "local_name": "#コンパス【戦闘摂理解析システム】",
+    "icon": "https://play-lh.googleusercontent.com/v5z77yXfMu0GL0a9_kgFDbPRqtVCa4jlLGxoEApDZmxTDxceI81rdIywQse5ttmQQKMYkcqGeVx2oSk5HhEK4w",
+    "est_revenue": 343015,
+    "est_revenue_fmt": "$343K",
+    "est_revenue_won": "14.0억",
+    "est_revenue_krw": 465379320
   },
   {
     "rank": 46,
-    "title": "MementoMori: AFKRPG",
-    "developer": "Bank of Innovation, Inc.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "jp.boi.mementomori.android",
-    "local_name": "MementoMori: AFKRPG",
-    "icon": "https://play-lh.googleusercontent.com/HG9W8SRyTeeLPFrrS17a06d5ANgakJbHomr73o3l6I23YAiIFL399Y1_Q-2FDBO_zxqETTkphFhE-uTeuD2nH6w",
-    "est_revenue": 314055,
-    "est_revenue_fmt": "$314K",
-    "est_revenue_won": "13.5억",
-    "est_revenue_krw": 426088370
-  },
-  {
-    "rank": 47,
     "title": "妖怪ウォッチ ぷにぷに",
     "developer": "LEVEL-5 Inc.",
     "genre": "Game",
@@ -652,10 +638,24 @@
     "app_id": "com.Level5.YWP",
     "local_name": "妖怪ウォッチ ぷにぷに",
     "icon": "https://play-lh.googleusercontent.com/gLJhf9CphneUaQLaiNoJ9E8FSUlygLYQRuLrj1j02l5Hj54QTMiRYhRJxSGSoZoSEAlRF0bsnyZsK8rb1m-9",
-    "est_revenue": 314055,
-    "est_revenue_fmt": "$314K",
+    "est_revenue": 343015,
+    "est_revenue_fmt": "$343K",
     "est_revenue_won": "12.0억",
-    "est_revenue_krw": 426088370
+    "est_revenue_krw": 465379320
+  },
+  {
+    "rank": 47,
+    "title": "MementoMori: AFKRPG",
+    "developer": "Bank of Innovation, Inc.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "jp.boi.mementomori.android",
+    "local_name": "MementoMori: AFKRPG",
+    "icon": "https://play-lh.googleusercontent.com/HG9W8SRyTeeLPFrrS17a06d5ANgakJbHomr73o3l6I23YAiIFL399Y1_Q-2FDBO_zxqETTkphFhE-uTeuD2nH6w",
+    "est_revenue": 343015,
+    "est_revenue_fmt": "$343K",
+    "est_revenue_won": "13.5억",
+    "est_revenue_krw": 465379320
   },
   {
     "rank": 48,
@@ -666,10 +666,10 @@
     "app_id": "com.qookkagames.xczyw.gp.jp",
     "local_name": "信長の野望 真戦",
     "icon": "https://play-lh.googleusercontent.com/3XmTeAwhy-k2u_bN2kvYHXzzTRcDsBIRR0EZOBzf-csvFVR7M7cKo_GNToLfTgeSsdYEUcnmWtrQhBigLSddxNg",
-    "est_revenue": 314055,
-    "est_revenue_fmt": "$314K",
+    "est_revenue": 343015,
+    "est_revenue_fmt": "$343K",
     "est_revenue_won": "",
-    "est_revenue_krw": 426088370
+    "est_revenue_krw": 465379320
   },
   {
     "rank": 49,
@@ -680,10 +680,10 @@
     "app_id": "com.square_enix.android_googleplay.RSRS",
     "local_name": "ロマンシング サガ リ･ユニバース",
     "icon": "https://play-lh.googleusercontent.com/0HFAoMERMeV-YZo5Q4Ahyb9Hijq8UFsgNDDL1miUHky3IRQUnaZ7BwBXTQjZav_-OMAX6gRXkA6nOdXbcHdQEg",
-    "est_revenue": 314055,
-    "est_revenue_fmt": "$314K",
+    "est_revenue": 343015,
+    "est_revenue_fmt": "$343K",
     "est_revenue_won": "",
-    "est_revenue_krw": 426088370
+    "est_revenue_krw": 465379320
   },
   {
     "rank": 50,
@@ -694,9 +694,9 @@
     "app_id": "jp.co.cygames.ShadowverseWorldsBeyond",
     "local_name": "Shadowverse: Worlds Beyond",
     "icon": "https://play-lh.googleusercontent.com/lar367tZF_JA5j4LKOfZ9zZRUXcNJUFPi60iIiZhBt54aOkfUxlXw1vCh6hP3HVN01-ZdWPpgaPFw_NggOpPdrA",
-    "est_revenue": 314055,
-    "est_revenue_fmt": "$314K",
+    "est_revenue": 336000,
+    "est_revenue_fmt": "$336K",
     "est_revenue_won": "",
-    "est_revenue_krw": 426088370
+    "est_revenue_krw": 455861847
   }
 ]
