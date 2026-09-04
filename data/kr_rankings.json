@@ -239,20 +239,6 @@
   },
   {
     "rank": 18,
-    "title": "마비노기 모바일",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 2.8,
-    "app_id": "com.nexon.devcat.mm",
-    "local_name": "마비노기 모바일",
-    "icon": "https://play-lh.googleusercontent.com/ljE3Q4kOQj0UEjbJoANQpgQ4rxdDvI1h1wARGv6jFgel-5oDIFjfTx2S0nINT8agCEOB_V3C9y61RZFoyLZ4",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "17.3억",
-    "est_revenue_krw": 2442117038
-  },
-  {
-    "rank": 19,
     "title": "한게임 섯다&맞고",
     "developer": "NHN Corp.",
     "genre": "Game",
@@ -263,6 +249,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "16.1억",
+    "est_revenue_krw": 2442117038
+  },
+  {
+    "rank": 19,
+    "title": "마비노기 모바일",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 2.8,
+    "app_id": "com.nexon.devcat.mm",
+    "local_name": "마비노기 모바일",
+    "icon": "https://play-lh.googleusercontent.com/ljE3Q4kOQj0UEjbJoANQpgQ4rxdDvI1h1wARGv6jFgel-5oDIFjfTx2S0nINT8agCEOB_V3C9y61RZFoyLZ4",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "17.3억",
     "est_revenue_krw": 2442117038
   },
   {
@@ -368,7 +368,7 @@
     "title": "Zenless Zone Zero - Anniv.",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
-    "rating": 3.3,
+    "rating": 3.2,
     "app_id": "com.HoYoverse.Nap",
     "local_name": "젠레스 존 제로",
     "icon": "https://play-lh.googleusercontent.com/-OwYJcIdDSfGJBOQozVC3kKxqnA7ev2O897twi-aVUpc8AXVMNtB3YWEXDui_V0VJxelNAbUbLXpNZj9AqWa3A",
@@ -589,20 +589,6 @@
   },
   {
     "rank": 43,
-    "title": "Lineage W",
-    "developer": "NC Corporation",
-    "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.ncsoft.lineagew",
-    "local_name": "리니지W",
-    "icon": "https://play-lh.googleusercontent.com/VvwlyO5rMOgeedcbDmvBQv-vDoCeHqxBdSHqTrA3xUZAEuRcAwTBznrJBwkj3_xvhUTkLJ4D98RT1fZTtu8W",
-    "est_revenue": 280849,
-    "est_revenue_fmt": "$281K",
-    "est_revenue_won": "4.2억",
-    "est_revenue_krw": 381036738
-  },
-  {
-    "rank": 44,
     "title": "Hollywood Merge",
     "developer": "VoyagerOne IE",
     "genre": "Game",
@@ -610,10 +596,24 @@
     "app_id": "com.hollywood.merge",
     "local_name": "할리우드 머지",
     "icon": "https://play-lh.googleusercontent.com/5mzN7_uKeXNnloF-zlXGxiwKuepToEdRwbFUK_aQqk7ORLUGPsMwQK__J9IL9DBMWty-zuLvZ4FYHikK2xCttIw",
-    "est_revenue": 195380,
-    "est_revenue_fmt": "$195K",
+    "est_revenue": 203992,
+    "est_revenue_fmt": "$204K",
     "est_revenue_won": "3.8억",
-    "est_revenue_krw": 265078237
+    "est_revenue_krw": 276762410
+  },
+  {
+    "rank": 44,
+    "title": "Lineage W",
+    "developer": "NC Corporation",
+    "genre": "Game",
+    "rating": 3.8,
+    "app_id": "com.ncsoft.lineagew",
+    "local_name": "리니지W",
+    "icon": "https://play-lh.googleusercontent.com/VvwlyO5rMOgeedcbDmvBQv-vDoCeHqxBdSHqTrA3xUZAEuRcAwTBznrJBwkj3_xvhUTkLJ4D98RT1fZTtu8W",
+    "est_revenue": 203992,
+    "est_revenue_fmt": "$204K",
+    "est_revenue_won": "4.2억",
+    "est_revenue_krw": 276762410
   },
   {
     "rank": 45,
@@ -624,10 +624,10 @@
     "app_id": "com.stove.epic7.google",
     "local_name": "Epic Seven",
     "icon": "https://play-lh.googleusercontent.com/r3Q3Q8qy8C2SoUUF59o8NMHyE3lTGh3TuUw4XsJVCs5L1tpkRPWp__TKYth0oqr5enygDUi3LrHq1030Rifw5w",
-    "est_revenue": 195380,
-    "est_revenue_fmt": "$195K",
+    "est_revenue": 203992,
+    "est_revenue_fmt": "$204K",
     "est_revenue_won": "3.5억",
-    "est_revenue_krw": 265078237
+    "est_revenue_krw": 276762410
   },
   {
     "rank": 46,
