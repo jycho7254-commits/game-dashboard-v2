@@ -421,20 +421,6 @@
   },
   {
     "rank": 31,
-    "title": "Township",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.playrix.township",
-    "local_name": "Township",
-    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
-    "est_revenue": 7228193,
-    "est_revenue_fmt": "$7.2M",
-    "est_revenue_won": "25.0억",
-    "est_revenue_krw": 9806718490
-  },
-  {
-    "rank": 32,
     "title": "Gardenscapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -442,9 +428,23 @@
     "app_id": "com.playrix.gardenscapes",
     "local_name": "Gardenscapes",
     "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
+    "est_revenue": 7228193,
+    "est_revenue_fmt": "$7.2M",
+    "est_revenue_won": "23.8억",
+    "est_revenue_krw": 9806718490
+  },
+  {
+    "rank": 32,
+    "title": "Township",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.playrix.township",
+    "local_name": "Township",
+    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
     "est_revenue": 6990637,
     "est_revenue_fmt": "$7.0M",
-    "est_revenue_won": "23.8억",
+    "est_revenue_won": "25.0억",
     "est_revenue_krw": 9484418737
   },
   {
@@ -533,20 +533,6 @@
   },
   {
     "rank": 39,
-    "title": "グランブルーファンタジー",
-    "developer": "mobage",
-    "genre": "Game",
-    "rating": 3.9,
-    "app_id": "jp.mbga.a12016007.lite",
-    "local_name": "グランブルーファンタジー",
-    "icon": "https://play-lh.googleusercontent.com/kezieGaFO7Jl78eSwpJORGTrNGWGt1_2RHtVLtd8SrJ7QBFBnpLYQ-MmV5pUVD2JBcpuW3nqYt4Dc5wXHlWpgR8",
-    "est_revenue": 486052,
-    "est_revenue_fmt": "$486K",
-    "est_revenue_won": "16.5억",
-    "est_revenue_krw": 659442150
-  },
-  {
-    "rank": 40,
     "title": "Pokémon Sleep",
     "developer": "The Pokémon Company",
     "genre": "Game",
@@ -554,9 +540,23 @@
     "app_id": "jp.pokemon.pokemonsleep",
     "local_name": "Pokémon Sleep",
     "icon": "https://play-lh.googleusercontent.com/tg-BeEJO7UDjvfxWXWJ1u-PMLa-45twu0YhJkZfQu-PEjRJU_2l9Sb9xMR3YBha3mtLzdzU-016ZpWN5IUwrFwU",
+    "est_revenue": 486052,
+    "est_revenue_fmt": "$486K",
+    "est_revenue_won": "17.1억",
+    "est_revenue_krw": 659442150
+  },
+  {
+    "rank": 40,
+    "title": "グランブルーファンタジー",
+    "developer": "mobage",
+    "genre": "Game",
+    "rating": 3.9,
+    "app_id": "jp.mbga.a12016007.lite",
+    "local_name": "グランブルーファンタジー",
+    "icon": "https://play-lh.googleusercontent.com/kezieGaFO7Jl78eSwpJORGTrNGWGt1_2RHtVLtd8SrJ7QBFBnpLYQ-MmV5pUVD2JBcpuW3nqYt4Dc5wXHlWpgR8",
     "est_revenue": 463371,
     "est_revenue_fmt": "$463K",
-    "est_revenue_won": "17.1억",
+    "est_revenue_won": "16.5억",
     "est_revenue_krw": 628670119
   },
   {
