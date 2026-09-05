@@ -267,20 +267,6 @@
   },
   {
     "rank": 20,
-    "title": "Pmang Poker : Casino Royal",
-    "developer": "NEOWIZ corp",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.neowiz.games.poker",
-    "local_name": "피망 포커",
-    "icon": "https://play-lh.googleusercontent.com/MkI60z70bUF0YIi9loQzKm08WLinhruANPb6D7j1Gh1iPiLrfL1W-2ZQ0Q8ICCMdkFY0jDlTjx9_iZFVGOourg",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "15.0억",
-    "est_revenue_krw": 2428182711
-  },
-  {
-    "rank": 21,
     "title": "마비노기 모바일",
     "developer": "NEXON Company",
     "genre": "Game",
@@ -291,6 +277,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "16.1억",
+    "est_revenue_krw": 2428182711
+  },
+  {
+    "rank": 21,
+    "title": "Pmang Poker : Casino Royal",
+    "developer": "NEOWIZ corp",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.neowiz.games.poker",
+    "local_name": "피망 포커",
+    "icon": "https://play-lh.googleusercontent.com/MkI60z70bUF0YIi9loQzKm08WLinhruANPb6D7j1Gh1iPiLrfL1W-2ZQ0Q8ICCMdkFY0jDlTjx9_iZFVGOourg",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "15.0억",
     "est_revenue_krw": 2428182711
   },
   {
@@ -508,7 +508,7 @@
     "title": "Clash of Critters",
     "developer": "FARLIGHT",
     "genre": "Game",
-    "rating": 4.7,
+    "rating": 4.6,
     "app_id": "com.farlightgames.pgame.gp",
     "local_name": "Clash of Critters",
     "icon": "https://play-lh.googleusercontent.com/nIjO9pFz1R7G_wct00QMBKVqAmLHs2TqiaCmSUJfnKPw7yG_VzSmp26TRGCmm98v-Mye0MtsW_xz8CHNdIFD1A",
