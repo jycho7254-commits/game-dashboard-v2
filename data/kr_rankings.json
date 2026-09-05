@@ -508,7 +508,7 @@
     "title": "Clash of Critters",
     "developer": "FARLIGHT",
     "genre": "Game",
-    "rating": 4.6,
+    "rating": 4.7,
     "app_id": "com.farlightgames.pgame.gp",
     "local_name": "Clash of Critters",
     "icon": "https://play-lh.googleusercontent.com/nIjO9pFz1R7G_wct00QMBKVqAmLHs2TqiaCmSUJfnKPw7yG_VzSmp26TRGCmm98v-Mye0MtsW_xz8CHNdIFD1A",
@@ -603,20 +603,6 @@
   },
   {
     "rank": 44,
-    "title": "WPL:Texas Hold'em, MTT, Sit&Go",
-    "developer": "Zempot INC.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.zempot.wplpoker",
-    "local_name": "WPL:Texas Hold'em, MTT, Sit&Go",
-    "icon": "https://play-lh.googleusercontent.com/QQVS3cmt_fMF91ecz8fHExUP_VJUty-9dCmA7sOZQR3086-4nD-2ANOA2cOkFeiHt5eFW55CZJGpiaO_BahNZA",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "3.8억",
-    "est_revenue_krw": 2428182711
-  },
-  {
-    "rank": 45,
     "title": "Genshin Impact",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -628,6 +614,20 @@
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "3.7억",
     "est_revenue_krw": 2428182711
+  },
+  {
+    "rank": 45,
+    "title": "WPL:Texas Hold'em, MTT, Sit&Go",
+    "developer": "Zempot INC.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.zempot.wplpoker",
+    "local_name": "WPL:Texas Hold'em, MTT, Sit&Go",
+    "icon": "https://play-lh.googleusercontent.com/QQVS3cmt_fMF91ecz8fHExUP_VJUty-9dCmA7sOZQR3086-4nD-2ANOA2cOkFeiHt5eFW55CZJGpiaO_BahNZA",
+    "est_revenue": 220314,
+    "est_revenue_fmt": "$220K",
+    "est_revenue_won": "3.8억",
+    "est_revenue_krw": 297201470
   },
   {
     "rank": 46,
