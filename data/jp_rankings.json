@@ -382,7 +382,7 @@
     "title": "幻想水滸伝 STAR LEAP",
     "developer": "KONAMI",
     "genre": "Game",
-    "rating": 4.2,
+    "rating": 4.1,
     "app_id": "jp.konami.suikoden.starleap",
     "local_name": "幻想水滸伝 STAR LEAP",
     "icon": "https://play-lh.googleusercontent.com/CZqC6kjKA871p5R5tf734xuTrgNd7B2DC9Q2Y1Fj0Bmdg3z2I8PhgV-7JNsOg-g-BV1ZWNLRPqq0frr9byaN",
@@ -659,6 +659,20 @@
   },
   {
     "rank": 48,
+    "title": "信長の野望 真戦",
+    "developer": "Qookka Games",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.qookkagames.xczyw.gp.jp",
+    "local_name": "信長の野望 真戦",
+    "icon": "https://play-lh.googleusercontent.com/3XmTeAwhy-k2u_bN2kvYHXzzTRcDsBIRR0EZOBzf-csvFVR7M7cKo_GNToLfTgeSsdYEUcnmWtrQhBigLSddxNg",
+    "est_revenue": 314055,
+    "est_revenue_fmt": "$314K",
+    "est_revenue_won": "13.1억",
+    "est_revenue_krw": 423657179
+  },
+  {
+    "rank": 49,
     "title": "Trickcal:Chibi Go",
     "developer": "BILIBILI",
     "genre": "Game",
@@ -672,7 +686,7 @@
     "est_revenue_krw": 423657179
   },
   {
-    "rank": 49,
+    "rank": 50,
     "title": "Homescapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -680,23 +694,9 @@
     "app_id": "com.playrix.homescapes",
     "local_name": "Homescapes",
     "icon": "https://play-lh.googleusercontent.com/ft9OqNwpLaL45Jq3YuSYt0wm3y_j-YteTQqfq4Cu2PRWTrkFMuhlmUHmxggNxOP96gxR9Q3ML1Yt87iV3zD5fg",
-    "est_revenue": 265503,
-    "est_revenue_fmt": "$266K",
+    "est_revenue": 255000,
+    "est_revenue_fmt": "$255K",
     "est_revenue_won": "",
-    "est_revenue_krw": 358160997
-  },
-  {
-    "rank": 50,
-    "title": "信長の野望 真戦",
-    "developer": "Qookka Games",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.qookkagames.xczyw.gp.jp",
-    "local_name": "信長の野望 真戦",
-    "icon": "https://play-lh.googleusercontent.com/3XmTeAwhy-k2u_bN2kvYHXzzTRcDsBIRR0EZOBzf-csvFVR7M7cKo_GNToLfTgeSsdYEUcnmWtrQhBigLSddxNg",
-    "est_revenue": 265503,
-    "est_revenue_fmt": "$266K",
-    "est_revenue_won": "13.1억",
-    "est_revenue_krw": 358160997
+    "est_revenue_krw": 343992551
   }
 ]
