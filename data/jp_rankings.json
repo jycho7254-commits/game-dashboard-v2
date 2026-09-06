@@ -85,20 +85,6 @@
   },
   {
     "rank": 7,
-    "title": "Arknights: Endfield",
-    "developer": "GRYPHLINE",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.gryphline.endfield.gp",
-    "local_name": "Arknights: Endfield",
-    "icon": "https://play-lh.googleusercontent.com/l6FVNa293RykBWy88TqEhUakIcGSC8bRygSnKOBgztln48JX-WzMWnrBAETrKZsxDNC4HhwCsvfle_UI7rBE",
-    "est_revenue": 9000000,
-    "est_revenue_fmt": "$9.0M",
-    "est_revenue_won": "88.0억",
-    "est_revenue_krw": 12140913555
-  },
-  {
-    "rank": 8,
     "title": "パズル＆ドラゴンズ(Puzzle & Dragons)",
     "developer": "GungHo Online Entertainment, Inc.",
     "genre": "Game",
@@ -109,6 +95,20 @@
     "est_revenue": 9000000,
     "est_revenue_fmt": "$9.0M",
     "est_revenue_won": "110.6억",
+    "est_revenue_krw": 12140913555
+  },
+  {
+    "rank": 8,
+    "title": "Arknights: Endfield",
+    "developer": "GRYPHLINE",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.gryphline.endfield.gp",
+    "local_name": "Arknights: Endfield",
+    "icon": "https://play-lh.googleusercontent.com/l6FVNa293RykBWy88TqEhUakIcGSC8bRygSnKOBgztln48JX-WzMWnrBAETrKZsxDNC4HhwCsvfle_UI7rBE",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
+    "est_revenue_won": "88.0억",
     "est_revenue_krw": 12140913555
   },
   {
@@ -589,20 +589,6 @@
   },
   {
     "rank": 43,
-    "title": "白猫プロジェクト",
-    "developer": "COLOPL, Inc.",
-    "genre": "Game",
-    "rating": 3.6,
-    "app_id": "jp.colopl.wcat",
-    "local_name": "白猫プロジェクト",
-    "icon": "https://play-lh.googleusercontent.com/pufOi1EEGS77Sayep7SrcWjFu0C3kI3eQBAToyN3-zSUv6gPRpWSSq3yxfzA45YmaAd-ANoaxOrlWHTOAGVjkA",
-    "est_revenue": 401118,
-    "est_revenue_fmt": "$401K",
-    "est_revenue_won": "14.4억",
-    "est_revenue_krw": 541104329
-  },
-  {
-    "rank": 44,
     "title": "Last Z: Survival Shooter",
     "developer": "Omnilojo Pte Ltd",
     "genre": "Game",
@@ -616,7 +602,7 @@
     "est_revenue_krw": 541104329
   },
   {
-    "rank": 45,
+    "rank": 44,
     "title": "Royal Kingdom",
     "developer": "Dream Games, Ltd.",
     "genre": "Game",
@@ -624,10 +610,24 @@
     "app_id": "com.dreamgames.royalkingdom",
     "local_name": "Royal Kingdom",
     "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
-    "est_revenue": 314055,
-    "est_revenue_fmt": "$314K",
+    "est_revenue": 328093,
+    "est_revenue_fmt": "$328K",
     "est_revenue_won": "14.9억",
-    "est_revenue_krw": 423657179
+    "est_revenue_krw": 442594306
+  },
+  {
+    "rank": 45,
+    "title": "白猫プロジェクト",
+    "developer": "COLOPL, Inc.",
+    "genre": "Game",
+    "rating": 3.6,
+    "app_id": "jp.colopl.wcat",
+    "local_name": "白猫プロジェクト",
+    "icon": "https://play-lh.googleusercontent.com/pufOi1EEGS77Sayep7SrcWjFu0C3kI3eQBAToyN3-zSUv6gPRpWSSq3yxfzA45YmaAd-ANoaxOrlWHTOAGVjkA",
+    "est_revenue": 328093,
+    "est_revenue_fmt": "$328K",
+    "est_revenue_won": "14.4억",
+    "est_revenue_krw": 442594306
   },
   {
     "rank": 46,
@@ -638,10 +638,10 @@
     "app_id": "com.Level5.YWP",
     "local_name": "妖怪ウォッチ ぷにぷに",
     "icon": "https://play-lh.googleusercontent.com/gLJhf9CphneUaQLaiNoJ9E8FSUlygLYQRuLrj1j02l5Hj54QTMiRYhRJxSGSoZoSEAlRF0bsnyZsK8rb1m-9",
-    "est_revenue": 314055,
-    "est_revenue_fmt": "$314K",
+    "est_revenue": 328093,
+    "est_revenue_fmt": "$328K",
     "est_revenue_won": "13.5억",
-    "est_revenue_krw": 423657179
+    "est_revenue_krw": 442594306
   },
   {
     "rank": 47,
@@ -652,10 +652,10 @@
     "app_id": "jp.boi.mementomori.android",
     "local_name": "MementoMori: AFKRPG",
     "icon": "https://play-lh.googleusercontent.com/HG9W8SRyTeeLPFrrS17a06d5ANgakJbHomr73o3l6I23YAiIFL399Y1_Q-2FDBO_zxqETTkphFhE-uTeuD2nH6w",
-    "est_revenue": 314055,
-    "est_revenue_fmt": "$314K",
+    "est_revenue": 328093,
+    "est_revenue_fmt": "$328K",
     "est_revenue_won": "14.0억",
-    "est_revenue_krw": 423657179
+    "est_revenue_krw": 442594306
   },
   {
     "rank": 48,
@@ -666,10 +666,10 @@
     "app_id": "com.qookkagames.xczyw.gp.jp",
     "local_name": "信長の野望 真戦",
     "icon": "https://play-lh.googleusercontent.com/3XmTeAwhy-k2u_bN2kvYHXzzTRcDsBIRR0EZOBzf-csvFVR7M7cKo_GNToLfTgeSsdYEUcnmWtrQhBigLSddxNg",
-    "est_revenue": 314055,
-    "est_revenue_fmt": "$314K",
+    "est_revenue": 328093,
+    "est_revenue_fmt": "$328K",
     "est_revenue_won": "13.1억",
-    "est_revenue_krw": 423657179
+    "est_revenue_krw": 442594306
   },
   {
     "rank": 49,
