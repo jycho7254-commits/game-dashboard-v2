@@ -113,20 +113,6 @@
   },
   {
     "rank": 9,
-    "title": "ドラゴンボールZ ドッカンバトル",
-    "developer": "Bandai Namco Entertainment Inc.",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.bandainamcogames.dbzdokkan",
-    "local_name": "ドラゴンボールZ ドッカンバトル",
-    "icon": "https://play-lh.googleusercontent.com/AjC0FM5Y7Y-Nte45TKgOmvKZlfXPj3u9_CCLnWwzgDJfTTOziul3L4NqqzwupcdF7P4xgrwc1N_X0jRKwOSlf8M",
-    "est_revenue": 9000000,
-    "est_revenue_fmt": "$9.0M",
-    "est_revenue_won": "88.0억",
-    "est_revenue_krw": 12148537230
-  },
-  {
-    "rank": 10,
     "title": "Whiteout Survival",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -137,6 +123,20 @@
     "est_revenue": 9000000,
     "est_revenue_fmt": "$9.0M",
     "est_revenue_won": "80.0억",
+    "est_revenue_krw": 12148537230
+  },
+  {
+    "rank": 10,
+    "title": "ドラゴンボールZ ドッカンバトル",
+    "developer": "Bandai Namco Entertainment Inc.",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.bandainamcogames.dbzdokkan",
+    "local_name": "ドラゴンボールZ ドッカンバトル",
+    "icon": "https://play-lh.googleusercontent.com/AjC0FM5Y7Y-Nte45TKgOmvKZlfXPj3u9_CCLnWwzgDJfTTOziul3L4NqqzwupcdF7P4xgrwc1N_X0jRKwOSlf8M",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
+    "est_revenue_won": "88.0억",
     "est_revenue_krw": 12148537230
   },
   {
@@ -435,34 +435,6 @@
   },
   {
     "rank": 32,
-    "title": "Yu-Gi-Oh! Master Duel",
-    "developer": "KONAMI",
-    "genre": "Game",
-    "rating": 3.8,
-    "app_id": "jp.konami.masterduel",
-    "local_name": "Yu-Gi-Oh! Master Duel",
-    "icon": "https://play-lh.googleusercontent.com/iXWTX-D0Ehok3_lsmw-Bf0ow69CqUBsFv7u_zy8r-SOQML6e4KfOk7CYLutfvSwi-WLUvuctzvJQPKh1NjVb6g",
-    "est_revenue": 6820423,
-    "est_revenue_fmt": "$6.8M",
-    "est_revenue_won": "22.8억",
-    "est_revenue_krw": 9206462527
-  },
-  {
-    "rank": 33,
-    "title": "Paranoize",
-    "developer": "ZigZaGame Inc.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.zigzagame.paranoize",
-    "local_name": "Paranoize",
-    "icon": "https://play-lh.googleusercontent.com/7LQtnB1OywAs4z9kyDT5NiAQtoE_TNMU6OdiPAm0znOARQB6lOlxZ7Dq9SQ8kdCvBAsDjGQKzhV2JMHHN2iuQ5g",
-    "est_revenue": 6595834,
-    "est_revenue_fmt": "$6.6M",
-    "est_revenue_won": "21.8억",
-    "est_revenue_krw": 8903303879
-  },
-  {
-    "rank": 34,
     "title": "放置少女 - 百花繚乱の萌姫たち",
     "developer": "C4 Connect Inc.",
     "genre": "Game",
@@ -470,9 +442,37 @@
     "app_id": "jp.glee.girl",
     "local_name": "放置少女 - 百花繚乱の萌姫たち",
     "icon": "https://play-lh.googleusercontent.com/fkp_VLPLnTcgHIdZutQCvIJhEy5BkpetWeKonidaYW8HrnM-ASjALh2tK5xkku3jJFc6gMY1LF7caAthHTBBFg",
+    "est_revenue": 6820423,
+    "est_revenue_fmt": "$6.8M",
+    "est_revenue_won": "20.0억",
+    "est_revenue_krw": 9206462527
+  },
+  {
+    "rank": 33,
+    "title": "Yu-Gi-Oh! Master Duel",
+    "developer": "KONAMI",
+    "genre": "Game",
+    "rating": 3.8,
+    "app_id": "jp.konami.masterduel",
+    "local_name": "Yu-Gi-Oh! Master Duel",
+    "icon": "https://play-lh.googleusercontent.com/iXWTX-D0Ehok3_lsmw-Bf0ow69CqUBsFv7u_zy8r-SOQML6e4KfOk7CYLutfvSwi-WLUvuctzvJQPKh1NjVb6g",
+    "est_revenue": 6595834,
+    "est_revenue_fmt": "$6.6M",
+    "est_revenue_won": "22.8억",
+    "est_revenue_krw": 8903303879
+  },
+  {
+    "rank": 34,
+    "title": "Paranoize",
+    "developer": "ZigZaGame Inc.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.zigzagame.paranoize",
+    "local_name": "Paranoize",
+    "icon": "https://play-lh.googleusercontent.com/7LQtnB1OywAs4z9kyDT5NiAQtoE_TNMU6OdiPAm0znOARQB6lOlxZ7Dq9SQ8kdCvBAsDjGQKzhV2JMHHN2iuQ5g",
     "est_revenue": 6385020,
     "est_revenue_fmt": "$6.4M",
-    "est_revenue_won": "20.0억",
+    "est_revenue_won": "21.8억",
     "est_revenue_krw": 8618739243
   },
   {
@@ -589,6 +589,20 @@
   },
   {
     "rank": 43,
+    "title": "白猫プロジェクト",
+    "developer": "COLOPL, Inc.",
+    "genre": "Game",
+    "rating": 3.6,
+    "app_id": "jp.colopl.wcat",
+    "local_name": "白猫プロジェクト",
+    "icon": "https://play-lh.googleusercontent.com/pufOi1EEGS77Sayep7SrcWjFu0C3kI3eQBAToyN3-zSUv6gPRpWSSq3yxfzA45YmaAd-ANoaxOrlWHTOAGVjkA",
+    "est_revenue": 401118,
+    "est_revenue_fmt": "$401K",
+    "est_revenue_won": "14.0억",
+    "est_revenue_krw": 541444106
+  },
+  {
+    "rank": 44,
     "title": "Last Z: Survival Shooter",
     "developer": "Omnilojo Pte Ltd",
     "genre": "Game",
@@ -602,7 +616,7 @@
     "est_revenue_krw": 541444106
   },
   {
-    "rank": 44,
+    "rank": 45,
     "title": "Royal Kingdom",
     "developer": "Dream Games, Ltd.",
     "genre": "Game",
@@ -610,24 +624,10 @@
     "app_id": "com.dreamgames.royalkingdom",
     "local_name": "Royal Kingdom",
     "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
-    "est_revenue": 328093,
-    "est_revenue_fmt": "$328K",
+    "est_revenue": 314055,
+    "est_revenue_fmt": "$314K",
     "est_revenue_won": "14.4억",
-    "est_revenue_krw": 442872225
-  },
-  {
-    "rank": 45,
-    "title": "白猫プロジェクト",
-    "developer": "COLOPL, Inc.",
-    "genre": "Game",
-    "rating": 3.6,
-    "app_id": "jp.colopl.wcat",
-    "local_name": "白猫プロジェクト",
-    "icon": "https://play-lh.googleusercontent.com/pufOi1EEGS77Sayep7SrcWjFu0C3kI3eQBAToyN3-zSUv6gPRpWSSq3yxfzA45YmaAd-ANoaxOrlWHTOAGVjkA",
-    "est_revenue": 328093,
-    "est_revenue_fmt": "$328K",
-    "est_revenue_won": "14.0억",
-    "est_revenue_krw": 442872225
+    "est_revenue_krw": 423923207
   },
   {
     "rank": 46,
@@ -638,10 +638,10 @@
     "app_id": "com.Level5.YWP",
     "local_name": "妖怪ウォッチ ぷにぷに",
     "icon": "https://play-lh.googleusercontent.com/gLJhf9CphneUaQLaiNoJ9E8FSUlygLYQRuLrj1j02l5Hj54QTMiRYhRJxSGSoZoSEAlRF0bsnyZsK8rb1m-9",
-    "est_revenue": 328093,
-    "est_revenue_fmt": "$328K",
+    "est_revenue": 314055,
+    "est_revenue_fmt": "$314K",
     "est_revenue_won": "13.5억",
-    "est_revenue_krw": 442872225
+    "est_revenue_krw": 423923207
   },
   {
     "rank": 47,
@@ -652,10 +652,10 @@
     "app_id": "jp.boi.mementomori.android",
     "local_name": "MementoMori: AFKRPG",
     "icon": "https://play-lh.googleusercontent.com/HG9W8SRyTeeLPFrrS17a06d5ANgakJbHomr73o3l6I23YAiIFL399Y1_Q-2FDBO_zxqETTkphFhE-uTeuD2nH6w",
-    "est_revenue": 328093,
-    "est_revenue_fmt": "$328K",
+    "est_revenue": 314055,
+    "est_revenue_fmt": "$314K",
     "est_revenue_won": "13.1억",
-    "est_revenue_krw": 442872225
+    "est_revenue_krw": 423923207
   },
   {
     "rank": 48,
@@ -666,10 +666,10 @@
     "app_id": "com.jp.beauty",
     "local_name": "旦那様の一発逆転人生",
     "icon": "https://play-lh.googleusercontent.com/dMZpIM_uav-hfQKPl5XUjHB98vvUJJl_7U99lE1sIMJ447lPXCn93_SiInconGTh89-ia18k5Q8dJF799wXctQ",
-    "est_revenue": 325426,
-    "est_revenue_fmt": "$325K",
+    "est_revenue": 314055,
+    "est_revenue_fmt": "$314K",
     "est_revenue_won": "12.4억",
-    "est_revenue_krw": 439272209
+    "est_revenue_krw": 423923207
   },
   {
     "rank": 49,
@@ -680,10 +680,10 @@
     "app_id": "com.qookkagames.xczyw.gp.jp",
     "local_name": "信長の野望 真戦",
     "icon": "https://play-lh.googleusercontent.com/3XmTeAwhy-k2u_bN2kvYHXzzTRcDsBIRR0EZOBzf-csvFVR7M7cKo_GNToLfTgeSsdYEUcnmWtrQhBigLSddxNg",
-    "est_revenue": 325426,
-    "est_revenue_fmt": "$325K",
+    "est_revenue": 314055,
+    "est_revenue_fmt": "$314K",
     "est_revenue_won": "12.7억",
-    "est_revenue_krw": 439272209
+    "est_revenue_krw": 423923207
   },
   {
     "rank": 50,
@@ -694,9 +694,9 @@
     "app_id": "com.bilibili.trickcal",
     "local_name": "Trickcal:Chibi Go",
     "icon": "https://play-lh.googleusercontent.com/lwMgjeWGUepED3XVqPk4AXrkJwm4Mo7LvvGggHV_HXF9-INHiXCrD0fUVZl6IKwa4QhQUHDKnJ6uwUYPgG9LXg",
-    "est_revenue": 325426,
-    "est_revenue_fmt": "$325K",
+    "est_revenue": 314055,
+    "est_revenue_fmt": "$314K",
     "est_revenue_won": "12.0억",
-    "est_revenue_krw": 439272209
+    "est_revenue_krw": 423923207
   }
 ]
