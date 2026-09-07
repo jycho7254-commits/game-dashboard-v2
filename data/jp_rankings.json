@@ -1,20 +1,6 @@
 [
   {
     "rank": 1,
-    "title": "ウマ娘 プリティーダービー",
-    "developer": "Cygames, Inc.",
-    "genre": "Game",
-    "rating": 3.6,
-    "app_id": "jp.co.cygames.umamusume",
-    "local_name": "ウマ娘 プリティーダービー",
-    "icon": "https://play-lh.googleusercontent.com/bww9X1CiJudBPk1Bld11v61SPbS5UQhus43qHiDhapvfW5ahkfH3lgUNdjCx45yu_3Ft-OhT26SvWu2r01uu",
-    "est_revenue": 10500000,
-    "est_revenue_fmt": "$10.5M",
-    "est_revenue_won": "300.0억",
-    "est_revenue_krw": 14138931660
-  },
-  {
-    "rank": 2,
     "title": "モンスターストライク",
     "developer": "XFLAG, Inc.",
     "genre": "Game",
@@ -25,6 +11,20 @@
     "est_revenue": 9000000,
     "est_revenue_fmt": "$9.0M",
     "est_revenue_won": "222.6억",
+    "est_revenue_krw": 12119084280
+  },
+  {
+    "rank": 2,
+    "title": "ウマ娘 プリティーダービー",
+    "developer": "Cygames, Inc.",
+    "genre": "Game",
+    "rating": 3.6,
+    "app_id": "jp.co.cygames.umamusume",
+    "local_name": "ウマ娘 プリティーダービー",
+    "icon": "https://play-lh.googleusercontent.com/bww9X1CiJudBPk1Bld11v61SPbS5UQhus43qHiDhapvfW5ahkfH3lgUNdjCx45yu_3Ft-OhT26SvWu2r01uu",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
+    "est_revenue_won": "300.0억",
     "est_revenue_krw": 12119084280
   },
   {
@@ -113,20 +113,6 @@
   },
   {
     "rank": 9,
-    "title": "Gossip Harbor®: Merge & Story",
-    "developer": "Microfun Limited",
-    "genre": "Game",
-    "rating": 3.6,
-    "app_id": "com.mergegames.gossipharbor",
-    "local_name": "Gossip Harbor",
-    "icon": "https://play-lh.googleusercontent.com/HLRg8oInVYJV8Uebxlh1dTH4j7OTBMIWOPZY7A7ryW9UB8K4i7HCOqkGfSLORsK-XzqhnJcJM0mjObVKZYL8zA",
-    "est_revenue": 9000000,
-    "est_revenue_fmt": "$9.0M",
-    "est_revenue_won": "58.6억",
-    "est_revenue_krw": 12119084280
-  },
-  {
-    "rank": 10,
     "title": "Puzzles & Survival",
     "developer": "37GAMES",
     "genre": "Game",
@@ -137,6 +123,20 @@
     "est_revenue": 9000000,
     "est_revenue_fmt": "$9.0M",
     "est_revenue_won": "62.8억",
+    "est_revenue_krw": 12119084280
+  },
+  {
+    "rank": 10,
+    "title": "Gossip Harbor®: Merge & Story",
+    "developer": "Microfun Limited",
+    "genre": "Game",
+    "rating": 3.6,
+    "app_id": "com.mergegames.gossipharbor",
+    "local_name": "Gossip Harbor",
+    "icon": "https://play-lh.googleusercontent.com/HLRg8oInVYJV8Uebxlh1dTH4j7OTBMIWOPZY7A7ryW9UB8K4i7HCOqkGfSLORsK-XzqhnJcJM0mjObVKZYL8zA",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
+    "est_revenue_won": "58.6억",
     "est_revenue_krw": 12119084280
   },
   {
@@ -253,20 +253,6 @@
   },
   {
     "rank": 19,
-    "title": "プロ野球スピリッツA",
-    "developer": "KONAMI",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "jp.konami.prospia",
-    "local_name": "プロ野球スピリッツA",
-    "icon": "https://play-lh.googleusercontent.com/F0IB7v9CufHt5hKPRfXC9WS7tOUunAuCD3_JtdMJTtlhkG93qwmNCg6Cbcbf10aipCZZ3rv82QA-6REtVaVLHD8",
-    "est_revenue": 9000000,
-    "est_revenue_fmt": "$9.0M",
-    "est_revenue_won": "29.5억",
-    "est_revenue_krw": 12119084280
-  },
-  {
-    "rank": 20,
     "title": "LINE Pokopoko",
     "developer": "LINE (LY Corporation)",
     "genre": "Game",
@@ -277,6 +263,20 @@
     "est_revenue": 9000000,
     "est_revenue_fmt": "$9.0M",
     "est_revenue_won": "32.4억",
+    "est_revenue_krw": 12119084280
+  },
+  {
+    "rank": 20,
+    "title": "プロ野球スピリッツA",
+    "developer": "KONAMI",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "jp.konami.prospia",
+    "local_name": "プロ野球スピリッツA",
+    "icon": "https://play-lh.googleusercontent.com/F0IB7v9CufHt5hKPRfXC9WS7tOUunAuCD3_JtdMJTtlhkG93qwmNCg6Cbcbf10aipCZZ3rv82QA-6REtVaVLHD8",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
+    "est_revenue_won": "29.5억",
     "est_revenue_krw": 12119084280
   },
   {
@@ -393,20 +393,6 @@
   },
   {
     "rank": 29,
-    "title": "Township",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.playrix.township",
-    "local_name": "Township",
-    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
-    "est_revenue": 706076,
-    "est_revenue_fmt": "$706K",
-    "est_revenue_won": "25.0억",
-    "est_revenue_krw": 950777172
-  },
-  {
-    "rank": 30,
     "title": "Yu-Gi-Oh! Master Duel",
     "developer": "KONAMI",
     "genre": "Game",
@@ -414,10 +400,24 @@
     "app_id": "jp.konami.masterduel",
     "local_name": "Yu-Gi-Oh! Master Duel",
     "icon": "https://play-lh.googleusercontent.com/iXWTX-D0Ehok3_lsmw-Bf0ow69CqUBsFv7u_zy8r-SOQML6e4KfOk7CYLutfvSwi-WLUvuctzvJQPKh1NjVb6g",
-    "est_revenue": 706076,
-    "est_revenue_fmt": "$706K",
+    "est_revenue": 830678,
+    "est_revenue_fmt": "$831K",
     "est_revenue_won": "23.8억",
-    "est_revenue_krw": 950777172
+    "est_revenue_krw": 1118561855
+  },
+  {
+    "rank": 30,
+    "title": "Township",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.playrix.township",
+    "local_name": "Township",
+    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
+    "est_revenue": 665522,
+    "est_revenue_fmt": "$666K",
+    "est_revenue_won": "25.0억",
+    "est_revenue_krw": 896168579
   },
   {
     "rank": 31,
@@ -428,10 +428,10 @@
     "app_id": "com.kurogame.wutheringwaves.global",
     "local_name": "鸣潮",
     "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_",
-    "est_revenue": 706076,
-    "est_revenue_fmt": "$706K",
+    "est_revenue": 665522,
+    "est_revenue_fmt": "$666K",
     "est_revenue_won": "30.9억",
-    "est_revenue_krw": 950777172
+    "est_revenue_krw": 896168579
   },
   {
     "rank": 32,
@@ -617,20 +617,6 @@
   },
   {
     "rank": 45,
-    "title": "Roblox",
-    "developer": "Roblox Corporation",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.roblox.client",
-    "local_name": "Roblox",
-    "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
-    "est_revenue": 328093,
-    "est_revenue_fmt": "$328K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 441798524
-  },
-  {
-    "rank": 46,
     "title": "MementoMori: AFKRPG",
     "developer": "Bank of Innovation, Inc.",
     "genre": "Game",
@@ -641,6 +627,20 @@
     "est_revenue": 328093,
     "est_revenue_fmt": "$328K",
     "est_revenue_won": "14.4억",
+    "est_revenue_krw": 441798524
+  },
+  {
+    "rank": 46,
+    "title": "Roblox",
+    "developer": "Roblox Corporation",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.roblox.client",
+    "local_name": "Roblox",
+    "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
+    "est_revenue": 328093,
+    "est_revenue_fmt": "$328K",
+    "est_revenue_won": "",
     "est_revenue_krw": 441798524
   },
   {
@@ -659,34 +659,6 @@
   },
   {
     "rank": 48,
-    "title": "信長の野望 真戦",
-    "developer": "Qookka Games",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.qookkagames.xczyw.gp.jp",
-    "local_name": "信長の野望 真戦",
-    "icon": "https://play-lh.googleusercontent.com/3XmTeAwhy-k2u_bN2kvYHXzzTRcDsBIRR0EZOBzf-csvFVR7M7cKo_GNToLfTgeSsdYEUcnmWtrQhBigLSddxNg",
-    "est_revenue": 328093,
-    "est_revenue_fmt": "$328K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 441798524
-  },
-  {
-    "rank": 49,
-    "title": "ヘブンバーンズレッド",
-    "developer": "WFS, Inc.",
-    "genre": "Game",
-    "rating": 4,
-    "app_id": "com.heavenburnsred",
-    "local_name": "ヘブンバーンズレッド",
-    "icon": "https://play-lh.googleusercontent.com/IzdBGRsLy5Cf9NCTd11VTBAGZX6RaOqUglTAgvl5pRRXTDjDxQc1YlWM4vykHwu2rnpOBTo-Pqh8lON2ko5aLQ",
-    "est_revenue": 312356,
-    "est_revenue_fmt": "$312K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 420607632
-  },
-  {
-    "rank": 50,
     "title": "Cell Survivor",
     "developer": "Snap Brain Games",
     "genre": "Game",
@@ -694,6 +666,34 @@
     "app_id": "defense.roguelike.cell.shoot.survivor",
     "local_name": "Cell Survivor",
     "icon": "https://play-lh.googleusercontent.com/uPlHPfM1OojmQQHGA1GKUvkTuNJxrHiMemXBwiap2dhFUNqKcARF98FZk3fmhZNMWjQv8j0j4v4yxXM0gk3MZKM",
+    "est_revenue": 325426,
+    "est_revenue_fmt": "$325K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 438207236
+  },
+  {
+    "rank": 49,
+    "title": "信長の野望 真戦",
+    "developer": "Qookka Games",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.qookkagames.xczyw.gp.jp",
+    "local_name": "信長の野望 真戦",
+    "icon": "https://play-lh.googleusercontent.com/3XmTeAwhy-k2u_bN2kvYHXzzTRcDsBIRR0EZOBzf-csvFVR7M7cKo_GNToLfTgeSsdYEUcnmWtrQhBigLSddxNg",
+    "est_revenue": 325426,
+    "est_revenue_fmt": "$325K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 438207236
+  },
+  {
+    "rank": 50,
+    "title": "ヘブンバーンズレッド",
+    "developer": "WFS, Inc.",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "com.heavenburnsred",
+    "local_name": "ヘブンバーンズレッド",
+    "icon": "https://play-lh.googleusercontent.com/IzdBGRsLy5Cf9NCTd11VTBAGZX6RaOqUglTAgvl5pRRXTDjDxQc1YlWM4vykHwu2rnpOBTo-Pqh8lON2ko5aLQ",
     "est_revenue": 300000,
     "est_revenue_fmt": "$300K",
     "est_revenue_won": "",
