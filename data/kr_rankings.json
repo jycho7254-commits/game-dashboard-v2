@@ -169,6 +169,20 @@
   },
   {
     "rank": 13,
+    "title": "열혈강호: 넥스트",
+    "developer": "Kingnet Technology Limited",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.rxjhglkr.gp",
+    "local_name": "열혈강호: 넥스트",
+    "icon": "https://play-lh.googleusercontent.com/ct9hCP6C7NRwwTT3p-eIRLAJHMYuK2k2kO0tC6nc8YUCwgRos5tOuzfKmflfPOwQdfJiuNHkmifu0lhVcEmY",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "23.8억",
+    "est_revenue_krw": 2421681928
+  },
+  {
+    "rank": 14,
     "title": "Last War:Survival Game",
     "developer": "FUNFLY PTE. LTD.",
     "genre": "Game",
@@ -179,20 +193,6 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "25.9억",
-    "est_revenue_krw": 2421681928
-  },
-  {
-    "rank": 14,
-    "title": "열혈강호: 넥스트",
-    "developer": "Kingnet Technology Limited",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.rxjhglkr.gp",
-    "local_name": "열혈강호: 넥스트",
-    "icon": "https://play-lh.googleusercontent.com/ct9hCP6C7NRwwTT3p-eIRLAJHMYuK2k2kO0tC6nc8YUCwgRos5tOuzfKmflfPOwQdfJiuNHkmifu0lhVcEmY",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "23.8억",
     "est_revenue_krw": 2421681928
   },
   {
@@ -351,20 +351,6 @@
   },
   {
     "rank": 26,
-    "title": "Brawl Stars",
-    "developer": "Supercell",
-    "genre": "Game",
-    "rating": 3.7,
-    "app_id": "com.supercell.brawlstars",
-    "local_name": "브롤스타즈",
-    "icon": "https://play-lh.googleusercontent.com/wEOIM7cYyXkMExNztvFYKHJLPegXp6h81-P_JQQ_9KQvDCWK49m2zpt1mTRXO5bA2qU_Bp4em_nfMsHXmq8Z",
-    "est_revenue": 524118,
-    "est_revenue_fmt": "$524K",
-    "est_revenue_won": "10.0억",
-    "est_revenue_krw": 705137272
-  },
-  {
-    "rank": 27,
     "title": "Tasty Travels: Merge Game",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -372,10 +358,24 @@
     "app_id": "com.fatmerge.global",
     "local_name": "테이스티 트래블스",
     "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
-    "est_revenue": 462406,
-    "est_revenue_fmt": "$462K",
+    "est_revenue": 491879,
+    "est_revenue_fmt": "$492K",
     "est_revenue_won": "9.4억",
-    "est_revenue_krw": 622111252
+    "est_revenue_krw": 661763603
+  },
+  {
+    "rank": 27,
+    "title": "Brawl Stars",
+    "developer": "Supercell",
+    "genre": "Game",
+    "rating": 3.7,
+    "app_id": "com.supercell.brawlstars",
+    "local_name": "브롤스타즈",
+    "icon": "https://play-lh.googleusercontent.com/wEOIM7cYyXkMExNztvFYKHJLPegXp6h81-P_JQQ_9KQvDCWK49m2zpt1mTRXO5bA2qU_Bp4em_nfMsHXmq8Z",
+    "est_revenue": 491879,
+    "est_revenue_fmt": "$492K",
+    "est_revenue_won": "10.0억",
+    "est_revenue_krw": 661763603
   },
   {
     "rank": 28,
@@ -386,10 +386,10 @@
     "app_id": "com.nexon.fmk",
     "local_name": "FC 모바일",
     "icon": "https://play-lh.googleusercontent.com/VKo4cXzxFpu7d5ua0Exk9QB7B7wz8ePAON_Km1lkIowLCf4kpww9alW6HUy-kQ50Kimy86PG1ivGFhayc7hb",
-    "est_revenue": 462406,
-    "est_revenue_fmt": "$462K",
+    "est_revenue": 491879,
+    "est_revenue_fmt": "$492K",
     "est_revenue_won": "8.9억",
-    "est_revenue_krw": 622111252
+    "est_revenue_krw": 661763603
   },
   {
     "rank": 29,
@@ -400,10 +400,10 @@
     "app_id": "com.phs.global",
     "local_name": "라스트 어사일럼",
     "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
-    "est_revenue": 462406,
-    "est_revenue_fmt": "$462K",
+    "est_revenue": 491879,
+    "est_revenue_fmt": "$492K",
     "est_revenue_won": "8.4억",
-    "est_revenue_krw": 622111252
+    "est_revenue_krw": 661763603
   },
   {
     "rank": 30,
@@ -414,10 +414,10 @@
     "app_id": "com.kurogame.wutheringwaves.global",
     "local_name": "명조",
     "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_",
-    "est_revenue": 462406,
-    "est_revenue_fmt": "$462K",
+    "est_revenue": 491879,
+    "est_revenue_fmt": "$492K",
     "est_revenue_won": "8.0억",
-    "est_revenue_krw": 622111252
+    "est_revenue_krw": 661763603
   },
   {
     "rank": 31,
@@ -428,27 +428,13 @@
     "app_id": "com.farlightgames.pgame.gp",
     "local_name": "Clash of Critters",
     "icon": "https://play-lh.googleusercontent.com/nIjO9pFz1R7G_wct00QMBKVqAmLHs2TqiaCmSUJfnKPw7yG_VzSmp26TRGCmm98v-Mye0MtsW_xz8CHNdIFD1A",
-    "est_revenue": 462406,
-    "est_revenue_fmt": "$462K",
+    "est_revenue": 474486,
+    "est_revenue_fmt": "$474K",
     "est_revenue_won": "7.5억",
-    "est_revenue_krw": 622111252
+    "est_revenue_krw": 638363429
   },
   {
     "rank": 32,
-    "title": "컴투스프로야구V26",
-    "developer": "Com2uS",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.com2us.futurecpb.android.google.global.normal",
-    "local_name": "컴투스프로야구V26",
-    "icon": "https://play-lh.googleusercontent.com/lFrail_ogSgoETUZcsAgLG7gC4lvjcOdffEURRt5kTAaIbr3pdm7s7hrIQNMl-jTu_Hbw7NDuU9gpJZDRsqY",
-    "est_revenue": 428841,
-    "est_revenue_fmt": "$429K",
-    "est_revenue_won": "7.1억",
-    "est_revenue_krw": 576953611
-  },
-  {
-    "rank": 33,
     "title": "마비노기 모바일",
     "developer": "NEXON Company",
     "genre": "Game",
@@ -456,10 +442,24 @@
     "app_id": "com.nexon.devcat.mm",
     "local_name": "마비노기 모바일",
     "icon": "https://play-lh.googleusercontent.com/ljE3Q4kOQj0UEjbJoANQpgQ4rxdDvI1h1wARGv6jFgel-5oDIFjfTx2S0nINT8agCEOB_V3C9y61RZFoyLZ4",
-    "est_revenue": 428841,
-    "est_revenue_fmt": "$429K",
+    "est_revenue": 457430,
+    "est_revenue_fmt": "$457K",
     "est_revenue_won": "6.7억",
-    "est_revenue_krw": 576953611
+    "est_revenue_krw": 615416647
+  },
+  {
+    "rank": 33,
+    "title": "컴투스프로야구V26",
+    "developer": "Com2uS",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.com2us.futurecpb.android.google.global.normal",
+    "local_name": "컴투스프로야구V26",
+    "icon": "https://play-lh.googleusercontent.com/lFrail_ogSgoETUZcsAgLG7gC4lvjcOdffEURRt5kTAaIbr3pdm7s7hrIQNMl-jTu_Hbw7NDuU9gpJZDRsqY",
+    "est_revenue": 406537,
+    "est_revenue_fmt": "$407K",
+    "est_revenue_won": "7.1억",
+    "est_revenue_krw": 546946281
   },
   {
     "rank": 34,
@@ -561,20 +561,6 @@
   },
   {
     "rank": 41,
-    "title": "냥코 대전쟁",
-    "developer": "PONOS Corporation",
-    "genre": "Game",
-    "rating": 4.1,
-    "app_id": "jp.co.ponos.battlecatskr",
-    "local_name": "냥코 대전쟁",
-    "icon": "https://play-lh.googleusercontent.com/9fY1igv-MK4667G0NWBTVvtUCzQoY-j_9Q0ehaCsybocI-U2txomDZQ7MXexpgxgBxXNI_pSlhkhDwyzZBRYl5w",
-    "est_revenue": 287425,
-    "est_revenue_fmt": "$287K",
-    "est_revenue_won": "4.4억",
-    "est_revenue_krw": 386695516
-  },
-  {
-    "rank": 42,
     "title": "Hollywood Merge",
     "developer": "VoyagerOne IE",
     "genre": "Game",
@@ -582,10 +568,24 @@
     "app_id": "com.hollywood.merge",
     "local_name": "할리우드 머지",
     "icon": "https://play-lh.googleusercontent.com/5mzN7_uKeXNnloF-zlXGxiwKuepToEdRwbFUK_aQqk7ORLUGPsMwQK__J9IL9DBMWty-zuLvZ4FYHikK2xCttIw",
-    "est_revenue": 213144,
-    "est_revenue_fmt": "$213K",
+    "est_revenue": 222881,
+    "est_revenue_fmt": "$223K",
     "est_revenue_won": "4.2억",
-    "est_revenue_krw": 286759429
+    "est_revenue_krw": 299859383
+  },
+  {
+    "rank": 42,
+    "title": "냥코 대전쟁",
+    "developer": "PONOS Corporation",
+    "genre": "Game",
+    "rating": 4.1,
+    "app_id": "jp.co.ponos.battlecatskr",
+    "local_name": "냥코 대전쟁",
+    "icon": "https://play-lh.googleusercontent.com/9fY1igv-MK4667G0NWBTVvtUCzQoY-j_9Q0ehaCsybocI-U2txomDZQ7MXexpgxgBxXNI_pSlhkhDwyzZBRYl5w",
+    "est_revenue": 222881,
+    "est_revenue_fmt": "$223K",
+    "est_revenue_won": "4.4억",
+    "est_revenue_krw": 299859383
   },
   {
     "rank": 43,
@@ -673,20 +673,6 @@
   },
   {
     "rank": 49,
-    "title": "WPL:Texas Hold'em, MTT, Sit&Go",
-    "developer": "Zempot INC.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.zempot.wplpoker",
-    "local_name": "WPL:Texas Hold'em, MTT, Sit&Go",
-    "icon": "https://play-lh.googleusercontent.com/QQVS3cmt_fMF91ecz8fHExUP_VJUty-9dCmA7sOZQR3086-4nD-2ANOA2cOkFeiHt5eFW55CZJGpiaO_BahNZA",
-    "est_revenue": 187190,
-    "est_revenue_fmt": "$187K",
-    "est_revenue_won": "3.1억",
-    "est_revenue_krw": 251841467
-  },
-  {
-    "rank": 50,
     "title": "Flambé®: Merge & Cook",
     "developer": "Microfun Limited",
     "genre": "Game",
@@ -694,9 +680,23 @@
     "app_id": "com.cola.game",
     "local_name": "플람베",
     "icon": "https://play-lh.googleusercontent.com/DxEYTS_nNDbesjgAGulDTgl8V2cV42UUmeOGPei2c95XRW7GY_XgihSsaPF7rnRua18Egkd1-siIgbkVjq73Hg",
-    "est_revenue": 153000,
-    "est_revenue_fmt": "$153K",
+    "est_revenue": 159111,
+    "est_revenue_fmt": "$159K",
     "est_revenue_won": "3.0억",
-    "est_revenue_krw": 205842964
+    "est_revenue_krw": 214064574
+  },
+  {
+    "rank": 50,
+    "title": "WPL:Texas Hold'em, MTT, Sit&Go",
+    "developer": "Zempot INC.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.zempot.wplpoker",
+    "local_name": "WPL:Texas Hold'em, MTT, Sit&Go",
+    "icon": "https://play-lh.googleusercontent.com/QQVS3cmt_fMF91ecz8fHExUP_VJUty-9dCmA7sOZQR3086-4nD-2ANOA2cOkFeiHt5eFW55CZJGpiaO_BahNZA",
+    "est_revenue": 159111,
+    "est_revenue_fmt": "$159K",
+    "est_revenue_won": "3.1억",
+    "est_revenue_krw": 214064574
   }
 ]
