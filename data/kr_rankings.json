@@ -337,20 +337,6 @@
   },
   {
     "rank": 25,
-    "title": "Gardenscapes",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.playrix.gardenscapes",
-    "local_name": "가든스케이프",
-    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
-    "est_revenue": 524118,
-    "est_revenue_fmt": "$524K",
-    "est_revenue_won": "10.6억",
-    "est_revenue_krw": 702771174
-  },
-  {
-    "rank": 26,
     "title": "Tasty Travels: Merge Game",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -358,9 +344,23 @@
     "app_id": "com.fatmerge.global",
     "local_name": "테이스티 트래블스",
     "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
+    "est_revenue": 524118,
+    "est_revenue_fmt": "$524K",
+    "est_revenue_won": "10.0억",
+    "est_revenue_krw": 702771174
+  },
+  {
+    "rank": 26,
+    "title": "Gardenscapes",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.playrix.gardenscapes",
+    "local_name": "가든스케이프",
+    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
     "est_revenue": 491879,
     "est_revenue_fmt": "$492K",
-    "est_revenue_won": "10.0억",
+    "est_revenue_won": "10.6억",
     "est_revenue_krw": 659543047
   },
   {
