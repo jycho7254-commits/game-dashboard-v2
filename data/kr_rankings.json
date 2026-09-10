@@ -267,20 +267,6 @@
   },
   {
     "rank": 20,
-    "title": "Seaside Escape®: Merge & Story",
-    "developer": "Microfun Limited",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.gamedots.seasideescape",
-    "local_name": "시사이드 이스케이프",
-    "icon": "https://play-lh.googleusercontent.com/k6h9_TspVCG4TIgvxox3eWp5Cwd04v6cL7msueboI5IUPGLPnhh8RHIZtiamoLJK75Mk6yo4awXd4XVW99XO8Q",
-    "est_revenue": 741582,
-    "est_revenue_fmt": "$742K",
-    "est_revenue_won": "13.9억",
-    "est_revenue_krw": 992981786
-  },
-  {
-    "rank": 21,
     "title": "Tasty Travels: Merge Game",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -288,9 +274,23 @@
     "app_id": "com.fatmerge.global",
     "local_name": "테이스티 트래블스",
     "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
+    "est_revenue": 741582,
+    "est_revenue_fmt": "$742K",
+    "est_revenue_won": "15.0억",
+    "est_revenue_krw": 992981786
+  },
+  {
+    "rank": 21,
+    "title": "Seaside Escape®: Merge & Story",
+    "developer": "Microfun Limited",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.gamedots.seasideescape",
+    "local_name": "시사이드 이스케이프",
+    "icon": "https://play-lh.googleusercontent.com/k6h9_TspVCG4TIgvxox3eWp5Cwd04v6cL7msueboI5IUPGLPnhh8RHIZtiamoLJK75Mk6yo4awXd4XVW99XO8Q",
     "est_revenue": 688800,
     "est_revenue_fmt": "$689K",
-    "est_revenue_won": "15.0억",
+    "est_revenue_won": "13.9억",
     "est_revenue_krw": 922306439
   },
   {
@@ -323,20 +323,6 @@
   },
   {
     "rank": 24,
-    "title": "Last Z: Survival Shooter",
-    "developer": "Omnilojo Pte Ltd",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.readygo.barrel.gp",
-    "local_name": "라스트 Z: 서바이벌 슈터",
-    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
-    "est_revenue": 598374,
-    "est_revenue_fmt": "$598K",
-    "est_revenue_won": "10.6억",
-    "est_revenue_krw": 801225600
-  },
-  {
-    "rank": 25,
     "title": "Wuthering Waves",
     "developer": "HK KURO GAMES LIMITED",
     "genre": "Game",
@@ -347,6 +333,20 @@
     "est_revenue": 598374,
     "est_revenue_fmt": "$598K",
     "est_revenue_won": "11.3억",
+    "est_revenue_krw": 801225600
+  },
+  {
+    "rank": 25,
+    "title": "Last Z: Survival Shooter",
+    "developer": "Omnilojo Pte Ltd",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.readygo.barrel.gp",
+    "local_name": "라스트 Z: 서바이벌 슈터",
+    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
+    "est_revenue": 598374,
+    "est_revenue_fmt": "$598K",
+    "est_revenue_won": "10.6억",
     "est_revenue_krw": 801225600
   },
   {
@@ -603,20 +603,6 @@
   },
   {
     "rank": 44,
-    "title": "Mystery Town: Merge Games",
-    "developer": "Cedar Games Studio",
-    "genre": "Game",
-    "rating": 4.9,
-    "app_id": "com.cedargames.mysterytown",
-    "local_name": "미스터리 타운",
-    "icon": "https://play-lh.googleusercontent.com/uVjVMEJrhT-xRoUtKIUj8tOVSbCWw4IsRHaTDYICRNjQycUj6SucVpeoAPiNZWeJ5JuzIt_ZZRo1X1pW6XJFAQE",
-    "est_revenue": 195380,
-    "est_revenue_fmt": "$195K",
-    "est_revenue_won": "3.7억",
-    "est_revenue_krw": 261614739
-  },
-  {
-    "rank": 45,
     "title": "State of Survival: Zombie War",
     "developer": "FunPlus International AG",
     "genre": "Game",
@@ -624,10 +610,24 @@
     "app_id": "com.kingsgroup.sos",
     "local_name": "S.O.S: 스테이트 오브 서바이벌",
     "icon": "https://play-lh.googleusercontent.com/v4gBYHQkkjokISNaGIogV1PyR6vFJr-dFvoybqbtW5g4Zwk9l2mRHOL0rSwbigyVIIFe3FDuiqtESq4SJAeMNg",
-    "est_revenue": 195380,
-    "est_revenue_fmt": "$195K",
+    "est_revenue": 222881,
+    "est_revenue_fmt": "$223K",
     "est_revenue_won": "3.8억",
-    "est_revenue_krw": 261614739
+    "est_revenue_krw": 298438707
+  },
+  {
+    "rank": 45,
+    "title": "Mystery Town: Merge Games",
+    "developer": "Cedar Games Studio",
+    "genre": "Game",
+    "rating": 4.9,
+    "app_id": "com.cedargames.mysterytown",
+    "local_name": "미스터리 타운",
+    "icon": "https://play-lh.googleusercontent.com/uVjVMEJrhT-xRoUtKIUj8tOVSbCWw4IsRHaTDYICRNjQycUj6SucVpeoAPiNZWeJ5JuzIt_ZZRo1X1pW6XJFAQE",
+    "est_revenue": 187267,
+    "est_revenue_fmt": "$187K",
+    "est_revenue_won": "3.7억",
+    "est_revenue_krw": 250751394
   },
   {
     "rank": 46,
