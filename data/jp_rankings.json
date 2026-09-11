@@ -659,20 +659,6 @@
   },
   {
     "rank": 48,
-    "title": "Fishdom",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.playrix.fishdomdd.gplay",
-    "local_name": "Fishdom",
-    "icon": "https://play-lh.googleusercontent.com/xCNnX62AirslBmOf5Zp2fySAT9S9XsMUAK3PUGeLVCO4uYHGvfG8lHEof253BQ2q1vS85qsySHt8imuLfIMw",
-    "est_revenue": 300835,
-    "est_revenue_fmt": "$301K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 404641598
-  },
-  {
-    "rank": 49,
     "title": "Chaos Zero Nightmare",
     "developer": "Smilegate, Inc.",
     "genre": "Game",
@@ -686,7 +672,7 @@
     "est_revenue_krw": 404641598
   },
   {
-    "rank": 50,
+    "rank": 49,
     "title": "あんさんぶるスターズ！！Music",
     "developer": "Happy Elements K.K",
     "genre": "Game",
@@ -694,9 +680,23 @@
     "app_id": "jp.co.happyelements.boysm",
     "local_name": "あんさんぶるスターズ！！Music",
     "icon": "https://play-lh.googleusercontent.com/McMZLXR9hYWUG883v6EVIh5k9P5iME0wPSbgd_bhVNU9hkUV-NlpXsfR4Je8o9TrlF52jzhMUkRQcefF5ZVkFw",
-    "est_revenue": 285000,
-    "est_revenue_fmt": "$285K",
+    "est_revenue": 296739,
+    "est_revenue_fmt": "$297K",
     "est_revenue_won": "",
-    "est_revenue_krw": 383342548
+    "est_revenue_krw": 399132226
+  },
+  {
+    "rank": 50,
+    "title": "Pokémon TCG Pocket",
+    "developer": "The Pokémon Company",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "jp.pokemon.pokemontcgp",
+    "local_name": "Pokémon TCG Pocket",
+    "icon": "https://play-lh.googleusercontent.com/qdEdyVc19jfittS0bnDUnXLRM7jOPZzfHXEYoChPWOtzMrtwU6t3ZVm_FQ7wbeDYFlqLBuWCDK0Q6c1nEwYKTA",
+    "est_revenue": 296739,
+    "est_revenue_fmt": "$297K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 399132226
   }
 ]
