@@ -99,20 +99,6 @@
   },
   {
     "rank": 8,
-    "title": "Roblox",
-    "developer": "Roblox Corporation",
-    "genre": "Game",
-    "rating": 3.9,
-    "app_id": "com.roblox.client",
-    "local_name": "로블록스",
-    "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
-    "est_revenue": 3722718,
-    "est_revenue_fmt": "$3.7M",
-    "est_revenue_won": "46.2억",
-    "est_revenue_krw": 5007284925
-  },
-  {
-    "rank": 9,
     "title": "Gossip Harbor®: Merge & Story",
     "developer": "Microfun Limited",
     "genre": "Game",
@@ -120,9 +106,23 @@
     "app_id": "com.mergegames.gossipharbor",
     "local_name": "가십 하버",
     "icon": "https://play-lh.googleusercontent.com/HLRg8oInVYJV8Uebxlh1dTH4j7OTBMIWOPZY7A7ryW9UB8K4i7HCOqkGfSLORsK-XzqhnJcJM0mjObVKZYL8zA",
+    "est_revenue": 3722718,
+    "est_revenue_fmt": "$3.7M",
+    "est_revenue_won": "41.6억",
+    "est_revenue_krw": 5007284925
+  },
+  {
+    "rank": 9,
+    "title": "Roblox",
+    "developer": "Roblox Corporation",
+    "genre": "Game",
+    "rating": 3.9,
+    "app_id": "com.roblox.client",
+    "local_name": "로블록스",
+    "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
     "est_revenue": 2536774,
     "est_revenue_fmt": "$2.5M",
-    "est_revenue_won": "41.6억",
+    "est_revenue_won": "46.2억",
     "est_revenue_krw": 3412117224
   },
   {
@@ -155,20 +155,6 @@
   },
   {
     "rank": 12,
-    "title": "열혈강호: 넥스트",
-    "developer": "Kingnet Technology Limited",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.rxjhglkr.gp",
-    "local_name": "열혈강호: 넥스트",
-    "icon": "https://play-lh.googleusercontent.com/ct9hCP6C7NRwwTT3p-eIRLAJHMYuK2k2kO0tC6nc8YUCwgRos5tOuzfKmflfPOwQdfJiuNHkmifu0lhVcEmY",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "31.4억",
-    "est_revenue_krw": 2421110830
-  },
-  {
-    "rank": 13,
     "title": "Pokémon GO",
     "developer": "Scopely Explore, Inc.",
     "genre": "Game",
@@ -179,6 +165,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "28.4억",
+    "est_revenue_krw": 2421110830
+  },
+  {
+    "rank": 13,
+    "title": "열혈강호: 넥스트",
+    "developer": "Kingnet Technology Limited",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.rxjhglkr.gp",
+    "local_name": "열혈강호: 넥스트",
+    "icon": "https://play-lh.googleusercontent.com/ct9hCP6C7NRwwTT3p-eIRLAJHMYuK2k2kO0tC6nc8YUCwgRos5tOuzfKmflfPOwQdfJiuNHkmifu0lhVcEmY",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "31.4억",
     "est_revenue_krw": 2421110830
   },
   {
@@ -253,20 +253,6 @@
   },
   {
     "rank": 19,
-    "title": "로그W : 리메인즈 오브 갓",
-    "developer": "Efun Company",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.krd8.google",
-    "local_name": "로그W : 리메인즈 오브 갓",
-    "icon": "https://play-lh.googleusercontent.com/wPufQAobuu_bMHJyHAmyZLteiFXFFfGyr_II-agf6JMw518mjIbDzFdR3LXbuKvT12TQ2kPvjRvLN-nyJ8NAyA",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "16.1억",
-    "est_revenue_krw": 2421110830
-  },
-  {
-    "rank": 20,
     "title": "Lucky Defense",
     "developer": "111%",
     "genre": "Game",
@@ -280,7 +266,49 @@
     "est_revenue_krw": 2421110830
   },
   {
+    "rank": 20,
+    "title": "로그W : 리메인즈 오브 갓",
+    "developer": "Efun Company",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.krd8.google",
+    "local_name": "로그W : 리메인즈 오브 갓",
+    "icon": "https://play-lh.googleusercontent.com/wPufQAobuu_bMHJyHAmyZLteiFXFFfGyr_II-agf6JMw518mjIbDzFdR3LXbuKvT12TQ2kPvjRvLN-nyJ8NAyA",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "16.1억",
+    "est_revenue_krw": 2421110830
+  },
+  {
     "rank": 21,
+    "title": "CookieRun: Crumble - Idle RPG",
+    "developer": "Devsisters Corporation",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.devsisters.cc",
+    "local_name": "쿠키런: 크럼블",
+    "icon": "https://play-lh.googleusercontent.com/nH4gayvv0-dHdjwjxUIKY9QWr_6dYnNeqFNHPwckQ3dgvJgrsJPdkIEyevgE09j0IGUiAIwpniaoAZ7Xn0PH",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "12.9억",
+    "est_revenue_krw": 2421110830
+  },
+  {
+    "rank": 22,
+    "title": "Seaside Escape®: Merge & Story",
+    "developer": "Microfun Limited",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.gamedots.seasideescape",
+    "local_name": "시사이드 이스케이프",
+    "icon": "https://play-lh.googleusercontent.com/k6h9_TspVCG4TIgvxox3eWp5Cwd04v6cL7msueboI5IUPGLPnhh8RHIZtiamoLJK75Mk6yo4awXd4XVW99XO8Q",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "13.9억",
+    "est_revenue_krw": 2421110830
+  },
+  {
+    "rank": 23,
     "title": "GODDESS OF VICTORY: NIKKE",
     "developer": "Level Infinite",
     "genre": "Game",
@@ -294,49 +322,7 @@
     "est_revenue_krw": 2421110830
   },
   {
-    "rank": 22,
-    "title": "CookieRun: Crumble - Idle RPG",
-    "developer": "Devsisters Corporation",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.devsisters.cc",
-    "local_name": "쿠키런: 크럼블",
-    "icon": "https://play-lh.googleusercontent.com/nH4gayvv0-dHdjwjxUIKY9QWr_6dYnNeqFNHPwckQ3dgvJgrsJPdkIEyevgE09j0IGUiAIwpniaoAZ7Xn0PH",
-    "est_revenue": 754459,
-    "est_revenue_fmt": "$754K",
-    "est_revenue_won": "12.9억",
-    "est_revenue_krw": 1014793809
-  },
-  {
-    "rank": 23,
-    "title": "Tasty Travels: Merge Game",
-    "developer": "Century Games PTE. LTD.",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.fatmerge.global",
-    "local_name": "테이스티 트래블스",
-    "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
-    "est_revenue": 598374,
-    "est_revenue_fmt": "$598K",
-    "est_revenue_won": "15.0억",
-    "est_revenue_krw": 804849873
-  },
-  {
     "rank": 24,
-    "title": "Seaside Escape®: Merge & Story",
-    "developer": "Microfun Limited",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.gamedots.seasideescape",
-    "local_name": "시사이드 이스케이프",
-    "icon": "https://play-lh.googleusercontent.com/k6h9_TspVCG4TIgvxox3eWp5Cwd04v6cL7msueboI5IUPGLPnhh8RHIZtiamoLJK75Mk6yo4awXd4XVW99XO8Q",
-    "est_revenue": 559479,
-    "est_revenue_fmt": "$559K",
-    "est_revenue_won": "13.9억",
-    "est_revenue_krw": 752533703
-  },
-  {
-    "rank": 25,
     "title": "Coop TD: Together",
     "developer": "Supermagic",
     "genre": "Game",
@@ -344,27 +330,27 @@
     "app_id": "com.percent.aos.cooptd",
     "local_name": "쿱 TD: 투게더",
     "icon": "https://play-lh.googleusercontent.com/vTxEJvWJq3cIbideJTNd9ZAYolS4ll7hUlMT3piDAsP6y84EPI-k1tPpoALoCwvmbJMn3LBW-sjzhHpERqfY",
-    "est_revenue": 559479,
-    "est_revenue_fmt": "$559K",
+    "est_revenue": 658210,
+    "est_revenue_fmt": "$658K",
     "est_revenue_won": "5.3억",
-    "est_revenue_krw": 752533703
+    "est_revenue_krw": 885332977
+  },
+  {
+    "rank": 25,
+    "title": "Tasty Travels: Merge Game",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.fatmerge.global",
+    "local_name": "테이스티 트래블스",
+    "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
+    "est_revenue": 524118,
+    "est_revenue_fmt": "$524K",
+    "est_revenue_won": "15.0억",
+    "est_revenue_krw": 704970981
   },
   {
     "rank": 26,
-    "title": "Gardenscapes",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.playrix.gardenscapes",
-    "local_name": "가든스케이프",
-    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
-    "est_revenue": 491879,
-    "est_revenue_fmt": "$492K",
-    "est_revenue_won": "12.1억",
-    "est_revenue_krw": 661607541
-  },
-  {
-    "rank": 27,
     "title": "Last Z: Survival Shooter",
     "developer": "Omnilojo Pte Ltd",
     "genre": "Game",
@@ -372,10 +358,24 @@
     "app_id": "com.readygo.barrel.gp",
     "local_name": "라스트 Z: 서바이벌 슈터",
     "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
-    "est_revenue": 491879,
-    "est_revenue_fmt": "$492K",
+    "est_revenue": 524118,
+    "est_revenue_fmt": "$524K",
     "est_revenue_won": "11.3억",
-    "est_revenue_krw": 661607541
+    "est_revenue_krw": 704970981
+  },
+  {
+    "rank": 27,
+    "title": "Gardenscapes",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.playrix.gardenscapes",
+    "local_name": "가든스케이프",
+    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
+    "est_revenue": 462406,
+    "est_revenue_fmt": "$462K",
+    "est_revenue_won": "12.1억",
+    "est_revenue_krw": 621964541
   },
   {
     "rank": 28,
@@ -386,10 +386,10 @@
     "app_id": "com.phs.global",
     "local_name": "라스트 어사일럼",
     "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
-    "est_revenue": 491879,
-    "est_revenue_fmt": "$492K",
+    "est_revenue": 462406,
+    "est_revenue_fmt": "$462K",
     "est_revenue_won": "9.4억",
-    "est_revenue_krw": 661607541
+    "est_revenue_krw": 621964541
   },
   {
     "rank": 29,
@@ -400,10 +400,10 @@
     "app_id": "com.HoYoverse.hkrpgoversea",
     "local_name": "붕괴: 스타레일",
     "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
-    "est_revenue": 491879,
-    "est_revenue_fmt": "$492K",
+    "est_revenue": 462406,
+    "est_revenue_fmt": "$462K",
     "est_revenue_won": "6.0억",
-    "est_revenue_krw": 661607541
+    "est_revenue_krw": 621964541
   },
   {
     "rank": 30,
@@ -414,10 +414,10 @@
     "app_id": "com.farlightgames.pgame.gp",
     "local_name": "Clash of Critters",
     "icon": "https://play-lh.googleusercontent.com/nIjO9pFz1R7G_wct00QMBKVqAmLHs2TqiaCmSUJfnKPw7yG_VzSmp26TRGCmm98v-Mye0MtsW_xz8CHNdIFD1A",
-    "est_revenue": 491879,
-    "est_revenue_fmt": "$492K",
+    "est_revenue": 462406,
+    "est_revenue_fmt": "$462K",
     "est_revenue_won": "8.0억",
-    "est_revenue_krw": 661607541
+    "est_revenue_krw": 621964541
   },
   {
     "rank": 31,
@@ -463,6 +463,20 @@
   },
   {
     "rank": 34,
+    "title": "Pmang Poker : Casino Royal",
+    "developer": "NEOWIZ corp",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.neowiz.games.poker",
+    "local_name": "피망 포커",
+    "icon": "https://play-lh.googleusercontent.com/MkI60z70bUF0YIi9loQzKm08WLinhruANPb6D7j1Gh1iPiLrfL1W-2ZQ0Q8ICCMdkFY0jDlTjx9_iZFVGOourg",
+    "est_revenue": 329102,
+    "est_revenue_fmt": "$329K",
+    "est_revenue_won": "7.1억",
+    "est_revenue_krw": 442662453
+  },
+  {
+    "rank": 35,
     "title": "컴투스프로야구V26",
     "developer": "Com2uS",
     "genre": "Game",
@@ -476,35 +490,7 @@
     "est_revenue_krw": 442662453
   },
   {
-    "rank": 35,
-    "title": "Vampir",
-    "developer": "Netmarble",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.netmarble.thered",
-    "local_name": "뱀피르",
-    "icon": "https://play-lh.googleusercontent.com/O3AtBJqCPmOHow-d2tskDjwXGWpYpgz2bPEJC5s-FQ1BzmtxnFTQ4h6OTTJ74pyih8KBs78UsTk7w6PAHkbt",
-    "est_revenue": 329102,
-    "est_revenue_fmt": "$329K",
-    "est_revenue_won": "4.8억",
-    "est_revenue_krw": 442662453
-  },
-  {
     "rank": 36,
-    "title": "Pmang Poker : Casino Royal",
-    "developer": "NEOWIZ corp",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.neowiz.games.poker",
-    "local_name": "피망 포커",
-    "icon": "https://play-lh.googleusercontent.com/MkI60z70bUF0YIi9loQzKm08WLinhruANPb6D7j1Gh1iPiLrfL1W-2ZQ0Q8ICCMdkFY0jDlTjx9_iZFVGOourg",
-    "est_revenue": 315480,
-    "est_revenue_fmt": "$315K",
-    "est_revenue_won": "7.1억",
-    "est_revenue_krw": 424340025
-  },
-  {
-    "rank": 37,
     "title": "AION2",
     "developer": "NC Corporation",
     "genre": "Game",
@@ -512,10 +498,24 @@
     "app_id": "com.ncsoft.aion2",
     "local_name": "아이온2",
     "icon": "https://play-lh.googleusercontent.com/aqqsbPuYk-dU9f0qnyEkHje_IIchFrOhDQfDXozQbD5_n_Hxi18ja4GyEbNYuFD9inoFBUYfZFWK4zSOjsy8Aw",
-    "est_revenue": 315480,
-    "est_revenue_fmt": "$315K",
+    "est_revenue": 329102,
+    "est_revenue_fmt": "$329K",
     "est_revenue_won": "",
-    "est_revenue_krw": 424340025
+    "est_revenue_krw": 442662453
+  },
+  {
+    "rank": 37,
+    "title": "Vampir",
+    "developer": "Netmarble",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.netmarble.thered",
+    "local_name": "뱀피르",
+    "icon": "https://play-lh.googleusercontent.com/O3AtBJqCPmOHow-d2tskDjwXGWpYpgz2bPEJC5s-FQ1BzmtxnFTQ4h6OTTJ74pyih8KBs78UsTk7w6PAHkbt",
+    "est_revenue": 316176,
+    "est_revenue_fmt": "$316K",
+    "est_revenue_won": "4.8억",
+    "est_revenue_krw": 425276188
   },
   {
     "rank": 38,
@@ -561,16 +561,16 @@
   },
   {
     "rank": 41,
-    "title": "Lineage W",
-    "developer": "NC Corporation",
+    "title": "EA SPORTS FC Online M",
+    "developer": "NEXON Company",
     "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.ncsoft.lineagew",
-    "local_name": "리니지W",
-    "icon": "https://play-lh.googleusercontent.com/VvwlyO5rMOgeedcbDmvBQv-vDoCeHqxBdSHqTrA3xUZAEuRcAwTBznrJBwkj3_xvhUTkLJ4D98RT1fZTtu8W",
+    "rating": 2.3,
+    "app_id": "com.nexon.fo4m",
+    "local_name": "FC 온라인 M",
+    "icon": "https://play-lh.googleusercontent.com/3kHUd_bPqo2Mz00jcm8gxIjgawGnkg1w7V1KZfQ-UalXUj8QrLwqmGxpUNniLQ4o3exMUCl_lKa5KOolaOqBFdo",
     "est_revenue": 233251,
     "est_revenue_fmt": "$233K",
-    "est_revenue_won": "4.2억",
+    "est_revenue_won": "3.4억",
     "est_revenue_krw": 313736957
   },
   {
@@ -603,16 +603,16 @@
   },
   {
     "rank": 44,
-    "title": "EA SPORTS FC Online M",
-    "developer": "NEXON Company",
+    "title": "Lineage W",
+    "developer": "NC Corporation",
     "genre": "Game",
-    "rating": 2.3,
-    "app_id": "com.nexon.fo4m",
-    "local_name": "FC 온라인 M",
-    "icon": "https://play-lh.googleusercontent.com/3kHUd_bPqo2Mz00jcm8gxIjgawGnkg1w7V1KZfQ-UalXUj8QrLwqmGxpUNniLQ4o3exMUCl_lKa5KOolaOqBFdo",
+    "rating": 3.8,
+    "app_id": "com.ncsoft.lineagew",
+    "local_name": "리니지W",
+    "icon": "https://play-lh.googleusercontent.com/VvwlyO5rMOgeedcbDmvBQv-vDoCeHqxBdSHqTrA3xUZAEuRcAwTBznrJBwkj3_xvhUTkLJ4D98RT1fZTtu8W",
     "est_revenue": 233251,
     "est_revenue_fmt": "$233K",
-    "est_revenue_won": "3.4억",
+    "est_revenue_won": "4.2억",
     "est_revenue_krw": 313736957
   },
   {
