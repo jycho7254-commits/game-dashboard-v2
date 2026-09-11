@@ -211,20 +211,6 @@
   },
   {
     "rank": 16,
-    "title": "오딘: 발할라 라이징",
-    "developer": "Kakao Games Corp.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.kakaogames.odin",
-    "local_name": "오딘: 발할라 라이징",
-    "icon": "https://play-lh.googleusercontent.com/65JquVIM391Il8M5oXrUzwTOFvFn72Yef4EJGWLBp190MflgritBJqiMuSjoK_ZeA2jF53OV9rRNgAXRm8_scQ",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "22.0억",
-    "est_revenue_krw": 2421110830
-  },
-  {
-    "rank": 17,
     "title": "한게임 포커",
     "developer": "NHN Corp.",
     "genre": "Game",
@@ -238,7 +224,7 @@
     "est_revenue_krw": 2421110830
   },
   {
-    "rank": 18,
+    "rank": 17,
     "title": "한게임포커 클래식 : 7포커 홀덤 섯다 훌라 슬롯",
     "developer": "NHN Corp.",
     "genre": "Game",
@@ -252,21 +238,21 @@
     "est_revenue_krw": 2421110830
   },
   {
-    "rank": 19,
-    "title": "Lucky Defense",
-    "developer": "111%",
+    "rank": 18,
+    "title": "오딘: 발할라 라이징",
+    "developer": "Kakao Games Corp.",
     "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.percent.aos.luckydefense",
-    "local_name": "러키 디펜스",
-    "icon": "https://play-lh.googleusercontent.com/1NktNgA6C5ghp39v_vlHz_P1niuK3MTA0W5fVX0LoqsdUavVre6LkwligdFlcMd1OsN6qX-zWciBexAvY3myLaI",
+    "rating": 4.5,
+    "app_id": "com.kakaogames.odin",
+    "local_name": "오딘: 발할라 라이징",
+    "icon": "https://play-lh.googleusercontent.com/65JquVIM391Il8M5oXrUzwTOFvFn72Yef4EJGWLBp190MflgritBJqiMuSjoK_ZeA2jF53OV9rRNgAXRm8_scQ",
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "18.6억",
+    "est_revenue_won": "22.0억",
     "est_revenue_krw": 2421110830
   },
   {
-    "rank": 20,
+    "rank": 19,
     "title": "로그W : 리메인즈 오브 갓",
     "developer": "Efun Company",
     "genre": "Game",
@@ -277,6 +263,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "16.1억",
+    "est_revenue_krw": 2421110830
+  },
+  {
+    "rank": 20,
+    "title": "Lucky Defense",
+    "developer": "111%",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.percent.aos.luckydefense",
+    "local_name": "러키 디펜스",
+    "icon": "https://play-lh.googleusercontent.com/1NktNgA6C5ghp39v_vlHz_P1niuK3MTA0W5fVX0LoqsdUavVre6LkwligdFlcMd1OsN6qX-zWciBexAvY3myLaI",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "18.6억",
     "est_revenue_krw": 2421110830
   },
   {
@@ -309,20 +309,6 @@
   },
   {
     "rank": 23,
-    "title": "Seaside Escape®: Merge & Story",
-    "developer": "Microfun Limited",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.gamedots.seasideescape",
-    "local_name": "시사이드 이스케이프",
-    "icon": "https://play-lh.googleusercontent.com/k6h9_TspVCG4TIgvxox3eWp5Cwd04v6cL7msueboI5IUPGLPnhh8RHIZtiamoLJK75Mk6yo4awXd4XVW99XO8Q",
-    "est_revenue": 598374,
-    "est_revenue_fmt": "$598K",
-    "est_revenue_won": "13.9억",
-    "est_revenue_krw": 804849873
-  },
-  {
-    "rank": 24,
     "title": "Tasty Travels: Merge Game",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -330,9 +316,23 @@
     "app_id": "com.fatmerge.global",
     "local_name": "테이스티 트래블스",
     "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
+    "est_revenue": 598374,
+    "est_revenue_fmt": "$598K",
+    "est_revenue_won": "15.0억",
+    "est_revenue_krw": 804849873
+  },
+  {
+    "rank": 24,
+    "title": "Seaside Escape®: Merge & Story",
+    "developer": "Microfun Limited",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.gamedots.seasideescape",
+    "local_name": "시사이드 이스케이프",
+    "icon": "https://play-lh.googleusercontent.com/k6h9_TspVCG4TIgvxox3eWp5Cwd04v6cL7msueboI5IUPGLPnhh8RHIZtiamoLJK75Mk6yo4awXd4XVW99XO8Q",
     "est_revenue": 559479,
     "est_revenue_fmt": "$559K",
-    "est_revenue_won": "15.0억",
+    "est_revenue_won": "13.9억",
     "est_revenue_krw": 752533703
   },
   {
@@ -561,6 +561,20 @@
   },
   {
     "rank": 41,
+    "title": "Lineage W",
+    "developer": "NC Corporation",
+    "genre": "Game",
+    "rating": 3.8,
+    "app_id": "com.ncsoft.lineagew",
+    "local_name": "리니지W",
+    "icon": "https://play-lh.googleusercontent.com/VvwlyO5rMOgeedcbDmvBQv-vDoCeHqxBdSHqTrA3xUZAEuRcAwTBznrJBwkj3_xvhUTkLJ4D98RT1fZTtu8W",
+    "est_revenue": 233251,
+    "est_revenue_fmt": "$233K",
+    "est_revenue_won": "4.2억",
+    "est_revenue_krw": 313736957
+  },
+  {
+    "rank": 42,
     "title": "냥코 대전쟁",
     "developer": "PONOS Corporation",
     "genre": "Game",
@@ -574,7 +588,7 @@
     "est_revenue_krw": 313736957
   },
   {
-    "rank": 42,
+    "rank": 43,
     "title": "마비노기 모바일",
     "developer": "NEXON Company",
     "genre": "Game",
@@ -588,7 +602,7 @@
     "est_revenue_krw": 313736957
   },
   {
-    "rank": 43,
+    "rank": 44,
     "title": "EA SPORTS FC Online M",
     "developer": "NEXON Company",
     "genre": "Game",
@@ -599,20 +613,6 @@
     "est_revenue": 233251,
     "est_revenue_fmt": "$233K",
     "est_revenue_won": "3.4억",
-    "est_revenue_krw": 313736957
-  },
-  {
-    "rank": 44,
-    "title": "Lineage W",
-    "developer": "NC Corporation",
-    "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.ncsoft.lineagew",
-    "local_name": "리니지W",
-    "icon": "https://play-lh.googleusercontent.com/VvwlyO5rMOgeedcbDmvBQv-vDoCeHqxBdSHqTrA3xUZAEuRcAwTBznrJBwkj3_xvhUTkLJ4D98RT1fZTtu8W",
-    "est_revenue": 233251,
-    "est_revenue_fmt": "$233K",
-    "est_revenue_won": "4.2억",
     "est_revenue_krw": 313736957
   },
   {
