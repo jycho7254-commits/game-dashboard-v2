@@ -183,20 +183,6 @@
   },
   {
     "rank": 14,
-    "title": "学園アイドルマスター",
-    "developer": "Bandai Namco Entertainment Inc.",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.bandainamcoent.idolmaster_gakuen",
-    "local_name": "学園アイドルマスター",
-    "icon": "https://play-lh.googleusercontent.com/ch_SGwCMoLElrzColmSthRPYxzv608YoyBx4tXY3ciM8Bg4fLxKhRHdeoqPSbygFruy62D9p5EdGAwLW8KGTfwI",
-    "est_revenue": 7525621,
-    "est_revenue_fmt": "$7.5M",
-    "est_revenue_won": "58.6억",
-    "est_revenue_krw": 10103405668
-  },
-  {
-    "rank": 15,
     "title": "Honkai: Star Rail",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -204,9 +190,23 @@
     "app_id": "com.HoYoverse.hkrpgoversea",
     "local_name": "崩壊:スターレイル",
     "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
+    "est_revenue": 7525621,
+    "est_revenue_fmt": "$7.5M",
+    "est_revenue_won": "55.0억",
+    "est_revenue_krw": 10103405668
+  },
+  {
+    "rank": 15,
+    "title": "学園アイドルマスター",
+    "developer": "Bandai Namco Entertainment Inc.",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.bandainamcoent.idolmaster_gakuen",
+    "local_name": "学園アイドルマスター",
+    "icon": "https://play-lh.googleusercontent.com/ch_SGwCMoLElrzColmSthRPYxzv608YoyBx4tXY3ciM8Bg4fLxKhRHdeoqPSbygFruy62D9p5EdGAwLW8KGTfwI",
     "est_revenue": 7150122,
     "est_revenue_fmt": "$7.2M",
-    "est_revenue_won": "55.0억",
+    "est_revenue_won": "58.6억",
     "est_revenue_krw": 9599285314
   },
   {
@@ -519,20 +519,6 @@
   },
   {
     "rank": 38,
-    "title": "旦那様の一発逆転人生",
-    "developer": "37Games-Oversea",
-    "genre": "Game",
-    "rating": 2.8,
-    "app_id": "com.jp.beauty",
-    "local_name": "旦那様の一発逆転人生",
-    "icon": "https://play-lh.googleusercontent.com/dMZpIM_uav-hfQKPl5XUjHB98vvUJJl_7U99lE1sIMJ447lPXCn93_SiInconGTh89-ia18k5Q8dJF799wXctQ",
-    "est_revenue": 479536,
-    "est_revenue_fmt": "$480K",
-    "est_revenue_won": "17.1억",
-    "est_revenue_krw": 643793614
-  },
-  {
-    "rank": 39,
     "title": "Pokémon Sleep",
     "developer": "The Pokémon Company",
     "genre": "Game",
@@ -543,6 +529,20 @@
     "est_revenue": 479536,
     "est_revenue_fmt": "$480K",
     "est_revenue_won": "17.8억",
+    "est_revenue_krw": 643793614
+  },
+  {
+    "rank": 39,
+    "title": "旦那様の一発逆転人生",
+    "developer": "37Games-Oversea",
+    "genre": "Game",
+    "rating": 2.8,
+    "app_id": "com.jp.beauty",
+    "local_name": "旦那様の一発逆転人生",
+    "icon": "https://play-lh.googleusercontent.com/dMZpIM_uav-hfQKPl5XUjHB98vvUJJl_7U99lE1sIMJ447lPXCn93_SiInconGTh89-ia18k5Q8dJF799wXctQ",
+    "est_revenue": 479536,
+    "est_revenue_fmt": "$480K",
+    "est_revenue_won": "17.1억",
     "est_revenue_krw": 643793614
   },
   {
@@ -617,6 +617,20 @@
   },
   {
     "rank": 45,
+    "title": "Chaos Zero Nightmare",
+    "developer": "Smilegate, Inc.",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.smilegate.chaoszero.stove.google",
+    "local_name": "Chaos Zero Nightmare",
+    "icon": "https://play-lh.googleusercontent.com/rZ0kLPx7Y_zRavJ1TImLv3oj0HYRrye8K9wJOuegTIrfxaS2qyGu9tWJcXphO0ELMfj3BgOSG_BPKKVST6zDPg",
+    "est_revenue": 328093,
+    "est_revenue_fmt": "$328K",
+    "est_revenue_won": "13.1억",
+    "est_revenue_krw": 440476165
+  },
+  {
+    "rank": 46,
     "title": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
     "developer": "SEGA CORPORATION",
     "genre": "Game",
@@ -630,7 +644,7 @@
     "est_revenue_krw": 440476165
   },
   {
-    "rank": 46,
+    "rank": 47,
     "title": "Cell Survivor",
     "developer": "Snap Brain Games",
     "genre": "Game",
@@ -641,20 +655,6 @@
     "est_revenue": 328093,
     "est_revenue_fmt": "$328K",
     "est_revenue_won": "13.5억",
-    "est_revenue_krw": 440476165
-  },
-  {
-    "rank": 47,
-    "title": "Chaos Zero Nightmare",
-    "developer": "Smilegate, Inc.",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.smilegate.chaoszero.stove.google",
-    "local_name": "Chaos Zero Nightmare",
-    "icon": "https://play-lh.googleusercontent.com/rZ0kLPx7Y_zRavJ1TImLv3oj0HYRrye8K9wJOuegTIrfxaS2qyGu9tWJcXphO0ELMfj3BgOSG_BPKKVST6zDPg",
-    "est_revenue": 328093,
-    "est_revenue_fmt": "$328K",
-    "est_revenue_won": "13.1억",
     "est_revenue_krw": 440476165
   },
   {
