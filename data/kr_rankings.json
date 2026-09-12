@@ -4,7 +4,7 @@
     "title": "제우스: 오만의 신",
     "developer": "Com2uS",
     "genre": "Game",
-    "rating": 3.5,
+    "rating": 3.6,
     "app_id": "com.com2us.es.android.google.kr.normal",
     "local_name": "제우스: 오만의 신",
     "icon": "https://play-lh.googleusercontent.com/Cn3mFHKMLbpjEBSZGiCKysZpRKXYNm5CH4vGFBLUMpWtZ7gk_2ONDoqAfJ6OIh_V-Lm3d8uZOmzKoAFdQxW4",
@@ -71,20 +71,6 @@
   },
   {
     "rank": 6,
-    "title": "MapleStory : Idle RPG",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.nexon.ma",
-    "local_name": "메이플스토리: 모바일",
-    "icon": "https://play-lh.googleusercontent.com/VKzgyaBMxhdjOfgfRuJobcjnMkoWVxB9KCQpoPOcb0S4lltYv55Zi2fClECBPWMaAzm74buXQW7X6CO344sD",
-    "est_revenue": 7707619,
-    "est_revenue_fmt": "$7.7M",
-    "est_revenue_won": "46.2억",
-    "est_revenue_krw": 10347744258
-  },
-  {
-    "rank": 7,
     "title": "SOL: enchant",
     "developer": "Netmarble",
     "genre": "Game",
@@ -98,6 +84,20 @@
     "est_revenue_krw": 10347744258
   },
   {
+    "rank": 7,
+    "title": "MapleStory : Idle RPG",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.nexon.ma",
+    "local_name": "메이플스토리: 모바일",
+    "icon": "https://play-lh.googleusercontent.com/VKzgyaBMxhdjOfgfRuJobcjnMkoWVxB9KCQpoPOcb0S4lltYv55Zi2fClECBPWMaAzm74buXQW7X6CO344sD",
+    "est_revenue": 5750573,
+    "est_revenue_fmt": "$5.8M",
+    "est_revenue_won": "46.2억",
+    "est_revenue_krw": 7720342527
+  },
+  {
     "rank": 8,
     "title": "Gossip Harbor®: Merge & Story",
     "developer": "Microfun Limited",
@@ -106,10 +106,10 @@
     "app_id": "com.mergegames.gossipharbor",
     "local_name": "가십 하버",
     "icon": "https://play-lh.googleusercontent.com/HLRg8oInVYJV8Uebxlh1dTH4j7OTBMIWOPZY7A7ryW9UB8K4i7HCOqkGfSLORsK-XzqhnJcJM0mjObVKZYL8zA",
-    "est_revenue": 5096282,
-    "est_revenue_fmt": "$5.1M",
+    "est_revenue": 3722718,
+    "est_revenue_fmt": "$3.7M",
     "est_revenue_won": "41.6억",
-    "est_revenue_krw": 6841934300
+    "est_revenue_krw": 4997877271
   },
   {
     "rank": 9,
@@ -120,10 +120,10 @@
     "app_id": "com.roblox.client",
     "local_name": "로블록스",
     "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
-    "est_revenue": 2942266,
-    "est_revenue_fmt": "$2.9M",
+    "est_revenue": 2536774,
+    "est_revenue_fmt": "$2.5M",
     "est_revenue_won": "38.0억",
-    "est_revenue_krw": 3950093551
+    "est_revenue_krw": 3405706560
   },
   {
     "rank": 10,
@@ -183,20 +183,6 @@
   },
   {
     "rank": 14,
-    "title": "오딘: 발할라 라이징",
-    "developer": "Kakao Games Corp.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.kakaogames.odin",
-    "local_name": "오딘: 발할라 라이징",
-    "icon": "https://play-lh.googleusercontent.com/65JquVIM391Il8M5oXrUzwTOFvFn72Yef4EJGWLBp190MflgritBJqiMuSjoK_ZeA2jF53OV9rRNgAXRm8_scQ",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "22.0억",
-    "est_revenue_krw": 2416562062
-  },
-  {
-    "rank": 15,
     "title": "Zenless Zone Zero",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -207,6 +193,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "23.8억",
+    "est_revenue_krw": 2416562062
+  },
+  {
+    "rank": 15,
+    "title": "오딘: 발할라 라이징",
+    "developer": "Kakao Games Corp.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.kakaogames.odin",
+    "local_name": "오딘: 발할라 라이징",
+    "icon": "https://play-lh.googleusercontent.com/65JquVIM391Il8M5oXrUzwTOFvFn72Yef4EJGWLBp190MflgritBJqiMuSjoK_ZeA2jF53OV9rRNgAXRm8_scQ",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "22.0억",
     "est_revenue_krw": 2416562062
   },
   {
@@ -267,20 +267,6 @@
   },
   {
     "rank": 20,
-    "title": "CookieRun: Crumble - Idle RPG",
-    "developer": "Devsisters Corporation",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.devsisters.cc",
-    "local_name": "쿠키런: 크럼블",
-    "icon": "https://play-lh.googleusercontent.com/nH4gayvv0-dHdjwjxUIKY9QWr_6dYnNeqFNHPwckQ3dgvJgrsJPdkIEyevgE09j0IGUiAIwpniaoAZ7Xn0PH",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "13.9억",
-    "est_revenue_krw": 2416562062
-  },
-  {
-    "rank": 21,
     "title": "Coop TD: Together",
     "developer": "Supermagic",
     "genre": "Game",
@@ -294,7 +280,35 @@
     "est_revenue_krw": 2416562062
   },
   {
+    "rank": 21,
+    "title": "CookieRun: Crumble - Idle RPG",
+    "developer": "Devsisters Corporation",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.devsisters.cc",
+    "local_name": "쿠키런: 크럼블",
+    "icon": "https://play-lh.googleusercontent.com/nH4gayvv0-dHdjwjxUIKY9QWr_6dYnNeqFNHPwckQ3dgvJgrsJPdkIEyevgE09j0IGUiAIwpniaoAZ7Xn0PH",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "13.9억",
+    "est_revenue_krw": 2416562062
+  },
+  {
     "rank": 22,
+    "title": "로그W : 리메인즈 오브 갓",
+    "developer": "Efun Company",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.krd8.google",
+    "local_name": "로그W : 리메인즈 오브 갓",
+    "icon": "https://play-lh.googleusercontent.com/wPufQAobuu_bMHJyHAmyZLteiFXFFfGyr_II-agf6JMw518mjIbDzFdR3LXbuKvT12TQ2kPvjRvLN-nyJ8NAyA",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "12.1억",
+    "est_revenue_krw": 2416562062
+  },
+  {
+    "rank": 23,
     "title": "Seaside Escape®: Merge & Story",
     "developer": "Microfun Limited",
     "genre": "Game",
@@ -308,7 +322,7 @@
     "est_revenue_krw": 2416562062
   },
   {
-    "rank": 23,
+    "rank": 24,
     "title": "Tasty Travels: Merge Game",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -319,20 +333,6 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "11.3억",
-    "est_revenue_krw": 2416562062
-  },
-  {
-    "rank": 24,
-    "title": "로그W : 리메인즈 오브 갓",
-    "developer": "Efun Company",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.krd8.google",
-    "local_name": "로그W : 리메인즈 오브 갓",
-    "icon": "https://play-lh.googleusercontent.com/wPufQAobuu_bMHJyHAmyZLteiFXFFfGyr_II-agf6JMw518mjIbDzFdR3LXbuKvT12TQ2kPvjRvLN-nyJ8NAyA",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "12.1억",
     "est_revenue_krw": 2416562062
   },
   {
@@ -410,7 +410,7 @@
     "title": "Clash of Critters",
     "developer": "FARLIGHT",
     "genre": "Game",
-    "rating": 4.7,
+    "rating": 4.6,
     "app_id": "com.farlightgames.pgame.gp",
     "local_name": "Clash of Critters",
     "icon": "https://play-lh.googleusercontent.com/nIjO9pFz1R7G_wct00QMBKVqAmLHs2TqiaCmSUJfnKPw7yG_VzSmp26TRGCmm98v-Mye0MtsW_xz8CHNdIFD1A",
@@ -435,20 +435,6 @@
   },
   {
     "rank": 32,
-    "title": "NTE: Neverness to Everness",
-    "developer": "N2E",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.hottagames.nte",
-    "local_name": "NTE: Neverness to Everness",
-    "icon": "https://play-lh.googleusercontent.com/TGl3DdDbi4hty6ooOhEvv_2s5tkpGLbL6derP8y5hK-_Bw--Ve375b08ba9HHQ9ueRpoQ9oye1T_T24BJriLUmw",
-    "est_revenue": 452919,
-    "est_revenue_fmt": "$453K",
-    "est_revenue_won": "7.1억",
-    "est_revenue_krw": 608059374
-  },
-  {
-    "rank": 33,
     "title": "Royal Kingdom",
     "developer": "Dream Games, Ltd.",
     "genre": "Game",
@@ -456,10 +442,24 @@
     "app_id": "com.dreamgames.royalkingdom",
     "local_name": "로얄 킹덤",
     "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
-    "est_revenue": 329102,
-    "est_revenue_fmt": "$329K",
+    "est_revenue": 347157,
+    "est_revenue_fmt": "$347K",
     "est_revenue_won": "6.7억",
-    "est_revenue_krw": 441830782
+    "est_revenue_krw": 466070242
+  },
+  {
+    "rank": 33,
+    "title": "NTE: Neverness to Everness",
+    "developer": "N2E",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.hottagames.nte",
+    "local_name": "NTE: Neverness to Everness",
+    "icon": "https://play-lh.googleusercontent.com/TGl3DdDbi4hty6ooOhEvv_2s5tkpGLbL6derP8y5hK-_Bw--Ve375b08ba9HHQ9ueRpoQ9oye1T_T24BJriLUmw",
+    "est_revenue": 347157,
+    "est_revenue_fmt": "$347K",
+    "est_revenue_won": "7.1억",
+    "est_revenue_krw": 466070242
   },
   {
     "rank": 34,
@@ -470,27 +470,13 @@
     "app_id": "com.com2us.futurecpb.android.google.global.normal",
     "local_name": "컴투스프로야구V26",
     "icon": "https://play-lh.googleusercontent.com/lFrail_ogSgoETUZcsAgLG7gC4lvjcOdffEURRt5kTAaIbr3pdm7s7hrIQNMl-jTu_Hbw7NDuU9gpJZDRsqY",
-    "est_revenue": 329102,
-    "est_revenue_fmt": "$329K",
+    "est_revenue": 347157,
+    "est_revenue_fmt": "$347K",
     "est_revenue_won": "6.3억",
-    "est_revenue_krw": 441830782
+    "est_revenue_krw": 466070242
   },
   {
     "rank": 35,
-    "title": "Vampir",
-    "developer": "Netmarble",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.netmarble.thered",
-    "local_name": "뱀피르",
-    "icon": "https://play-lh.googleusercontent.com/O3AtBJqCPmOHow-d2tskDjwXGWpYpgz2bPEJC5s-FQ1BzmtxnFTQ4h6OTTJ74pyih8KBs78UsTk7w6PAHkbt",
-    "est_revenue": 329102,
-    "est_revenue_fmt": "$329K",
-    "est_revenue_won": "5.6억",
-    "est_revenue_krw": 441830782
-  },
-  {
-    "rank": 36,
     "title": "AION2",
     "developer": "NC Corporation",
     "genre": "Game",
@@ -498,10 +484,24 @@
     "app_id": "com.ncsoft.aion2",
     "local_name": "아이온2",
     "icon": "https://play-lh.googleusercontent.com/aqqsbPuYk-dU9f0qnyEkHje_IIchFrOhDQfDXozQbD5_n_Hxi18ja4GyEbNYuFD9inoFBUYfZFWK4zSOjsy8Aw",
-    "est_revenue": 329102,
-    "est_revenue_fmt": "$329K",
+    "est_revenue": 347157,
+    "est_revenue_fmt": "$347K",
     "est_revenue_won": "6.0억",
-    "est_revenue_krw": 441830782
+    "est_revenue_krw": 466070242
+  },
+  {
+    "rank": 36,
+    "title": "Vampir",
+    "developer": "Netmarble",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.netmarble.thered",
+    "local_name": "뱀피르",
+    "icon": "https://play-lh.googleusercontent.com/O3AtBJqCPmOHow-d2tskDjwXGWpYpgz2bPEJC5s-FQ1BzmtxnFTQ4h6OTTJ74pyih8KBs78UsTk7w6PAHkbt",
+    "est_revenue": 332085,
+    "est_revenue_fmt": "$332K",
+    "est_revenue_won": "5.6억",
+    "est_revenue_krw": 445835562
   },
   {
     "rank": 37,
@@ -589,20 +589,6 @@
   },
   {
     "rank": 43,
-    "title": "Candy Crush Saga",
-    "developer": "King",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.king.candycrushsaga",
-    "local_name": "캔디크러쉬 사가",
-    "icon": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI",
-    "est_revenue": 203992,
-    "est_revenue_fmt": "$204K",
-    "est_revenue_won": "3.8억",
-    "est_revenue_krw": 273866293
-  },
-  {
-    "rank": 44,
     "title": "Mystery Town: Merge Games",
     "developer": "Cedar Games Studio",
     "genre": "Game",
@@ -610,9 +596,23 @@
     "app_id": "com.cedargames.mysterytown",
     "local_name": "미스터리 타운",
     "icon": "https://play-lh.googleusercontent.com/uVjVMEJrhT-xRoUtKIUj8tOVSbCWw4IsRHaTDYICRNjQycUj6SucVpeoAPiNZWeJ5JuzIt_ZZRo1X1pW6XJFAQE",
+    "est_revenue": 203992,
+    "est_revenue_fmt": "$204K",
+    "est_revenue_won": "4.0억",
+    "est_revenue_krw": 273866293
+  },
+  {
+    "rank": 44,
+    "title": "Candy Crush Saga",
+    "developer": "King",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.king.candycrushsaga",
+    "local_name": "캔디크러쉬 사가",
+    "icon": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI",
     "est_revenue": 195380,
     "est_revenue_fmt": "$195K",
-    "est_revenue_won": "4.0억",
+    "est_revenue_won": "3.8억",
     "est_revenue_krw": 262304387
   },
   {
@@ -659,6 +659,20 @@
   },
   {
     "rank": 48,
+    "title": "Top Lords",
+    "developer": "GAME SPARK",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.gamespark.topking.gp",
+    "local_name": "Top Lords",
+    "icon": "https://play-lh.googleusercontent.com/F9Nk01jBia2OZFGndBuTP-rJ-ThbicTHpxJj3iZIk-M1-V8qFhVuVQWYAG_zCuggkiRXHrfqyU5XwZPhAJyAfA",
+    "est_revenue": 179615,
+    "est_revenue_fmt": "$180K",
+    "est_revenue_won": "3.2억",
+    "est_revenue_krw": 241139330
+  },
+  {
+    "rank": 49,
     "title": "State of Survival: Zombie War",
     "developer": "FunPlus International AG",
     "genre": "Game",
@@ -672,7 +686,7 @@
     "est_revenue_krw": 241139330
   },
   {
-    "rank": 49,
+    "rank": 50,
     "title": "Township",
     "developer": "Playrix",
     "genre": "Game",
@@ -680,23 +694,9 @@
     "app_id": "com.playrix.township",
     "local_name": "Township",
     "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
-    "est_revenue": 159111,
-    "est_revenue_fmt": "$159K",
+    "est_revenue": 153000,
+    "est_revenue_fmt": "$153K",
     "est_revenue_won": "3.0억",
-    "est_revenue_krw": 213612003
-  },
-  {
-    "rank": 50,
-    "title": "Top Lords",
-    "developer": "GAME SPARK",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.gamespark.topking.gp",
-    "local_name": "Top Lords",
-    "icon": "https://play-lh.googleusercontent.com/F9Nk01jBia2OZFGndBuTP-rJ-ThbicTHpxJj3iZIk-M1-V8qFhVuVQWYAG_zCuggkiRXHrfqyU5XwZPhAJyAfA",
-    "est_revenue": 159111,
-    "est_revenue_fmt": "$159K",
-    "est_revenue_won": "3.2억",
-    "est_revenue_krw": 213612003
+    "est_revenue_krw": 205407775
   }
 ]
