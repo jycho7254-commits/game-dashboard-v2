@@ -211,20 +211,6 @@
   },
   {
     "rank": 16,
-    "title": "한게임 포커",
-    "developer": "NHN Corp.",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.nhnent.Qpoker",
-    "local_name": "한게임 포커",
-    "icon": "https://play-lh.googleusercontent.com/Imi0dOs8mMcOxNvc4MGXbfdG1QNKgE70v1DYU4GTIXPlbCy5RGoC-XjBRdEwvb-jDGXAXFj9j43c7flORYphv7I",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "23.8억",
-    "est_revenue_krw": 2421110830
-  },
-  {
-    "rank": 17,
     "title": "한게임포커 클래식 : 7포커 홀덤 섯다 훌라 슬롯",
     "developer": "NHN Corp.",
     "genre": "Game",
@@ -235,6 +221,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "25.9억",
+    "est_revenue_krw": 2421110830
+  },
+  {
+    "rank": 17,
+    "title": "한게임 포커",
+    "developer": "NHN Corp.",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.nhnent.Qpoker",
+    "local_name": "한게임 포커",
+    "icon": "https://play-lh.googleusercontent.com/Imi0dOs8mMcOxNvc4MGXbfdG1QNKgE70v1DYU4GTIXPlbCy5RGoC-XjBRdEwvb-jDGXAXFj9j43c7flORYphv7I",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "23.8억",
     "est_revenue_krw": 2421110830
   },
   {
@@ -351,20 +351,6 @@
   },
   {
     "rank": 26,
-    "title": "Gardenscapes",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.playrix.gardenscapes",
-    "local_name": "가든스케이프",
-    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
-    "est_revenue": 491879,
-    "est_revenue_fmt": "$492K",
-    "est_revenue_won": "12.1억",
-    "est_revenue_krw": 661607541
-  },
-  {
-    "rank": 27,
     "title": "Last Z: Survival Shooter",
     "developer": "Omnilojo Pte Ltd",
     "genre": "Game",
@@ -372,10 +358,24 @@
     "app_id": "com.readygo.barrel.gp",
     "local_name": "라스트 Z: 서바이벌 슈터",
     "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
-    "est_revenue": 491879,
-    "est_revenue_fmt": "$492K",
+    "est_revenue": 524118,
+    "est_revenue_fmt": "$524K",
     "est_revenue_won": "11.3억",
-    "est_revenue_krw": 661607541
+    "est_revenue_krw": 704970981
+  },
+  {
+    "rank": 27,
+    "title": "Gardenscapes",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.playrix.gardenscapes",
+    "local_name": "가든스케이프",
+    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
+    "est_revenue": 462406,
+    "est_revenue_fmt": "$462K",
+    "est_revenue_won": "12.1억",
+    "est_revenue_krw": 621964541
   },
   {
     "rank": 28,
@@ -386,10 +386,10 @@
     "app_id": "com.HoYoverse.hkrpgoversea",
     "local_name": "붕괴: 스타레일",
     "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
-    "est_revenue": 491879,
-    "est_revenue_fmt": "$492K",
+    "est_revenue": 462406,
+    "est_revenue_fmt": "$462K",
     "est_revenue_won": "6.0억",
-    "est_revenue_krw": 661607541
+    "est_revenue_krw": 621964541
   },
   {
     "rank": 29,
@@ -400,10 +400,10 @@
     "app_id": "com.phs.global",
     "local_name": "라스트 어사일럼",
     "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
-    "est_revenue": 491879,
-    "est_revenue_fmt": "$492K",
+    "est_revenue": 462406,
+    "est_revenue_fmt": "$462K",
     "est_revenue_won": "9.4억",
-    "est_revenue_krw": 661607541
+    "est_revenue_krw": 621964541
   },
   {
     "rank": 30,
@@ -414,10 +414,10 @@
     "app_id": "com.farlightgames.pgame.gp",
     "local_name": "Clash of Critters",
     "icon": "https://play-lh.googleusercontent.com/nIjO9pFz1R7G_wct00QMBKVqAmLHs2TqiaCmSUJfnKPw7yG_VzSmp26TRGCmm98v-Mye0MtsW_xz8CHNdIFD1A",
-    "est_revenue": 491879,
-    "est_revenue_fmt": "$492K",
+    "est_revenue": 462406,
+    "est_revenue_fmt": "$462K",
     "est_revenue_won": "8.0억",
-    "est_revenue_krw": 661607541
+    "est_revenue_krw": 621964541
   },
   {
     "rank": 31,
