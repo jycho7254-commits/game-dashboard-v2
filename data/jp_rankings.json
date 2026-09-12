@@ -162,10 +162,10 @@
     "app_id": "com.dreamgames.royalmatch",
     "local_name": "Royal Match",
     "icon": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
-    "est_revenue": 8437392,
-    "est_revenue_fmt": "$8.4M",
+    "est_revenue": 8299374,
+    "est_revenue_fmt": "$8.3M",
     "est_revenue_won": "67.6억",
-    "est_revenue_krw": 11327489673
+    "est_revenue_krw": 11142195749
   },
   {
     "rank": 13,
@@ -176,10 +176,10 @@
     "app_id": "net.peakgames.toonblast",
     "local_name": "トゥーンブラスト (Toon Blast)",
     "icon": "https://play-lh.googleusercontent.com/j3O3Pyk08XAv4iA4p-Irerfos8g-tLxQ3r42zlScMRsjjgnyQGeE1mqcH3aSY9wA2k6l8fBqpqEaIQfIG2gLLQ",
-    "est_revenue": 7950954,
-    "est_revenue_fmt": "$8.0M",
+    "est_revenue": 7703129,
+    "est_revenue_fmt": "$7.7M",
     "est_revenue_won": "62.8억",
-    "est_revenue_krw": 10674429886
+    "est_revenue_krw": 10341716279
   },
   {
     "rank": 14,
@@ -190,10 +190,10 @@
     "app_id": "com.HoYoverse.hkrpgoversea",
     "local_name": "崩壊:スターレイル",
     "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
-    "est_revenue": 7525621,
-    "est_revenue_fmt": "$7.5M",
+    "est_revenue": 7189350,
+    "est_revenue_fmt": "$7.2M",
     "est_revenue_won": "55.0억",
-    "est_revenue_krw": 10103405668
+    "est_revenue_krw": 9651950257
   },
   {
     "rank": 15,
@@ -204,10 +204,10 @@
     "app_id": "com.bandainamcoent.idolmaster_gakuen",
     "local_name": "学園アイドルマスター",
     "icon": "https://play-lh.googleusercontent.com/ch_SGwCMoLElrzColmSthRPYxzv608YoyBx4tXY3ciM8Bg4fLxKhRHdeoqPSbygFruy62D9p5EdGAwLW8KGTfwI",
-    "est_revenue": 7150122,
-    "est_revenue_fmt": "$7.2M",
+    "est_revenue": 6741882,
+    "est_revenue_fmt": "$6.7M",
     "est_revenue_won": "58.6억",
-    "est_revenue_krw": 9599285314
+    "est_revenue_krw": 9051209038
   },
   {
     "rank": 16,
@@ -218,41 +218,13 @@
     "app_id": "com.hottagames.nte",
     "local_name": "NTE: Neverness to Everness",
     "icon": "https://play-lh.googleusercontent.com/TGl3DdDbi4hty6ooOhEvv_2s5tkpGLbL6derP8y5hK-_Bw--Ve375b08ba9HHQ9ueRpoQ9oye1T_T24BJriLUmw",
-    "est_revenue": 6815846,
-    "est_revenue_fmt": "$6.8M",
+    "est_revenue": 6348551,
+    "est_revenue_fmt": "$6.3M",
     "est_revenue_won": "51.2억",
-    "est_revenue_krw": 9150508259
+    "est_revenue_krw": 8523148609
   },
   {
     "rank": 17,
-    "title": "Kingshot",
-    "developer": "Century Games PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.6,
-    "app_id": "com.run.tower.defense",
-    "local_name": "Kingshot",
-    "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
-    "est_revenue": 6516090,
-    "est_revenue_fmt": "$6.5M",
-    "est_revenue_won": "47.9억",
-    "est_revenue_krw": 8748075493
-  },
-  {
-    "rank": 18,
-    "title": "アズールレーン",
-    "developer": "Yostar, Inc.",
-    "genre": "Game",
-    "rating": 3.9,
-    "app_id": "com.YoStarJP.AzurLane",
-    "local_name": "アズールレーン",
-    "icon": "https://play-lh.googleusercontent.com/xm_fZgRuFC6npGnzKgBbw1V2VuZo4Pc67LLcrecmihkaDK-LFa_yKi6x4zmg-Nb-tvqy1ppLgjEdmgZMV00vg9E",
-    "est_revenue": 6245557,
-    "est_revenue_fmt": "$6.2M",
-    "est_revenue_won": "44.9억",
-    "est_revenue_krw": 8384875613
-  },
-  {
-    "rank": 19,
     "title": "eFootball™",
     "developer": "KONAMI",
     "genre": "Game",
@@ -263,6 +235,34 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "42.3억",
+    "est_revenue_krw": 8055206874
+  },
+  {
+    "rank": 18,
+    "title": "Kingshot",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 3.6,
+    "app_id": "com.run.tower.defense",
+    "local_name": "Kingshot",
+    "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "47.9억",
+    "est_revenue_krw": 8055206874
+  },
+  {
+    "rank": 19,
+    "title": "アズールレーン",
+    "developer": "Yostar, Inc.",
+    "genre": "Game",
+    "rating": 3.9,
+    "app_id": "com.YoStarJP.AzurLane",
+    "local_name": "アズールレーン",
+    "icon": "https://play-lh.googleusercontent.com/xm_fZgRuFC6npGnzKgBbw1V2VuZo4Pc67LLcrecmihkaDK-LFa_yKi6x4zmg-Nb-tvqy1ppLgjEdmgZMV00vg9E",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "44.9억",
     "est_revenue_krw": 8055206874
   },
   {
