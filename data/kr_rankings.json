@@ -11,7 +11,7 @@
     "est_revenue": 9000000,
     "est_revenue_fmt": "$9.0M",
     "est_revenue_won": "120.0억",
-    "est_revenue_krw": 12105554148
+    "est_revenue_krw": 12082810311
   },
   {
     "rank": 2,
@@ -25,7 +25,7 @@
     "est_revenue": 7707619,
     "est_revenue_fmt": "$7.7M",
     "est_revenue_won": "",
-    "est_revenue_krw": 10367222129
+    "est_revenue_krw": 10347744258
   },
   {
     "rank": 3,
@@ -39,7 +39,7 @@
     "est_revenue": 7707619,
     "est_revenue_fmt": "$7.7M",
     "est_revenue_won": "66.1억",
-    "est_revenue_krw": 10367222129
+    "est_revenue_krw": 10347744258
   },
   {
     "rank": 4,
@@ -53,7 +53,7 @@
     "est_revenue": 7707619,
     "est_revenue_fmt": "$7.7M",
     "est_revenue_won": "74.8억",
-    "est_revenue_krw": 10367222129
+    "est_revenue_krw": 10347744258
   },
   {
     "rank": 5,
@@ -67,7 +67,7 @@
     "est_revenue": 7707619,
     "est_revenue_fmt": "$7.7M",
     "est_revenue_won": "52.1억",
-    "est_revenue_krw": 10367222129
+    "est_revenue_krw": 10347744258
   },
   {
     "rank": 6,
@@ -81,7 +81,7 @@
     "est_revenue": 7707619,
     "est_revenue_fmt": "$7.7M",
     "est_revenue_won": "60.0억",
-    "est_revenue_krw": 10367222129
+    "est_revenue_krw": 10347744258
   },
   {
     "rank": 7,
@@ -95,7 +95,7 @@
     "est_revenue": 5750573,
     "est_revenue_fmt": "$5.8M",
     "est_revenue_won": "89.0억",
-    "est_revenue_krw": 7734874759
+    "est_revenue_krw": 7720342527
   },
   {
     "rank": 8,
@@ -109,7 +109,7 @@
     "est_revenue": 3722718,
     "est_revenue_fmt": "$3.7M",
     "est_revenue_won": "41.6억",
-    "est_revenue_krw": 5007284925
+    "est_revenue_krw": 4997877271
   },
   {
     "rank": 9,
@@ -123,7 +123,7 @@
     "est_revenue": 2536774,
     "est_revenue_fmt": "$2.5M",
     "est_revenue_won": "46.2억",
-    "est_revenue_krw": 3412117224
+    "est_revenue_krw": 3405706560
   },
   {
     "rank": 10,
@@ -137,7 +137,7 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "38.0억",
-    "est_revenue_krw": 2421110830
+    "est_revenue_krw": 2416562062
   },
   {
     "rank": 11,
@@ -151,7 +151,7 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "35.0억",
-    "est_revenue_krw": 2421110830
+    "est_revenue_krw": 2416562062
   },
   {
     "rank": 12,
@@ -165,7 +165,7 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "10.6억",
-    "est_revenue_krw": 2421110830
+    "est_revenue_krw": 2416562062
   },
   {
     "rank": 13,
@@ -179,7 +179,7 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "31.4억",
-    "est_revenue_krw": 2421110830
+    "est_revenue_krw": 2416562062
   },
   {
     "rank": 14,
@@ -193,7 +193,7 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "20.2억",
-    "est_revenue_krw": 2421110830
+    "est_revenue_krw": 2416562062
   },
   {
     "rank": 15,
@@ -207,24 +207,10 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "22.0억",
-    "est_revenue_krw": 2421110830
+    "est_revenue_krw": 2416562062
   },
   {
     "rank": 16,
-    "title": "한게임포커 클래식 : 7포커 홀덤 섯다 훌라 슬롯",
-    "developer": "NHN Corp.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.nhnent.pokerclassic",
-    "local_name": "한게임 포커 클래식",
-    "icon": "https://play-lh.googleusercontent.com/Hv-D0Heegr2EW_eyGcfNv-HzI_WRrjxMqnN575pY17XaRfXA4wjmAtTwWsO_ON6WqVtTP0ajH2bKKRDx6CNXhQ",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "25.9억",
-    "est_revenue_krw": 2421110830
-  },
-  {
-    "rank": 17,
     "title": "한게임 포커",
     "developer": "NHN Corp.",
     "genre": "Game",
@@ -235,7 +221,21 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "23.8억",
-    "est_revenue_krw": 2421110830
+    "est_revenue_krw": 2416562062
+  },
+  {
+    "rank": 17,
+    "title": "한게임포커 클래식 : 7포커 홀덤 섯다 훌라 슬롯",
+    "developer": "NHN Corp.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.nhnent.pokerclassic",
+    "local_name": "한게임 포커 클래식",
+    "icon": "https://play-lh.googleusercontent.com/Hv-D0Heegr2EW_eyGcfNv-HzI_WRrjxMqnN575pY17XaRfXA4wjmAtTwWsO_ON6WqVtTP0ajH2bKKRDx6CNXhQ",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "25.9억",
+    "est_revenue_krw": 2416562062
   },
   {
     "rank": 18,
@@ -249,7 +249,7 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "18.6억",
-    "est_revenue_krw": 2421110830
+    "est_revenue_krw": 2416562062
   },
   {
     "rank": 19,
@@ -263,7 +263,7 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "28.4억",
-    "est_revenue_krw": 2421110830
+    "est_revenue_krw": 2416562062
   },
   {
     "rank": 20,
@@ -277,7 +277,7 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "17.3억",
-    "est_revenue_krw": 2421110830
+    "est_revenue_krw": 2416562062
   },
   {
     "rank": 21,
@@ -291,7 +291,7 @@
     "est_revenue": 810353,
     "est_revenue_fmt": "$810K",
     "est_revenue_won": "5.3억",
-    "est_revenue_krw": 1089974680
+    "est_revenue_krw": 1087926843
   },
   {
     "rank": 22,
@@ -305,7 +305,7 @@
     "est_revenue": 754459,
     "est_revenue_fmt": "$754K",
     "est_revenue_won": "12.9억",
-    "est_revenue_krw": 1014793809
+    "est_revenue_krw": 1012887220
   },
   {
     "rank": 23,
@@ -319,7 +319,7 @@
     "est_revenue": 598374,
     "est_revenue_fmt": "$598K",
     "est_revenue_won": "13.9억",
-    "est_revenue_krw": 804849873
+    "est_revenue_krw": 803337726
   },
   {
     "rank": 24,
@@ -333,7 +333,7 @@
     "est_revenue": 598374,
     "est_revenue_fmt": "$598K",
     "est_revenue_won": "16.1억",
-    "est_revenue_krw": 804849873
+    "est_revenue_krw": 803337726
   },
   {
     "rank": 25,
@@ -347,24 +347,10 @@
     "est_revenue": 524118,
     "est_revenue_fmt": "$524K",
     "est_revenue_won": "15.0억",
-    "est_revenue_krw": 704970981
+    "est_revenue_krw": 703646486
   },
   {
     "rank": 26,
-    "title": "Last Z: Survival Shooter",
-    "developer": "Omnilojo Pte Ltd",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.readygo.barrel.gp",
-    "local_name": "라스트 Z: 서바이벌 슈터",
-    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
-    "est_revenue": 524118,
-    "est_revenue_fmt": "$524K",
-    "est_revenue_won": "11.3억",
-    "est_revenue_krw": 704970981
-  },
-  {
-    "rank": 27,
     "title": "Gardenscapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -372,10 +358,24 @@
     "app_id": "com.playrix.gardenscapes",
     "local_name": "가든스케이프",
     "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
-    "est_revenue": 462406,
-    "est_revenue_fmt": "$462K",
+    "est_revenue": 491879,
+    "est_revenue_fmt": "$492K",
     "est_revenue_won": "12.1억",
-    "est_revenue_krw": 621964541
+    "est_revenue_krw": 660364517
+  },
+  {
+    "rank": 27,
+    "title": "Last Z: Survival Shooter",
+    "developer": "Omnilojo Pte Ltd",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.readygo.barrel.gp",
+    "local_name": "라스트 Z: 서바이벌 슈터",
+    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
+    "est_revenue": 491879,
+    "est_revenue_fmt": "$492K",
+    "est_revenue_won": "11.3억",
+    "est_revenue_krw": 660364517
   },
   {
     "rank": 28,
@@ -386,10 +386,10 @@
     "app_id": "com.HoYoverse.hkrpgoversea",
     "local_name": "붕괴: 스타레일",
     "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
-    "est_revenue": 462406,
-    "est_revenue_fmt": "$462K",
+    "est_revenue": 491879,
+    "est_revenue_fmt": "$492K",
     "est_revenue_won": "6.0억",
-    "est_revenue_krw": 621964541
+    "est_revenue_krw": 660364517
   },
   {
     "rank": 29,
@@ -400,10 +400,10 @@
     "app_id": "com.phs.global",
     "local_name": "라스트 어사일럼",
     "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
-    "est_revenue": 462406,
-    "est_revenue_fmt": "$462K",
+    "est_revenue": 491879,
+    "est_revenue_fmt": "$492K",
     "est_revenue_won": "9.4억",
-    "est_revenue_krw": 621964541
+    "est_revenue_krw": 660364517
   },
   {
     "rank": 30,
@@ -414,10 +414,10 @@
     "app_id": "com.farlightgames.pgame.gp",
     "local_name": "Clash of Critters",
     "icon": "https://play-lh.googleusercontent.com/nIjO9pFz1R7G_wct00QMBKVqAmLHs2TqiaCmSUJfnKPw7yG_VzSmp26TRGCmm98v-Mye0MtsW_xz8CHNdIFD1A",
-    "est_revenue": 462406,
-    "est_revenue_fmt": "$462K",
+    "est_revenue": 491879,
+    "est_revenue_fmt": "$492K",
     "est_revenue_won": "8.0억",
-    "est_revenue_krw": 621964541
+    "est_revenue_krw": 660364517
   },
   {
     "rank": 31,
@@ -431,7 +431,7 @@
     "est_revenue": 452919,
     "est_revenue_fmt": "$453K",
     "est_revenue_won": "8.4억",
-    "est_revenue_krw": 609203942
+    "est_revenue_krw": 608059374
   },
   {
     "rank": 32,
@@ -445,7 +445,7 @@
     "est_revenue": 452919,
     "est_revenue_fmt": "$453K",
     "est_revenue_won": "6.3억",
-    "est_revenue_krw": 609203942
+    "est_revenue_krw": 608059374
   },
   {
     "rank": 33,
@@ -459,7 +459,7 @@
     "est_revenue": 329102,
     "est_revenue_fmt": "$329K",
     "est_revenue_won": "6.7억",
-    "est_revenue_krw": 442662453
+    "est_revenue_krw": 441830782
   },
   {
     "rank": 34,
@@ -473,7 +473,7 @@
     "est_revenue": 329102,
     "est_revenue_fmt": "$329K",
     "est_revenue_won": "7.5억",
-    "est_revenue_krw": 442662453
+    "est_revenue_krw": 441830782
   },
   {
     "rank": 35,
@@ -487,7 +487,7 @@
     "est_revenue": 329102,
     "est_revenue_fmt": "$329K",
     "est_revenue_won": "",
-    "est_revenue_krw": 442662453
+    "est_revenue_krw": 441830782
   },
   {
     "rank": 36,
@@ -501,7 +501,7 @@
     "est_revenue": 329102,
     "est_revenue_fmt": "$329K",
     "est_revenue_won": "4.8억",
-    "est_revenue_krw": 442662453
+    "est_revenue_krw": 441830782
   },
   {
     "rank": 37,
@@ -515,7 +515,7 @@
     "est_revenue": 268750,
     "est_revenue_fmt": "$269K",
     "est_revenue_won": "5.1억",
-    "est_revenue_krw": 361485297
+    "est_revenue_krw": 360806141
   },
   {
     "rank": 38,
@@ -529,7 +529,7 @@
     "est_revenue": 268750,
     "est_revenue_fmt": "$269K",
     "est_revenue_won": "7.1억",
-    "est_revenue_krw": 361485297
+    "est_revenue_krw": 360806141
   },
   {
     "rank": 39,
@@ -543,7 +543,7 @@
     "est_revenue": 244311,
     "est_revenue_fmt": "$244K",
     "est_revenue_won": "",
-    "est_revenue_krw": 328613338
+    "est_revenue_krw": 327995941
   },
   {
     "rank": 40,
@@ -557,7 +557,7 @@
     "est_revenue": 244311,
     "est_revenue_fmt": "$244K",
     "est_revenue_won": "8.9억",
-    "est_revenue_krw": 328613338
+    "est_revenue_krw": 327995941
   },
   {
     "rank": 41,
@@ -571,7 +571,7 @@
     "est_revenue": 244311,
     "est_revenue_fmt": "$244K",
     "est_revenue_won": "3.4억",
-    "est_revenue_krw": 328613338
+    "est_revenue_krw": 327995941
   },
   {
     "rank": 42,
@@ -585,7 +585,7 @@
     "est_revenue": 244311,
     "est_revenue_fmt": "$244K",
     "est_revenue_won": "4.2억",
-    "est_revenue_krw": 328613338
+    "est_revenue_krw": 327995941
   },
   {
     "rank": 43,
@@ -599,7 +599,7 @@
     "est_revenue": 203992,
     "est_revenue_fmt": "$204K",
     "est_revenue_won": "3.8억",
-    "est_revenue_krw": 274381800
+    "est_revenue_krw": 273866293
   },
   {
     "rank": 44,
@@ -613,7 +613,7 @@
     "est_revenue": 195380,
     "est_revenue_fmt": "$195K",
     "est_revenue_won": "4.4억",
-    "est_revenue_krw": 262798130
+    "est_revenue_krw": 262304387
   },
   {
     "rank": 45,
@@ -627,7 +627,7 @@
     "est_revenue": 195380,
     "est_revenue_fmt": "$195K",
     "est_revenue_won": "4.6억",
-    "est_revenue_krw": 262798130
+    "est_revenue_krw": 262304387
   },
   {
     "rank": 46,
@@ -641,7 +641,7 @@
     "est_revenue": 179615,
     "est_revenue_fmt": "$180K",
     "est_revenue_won": "3.5억",
-    "est_revenue_krw": 241593234
+    "est_revenue_krw": 241139330
   },
   {
     "rank": 47,
@@ -655,7 +655,7 @@
     "est_revenue": 179615,
     "est_revenue_fmt": "$180K",
     "est_revenue_won": "10.0억",
-    "est_revenue_krw": 241593234
+    "est_revenue_krw": 241139330
   },
   {
     "rank": 48,
@@ -669,7 +669,7 @@
     "est_revenue": 179615,
     "est_revenue_fmt": "$180K",
     "est_revenue_won": "3.2억",
-    "est_revenue_krw": 241593234
+    "est_revenue_krw": 241139330
   },
   {
     "rank": 49,
@@ -683,7 +683,7 @@
     "est_revenue": 179615,
     "est_revenue_fmt": "$180K",
     "est_revenue_won": "3.7억",
-    "est_revenue_krw": 241593234
+    "est_revenue_krw": 241139330
   },
   {
     "rank": 50,
@@ -697,6 +697,6 @@
     "est_revenue": 153000,
     "est_revenue_fmt": "$153K",
     "est_revenue_won": "",
-    "est_revenue_krw": 205794421
+    "est_revenue_krw": 205407775
   }
 ]
