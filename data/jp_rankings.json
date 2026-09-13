@@ -99,20 +99,6 @@
   },
   {
     "rank": 8,
-    "title": "Last War:Survival Game",
-    "developer": "FUNFLY PTE. LTD.",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.fun.lastwar.gp",
-    "local_name": "Last War:Survival Game",
-    "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc",
-    "est_revenue": 7514629,
-    "est_revenue_fmt": "$7.5M",
-    "est_revenue_won": "97.9억",
-    "est_revenue_krw": 10092393896
-  },
-  {
-    "rank": 9,
     "title": "ホロライブドリームス",
     "developer": "QualiArts, Inc.",
     "genre": "Game",
@@ -120,9 +106,23 @@
     "app_id": "game.qualiarts.hololive.dreams.jp",
     "local_name": "ホロライブドリームス",
     "icon": "https://play-lh.googleusercontent.com/j00IPpPSDv3cGqoKVIDf0qnCw6EbZQ4KpgMr10UWkf8Rm1qO9vCSoVhJwfCF1PbbKxV_Qt_eqZ_Sp4QMHuhwYBI",
+    "est_revenue": 7514629,
+    "est_revenue_fmt": "$7.5M",
+    "est_revenue_won": "88.0억",
+    "est_revenue_krw": 10092393896
+  },
+  {
+    "rank": 9,
+    "title": "Last War:Survival Game",
+    "developer": "FUNFLY PTE. LTD.",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "com.fun.lastwar.gp",
+    "local_name": "Last War:Survival Game",
+    "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc",
     "est_revenue": 7287801,
     "est_revenue_fmt": "$7.3M",
-    "est_revenue_won": "88.0억",
+    "est_revenue_won": "97.9억",
     "est_revenue_krw": 9787756431
   },
   {
@@ -659,20 +659,6 @@
   },
   {
     "rank": 48,
-    "title": "Cell Survivor",
-    "developer": "Snap Brain Games",
-    "genre": "Game",
-    "rating": 4,
-    "app_id": "defense.roguelike.cell.shoot.survivor",
-    "local_name": "Cell Survivor",
-    "icon": "https://play-lh.googleusercontent.com/uPlHPfM1OojmQQHGA1GKUvkTuNJxrHiMemXBwiap2dhFUNqKcARF98FZk3fmhZNMWjQv8j0j4v4yxXM0gk3MZKM",
-    "est_revenue": 325426,
-    "est_revenue_fmt": "$325K",
-    "est_revenue_won": "12.7억",
-    "est_revenue_krw": 437057821
-  },
-  {
-    "rank": 49,
     "title": "Fishdom",
     "developer": "Playrix",
     "genre": "Game",
@@ -680,9 +666,23 @@
     "app_id": "com.playrix.fishdomdd.gplay",
     "local_name": "Fishdom",
     "icon": "https://play-lh.googleusercontent.com/xCNnX62AirslBmOf5Zp2fySAT9S9XsMUAK3PUGeLVCO4uYHGvfG8lHEof253BQ2q1vS85qsySHt8imuLfIMw",
+    "est_revenue": 325426,
+    "est_revenue_fmt": "$325K",
+    "est_revenue_won": "12.4억",
+    "est_revenue_krw": 437057821
+  },
+  {
+    "rank": 49,
+    "title": "Cell Survivor",
+    "developer": "Snap Brain Games",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "defense.roguelike.cell.shoot.survivor",
+    "local_name": "Cell Survivor",
+    "icon": "https://play-lh.googleusercontent.com/uPlHPfM1OojmQQHGA1GKUvkTuNJxrHiMemXBwiap2dhFUNqKcARF98FZk3fmhZNMWjQv8j0j4v4yxXM0gk3MZKM",
     "est_revenue": 312356,
     "est_revenue_fmt": "$312K",
-    "est_revenue_won": "12.4억",
+    "est_revenue_won": "12.7억",
     "est_revenue_krw": 419504381
   },
   {
