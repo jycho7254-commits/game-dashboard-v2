@@ -169,20 +169,6 @@
   },
   {
     "rank": 13,
-    "title": "Lucky Defense",
-    "developer": "111%",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.percent.aos.luckydefense",
-    "local_name": "러키 디펜스",
-    "icon": "https://play-lh.googleusercontent.com/1NktNgA6C5ghp39v_vlHz_P1niuK3MTA0W5fVX0LoqsdUavVre6LkwligdFlcMd1OsN6qX-zWciBexAvY3myLaI",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "25.9억",
-    "est_revenue_krw": 2417459200
-  },
-  {
-    "rank": 14,
     "title": "열혈강호: 넥스트",
     "developer": "Kingnet Technology Limited",
     "genre": "Game",
@@ -193,6 +179,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "23.8억",
+    "est_revenue_krw": 2417459200
+  },
+  {
+    "rank": 14,
+    "title": "Lucky Defense",
+    "developer": "111%",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.percent.aos.luckydefense",
+    "local_name": "러키 디펜스",
+    "icon": "https://play-lh.googleusercontent.com/1NktNgA6C5ghp39v_vlHz_P1niuK3MTA0W5fVX0LoqsdUavVre6LkwligdFlcMd1OsN6qX-zWciBexAvY3myLaI",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "25.9억",
     "est_revenue_krw": 2417459200
   },
   {
