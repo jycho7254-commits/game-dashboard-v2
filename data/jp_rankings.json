@@ -183,20 +183,6 @@
   },
   {
     "rank": 14,
-    "title": "Royal Match",
-    "developer": "Dream Games, Ltd.",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.dreamgames.royalmatch",
-    "local_name": "Royal Match",
-    "icon": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
-    "est_revenue": 6496261,
-    "est_revenue_fmt": "$6.5M",
-    "est_revenue_won": "58.6억",
-    "est_revenue_krw": 8724692179
-  },
-  {
-    "rank": 15,
     "title": "トゥーンブラスト (Toon Blast)",
     "developer": "Peak",
     "genre": "Game",
@@ -204,9 +190,23 @@
     "app_id": "net.peakgames.toonblast",
     "local_name": "トゥーンブラスト (Toon Blast)",
     "icon": "https://play-lh.googleusercontent.com/j3O3Pyk08XAv4iA4p-Irerfos8g-tLxQ3r42zlScMRsjjgnyQGeE1mqcH3aSY9wA2k6l8fBqpqEaIQfIG2gLLQ",
+    "est_revenue": 6496261,
+    "est_revenue_fmt": "$6.5M",
+    "est_revenue_won": "55.0억",
+    "est_revenue_krw": 8724692179
+  },
+  {
+    "rank": 15,
+    "title": "Royal Match",
+    "developer": "Dream Games, Ltd.",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.dreamgames.royalmatch",
+    "local_name": "Royal Match",
+    "icon": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
     "est_revenue": 6380671,
     "est_revenue_fmt": "$6.4M",
-    "est_revenue_won": "55.0억",
+    "est_revenue_won": "58.6억",
     "est_revenue_krw": 8569451007
   },
   {
