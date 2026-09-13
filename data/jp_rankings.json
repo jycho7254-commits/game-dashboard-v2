@@ -673,20 +673,6 @@
   },
   {
     "rank": 49,
-    "title": "ドラゴンクエストタクト",
-    "developer": "SQUARE ENIX Co.,Ltd.",
-    "genre": "Game",
-    "rating": 3.9,
-    "app_id": "com.square_enix.android_googleplay.dqtactj",
-    "local_name": "ドラゴンクエストタクト",
-    "icon": "https://play-lh.googleusercontent.com/c5Z44Ne4Zb5KcwGOdJQhE9R-PhpRR7oPk-OetWX6bmIrQxG7CFlSBJTapt334RS4lMHm-1fhYdeBqfIuaGYsB6s",
-    "est_revenue": 325426,
-    "est_revenue_fmt": "$325K",
-    "est_revenue_won": "12.4억",
-    "est_revenue_krw": 437057821
-  },
-  {
-    "rank": 50,
     "title": "Fishdom",
     "developer": "Playrix",
     "genre": "Game",
@@ -694,9 +680,23 @@
     "app_id": "com.playrix.fishdomdd.gplay",
     "local_name": "Fishdom",
     "icon": "https://play-lh.googleusercontent.com/xCNnX62AirslBmOf5Zp2fySAT9S9XsMUAK3PUGeLVCO4uYHGvfG8lHEof253BQ2q1vS85qsySHt8imuLfIMw",
-    "est_revenue": 300000,
-    "est_revenue_fmt": "$300K",
+    "est_revenue": 312356,
+    "est_revenue_fmt": "$312K",
     "est_revenue_won": "12.0억",
-    "est_revenue_krw": 402909867
+    "est_revenue_krw": 419504381
+  },
+  {
+    "rank": 50,
+    "title": "ドラゴンクエストタクト",
+    "developer": "SQUARE ENIX Co.,Ltd.",
+    "genre": "Game",
+    "rating": 3.9,
+    "app_id": "com.square_enix.android_googleplay.dqtactj",
+    "local_name": "ドラゴンクエストタクト",
+    "icon": "https://play-lh.googleusercontent.com/c5Z44Ne4Zb5KcwGOdJQhE9R-PhpRR7oPk-OetWX6bmIrQxG7CFlSBJTapt334RS4lMHm-1fhYdeBqfIuaGYsB6s",
+    "est_revenue": 312356,
+    "est_revenue_fmt": "$312K",
+    "est_revenue_won": "12.4억",
+    "est_revenue_krw": 419504381
   }
 ]
