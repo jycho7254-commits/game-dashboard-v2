@@ -169,20 +169,6 @@
   },
   {
     "rank": 13,
-    "title": "Royal Match",
-    "developer": "Dream Games, Ltd.",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.dreamgames.royalmatch",
-    "local_name": "Royal Match",
-    "icon": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
-    "est_revenue": 9000000,
-    "est_revenue_fmt": "$9.0M",
-    "est_revenue_won": "47.9억",
-    "est_revenue_krw": 12083710158
-  },
-  {
-    "rank": 14,
     "title": "トゥーンブラスト (Toon Blast)",
     "developer": "Peak",
     "genre": "Game",
@@ -193,6 +179,20 @@
     "est_revenue": 9000000,
     "est_revenue_fmt": "$9.0M",
     "est_revenue_won": "58.6억",
+    "est_revenue_krw": 12083710158
+  },
+  {
+    "rank": 14,
+    "title": "Royal Match",
+    "developer": "Dream Games, Ltd.",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.dreamgames.royalmatch",
+    "local_name": "Royal Match",
+    "icon": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
+    "est_revenue_won": "47.9억",
     "est_revenue_krw": 12083710158
   },
   {
@@ -659,20 +659,6 @@
   },
   {
     "rank": 48,
-    "title": "Fishdom",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.playrix.fishdomdd.gplay",
-    "local_name": "Fishdom",
-    "icon": "https://play-lh.googleusercontent.com/xCNnX62AirslBmOf5Zp2fySAT9S9XsMUAK3PUGeLVCO4uYHGvfG8lHEof253BQ2q1vS85qsySHt8imuLfIMw",
-    "est_revenue": 325426,
-    "est_revenue_fmt": "$325K",
-    "est_revenue_won": "12.4억",
-    "est_revenue_krw": 436928162
-  },
-  {
-    "rank": 49,
     "title": "Pokémon TCG Pocket",
     "developer": "The Pokémon Company",
     "genre": "Game",
@@ -680,9 +666,23 @@
     "app_id": "jp.pokemon.pokemontcgp",
     "local_name": "Pokémon TCG Pocket",
     "icon": "https://play-lh.googleusercontent.com/qdEdyVc19jfittS0bnDUnXLRM7jOPZzfHXEYoChPWOtzMrtwU6t3ZVm_FQ7wbeDYFlqLBuWCDK0Q6c1nEwYKTA",
+    "est_revenue": 325426,
+    "est_revenue_fmt": "$325K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 436928162
+  },
+  {
+    "rank": 49,
+    "title": "Fishdom",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "com.playrix.fishdomdd.gplay",
+    "local_name": "Fishdom",
+    "icon": "https://play-lh.googleusercontent.com/xCNnX62AirslBmOf5Zp2fySAT9S9XsMUAK3PUGeLVCO4uYHGvfG8lHEof253BQ2q1vS85qsySHt8imuLfIMw",
     "est_revenue": 312356,
     "est_revenue_fmt": "$312K",
-    "est_revenue_won": "",
+    "est_revenue_won": "12.4억",
     "est_revenue_krw": 419379930
   },
   {
