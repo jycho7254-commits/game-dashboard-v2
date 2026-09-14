@@ -1,20 +1,6 @@
 [
   {
     "rank": 1,
-    "title": "제우스: 오만의 신",
-    "developer": "Com2uS",
-    "genre": "Game",
-    "rating": 3.6,
-    "app_id": "com.com2us.es.android.google.kr.normal",
-    "local_name": "제우스: 오만의 신",
-    "icon": "https://play-lh.googleusercontent.com/Cn3mFHKMLbpjEBSZGiCKysZpRKXYNm5CH4vGFBLUMpWtZ7gk_2ONDoqAfJ6OIh_V-Lm3d8uZOmzKoAFdQxW4",
-    "est_revenue": 9000000,
-    "est_revenue_fmt": "$9.0M",
-    "est_revenue_won": "120.0억",
-    "est_revenue_krw": 12083710158
-  },
-  {
-    "rank": 2,
     "title": "이클립스: 더 어웨이크닝",
     "developer": "Smilegate, Inc.",
     "genre": "Game",
@@ -22,9 +8,23 @@
     "app_id": "com.smilegate.eclipse.stove.google",
     "local_name": "이클립스: 더 어웨이크닝",
     "icon": "https://play-lh.googleusercontent.com/JhepoyYDmabwj5ffSFC3cyfAdllyeIdHzSW5a3i_nlzsahXojL7S57JR1_RlYYkRh02OXzZM6K1s9KWnd-1Mpw",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
+    "est_revenue_won": "89.0억",
+    "est_revenue_krw": 12083710158
+  },
+  {
+    "rank": 2,
+    "title": "제우스: 오만의 신",
+    "developer": "Com2uS",
+    "genre": "Game",
+    "rating": 3.6,
+    "app_id": "com.com2us.es.android.google.kr.normal",
+    "local_name": "제우스: 오만의 신",
+    "icon": "https://play-lh.googleusercontent.com/Cn3mFHKMLbpjEBSZGiCKysZpRKXYNm5CH4vGFBLUMpWtZ7gk_2ONDoqAfJ6OIh_V-Lm3d8uZOmzKoAFdQxW4",
     "est_revenue": 7707619,
     "est_revenue_fmt": "$7.7M",
-    "est_revenue_won": "89.0억",
+    "est_revenue_won": "120.0억",
     "est_revenue_krw": 10348514889
   },
   {
