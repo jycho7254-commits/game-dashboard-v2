@@ -1,34 +1,6 @@
 [
   {
     "rank": 1,
-    "title": "ドラゴンクエストウォーク",
-    "developer": "SQUARE ENIX Co.,Ltd.",
-    "genre": "Game",
-    "rating": 3.6,
-    "app_id": "com.square_enix.android_googleplay.dqwalkj",
-    "local_name": "ドラゴンクエストウォーク",
-    "icon": "https://play-lh.googleusercontent.com/qEIVjnChpL1kW89KbEsn7-_JqbD18IEhQj_2xP7nrKXifO9gpAvXfI_12_69N65ySjS3SrgFBspBvNsJDHDIxQ",
-    "est_revenue": 20160000,
-    "est_revenue_fmt": "$20.2M",
-    "est_revenue_won": "186.9억",
-    "est_revenue_krw": 27067510754
-  },
-  {
-    "rank": 2,
-    "title": "Honkai: Star Rail",
-    "developer": "COGNOSPHERE PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.HoYoverse.hkrpgoversea",
-    "local_name": "崩壊:スターレイル",
-    "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
-    "est_revenue": 16837478,
-    "est_revenue_fmt": "$16.8M",
-    "est_revenue_won": "222.6억",
-    "est_revenue_krw": 22606578216
-  },
-  {
-    "rank": 3,
     "title": "ウマ娘 プリティーダービー",
     "developer": "Cygames, Inc.",
     "genre": "Game",
@@ -40,6 +12,34 @@
     "est_revenue_fmt": "$10.5M",
     "est_revenue_won": "300.0억",
     "est_revenue_krw": 14097661851
+  },
+  {
+    "rank": 2,
+    "title": "ドラゴンクエストウォーク",
+    "developer": "SQUARE ENIX Co.,Ltd.",
+    "genre": "Game",
+    "rating": 3.6,
+    "app_id": "com.square_enix.android_googleplay.dqwalkj",
+    "local_name": "ドラゴンクエストウォーク",
+    "icon": "https://play-lh.googleusercontent.com/qEIVjnChpL1kW89KbEsn7-_JqbD18IEhQj_2xP7nrKXifO9gpAvXfI_12_69N65ySjS3SrgFBspBvNsJDHDIxQ",
+    "est_revenue": 9721111,
+    "est_revenue_fmt": "$9.7M",
+    "est_revenue_won": "186.9억",
+    "est_revenue_krw": 13051898638
+  },
+  {
+    "rank": 3,
+    "title": "Honkai: Star Rail",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "genre": "Game",
+    "rating": 3.8,
+    "app_id": "com.HoYoverse.hkrpgoversea",
+    "local_name": "崩壊:スターレイル",
+    "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
+    "est_revenue": 9292556,
+    "est_revenue_fmt": "$9.3M",
+    "est_revenue_won": "222.6억",
+    "est_revenue_krw": 12476505926
   },
   {
     "rank": 4,
@@ -435,34 +435,6 @@
   },
   {
     "rank": 32,
-    "title": "ブルーアーカイブ",
-    "developer": "Yostar, Inc.",
-    "genre": "Game",
-    "rating": 3.1,
-    "app_id": "com.YostarJP.BlueArchive",
-    "local_name": "ブルーアーカイブ",
-    "icon": "https://play-lh.googleusercontent.com/H975s6W1-boCSogzpF5_rIyawbjiXfG842ncgjIRiVGzhXHFTCVut0DkBhlDR4CgN1nn98OOC1fWN-LE7kUHnQ",
-    "est_revenue": 782316,
-    "est_revenue_fmt": "$782K",
-    "est_revenue_won": "22.8억",
-    "est_revenue_krw": 1050364422
-  },
-  {
-    "rank": 33,
-    "title": "Royal Kingdom",
-    "developer": "Dream Games, Ltd.",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.dreamgames.royalkingdom",
-    "local_name": "Royal Kingdom",
-    "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
-    "est_revenue": 561866,
-    "est_revenue_fmt": "$562K",
-    "est_revenue_won": "20.9억",
-    "est_revenue_krw": 754380655
-  },
-  {
-    "rank": 34,
     "title": "三國志 真戦",
     "developer": "Qookka Games",
     "genre": "Game",
@@ -470,10 +442,38 @@
     "app_id": "com.qookkagame.sgzzlb.gp.jp",
     "local_name": "三國志 真戦",
     "icon": "https://play-lh.googleusercontent.com/xfbYWk3unWvvNS5lFFkIiAnsUv6iu0VWANsPnU_7A0EB-53NMqzA2AHcrDLwjEun3yMGqYRsYu_d8R0xC4RIYQ",
-    "est_revenue": 561866,
-    "est_revenue_fmt": "$562K",
+    "est_revenue": 768346,
+    "est_revenue_fmt": "$768K",
     "est_revenue_won": "21.8억",
-    "est_revenue_krw": 754380655
+    "est_revenue_krw": 1031607818
+  },
+  {
+    "rank": 33,
+    "title": "ブルーアーカイブ",
+    "developer": "Yostar, Inc.",
+    "genre": "Game",
+    "rating": 3.1,
+    "app_id": "com.YostarJP.BlueArchive",
+    "local_name": "ブルーアーカイブ",
+    "icon": "https://play-lh.googleusercontent.com/H975s6W1-boCSogzpF5_rIyawbjiXfG842ncgjIRiVGzhXHFTCVut0DkBhlDR4CgN1nn98OOC1fWN-LE7kUHnQ",
+    "est_revenue": 740341,
+    "est_revenue_fmt": "$740K",
+    "est_revenue_won": "22.8억",
+    "est_revenue_krw": 994007340
+  },
+  {
+    "rank": 34,
+    "title": "Royal Kingdom",
+    "developer": "Dream Games, Ltd.",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.dreamgames.royalkingdom",
+    "local_name": "Royal Kingdom",
+    "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
+    "est_revenue": 532360,
+    "est_revenue_fmt": "$532K",
+    "est_revenue_won": "20.9억",
+    "est_revenue_krw": 714764882
   },
   {
     "rank": 35,
@@ -484,10 +484,10 @@
     "app_id": "com.zigzagame.paranoize",
     "local_name": "Paranoize",
     "icon": "https://play-lh.googleusercontent.com/7LQtnB1OywAs4z9kyDT5NiAQtoE_TNMU6OdiPAm0znOARQB6lOlxZ7Dq9SQ8kdCvBAsDjGQKzhV2JMHHN2iuQ5g",
-    "est_revenue": 561866,
-    "est_revenue_fmt": "$562K",
+    "est_revenue": 532360,
+    "est_revenue_fmt": "$532K",
     "est_revenue_won": "20.0억",
-    "est_revenue_krw": 754380655
+    "est_revenue_krw": 714764882
   },
   {
     "rank": 36,
@@ -498,10 +498,10 @@
     "app_id": "com.readygo.barrel.gp",
     "local_name": "Last Z: Survival Shooter",
     "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
-    "est_revenue": 561866,
-    "est_revenue_fmt": "$562K",
+    "est_revenue": 532360,
+    "est_revenue_fmt": "$532K",
     "est_revenue_won": "19.2억",
-    "est_revenue_krw": 754380655
+    "est_revenue_krw": 714764882
   },
   {
     "rank": 37,
