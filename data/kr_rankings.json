@@ -435,20 +435,6 @@
   },
   {
     "rank": 32,
-    "title": "Hollywood Merge",
-    "developer": "VoyagerOne IE",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.hollywood.merge",
-    "local_name": "할리우드 머지",
-    "icon": "https://play-lh.googleusercontent.com/5mzN7_uKeXNnloF-zlXGxiwKuepToEdRwbFUK_aQqk7ORLUGPsMwQK__J9IL9DBMWty-zuLvZ4FYHikK2xCttIw",
-    "est_revenue": 347157,
-    "est_revenue_fmt": "$347K",
-    "est_revenue_won": "6.7억",
-    "est_revenue_krw": 467689807
-  },
-  {
-    "rank": 33,
     "title": "컴투스프로야구V26",
     "developer": "Com2uS",
     "genre": "Game",
@@ -456,10 +442,24 @@
     "app_id": "com.com2us.futurecpb.android.google.global.normal",
     "local_name": "컴투스프로야구V26",
     "icon": "https://play-lh.googleusercontent.com/lFrail_ogSgoETUZcsAgLG7gC4lvjcOdffEURRt5kTAaIbr3pdm7s7hrIQNMl-jTu_Hbw7NDuU9gpJZDRsqY",
-    "est_revenue": 347157,
-    "est_revenue_fmt": "$347K",
+    "est_revenue": 428841,
+    "est_revenue_fmt": "$429K",
     "est_revenue_won": "7.1억",
-    "est_revenue_krw": 467689807
+    "est_revenue_krw": 577734467
+  },
+  {
+    "rank": 33,
+    "title": "Hollywood Merge",
+    "developer": "VoyagerOne IE",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.hollywood.merge",
+    "local_name": "할리우드 머지",
+    "icon": "https://play-lh.googleusercontent.com/5mzN7_uKeXNnloF-zlXGxiwKuepToEdRwbFUK_aQqk7ORLUGPsMwQK__J9IL9DBMWty-zuLvZ4FYHikK2xCttIw",
+    "est_revenue": 329102,
+    "est_revenue_fmt": "$329K",
+    "est_revenue_won": "6.7억",
+    "est_revenue_krw": 443366116
   },
   {
     "rank": 34,
@@ -561,6 +561,20 @@
   },
   {
     "rank": 41,
+    "title": "Top Lords",
+    "developer": "GAME SPARK",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.gamespark.topking.gp",
+    "local_name": "Top Lords",
+    "icon": "https://play-lh.googleusercontent.com/F9Nk01jBia2OZFGndBuTP-rJ-ThbicTHpxJj3iZIk-M1-V8qFhVuVQWYAG_zCuggkiRXHrfqyU5XwZPhAJyAfA",
+    "est_revenue": 244311,
+    "est_revenue_fmt": "$244K",
+    "est_revenue_won": "3.2억",
+    "est_revenue_krw": 329135706
+  },
+  {
+    "rank": 42,
     "title": "AION2",
     "developer": "NC Corporation",
     "genre": "Game",
@@ -574,7 +588,7 @@
     "est_revenue_krw": 329135706
   },
   {
-    "rank": 42,
+    "rank": 43,
     "title": "Brawl Stars",
     "developer": "Supercell",
     "genre": "Game",
@@ -582,23 +596,9 @@
     "app_id": "com.supercell.brawlstars",
     "local_name": "브롤스타즈",
     "icon": "https://play-lh.googleusercontent.com/wEOIM7cYyXkMExNztvFYKHJLPegXp6h81-P_JQQ_9KQvDCWK49m2zpt1mTRXO5bA2qU_Bp4em_nfMsHXmq8Z",
-    "est_revenue": 244311,
-    "est_revenue_fmt": "$244K",
-    "est_revenue_won": "3.5억",
-    "est_revenue_krw": 329135706
-  },
-  {
-    "rank": 43,
-    "title": "Top Lords",
-    "developer": "GAME SPARK",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.gamespark.topking.gp",
-    "local_name": "Top Lords",
-    "icon": "https://play-lh.googleusercontent.com/F9Nk01jBia2OZFGndBuTP-rJ-ThbicTHpxJj3iZIk-M1-V8qFhVuVQWYAG_zCuggkiRXHrfqyU5XwZPhAJyAfA",
     "est_revenue": 239991,
     "est_revenue_fmt": "$240K",
-    "est_revenue_won": "3.2억",
+    "est_revenue_won": "3.5억",
     "est_revenue_krw": 323315803
   },
   {
