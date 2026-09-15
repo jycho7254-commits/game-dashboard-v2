@@ -211,20 +211,6 @@
   },
   {
     "rank": 16,
-    "title": "アズールレーン",
-    "developer": "Yostar, Inc.",
-    "genre": "Game",
-    "rating": 3.9,
-    "app_id": "com.YoStarJP.AzurLane",
-    "local_name": "アズールレーン",
-    "icon": "https://play-lh.googleusercontent.com/xm_fZgRuFC6npGnzKgBbw1V2VuZo4Pc67LLcrecmihkaDK-LFa_yKi6x4zmg-Nb-tvqy1ppLgjEdmgZMV00vg9E",
-    "est_revenue": 9000000,
-    "est_revenue_fmt": "$9.0M",
-    "est_revenue_won": "51.2억",
-    "est_revenue_krw": 12124797309
-  },
-  {
-    "rank": 17,
     "title": "Pokémon GO",
     "developer": "Scopely Explore, Inc.",
     "genre": "Game",
@@ -235,6 +221,20 @@
     "est_revenue": 9000000,
     "est_revenue_fmt": "$9.0M",
     "est_revenue_won": "47.9억",
+    "est_revenue_krw": 12124797309
+  },
+  {
+    "rank": 17,
+    "title": "アズールレーン",
+    "developer": "Yostar, Inc.",
+    "genre": "Game",
+    "rating": 3.9,
+    "app_id": "com.YoStarJP.AzurLane",
+    "local_name": "アズールレーン",
+    "icon": "https://play-lh.googleusercontent.com/xm_fZgRuFC6npGnzKgBbw1V2VuZo4Pc67LLcrecmihkaDK-LFa_yKi6x4zmg-Nb-tvqy1ppLgjEdmgZMV00vg9E",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
+    "est_revenue_won": "51.2억",
     "est_revenue_krw": 12124797309
   },
   {
@@ -533,20 +533,6 @@
   },
   {
     "rank": 39,
-    "title": "SDガンダム ジージェネレーション エターナル",
-    "developer": "Bandai Namco Entertainment Inc.",
-    "genre": "Game",
-    "rating": 4,
-    "app_id": "com.bandainamcoent.gget_JP",
-    "local_name": "SDガンダム ジージェネレーション エターナル",
-    "icon": "https://play-lh.googleusercontent.com/WI-nOxNBdI82iuMwMpFjVWkTxs4Bh3dVmAQL8xwJ-U9120sfcbXLJWnn3X5IpBtdG8wzph-sobJyM0P484APwDA",
-    "est_revenue": 455849,
-    "est_revenue_fmt": "$456K",
-    "est_revenue_won": "16.5억",
-    "est_revenue_krw": 614119637
-  },
-  {
-    "rank": 40,
     "title": "Pokémon Masters EX",
     "developer": "DeNA Co., Ltd.",
     "genre": "Game",
@@ -557,6 +543,20 @@
     "est_revenue": 455849,
     "est_revenue_fmt": "$456K",
     "est_revenue_won": "17.1억",
+    "est_revenue_krw": 614119637
+  },
+  {
+    "rank": 40,
+    "title": "SDガンダム ジージェネレーション エターナル",
+    "developer": "Bandai Namco Entertainment Inc.",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "com.bandainamcoent.gget_JP",
+    "local_name": "SDガンダム ジージェネレーション エターナル",
+    "icon": "https://play-lh.googleusercontent.com/WI-nOxNBdI82iuMwMpFjVWkTxs4Bh3dVmAQL8xwJ-U9120sfcbXLJWnn3X5IpBtdG8wzph-sobJyM0P484APwDA",
+    "est_revenue": 455849,
+    "est_revenue_fmt": "$456K",
+    "est_revenue_won": "16.5억",
     "est_revenue_krw": 614119637
   },
   {
@@ -575,20 +575,6 @@
   },
   {
     "rank": 42,
-    "title": "信長の野望 出陣",
-    "developer": "KOEI TECMO GAMES CO., LTD.",
-    "genre": "Game",
-    "rating": 3.9,
-    "app_id": "jp.co.koeitecmo.nobunaga.shutsujin",
-    "local_name": "信長の野望 出陣",
-    "icon": "https://play-lh.googleusercontent.com/eBRy1bNgigJRz8AHFnUC39RySgktprBV3YBX5gmffDrKLiy1uN6GUF0_Qm3MuhJHIOnSEp90JEmUG7Tuq2704ME",
-    "est_revenue": 455849,
-    "est_revenue_fmt": "$456K",
-    "est_revenue_won": "14.4억",
-    "est_revenue_krw": 614119637
-  },
-  {
-    "rank": 43,
     "title": "Hollywood Merge",
     "developer": "VoyagerOne IE",
     "genre": "Game",
@@ -596,10 +582,24 @@
     "app_id": "com.hollywood.merge",
     "local_name": "Hollywood Merge",
     "icon": "https://play-lh.googleusercontent.com/5mzN7_uKeXNnloF-zlXGxiwKuepToEdRwbFUK_aQqk7ORLUGPsMwQK__J9IL9DBMWty-zuLvZ4FYHikK2xCttIw",
-    "est_revenue": 343015,
-    "est_revenue_fmt": "$343K",
+    "est_revenue": 358895,
+    "est_revenue_fmt": "$359K",
     "est_revenue_won": "15.4억",
-    "est_revenue_krw": 462109705
+    "est_revenue_krw": 483503237
+  },
+  {
+    "rank": 43,
+    "title": "信長の野望 出陣",
+    "developer": "KOEI TECMO GAMES CO., LTD.",
+    "genre": "Game",
+    "rating": 3.9,
+    "app_id": "jp.co.koeitecmo.nobunaga.shutsujin",
+    "local_name": "信長の野望 出陣",
+    "icon": "https://play-lh.googleusercontent.com/eBRy1bNgigJRz8AHFnUC39RySgktprBV3YBX5gmffDrKLiy1uN6GUF0_Qm3MuhJHIOnSEp90JEmUG7Tuq2704ME",
+    "est_revenue": 358895,
+    "est_revenue_fmt": "$359K",
+    "est_revenue_won": "14.4억",
+    "est_revenue_krw": 483503237
   },
   {
     "rank": 44,
@@ -610,10 +610,10 @@
     "app_id": "com.roblox.client",
     "local_name": "Roblox",
     "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
-    "est_revenue": 343015,
-    "est_revenue_fmt": "$343K",
+    "est_revenue": 358895,
+    "est_revenue_fmt": "$359K",
     "est_revenue_won": "14.9억",
-    "est_revenue_krw": 462109705
+    "est_revenue_krw": 483503237
   },
   {
     "rank": 45,
@@ -624,10 +624,10 @@
     "app_id": "com.smilegate.chaoszero.stove.google",
     "local_name": "Chaos Zero Nightmare",
     "icon": "https://play-lh.googleusercontent.com/rZ0kLPx7Y_zRavJ1TImLv3oj0HYRrye8K9wJOuegTIrfxaS2qyGu9tWJcXphO0ELMfj3BgOSG_BPKKVST6zDPg",
-    "est_revenue": 343015,
-    "est_revenue_fmt": "$343K",
+    "est_revenue": 358895,
+    "est_revenue_fmt": "$359K",
     "est_revenue_won": "14.0억",
-    "est_revenue_krw": 462109705
+    "est_revenue_krw": 483503237
   },
   {
     "rank": 46,
@@ -638,10 +638,10 @@
     "app_id": "com.playrix.fishdomdd.gplay",
     "local_name": "Fishdom",
     "icon": "https://play-lh.googleusercontent.com/xCNnX62AirslBmOf5Zp2fySAT9S9XsMUAK3PUGeLVCO4uYHGvfG8lHEof253BQ2q1vS85qsySHt8imuLfIMw",
-    "est_revenue": 343015,
-    "est_revenue_fmt": "$343K",
+    "est_revenue": 353924,
+    "est_revenue_fmt": "$354K",
     "est_revenue_won": "12.7억",
-    "est_revenue_krw": 462109705
+    "est_revenue_krw": 476806307
   },
   {
     "rank": 47,
@@ -652,10 +652,10 @@
     "app_id": "com.square_enix.android_googleplay.dqtactj",
     "local_name": "ドラゴンクエストタクト",
     "icon": "https://play-lh.googleusercontent.com/c5Z44Ne4Zb5KcwGOdJQhE9R-PhpRR7oPk-OetWX6bmIrQxG7CFlSBJTapt334RS4lMHm-1fhYdeBqfIuaGYsB6s",
-    "est_revenue": 343015,
-    "est_revenue_fmt": "$343K",
+    "est_revenue": 353924,
+    "est_revenue_fmt": "$354K",
     "est_revenue_won": "13.5억",
-    "est_revenue_krw": 462109705
+    "est_revenue_krw": 476806307
   },
   {
     "rank": 48,
