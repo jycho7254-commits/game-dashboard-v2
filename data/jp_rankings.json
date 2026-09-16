@@ -197,20 +197,6 @@
   },
   {
     "rank": 15,
-    "title": "Fate/Grand Order",
-    "developer": "Aniplex Inc.",
-    "genre": "Game",
-    "rating": 3.7,
-    "app_id": "com.aniplex.fategrandorder",
-    "local_name": "Fate/Grand Order",
-    "icon": "https://play-lh.googleusercontent.com/pTlA4kXv97Yo6rfV408vK6PNbcYQ667FeOdtzZm8mFnWkp_hB4yVhFDNNwRNX14icPefOY2SGlEiXMR4uAhU-uE",
-    "est_revenue": 9000000,
-    "est_revenue_fmt": "$9.0M",
-    "est_revenue_won": "47.9억",
-    "est_revenue_krw": 12243256002
-  },
-  {
-    "rank": 16,
     "title": "Pokémon GO",
     "developer": "Scopely Explore, Inc.",
     "genre": "Game",
@@ -224,7 +210,7 @@
     "est_revenue_krw": 12243256002
   },
   {
-    "rank": 17,
+    "rank": 16,
     "title": "Kingshot",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -235,6 +221,20 @@
     "est_revenue": 9000000,
     "est_revenue_fmt": "$9.0M",
     "est_revenue_won": "51.2억",
+    "est_revenue_krw": 12243256002
+  },
+  {
+    "rank": 17,
+    "title": "Fate/Grand Order",
+    "developer": "Aniplex Inc.",
+    "genre": "Game",
+    "rating": 3.7,
+    "app_id": "com.aniplex.fategrandorder",
+    "local_name": "Fate/Grand Order",
+    "icon": "https://play-lh.googleusercontent.com/pTlA4kXv97Yo6rfV408vK6PNbcYQ667FeOdtzZm8mFnWkp_hB4yVhFDNNwRNX14icPefOY2SGlEiXMR4uAhU-uE",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
+    "est_revenue_won": "47.9억",
     "est_revenue_krw": 12243256002
   },
   {
@@ -260,10 +260,10 @@
     "app_id": "jp.konami.suikoden.starleap",
     "local_name": "幻想水滸伝 STAR LEAP",
     "icon": "https://play-lh.googleusercontent.com/CZqC6kjKA871p5R5tf734xuTrgNd7B2DC9Q2Y1Fj0Bmdg3z2I8PhgV-7JNsOg-g-BV1ZWNLRPqq0frr9byaN",
-    "est_revenue": 8467942,
-    "est_revenue_fmt": "$8.5M",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
     "est_revenue_won": "42.3억",
-    "est_revenue_krw": 11519464635
+    "est_revenue_krw": 12243256002
   },
   {
     "rank": 20,
@@ -274,10 +274,10 @@
     "app_id": "com.playrix.township",
     "local_name": "Township",
     "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
-    "est_revenue": 7851006,
-    "est_revenue_fmt": "$7.9M",
+    "est_revenue": 8655848,
+    "est_revenue_fmt": "$8.7M",
     "est_revenue_won": "40.0억",
-    "est_revenue_krw": 10680208481
+    "est_revenue_krw": 11775084775
   },
   {
     "rank": 21,
@@ -288,10 +288,10 @@
     "app_id": "com.playrix.gardenscapes",
     "local_name": "Gardenscapes",
     "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
-    "est_revenue": 7305938,
-    "est_revenue_fmt": "$7.3M",
+    "est_revenue": 7847260,
+    "est_revenue_fmt": "$7.8M",
     "est_revenue_won": "37.8억",
-    "est_revenue_krw": 9938718808
+    "est_revenue_krw": 10675112566
   },
   {
     "rank": 22,
@@ -302,10 +302,10 @@
     "app_id": "jp.glee.girl",
     "local_name": "放置少女 - 百花繚乱の萌姫たち",
     "icon": "https://play-lh.googleusercontent.com/0fP5hPnpj6neM2Kq4xkFQCkWIrY4M3uR9f8jgPlJT-ctAkuqjBnEnOmmxhYNFUbHPL9KxrvcV5ffLWOV80BhaOM",
-    "est_revenue": 6821512,
-    "est_revenue_fmt": "$6.8M",
+    "est_revenue": 7146743,
+    "est_revenue_fmt": "$7.1M",
     "est_revenue_won": "35.8억",
-    "est_revenue_krw": 9279724193
+    "est_revenue_krw": 9722156014
   },
   {
     "rank": 23,
@@ -316,10 +316,10 @@
     "app_id": "jp.co.happyelements.boysm",
     "local_name": "あんさんぶるスターズ！！Music",
     "icon": "https://play-lh.googleusercontent.com/McMZLXR9hYWUG883v6EVIh5k9P5iME0wPSbgd_bhVNU9hkUV-NlpXsfR4Je8o9TrlF52jzhMUkRQcefF5ZVkFw",
-    "est_revenue": 6388663,
-    "est_revenue_fmt": "$6.4M",
+    "est_revenue": 6535876,
+    "est_revenue_fmt": "$6.5M",
     "est_revenue_won": "34.0억",
-    "est_revenue_krw": 8690892958
+    "est_revenue_krw": 8891155896
   },
   {
     "rank": 24,
@@ -337,20 +337,6 @@
   },
   {
     "rank": 25,
-    "title": "Zenless Zone Zero",
-    "developer": "COGNOSPHERE PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.3,
-    "app_id": "com.HoYoverse.Nap",
-    "local_name": "Zenless Zone Zero",
-    "icon": "https://play-lh.googleusercontent.com/N8j-t_IXvDvqFzN3U_19OJPIyAHHgljwVa7TMyCYpdRXRykalU3HKq9u9oPnzDXEkUOX1yyuX16yuWNDrUC_Uw",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "30.9억",
-    "est_revenue_krw": 8162170668
-  },
-  {
-    "rank": 26,
     "title": "ホロライブドリームス",
     "developer": "QualiArts, Inc.",
     "genre": "Game",
@@ -361,6 +347,20 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "29.5억",
+    "est_revenue_krw": 8162170668
+  },
+  {
+    "rank": 26,
+    "title": "Zenless Zone Zero",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "genre": "Game",
+    "rating": 3.3,
+    "app_id": "com.HoYoverse.Nap",
+    "local_name": "Zenless Zone Zero",
+    "icon": "https://play-lh.googleusercontent.com/N8j-t_IXvDvqFzN3U_19OJPIyAHHgljwVa7TMyCYpdRXRykalU3HKq9u9oPnzDXEkUOX1yyuX16yuWNDrUC_Uw",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "30.9억",
     "est_revenue_krw": 8162170668
   },
   {
@@ -659,20 +659,6 @@
   },
   {
     "rank": 48,
-    "title": "ディズニー ツイステッドワンダーランド",
-    "developer": "Aniplex Inc.",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.aniplex.twst.jp",
-    "local_name": "ディズニー ツイステッドワンダーランド",
-    "icon": "https://play-lh.googleusercontent.com/MWl3p8AK5JePFPbozr-mbGUNYqBTupUJTUg5QBalXhkXUlNaaRxoFC9_3fthp0aPUTSQgaRFLTPYWJgLGRAk7Ro",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "12.7억",
-    "est_revenue_krw": 8162170668
-  },
-  {
-    "rank": 49,
     "title": "Genshin Impact",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -686,17 +672,31 @@
     "est_revenue_krw": 8162170668
   },
   {
-    "rank": 50,
-    "title": "旦那様の一発逆転人生",
-    "developer": "37Games-Oversea",
+    "rank": 49,
+    "title": "ディズニー ツイステッドワンダーランド",
+    "developer": "Aniplex Inc.",
     "genre": "Game",
-    "rating": 2.8,
-    "app_id": "com.jp.beauty",
-    "local_name": "旦那様の一発逆転人生",
-    "icon": "https://play-lh.googleusercontent.com/dMZpIM_uav-hfQKPl5XUjHB98vvUJJl_7U99lE1sIMJ447lPXCn93_SiInconGTh89-ia18k5Q8dJF799wXctQ",
-    "est_revenue": 300000,
-    "est_revenue_fmt": "$300K",
+    "rating": 4.6,
+    "app_id": "com.aniplex.twst.jp",
+    "local_name": "ディズニー ツイステッドワンダーランド",
+    "icon": "https://play-lh.googleusercontent.com/MWl3p8AK5JePFPbozr-mbGUNYqBTupUJTUg5QBalXhkXUlNaaRxoFC9_3fthp0aPUTSQgaRFLTPYWJgLGRAk7Ro",
+    "est_revenue": 312356,
+    "est_revenue_fmt": "$312K",
+    "est_revenue_won": "12.7억",
+    "est_revenue_krw": 424917164
+  },
+  {
+    "rank": 50,
+    "title": "MementoMori: AFKRPG",
+    "developer": "Bank of Innovation, Inc.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "jp.boi.mementomori.android",
+    "local_name": "MementoMori: AFKRPG",
+    "icon": "https://play-lh.googleusercontent.com/HG9W8SRyTeeLPFrrS17a06d5ANgakJbHomr73o3l6I23YAiIFL399Y1_Q-2FDBO_zxqETTkphFhE-uTeuD2nH6w",
+    "est_revenue": 312356,
+    "est_revenue_fmt": "$312K",
     "est_revenue_won": "",
-    "est_revenue_krw": 408108533
+    "est_revenue_krw": 424917164
   }
 ]
