@@ -4,7 +4,7 @@
     "title": "이클립스: 더 어웨이크닝",
     "developer": "Smilegate, Inc.",
     "genre": "Game",
-    "rating": 4,
+    "rating": 4.1,
     "app_id": "com.smilegate.eclipse.stove.google",
     "local_name": "이클립스: 더 어웨이크닝",
     "icon": "https://play-lh.googleusercontent.com/JhepoyYDmabwj5ffSFC3cyfAdllyeIdHzSW5a3i_nlzsahXojL7S57JR1_RlYYkRh02OXzZM6K1s9KWnd-1Mpw",
@@ -71,6 +71,20 @@
   },
   {
     "rank": 6,
+    "title": "MapleStory : Idle RPG",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.nexon.ma",
+    "local_name": "메이플스토리: 모바일",
+    "icon": "https://play-lh.googleusercontent.com/VKzgyaBMxhdjOfgfRuJobcjnMkoWVxB9KCQpoPOcb0S4lltYv55Zi2fClECBPWMaAzm74buXQW7X6CO344sD",
+    "est_revenue": 7707619,
+    "est_revenue_fmt": "$7.7M",
+    "est_revenue_won": "52.1억",
+    "est_revenue_krw": 10485150287
+  },
+  {
+    "rank": 7,
     "title": "SOL: enchant",
     "developer": "Netmarble",
     "genre": "Game",
@@ -84,20 +98,6 @@
     "est_revenue_krw": 10485150287
   },
   {
-    "rank": 7,
-    "title": "MapleStory : Idle RPG",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.nexon.ma",
-    "local_name": "메이플스토리: 모바일",
-    "icon": "https://play-lh.googleusercontent.com/VKzgyaBMxhdjOfgfRuJobcjnMkoWVxB9KCQpoPOcb0S4lltYv55Zi2fClECBPWMaAzm74buXQW7X6CO344sD",
-    "est_revenue": 5750573,
-    "est_revenue_fmt": "$5.8M",
-    "est_revenue_won": "52.1억",
-    "est_revenue_krw": 7822859711
-  },
-  {
     "rank": 8,
     "title": "Roblox",
     "developer": "Roblox Corporation",
@@ -106,10 +106,10 @@
     "app_id": "com.roblox.client",
     "local_name": "로블록스",
     "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
-    "est_revenue": 3722718,
-    "est_revenue_fmt": "$3.7M",
+    "est_revenue": 5096282,
+    "est_revenue_fmt": "$5.1M",
     "est_revenue_won": "38.0억",
-    "est_revenue_krw": 5064243277
+    "est_revenue_krw": 6932787243
   },
   {
     "rank": 9,
@@ -120,10 +120,10 @@
     "app_id": "com.mergegames.gossipharbor",
     "local_name": "가십 하버",
     "icon": "https://play-lh.googleusercontent.com/VEmJnv1zUKIcst7pnOOqEFBXItThIbTzS29wxDEhJ9vPnXxNEHJAOkclrUMYFBR9essYJKDhkm-lPR95161D",
-    "est_revenue": 2536774,
-    "est_revenue_fmt": "$2.5M",
+    "est_revenue": 2942266,
+    "est_revenue_fmt": "$2.9M",
     "est_revenue_won": "41.6억",
-    "est_revenue_krw": 3450930389
+    "est_revenue_krw": 4002546207
   },
   {
     "rank": 10,
@@ -393,6 +393,20 @@
   },
   {
     "rank": 29,
+    "title": "Vampir",
+    "developer": "Netmarble",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "com.netmarble.thered",
+    "local_name": "뱀피르",
+    "icon": "https://play-lh.googleusercontent.com/O3AtBJqCPmOHow-d2tskDjwXGWpYpgz2bPEJC5s-FQ1BzmtxnFTQ4h6OTTJ74pyih8KBs78UsTk7w6PAHkbt",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "6.0억",
+    "est_revenue_krw": 2448651200
+  },
+  {
+    "rank": 30,
     "title": "Hollywood Merge",
     "developer": "VoyagerOne IE",
     "genre": "Game",
@@ -406,7 +420,7 @@
     "est_revenue_krw": 2448651200
   },
   {
-    "rank": 30,
+    "rank": 31,
     "title": "컴투스프로야구V26",
     "developer": "Com2uS",
     "genre": "Game",
@@ -420,7 +434,7 @@
     "est_revenue_krw": 2448651200
   },
   {
-    "rank": 31,
+    "rank": 32,
     "title": "Wild Water World",
     "developer": "Hong Kong Just Game Technology Limited",
     "genre": "Game",
@@ -431,20 +445,6 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "5.6억",
-    "est_revenue_krw": 2448651200
-  },
-  {
-    "rank": 32,
-    "title": "Vampir",
-    "developer": "Netmarble",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.netmarble.thered",
-    "local_name": "뱀피르",
-    "icon": "https://play-lh.googleusercontent.com/O3AtBJqCPmOHow-d2tskDjwXGWpYpgz2bPEJC5s-FQ1BzmtxnFTQ4h6OTTJ74pyih8KBs78UsTk7w6PAHkbt",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "6.0억",
     "est_revenue_krw": 2448651200
   },
   {
