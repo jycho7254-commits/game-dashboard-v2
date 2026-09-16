@@ -673,20 +673,6 @@
   },
   {
     "rank": 49,
-    "title": "RF ONLINE NEXT",
-    "developer": "Netmarble",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.netmarble.rfnext",
-    "local_name": "RF ONLINE NEXT",
-    "icon": "https://play-lh.googleusercontent.com/IkNZqliSHoIRoWo-SFO0b8pzt53n1Epi-Tf9p8LbwczkafXbMcuQTpmgpdU-DIKeamrQoyqgRQTars9qnpe0Gg",
-    "est_revenue": 165567,
-    "est_revenue_fmt": "$166K",
-    "est_revenue_won": "3.1억",
-    "est_revenue_krw": 225231018
-  },
-  {
-    "rank": 50,
     "title": "삼국지: 천하결전",
     "developer": "BILIBILI",
     "genre": "Game",
@@ -697,6 +683,20 @@
     "est_revenue": 165567,
     "est_revenue_fmt": "$166K",
     "est_revenue_won": "3.0억",
+    "est_revenue_krw": 225231018
+  },
+  {
+    "rank": 50,
+    "title": "RF ONLINE NEXT",
+    "developer": "Netmarble",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.netmarble.rfnext",
+    "local_name": "RF ONLINE NEXT",
+    "icon": "https://play-lh.googleusercontent.com/IkNZqliSHoIRoWo-SFO0b8pzt53n1Epi-Tf9p8LbwczkafXbMcuQTpmgpdU-DIKeamrQoyqgRQTars9qnpe0Gg",
+    "est_revenue": 165567,
+    "est_revenue_fmt": "$166K",
+    "est_revenue_won": "3.1억",
     "est_revenue_krw": 225231018
   }
 ]
