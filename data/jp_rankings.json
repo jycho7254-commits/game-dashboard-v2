@@ -85,20 +85,6 @@
   },
   {
     "rank": 7,
-    "title": "パズル＆ドラゴンズ(Puzzle & Dragons)",
-    "developer": "GungHo Online Entertainment, Inc.",
-    "genre": "Game",
-    "rating": 3.2,
-    "app_id": "jp.gungho.pad",
-    "local_name": "パズル＆ドラゴンズ(Puzzle & Dragons)",
-    "icon": "https://play-lh.googleusercontent.com/ra7eGhpGZqaK3zVeyaat5kJZ3qRiJVQ8Yel-fOB4o5lWh6WgeivGdzRTJl14tAKKqBkcDYmw_DSziNL_Dq9F",
-    "est_revenue": 9000000,
-    "est_revenue_fmt": "$9.0M",
-    "est_revenue_won": "110.6억",
-    "est_revenue_krw": 12328300890
-  },
-  {
-    "rank": 8,
     "title": "Last War:Survival Game",
     "developer": "FUNFLY PTE. LTD.",
     "genre": "Game",
@@ -112,7 +98,7 @@
     "est_revenue_krw": 12328300890
   },
   {
-    "rank": 9,
+    "rank": 8,
     "title": "Whiteout Survival",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -126,7 +112,7 @@
     "est_revenue_krw": 12328300890
   },
   {
-    "rank": 10,
+    "rank": 9,
     "title": "Gossip Harbor®: Merge & Story",
     "developer": "Microfun Limited",
     "genre": "Game",
@@ -140,7 +126,7 @@
     "est_revenue_krw": 12328300890
   },
   {
-    "rank": 11,
+    "rank": 10,
     "title": "Puzzles & Survival",
     "developer": "37GAMES",
     "genre": "Game",
@@ -151,6 +137,20 @@
     "est_revenue": 9000000,
     "est_revenue_fmt": "$9.0M",
     "est_revenue_won": "88.0억",
+    "est_revenue_krw": 12328300890
+  },
+  {
+    "rank": 11,
+    "title": "パズル＆ドラゴンズ(Puzzle & Dragons)",
+    "developer": "GungHo Online Entertainment, Inc.",
+    "genre": "Game",
+    "rating": 3.2,
+    "app_id": "jp.gungho.pad",
+    "local_name": "パズル＆ドラゴンズ(Puzzle & Dragons)",
+    "icon": "https://play-lh.googleusercontent.com/ra7eGhpGZqaK3zVeyaat5kJZ3qRiJVQ8Yel-fOB4o5lWh6WgeivGdzRTJl14tAKKqBkcDYmw_DSziNL_Dq9F",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
+    "est_revenue_won": "110.6억",
     "est_revenue_krw": 12328300890
   },
   {
@@ -687,13 +687,13 @@
   },
   {
     "rank": 50,
-    "title": "旦那様の一発逆転人生",
-    "developer": "37Games-Oversea",
+    "title": "ディズニー ツイステッドワンダーランド",
+    "developer": "Aniplex Inc.",
     "genre": "Game",
-    "rating": 2.8,
-    "app_id": "com.jp.beauty",
-    "local_name": "旦那様の一発逆転人生",
-    "icon": "https://play-lh.googleusercontent.com/dMZpIM_uav-hfQKPl5XUjHB98vvUJJl_7U99lE1sIMJ447lPXCn93_SiInconGTh89-ia18k5Q8dJF799wXctQ",
+    "rating": 4.6,
+    "app_id": "com.aniplex.twst.jp",
+    "local_name": "ディズニー ツイステッドワンダーランド",
+    "icon": "https://play-lh.googleusercontent.com/MWl3p8AK5JePFPbozr-mbGUNYqBTupUJTUg5QBalXhkXUlNaaRxoFC9_3fthp0aPUTSQgaRFLTPYWJgLGRAk7Ro",
     "est_revenue": 300000,
     "est_revenue_fmt": "$300K",
     "est_revenue_won": "",
