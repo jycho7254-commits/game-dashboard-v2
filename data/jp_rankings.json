@@ -435,20 +435,6 @@
   },
   {
     "rank": 32,
-    "title": "Pokémon Masters EX",
-    "developer": "DeNA Co., Ltd.",
-    "genre": "Game",
-    "rating": 4.1,
-    "app_id": "com.dena.a12026418",
-    "local_name": "Pokémon Masters EX",
-    "icon": "https://play-lh.googleusercontent.com/IsrKHHbA8zI-ek18iMBN1yCBqCocyGVX_0dT-Q4uRRF1pnlaqhn-_E1KjJ0u5nPcXyprqprFlgq7ijx5qy5i",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "22.8억",
-    "est_revenue_krw": 8218867260
-  },
-  {
-    "rank": 33,
     "title": "プロ野球スピリッツA",
     "developer": "KONAMI",
     "genre": "Game",
@@ -459,6 +445,20 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "21.8억",
+    "est_revenue_krw": 8218867260
+  },
+  {
+    "rank": 33,
+    "title": "Pokémon Masters EX",
+    "developer": "DeNA Co., Ltd.",
+    "genre": "Game",
+    "rating": 4.1,
+    "app_id": "com.dena.a12026418",
+    "local_name": "Pokémon Masters EX",
+    "icon": "https://play-lh.googleusercontent.com/IsrKHHbA8zI-ek18iMBN1yCBqCocyGVX_0dT-Q4uRRF1pnlaqhn-_E1KjJ0u5nPcXyprqprFlgq7ijx5qy5i",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "22.8억",
     "est_revenue_krw": 8218867260
   },
   {
@@ -631,20 +631,6 @@
   },
   {
     "rank": 46,
-    "title": "NTE: Neverness to Everness",
-    "developer": "N2E",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.hottagames.nte",
-    "local_name": "NTE: Neverness to Everness",
-    "icon": "https://play-lh.googleusercontent.com/TGl3DdDbi4hty6ooOhEvv_2s5tkpGLbL6derP8y5hK-_Bw--Ve375b08ba9HHQ9ueRpoQ9oye1T_T24BJriLUmw",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "13.5억",
-    "est_revenue_krw": 8218867260
-  },
-  {
-    "rank": 47,
     "title": "Genshin Impact",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -656,6 +642,20 @@
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "13.1억",
     "est_revenue_krw": 8218867260
+  },
+  {
+    "rank": 47,
+    "title": "NTE: Neverness to Everness",
+    "developer": "N2E",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.hottagames.nte",
+    "local_name": "NTE: Neverness to Everness",
+    "icon": "https://play-lh.googleusercontent.com/TGl3DdDbi4hty6ooOhEvv_2s5tkpGLbL6derP8y5hK-_Bw--Ve375b08ba9HHQ9ueRpoQ9oye1T_T24BJriLUmw",
+    "est_revenue": 379973,
+    "est_revenue_fmt": "$380K",
+    "est_revenue_won": "13.5억",
+    "est_revenue_krw": 520491275
   },
   {
     "rank": 48,
@@ -673,20 +673,6 @@
   },
   {
     "rank": 49,
-    "title": "Cell Survivor",
-    "developer": "Snap Brain Games",
-    "genre": "Game",
-    "rating": 4,
-    "app_id": "defense.roguelike.cell.shoot.survivor",
-    "local_name": "Cell Survivor",
-    "icon": "https://play-lh.googleusercontent.com/mcRLgblfhwb3ozuyoB7SCw1Z-cmTv7EIUURrJz69FHjhpdn0FmpHC0_jz47VFw5hANKyjNVNH6Tygdu7XjkzNw",
-    "est_revenue": 312356,
-    "est_revenue_fmt": "$312K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 427868750
-  },
-  {
-    "rank": 50,
     "title": "ディズニー ツイステッドワンダーランド",
     "developer": "Aniplex Inc.",
     "genre": "Game",
@@ -694,9 +680,23 @@
     "app_id": "com.aniplex.twst.jp",
     "local_name": "ディズニー ツイステッドワンダーランド",
     "icon": "https://play-lh.googleusercontent.com/MWl3p8AK5JePFPbozr-mbGUNYqBTupUJTUg5QBalXhkXUlNaaRxoFC9_3fthp0aPUTSQgaRFLTPYWJgLGRAk7Ro",
+    "est_revenue": 312356,
+    "est_revenue_fmt": "$312K",
+    "est_revenue_won": "12.4억",
+    "est_revenue_krw": 427868750
+  },
+  {
+    "rank": 50,
+    "title": "Cell Survivor",
+    "developer": "Snap Brain Games",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "defense.roguelike.cell.shoot.survivor",
+    "local_name": "Cell Survivor",
+    "icon": "https://play-lh.googleusercontent.com/mcRLgblfhwb3ozuyoB7SCw1Z-cmTv7EIUURrJz69FHjhpdn0FmpHC0_jz47VFw5hANKyjNVNH6Tygdu7XjkzNw",
     "est_revenue": 300000,
     "est_revenue_fmt": "$300K",
-    "est_revenue_won": "12.4억",
+    "est_revenue_won": "",
     "est_revenue_krw": 410943363
   }
 ]
