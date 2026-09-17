@@ -211,20 +211,6 @@
   },
   {
     "rank": 16,
-    "title": "한게임 포커",
-    "developer": "NHN Corp.",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.nhnent.Qpoker",
-    "local_name": "한게임 포커",
-    "icon": "https://play-lh.googleusercontent.com/Imi0dOs8mMcOxNvc4MGXbfdG1QNKgE70v1DYU4GTIXPlbCy5RGoC-XjBRdEwvb-jDGXAXFj9j43c7flORYphv7I",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "20.2억",
-    "est_revenue_krw": 2465660178
-  },
-  {
-    "rank": 17,
     "title": "GODDESS OF VICTORY: NIKKE",
     "developer": "Level Infinite",
     "genre": "Game",
@@ -236,6 +222,20 @@
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "6.0억",
     "est_revenue_krw": 2465660178
+  },
+  {
+    "rank": 17,
+    "title": "한게임 포커",
+    "developer": "NHN Corp.",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.nhnent.Qpoker",
+    "local_name": "한게임 포커",
+    "icon": "https://play-lh.googleusercontent.com/Imi0dOs8mMcOxNvc4MGXbfdG1QNKgE70v1DYU4GTIXPlbCy5RGoC-XjBRdEwvb-jDGXAXFj9j43c7flORYphv7I",
+    "est_revenue": 1051181,
+    "est_revenue_fmt": "$1.1M",
+    "est_revenue_won": "20.2억",
+    "est_revenue_krw": 1439919518
   },
   {
     "rank": 18,
@@ -365,34 +365,6 @@
   },
   {
     "rank": 27,
-    "title": "FC 모바일",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 2.8,
-    "app_id": "com.nexon.fmk",
-    "local_name": "FC 모바일",
-    "icon": "https://play-lh.googleusercontent.com/VKo4cXzxFpu7d5ua0Exk9QB7B7wz8ePAON_Km1lkIowLCf4kpww9alW6HUy-kQ50Kimy86PG1ivGFhayc7hb",
-    "est_revenue": 571208,
-    "est_revenue_fmt": "$571K",
-    "est_revenue_won": "9.4억",
-    "est_revenue_krw": 782447122
-  },
-  {
-    "rank": 28,
-    "title": "Royal Kingdom",
-    "developer": "Dream Games, Ltd.",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.dreamgames.royalkingdom",
-    "local_name": "로얄 킹덤",
-    "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
-    "est_revenue": 435395,
-    "est_revenue_fmt": "$435K",
-    "est_revenue_won": "8.9억",
-    "est_revenue_krw": 596408952
-  },
-  {
-    "rank": 29,
     "title": "CookieRun: Crumble - Idle RPG",
     "developer": "Devsisters Corporation",
     "genre": "Game",
@@ -400,10 +372,38 @@
     "app_id": "com.devsisters.cc",
     "local_name": "쿠키런: 크럼블",
     "icon": "https://play-lh.googleusercontent.com/nH4gayvv0-dHdjwjxUIKY9QWr_6dYnNeqFNHPwckQ3dgvJgrsJPdkIEyevgE09j0IGUiAIwpniaoAZ7Xn0PH",
-    "est_revenue": 435395,
-    "est_revenue_fmt": "$435K",
+    "est_revenue": 544008,
+    "est_revenue_fmt": "$544K",
     "est_revenue_won": "13.9억",
-    "est_revenue_krw": 596408952
+    "est_revenue_krw": 745188257
+  },
+  {
+    "rank": 28,
+    "title": "FC 모바일",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 2.8,
+    "app_id": "com.nexon.fmk",
+    "local_name": "FC 모바일",
+    "icon": "https://play-lh.googleusercontent.com/VKo4cXzxFpu7d5ua0Exk9QB7B7wz8ePAON_Km1lkIowLCf4kpww9alW6HUy-kQ50Kimy86PG1ivGFhayc7hb",
+    "est_revenue": 537841,
+    "est_revenue_fmt": "$538K",
+    "est_revenue_won": "9.4억",
+    "est_revenue_krw": 736740631
+  },
+  {
+    "rank": 29,
+    "title": "Royal Kingdom",
+    "developer": "Dream Games, Ltd.",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.dreamgames.royalkingdom",
+    "local_name": "로얄 킹덤",
+    "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
+    "est_revenue": 410579,
+    "est_revenue_fmt": "$411K",
+    "est_revenue_won": "8.9억",
+    "est_revenue_krw": 562415717
   },
   {
     "rank": 30,
@@ -414,10 +414,10 @@
     "app_id": "com.percent.aos.cooptd",
     "local_name": "쿱 TD: 투게더",
     "icon": "https://play-lh.googleusercontent.com/vTxEJvWJq3cIbideJTNd9ZAYolS4ll7hUlMT3piDAsP6y84EPI-k1tPpoALoCwvmbJMn3LBW-sjzhHpERqfY",
-    "est_revenue": 435395,
-    "est_revenue_fmt": "$435K",
+    "est_revenue": 410579,
+    "est_revenue_fmt": "$411K",
     "est_revenue_won": "16.1억",
-    "est_revenue_krw": 596408952
+    "est_revenue_krw": 562415717
   },
   {
     "rank": 31,
@@ -428,17 +428,17 @@
     "app_id": "com.kurogame.wutheringwaves.global",
     "local_name": "명조",
     "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_",
-    "est_revenue": 435395,
-    "est_revenue_fmt": "$435K",
+    "est_revenue": 410579,
+    "est_revenue_fmt": "$411K",
     "est_revenue_won": "17.3억",
-    "est_revenue_krw": 596408952
+    "est_revenue_krw": 562415717
   },
   {
     "rank": 32,
     "title": "Wild Water World",
     "developer": "Hong Kong Just Game Technology Limited",
     "genre": "Game",
-    "rating": 4.6,
+    "rating": 4.7,
     "app_id": "com.iyagames.flotshelter",
     "local_name": "Wild Water World",
     "icon": "https://play-lh.googleusercontent.com/uCLV6eXFTGn7v6rZKKeuKCOG0eY9zrHoibkF_kvGioFHgjtLQnVAKTdLu17TxFRubVehAMWDiW02B7ObqNWhNQ",
@@ -449,20 +449,6 @@
   },
   {
     "rank": 33,
-    "title": "컴투스프로야구V26",
-    "developer": "Com2uS",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.com2us.futurecpb.android.google.global.normal",
-    "local_name": "컴투스프로야구V26",
-    "icon": "https://play-lh.googleusercontent.com/lFrail_ogSgoETUZcsAgLG7gC4lvjcOdffEURRt5kTAaIbr3pdm7s7hrIQNMl-jTu_Hbw7NDuU9gpJZDRsqY",
-    "est_revenue": 406537,
-    "est_revenue_fmt": "$407K",
-    "est_revenue_won": "8.4억",
-    "est_revenue_krw": 556878940
-  },
-  {
-    "rank": 34,
     "title": "Hollywood Merge",
     "developer": "VoyagerOne IE",
     "genre": "Game",
@@ -470,13 +456,13 @@
     "app_id": "com.hollywood.merge",
     "local_name": "할리우드 머지",
     "icon": "https://play-lh.googleusercontent.com/5mzN7_uKeXNnloF-zlXGxiwKuepToEdRwbFUK_aQqk7ORLUGPsMwQK__J9IL9DBMWty-zuLvZ4FYHikK2xCttIw",
-    "est_revenue": 312347,
-    "est_revenue_fmt": "$312K",
+    "est_revenue": 329102,
+    "est_revenue_fmt": "$329K",
     "est_revenue_won": "8.0억",
-    "est_revenue_krw": 427856422
+    "est_revenue_krw": 450807609
   },
   {
-    "rank": 35,
+    "rank": 34,
     "title": "Vampir",
     "developer": "Netmarble",
     "genre": "Game",
@@ -484,10 +470,24 @@
     "app_id": "com.netmarble.thered",
     "local_name": "뱀피르",
     "icon": "https://play-lh.googleusercontent.com/O3AtBJqCPmOHow-d2tskDjwXGWpYpgz2bPEJC5s-FQ1BzmtxnFTQ4h6OTTJ74pyih8KBs78UsTk7w6PAHkbt",
-    "est_revenue": 312347,
-    "est_revenue_fmt": "$312K",
+    "est_revenue": 329102,
+    "est_revenue_fmt": "$329K",
     "est_revenue_won": "7.5억",
-    "est_revenue_krw": 427856422
+    "est_revenue_krw": 450807609
+  },
+  {
+    "rank": 35,
+    "title": "컴투스프로야구V26",
+    "developer": "Com2uS",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.com2us.futurecpb.android.google.global.normal",
+    "local_name": "컴투스프로야구V26",
+    "icon": "https://play-lh.googleusercontent.com/lFrail_ogSgoETUZcsAgLG7gC4lvjcOdffEURRt5kTAaIbr3pdm7s7hrIQNMl-jTu_Hbw7NDuU9gpJZDRsqY",
+    "est_revenue": 329102,
+    "est_revenue_fmt": "$329K",
+    "est_revenue_won": "8.4억",
+    "est_revenue_krw": 450807609
   },
   {
     "rank": 36,
@@ -498,10 +498,10 @@
     "app_id": "com.nexon.fo4m",
     "local_name": "FC 온라인 M",
     "icon": "https://play-lh.googleusercontent.com/3kHUd_bPqo2Mz00jcm8gxIjgawGnkg1w7V1KZfQ-UalXUj8QrLwqmGxpUNniLQ4o3exMUCl_lKa5KOolaOqBFdo",
-    "est_revenue": 312347,
-    "est_revenue_fmt": "$312K",
+    "est_revenue": 329102,
+    "est_revenue_fmt": "$329K",
     "est_revenue_won": "6.3억",
-    "est_revenue_krw": 427856422
+    "est_revenue_krw": 450807609
   },
   {
     "rank": 37,
@@ -512,10 +512,10 @@
     "app_id": "com.ncsoft.lineagew",
     "local_name": "리니지W",
     "icon": "https://play-lh.googleusercontent.com/VvwlyO5rMOgeedcbDmvBQv-vDoCeHqxBdSHqTrA3xUZAEuRcAwTBznrJBwkj3_xvhUTkLJ4D98RT1fZTtu8W",
-    "est_revenue": 312347,
-    "est_revenue_fmt": "$312K",
+    "est_revenue": 329102,
+    "est_revenue_fmt": "$329K",
     "est_revenue_won": "5.6억",
-    "est_revenue_krw": 427856422
+    "est_revenue_krw": 450807609
   },
   {
     "rank": 38,
