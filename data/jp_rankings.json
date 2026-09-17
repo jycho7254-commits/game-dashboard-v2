@@ -211,20 +211,6 @@
   },
   {
     "rank": 16,
-    "title": "Pokémon GO",
-    "developer": "Scopely Explore, Inc.",
-    "genre": "Game",
-    "rating": 3.5,
-    "app_id": "com.nianticlabs.pokemongo",
-    "local_name": "Pokémon GO",
-    "icon": "https://play-lh.googleusercontent.com/DUA40mf0fd6lUkU_Pvfw78BOoY37nPNM5tKw0tf4sCqzJfNwR84wqj-J00WN99QaZ89SpruNsU1xX7sDw6uBZg",
-    "est_revenue": 6862075,
-    "est_revenue_fmt": "$6.9M",
-    "est_revenue_won": "51.2억",
-    "est_revenue_krw": 9399747259
-  },
-  {
-    "rank": 17,
     "title": "Kingshot",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -232,9 +218,23 @@
     "app_id": "com.run.tower.defense",
     "local_name": "Kingshot",
     "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
+    "est_revenue": 6862075,
+    "est_revenue_fmt": "$6.9M",
+    "est_revenue_won": "47.9억",
+    "est_revenue_krw": 9399747259
+  },
+  {
+    "rank": 17,
+    "title": "Pokémon GO",
+    "developer": "Scopely Explore, Inc.",
+    "genre": "Game",
+    "rating": 3.5,
+    "app_id": "com.nianticlabs.pokemongo",
+    "local_name": "Pokémon GO",
+    "icon": "https://play-lh.googleusercontent.com/DUA40mf0fd6lUkU_Pvfw78BOoY37nPNM5tKw0tf4sCqzJfNwR84wqj-J00WN99QaZ89SpruNsU1xX7sDw6uBZg",
     "est_revenue": 6748000,
     "est_revenue_fmt": "$6.7M",
-    "est_revenue_won": "47.9억",
+    "est_revenue_won": "51.2억",
     "est_revenue_krw": 9243486045
   },
   {
@@ -547,20 +547,6 @@
   },
   {
     "rank": 40,
-    "title": "Roblox",
-    "developer": "Roblox Corporation",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.roblox.client",
-    "local_name": "Roblox",
-    "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "16.5억",
-    "est_revenue_krw": 8218867260
-  },
-  {
-    "rank": 41,
     "title": "にゃんこ大戦争",
     "developer": "PONOS Corporation",
     "genre": "Game",
@@ -574,21 +560,21 @@
     "est_revenue_krw": 8218867260
   },
   {
-    "rank": 42,
-    "title": "Hollywood Merge",
-    "developer": "VoyagerOne IE",
+    "rank": 41,
+    "title": "Roblox",
+    "developer": "Roblox Corporation",
     "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.hollywood.merge",
-    "local_name": "Hollywood Merge",
-    "icon": "https://play-lh.googleusercontent.com/5mzN7_uKeXNnloF-zlXGxiwKuepToEdRwbFUK_aQqk7ORLUGPsMwQK__J9IL9DBMWty-zuLvZ4FYHikK2xCttIw",
+    "rating": 4.7,
+    "app_id": "com.roblox.client",
+    "local_name": "Roblox",
+    "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "15.4억",
+    "est_revenue_won": "16.5억",
     "est_revenue_krw": 8218867260
   },
   {
-    "rank": 43,
+    "rank": 42,
     "title": "Pokémon TCG Pocket",
     "developer": "The Pokémon Company",
     "genre": "Game",
@@ -602,7 +588,7 @@
     "est_revenue_krw": 8218867260
   },
   {
-    "rank": 44,
+    "rank": 43,
     "title": "Zenless Zone Zero",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -616,21 +602,7 @@
     "est_revenue_krw": 8218867260
   },
   {
-    "rank": 45,
-    "title": "Fishdom",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.playrix.fishdomdd.gplay",
-    "local_name": "Fishdom",
-    "icon": "https://play-lh.googleusercontent.com/xCNnX62AirslBmOf5Zp2fySAT9S9XsMUAK3PUGeLVCO4uYHGvfG8lHEof253BQ2q1vS85qsySHt8imuLfIMw",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "14.0억",
-    "est_revenue_krw": 8218867260
-  },
-  {
-    "rank": 46,
+    "rank": 44,
     "title": "Genshin Impact",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -644,7 +616,7 @@
     "est_revenue_krw": 8218867260
   },
   {
-    "rank": 47,
+    "rank": 45,
     "title": "NTE: Neverness to Everness",
     "developer": "N2E",
     "genre": "Game",
@@ -652,13 +624,27 @@
     "app_id": "com.hottagames.nte",
     "local_name": "NTE: Neverness to Everness",
     "icon": "https://play-lh.googleusercontent.com/TGl3DdDbi4hty6ooOhEvv_2s5tkpGLbL6derP8y5hK-_Bw--Ve375b08ba9HHQ9ueRpoQ9oye1T_T24BJriLUmw",
-    "est_revenue": 379973,
-    "est_revenue_fmt": "$380K",
+    "est_revenue": 413814,
+    "est_revenue_fmt": "$414K",
     "est_revenue_won": "13.1억",
-    "est_revenue_krw": 520491275
+    "est_revenue_krw": 566847056
   },
   {
-    "rank": 48,
+    "rank": 46,
+    "title": "Hollywood Merge",
+    "developer": "VoyagerOne IE",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.hollywood.merge",
+    "local_name": "Hollywood Merge",
+    "icon": "https://play-lh.googleusercontent.com/5mzN7_uKeXNnloF-zlXGxiwKuepToEdRwbFUK_aQqk7ORLUGPsMwQK__J9IL9DBMWty-zuLvZ4FYHikK2xCttIw",
+    "est_revenue": 300835,
+    "est_revenue_fmt": "$301K",
+    "est_revenue_won": "15.4억",
+    "est_revenue_krw": 412087155
+  },
+  {
+    "rank": 47,
     "title": "MementoMori: AFKRPG",
     "developer": "Bank of Innovation, Inc.",
     "genre": "Game",
@@ -666,13 +652,41 @@
     "app_id": "jp.boi.mementomori.android",
     "local_name": "MementoMori: AFKRPG",
     "icon": "https://play-lh.googleusercontent.com/HG9W8SRyTeeLPFrrS17a06d5ANgakJbHomr73o3l6I23YAiIFL399Y1_Q-2FDBO_zxqETTkphFhE-uTeuD2nH6w",
-    "est_revenue": 364477,
-    "est_revenue_fmt": "$364K",
+    "est_revenue": 300835,
+    "est_revenue_fmt": "$301K",
     "est_revenue_won": "12.7억",
-    "est_revenue_krw": 499264680
+    "est_revenue_krw": 412087155
+  },
+  {
+    "rank": 48,
+    "title": "Fishdom",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "com.playrix.fishdomdd.gplay",
+    "local_name": "Fishdom",
+    "icon": "https://play-lh.googleusercontent.com/xCNnX62AirslBmOf5Zp2fySAT9S9XsMUAK3PUGeLVCO4uYHGvfG8lHEof253BQ2q1vS85qsySHt8imuLfIMw",
+    "est_revenue": 300835,
+    "est_revenue_fmt": "$301K",
+    "est_revenue_won": "14.0억",
+    "est_revenue_krw": 412087155
   },
   {
     "rank": 49,
+    "title": "アークナイツ",
+    "developer": "Yostar, Inc.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.YoStarJP.Arknights",
+    "local_name": "アークナイツ",
+    "icon": "https://play-lh.googleusercontent.com/d768LvyQ1JVrv4K0900kVB-CpfKf_eFvHV22q7sLHk_JTZugf_qe4lOxbo5O_BMUO8cflqNkJk-SEshJDzX5zA",
+    "est_revenue": 300835,
+    "est_revenue_fmt": "$301K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 412087155
+  },
+  {
+    "rank": 50,
     "title": "ディズニー ツイステッドワンダーランド",
     "developer": "Aniplex Inc.",
     "genre": "Game",
@@ -680,23 +694,9 @@
     "app_id": "com.aniplex.twst.jp",
     "local_name": "ディズニー ツイステッドワンダーランド",
     "icon": "https://play-lh.googleusercontent.com/MWl3p8AK5JePFPbozr-mbGUNYqBTupUJTUg5QBalXhkXUlNaaRxoFC9_3fthp0aPUTSQgaRFLTPYWJgLGRAk7Ro",
-    "est_revenue": 312356,
-    "est_revenue_fmt": "$312K",
-    "est_revenue_won": "12.4억",
-    "est_revenue_krw": 427868750
-  },
-  {
-    "rank": 50,
-    "title": "Cell Survivor",
-    "developer": "Snap Brain Games",
-    "genre": "Game",
-    "rating": 4,
-    "app_id": "defense.roguelike.cell.shoot.survivor",
-    "local_name": "Cell Survivor",
-    "icon": "https://play-lh.googleusercontent.com/mcRLgblfhwb3ozuyoB7SCw1Z-cmTv7EIUURrJz69FHjhpdn0FmpHC0_jz47VFw5hANKyjNVNH6Tygdu7XjkzNw",
     "est_revenue": 300000,
     "est_revenue_fmt": "$300K",
-    "est_revenue_won": "12.0억",
+    "est_revenue_won": "12.4억",
     "est_revenue_krw": 410943363
   }
 ]
