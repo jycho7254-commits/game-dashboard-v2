@@ -281,6 +281,20 @@
   },
   {
     "rank": 21,
+    "title": "アズールレーン",
+    "developer": "Yostar, Inc.",
+    "genre": "Game",
+    "rating": 3.9,
+    "app_id": "com.YoStarJP.AzurLane",
+    "local_name": "アズールレーン",
+    "icon": "https://play-lh.googleusercontent.com/xm_fZgRuFC6npGnzKgBbw1V2VuZo4Pc67LLcrecmihkaDK-LFa_yKi6x4zmg-Nb-tvqy1ppLgjEdmgZMV00vg9E",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "34.0억",
+    "est_revenue_krw": 8283010458
+  },
+  {
+    "rank": 22,
     "title": "幻想水滸伝 STAR LEAP",
     "developer": "KONAMI",
     "genre": "Game",
@@ -294,7 +308,7 @@
     "est_revenue_krw": 8283010458
   },
   {
-    "rank": 22,
+    "rank": 23,
     "title": "Township",
     "developer": "Playrix",
     "genre": "Game",
@@ -305,20 +319,6 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "40.0억",
-    "est_revenue_krw": 8283010458
-  },
-  {
-    "rank": 23,
-    "title": "アズールレーン",
-    "developer": "Yostar, Inc.",
-    "genre": "Game",
-    "rating": 3.9,
-    "app_id": "com.YoStarJP.AzurLane",
-    "local_name": "アズールレーン",
-    "icon": "https://play-lh.googleusercontent.com/xm_fZgRuFC6npGnzKgBbw1V2VuZo4Pc67LLcrecmihkaDK-LFa_yKi6x4zmg-Nb-tvqy1ppLgjEdmgZMV00vg9E",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "34.0억",
     "est_revenue_krw": 8283010458
   },
   {
@@ -379,6 +379,20 @@
   },
   {
     "rank": 28,
+    "title": "Paranoize",
+    "developer": "ZigZaGame Inc.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.zigzagame.paranoize",
+    "local_name": "Paranoize",
+    "icon": "https://play-lh.googleusercontent.com/7LQtnB1OywAs4z9kyDT5NiAQtoE_TNMU6OdiPAm0znOARQB6lOlxZ7Dq9SQ8kdCvBAsDjGQKzhV2JMHHN2iuQ5g",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "19.2억",
+    "est_revenue_krw": 8283010458
+  },
+  {
+    "rank": 29,
     "title": "Wuthering Waves",
     "developer": "HK KURO GAMES LIMITED",
     "genre": "Game",
@@ -392,7 +406,7 @@
     "est_revenue_krw": 8283010458
   },
   {
-    "rank": 29,
+    "rank": 30,
     "title": "ホロライブドリームス",
     "developer": "QualiArts, Inc.",
     "genre": "Game",
@@ -403,20 +417,6 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "22.8억",
-    "est_revenue_krw": 8283010458
-  },
-  {
-    "rank": 30,
-    "title": "Paranoize",
-    "developer": "ZigZaGame Inc.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.zigzagame.paranoize",
-    "local_name": "Paranoize",
-    "icon": "https://play-lh.googleusercontent.com/7LQtnB1OywAs4z9kyDT5NiAQtoE_TNMU6OdiPAm0znOARQB6lOlxZ7Dq9SQ8kdCvBAsDjGQKzhV2JMHHN2iuQ5g",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "19.2억",
     "est_revenue_krw": 8283010458
   },
   {
@@ -575,34 +575,6 @@
   },
   {
     "rank": 42,
-    "title": "Top Heroes: Kingdom Saga",
-    "developer": "RiverGame",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.greenmushroom.boomblitz.gp",
-    "local_name": "Top Heroes: Kingdom Saga",
-    "icon": "https://play-lh.googleusercontent.com/6VUP1Pf_2agtJxXfsaUa9vh3ZN_eUUNWxyHSyltOz5Dx0kvoY2iG8IeT6intsGVABkp0jG7xrvyGajlJ3hv-QQ",
-    "est_revenue": 472897,
-    "est_revenue_fmt": "$473K",
-    "est_revenue_won": "17.8억",
-    "est_revenue_krw": 652835133
-  },
-  {
-    "rank": 43,
-    "title": "Pokémon TCG Pocket",
-    "developer": "The Pokémon Company",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "jp.pokemon.pokemontcgp",
-    "local_name": "Pokémon TCG Pocket",
-    "icon": "https://play-lh.googleusercontent.com/qdEdyVc19jfittS0bnDUnXLRM7jOPZzfHXEYoChPWOtzMrtwU6t3ZVm_FQ7wbeDYFlqLBuWCDK0Q6c1nEwYKTA",
-    "est_revenue": 403547,
-    "est_revenue_fmt": "$404K",
-    "est_revenue_won": "13.5억",
-    "est_revenue_krw": 557097337
-  },
-  {
-    "rank": 44,
     "title": "アークナイツ",
     "developer": "Yostar, Inc.",
     "genre": "Game",
@@ -610,27 +582,27 @@
     "app_id": "com.YoStarJP.Arknights",
     "local_name": "アークナイツ",
     "icon": "https://play-lh.googleusercontent.com/d768LvyQ1JVrv4K0900kVB-CpfKf_eFvHV22q7sLHk_JTZugf_qe4lOxbo5O_BMUO8cflqNkJk-SEshJDzX5zA",
-    "est_revenue": 403547,
-    "est_revenue_fmt": "$404K",
+    "est_revenue": 472897,
+    "est_revenue_fmt": "$473K",
     "est_revenue_won": "12.4억",
-    "est_revenue_krw": 557097337
+    "est_revenue_krw": 652835133
   },
   {
-    "rank": 45,
-    "title": "Fishdom",
-    "developer": "Playrix",
+    "rank": 43,
+    "title": "Top Heroes: Kingdom Saga",
+    "developer": "RiverGame",
     "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.playrix.fishdomdd.gplay",
-    "local_name": "Fishdom",
-    "icon": "https://play-lh.googleusercontent.com/xCNnX62AirslBmOf5Zp2fySAT9S9XsMUAK3PUGeLVCO4uYHGvfG8lHEof253BQ2q1vS85qsySHt8imuLfIMw",
-    "est_revenue": 369476,
-    "est_revenue_fmt": "$369K",
-    "est_revenue_won": "12.7억",
-    "est_revenue_krw": 510062262
+    "rating": 4.5,
+    "app_id": "com.greenmushroom.boomblitz.gp",
+    "local_name": "Top Heroes: Kingdom Saga",
+    "icon": "https://play-lh.googleusercontent.com/6VUP1Pf_2agtJxXfsaUa9vh3ZN_eUUNWxyHSyltOz5Dx0kvoY2iG8IeT6intsGVABkp0jG7xrvyGajlJ3hv-QQ",
+    "est_revenue": 451973,
+    "est_revenue_fmt": "$452K",
+    "est_revenue_won": "17.8억",
+    "est_revenue_krw": 623949514
   },
   {
-    "rank": 46,
+    "rank": 44,
     "title": "Roblox",
     "developer": "Roblox Corporation",
     "genre": "Game",
@@ -638,9 +610,37 @@
     "app_id": "com.roblox.client",
     "local_name": "Roblox",
     "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
+    "est_revenue": 385991,
+    "est_revenue_fmt": "$386K",
+    "est_revenue_won": "15.4억",
+    "est_revenue_krw": 532861248
+  },
+  {
+    "rank": 45,
+    "title": "Pokémon TCG Pocket",
+    "developer": "The Pokémon Company",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "jp.pokemon.pokemontcgp",
+    "local_name": "Pokémon TCG Pocket",
+    "icon": "https://play-lh.googleusercontent.com/qdEdyVc19jfittS0bnDUnXLRM7jOPZzfHXEYoChPWOtzMrtwU6t3ZVm_FQ7wbeDYFlqLBuWCDK0Q6c1nEwYKTA",
+    "est_revenue": 369476,
+    "est_revenue_fmt": "$369K",
+    "est_revenue_won": "13.5억",
+    "est_revenue_krw": 510062262
+  },
+  {
+    "rank": 46,
+    "title": "Fishdom",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "com.playrix.fishdomdd.gplay",
+    "local_name": "Fishdom",
+    "icon": "https://play-lh.googleusercontent.com/xCNnX62AirslBmOf5Zp2fySAT9S9XsMUAK3PUGeLVCO4uYHGvfG8lHEof253BQ2q1vS85qsySHt8imuLfIMw",
     "est_revenue": 353924,
     "est_revenue_fmt": "$354K",
-    "est_revenue_won": "15.4억",
+    "est_revenue_won": "12.7억",
     "est_revenue_krw": 488592699
   },
   {
