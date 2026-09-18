@@ -57,20 +57,6 @@
   },
   {
     "rank": 5,
-    "title": "Kingshot",
-    "developer": "Century Games PTE. LTD.",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.run.tower.defense",
-    "local_name": "킹샷",
-    "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
-    "est_revenue": 7707619,
-    "est_revenue_fmt": "$7.7M",
-    "est_revenue_won": "60.0억",
-    "est_revenue_krw": 10557982909
-  },
-  {
-    "rank": 6,
     "title": "SOL: enchant",
     "developer": "Netmarble",
     "genre": "Game",
@@ -84,21 +70,21 @@
     "est_revenue_krw": 10557982909
   },
   {
-    "rank": 7,
-    "title": "Roblox",
-    "developer": "Roblox Corporation",
+    "rank": 6,
+    "title": "Kingshot",
+    "developer": "Century Games PTE. LTD.",
     "genre": "Game",
-    "rating": 3.9,
-    "app_id": "com.roblox.client",
-    "local_name": "로블록스",
-    "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
-    "est_revenue": 5750573,
-    "est_revenue_fmt": "$5.8M",
-    "est_revenue_won": "38.0억",
-    "est_revenue_krw": 7877199359
+    "rating": 4.6,
+    "app_id": "com.run.tower.defense",
+    "local_name": "킹샷",
+    "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
+    "est_revenue": 6133298,
+    "est_revenue_fmt": "$6.1M",
+    "est_revenue_won": "60.0억",
+    "est_revenue_krw": 8401460355
   },
   {
-    "rank": 8,
+    "rank": 7,
     "title": "Gossip Harbor®: Merge & Story",
     "developer": "Microfun Limited",
     "genre": "Game",
@@ -106,10 +92,24 @@
     "app_id": "com.mergegames.gossipharbor",
     "local_name": "가십 하버",
     "icon": "https://play-lh.googleusercontent.com/VEmJnv1zUKIcst7pnOOqEFBXItThIbTzS29wxDEhJ9vPnXxNEHJAOkclrUMYFBR9essYJKDhkm-lPR95161D",
-    "est_revenue": 3722718,
-    "est_revenue_fmt": "$3.7M",
+    "est_revenue": 4236687,
+    "est_revenue_fmt": "$4.2M",
     "est_revenue_won": "41.6억",
-    "est_revenue_krw": 5099420848
+    "est_revenue_krw": 5803461346
+  },
+  {
+    "rank": 8,
+    "title": "Roblox",
+    "developer": "Roblox Corporation",
+    "genre": "Game",
+    "rating": 3.9,
+    "app_id": "com.roblox.client",
+    "local_name": "로블록스",
+    "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
+    "est_revenue": 3075033,
+    "est_revenue_fmt": "$3.1M",
+    "est_revenue_won": "38.0억",
+    "est_revenue_krw": 4212214675
   },
   {
     "rank": 9,
@@ -120,10 +120,10 @@
     "app_id": "com.nexon.ma",
     "local_name": "메이플스토리: 모바일",
     "icon": "https://play-lh.googleusercontent.com/VKzgyaBMxhdjOfgfRuJobcjnMkoWVxB9KCQpoPOcb0S4lltYv55Zi2fClECBPWMaAzm74buXQW7X6CO344sD",
-    "est_revenue": 2536774,
-    "est_revenue_fmt": "$2.5M",
+    "est_revenue": 2317860,
+    "est_revenue_fmt": "$2.3M",
     "est_revenue_won": "46.2억",
-    "est_revenue_krw": 3474901462
+    "est_revenue_krw": 3175030611
   },
   {
     "rank": 10,
@@ -295,20 +295,6 @@
   },
   {
     "rank": 22,
-    "title": "Gardenscapes",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.playrix.gardenscapes",
-    "local_name": "가든스케이프",
-    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
-    "est_revenue": 641291,
-    "est_revenue_fmt": "$641K",
-    "est_revenue_won": "12.1억",
-    "est_revenue_krw": 878447601
-  },
-  {
-    "rank": 23,
     "title": "Seaside Escape®: Merge & Story",
     "developer": "Microfun Limited",
     "genre": "Game",
@@ -316,27 +302,13 @@
     "app_id": "com.gamedots.seasideescape",
     "local_name": "시사이드 이스케이프",
     "icon": "https://play-lh.googleusercontent.com/ARrIW6H5vKwn_X2LS95P8qLGeeJhRw-0SKSZTbzP7sfWTXDmg6jZYh7L1GUFzswJE0R3qnuWFS_yGdm0fb8tQg",
-    "est_revenue": 598374,
-    "est_revenue_fmt": "$598K",
+    "est_revenue": 641291,
+    "est_revenue_fmt": "$641K",
     "est_revenue_won": "12.9억",
-    "est_revenue_krw": 819659413
+    "est_revenue_krw": 878447601
   },
   {
-    "rank": 24,
-    "title": "Last Asylum: Plague",
-    "developer": "37GAMES GLOBAL",
-    "genre": "Game",
-    "rating": 4.9,
-    "app_id": "com.phs.global",
-    "local_name": "라스트 어사일럼",
-    "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
-    "est_revenue": 598374,
-    "est_revenue_fmt": "$598K",
-    "est_revenue_won": "10.0억",
-    "est_revenue_krw": 819659413
-  },
-  {
-    "rank": 25,
+    "rank": 23,
     "title": "Last Z: Survival Shooter",
     "developer": "Omnilojo Pte Ltd",
     "genre": "Game",
@@ -344,10 +316,38 @@
     "app_id": "com.readygo.barrel.gp",
     "local_name": "라스트 Z: 서바이벌 슈터",
     "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
-    "est_revenue": 598374,
-    "est_revenue_fmt": "$598K",
+    "est_revenue": 641291,
+    "est_revenue_fmt": "$641K",
     "est_revenue_won": "10.6억",
-    "est_revenue_krw": 819659413
+    "est_revenue_krw": 878447601
+  },
+  {
+    "rank": 24,
+    "title": "Gardenscapes",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.playrix.gardenscapes",
+    "local_name": "가든스케이프",
+    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
+    "est_revenue": 559479,
+    "est_revenue_fmt": "$559K",
+    "est_revenue_won": "12.1억",
+    "est_revenue_krw": 766380606
+  },
+  {
+    "rank": 25,
+    "title": "Last Asylum: Plague",
+    "developer": "37GAMES GLOBAL",
+    "genre": "Game",
+    "rating": 4.9,
+    "app_id": "com.phs.global",
+    "local_name": "라스트 어사일럼",
+    "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
+    "est_revenue": 559479,
+    "est_revenue_fmt": "$559K",
+    "est_revenue_won": "10.0억",
+    "est_revenue_krw": 766380606
   },
   {
     "rank": 26,
@@ -358,10 +358,10 @@
     "app_id": "com.nexon.devcat.mm",
     "local_name": "마비노기 모바일",
     "icon": "https://play-lh.googleusercontent.com/ljE3Q4kOQj0UEjbJoANQpgQ4rxdDvI1h1wARGv6jFgel-5oDIFjfTx2S0nINT8agCEOB_V3C9y61RZFoyLZ4",
-    "est_revenue": 598374,
-    "est_revenue_fmt": "$598K",
+    "est_revenue": 559479,
+    "est_revenue_fmt": "$559K",
     "est_revenue_won": "4.6억",
-    "est_revenue_krw": 819659413
+    "est_revenue_krw": 766380606
   },
   {
     "rank": 27,
@@ -452,7 +452,7 @@
     "title": "Wild Water World",
     "developer": "Hong Kong Just Game Technology Limited",
     "genre": "Game",
-    "rating": 4.6,
+    "rating": 4.7,
     "app_id": "com.iyagames.flotshelter",
     "local_name": "Wild Water World",
     "icon": "https://play-lh.googleusercontent.com/uCLV6eXFTGn7v6rZKKeuKCOG0eY9zrHoibkF_kvGioFHgjtLQnVAKTdLu17TxFRubVehAMWDiW02B7ObqNWhNQ",
@@ -561,20 +561,6 @@
   },
   {
     "rank": 41,
-    "title": "GIRLS' FRONTLINE 2: EXILIUM",
-    "developer": "HaoPlay Limited",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.haoplay.game.and.exilium",
-    "local_name": "소녀전선2: 망명",
-    "icon": "https://play-lh.googleusercontent.com/N0Cq4MZ9VszB5TH_Wq229R62IuSVn1LfWwB3uhdjb0J_fsRn2hfHWc8XOEH7kAUs7Hg4SB2HLl_LEOj17YkwNQ",
-    "est_revenue": 262213,
-    "est_revenue_fmt": "$262K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 359182307
-  },
-  {
-    "rank": 42,
     "title": "Mystery Town: Merge Games",
     "developer": "Cedar Games Studio",
     "genre": "Game",
@@ -582,10 +568,24 @@
     "app_id": "com.cedargames.mysterytown",
     "local_name": "미스터리 타운",
     "icon": "https://play-lh.googleusercontent.com/uVjVMEJrhT-xRoUtKIUj8tOVSbCWw4IsRHaTDYICRNjQycUj6SucVpeoAPiNZWeJ5JuzIt_ZZRo1X1pW6XJFAQE",
-    "est_revenue": 213144,
-    "est_revenue_fmt": "$213K",
+    "est_revenue": 222881,
+    "est_revenue_fmt": "$223K",
     "est_revenue_won": "4.8억",
-    "est_revenue_krw": 291967041
+    "est_revenue_krw": 305304892
+  },
+  {
+    "rank": 42,
+    "title": "GIRLS' FRONTLINE 2: EXILIUM",
+    "developer": "HaoPlay Limited",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.haoplay.game.and.exilium",
+    "local_name": "소녀전선2: 망명",
+    "icon": "https://play-lh.googleusercontent.com/N0Cq4MZ9VszB5TH_Wq229R62IuSVn1LfWwB3uhdjb0J_fsRn2hfHWc8XOEH7kAUs7Hg4SB2HLl_LEOj17YkwNQ",
+    "est_revenue": 222881,
+    "est_revenue_fmt": "$223K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 305304892
   },
   {
     "rank": 43,
@@ -596,10 +596,10 @@
     "app_id": "com.epidgames.trickcalrevive",
     "local_name": "트릭컬 리바이브",
     "icon": "https://play-lh.googleusercontent.com/OCiuBv70Dnuw9wcGet3EtTUF2nEkS1vhYYkvOahe9-MmKg6EhxGkf-9ZVxnWIJXflQSmfOIjTcaSbwJSJyuzHA",
-    "est_revenue": 213144,
-    "est_revenue_fmt": "$213K",
+    "est_revenue": 222881,
+    "est_revenue_fmt": "$223K",
     "est_revenue_won": "",
-    "est_revenue_krw": 291967041
+    "est_revenue_krw": 305304892
   },
   {
     "rank": 44,
