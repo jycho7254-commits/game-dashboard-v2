@@ -85,20 +85,6 @@
   },
   {
     "rank": 7,
-    "title": "Gossip Harbor®: Merge & Story",
-    "developer": "Microfun Limited",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.mergegames.gossipharbor",
-    "local_name": "가십 하버",
-    "icon": "https://play-lh.googleusercontent.com/VEmJnv1zUKIcst7pnOOqEFBXItThIbTzS29wxDEhJ9vPnXxNEHJAOkclrUMYFBR9essYJKDhkm-lPR95161D",
-    "est_revenue": 5750573,
-    "est_revenue_fmt": "$5.8M",
-    "est_revenue_won": "46.2억",
-    "est_revenue_krw": 7938676050
-  },
-  {
-    "rank": 8,
     "title": "MapleStory : Idle RPG",
     "developer": "NEXON Company",
     "genre": "Game",
@@ -106,13 +92,13 @@
     "app_id": "com.nexon.ma",
     "local_name": "메이플스토리: 모바일",
     "icon": "https://play-lh.googleusercontent.com/VKzgyaBMxhdjOfgfRuJobcjnMkoWVxB9KCQpoPOcb0S4lltYv55Zi2fClECBPWMaAzm74buXQW7X6CO344sD",
-    "est_revenue": 3722718,
-    "est_revenue_fmt": "$3.7M",
+    "est_revenue": 5750573,
+    "est_revenue_fmt": "$5.8M",
     "est_revenue_won": "41.6억",
-    "est_revenue_krw": 5139218688
+    "est_revenue_krw": 7938676050
   },
   {
-    "rank": 9,
+    "rank": 8,
     "title": "Roblox",
     "developer": "Roblox Corporation",
     "genre": "Game",
@@ -120,9 +106,23 @@
     "app_id": "com.roblox.client",
     "local_name": "로블록스",
     "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
+    "est_revenue": 3722718,
+    "est_revenue_fmt": "$3.7M",
+    "est_revenue_won": "38.0억",
+    "est_revenue_krw": 5139218688
+  },
+  {
+    "rank": 9,
+    "title": "Gossip Harbor®: Merge & Story",
+    "developer": "Microfun Limited",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "com.mergegames.gossipharbor",
+    "local_name": "가십 하버",
+    "icon": "https://play-lh.googleusercontent.com/VEmJnv1zUKIcst7pnOOqEFBXItThIbTzS29wxDEhJ9vPnXxNEHJAOkclrUMYFBR9essYJKDhkm-lPR95161D",
     "est_revenue": 2536774,
     "est_revenue_fmt": "$2.5M",
-    "est_revenue_won": "38.0억",
+    "est_revenue_won": "46.2억",
     "est_revenue_krw": 3502020929
   },
   {
@@ -393,20 +393,6 @@
   },
   {
     "rank": 29,
-    "title": "Royal Kingdom",
-    "developer": "Dream Games, Ltd.",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.dreamgames.royalkingdom",
-    "local_name": "로얄 킹덤",
-    "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
-    "est_revenue": 410579,
-    "est_revenue_fmt": "$411K",
-    "est_revenue_won": "8.4억",
-    "est_revenue_krw": 566805025
-  },
-  {
-    "rank": 30,
     "title": "Coop TD: Together",
     "developer": "Supermagic",
     "genre": "Game",
@@ -414,13 +400,13 @@
     "app_id": "com.percent.aos.cooptd",
     "local_name": "쿱 TD: 투게더",
     "icon": "https://play-lh.googleusercontent.com/vTxEJvWJq3cIbideJTNd9ZAYolS4ll7hUlMT3piDAsP6y84EPI-k1tPpoALoCwvmbJMn3LBW-sjzhHpERqfY",
-    "est_revenue": 410579,
-    "est_revenue_fmt": "$411K",
+    "est_revenue": 483035,
+    "est_revenue_fmt": "$483K",
     "est_revenue_won": "8.0억",
-    "est_revenue_krw": 566805025
+    "est_revenue_krw": 666830659
   },
   {
-    "rank": 31,
+    "rank": 30,
     "title": "Wild Water World",
     "developer": "Hong Kong Just Game Technology Limited",
     "genre": "Game",
@@ -428,13 +414,13 @@
     "app_id": "com.iyagames.flotshelter",
     "local_name": "Wild Water World",
     "icon": "https://play-lh.googleusercontent.com/uCLV6eXFTGn7v6rZKKeuKCOG0eY9zrHoibkF_kvGioFHgjtLQnVAKTdLu17TxFRubVehAMWDiW02B7ObqNWhNQ",
-    "est_revenue": 410579,
-    "est_revenue_fmt": "$411K",
+    "est_revenue": 456154,
+    "est_revenue_fmt": "$456K",
     "est_revenue_won": "7.5억",
-    "est_revenue_krw": 566805025
+    "est_revenue_krw": 629721392
   },
   {
-    "rank": 32,
+    "rank": 31,
     "title": "Wuthering Waves",
     "developer": "HK KURO GAMES LIMITED",
     "genre": "Game",
@@ -442,13 +428,13 @@
     "app_id": "com.kurogame.wutheringwaves.global",
     "local_name": "명조",
     "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_",
-    "est_revenue": 410579,
-    "est_revenue_fmt": "$411K",
+    "est_revenue": 456154,
+    "est_revenue_fmt": "$456K",
     "est_revenue_won": "7.1억",
-    "est_revenue_krw": 566805025
+    "est_revenue_krw": 629721392
   },
   {
-    "rank": 33,
+    "rank": 32,
     "title": "컴투스프로야구V26",
     "developer": "Com2uS",
     "genre": "Game",
@@ -456,10 +442,24 @@
     "app_id": "com.com2us.futurecpb.android.google.global.normal",
     "local_name": "컴투스프로야구V26",
     "icon": "https://play-lh.googleusercontent.com/lFrail_ogSgoETUZcsAgLG7gC4lvjcOdffEURRt5kTAaIbr3pdm7s7hrIQNMl-jTu_Hbw7NDuU9gpJZDRsqY",
-    "est_revenue": 406537,
-    "est_revenue_fmt": "$407K",
+    "est_revenue": 428841,
+    "est_revenue_fmt": "$429K",
     "est_revenue_won": "6.7억",
-    "est_revenue_krw": 561225037
+    "est_revenue_krw": 592015748
+  },
+  {
+    "rank": 33,
+    "title": "Royal Kingdom",
+    "developer": "Dream Games, Ltd.",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.dreamgames.royalkingdom",
+    "local_name": "로얄 킹덤",
+    "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
+    "est_revenue": 329102,
+    "est_revenue_fmt": "$329K",
+    "est_revenue_won": "8.4억",
+    "est_revenue_krw": 454325885
   },
   {
     "rank": 34,
@@ -470,10 +470,10 @@
     "app_id": "com.nexon.fo4m",
     "local_name": "FC 온라인 M",
     "icon": "https://play-lh.googleusercontent.com/3kHUd_bPqo2Mz00jcm8gxIjgawGnkg1w7V1KZfQ-UalXUj8QrLwqmGxpUNniLQ4o3exMUCl_lKa5KOolaOqBFdo",
-    "est_revenue": 385841,
-    "est_revenue_fmt": "$386K",
+    "est_revenue": 329102,
+    "est_revenue_fmt": "$329K",
     "est_revenue_won": "6.3억",
-    "est_revenue_krw": 532654173
+    "est_revenue_krw": 454325885
   },
   {
     "rank": 35,
