@@ -326,7 +326,7 @@
     "title": "Tasty Travels: Merge Game",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
-    "rating": 4.5,
+    "rating": 4.4,
     "app_id": "com.fatmerge.global",
     "local_name": "Tasty Travels: Merge Game",
     "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
@@ -421,20 +421,6 @@
   },
   {
     "rank": 31,
-    "title": "Wizardry Variants Daphne",
-    "developer": "株式会社ドリコム",
-    "genre": "Game",
-    "rating": 4.1,
-    "app_id": "jp.co.drecom.wizardry.daphne",
-    "local_name": "Wizardry Variants Daphne",
-    "icon": "https://play-lh.googleusercontent.com/zHq6ZKQhVsI5DTjy05zsWTggWgQfNZ7Qg5PJk5Kv3Rhctyt2HgfYYXHjEhS6k_6Y5NzwKvf2ZpQiXCWfc9htnw",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "16.0억",
-    "est_revenue_krw": 8283010458
-  },
-  {
-    "rank": 32,
     "title": "Last Z: Survival Shooter",
     "developer": "Omnilojo Pte Ltd",
     "genre": "Game",
@@ -445,6 +431,20 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "20.0억",
+    "est_revenue_krw": 8283010458
+  },
+  {
+    "rank": 32,
+    "title": "Wizardry Variants Daphne",
+    "developer": "株式会社ドリコム",
+    "genre": "Game",
+    "rating": 4.1,
+    "app_id": "jp.co.drecom.wizardry.daphne",
+    "local_name": "Wizardry Variants Daphne",
+    "icon": "https://play-lh.googleusercontent.com/zHq6ZKQhVsI5DTjy05zsWTggWgQfNZ7Qg5PJk5Kv3Rhctyt2HgfYYXHjEhS6k_6Y5NzwKvf2ZpQiXCWfc9htnw",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "16.0억",
     "est_revenue_krw": 8283010458
   },
   {
@@ -645,20 +645,6 @@
   },
   {
     "rank": 47,
-    "title": "三國志 真戦",
-    "developer": "Qookka Games",
-    "genre": "Game",
-    "rating": 4.1,
-    "app_id": "com.qookkagame.sgzzlb.gp.jp",
-    "local_name": "三國志 真戦",
-    "icon": "https://play-lh.googleusercontent.com/xfbYWk3unWvvNS5lFFkIiAnsUv6iu0VWANsPnU_7A0EB-53NMqzA2AHcrDLwjEun3yMGqYRsYu_d8R0xC4RIYQ",
-    "est_revenue": 353924,
-    "est_revenue_fmt": "$354K",
-    "est_revenue_won": "26.0억",
-    "est_revenue_krw": 488592699
-  },
-  {
-    "rank": 48,
     "title": "Fishdom",
     "developer": "Playrix",
     "genre": "Game",
@@ -666,10 +652,24 @@
     "app_id": "com.playrix.fishdomdd.gplay",
     "local_name": "Fishdom",
     "icon": "https://play-lh.googleusercontent.com/xCNnX62AirslBmOf5Zp2fySAT9S9XsMUAK3PUGeLVCO4uYHGvfG8lHEof253BQ2q1vS85qsySHt8imuLfIMw",
-    "est_revenue": 325426,
-    "est_revenue_fmt": "$325K",
+    "est_revenue": 339262,
+    "est_revenue_fmt": "$339K",
     "est_revenue_won": "12.7억",
-    "est_revenue_krw": 449251160
+    "est_revenue_krw": 468351782
+  },
+  {
+    "rank": 48,
+    "title": "三國志 真戦",
+    "developer": "Qookka Games",
+    "genre": "Game",
+    "rating": 4.1,
+    "app_id": "com.qookkagame.sgzzlb.gp.jp",
+    "local_name": "三國志 真戦",
+    "icon": "https://play-lh.googleusercontent.com/xfbYWk3unWvvNS5lFFkIiAnsUv6iu0VWANsPnU_7A0EB-53NMqzA2AHcrDLwjEun3yMGqYRsYu_d8R0xC4RIYQ",
+    "est_revenue": 339262,
+    "est_revenue_fmt": "$339K",
+    "est_revenue_won": "26.0억",
+    "est_revenue_krw": 468351782
   },
   {
     "rank": 49,
