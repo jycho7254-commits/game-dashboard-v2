@@ -267,20 +267,6 @@
   },
   {
     "rank": 20,
-    "title": "Township",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.playrix.township",
-    "local_name": "Township",
-    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "40.0억",
-    "est_revenue_krw": 8283010458
-  },
-  {
-    "rank": 21,
     "title": "Gardenscapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -291,6 +277,20 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "37.8억",
+    "est_revenue_krw": 8283010458
+  },
+  {
+    "rank": 21,
+    "title": "Township",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.playrix.township",
+    "local_name": "Township",
+    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "40.0억",
     "est_revenue_krw": 8283010458
   },
   {
@@ -589,16 +589,16 @@
   },
   {
     "rank": 43,
-    "title": "GIRLS' FRONTLINE 2: EXILIUM",
-    "developer": "HaoPlay Limited",
+    "title": "Monster Hunter Now",
+    "developer": "Scopely Explore, Inc.",
     "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.haoplay.game.and.exilium",
-    "local_name": "GIRLS' FRONTLINE 2: EXILIUM",
-    "icon": "https://play-lh.googleusercontent.com/N0Cq4MZ9VszB5TH_Wq229R62IuSVn1LfWwB3uhdjb0J_fsRn2hfHWc8XOEH7kAUs7Hg4SB2HLl_LEOj17YkwNQ",
+    "rating": 4.3,
+    "app_id": "com.nianticlabs.monsterhunter",
+    "local_name": "Monster Hunter Now",
+    "icon": "https://play-lh.googleusercontent.com/qG_xXqTT3qV7UuRLBDY5HpR5Mx9NwMf98I1Kpp7fSKhMY8uu13I7ivwGoLZ0qQ9821U7mhDrM_7EhMHtAjJCGA",
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "13.5억",
+    "est_revenue_won": "14.4억",
     "est_revenue_krw": 8283010458
   },
   {
@@ -617,6 +617,20 @@
   },
   {
     "rank": 45,
+    "title": "GIRLS' FRONTLINE 2: EXILIUM",
+    "developer": "HaoPlay Limited",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.haoplay.game.and.exilium",
+    "local_name": "GIRLS' FRONTLINE 2: EXILIUM",
+    "icon": "https://play-lh.googleusercontent.com/N0Cq4MZ9VszB5TH_Wq229R62IuSVn1LfWwB3uhdjb0J_fsRn2hfHWc8XOEH7kAUs7Hg4SB2HLl_LEOj17YkwNQ",
+    "est_revenue": 369476,
+    "est_revenue_fmt": "$369K",
+    "est_revenue_won": "13.5억",
+    "est_revenue_krw": 510062262
+  },
+  {
+    "rank": 46,
     "title": "Pokémon TCG Pocket",
     "developer": "The Pokémon Company",
     "genre": "Game",
@@ -624,23 +638,9 @@
     "app_id": "jp.pokemon.pokemontcgp",
     "local_name": "Pokémon TCG Pocket",
     "icon": "https://play-lh.googleusercontent.com/qdEdyVc19jfittS0bnDUnXLRM7jOPZzfHXEYoChPWOtzMrtwU6t3ZVm_FQ7wbeDYFlqLBuWCDK0Q6c1nEwYKTA",
-    "est_revenue": 369476,
-    "est_revenue_fmt": "$369K",
-    "est_revenue_won": "14.9억",
-    "est_revenue_krw": 510062262
-  },
-  {
-    "rank": 46,
-    "title": "Monster Hunter Now",
-    "developer": "Scopely Explore, Inc.",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.nianticlabs.monsterhunter",
-    "local_name": "Monster Hunter Now",
-    "icon": "https://play-lh.googleusercontent.com/qG_xXqTT3qV7UuRLBDY5HpR5Mx9NwMf98I1Kpp7fSKhMY8uu13I7ivwGoLZ0qQ9821U7mhDrM_7EhMHtAjJCGA",
     "est_revenue": 353924,
     "est_revenue_fmt": "$354K",
-    "est_revenue_won": "14.4억",
+    "est_revenue_won": "14.9억",
     "est_revenue_krw": 488592699
   },
   {
