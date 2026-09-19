@@ -1,20 +1,6 @@
 [
   {
     "rank": 1,
-    "title": "이클립스: 더 어웨이크닝",
-    "developer": "Smilegate, Inc.",
-    "genre": "Game",
-    "rating": 4,
-    "app_id": "com.smilegate.eclipse.stove.google",
-    "local_name": "이클립스: 더 어웨이크닝",
-    "icon": "https://play-lh.googleusercontent.com/JhepoyYDmabwj5ffSFC3cyfAdllyeIdHzSW5a3i_nlzsahXojL7S57JR1_RlYYkRh02OXzZM6K1s9KWnd-1Mpw",
-    "est_revenue": 9000000,
-    "est_revenue_fmt": "$9.0M",
-    "est_revenue_won": "120.0억",
-    "est_revenue_krw": 12481992063
-  },
-  {
-    "rank": 2,
     "title": "제우스: 오만의 신",
     "developer": "Com2uS",
     "genre": "Game",
@@ -22,9 +8,23 @@
     "app_id": "com.com2us.es.android.google.kr.normal",
     "local_name": "제우스: 오만의 신",
     "icon": "https://play-lh.googleusercontent.com/Cn3mFHKMLbpjEBSZGiCKysZpRKXYNm5CH4vGFBLUMpWtZ7gk_2ONDoqAfJ6OIh_V-Lm3d8uZOmzKoAFdQxW4",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
+    "est_revenue_won": "89.0억",
+    "est_revenue_krw": 12481992063
+  },
+  {
+    "rank": 2,
+    "title": "이클립스: 더 어웨이크닝",
+    "developer": "Smilegate, Inc.",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "com.smilegate.eclipse.stove.google",
+    "local_name": "이클립스: 더 어웨이크닝",
+    "icon": "https://play-lh.googleusercontent.com/JhepoyYDmabwj5ffSFC3cyfAdllyeIdHzSW5a3i_nlzsahXojL7S57JR1_RlYYkRh02OXzZM6K1s9KWnd-1Mpw",
     "est_revenue": 7707619,
     "est_revenue_fmt": "$7.7M",
-    "est_revenue_won": "89.0억",
+    "est_revenue_won": "120.0억",
     "est_revenue_krw": 10689604354
   },
   {
@@ -99,20 +99,6 @@
   },
   {
     "rank": 8,
-    "title": "Roblox",
-    "developer": "Roblox Corporation",
-    "genre": "Game",
-    "rating": 3.9,
-    "app_id": "com.roblox.client",
-    "local_name": "로블록스",
-    "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
-    "est_revenue": 3722718,
-    "est_revenue_fmt": "$3.7M",
-    "est_revenue_won": "38.0억",
-    "est_revenue_krw": 5162992948
-  },
-  {
-    "rank": 9,
     "title": "MapleStory : Idle RPG",
     "developer": "NEXON Company",
     "genre": "Game",
@@ -120,9 +106,23 @@
     "app_id": "com.nexon.ma",
     "local_name": "메이플스토리: 모바일",
     "icon": "https://play-lh.googleusercontent.com/VKzgyaBMxhdjOfgfRuJobcjnMkoWVxB9KCQpoPOcb0S4lltYv55Zi2fClECBPWMaAzm74buXQW7X6CO344sD",
+    "est_revenue": 3722718,
+    "est_revenue_fmt": "$3.7M",
+    "est_revenue_won": "41.6억",
+    "est_revenue_krw": 5162992948
+  },
+  {
+    "rank": 9,
+    "title": "Roblox",
+    "developer": "Roblox Corporation",
+    "genre": "Game",
+    "rating": 3.9,
+    "app_id": "com.roblox.client",
+    "local_name": "로블록스",
+    "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
     "est_revenue": 2536774,
     "est_revenue_fmt": "$2.5M",
-    "est_revenue_won": "41.6억",
+    "est_revenue_won": "38.0억",
     "est_revenue_krw": 3518221437
   },
   {
@@ -435,20 +435,6 @@
   },
   {
     "rank": 32,
-    "title": "Top Lords",
-    "developer": "GAME SPARK",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.gamespark.topking.gp",
-    "local_name": "Top Lords",
-    "icon": "https://play-lh.googleusercontent.com/F9Nk01jBia2OZFGndBuTP-rJ-ThbicTHpxJj3iZIk-M1-V8qFhVuVQWYAG_zCuggkiRXHrfqyU5XwZPhAJyAfA",
-    "est_revenue": 408420,
-    "est_revenue_fmt": "$408K",
-    "est_revenue_won": "6.0억",
-    "est_revenue_krw": 566432800
-  },
-  {
-    "rank": 33,
     "title": "트릭컬 리바이브",
     "developer": "EPIDGames",
     "genre": "Game",
@@ -456,13 +442,13 @@
     "app_id": "com.epidgames.trickcalrevive",
     "local_name": "트릭컬 리바이브",
     "icon": "https://play-lh.googleusercontent.com/OCiuBv70Dnuw9wcGet3EtTUF2nEkS1vhYYkvOahe9-MmKg6EhxGkf-9ZVxnWIJXflQSmfOIjTcaSbwJSJyuzHA",
-    "est_revenue": 408420,
-    "est_revenue_fmt": "$408K",
+    "est_revenue": 431351,
+    "est_revenue_fmt": "$431K",
     "est_revenue_won": "5.6억",
-    "est_revenue_krw": 566432800
+    "est_revenue_krw": 598235529
   },
   {
-    "rank": 34,
+    "rank": 33,
     "title": "Hollywood Merge",
     "developer": "VoyagerOne IE",
     "genre": "Game",
@@ -470,10 +456,24 @@
     "app_id": "com.hollywood.merge",
     "local_name": "할리우드 머지",
     "icon": "https://play-lh.googleusercontent.com/5mzN7_uKeXNnloF-zlXGxiwKuepToEdRwbFUK_aQqk7ORLUGPsMwQK__J9IL9DBMWty-zuLvZ4FYHikK2xCttIw",
-    "est_revenue": 312347,
-    "est_revenue_fmt": "$312K",
+    "est_revenue": 329102,
+    "est_revenue_fmt": "$329K",
     "est_revenue_won": "5.3억",
-    "est_revenue_krw": 433190308
+    "est_revenue_krw": 456427617
+  },
+  {
+    "rank": 34,
+    "title": "Top Lords",
+    "developer": "GAME SPARK",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.gamespark.topking.gp",
+    "local_name": "Top Lords",
+    "icon": "https://play-lh.googleusercontent.com/F9Nk01jBia2OZFGndBuTP-rJ-ThbicTHpxJj3iZIk-M1-V8qFhVuVQWYAG_zCuggkiRXHrfqyU5XwZPhAJyAfA",
+    "est_revenue": 329102,
+    "est_revenue_fmt": "$329K",
+    "est_revenue_won": "6.0억",
+    "est_revenue_krw": 456427617
   },
   {
     "rank": 35,
@@ -484,10 +484,10 @@
     "app_id": "com.netmarble.thered",
     "local_name": "뱀피르",
     "icon": "https://play-lh.googleusercontent.com/O3AtBJqCPmOHow-d2tskDjwXGWpYpgz2bPEJC5s-FQ1BzmtxnFTQ4h6OTTJ74pyih8KBs78UsTk7w6PAHkbt",
-    "est_revenue": 312347,
-    "est_revenue_fmt": "$312K",
+    "est_revenue": 329102,
+    "est_revenue_fmt": "$329K",
     "est_revenue_won": "6.3억",
-    "est_revenue_krw": 433190308
+    "est_revenue_krw": 456427617
   },
   {
     "rank": 36,
@@ -498,10 +498,10 @@
     "app_id": "com.devsisters.cc",
     "local_name": "쿠키런: 크럼블",
     "icon": "https://play-lh.googleusercontent.com/nH4gayvv0-dHdjwjxUIKY9QWr_6dYnNeqFNHPwckQ3dgvJgrsJPdkIEyevgE09j0IGUiAIwpniaoAZ7Xn0PH",
-    "est_revenue": 312347,
-    "est_revenue_fmt": "$312K",
+    "est_revenue": 329102,
+    "est_revenue_fmt": "$329K",
     "est_revenue_won": "8.0억",
-    "est_revenue_krw": 433190308
+    "est_revenue_krw": 456427617
   },
   {
     "rank": 37,
@@ -512,10 +512,10 @@
     "app_id": "jp.co.ponos.battlecatskr",
     "local_name": "냥코 대전쟁",
     "icon": "https://play-lh.googleusercontent.com/zDguVsEup4tga5cr-ln03BFC0FaFnVa6tiyUxQrDOI2sQWVAM1hv0YtEnYJffTVkP5Nfc7FlbQUeITMlLJCwKA",
-    "est_revenue": 312347,
-    "est_revenue_fmt": "$312K",
+    "est_revenue": 329102,
+    "est_revenue_fmt": "$329K",
     "est_revenue_won": "5.1억",
-    "est_revenue_krw": 433190308
+    "est_revenue_krw": 456427617
   },
   {
     "rank": 38,
@@ -526,10 +526,10 @@
     "app_id": "com.ncsoft.lineagew",
     "local_name": "리니지W",
     "icon": "https://play-lh.googleusercontent.com/VvwlyO5rMOgeedcbDmvBQv-vDoCeHqxBdSHqTrA3xUZAEuRcAwTBznrJBwkj3_xvhUTkLJ4D98RT1fZTtu8W",
-    "est_revenue": 312347,
-    "est_revenue_fmt": "$312K",
+    "est_revenue": 329102,
+    "est_revenue_fmt": "$329K",
     "est_revenue_won": "4.8억",
-    "est_revenue_krw": 433190308
+    "est_revenue_krw": 456427617
   },
   {
     "rank": 39,
@@ -673,20 +673,6 @@
   },
   {
     "rank": 49,
-    "title": "AION2",
-    "developer": "NC Corporation",
-    "genre": "Game",
-    "rating": 2.8,
-    "app_id": "com.ncsoft.aion2",
-    "local_name": "아이온2",
-    "icon": "https://play-lh.googleusercontent.com/aqqsbPuYk-dU9f0qnyEkHje_IIchFrOhDQfDXozQbD5_n_Hxi18ja4GyEbNYuFD9inoFBUYfZFWK4zSOjsy8Aw",
-    "est_revenue": 165567,
-    "est_revenue_fmt": "$166K",
-    "est_revenue_won": "3.0억",
-    "est_revenue_krw": 229622887
-  },
-  {
-    "rank": 50,
     "title": "eFootball™",
     "developer": "KONAMI",
     "genre": "Game",
@@ -694,6 +680,20 @@
     "app_id": "jp.konami.pesam",
     "local_name": "eFootball™",
     "icon": "https://play-lh.googleusercontent.com/jn-jaGEFUPiu0dBP9O6PjiRk-BCwFFLm0RdeOjLH-qLYjhHJlzNBMgl3Sah24htajj67_fdve-DzGsqmMUx1tqQ",
+    "est_revenue": 165567,
+    "est_revenue_fmt": "$166K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 229622887
+  },
+  {
+    "rank": 50,
+    "title": "한게임 섯다&맞고",
+    "developer": "NHN Corp.",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "com.NHNEnt.MSudda",
+    "local_name": "한게임 섯다&맞고",
+    "icon": "https://play-lh.googleusercontent.com/CqdDCCaoUKuuANbhIfbCWehb2UTPN6YPbucx6KUzurF6WebH10KPaG46AG-fBCl9w1hAnOqbr2psIJtQFoUOaHw",
     "est_revenue": 165567,
     "est_revenue_fmt": "$166K",
     "est_revenue_won": "",
