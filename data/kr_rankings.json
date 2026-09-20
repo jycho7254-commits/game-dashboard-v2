@@ -71,6 +71,20 @@
   },
   {
     "rank": 6,
+    "title": "Roblox",
+    "developer": "Roblox Corporation",
+    "genre": "Game",
+    "rating": 3.9,
+    "app_id": "com.roblox.client",
+    "local_name": "로블록스",
+    "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
+    "est_revenue": 7707619,
+    "est_revenue_fmt": "$7.7M",
+    "est_revenue_won": "38.0억",
+    "est_revenue_krw": 10688495836
+  },
+  {
+    "rank": 7,
     "title": "Gossip Harbor®: Merge & Story",
     "developer": "Microfun Limited",
     "genre": "Game",
@@ -84,7 +98,7 @@
     "est_revenue_krw": 10688495836
   },
   {
-    "rank": 7,
+    "rank": 8,
     "title": "SOL: enchant",
     "developer": "Netmarble",
     "genre": "Game",
@@ -98,20 +112,6 @@
     "est_revenue_krw": 10688495836
   },
   {
-    "rank": 8,
-    "title": "Roblox",
-    "developer": "Roblox Corporation",
-    "genre": "Game",
-    "rating": 3.9,
-    "app_id": "com.roblox.client",
-    "local_name": "로블록스",
-    "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
-    "est_revenue": 5096282,
-    "est_revenue_fmt": "$5.1M",
-    "est_revenue_won": "38.0억",
-    "est_revenue_krw": 7067239434
-  },
-  {
     "rank": 9,
     "title": "MapleStory : Idle RPG",
     "developer": "NEXON Company",
@@ -120,10 +120,10 @@
     "app_id": "com.nexon.ma",
     "local_name": "메이플스토리: 모바일",
     "icon": "https://play-lh.googleusercontent.com/VKzgyaBMxhdjOfgfRuJobcjnMkoWVxB9KCQpoPOcb0S4lltYv55Zi2fClECBPWMaAzm74buXQW7X6CO344sD",
-    "est_revenue": 2942266,
-    "est_revenue_fmt": "$2.9M",
+    "est_revenue": 3948102,
+    "est_revenue_fmt": "$3.9M",
     "est_revenue_won": "46.2억",
-    "est_revenue_krw": 4080170269
+    "est_revenue_krw": 5475007494
   },
   {
     "rank": 10,
@@ -659,6 +659,20 @@
   },
   {
     "rank": 48,
+    "title": "Homescapes",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.playrix.homescapes",
+    "local_name": "홈스케이프",
+    "icon": "https://play-lh.googleusercontent.com/98F-rCvO3NbMvijqi_bRDAt4x9y3sBbTffMFxK0iOn8W0SlFqs7BkmKE9UsqgPH07yDNj2B2IrKeoYGjvGGYcHU",
+    "est_revenue": 165567,
+    "est_revenue_fmt": "$166K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 229599075
+  },
+  {
+    "rank": 49,
     "title": "Pmang Poker : Casino Royal",
     "developer": "NEOWIZ corp",
     "genre": "Game",
@@ -666,37 +680,23 @@
     "app_id": "com.neowiz.games.poker",
     "local_name": "피망 포커",
     "icon": "https://play-lh.googleusercontent.com/MkI60z70bUF0YIi9loQzKm08WLinhruANPb6D7j1Gh1iPiLrfL1W-2ZQ0Q8ICCMdkFY0jDlTjx9_iZFVGOourg",
-    "est_revenue": 185045,
-    "est_revenue_fmt": "$185K",
+    "est_revenue": 165567,
+    "est_revenue_fmt": "$166K",
     "est_revenue_won": "",
-    "est_revenue_krw": 256610078
-  },
-  {
-    "rank": 49,
-    "title": "Flambé®: Merge & Cook",
-    "developer": "Microfun Limited",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.cola.game",
-    "local_name": "플람베",
-    "icon": "https://play-lh.googleusercontent.com/DxEYTS_nNDbesjgAGulDTgl8V2cV42UUmeOGPei2c95XRW7GY_XgihSsaPF7rnRua18Egkd1-siIgbkVjq73Hg",
-    "est_revenue": 159111,
-    "est_revenue_fmt": "$159K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 220646254
+    "est_revenue_krw": 229599075
   },
   {
     "rank": 50,
-    "title": "메이플스토리M",
-    "developer": "NEXON Company",
+    "title": "AION2",
+    "developer": "NC Corporation",
     "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.nexon.nsc.maplem",
-    "local_name": "메이플스토리M",
-    "icon": "https://play-lh.googleusercontent.com/9o8e9UB2hxKmBZDNFai_vH3UAAoPvVWj6M00kQPccrouhIfFoHd-YrJ4Pbme3H96uMu8_dU3vjChrUxXmY0dxQ",
-    "est_revenue": 159111,
-    "est_revenue_fmt": "$159K",
+    "rating": 2.8,
+    "app_id": "com.ncsoft.aion2",
+    "local_name": "아이온2",
+    "icon": "https://play-lh.googleusercontent.com/aqqsbPuYk-dU9f0qnyEkHje_IIchFrOhDQfDXozQbD5_n_Hxi18ja4GyEbNYuFD9inoFBUYfZFWK4zSOjsy8Aw",
+    "est_revenue": 165567,
+    "est_revenue_fmt": "$166K",
     "est_revenue_won": "",
-    "est_revenue_krw": 220646254
+    "est_revenue_krw": 229599075
   }
 ]
