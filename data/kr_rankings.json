@@ -435,20 +435,6 @@
   },
   {
     "rank": 32,
-    "title": "CookieRun: Crumble - Idle RPG",
-    "developer": "Devsisters Corporation",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.devsisters.cc",
-    "local_name": "쿠키런: 크럼블",
-    "icon": "https://play-lh.googleusercontent.com/nH4gayvv0-dHdjwjxUIKY9QWr_6dYnNeqFNHPwckQ3dgvJgrsJPdkIEyevgE09j0IGUiAIwpniaoAZ7Xn0PH",
-    "est_revenue": 408420,
-    "est_revenue_fmt": "$408K",
-    "est_revenue_won": "7.1억",
-    "est_revenue_krw": 566374060
-  },
-  {
-    "rank": 33,
     "title": "Top Lords",
     "developer": "GAME SPARK",
     "genre": "Game",
@@ -456,9 +442,23 @@
     "app_id": "com.gamespark.topking.gp",
     "local_name": "Top Lords",
     "icon": "https://play-lh.googleusercontent.com/F9Nk01jBia2OZFGndBuTP-rJ-ThbicTHpxJj3iZIk-M1-V8qFhVuVQWYAG_zCuggkiRXHrfqyU5XwZPhAJyAfA",
+    "est_revenue": 408420,
+    "est_revenue_fmt": "$408K",
+    "est_revenue_won": "6.7억",
+    "est_revenue_krw": 566374060
+  },
+  {
+    "rank": 33,
+    "title": "CookieRun: Crumble - Idle RPG",
+    "developer": "Devsisters Corporation",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.devsisters.cc",
+    "local_name": "쿠키런: 크럼블",
+    "icon": "https://play-lh.googleusercontent.com/nH4gayvv0-dHdjwjxUIKY9QWr_6dYnNeqFNHPwckQ3dgvJgrsJPdkIEyevgE09j0IGUiAIwpniaoAZ7Xn0PH",
     "est_revenue": 387178,
     "est_revenue_fmt": "$387K",
-    "est_revenue_won": "6.7억",
+    "est_revenue_won": "7.1억",
     "est_revenue_krw": 536916840
   },
   {
@@ -673,6 +673,20 @@
   },
   {
     "rank": 49,
+    "title": "Zombie High School",
+    "developer": "AWESOMEPIECE",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "net.kernys.aooni",
+    "local_name": "Zombie High School",
+    "icon": "https://play-lh.googleusercontent.com/dSNV5g0mTGY-hdHslNHtvixosWtnrV2ujWxfrVYZa3g5ljc2nvtwjRf3SByq9jifGaQx0JNzKe0-WV0FmzwXh88",
+    "est_revenue": 185045,
+    "est_revenue_fmt": "$185K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 256610078
+  },
+  {
+    "rank": 50,
     "title": "Homescapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -680,23 +694,9 @@
     "app_id": "com.playrix.homescapes",
     "local_name": "홈스케이프",
     "icon": "https://play-lh.googleusercontent.com/98F-rCvO3NbMvijqi_bRDAt4x9y3sBbTffMFxK0iOn8W0SlFqs7BkmKE9UsqgPH07yDNj2B2IrKeoYGjvGGYcHU",
-    "est_revenue": 159111,
-    "est_revenue_fmt": "$159K",
-    "est_revenue_won": "3.1억",
-    "est_revenue_krw": 220646254
-  },
-  {
-    "rank": 50,
-    "title": "Flambé®: Merge & Cook",
-    "developer": "Microfun Limited",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.cola.game",
-    "local_name": "플람베",
-    "icon": "https://play-lh.googleusercontent.com/DxEYTS_nNDbesjgAGulDTgl8V2cV42UUmeOGPei2c95XRW7GY_XgihSsaPF7rnRua18Egkd1-siIgbkVjq73Hg",
     "est_revenue": 153000,
     "est_revenue_fmt": "$153K",
-    "est_revenue_won": "3.0억",
+    "est_revenue_won": "3.1억",
     "est_revenue_krw": 212171860
   }
 ]
