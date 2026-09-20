@@ -421,6 +421,20 @@
   },
   {
     "rank": 31,
+    "title": "学園アイドルマスター",
+    "developer": "Bandai Namco Entertainment Inc.",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.bandainamcoent.idolmaster_gakuen",
+    "local_name": "学園アイドルマスター",
+    "icon": "https://play-lh.googleusercontent.com/ch_SGwCMoLElrzColmSthRPYxzv608YoyBx4tXY3ciM8Bg4fLxKhRHdeoqPSbygFruy62D9p5EdGAwLW8KGTfwI",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "20.0억",
+    "est_revenue_krw": 8320465116
+  },
+  {
+    "rank": 32,
     "title": "Wuthering Waves",
     "developer": "HK KURO GAMES LIMITED",
     "genre": "Game",
@@ -434,7 +448,7 @@
     "est_revenue_krw": 8320465116
   },
   {
-    "rank": 32,
+    "rank": 33,
     "title": "Monster Hunter Now",
     "developer": "Scopely Explore, Inc.",
     "genre": "Game",
@@ -445,20 +459,6 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "22.8억",
-    "est_revenue_krw": 8320465116
-  },
-  {
-    "rank": 33,
-    "title": "Homescapes",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.playrix.homescapes",
-    "local_name": "Homescapes",
-    "icon": "https://play-lh.googleusercontent.com/98F-rCvO3NbMvijqi_bRDAt4x9y3sBbTffMFxK0iOn8W0SlFqs7BkmKE9UsqgPH07yDNj2B2IrKeoYGjvGGYcHU",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "21.8억",
     "est_revenue_krw": 8320465116
   },
   {
@@ -477,16 +477,16 @@
   },
   {
     "rank": 35,
-    "title": "学園アイドルマスター",
-    "developer": "Bandai Namco Entertainment Inc.",
+    "title": "Homescapes",
+    "developer": "Playrix",
     "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.bandainamcoent.idolmaster_gakuen",
-    "local_name": "学園アイドルマスター",
-    "icon": "https://play-lh.googleusercontent.com/ch_SGwCMoLElrzColmSthRPYxzv608YoyBx4tXY3ciM8Bg4fLxKhRHdeoqPSbygFruy62D9p5EdGAwLW8KGTfwI",
+    "rating": 4.3,
+    "app_id": "com.playrix.homescapes",
+    "local_name": "Homescapes",
+    "icon": "https://play-lh.googleusercontent.com/98F-rCvO3NbMvijqi_bRDAt4x9y3sBbTffMFxK0iOn8W0SlFqs7BkmKE9UsqgPH07yDNj2B2IrKeoYGjvGGYcHU",
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "20.0억",
+    "est_revenue_won": "21.8억",
     "est_revenue_krw": 8320465116
   },
   {
