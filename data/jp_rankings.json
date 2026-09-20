@@ -64,10 +64,10 @@
     "app_id": "com.gof.global",
     "local_name": "Whiteout Survival",
     "icon": "https://play-lh.googleusercontent.com/tNMaMiJ4wTQy_TeZSWHdSlP5qH0PGig9g9sDJu2QFvCHdnrbo2u17pX55W4i6KITo56v_ZyICkqLgA2svH9ycQ",
-    "est_revenue": 9135133,
-    "est_revenue_fmt": "$9.1M",
+    "est_revenue": 8017264,
+    "est_revenue_fmt": "$8.0M",
     "est_revenue_won": "150.0억",
-    "est_revenue_krw": 12668092576
+    "est_revenue_krw": 11117894240
   },
   {
     "rank": 6,
@@ -78,10 +78,10 @@
     "app_id": "com.global.ztmslg",
     "local_name": "Puzzles & Survival",
     "icon": "https://play-lh.googleusercontent.com/ummlqp5oiU1hRPrz9pt-XYFhbMIITY_b-viFnnMu-RgtdH--uFrcFoEEGrXpRrOTVf94f8GCDQwEK-VBln18",
-    "est_revenue": 9082474,
-    "est_revenue_fmt": "$9.1M",
+    "est_revenue": 7164689,
+    "est_revenue_fmt": "$7.2M",
     "est_revenue_won": "127.1억",
-    "est_revenue_krw": 12595068014
+    "est_revenue_krw": 9935590815
   },
   {
     "rank": 7,
@@ -92,27 +92,13 @@
     "app_id": "game.qualiarts.hololive.dreams.jp",
     "local_name": "ホロライブドリームス",
     "icon": "https://play-lh.googleusercontent.com/j00IPpPSDv3cGqoKVIDf0qnCw6EbZQ4KpgMr10UWkf8Rm1qO9vCSoVhJwfCF1PbbKxV_Qt_eqZ_Sp4QMHuhwYBI",
-    "est_revenue": 9038187,
-    "est_revenue_fmt": "$9.0M",
+    "est_revenue": 6514982,
+    "est_revenue_fmt": "$6.5M",
     "est_revenue_won": "80.0억",
-    "est_revenue_krw": 12533653274
+    "est_revenue_krw": 9034613410
   },
   {
     "rank": 8,
-    "title": "モンスターストライク",
-    "developer": "XFLAG, Inc.",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "jp.co.mixi.monsterstrike",
-    "local_name": "モンスターストライク",
-    "icon": "https://play-lh.googleusercontent.com/HHfoOjfXLp7FHLNZ-2OHI4mL3DJgFqKZMtFJpWr-UoXjt5KUU_WIRkwN0sDOcw2dfMxNDdvntfD5chNJJoXA",
-    "est_revenue": 9000000,
-    "est_revenue_fmt": "$9.0M",
-    "est_revenue_won": "97.9억",
-    "est_revenue_krw": 12480697674
-  },
-  {
-    "rank": 9,
     "title": "eFootball™",
     "developer": "KONAMI",
     "genre": "Game",
@@ -126,7 +112,7 @@
     "est_revenue_krw": 8320465116
   },
   {
-    "rank": 10,
+    "rank": 9,
     "title": "Gossip Harbor®: Merge & Story",
     "developer": "Microfun Limited",
     "genre": "Game",
@@ -137,6 +123,20 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "88.0억",
+    "est_revenue_krw": 8320465116
+  },
+  {
+    "rank": 10,
+    "title": "モンスターストライク",
+    "developer": "XFLAG, Inc.",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "jp.co.mixi.monsterstrike",
+    "local_name": "モンスターストライク",
+    "icon": "https://play-lh.googleusercontent.com/HHfoOjfXLp7FHLNZ-2OHI4mL3DJgFqKZMtFJpWr-UoXjt5KUU_WIRkwN0sDOcw2dfMxNDdvntfD5chNJJoXA",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "97.9억",
     "est_revenue_krw": 8320465116
   },
   {
@@ -354,7 +354,7 @@
     "title": "Tasty Travels: Merge Game",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
-    "rating": 4.5,
+    "rating": 4.4,
     "app_id": "com.fatmerge.global",
     "local_name": "Tasty Travels: Merge Game",
     "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
@@ -673,20 +673,6 @@
   },
   {
     "rank": 49,
-    "title": "Hollywood Merge",
-    "developer": "VoyagerOne IE",
-    "genre": "Game",
-    "rating": 4.1,
-    "app_id": "com.hollywood.merge",
-    "local_name": "Hollywood Merge",
-    "icon": "https://play-lh.googleusercontent.com/5mzN7_uKeXNnloF-zlXGxiwKuepToEdRwbFUK_aQqk7ORLUGPsMwQK__J9IL9DBMWty-zuLvZ4FYHikK2xCttIw",
-    "est_revenue": 265503,
-    "est_revenue_fmt": "$266K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 368184742
-  },
-  {
-    "rank": 50,
     "title": "eFootball™  CHAMPION SQUADS",
     "developer": "KONAMI",
     "genre": "Game",
@@ -694,9 +680,23 @@
     "app_id": "jp.konami.wecc",
     "local_name": "eFootball™  CHAMPION SQUADS",
     "icon": "https://play-lh.googleusercontent.com/uvaRNAr5rHRq9wFGjPEEBGDMIP9pgWOMj4cPNTM4dosust2m4vUVcD_En5WE5wLewHCNJZwskc8n2zE_uhf_",
-    "est_revenue": 265503,
-    "est_revenue_fmt": "$266K",
+    "est_revenue": 309154,
+    "est_revenue_fmt": "$309K",
     "est_revenue_won": "",
-    "est_revenue_krw": 368184742
+    "est_revenue_krw": 428717512
+  },
+  {
+    "rank": 50,
+    "title": "Hollywood Merge",
+    "developer": "VoyagerOne IE",
+    "genre": "Game",
+    "rating": 4.1,
+    "app_id": "com.hollywood.merge",
+    "local_name": "Hollywood Merge",
+    "icon": "https://play-lh.googleusercontent.com/5mzN7_uKeXNnloF-zlXGxiwKuepToEdRwbFUK_aQqk7ORLUGPsMwQK__J9IL9DBMWty-zuLvZ4FYHikK2xCttIw",
+    "est_revenue": 255000,
+    "est_revenue_fmt": "$255K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 353619767
   }
 ]
