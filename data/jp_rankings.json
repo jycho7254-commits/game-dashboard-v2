@@ -267,6 +267,20 @@
   },
   {
     "rank": 20,
+    "title": "Gardenscapes",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.playrix.gardenscapes",
+    "local_name": "Gardenscapes",
+    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "42.3억",
+    "est_revenue_krw": 8316099666
+  },
+  {
+    "rank": 21,
     "title": "アズールレーン",
     "developer": "Yostar, Inc.",
     "genre": "Game",
@@ -280,7 +294,7 @@
     "est_revenue_krw": 8316099666
   },
   {
-    "rank": 21,
+    "rank": 22,
     "title": "LINE Pokopoko",
     "developer": "LINE (LY Corporation)",
     "genre": "Game",
@@ -291,20 +305,6 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "40.0억",
-    "est_revenue_krw": 8316099666
-  },
-  {
-    "rank": 22,
-    "title": "Gardenscapes",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.playrix.gardenscapes",
-    "local_name": "Gardenscapes",
-    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "42.3억",
     "est_revenue_krw": 8316099666
   },
   {
@@ -340,7 +340,7 @@
     "title": "Tasty Travels: Merge Game",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
-    "rating": 4.4,
+    "rating": 4.5,
     "app_id": "com.fatmerge.global",
     "local_name": "Tasty Travels: Merge Game",
     "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
@@ -421,20 +421,6 @@
   },
   {
     "rank": 31,
-    "title": "Monster Hunter Now",
-    "developer": "Scopely Explore, Inc.",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.nianticlabs.monsterhunter",
-    "local_name": "Monster Hunter Now",
-    "icon": "https://play-lh.googleusercontent.com/qG_xXqTT3qV7UuRLBDY5HpR5Mx9NwMf98I1Kpp7fSKhMY8uu13I7ivwGoLZ0qQ9821U7mhDrM_7EhMHtAjJCGA",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "22.8억",
-    "est_revenue_krw": 8316099666
-  },
-  {
-    "rank": 32,
     "title": "Genshin Impact",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -448,6 +434,20 @@
     "est_revenue_krw": 8316099666
   },
   {
+    "rank": 32,
+    "title": "Monster Hunter Now",
+    "developer": "Scopely Explore, Inc.",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.nianticlabs.monsterhunter",
+    "local_name": "Monster Hunter Now",
+    "icon": "https://play-lh.googleusercontent.com/qG_xXqTT3qV7UuRLBDY5HpR5Mx9NwMf98I1Kpp7fSKhMY8uu13I7ivwGoLZ0qQ9821U7mhDrM_7EhMHtAjJCGA",
+    "est_revenue": 698497,
+    "est_revenue_fmt": "$698K",
+    "est_revenue_won": "22.8억",
+    "est_revenue_krw": 968128445
+  },
+  {
     "rank": 33,
     "title": "Wuthering Waves",
     "developer": "HK KURO GAMES LIMITED",
@@ -456,10 +456,10 @@
     "app_id": "com.kurogame.wutheringwaves.global",
     "local_name": "鸣潮",
     "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_",
-    "est_revenue": 740341,
-    "est_revenue_fmt": "$740K",
+    "est_revenue": 698497,
+    "est_revenue_fmt": "$698K",
     "est_revenue_won": "23.8억",
-    "est_revenue_krw": 1026124924
+    "est_revenue_krw": 968128445
   },
   {
     "rank": 34,
