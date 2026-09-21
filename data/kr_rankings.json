@@ -18,7 +18,7 @@
     "title": "이클립스: 더 어웨이크닝",
     "developer": "Smilegate, Inc.",
     "genre": "Game",
-    "rating": 3.8,
+    "rating": 3.5,
     "app_id": "com.smilegate.eclipse.stove.google",
     "local_name": "이클립스: 더 어웨이크닝",
     "icon": "https://play-lh.googleusercontent.com/JhepoyYDmabwj5ffSFC3cyfAdllyeIdHzSW5a3i_nlzsahXojL7S57JR1_RlYYkRh02OXzZM6K1s9KWnd-1Mpw",
@@ -295,20 +295,6 @@
   },
   {
     "rank": 22,
-    "title": "Gardenscapes",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.playrix.gardenscapes",
-    "local_name": "가든스케이프",
-    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
-    "est_revenue": 641291,
-    "est_revenue_fmt": "$641K",
-    "est_revenue_won": "12.9억",
-    "est_revenue_krw": 888839978
-  },
-  {
-    "rank": 23,
     "title": "Last Z: Survival Shooter",
     "developer": "Omnilojo Pte Ltd",
     "genre": "Game",
@@ -316,13 +302,13 @@
     "app_id": "com.readygo.barrel.gp",
     "local_name": "라스트 Z: 서바이벌 슈터",
     "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
-    "est_revenue": 641291,
-    "est_revenue_fmt": "$641K",
+    "est_revenue": 741582,
+    "est_revenue_fmt": "$742K",
     "est_revenue_won": "12.1억",
-    "est_revenue_krw": 888839978
+    "est_revenue_krw": 1027844970
   },
   {
-    "rank": 24,
+    "rank": 23,
     "title": "Seaside Escape®: Merge & Story",
     "developer": "Microfun Limited",
     "genre": "Game",
@@ -330,9 +316,23 @@
     "app_id": "com.gamedots.seasideescape",
     "local_name": "시사이드 이스케이프",
     "icon": "https://play-lh.googleusercontent.com/ARrIW6H5vKwn_X2LS95P8qLGeeJhRw-0SKSZTbzP7sfWTXDmg6jZYh7L1GUFzswJE0R3qnuWFS_yGdm0fb8tQg",
+    "est_revenue": 598374,
+    "est_revenue_fmt": "$598K",
+    "est_revenue_won": "11.3억",
+    "est_revenue_krw": 829356304
+  },
+  {
+    "rank": 24,
+    "title": "Gardenscapes",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.playrix.gardenscapes",
+    "local_name": "가든스케이프",
+    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
     "est_revenue": 559479,
     "est_revenue_fmt": "$559K",
-    "est_revenue_won": "11.3억",
+    "est_revenue_won": "12.9억",
     "est_revenue_krw": 775447188
   },
   {
@@ -505,20 +505,6 @@
   },
   {
     "rank": 37,
-    "title": "Coop TD: Together",
-    "developer": "Supermagic",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.percent.aos.cooptd",
-    "local_name": "쿱 TD: 투게더",
-    "icon": "https://play-lh.googleusercontent.com/vTxEJvWJq3cIbideJTNd9ZAYolS4ll7hUlMT3piDAsP6y84EPI-k1tPpoALoCwvmbJMn3LBW-sjzhHpERqfY",
-    "est_revenue": 316176,
-    "est_revenue_fmt": "$316K",
-    "est_revenue_won": "5.3억",
-    "est_revenue_krw": 438225188
-  },
-  {
-    "rank": 38,
     "title": "Vampir",
     "developer": "Netmarble",
     "genre": "Game",
@@ -526,13 +512,13 @@
     "app_id": "com.netmarble.thered",
     "local_name": "뱀피르",
     "icon": "https://play-lh.googleusercontent.com/O3AtBJqCPmOHow-d2tskDjwXGWpYpgz2bPEJC5s-FQ1BzmtxnFTQ4h6OTTJ74pyih8KBs78UsTk7w6PAHkbt",
-    "est_revenue": 301319,
-    "est_revenue_fmt": "$301K",
+    "est_revenue": 316176,
+    "est_revenue_fmt": "$316K",
     "est_revenue_won": "5.1억",
-    "est_revenue_krw": 417633139
+    "est_revenue_krw": 438225188
   },
   {
-    "rank": 39,
+    "rank": 38,
     "title": "Lineage W",
     "developer": "NC Corporation",
     "genre": "Game",
@@ -540,13 +526,13 @@
     "app_id": "com.ncsoft.lineagew",
     "local_name": "리니지W",
     "icon": "https://play-lh.googleusercontent.com/VvwlyO5rMOgeedcbDmvBQv-vDoCeHqxBdSHqTrA3xUZAEuRcAwTBznrJBwkj3_xvhUTkLJ4D98RT1fZTtu8W",
-    "est_revenue": 301319,
-    "est_revenue_fmt": "$301K",
+    "est_revenue": 316176,
+    "est_revenue_fmt": "$316K",
     "est_revenue_won": "4.8억",
-    "est_revenue_krw": 417633139
+    "est_revenue_krw": 438225188
   },
   {
-    "rank": 40,
+    "rank": 39,
     "title": "Clash of Critters",
     "developer": "FARLIGHT",
     "genre": "Game",
@@ -554,13 +540,13 @@
     "app_id": "com.farlightgames.pgame.gp",
     "local_name": "Clash of Critters",
     "icon": "https://play-lh.googleusercontent.com/nIjO9pFz1R7G_wct00QMBKVqAmLHs2TqiaCmSUJfnKPw7yG_VzSmp26TRGCmm98v-Mye0MtsW_xz8CHNdIFD1A",
-    "est_revenue": 301319,
-    "est_revenue_fmt": "$301K",
+    "est_revenue": 316168,
+    "est_revenue_fmt": "$316K",
     "est_revenue_won": "4.6억",
-    "est_revenue_krw": 417633139
+    "est_revenue_krw": 438214100
   },
   {
-    "rank": 41,
+    "rank": 40,
     "title": "Zombie High School",
     "developer": "AWESOMEPIECE",
     "genre": "Game",
@@ -568,13 +554,13 @@
     "app_id": "net.kernys.aooni",
     "local_name": "Zombie High School",
     "icon": "https://play-lh.googleusercontent.com/dSNV5g0mTGY-hdHslNHtvixosWtnrV2ujWxfrVYZa3g5ljc2nvtwjRf3SByq9jifGaQx0JNzKe0-WV0FmzwXh88",
-    "est_revenue": 262213,
-    "est_revenue_fmt": "$262K",
+    "est_revenue": 274413,
+    "est_revenue_fmt": "$274K",
     "est_revenue_won": "4.4억",
-    "est_revenue_krw": 363431574
+    "est_revenue_krw": 380340976
   },
   {
-    "rank": 42,
+    "rank": 41,
     "title": "Candy Crush Saga",
     "developer": "King",
     "genre": "Game",
@@ -582,13 +568,13 @@
     "app_id": "com.king.candycrushsaga",
     "local_name": "캔디크러쉬 사가",
     "icon": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI",
-    "est_revenue": 213144,
-    "est_revenue_fmt": "$213K",
+    "est_revenue": 222881,
+    "est_revenue_fmt": "$223K",
     "est_revenue_won": "4.2억",
-    "est_revenue_krw": 295421125
+    "est_revenue_krw": 308916768
   },
   {
-    "rank": 43,
+    "rank": 42,
     "title": "Hollywood Merge",
     "developer": "VoyagerOne IE",
     "genre": "Game",
@@ -596,10 +582,24 @@
     "app_id": "com.hollywood.merge",
     "local_name": "할리우드 머지",
     "icon": "https://play-lh.googleusercontent.com/5mzN7_uKeXNnloF-zlXGxiwKuepToEdRwbFUK_aQqk7ORLUGPsMwQK__J9IL9DBMWty-zuLvZ4FYHikK2xCttIw",
-    "est_revenue": 203992,
-    "est_revenue_fmt": "$204K",
+    "est_revenue": 213144,
+    "est_revenue_fmt": "$213K",
     "est_revenue_won": "4.0억",
-    "est_revenue_krw": 282736301
+    "est_revenue_krw": 295421125
+  },
+  {
+    "rank": 43,
+    "title": "Coop TD: Together",
+    "developer": "Supermagic",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.percent.aos.cooptd",
+    "local_name": "쿱 TD: 투게더",
+    "icon": "https://play-lh.googleusercontent.com/vTxEJvWJq3cIbideJTNd9ZAYolS4ll7hUlMT3piDAsP6y84EPI-k1tPpoALoCwvmbJMn3LBW-sjzhHpERqfY",
+    "est_revenue": 213144,
+    "est_revenue_fmt": "$213K",
+    "est_revenue_won": "5.3억",
+    "est_revenue_krw": 295421125
   },
   {
     "rank": 44,
