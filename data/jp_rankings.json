@@ -267,20 +267,6 @@
   },
   {
     "rank": 20,
-    "title": "Gardenscapes",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.playrix.gardenscapes",
-    "local_name": "Gardenscapes",
-    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "40.0억",
-    "est_revenue_krw": 8316099666
-  },
-  {
-    "rank": 21,
     "title": "LINE Pokopoko",
     "developer": "LINE (LY Corporation)",
     "genre": "Game",
@@ -294,7 +280,7 @@
     "est_revenue_krw": 8316099666
   },
   {
-    "rank": 22,
+    "rank": 21,
     "title": "アズールレーン",
     "developer": "Yostar, Inc.",
     "genre": "Game",
@@ -305,6 +291,20 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "35.8억",
+    "est_revenue_krw": 8316099666
+  },
+  {
+    "rank": 22,
+    "title": "Gardenscapes",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.playrix.gardenscapes",
+    "local_name": "Gardenscapes",
+    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "40.0억",
     "est_revenue_krw": 8316099666
   },
   {
@@ -589,20 +589,6 @@
   },
   {
     "rank": 43,
-    "title": "Fishdom",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.playrix.fishdomdd.gplay",
-    "local_name": "Fishdom",
-    "icon": "https://play-lh.googleusercontent.com/JrsX1K8iBig6HRQxouWSRM-DlxPyJGBGK33TE1WEqBajbLtEu13mPPeXoWQIrQrfSFR3he8tbtx-D2xCEXMJMQ",
-    "est_revenue": 403547,
-    "est_revenue_fmt": "$404K",
-    "est_revenue_won": "14.9억",
-    "est_revenue_krw": 559322845
-  },
-  {
-    "rank": 44,
     "title": "MementoMori: AFKRPG",
     "developer": "Bank of Innovation, Inc.",
     "genre": "Game",
@@ -610,10 +596,24 @@
     "app_id": "jp.boi.mementomori.android",
     "local_name": "MementoMori: AFKRPG",
     "icon": "https://play-lh.googleusercontent.com/HG9W8SRyTeeLPFrrS17a06d5ANgakJbHomr73o3l6I23YAiIFL399Y1_Q-2FDBO_zxqETTkphFhE-uTeuD2nH6w",
-    "est_revenue": 403547,
-    "est_revenue_fmt": "$404K",
+    "est_revenue": 422230,
+    "est_revenue_fmt": "$422K",
     "est_revenue_won": "14.4억",
-    "est_revenue_krw": 559322845
+    "est_revenue_krw": 585217794
+  },
+  {
+    "rank": 44,
+    "title": "Fishdom",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "com.playrix.fishdomdd.gplay",
+    "local_name": "Fishdom",
+    "icon": "https://play-lh.googleusercontent.com/JrsX1K8iBig6HRQxouWSRM-DlxPyJGBGK33TE1WEqBajbLtEu13mPPeXoWQIrQrfSFR3he8tbtx-D2xCEXMJMQ",
+    "est_revenue": 385991,
+    "est_revenue_fmt": "$386K",
+    "est_revenue_won": "14.9억",
+    "est_revenue_krw": 534989938
   },
   {
     "rank": 45,
