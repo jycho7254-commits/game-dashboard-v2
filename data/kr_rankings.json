@@ -18,7 +18,7 @@
     "title": "이클립스: 더 어웨이크닝",
     "developer": "Smilegate, Inc.",
     "genre": "Game",
-    "rating": 3.5,
+    "rating": 3.6,
     "app_id": "com.smilegate.eclipse.stove.google",
     "local_name": "이클립스: 더 어웨이크닝",
     "icon": "https://play-lh.googleusercontent.com/JhepoyYDmabwj5ffSFC3cyfAdllyeIdHzSW5a3i_nlzsahXojL7S57JR1_RlYYkRh02OXzZM6K1s9KWnd-1Mpw",
@@ -295,34 +295,6 @@
   },
   {
     "rank": 22,
-    "title": "로그W : 리메인즈 오브 갓",
-    "developer": "Efun Company",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.krd8.google",
-    "local_name": "로그W : 리메인즈 오브 갓",
-    "icon": "https://play-lh.googleusercontent.com/wPufQAobuu_bMHJyHAmyZLteiFXFFfGyr_II-agf6JMw518mjIbDzFdR3LXbuKvT12TQ2kPvjRvLN-nyJ8NAyA",
-    "est_revenue": 754459,
-    "est_revenue_fmt": "$754K",
-    "est_revenue_won": "12.9억",
-    "est_revenue_krw": 1037865649
-  },
-  {
-    "rank": 23,
-    "title": "Last Z: Survival Shooter",
-    "developer": "Omnilojo Pte Ltd",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.readygo.barrel.gp",
-    "local_name": "라스트 Z: 서바이벌 슈터",
-    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
-    "est_revenue": 754459,
-    "est_revenue_fmt": "$754K",
-    "est_revenue_won": "12.1억",
-    "est_revenue_krw": 1037865649
-  },
-  {
-    "rank": 24,
     "title": "Gardenscapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -330,10 +302,38 @@
     "app_id": "com.playrix.gardenscapes",
     "local_name": "가든스케이프",
     "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
-    "est_revenue": 559479,
-    "est_revenue_fmt": "$559K",
+    "est_revenue": 641291,
+    "est_revenue_fmt": "$641K",
     "est_revenue_won": "11.3억",
-    "est_revenue_krw": 769642930
+    "est_revenue_krw": 882186971
+  },
+  {
+    "rank": 23,
+    "title": "로그W : 리메인즈 오브 갓",
+    "developer": "Efun Company",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.krd8.google",
+    "local_name": "로그W : 리메인즈 오브 갓",
+    "icon": "https://play-lh.googleusercontent.com/wPufQAobuu_bMHJyHAmyZLteiFXFFfGyr_II-agf6JMw518mjIbDzFdR3LXbuKvT12TQ2kPvjRvLN-nyJ8NAyA",
+    "est_revenue": 641291,
+    "est_revenue_fmt": "$641K",
+    "est_revenue_won": "12.9억",
+    "est_revenue_krw": 882186971
+  },
+  {
+    "rank": 24,
+    "title": "Last Z: Survival Shooter",
+    "developer": "Omnilojo Pte Ltd",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.readygo.barrel.gp",
+    "local_name": "라스트 Z: 서바이벌 슈터",
+    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
+    "est_revenue": 641291,
+    "est_revenue_fmt": "$641K",
+    "est_revenue_won": "12.1억",
+    "est_revenue_krw": 882186971
   },
   {
     "rank": 25,
@@ -631,20 +631,6 @@
   },
   {
     "rank": 46,
-    "title": "Wuthering Waves",
-    "developer": "HK KURO GAMES LIMITED",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.kurogame.wutheringwaves.global",
-    "local_name": "명조",
-    "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_",
-    "est_revenue": 195380,
-    "est_revenue_fmt": "$195K",
-    "est_revenue_won": "3.5억",
-    "est_revenue_krw": 268772976
-  },
-  {
-    "rank": 47,
     "title": "Hollywood Merge",
     "developer": "VoyagerOne IE",
     "genre": "Game",
@@ -652,10 +638,24 @@
     "app_id": "com.hollywood.merge",
     "local_name": "할리우드 머지",
     "icon": "https://play-lh.googleusercontent.com/5mzN7_uKeXNnloF-zlXGxiwKuepToEdRwbFUK_aQqk7ORLUGPsMwQK__J9IL9DBMWty-zuLvZ4FYHikK2xCttIw",
-    "est_revenue": 172392,
-    "est_revenue_fmt": "$172K",
+    "est_revenue": 179615,
+    "est_revenue_fmt": "$180K",
     "est_revenue_won": "3.4억",
-    "est_revenue_krw": 237149713
+    "est_revenue_krw": 247085976
+  },
+  {
+    "rank": 47,
+    "title": "Wuthering Waves",
+    "developer": "HK KURO GAMES LIMITED",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.kurogame.wutheringwaves.global",
+    "local_name": "명조",
+    "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_",
+    "est_revenue": 179615,
+    "est_revenue_fmt": "$180K",
+    "est_revenue_won": "3.5억",
+    "est_revenue_krw": 247085976
   },
   {
     "rank": 48,
@@ -666,10 +666,10 @@
     "app_id": "com.mrtgd2kr.google",
     "local_name": "후더덕 서바이벌-777뽑기 증정",
     "icon": "https://play-lh.googleusercontent.com/rDbVN_XC0pxpQMgTMRD9n7et-PpV5PFfF-jS86jBpkKkiSx2kPrvN65t_XlY5V4sHQvbL1RxT05eMJIXksDXoA",
-    "est_revenue": 172392,
-    "est_revenue_fmt": "$172K",
+    "est_revenue": 179615,
+    "est_revenue_fmt": "$180K",
     "est_revenue_won": "3.2억",
-    "est_revenue_krw": 237149713
+    "est_revenue_krw": 247085976
   },
   {
     "rank": 49,
