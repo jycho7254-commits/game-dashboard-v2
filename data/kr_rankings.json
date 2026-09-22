@@ -533,34 +533,6 @@
   },
   {
     "rank": 39,
-    "title": "Clash of Critters",
-    "developer": "FARLIGHT",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.farlightgames.pgame.gp",
-    "local_name": "Clash of Critters",
-    "icon": "https://play-lh.googleusercontent.com/nIjO9pFz1R7G_wct00QMBKVqAmLHs2TqiaCmSUJfnKPw7yG_VzSmp26TRGCmm98v-Mye0MtsW_xz8CHNdIFD1A",
-    "est_revenue": 301319,
-    "est_revenue_fmt": "$301K",
-    "est_revenue_won": "4.4억",
-    "est_revenue_krw": 414507136
-  },
-  {
-    "rank": 40,
-    "title": "Lineage W",
-    "developer": "NC Corporation",
-    "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.ncsoft.lineagew",
-    "local_name": "리니지W",
-    "icon": "https://play-lh.googleusercontent.com/VvwlyO5rMOgeedcbDmvBQv-vDoCeHqxBdSHqTrA3xUZAEuRcAwTBznrJBwkj3_xvhUTkLJ4D98RT1fZTtu8W",
-    "est_revenue": 301319,
-    "est_revenue_fmt": "$301K",
-    "est_revenue_won": "4.8억",
-    "est_revenue_krw": 414507136
-  },
-  {
-    "rank": 41,
     "title": "Vampir",
     "developer": "Netmarble",
     "genre": "Game",
@@ -568,10 +540,38 @@
     "app_id": "com.netmarble.thered",
     "local_name": "뱀피르",
     "icon": "https://play-lh.googleusercontent.com/O3AtBJqCPmOHow-d2tskDjwXGWpYpgz2bPEJC5s-FQ1BzmtxnFTQ4h6OTTJ74pyih8KBs78UsTk7w6PAHkbt",
-    "est_revenue": 262213,
-    "est_revenue_fmt": "$262K",
+    "est_revenue": 287425,
+    "est_revenue_fmt": "$287K",
     "est_revenue_won": "4.6억",
-    "est_revenue_krw": 360711272
+    "est_revenue_krw": 395393963
+  },
+  {
+    "rank": 40,
+    "title": "Clash of Critters",
+    "developer": "FARLIGHT",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.farlightgames.pgame.gp",
+    "local_name": "Clash of Critters",
+    "icon": "https://play-lh.googleusercontent.com/nIjO9pFz1R7G_wct00QMBKVqAmLHs2TqiaCmSUJfnKPw7yG_VzSmp26TRGCmm98v-Mye0MtsW_xz8CHNdIFD1A",
+    "est_revenue": 287425,
+    "est_revenue_fmt": "$287K",
+    "est_revenue_won": "4.4억",
+    "est_revenue_krw": 395393963
+  },
+  {
+    "rank": 41,
+    "title": "Lineage W",
+    "developer": "NC Corporation",
+    "genre": "Game",
+    "rating": 3.8,
+    "app_id": "com.ncsoft.lineagew",
+    "local_name": "리니지W",
+    "icon": "https://play-lh.googleusercontent.com/VvwlyO5rMOgeedcbDmvBQv-vDoCeHqxBdSHqTrA3xUZAEuRcAwTBznrJBwkj3_xvhUTkLJ4D98RT1fZTtu8W",
+    "est_revenue": 287425,
+    "est_revenue_fmt": "$287K",
+    "est_revenue_won": "4.8억",
+    "est_revenue_krw": 395393963
   },
   {
     "rank": 42,
@@ -617,6 +617,20 @@
   },
   {
     "rank": 45,
+    "title": "후더덕 서바이벌-777뽑기 증정",
+    "developer": "Joy Nice Games",
+    "genre": "Game",
+    "rating": 4.9,
+    "app_id": "com.mrtgd2kr.google",
+    "local_name": "후더덕 서바이벌-777뽑기 증정",
+    "icon": "https://play-lh.googleusercontent.com/rDbVN_XC0pxpQMgTMRD9n7et-PpV5PFfF-jS86jBpkKkiSx2kPrvN65t_XlY5V4sHQvbL1RxT05eMJIXksDXoA",
+    "est_revenue": 195380,
+    "est_revenue_fmt": "$195K",
+    "est_revenue_won": "3.2억",
+    "est_revenue_krw": 268772976
+  },
+  {
+    "rank": 46,
     "title": "eFootball™",
     "developer": "KONAMI",
     "genre": "Game",
@@ -630,7 +644,7 @@
     "est_revenue_krw": 268772976
   },
   {
-    "rank": 46,
+    "rank": 47,
     "title": "Hollywood Merge",
     "developer": "VoyagerOne IE",
     "genre": "Game",
@@ -638,13 +652,13 @@
     "app_id": "com.hollywood.merge",
     "local_name": "할리우드 머지",
     "icon": "https://play-lh.googleusercontent.com/5mzN7_uKeXNnloF-zlXGxiwKuepToEdRwbFUK_aQqk7ORLUGPsMwQK__J9IL9DBMWty-zuLvZ4FYHikK2xCttIw",
-    "est_revenue": 179615,
-    "est_revenue_fmt": "$180K",
+    "est_revenue": 172392,
+    "est_revenue_fmt": "$172K",
     "est_revenue_won": "3.4억",
-    "est_revenue_krw": 247085976
+    "est_revenue_krw": 237149713
   },
   {
-    "rank": 47,
+    "rank": 48,
     "title": "Wuthering Waves",
     "developer": "HK KURO GAMES LIMITED",
     "genre": "Game",
@@ -652,24 +666,10 @@
     "app_id": "com.kurogame.wutheringwaves.global",
     "local_name": "명조",
     "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_",
-    "est_revenue": 179615,
-    "est_revenue_fmt": "$180K",
+    "est_revenue": 172392,
+    "est_revenue_fmt": "$172K",
     "est_revenue_won": "3.5억",
-    "est_revenue_krw": 247085976
-  },
-  {
-    "rank": 48,
-    "title": "후더덕 서바이벌-777뽑기 증정",
-    "developer": "Joy Nice Games",
-    "genre": "Game",
-    "rating": 4.9,
-    "app_id": "com.mrtgd2kr.google",
-    "local_name": "후더덕 서바이벌-777뽑기 증정",
-    "icon": "https://play-lh.googleusercontent.com/rDbVN_XC0pxpQMgTMRD9n7et-PpV5PFfF-jS86jBpkKkiSx2kPrvN65t_XlY5V4sHQvbL1RxT05eMJIXksDXoA",
-    "est_revenue": 179615,
-    "est_revenue_fmt": "$180K",
-    "est_revenue_won": "3.2억",
-    "est_revenue_krw": 247085976
+    "est_revenue_krw": 237149713
   },
   {
     "rank": 49,
