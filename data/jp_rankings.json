@@ -253,20 +253,6 @@
   },
   {
     "rank": 19,
-    "title": "ドラゴンボールZ ドッカンバトル",
-    "developer": "Bandai Namco Entertainment Inc.",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.bandainamcogames.dbzdokkan",
-    "local_name": "ドラゴンボールZ ドッカンバトル",
-    "icon": "https://play-lh.googleusercontent.com/AjC0FM5Y7Y-Nte45TKgOmvKZlfXPj3u9_CCLnWwzgDJfTTOziul3L4NqqzwupcdF7P4xgrwc1N_X0jRKwOSlf8M",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "42.3억",
-    "est_revenue_krw": 8253853284
-  },
-  {
-    "rank": 20,
     "title": "Gardenscapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -277,6 +263,20 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "40.0억",
+    "est_revenue_krw": 8253853284
+  },
+  {
+    "rank": 20,
+    "title": "ドラゴンボールZ ドッカンバトル",
+    "developer": "Bandai Namco Entertainment Inc.",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.bandainamcogames.dbzdokkan",
+    "local_name": "ドラゴンボールZ ドッカンバトル",
+    "icon": "https://play-lh.googleusercontent.com/AjC0FM5Y7Y-Nte45TKgOmvKZlfXPj3u9_CCLnWwzgDJfTTOziul3L4NqqzwupcdF7P4xgrwc1N_X0jRKwOSlf8M",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "42.3억",
     "est_revenue_krw": 8253853284
   },
   {
@@ -379,20 +379,6 @@
   },
   {
     "rank": 28,
-    "title": "放置少女 - 百花繚乱の萌姫たち",
-    "developer": "C4 Connect Inc.",
-    "genre": "Game",
-    "rating": 4,
-    "app_id": "jp.glee.girl",
-    "local_name": "放置少女 - 百花繚乱の萌姫たち",
-    "icon": "https://play-lh.googleusercontent.com/0fP5hPnpj6neM2Kq4xkFQCkWIrY4M3uR9f8jgPlJT-ctAkuqjBnEnOmmxhYNFUbHPL9KxrvcV5ffLWOV80BhaOM",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "27.1억",
-    "est_revenue_krw": 8253853284
-  },
-  {
-    "rank": 29,
     "title": "Genshin Impact",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -404,6 +390,20 @@
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "26.0억",
     "est_revenue_krw": 8253853284
+  },
+  {
+    "rank": 29,
+    "title": "放置少女 - 百花繚乱の萌姫たち",
+    "developer": "C4 Connect Inc.",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "jp.glee.girl",
+    "local_name": "放置少女 - 百花繚乱の萌姫たち",
+    "icon": "https://play-lh.googleusercontent.com/0fP5hPnpj6neM2Kq4xkFQCkWIrY4M3uR9f8jgPlJT-ctAkuqjBnEnOmmxhYNFUbHPL9KxrvcV5ffLWOV80BhaOM",
+    "est_revenue": 706076,
+    "est_revenue_fmt": "$706K",
+    "est_revenue_won": "27.1억",
+    "est_revenue_krw": 971307952
   },
   {
     "rank": 30,
@@ -561,20 +561,6 @@
   },
   {
     "rank": 41,
-    "title": "信長の野望 出陣",
-    "developer": "KOEI TECMO GAMES CO., LTD.",
-    "genre": "Game",
-    "rating": 3.9,
-    "app_id": "jp.co.koeitecmo.nobunaga.shutsujin",
-    "local_name": "信長の野望 出陣",
-    "icon": "https://play-lh.googleusercontent.com/eBRy1bNgigJRz8AHFnUC39RySgktprBV3YBX5gmffDrKLiy1uN6GUF0_Qm3MuhJHIOnSEp90JEmUG7Tuq2704ME",
-    "est_revenue": 413144,
-    "est_revenue_fmt": "$413K",
-    "est_revenue_won": "16.0억",
-    "est_revenue_krw": 568338327
-  },
-  {
-    "rank": 42,
     "title": "Roblox",
     "developer": "Roblox Corporation",
     "genre": "Game",
@@ -585,6 +571,20 @@
     "est_revenue": 413144,
     "est_revenue_fmt": "$413K",
     "est_revenue_won": "15.4억",
+    "est_revenue_krw": 568338327
+  },
+  {
+    "rank": 42,
+    "title": "信長の野望 出陣",
+    "developer": "KOEI TECMO GAMES CO., LTD.",
+    "genre": "Game",
+    "rating": 3.9,
+    "app_id": "jp.co.koeitecmo.nobunaga.shutsujin",
+    "local_name": "信長の野望 出陣",
+    "icon": "https://play-lh.googleusercontent.com/eBRy1bNgigJRz8AHFnUC39RySgktprBV3YBX5gmffDrKLiy1uN6GUF0_Qm3MuhJHIOnSEp90JEmUG7Tuq2704ME",
+    "est_revenue": 413144,
+    "est_revenue_fmt": "$413K",
+    "est_revenue_won": "16.0억",
     "est_revenue_krw": 568338327
   },
   {
