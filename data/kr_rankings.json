@@ -18,7 +18,7 @@
     "title": "이클립스: 더 어웨이크닝",
     "developer": "Smilegate, Inc.",
     "genre": "Game",
-    "rating": 3.8,
+    "rating": 3.7,
     "app_id": "com.smilegate.eclipse.stove.google",
     "local_name": "이클립스: 더 어웨이크닝",
     "icon": "https://play-lh.googleusercontent.com/JhepoyYDmabwj5ffSFC3cyfAdllyeIdHzSW5a3i_nlzsahXojL7S57JR1_RlYYkRh02OXzZM6K1s9KWnd-1Mpw",
@@ -463,20 +463,6 @@
   },
   {
     "rank": 34,
-    "title": "던전앤파이터 모바일",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.nexon.mdnf",
-    "local_name": "던전앤파이터 모바일",
-    "icon": "https://play-lh.googleusercontent.com/nithn0YhAhZ4z3zpKlGGPPFxK8NjHcSkV1q-S8L_CNA5LWwUVDaSQ5SHM-hBFgbjBYNkVq-GpiUyLweMdwMy",
-    "est_revenue": 387731,
-    "est_revenue_fmt": "$388K",
-    "est_revenue_won": "6.7억",
-    "est_revenue_krw": 533379131
-  },
-  {
-    "rank": 35,
     "title": "Zombie High School",
     "developer": "AWESOMEPIECE",
     "genre": "Game",
@@ -484,10 +470,24 @@
     "app_id": "net.kernys.aooni",
     "local_name": "Zombie High School",
     "icon": "https://play-lh.googleusercontent.com/dSNV5g0mTGY-hdHslNHtvixosWtnrV2ujWxfrVYZa3g5ljc2nvtwjRf3SByq9jifGaQx0JNzKe0-WV0FmzwXh88",
-    "est_revenue": 349144,
-    "est_revenue_fmt": "$349K",
+    "est_revenue": 367467,
+    "est_revenue_fmt": "$367K",
     "est_revenue_won": "6.3억",
-    "est_revenue_krw": 480297225
+    "est_revenue_krw": 505503117
+  },
+  {
+    "rank": 35,
+    "title": "던전앤파이터 모바일",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.nexon.mdnf",
+    "local_name": "던전앤파이터 모바일",
+    "icon": "https://play-lh.googleusercontent.com/nithn0YhAhZ4z3zpKlGGPPFxK8NjHcSkV1q-S8L_CNA5LWwUVDaSQ5SHM-hBFgbjBYNkVq-GpiUyLweMdwMy",
+    "est_revenue": 367467,
+    "est_revenue_fmt": "$367K",
+    "est_revenue_won": "6.7억",
+    "est_revenue_krw": 505503117
   },
   {
     "rank": 36,
@@ -561,20 +561,6 @@
   },
   {
     "rank": 41,
-    "title": "Clash of Critters",
-    "developer": "FARLIGHT",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.farlightgames.pgame.gp",
-    "local_name": "Clash of Critters",
-    "icon": "https://play-lh.googleusercontent.com/nIjO9pFz1R7G_wct00QMBKVqAmLHs2TqiaCmSUJfnKPw7yG_VzSmp26TRGCmm98v-Mye0MtsW_xz8CHNdIFD1A",
-    "est_revenue": 233251,
-    "est_revenue_fmt": "$233K",
-    "est_revenue_won": "4.6억",
-    "est_revenue_krw": 320869922
-  },
-  {
-    "rank": 42,
     "title": "Candy Crush Saga",
     "developer": "King",
     "genre": "Game",
@@ -582,10 +568,24 @@
     "app_id": "com.king.candycrushsaga",
     "local_name": "캔디크러쉬 사가",
     "icon": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI",
-    "est_revenue": 213144,
-    "est_revenue_fmt": "$213K",
+    "est_revenue": 222881,
+    "est_revenue_fmt": "$223K",
     "est_revenue_won": "4.2억",
-    "est_revenue_krw": 293209884
+    "est_revenue_krw": 306604512
+  },
+  {
+    "rank": 42,
+    "title": "Clash of Critters",
+    "developer": "FARLIGHT",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.farlightgames.pgame.gp",
+    "local_name": "Clash of Critters",
+    "icon": "https://play-lh.googleusercontent.com/nIjO9pFz1R7G_wct00QMBKVqAmLHs2TqiaCmSUJfnKPw7yG_VzSmp26TRGCmm98v-Mye0MtsW_xz8CHNdIFD1A",
+    "est_revenue": 222881,
+    "est_revenue_fmt": "$223K",
+    "est_revenue_won": "4.6억",
+    "est_revenue_krw": 306604512
   },
   {
     "rank": 43,
@@ -596,10 +596,10 @@
     "app_id": "jp.konami.pesam",
     "local_name": "eFootball™",
     "icon": "https://play-lh.googleusercontent.com/jn-jaGEFUPiu0dBP9O6PjiRk-BCwFFLm0RdeOjLH-qLYjhHJlzNBMgl3Sah24htajj67_fdve-DzGsqmMUx1tqQ",
-    "est_revenue": 213144,
-    "est_revenue_fmt": "$213K",
+    "est_revenue": 222881,
+    "est_revenue_fmt": "$223K",
     "est_revenue_won": "3.5억",
-    "est_revenue_krw": 293209884
+    "est_revenue_krw": 306604512
   },
   {
     "rank": 44,
@@ -610,10 +610,10 @@
     "app_id": "com.nianticlabs.pokemongo",
     "local_name": "포켓몬 GO",
     "icon": "https://play-lh.googleusercontent.com/DUA40mf0fd6lUkU_Pvfw78BOoY37nPNM5tKw0tf4sCqzJfNwR84wqj-J00WN99QaZ89SpruNsU1xX7sDw6uBZg",
-    "est_revenue": 213144,
-    "est_revenue_fmt": "$213K",
+    "est_revenue": 222881,
+    "est_revenue_fmt": "$223K",
     "est_revenue_won": "4.0억",
-    "est_revenue_krw": 293209884
+    "est_revenue_krw": 306604512
   },
   {
     "rank": 45,
@@ -645,6 +645,20 @@
   },
   {
     "rank": 47,
+    "title": "Wuthering Waves",
+    "developer": "HK KURO GAMES LIMITED",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.kurogame.wutheringwaves.global",
+    "local_name": "명조",
+    "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_",
+    "est_revenue": 179615,
+    "est_revenue_fmt": "$180K",
+    "est_revenue_won": "3.2억",
+    "est_revenue_krw": 247085976
+  },
+  {
+    "rank": 48,
     "title": "Vampir",
     "developer": "Netmarble",
     "genre": "Game",
@@ -658,7 +672,7 @@
     "est_revenue_krw": 247085976
   },
   {
-    "rank": 48,
+    "rank": 49,
     "title": "Legend of Avatar",
     "developer": "BillionaireGames",
     "genre": "Game",
@@ -669,20 +683,6 @@
     "est_revenue": 179615,
     "est_revenue_fmt": "$180K",
     "est_revenue_won": "",
-    "est_revenue_krw": 247085976
-  },
-  {
-    "rank": 49,
-    "title": "Wuthering Waves",
-    "developer": "HK KURO GAMES LIMITED",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.kurogame.wutheringwaves.global",
-    "local_name": "명조",
-    "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_",
-    "est_revenue": 179615,
-    "est_revenue_fmt": "$180K",
-    "est_revenue_won": "3.2억",
     "est_revenue_krw": 247085976
   },
   {
