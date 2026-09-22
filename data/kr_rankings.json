@@ -183,20 +183,6 @@
   },
   {
     "rank": 14,
-    "title": "Limbus Company",
-    "developer": "Project Moon",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.ProjectMoon.LimbusCompany",
-    "local_name": "림버스 컴퍼니",
-    "icon": "https://play-lh.googleusercontent.com/mnqUeIK2w48bqiVf9w3h-6w0SuHrwx1Xh5DFhHHjgcu9x29qGIzs4EO9QeWtmZ42YzPOC29uU2Q73h25Nz9PCQ",
-    "est_revenue": 1445460,
-    "est_revenue_fmt": "$1.4M",
-    "est_revenue_won": "23.8억",
-    "est_revenue_krw": 1988435795
-  },
-  {
-    "rank": 15,
     "title": "마비노기 모바일",
     "developer": "NEXON Company",
     "genre": "Game",
@@ -204,10 +190,24 @@
     "app_id": "com.nexon.devcat.mm",
     "local_name": "마비노기 모바일",
     "icon": "https://play-lh.googleusercontent.com/ljE3Q4kOQj0UEjbJoANQpgQ4rxdDvI1h1wARGv6jFgel-5oDIFjfTx2S0nINT8agCEOB_V3C9y61RZFoyLZ4",
-    "est_revenue": 1445460,
-    "est_revenue_fmt": "$1.4M",
+    "est_revenue": 1618915,
+    "est_revenue_fmt": "$1.6M",
     "est_revenue_won": "22.0억",
-    "est_revenue_krw": 1988435795
+    "est_revenue_krw": 2227047815
+  },
+  {
+    "rank": 15,
+    "title": "Limbus Company",
+    "developer": "Project Moon",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.ProjectMoon.LimbusCompany",
+    "local_name": "림버스 컴퍼니",
+    "icon": "https://play-lh.googleusercontent.com/mnqUeIK2w48bqiVf9w3h-6w0SuHrwx1Xh5DFhHHjgcu9x29qGIzs4EO9QeWtmZ42YzPOC29uU2Q73h25Nz9PCQ",
+    "est_revenue": 1317261,
+    "est_revenue_fmt": "$1.3M",
+    "est_revenue_won": "23.8억",
+    "est_revenue_krw": 1812079838
   },
   {
     "rank": 16,
@@ -218,10 +218,10 @@
     "app_id": "com.fun.lastwar.gp",
     "local_name": "라스트 워: 서바이벌",
     "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc",
-    "est_revenue": 1325658,
+    "est_revenue": 1317261,
     "est_revenue_fmt": "$1.3M",
     "est_revenue_won": "20.2억",
-    "est_revenue_krw": 1823631106
+    "est_revenue_krw": 1812079838
   },
   {
     "rank": 17,
@@ -295,20 +295,6 @@
   },
   {
     "rank": 22,
-    "title": "Gardenscapes",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.playrix.gardenscapes",
-    "local_name": "가든스케이프",
-    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
-    "est_revenue": 641291,
-    "est_revenue_fmt": "$641K",
-    "est_revenue_won": "11.3억",
-    "est_revenue_krw": 882186971
-  },
-  {
-    "rank": 23,
     "title": "로그W : 리메인즈 오브 갓",
     "developer": "Efun Company",
     "genre": "Game",
@@ -316,10 +302,24 @@
     "app_id": "com.krd8.google",
     "local_name": "로그W : 리메인즈 오브 갓",
     "icon": "https://play-lh.googleusercontent.com/wPufQAobuu_bMHJyHAmyZLteiFXFFfGyr_II-agf6JMw518mjIbDzFdR3LXbuKvT12TQ2kPvjRvLN-nyJ8NAyA",
-    "est_revenue": 641291,
-    "est_revenue_fmt": "$641K",
+    "est_revenue": 754459,
+    "est_revenue_fmt": "$754K",
     "est_revenue_won": "12.9억",
-    "est_revenue_krw": 882186971
+    "est_revenue_krw": 1037865649
+  },
+  {
+    "rank": 23,
+    "title": "Gardenscapes",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.playrix.gardenscapes",
+    "local_name": "가든스케이프",
+    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
+    "est_revenue": 598374,
+    "est_revenue_fmt": "$598K",
+    "est_revenue_won": "11.3억",
+    "est_revenue_krw": 823148534
   },
   {
     "rank": 24,
@@ -330,10 +330,10 @@
     "app_id": "com.readygo.barrel.gp",
     "local_name": "라스트 Z: 서바이벌 슈터",
     "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
-    "est_revenue": 641291,
-    "est_revenue_fmt": "$641K",
+    "est_revenue": 598374,
+    "est_revenue_fmt": "$598K",
     "est_revenue_won": "12.1억",
-    "est_revenue_krw": 882186971
+    "est_revenue_krw": 823148534
   },
   {
     "rank": 25,
@@ -463,20 +463,6 @@
   },
   {
     "rank": 34,
-    "title": "Zombie High School",
-    "developer": "AWESOMEPIECE",
-    "genre": "Game",
-    "rating": 4,
-    "app_id": "net.kernys.aooni",
-    "local_name": "Zombie High School",
-    "icon": "https://play-lh.googleusercontent.com/dSNV5g0mTGY-hdHslNHtvixosWtnrV2ujWxfrVYZa3g5ljc2nvtwjRf3SByq9jifGaQx0JNzKe0-WV0FmzwXh88",
-    "est_revenue": 367467,
-    "est_revenue_fmt": "$367K",
-    "est_revenue_won": "6.3억",
-    "est_revenue_krw": 505503117
-  },
-  {
-    "rank": 35,
     "title": "GIRLS' FRONTLINE 2: EXILIUM",
     "developer": "HaoPlay Limited",
     "genre": "Game",
@@ -484,9 +470,23 @@
     "app_id": "com.haoplay.game.and.exilium",
     "local_name": "소녀전선2: 망명",
     "icon": "https://play-lh.googleusercontent.com/N0Cq4MZ9VszB5TH_Wq229R62IuSVn1LfWwB3uhdjb0J_fsRn2hfHWc8XOEH7kAUs7Hg4SB2HLl_LEOj17YkwNQ",
+    "est_revenue": 367467,
+    "est_revenue_fmt": "$367K",
+    "est_revenue_won": "6.0억",
+    "est_revenue_krw": 505503117
+  },
+  {
+    "rank": 35,
+    "title": "Zombie High School",
+    "developer": "AWESOMEPIECE",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "net.kernys.aooni",
+    "local_name": "Zombie High School",
+    "icon": "https://play-lh.googleusercontent.com/dSNV5g0mTGY-hdHslNHtvixosWtnrV2ujWxfrVYZa3g5ljc2nvtwjRf3SByq9jifGaQx0JNzKe0-WV0FmzwXh88",
     "est_revenue": 349144,
     "est_revenue_fmt": "$349K",
-    "est_revenue_won": "6.0억",
+    "est_revenue_won": "6.3억",
     "est_revenue_krw": 480297225
   },
   {
@@ -533,17 +533,17 @@
   },
   {
     "rank": 39,
-    "title": "Vampir",
-    "developer": "Netmarble",
+    "title": "Clash of Critters",
+    "developer": "FARLIGHT",
     "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.netmarble.thered",
-    "local_name": "뱀피르",
-    "icon": "https://play-lh.googleusercontent.com/O3AtBJqCPmOHow-d2tskDjwXGWpYpgz2bPEJC5s-FQ1BzmtxnFTQ4h6OTTJ74pyih8KBs78UsTk7w6PAHkbt",
-    "est_revenue": 287425,
-    "est_revenue_fmt": "$287K",
-    "est_revenue_won": "4.6억",
-    "est_revenue_krw": 395393963
+    "rating": 4.5,
+    "app_id": "com.farlightgames.pgame.gp",
+    "local_name": "Clash of Critters",
+    "icon": "https://play-lh.googleusercontent.com/nIjO9pFz1R7G_wct00QMBKVqAmLHs2TqiaCmSUJfnKPw7yG_VzSmp26TRGCmm98v-Mye0MtsW_xz8CHNdIFD1A",
+    "est_revenue": 301319,
+    "est_revenue_fmt": "$301K",
+    "est_revenue_won": "4.4억",
+    "est_revenue_krw": 414507136
   },
   {
     "rank": 40,
@@ -554,41 +554,27 @@
     "app_id": "com.ncsoft.lineagew",
     "local_name": "리니지W",
     "icon": "https://play-lh.googleusercontent.com/VvwlyO5rMOgeedcbDmvBQv-vDoCeHqxBdSHqTrA3xUZAEuRcAwTBznrJBwkj3_xvhUTkLJ4D98RT1fZTtu8W",
-    "est_revenue": 287425,
-    "est_revenue_fmt": "$287K",
+    "est_revenue": 301319,
+    "est_revenue_fmt": "$301K",
     "est_revenue_won": "4.8억",
-    "est_revenue_krw": 395393963
+    "est_revenue_krw": 414507136
   },
   {
     "rank": 41,
-    "title": "Clash of Critters",
-    "developer": "FARLIGHT",
+    "title": "Vampir",
+    "developer": "Netmarble",
     "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.farlightgames.pgame.gp",
-    "local_name": "Clash of Critters",
-    "icon": "https://play-lh.googleusercontent.com/nIjO9pFz1R7G_wct00QMBKVqAmLHs2TqiaCmSUJfnKPw7yG_VzSmp26TRGCmm98v-Mye0MtsW_xz8CHNdIFD1A",
-    "est_revenue": 287425,
-    "est_revenue_fmt": "$287K",
-    "est_revenue_won": "4.4억",
-    "est_revenue_krw": 395393963
+    "rating": 4.4,
+    "app_id": "com.netmarble.thered",
+    "local_name": "뱀피르",
+    "icon": "https://play-lh.googleusercontent.com/O3AtBJqCPmOHow-d2tskDjwXGWpYpgz2bPEJC5s-FQ1BzmtxnFTQ4h6OTTJ74pyih8KBs78UsTk7w6PAHkbt",
+    "est_revenue": 262213,
+    "est_revenue_fmt": "$262K",
+    "est_revenue_won": "4.6억",
+    "est_revenue_krw": 360711272
   },
   {
     "rank": 42,
-    "title": "Pokémon GO",
-    "developer": "Scopely Explore, Inc.",
-    "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.nianticlabs.pokemongo",
-    "local_name": "포켓몬 GO",
-    "icon": "https://play-lh.googleusercontent.com/DUA40mf0fd6lUkU_Pvfw78BOoY37nPNM5tKw0tf4sCqzJfNwR84wqj-J00WN99QaZ89SpruNsU1xX7sDw6uBZg",
-    "est_revenue": 250758,
-    "est_revenue_fmt": "$251K",
-    "est_revenue_won": "4.2억",
-    "est_revenue_krw": 344953290
-  },
-  {
-    "rank": 43,
     "title": "Candy Crush Saga",
     "developer": "King",
     "genre": "Game",
@@ -596,10 +582,24 @@
     "app_id": "com.king.candycrushsaga",
     "local_name": "캔디크러쉬 사가",
     "icon": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI",
-    "est_revenue": 203992,
-    "est_revenue_fmt": "$204K",
+    "est_revenue": 213144,
+    "est_revenue_fmt": "$213K",
     "est_revenue_won": "4.0억",
-    "est_revenue_krw": 280620007
+    "est_revenue_krw": 293209884
+  },
+  {
+    "rank": 43,
+    "title": "Pokémon GO",
+    "developer": "Scopely Explore, Inc.",
+    "genre": "Game",
+    "rating": 3.8,
+    "app_id": "com.nianticlabs.pokemongo",
+    "local_name": "포켓몬 GO",
+    "icon": "https://play-lh.googleusercontent.com/DUA40mf0fd6lUkU_Pvfw78BOoY37nPNM5tKw0tf4sCqzJfNwR84wqj-J00WN99QaZ89SpruNsU1xX7sDw6uBZg",
+    "est_revenue": 213144,
+    "est_revenue_fmt": "$213K",
+    "est_revenue_won": "4.2억",
+    "est_revenue_krw": 293209884
   },
   {
     "rank": 44,
