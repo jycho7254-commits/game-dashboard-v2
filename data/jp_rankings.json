@@ -113,20 +113,6 @@
   },
   {
     "rank": 9,
-    "title": "モンスターストライク",
-    "developer": "XFLAG, Inc.",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "jp.co.mixi.monsterstrike",
-    "local_name": "モンスターストライク",
-    "icon": "https://play-lh.googleusercontent.com/HHfoOjfXLp7FHLNZ-2OHI4mL3DJgFqKZMtFJpWr-UoXjt5KUU_WIRkwN0sDOcw2dfMxNDdvntfD5chNJJoXA",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "88.0억",
-    "est_revenue_krw": 8253853284
-  },
-  {
-    "rank": 10,
     "title": "Last War:Survival Game",
     "developer": "FUNFLY PTE. LTD.",
     "genre": "Game",
@@ -137,6 +123,20 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "80.0억",
+    "est_revenue_krw": 8253853284
+  },
+  {
+    "rank": 10,
+    "title": "モンスターストライク",
+    "developer": "XFLAG, Inc.",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "jp.co.mixi.monsterstrike",
+    "local_name": "モンスターストライク",
+    "icon": "https://play-lh.googleusercontent.com/HHfoOjfXLp7FHLNZ-2OHI4mL3DJgFqKZMtFJpWr-UoXjt5KUU_WIRkwN0sDOcw2dfMxNDdvntfD5chNJJoXA",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "88.0억",
     "est_revenue_krw": 8253853284
   },
   {
@@ -631,20 +631,6 @@
   },
   {
     "rank": 46,
-    "title": "プロ野球スピリッツA",
-    "developer": "KONAMI",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "jp.konami.prospia",
-    "local_name": "プロ野球スピリッツA",
-    "icon": "https://play-lh.googleusercontent.com/F0IB7v9CufHt5hKPRfXC9WS7tOUunAuCD3_JtdMJTtlhkG93qwmNCg6Cbcbf10aipCZZ3rv82QA-6REtVaVLHD8",
-    "est_revenue": 353924,
-    "est_revenue_fmt": "$354K",
-    "est_revenue_won": "13.5억",
-    "est_revenue_krw": 486872795
-  },
-  {
-    "rank": 47,
     "title": "旦那様の一発逆転人生",
     "developer": "37Games-Oversea",
     "genre": "Game",
@@ -652,9 +638,23 @@
     "app_id": "com.jp.beauty",
     "local_name": "旦那様の一発逆転人生",
     "icon": "https://play-lh.googleusercontent.com/dMZpIM_uav-hfQKPl5XUjHB98vvUJJl_7U99lE1sIMJ447lPXCn93_SiInconGTh89-ia18k5Q8dJF799wXctQ",
+    "est_revenue": 353924,
+    "est_revenue_fmt": "$354K",
+    "est_revenue_won": "12.4억",
+    "est_revenue_krw": 486872795
+  },
+  {
+    "rank": 47,
+    "title": "プロ野球スピリッツA",
+    "developer": "KONAMI",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "jp.konami.prospia",
+    "local_name": "プロ野球スピリッツA",
+    "icon": "https://play-lh.googleusercontent.com/F0IB7v9CufHt5hKPRfXC9WS7tOUunAuCD3_JtdMJTtlhkG93qwmNCg6Cbcbf10aipCZZ3rv82QA-6REtVaVLHD8",
     "est_revenue": 339262,
     "est_revenue_fmt": "$339K",
-    "est_revenue_won": "12.4억",
+    "est_revenue_won": "13.5억",
     "est_revenue_krw": 466703129
   },
   {
