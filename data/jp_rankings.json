@@ -15,6 +15,20 @@
   },
   {
     "rank": 2,
+    "title": "Whiteout Survival",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 3.2,
+    "app_id": "com.gof.global",
+    "local_name": "Whiteout Survival",
+    "icon": "https://play-lh.googleusercontent.com/tNMaMiJ4wTQy_TeZSWHdSlP5qH0PGig9g9sDJu2QFvCHdnrbo2u17pX55W4i6KITo56v_ZyICkqLgA2svH9ycQ",
+    "est_revenue": 11030428,
+    "est_revenue_fmt": "$11.0M",
+    "est_revenue_won": "186.9억",
+    "est_revenue_krw": 14931929509
+  },
+  {
+    "rank": 3,
     "title": "ウマ娘 プリティーダービー",
     "developer": "Cygames, Inc.",
     "genre": "Game",
@@ -28,20 +42,6 @@
     "est_revenue_krw": 14213887244
   },
   {
-    "rank": 3,
-    "title": "Whiteout Survival",
-    "developer": "Century Games PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.2,
-    "app_id": "com.gof.global",
-    "local_name": "Whiteout Survival",
-    "icon": "https://play-lh.googleusercontent.com/tNMaMiJ4wTQy_TeZSWHdSlP5qH0PGig9g9sDJu2QFvCHdnrbo2u17pX55W4i6KITo56v_ZyICkqLgA2svH9ycQ",
-    "est_revenue": 9903500,
-    "est_revenue_fmt": "$9.9M",
-    "est_revenue_won": "186.9억",
-    "est_revenue_krw": 13406403078
-  },
-  {
     "rank": 4,
     "title": "Puzzles & Survival",
     "developer": "37GAMES",
@@ -50,10 +50,10 @@
     "app_id": "com.global.ztmslg",
     "local_name": "Puzzles & Survival",
     "icon": "https://play-lh.googleusercontent.com/ummlqp5oiU1hRPrz9pt-XYFhbMIITY_b-viFnnMu-RgtdH--uFrcFoEEGrXpRrOTVf94f8GCDQwEK-VBln18",
-    "est_revenue": 9500944,
-    "est_revenue_fmt": "$9.5M",
+    "est_revenue": 9746809,
+    "est_revenue_fmt": "$9.7M",
     "est_revenue_won": "165.1억",
-    "est_revenue_krw": 12861461593
+    "est_revenue_krw": 13194289915
   },
   {
     "rank": 5,
@@ -225,20 +225,6 @@
   },
   {
     "rank": 17,
-    "title": "ドラゴンクエストウォーク",
-    "developer": "SQUARE ENIX Co.,Ltd.",
-    "genre": "Game",
-    "rating": 3.6,
-    "app_id": "com.square_enix.android_googleplay.dqwalkj",
-    "local_name": "ドラゴンクエストウォーク",
-    "icon": "https://play-lh.googleusercontent.com/qEIVjnChpL1kW89KbEsn7-_JqbD18IEhQj_2xP7nrKXifO9gpAvXfI_12_69N65ySjS3SrgFBspBvNsJDHDIxQ",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "47.9억",
-    "est_revenue_krw": 8122221282
-  },
-  {
-    "rank": 18,
     "title": "Honkai: Star Rail",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -249,6 +235,20 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "44.9억",
+    "est_revenue_krw": 8122221282
+  },
+  {
+    "rank": 18,
+    "title": "アズールレーン",
+    "developer": "Yostar, Inc.",
+    "genre": "Game",
+    "rating": 3.9,
+    "app_id": "com.YoStarJP.AzurLane",
+    "local_name": "アズールレーン",
+    "icon": "https://play-lh.googleusercontent.com/xm_fZgRuFC6npGnzKgBbw1V2VuZo4Pc67LLcrecmihkaDK-LFa_yKi6x4zmg-Nb-tvqy1ppLgjEdmgZMV00vg9E",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "40.0억",
     "est_revenue_krw": 8122221282
   },
   {
@@ -267,20 +267,6 @@
   },
   {
     "rank": 20,
-    "title": "アズールレーン",
-    "developer": "Yostar, Inc.",
-    "genre": "Game",
-    "rating": 3.9,
-    "app_id": "com.YoStarJP.AzurLane",
-    "local_name": "アズールレーン",
-    "icon": "https://play-lh.googleusercontent.com/xm_fZgRuFC6npGnzKgBbw1V2VuZo4Pc67LLcrecmihkaDK-LFa_yKi6x4zmg-Nb-tvqy1ppLgjEdmgZMV00vg9E",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "40.0억",
-    "est_revenue_krw": 8122221282
-  },
-  {
-    "rank": 21,
     "title": "Gardenscapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -291,6 +277,20 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "37.8억",
+    "est_revenue_krw": 8122221282
+  },
+  {
+    "rank": 21,
+    "title": "ドラゴンクエストウォーク",
+    "developer": "SQUARE ENIX Co.,Ltd.",
+    "genre": "Game",
+    "rating": 3.6,
+    "app_id": "com.square_enix.android_googleplay.dqwalkj",
+    "local_name": "ドラゴンクエストウォーク",
+    "icon": "https://play-lh.googleusercontent.com/qEIVjnChpL1kW89KbEsn7-_JqbD18IEhQj_2xP7nrKXifO9gpAvXfI_12_69N65ySjS3SrgFBspBvNsJDHDIxQ",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "47.9억",
     "est_revenue_krw": 8122221282
   },
   {
@@ -309,20 +309,6 @@
   },
   {
     "rank": 23,
-    "title": "Tasty Travels: Merge Game",
-    "developer": "Century Games PTE. LTD.",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.fatmerge.global",
-    "local_name": "Tasty Travels: Merge Game",
-    "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "34.0억",
-    "est_revenue_krw": 8122221282
-  },
-  {
-    "rank": 24,
     "title": "幻想水滸伝 STAR LEAP",
     "developer": "KONAMI",
     "genre": "Game",
@@ -333,6 +319,20 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "32.4억",
+    "est_revenue_krw": 8122221282
+  },
+  {
+    "rank": 24,
+    "title": "Tasty Travels: Merge Game",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "com.fatmerge.global",
+    "local_name": "Tasty Travels: Merge Game",
+    "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "34.0억",
     "est_revenue_krw": 8122221282
   },
   {
@@ -477,20 +477,6 @@
   },
   {
     "rank": 35,
-    "title": "Last Z: Survival Shooter",
-    "developer": "Omnilojo Pte Ltd",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.readygo.barrel.gp",
-    "local_name": "Last Z: Survival Shooter",
-    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
-    "est_revenue": 532360,
-    "est_revenue_fmt": "$532K",
-    "est_revenue_won": "20.0억",
-    "est_revenue_krw": 720657620
-  },
-  {
-    "rank": 36,
     "title": "Wuthering Waves",
     "developer": "HK KURO GAMES LIMITED",
     "genre": "Game",
@@ -504,7 +490,7 @@
     "est_revenue_krw": 720657620
   },
   {
-    "rank": 37,
+    "rank": 36,
     "title": "アークナイツ",
     "developer": "Yostar, Inc.",
     "genre": "Game",
@@ -518,7 +504,7 @@
     "est_revenue_krw": 720657620
   },
   {
-    "rank": 38,
+    "rank": 37,
     "title": "信長の野望 覇道",
     "developer": "KOEI TECMO GAMES CO., LTD.",
     "genre": "Game",
@@ -532,7 +518,7 @@
     "est_revenue_krw": 720657620
   },
   {
-    "rank": 39,
+    "rank": 38,
     "title": "信長の野望 出陣",
     "developer": "KOEI TECMO GAMES CO., LTD.",
     "genre": "Game",
@@ -546,21 +532,7 @@
     "est_revenue_krw": 720657620
   },
   {
-    "rank": 40,
-    "title": "GIRLS' FRONTLINE 2: EXILIUM",
-    "developer": "HaoPlay Limited",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.haoplay.game.and.exilium",
-    "local_name": "GIRLS' FRONTLINE 2: EXILIUM",
-    "icon": "https://play-lh.googleusercontent.com/N0Cq4MZ9VszB5TH_Wq229R62IuSVn1LfWwB3uhdjb0J_fsRn2hfHWc8XOEH7kAUs7Hg4SB2HLl_LEOj17YkwNQ",
-    "est_revenue": 463371,
-    "est_revenue_fmt": "$463K",
-    "est_revenue_won": "16.5억",
-    "est_revenue_krw": 627266966
-  },
-  {
-    "rank": 41,
+    "rank": 39,
     "title": "パズル＆ドラゴンズ(Puzzle & Dragons)",
     "developer": "GungHo Online Entertainment, Inc.",
     "genre": "Game",
@@ -568,13 +540,13 @@
     "app_id": "jp.gungho.pad",
     "local_name": "パズル＆ドラゴンズ(Puzzle & Dragons)",
     "icon": "https://play-lh.googleusercontent.com/ra7eGhpGZqaK3zVeyaat5kJZ3qRiJVQ8Yel-fOB4o5lWh6WgeivGdzRTJl14tAKKqBkcDYmw_DSziNL_Dq9F",
-    "est_revenue": 375815,
-    "est_revenue_fmt": "$376K",
+    "est_revenue": 413144,
+    "est_revenue_fmt": "$413K",
     "est_revenue_won": "16.0억",
-    "est_revenue_krw": 508742099
+    "est_revenue_krw": 559274498
   },
   {
-    "rank": 42,
+    "rank": 40,
     "title": "Roblox",
     "developer": "Roblox Corporation",
     "genre": "Game",
@@ -582,10 +554,38 @@
     "app_id": "com.roblox.client",
     "local_name": "Roblox",
     "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
-    "est_revenue": 375815,
-    "est_revenue_fmt": "$376K",
+    "est_revenue": 413144,
+    "est_revenue_fmt": "$413K",
     "est_revenue_won": "15.4억",
-    "est_revenue_krw": 508742099
+    "est_revenue_krw": 559274498
+  },
+  {
+    "rank": 41,
+    "title": "Last Z: Survival Shooter",
+    "developer": "Omnilojo Pte Ltd",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.readygo.barrel.gp",
+    "local_name": "Last Z: Survival Shooter",
+    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
+    "est_revenue": 413144,
+    "est_revenue_fmt": "$413K",
+    "est_revenue_won": "20.0억",
+    "est_revenue_krw": 559274498
+  },
+  {
+    "rank": 42,
+    "title": "Last Asylum: Plague",
+    "developer": "37GAMES GLOBAL",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.phs.global",
+    "local_name": "Last Asylum: Plague",
+    "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
+    "est_revenue": 413144,
+    "est_revenue_fmt": "$413K",
+    "est_revenue_won": "14.4억",
+    "est_revenue_krw": 559274498
   },
   {
     "rank": 43,
@@ -596,41 +596,27 @@
     "app_id": "com.playrix.fishdomdd.gplay",
     "local_name": "Fishdom",
     "icon": "https://play-lh.googleusercontent.com/JrsX1K8iBig6HRQxouWSRM-DlxPyJGBGK33TE1WEqBajbLtEu13mPPeXoWQIrQrfSFR3he8tbtx-D2xCEXMJMQ",
-    "est_revenue": 375815,
-    "est_revenue_fmt": "$376K",
+    "est_revenue": 403547,
+    "est_revenue_fmt": "$404K",
     "est_revenue_won": "14.9억",
-    "est_revenue_krw": 508742099
+    "est_revenue_krw": 546283005
   },
   {
     "rank": 44,
-    "title": "Last Asylum: Plague",
-    "developer": "37GAMES GLOBAL",
+    "title": "GIRLS' FRONTLINE 2: EXILIUM",
+    "developer": "HaoPlay Limited",
     "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.phs.global",
-    "local_name": "Last Asylum: Plague",
-    "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
-    "est_revenue": 375815,
-    "est_revenue_fmt": "$376K",
-    "est_revenue_won": "14.4억",
-    "est_revenue_krw": 508742099
+    "rating": 4.2,
+    "app_id": "com.haoplay.game.and.exilium",
+    "local_name": "GIRLS' FRONTLINE 2: EXILIUM",
+    "icon": "https://play-lh.googleusercontent.com/N0Cq4MZ9VszB5TH_Wq229R62IuSVn1LfWwB3uhdjb0J_fsRn2hfHWc8XOEH7kAUs7Hg4SB2HLl_LEOj17YkwNQ",
+    "est_revenue": 385991,
+    "est_revenue_fmt": "$386K",
+    "est_revenue_won": "16.5억",
+    "est_revenue_krw": 522517386
   },
   {
     "rank": 45,
-    "title": "MementoMori: AFKRPG",
-    "developer": "Bank of Innovation, Inc.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "jp.boi.mementomori.android",
-    "local_name": "MementoMori: AFKRPG",
-    "icon": "https://play-lh.googleusercontent.com/HG9W8SRyTeeLPFrrS17a06d5ANgakJbHomr73o3l6I23YAiIFL399Y1_Q-2FDBO_zxqETTkphFhE-uTeuD2nH6w",
-    "est_revenue": 375815,
-    "est_revenue_fmt": "$376K",
-    "est_revenue_won": "14.0억",
-    "est_revenue_krw": 508742099
-  },
-  {
-    "rank": 46,
     "title": "プロ野球スピリッツA",
     "developer": "KONAMI",
     "genre": "Game",
@@ -638,10 +624,24 @@
     "app_id": "jp.konami.prospia",
     "local_name": "プロ野球スピリッツA",
     "icon": "https://play-lh.googleusercontent.com/F0IB7v9CufHt5hKPRfXC9WS7tOUunAuCD3_JtdMJTtlhkG93qwmNCg6Cbcbf10aipCZZ3rv82QA-6REtVaVLHD8",
-    "est_revenue": 353924,
-    "est_revenue_fmt": "$354K",
+    "est_revenue": 369476,
+    "est_revenue_fmt": "$369K",
     "est_revenue_won": "13.5억",
-    "est_revenue_krw": 479108174
+    "est_revenue_krw": 500160972
+  },
+  {
+    "rank": 46,
+    "title": "MementoMori: AFKRPG",
+    "developer": "Bank of Innovation, Inc.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "jp.boi.mementomori.android",
+    "local_name": "MementoMori: AFKRPG",
+    "icon": "https://play-lh.googleusercontent.com/HG9W8SRyTeeLPFrrS17a06d5ANgakJbHomr73o3l6I23YAiIFL399Y1_Q-2FDBO_zxqETTkphFhE-uTeuD2nH6w",
+    "est_revenue": 369476,
+    "est_revenue_fmt": "$369K",
+    "est_revenue_won": "14.0억",
+    "est_revenue_krw": 500160972
   },
   {
     "rank": 47,
