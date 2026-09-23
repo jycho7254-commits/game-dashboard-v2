@@ -11,7 +11,7 @@
     "est_revenue": 12000000,
     "est_revenue_fmt": "$12.0M",
     "est_revenue_won": "300.0억",
-    "est_revenue_krw": 16507706568
+    "est_revenue_krw": 16244442564
   },
   {
     "rank": 2,
@@ -25,7 +25,7 @@
     "est_revenue": 10500000,
     "est_revenue_fmt": "$10.5M",
     "est_revenue_won": "222.6억",
-    "est_revenue_krw": 14444243247
+    "est_revenue_krw": 14213887244
   },
   {
     "rank": 3,
@@ -39,7 +39,7 @@
     "est_revenue": 9903500,
     "est_revenue_fmt": "$9.9M",
     "est_revenue_won": "186.9억",
-    "est_revenue_krw": 13623672666
+    "est_revenue_krw": 13406403078
   },
   {
     "rank": 4,
@@ -53,7 +53,7 @@
     "est_revenue": 9500944,
     "est_revenue_fmt": "$9.5M",
     "est_revenue_won": "165.1억",
-    "est_revenue_krw": 13069899639
+    "est_revenue_krw": 12861461593
   },
   {
     "rank": 5,
@@ -67,7 +67,7 @@
     "est_revenue": 9200000,
     "est_revenue_fmt": "$9.2M",
     "est_revenue_won": "150.0억",
-    "est_revenue_krw": 12655908369
+    "est_revenue_krw": 12454072632
   },
   {
     "rank": 6,
@@ -81,7 +81,7 @@
     "est_revenue": 7297908,
     "est_revenue_fmt": "$7.3M",
     "est_revenue_won": "127.1억",
-    "est_revenue_krw": 10039310319
+    "est_revenue_krw": 9879203945
   },
   {
     "rank": 7,
@@ -95,7 +95,7 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "97.9억",
-    "est_revenue_krw": 8253853284
+    "est_revenue_krw": 8122221282
   },
   {
     "rank": 8,
@@ -109,38 +109,10 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "110.6억",
-    "est_revenue_krw": 8253853284
+    "est_revenue_krw": 8122221282
   },
   {
     "rank": 9,
-    "title": "モンスターストライク",
-    "developer": "XFLAG, Inc.",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "jp.co.mixi.monsterstrike",
-    "local_name": "モンスターストライク",
-    "icon": "https://play-lh.googleusercontent.com/HHfoOjfXLp7FHLNZ-2OHI4mL3DJgFqKZMtFJpWr-UoXjt5KUU_WIRkwN0sDOcw2dfMxNDdvntfD5chNJJoXA",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "88.0억",
-    "est_revenue_krw": 8253853284
-  },
-  {
-    "rank": 10,
-    "title": "Last War:Survival Game",
-    "developer": "FUNFLY PTE. LTD.",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.fun.lastwar.gp",
-    "local_name": "Last War:Survival Game",
-    "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "80.0억",
-    "est_revenue_krw": 8253853284
-  },
-  {
-    "rank": 11,
     "title": "Royal Match",
     "developer": "Dream Games, Ltd.",
     "genre": "Game",
@@ -151,7 +123,35 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "73.3억",
-    "est_revenue_krw": 8253853284
+    "est_revenue_krw": 8122221282
+  },
+  {
+    "rank": 10,
+    "title": "モンスターストライク",
+    "developer": "XFLAG, Inc.",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "jp.co.mixi.monsterstrike",
+    "local_name": "モンスターストライク",
+    "icon": "https://play-lh.googleusercontent.com/HHfoOjfXLp7FHLNZ-2OHI4mL3DJgFqKZMtFJpWr-UoXjt5KUU_WIRkwN0sDOcw2dfMxNDdvntfD5chNJJoXA",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "88.0억",
+    "est_revenue_krw": 8122221282
+  },
+  {
+    "rank": 11,
+    "title": "Last War:Survival Game",
+    "developer": "FUNFLY PTE. LTD.",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "com.fun.lastwar.gp",
+    "local_name": "Last War:Survival Game",
+    "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "80.0억",
+    "est_revenue_krw": 8122221282
   },
   {
     "rank": 12,
@@ -165,24 +165,10 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "58.6억",
-    "est_revenue_krw": 8253853284
+    "est_revenue_krw": 8122221282
   },
   {
     "rank": 13,
-    "title": "SDガンダム ジージェネレーション エターナル",
-    "developer": "Bandai Namco Entertainment Inc.",
-    "genre": "Game",
-    "rating": 4,
-    "app_id": "com.bandainamcoent.gget_JP",
-    "local_name": "SDガンダム ジージェネレーション エターナル",
-    "icon": "https://play-lh.googleusercontent.com/WI-nOxNBdI82iuMwMpFjVWkTxs4Bh3dVmAQL8xwJ-U9120sfcbXLJWnn3X5IpBtdG8wzph-sobJyM0P484APwDA",
-    "est_revenue": 6000000,
-    "est_revenue_fmt": "$6.0M",
-    "est_revenue_won": "67.6억",
-    "est_revenue_krw": 8253853284
-  },
-  {
-    "rank": 14,
     "title": "トゥーンブラスト (Toon Blast)",
     "developer": "Peak",
     "genre": "Game",
@@ -193,7 +179,21 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "55.0억",
-    "est_revenue_krw": 8253853284
+    "est_revenue_krw": 8122221282
+  },
+  {
+    "rank": 14,
+    "title": "SDガンダム ジージェネレーション エターナル",
+    "developer": "Bandai Namco Entertainment Inc.",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "com.bandainamcoent.gget_JP",
+    "local_name": "SDガンダム ジージェネレーション エターナル",
+    "icon": "https://play-lh.googleusercontent.com/WI-nOxNBdI82iuMwMpFjVWkTxs4Bh3dVmAQL8xwJ-U9120sfcbXLJWnn3X5IpBtdG8wzph-sobJyM0P484APwDA",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "67.6억",
+    "est_revenue_krw": 8122221282
   },
   {
     "rank": 15,
@@ -207,7 +207,7 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "62.8억",
-    "est_revenue_krw": 8253853284
+    "est_revenue_krw": 8122221282
   },
   {
     "rank": 16,
@@ -221,7 +221,7 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "44.9억",
-    "est_revenue_krw": 8253853284
+    "est_revenue_krw": 8122221282
   },
   {
     "rank": 17,
@@ -235,7 +235,7 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "47.9억",
-    "est_revenue_krw": 8253853284
+    "est_revenue_krw": 8122221282
   },
   {
     "rank": 18,
@@ -249,7 +249,7 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "51.2억",
-    "est_revenue_krw": 8253853284
+    "est_revenue_krw": 8122221282
   },
   {
     "rank": 19,
@@ -263,7 +263,7 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "37.8억",
-    "est_revenue_krw": 8253853284
+    "est_revenue_krw": 8122221282
   },
   {
     "rank": 20,
@@ -277,7 +277,7 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "35.8억",
-    "est_revenue_krw": 8253853284
+    "est_revenue_krw": 8122221282
   },
   {
     "rank": 21,
@@ -291,7 +291,7 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "42.3억",
-    "est_revenue_krw": 8253853284
+    "est_revenue_krw": 8122221282
   },
   {
     "rank": 22,
@@ -305,7 +305,7 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "32.4억",
-    "est_revenue_krw": 8253853284
+    "est_revenue_krw": 8122221282
   },
   {
     "rank": 23,
@@ -319,7 +319,7 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "30.9억",
-    "est_revenue_krw": 8253853284
+    "est_revenue_krw": 8122221282
   },
   {
     "rank": 24,
@@ -333,7 +333,7 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "34.0억",
-    "est_revenue_krw": 8253853284
+    "est_revenue_krw": 8122221282
   },
   {
     "rank": 25,
@@ -347,7 +347,7 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "40.0억",
-    "est_revenue_krw": 8253853284
+    "est_revenue_krw": 8122221282
   },
   {
     "rank": 26,
@@ -361,7 +361,7 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "27.1억",
-    "est_revenue_krw": 8253853284
+    "est_revenue_krw": 8122221282
   },
   {
     "rank": 27,
@@ -375,24 +375,10 @@
     "est_revenue": 939252,
     "est_revenue_fmt": "$939K",
     "est_revenue_won": "29.5억",
-    "est_revenue_krw": 1292074701
+    "est_revenue_krw": 1271468764
   },
   {
     "rank": 28,
-    "title": "放置少女 - 百花繚乱の萌姫たち",
-    "developer": "C4 Connect Inc.",
-    "genre": "Game",
-    "rating": 4,
-    "app_id": "jp.glee.girl",
-    "local_name": "放置少女 - 百花繚乱の萌姫たち",
-    "icon": "https://play-lh.googleusercontent.com/0fP5hPnpj6neM2Kq4xkFQCkWIrY4M3uR9f8jgPlJT-ctAkuqjBnEnOmmxhYNFUbHPL9KxrvcV5ffLWOV80BhaOM",
-    "est_revenue": 750214,
-    "est_revenue_fmt": "$750K",
-    "est_revenue_won": "26.0억",
-    "est_revenue_krw": 1032026048
-  },
-  {
-    "rank": 29,
     "title": "Royal Kingdom",
     "developer": "Dream Games, Ltd.",
     "genre": "Game",
@@ -400,10 +386,24 @@
     "app_id": "com.dreamgames.royalkingdom",
     "local_name": "Royal Kingdom",
     "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
+    "est_revenue": 750214,
+    "est_revenue_fmt": "$750K",
+    "est_revenue_won": "25.0억",
+    "est_revenue_krw": 1015567353
+  },
+  {
+    "rank": 29,
+    "title": "放置少女 - 百花繚乱の萌姫たち",
+    "developer": "C4 Connect Inc.",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "jp.glee.girl",
+    "local_name": "放置少女 - 百花繚乱の萌姫たち",
+    "icon": "https://play-lh.googleusercontent.com/0fP5hPnpj6neM2Kq4xkFQCkWIrY4M3uR9f8jgPlJT-ctAkuqjBnEnOmmxhYNFUbHPL9KxrvcV5ffLWOV80BhaOM",
     "est_revenue": 706076,
     "est_revenue_fmt": "$706K",
-    "est_revenue_won": "25.0억",
-    "est_revenue_krw": 971307952
+    "est_revenue_won": "26.0억",
+    "est_revenue_krw": 955817586
   },
   {
     "rank": 30,
@@ -417,7 +417,7 @@
     "est_revenue": 706076,
     "est_revenue_fmt": "$706K",
     "est_revenue_won": "23.8억",
-    "est_revenue_krw": 971307952
+    "est_revenue_krw": 955817586
   },
   {
     "rank": 31,
@@ -431,7 +431,7 @@
     "est_revenue": 706076,
     "est_revenue_fmt": "$706K",
     "est_revenue_won": "28.2억",
-    "est_revenue_krw": 971307952
+    "est_revenue_krw": 955817586
   },
   {
     "rank": 32,
@@ -445,7 +445,7 @@
     "est_revenue": 698497,
     "est_revenue_fmt": "$698K",
     "est_revenue_won": "21.8억",
-    "est_revenue_krw": 960881960
+    "est_revenue_krw": 945557866
   },
   {
     "rank": 33,
@@ -459,7 +459,7 @@
     "est_revenue": 661019,
     "est_revenue_fmt": "$661K",
     "est_revenue_won": "22.8억",
-    "est_revenue_krw": 909325641
+    "est_revenue_krw": 894823765
   },
   {
     "rank": 34,
@@ -473,7 +473,7 @@
     "est_revenue": 532360,
     "est_revenue_fmt": "$532K",
     "est_revenue_won": "20.9억",
-    "est_revenue_krw": 732336889
+    "est_revenue_krw": 720657620
   },
   {
     "rank": 35,
@@ -487,7 +487,7 @@
     "est_revenue": 532360,
     "est_revenue_fmt": "$532K",
     "est_revenue_won": "18.5억",
-    "est_revenue_krw": 732336889
+    "est_revenue_krw": 720657620
   },
   {
     "rank": 36,
@@ -501,7 +501,7 @@
     "est_revenue": 532360,
     "est_revenue_fmt": "$532K",
     "est_revenue_won": "20.0억",
-    "est_revenue_krw": 732336889
+    "est_revenue_krw": 720657620
   },
   {
     "rank": 37,
@@ -515,7 +515,7 @@
     "est_revenue": 532360,
     "est_revenue_fmt": "$532K",
     "est_revenue_won": "17.1억",
-    "est_revenue_krw": 732336889
+    "est_revenue_krw": 720657620
   },
   {
     "rank": 38,
@@ -529,7 +529,7 @@
     "est_revenue": 532360,
     "est_revenue_fmt": "$532K",
     "est_revenue_won": "16.5억",
-    "est_revenue_krw": 732336889
+    "est_revenue_krw": 720657620
   },
   {
     "rank": 39,
@@ -543,7 +543,7 @@
     "est_revenue": 486052,
     "est_revenue_fmt": "$486K",
     "est_revenue_won": "19.2억",
-    "est_revenue_krw": 668633649
+    "est_revenue_krw": 657970316
   },
   {
     "rank": 40,
@@ -557,7 +557,7 @@
     "est_revenue": 486052,
     "est_revenue_fmt": "$486K",
     "est_revenue_won": "15.4억",
-    "est_revenue_krw": 668633649
+    "est_revenue_krw": 657970316
   },
   {
     "rank": 41,
@@ -571,7 +571,7 @@
     "est_revenue": 375815,
     "est_revenue_fmt": "$376K",
     "est_revenue_won": "17.8억",
-    "est_revenue_krw": 516986979
+    "est_revenue_krw": 508742099
   },
   {
     "rank": 42,
@@ -585,7 +585,7 @@
     "est_revenue": 375815,
     "est_revenue_fmt": "$376K",
     "est_revenue_won": "16.0억",
-    "est_revenue_krw": 516986979
+    "est_revenue_krw": 508742099
   },
   {
     "rank": 43,
@@ -599,7 +599,7 @@
     "est_revenue": 375815,
     "est_revenue_fmt": "$376K",
     "est_revenue_won": "14.4억",
-    "est_revenue_krw": 516986979
+    "est_revenue_krw": 508742099
   },
   {
     "rank": 44,
@@ -613,7 +613,7 @@
     "est_revenue": 375815,
     "est_revenue_fmt": "$376K",
     "est_revenue_won": "14.0억",
-    "est_revenue_krw": 516986979
+    "est_revenue_krw": 508742099
   },
   {
     "rank": 45,
@@ -627,7 +627,7 @@
     "est_revenue": 375815,
     "est_revenue_fmt": "$376K",
     "est_revenue_won": "14.9억",
-    "est_revenue_krw": 516986979
+    "est_revenue_krw": 508742099
   },
   {
     "rank": 46,
@@ -641,7 +641,7 @@
     "est_revenue": 353924,
     "est_revenue_fmt": "$354K",
     "est_revenue_won": "13.5억",
-    "est_revenue_krw": 486872795
+    "est_revenue_krw": 479108174
   },
   {
     "rank": 47,
@@ -655,7 +655,7 @@
     "est_revenue": 339262,
     "est_revenue_fmt": "$339K",
     "est_revenue_won": "12.0억",
-    "est_revenue_krw": 466703129
+    "est_revenue_krw": 459260173
   },
   {
     "rank": 48,
@@ -669,7 +669,7 @@
     "est_revenue": 325426,
     "est_revenue_fmt": "$325K",
     "est_revenue_won": "12.7억",
-    "est_revenue_krw": 447669743
+    "est_revenue_krw": 440530330
   },
   {
     "rank": 49,
@@ -683,7 +683,7 @@
     "est_revenue": 312356,
     "est_revenue_fmt": "$312K",
     "est_revenue_won": "",
-    "est_revenue_krw": 429690099
+    "est_revenue_krw": 422837425
   },
   {
     "rank": 50,
@@ -697,6 +697,6 @@
     "est_revenue": 312356,
     "est_revenue_fmt": "$312K",
     "est_revenue_won": "",
-    "est_revenue_krw": 429690099
+    "est_revenue_krw": 422837425
   }
 ]
