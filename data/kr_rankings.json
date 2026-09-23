@@ -18,7 +18,7 @@
     "title": "이클립스: 더 어웨이크닝",
     "developer": "Smilegate, Inc.",
     "genre": "Game",
-    "rating": 3.8,
+    "rating": 3.9,
     "app_id": "com.smilegate.eclipse.stove.google",
     "local_name": "이클립스: 더 어웨이크닝",
     "icon": "https://play-lh.googleusercontent.com/JhepoyYDmabwj5ffSFC3cyfAdllyeIdHzSW5a3i_nlzsahXojL7S57JR1_RlYYkRh02OXzZM6K1s9KWnd-1Mpw",
@@ -323,20 +323,6 @@
   },
   {
     "rank": 24,
-    "title": "Gardenscapes",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.playrix.gardenscapes",
-    "local_name": "가든스케이프",
-    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
-    "est_revenue": 559479,
-    "est_revenue_fmt": "$559K",
-    "est_revenue_won": "12.1억",
-    "est_revenue_krw": 757368707
-  },
-  {
-    "rank": 25,
     "title": "Coop TD: Together",
     "developer": "Supermagic",
     "genre": "Game",
@@ -344,10 +330,24 @@
     "app_id": "com.percent.aos.cooptd",
     "local_name": "쿱 TD: 투게더",
     "icon": "https://play-lh.googleusercontent.com/vTxEJvWJq3cIbideJTNd9ZAYolS4ll7hUlMT3piDAsP6y84EPI-k1tPpoALoCwvmbJMn3LBW-sjzhHpERqfY",
-    "est_revenue": 559479,
-    "est_revenue_fmt": "$559K",
+    "est_revenue": 658210,
+    "est_revenue_fmt": "$658K",
     "est_revenue_won": "5.1억",
-    "est_revenue_krw": 757368707
+    "est_revenue_krw": 891021212
+  },
+  {
+    "rank": 25,
+    "title": "Gardenscapes",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.playrix.gardenscapes",
+    "local_name": "가든스케이프",
+    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
+    "est_revenue": 524118,
+    "est_revenue_fmt": "$524K",
+    "est_revenue_won": "12.1억",
+    "est_revenue_krw": 709500396
   },
   {
     "rank": 26,
