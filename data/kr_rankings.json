@@ -169,6 +169,20 @@
   },
   {
     "rank": 13,
+    "title": "Last War:Survival Game",
+    "developer": "FUNFLY PTE. LTD.",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.fun.lastwar.gp",
+    "local_name": "라스트 워: 서바이벌",
+    "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "22.0억",
+    "est_revenue_krw": 2436666385
+  },
+  {
+    "rank": 14,
     "title": "마비노기 모바일",
     "developer": "NEXON Company",
     "genre": "Game",
@@ -182,7 +196,7 @@
     "est_revenue_krw": 2436666385
   },
   {
-    "rank": 14,
+    "rank": 15,
     "title": "Limbus Company",
     "developer": "Project Moon",
     "genre": "Game",
@@ -193,20 +207,6 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "23.8억",
-    "est_revenue_krw": 2436666385
-  },
-  {
-    "rank": 15,
-    "title": "Last War:Survival Game",
-    "developer": "FUNFLY PTE. LTD.",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.fun.lastwar.gp",
-    "local_name": "라스트 워: 서바이벌",
-    "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "22.0억",
     "est_revenue_krw": 2436666385
   },
   {
@@ -295,20 +295,6 @@
   },
   {
     "rank": 22,
-    "title": "Last Z: Survival Shooter",
-    "developer": "Omnilojo Pte Ltd",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.readygo.barrel.gp",
-    "local_name": "라스트 Z: 서바이벌 슈터",
-    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
-    "est_revenue": 769835,
-    "est_revenue_fmt": "$770K",
-    "est_revenue_won": "12.9억",
-    "est_revenue_krw": 1042128370
-  },
-  {
-    "rank": 23,
     "title": "로그W : 리메인즈 오브 갓",
     "developer": "Efun Company",
     "genre": "Game",
@@ -316,10 +302,24 @@
     "app_id": "com.krd8.google",
     "local_name": "로그W : 리메인즈 오브 갓",
     "icon": "https://play-lh.googleusercontent.com/wPufQAobuu_bMHJyHAmyZLteiFXFFfGyr_II-agf6JMw518mjIbDzFdR3LXbuKvT12TQ2kPvjRvLN-nyJ8NAyA",
-    "est_revenue": 703970,
-    "est_revenue_fmt": "$704K",
+    "est_revenue": 754459,
+    "est_revenue_fmt": "$754K",
     "est_revenue_won": "12.1억",
-    "est_revenue_krw": 952966686
+    "est_revenue_krw": 1021313824
+  },
+  {
+    "rank": 23,
+    "title": "Last Z: Survival Shooter",
+    "developer": "Omnilojo Pte Ltd",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.readygo.barrel.gp",
+    "local_name": "라스트 Z: 서바이벌 슈터",
+    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
+    "est_revenue": 754459,
+    "est_revenue_fmt": "$754K",
+    "est_revenue_won": "12.9억",
+    "est_revenue_krw": 1021313824
   },
   {
     "rank": 24,
