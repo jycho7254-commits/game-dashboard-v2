@@ -4,7 +4,7 @@
     "title": "제우스: 오만의 신",
     "developer": "Com2uS",
     "genre": "Game",
-    "rating": 3.8,
+    "rating": 3.7,
     "app_id": "com.com2us.es.android.google.kr.normal",
     "local_name": "제우스: 오만의 신",
     "icon": "https://play-lh.googleusercontent.com/Cn3mFHKMLbpjEBSZGiCKysZpRKXYNm5CH4vGFBLUMpWtZ7gk_2ONDoqAfJ6OIh_V-Lm3d8uZOmzKoAFdQxW4",
@@ -169,6 +169,20 @@
   },
   {
     "rank": 13,
+    "title": "Lucky Defense",
+    "developer": "111%",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.percent.aos.luckydefense",
+    "local_name": "러키 디펜스",
+    "icon": "https://play-lh.googleusercontent.com/1NktNgA6C5ghp39v_vlHz_P1niuK3MTA0W5fVX0LoqsdUavVre6LkwligdFlcMd1OsN6qX-zWciBexAvY3myLaI",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "23.8억",
+    "est_revenue_krw": 2456582845
+  },
+  {
+    "rank": 14,
     "title": "Genshin Impact 6th Anniversary",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -182,20 +196,6 @@
     "est_revenue_krw": 2456582845
   },
   {
-    "rank": 14,
-    "title": "Lucky Defense",
-    "developer": "111%",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.percent.aos.luckydefense",
-    "local_name": "러키 디펜스",
-    "icon": "https://play-lh.googleusercontent.com/1NktNgA6C5ghp39v_vlHz_P1niuK3MTA0W5fVX0LoqsdUavVre6LkwligdFlcMd1OsN6qX-zWciBexAvY3myLaI",
-    "est_revenue": 1445460,
-    "est_revenue_fmt": "$1.4M",
-    "est_revenue_won": "23.8억",
-    "est_revenue_krw": 1972717910
-  },
-  {
     "rank": 15,
     "title": "열혈강호: 넥스트",
     "developer": "Kingnet Technology Limited",
@@ -204,10 +204,10 @@
     "app_id": "com.rxjhglkr.gp",
     "local_name": "열혈강호: 넥스트",
     "icon": "https://play-lh.googleusercontent.com/ct9hCP6C7NRwwTT3p-eIRLAJHMYuK2k2kO0tC6nc8YUCwgRos5tOuzfKmflfPOwQdfJiuNHkmifu0lhVcEmY",
-    "est_revenue": 1445460,
-    "est_revenue_fmt": "$1.4M",
+    "est_revenue": 1646576,
+    "est_revenue_fmt": "$1.6M",
     "est_revenue_won": "22.0억",
-    "est_revenue_krw": 1972717910
+    "est_revenue_krw": 2247194641
   },
   {
     "rank": 16,
@@ -351,20 +351,6 @@
   },
   {
     "rank": 26,
-    "title": "Gardenscapes",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.playrix.gardenscapes",
-    "local_name": "가든스케이프",
-    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
-    "est_revenue": 491879,
-    "est_revenue_fmt": "$492K",
-    "est_revenue_won": "10.0억",
-    "est_revenue_krw": 671300841
-  },
-  {
-    "rank": 27,
     "title": "FC 모바일",
     "developer": "NEXON Company",
     "genre": "Game",
@@ -372,10 +358,24 @@
     "app_id": "com.nexon.fmk",
     "local_name": "FC 모바일",
     "icon": "https://play-lh.googleusercontent.com/VKo4cXzxFpu7d5ua0Exk9QB7B7wz8ePAON_Km1lkIowLCf4kpww9alW6HUy-kQ50Kimy86PG1ivGFhayc7hb",
-    "est_revenue": 491879,
-    "est_revenue_fmt": "$492K",
+    "est_revenue": 607615,
+    "est_revenue_fmt": "$608K",
     "est_revenue_won": "9.4억",
-    "est_revenue_krw": 671300841
+    "est_revenue_krw": 829253658
+  },
+  {
+    "rank": 27,
+    "title": "Gardenscapes",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.playrix.gardenscapes",
+    "local_name": "가든스케이프",
+    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
+    "est_revenue": 462406,
+    "est_revenue_fmt": "$462K",
+    "est_revenue_won": "10.0억",
+    "est_revenue_krw": 631077026
   },
   {
     "rank": 28,
@@ -435,20 +435,6 @@
   },
   {
     "rank": 32,
-    "title": "Royal Kingdom",
-    "developer": "Dream Games, Ltd.",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.dreamgames.royalkingdom",
-    "local_name": "로얄 킹덤",
-    "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
-    "est_revenue": 347157,
-    "est_revenue_fmt": "$347K",
-    "est_revenue_won": "6.7억",
-    "est_revenue_krw": 473788850
-  },
-  {
-    "rank": 33,
     "title": "후더덕 서바이벌-777뽑기 증정",
     "developer": "Joy Nice Games",
     "genre": "Game",
@@ -456,10 +442,24 @@
     "app_id": "com.mrtgd2kr.google",
     "local_name": "후더덕 서바이벌-777뽑기 증정",
     "icon": "https://play-lh.googleusercontent.com/rDbVN_XC0pxpQMgTMRD9n7et-PpV5PFfF-jS86jBpkKkiSx2kPrvN65t_XlY5V4sHQvbL1RxT05eMJIXksDXoA",
-    "est_revenue": 347157,
-    "est_revenue_fmt": "$347K",
+    "est_revenue": 408420,
+    "est_revenue_fmt": "$408K",
     "est_revenue_won": "7.1억",
-    "est_revenue_krw": 473788850
+    "est_revenue_krw": 557398647
+  },
+  {
+    "rank": 33,
+    "title": "Royal Kingdom",
+    "developer": "Dream Games, Ltd.",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.dreamgames.royalkingdom",
+    "local_name": "로얄 킹덤",
+    "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
+    "est_revenue": 329102,
+    "est_revenue_fmt": "$329K",
+    "est_revenue_won": "6.7억",
+    "est_revenue_krw": 449147960
   },
   {
     "rank": 34,
@@ -470,10 +470,10 @@
     "app_id": "com.gamespark.topking.gp",
     "local_name": "Top Lords",
     "icon": "https://play-lh.googleusercontent.com/F9Nk01jBia2OZFGndBuTP-rJ-ThbicTHpxJj3iZIk-M1-V8qFhVuVQWYAG_zCuggkiRXHrfqyU5XwZPhAJyAfA",
-    "est_revenue": 347157,
-    "est_revenue_fmt": "$347K",
+    "est_revenue": 329102,
+    "est_revenue_fmt": "$329K",
     "est_revenue_won": "6.3억",
-    "est_revenue_krw": 473788850
+    "est_revenue_krw": 449147960
   },
   {
     "rank": 35,
@@ -484,10 +484,10 @@
     "app_id": "com.iyagames.flotshelter",
     "local_name": "Wild Water World",
     "icon": "https://play-lh.googleusercontent.com/uCLV6eXFTGn7v6rZKKeuKCOG0eY9zrHoibkF_kvGioFHgjtLQnVAKTdLu17TxFRubVehAMWDiW02B7ObqNWhNQ",
-    "est_revenue": 347157,
-    "est_revenue_fmt": "$347K",
+    "est_revenue": 329102,
+    "est_revenue_fmt": "$329K",
     "est_revenue_won": "6.0억",
-    "est_revenue_krw": 473788850
+    "est_revenue_krw": 449147960
   },
   {
     "rank": 36,
@@ -498,10 +498,10 @@
     "app_id": "com.epidgames.trickcalrevive",
     "local_name": "트릭컬 리바이브",
     "icon": "https://play-lh.googleusercontent.com/7WntpQt6D18uzI3amQ_SrHYl74se-bQl1PXORC1xUpkc5KtkPPdYcX8WZXOH-NS5BMwlLICJ-CUifGkvsD_C98s",
-    "est_revenue": 347157,
-    "est_revenue_fmt": "$347K",
+    "est_revenue": 329102,
+    "est_revenue_fmt": "$329K",
     "est_revenue_won": "5.6억",
-    "est_revenue_krw": 473788850
+    "est_revenue_krw": 449147960
   },
   {
     "rank": 37,
