@@ -393,20 +393,6 @@
   },
   {
     "rank": 29,
-    "title": "Last Z: Survival Shooter",
-    "developer": "Omnilojo Pte Ltd",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.readygo.barrel.gp",
-    "local_name": "라스트 Z: 서바이벌 슈터",
-    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
-    "est_revenue": 462406,
-    "est_revenue_fmt": "$462K",
-    "est_revenue_won": "8.4억",
-    "est_revenue_krw": 632851153
-  },
-  {
-    "rank": 30,
     "title": "컴투스프로야구V26",
     "developer": "Com2uS",
     "genre": "Game",
@@ -417,6 +403,20 @@
     "est_revenue": 462406,
     "est_revenue_fmt": "$462K",
     "est_revenue_won": "8.0억",
+    "est_revenue_krw": 632851153
+  },
+  {
+    "rank": 30,
+    "title": "Last Z: Survival Shooter",
+    "developer": "Omnilojo Pte Ltd",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.readygo.barrel.gp",
+    "local_name": "라스트 Z: 서바이벌 슈터",
+    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
+    "est_revenue": 462406,
+    "est_revenue_fmt": "$462K",
+    "est_revenue_won": "8.4억",
     "est_revenue_krw": 632851153
   },
   {
@@ -477,20 +477,6 @@
   },
   {
     "rank": 35,
-    "title": "AION2",
-    "developer": "NC Corporation",
-    "genre": "Game",
-    "rating": 2.8,
-    "app_id": "com.ncsoft.aion2",
-    "local_name": "아이온2",
-    "icon": "https://play-lh.googleusercontent.com/aqqsbPuYk-dU9f0qnyEkHje_IIchFrOhDQfDXozQbD5_n_Hxi18ja4GyEbNYuFD9inoFBUYfZFWK4zSOjsy8Aw",
-    "est_revenue": 366648,
-    "est_revenue_fmt": "$367K",
-    "est_revenue_won": "5.6억",
-    "est_revenue_krw": 501796277
-  },
-  {
-    "rank": 36,
     "title": "마비노기 모바일",
     "developer": "NEXON Company",
     "genre": "Game",
@@ -501,6 +487,20 @@
     "est_revenue": 366648,
     "est_revenue_fmt": "$367K",
     "est_revenue_won": "7.5억",
+    "est_revenue_krw": 501796277
+  },
+  {
+    "rank": 36,
+    "title": "AION2",
+    "developer": "NC Corporation",
+    "genre": "Game",
+    "rating": 2.8,
+    "app_id": "com.ncsoft.aion2",
+    "local_name": "아이온2",
+    "icon": "https://play-lh.googleusercontent.com/aqqsbPuYk-dU9f0qnyEkHje_IIchFrOhDQfDXozQbD5_n_Hxi18ja4GyEbNYuFD9inoFBUYfZFWK4zSOjsy8Aw",
+    "est_revenue": 366648,
+    "est_revenue_fmt": "$367K",
+    "est_revenue_won": "5.6억",
     "est_revenue_krw": 501796277
   },
   {
@@ -631,34 +631,6 @@
   },
   {
     "rank": 46,
-    "title": "Homescapes",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.playrix.homescapes",
-    "local_name": "홈스케이프",
-    "icon": "https://play-lh.googleusercontent.com/98F-rCvO3NbMvijqi_bRDAt4x9y3sBbTffMFxK0iOn8W0SlFqs7BkmKE9UsqgPH07yDNj2B2IrKeoYGjvGGYcHU",
-    "est_revenue": 179615,
-    "est_revenue_fmt": "$180K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 245821983
-  },
-  {
-    "rank": 47,
-    "title": "메이플스토리M",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.nexon.nsc.maplem",
-    "local_name": "메이플스토리M",
-    "icon": "https://play-lh.googleusercontent.com/9o8e9UB2hxKmBZDNFai_vH3UAAoPvVWj6M00kQPccrouhIfFoHd-YrJ4Pbme3H96uMu8_dU3vjChrUxXmY0dxQ",
-    "est_revenue": 179615,
-    "est_revenue_fmt": "$180K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 245821983
-  },
-  {
-    "rank": 48,
     "title": "냥코 대전쟁",
     "developer": "PONOS Corporation",
     "genre": "Game",
@@ -666,10 +638,38 @@
     "app_id": "jp.co.ponos.battlecatskr",
     "local_name": "냥코 대전쟁",
     "icon": "https://play-lh.googleusercontent.com/zDguVsEup4tga5cr-ln03BFC0FaFnVa6tiyUxQrDOI2sQWVAM1hv0YtEnYJffTVkP5Nfc7FlbQUeITMlLJCwKA",
-    "est_revenue": 179615,
-    "est_revenue_fmt": "$180K",
+    "est_revenue": 203992,
+    "est_revenue_fmt": "$204K",
     "est_revenue_won": "",
-    "est_revenue_krw": 245821983
+    "est_revenue_krw": 279184466
+  },
+  {
+    "rank": 47,
+    "title": "Homescapes",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.playrix.homescapes",
+    "local_name": "홈스케이프",
+    "icon": "https://play-lh.googleusercontent.com/98F-rCvO3NbMvijqi_bRDAt4x9y3sBbTffMFxK0iOn8W0SlFqs7BkmKE9UsqgPH07yDNj2B2IrKeoYGjvGGYcHU",
+    "est_revenue": 172392,
+    "est_revenue_fmt": "$172K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 235936549
+  },
+  {
+    "rank": 48,
+    "title": "메이플스토리M",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.nexon.nsc.maplem",
+    "local_name": "메이플스토리M",
+    "icon": "https://play-lh.googleusercontent.com/9o8e9UB2hxKmBZDNFai_vH3UAAoPvVWj6M00kQPccrouhIfFoHd-YrJ4Pbme3H96uMu8_dU3vjChrUxXmY0dxQ",
+    "est_revenue": 172392,
+    "est_revenue_fmt": "$172K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 235936549
   },
   {
     "rank": 49,
@@ -680,23 +680,23 @@
     "app_id": "com.nexon.fo4m",
     "local_name": "FC 온라인 M",
     "icon": "https://play-lh.googleusercontent.com/3kHUd_bPqo2Mz00jcm8gxIjgawGnkg1w7V1KZfQ-UalXUj8QrLwqmGxpUNniLQ4o3exMUCl_lKa5KOolaOqBFdo",
-    "est_revenue": 179615,
-    "est_revenue_fmt": "$180K",
+    "est_revenue": 172392,
+    "est_revenue_fmt": "$172K",
     "est_revenue_won": "3.1억",
-    "est_revenue_krw": 245821983
+    "est_revenue_krw": 235936549
   },
   {
     "rank": 50,
-    "title": "Flambé®: Merge & Cook",
-    "developer": "Microfun Limited",
+    "title": "Legend of Avatar",
+    "developer": "BillionaireGames",
     "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.cola.game",
-    "local_name": "플람베",
-    "icon": "https://play-lh.googleusercontent.com/DxEYTS_nNDbesjgAGulDTgl8V2cV42UUmeOGPei2c95XRW7GY_XgihSsaPF7rnRua18Egkd1-siIgbkVjq73Hg",
-    "est_revenue": 153000,
-    "est_revenue_fmt": "$153K",
+    "rating": 4.7,
+    "app_id": "com.billionairegames.serares",
+    "local_name": "Legend of Avatar",
+    "icon": "https://play-lh.googleusercontent.com/32hdADT1diPHMRQB8Yc9hWNLeSKpUVAn1_289IXeYZ8IijrbPvvI-TlQIzN9Gyk2e_nONde2DaM9zKNyX_na4R4",
+    "est_revenue": 172392,
+    "est_revenue_fmt": "$172K",
     "est_revenue_won": "",
-    "est_revenue_krw": 209396561
+    "est_revenue_krw": 235936549
   }
 ]
