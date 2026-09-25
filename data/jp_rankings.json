@@ -204,13 +204,27 @@
     "app_id": "com.bandainamcoent.idolmaster_gakuen",
     "local_name": "学園アイドルマスター",
     "icon": "https://play-lh.googleusercontent.com/ch_SGwCMoLElrzColmSthRPYxzv608YoyBx4tXY3ciM8Bg4fLxKhRHdeoqPSbygFruy62D9p5EdGAwLW8KGTfwI",
-    "est_revenue": 7376889,
-    "est_revenue_fmt": "$7.4M",
+    "est_revenue": 7903552,
+    "est_revenue_fmt": "$7.9M",
     "est_revenue_won": "47.9억",
-    "est_revenue_krw": 10096046993
+    "est_revenue_krw": 10816840595
   },
   {
     "rank": 16,
+    "title": "パズル＆ドラゴンズ(Puzzle & Dragons)",
+    "developer": "GungHo Online Entertainment, Inc.",
+    "genre": "Game",
+    "rating": 3.2,
+    "app_id": "jp.gungho.pad",
+    "local_name": "パズル＆ドラゴンズ(Puzzle & Dragons)",
+    "icon": "https://play-lh.googleusercontent.com/ra7eGhpGZqaK3zVeyaat5kJZ3qRiJVQ8Yel-fOB4o5lWh6WgeivGdzRTJl14tAKKqBkcDYmw_DSziNL_Dq9F",
+    "est_revenue": 6856708,
+    "est_revenue_fmt": "$6.9M",
+    "est_revenue_won": "21.8억",
+    "est_revenue_krw": 9384124688
+  },
+  {
+    "rank": 17,
     "title": "eFootball™",
     "developer": "KONAMI",
     "genre": "Game",
@@ -224,7 +238,7 @@
     "est_revenue_krw": 8211629856
   },
   {
-    "rank": 17,
+    "rank": 18,
     "title": "Pokémon GO",
     "developer": "Scopely Explore, Inc.",
     "genre": "Game",
@@ -238,7 +252,7 @@
     "est_revenue_krw": 8211629856
   },
   {
-    "rank": 18,
+    "rank": 19,
     "title": "モンスターストライク",
     "developer": "XFLAG, Inc.",
     "genre": "Game",
@@ -250,20 +264,6 @@
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "44.9억",
     "est_revenue_krw": 8211629856
-  },
-  {
-    "rank": 19,
-    "title": "パズル＆ドラゴンズ(Puzzle & Dragons)",
-    "developer": "GungHo Online Entertainment, Inc.",
-    "genre": "Game",
-    "rating": 3.2,
-    "app_id": "jp.gungho.pad",
-    "local_name": "パズル＆ドラゴンズ(Puzzle & Dragons)",
-    "icon": "https://play-lh.googleusercontent.com/ra7eGhpGZqaK3zVeyaat5kJZ3qRiJVQ8Yel-fOB4o5lWh6WgeivGdzRTJl14tAKKqBkcDYmw_DSziNL_Dq9F",
-    "est_revenue": 1408553,
-    "est_revenue_fmt": "$1.4M",
-    "est_revenue_won": "21.8억",
-    "est_revenue_krw": 1927752645
   },
   {
     "rank": 20,
@@ -281,20 +281,6 @@
   },
   {
     "rank": 21,
-    "title": "Honkai: Star Rail",
-    "developer": "COGNOSPHERE PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.HoYoverse.hkrpgoversea",
-    "local_name": "崩壊:スターレイル",
-    "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
-    "est_revenue": 1301413,
-    "est_revenue_fmt": "$1.3M",
-    "est_revenue_won": "37.8억",
-    "est_revenue_krw": 1781120308
-  },
-  {
-    "rank": 22,
     "title": "Tasty Travels: Merge Game",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -302,10 +288,24 @@
     "app_id": "com.fatmerge.global",
     "local_name": "Tasty Travels: Merge Game",
     "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
-    "est_revenue": 1119670,
-    "est_revenue_fmt": "$1.1M",
+    "est_revenue": 1205635,
+    "est_revenue_fmt": "$1.2M",
     "est_revenue_won": "35.8억",
-    "est_revenue_krw": 1532385933
+    "est_revenue_krw": 1650038060
+  },
+  {
+    "rank": 22,
+    "title": "Honkai: Star Rail",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "genre": "Game",
+    "rating": 3.8,
+    "app_id": "com.HoYoverse.hkrpgoversea",
+    "local_name": "崩壊:スターレイル",
+    "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
+    "est_revenue": 1205635,
+    "est_revenue_fmt": "$1.2M",
+    "est_revenue_won": "37.8억",
+    "est_revenue_krw": 1650038060
   },
   {
     "rank": 23,
