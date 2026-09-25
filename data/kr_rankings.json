@@ -645,20 +645,6 @@
   },
   {
     "rank": 47,
-    "title": "Vampir",
-    "developer": "Netmarble",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.netmarble.thered",
-    "local_name": "Vampir",
-    "icon": "https://play-lh.googleusercontent.com/O3AtBJqCPmOHow-d2tskDjwXGWpYpgz2bPEJC5s-FQ1BzmtxnFTQ4h6OTTJ74pyih8KBs78UsTk7w6PAHkbt",
-    "est_revenue": 179615,
-    "est_revenue_fmt": "$180K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 245821983
-  },
-  {
-    "rank": 48,
     "title": "메이플스토리M",
     "developer": "NEXON Company",
     "genre": "Game",
@@ -672,7 +658,7 @@
     "est_revenue_krw": 245821983
   },
   {
-    "rank": 49,
+    "rank": 48,
     "title": "냥코 대전쟁",
     "developer": "PONOS Corporation",
     "genre": "Game",
@@ -686,7 +672,7 @@
     "est_revenue_krw": 245821983
   },
   {
-    "rank": 50,
+    "rank": 49,
     "title": "EA SPORTS FC Online M",
     "developer": "NEXON Company",
     "genre": "Game",
@@ -698,5 +684,19 @@
     "est_revenue_fmt": "$180K",
     "est_revenue_won": "3.1억",
     "est_revenue_krw": 245821983
+  },
+  {
+    "rank": 50,
+    "title": "Flambé®: Merge & Cook",
+    "developer": "Microfun Limited",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.cola.game",
+    "local_name": "플람베",
+    "icon": "https://play-lh.googleusercontent.com/DxEYTS_nNDbesjgAGulDTgl8V2cV42UUmeOGPei2c95XRW7GY_XgihSsaPF7rnRua18Egkd1-siIgbkVjq73Hg",
+    "est_revenue": 153000,
+    "est_revenue_fmt": "$153K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 209396561
   }
 ]
