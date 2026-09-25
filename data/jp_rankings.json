@@ -92,27 +92,13 @@
     "app_id": "com.mergegames.gossipharbor",
     "local_name": "Gossip Harbor",
     "icon": "https://play-lh.googleusercontent.com/VEmJnv1zUKIcst7pnOOqEFBXItThIbTzS29wxDEhJ9vPnXxNEHJAOkclrUMYFBR9essYJKDhkm-lPR95161D",
-    "est_revenue": 10500000,
-    "est_revenue_fmt": "$10.5M",
+    "est_revenue": 10285714,
+    "est_revenue_fmt": "$10.3M",
     "est_revenue_won": "110.6억",
-    "est_revenue_krw": 14370352248
+    "est_revenue_krw": 14077079362
   },
   {
     "rank": 8,
-    "title": "Last War:Survival Game",
-    "developer": "FUNFLY PTE. LTD.",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.fun.lastwar.gp",
-    "local_name": "Last War:Survival Game",
-    "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc",
-    "est_revenue": 10500000,
-    "est_revenue_fmt": "$10.5M",
-    "est_revenue_won": "97.9억",
-    "est_revenue_krw": 14370352248
-  },
-  {
-    "rank": 9,
     "title": "Kingshot",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -120,10 +106,24 @@
     "app_id": "com.run.tower.defense",
     "local_name": "Kingshot",
     "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
-    "est_revenue": 10045940,
-    "est_revenue_fmt": "$10.0M",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
     "est_revenue_won": "80.0억",
-    "est_revenue_krw": 13748923473
+    "est_revenue_krw": 12317444784
+  },
+  {
+    "rank": 9,
+    "title": "Last War:Survival Game",
+    "developer": "FUNFLY PTE. LTD.",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "com.fun.lastwar.gp",
+    "local_name": "Last War:Survival Game",
+    "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc",
+    "est_revenue": 8000000,
+    "est_revenue_fmt": "$8.0M",
+    "est_revenue_won": "97.9억",
+    "est_revenue_krw": 10948839808
   },
   {
     "rank": 10,
@@ -134,27 +134,13 @@
     "app_id": "net.peakgames.toonblast",
     "local_name": "トゥーンブラスト (Toon Blast)",
     "icon": "https://play-lh.googleusercontent.com/j3O3Pyk08XAv4iA4p-Irerfos8g-tLxQ3r42zlScMRsjjgnyQGeE1mqcH3aSY9wA2k6l8fBqpqEaIQfIG2gLLQ",
-    "est_revenue": 9592516,
-    "est_revenue_fmt": "$9.6M",
+    "est_revenue": 7199999,
+    "est_revenue_fmt": "$7.2M",
     "est_revenue_won": "73.3억",
-    "est_revenue_krw": 13128365130
+    "est_revenue_krw": 9853954459
   },
   {
     "rank": 11,
-    "title": "GODDESS OF VICTORY: NIKKE",
-    "developer": "Level Infinite",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.proximabeta.nikke",
-    "local_name": "勝利の女神:NIKKE",
-    "icon": "https://play-lh.googleusercontent.com/JK5mejs0bVT_9613gCxNfCjRw_m3JiQ4wC8B8Kt471yu7ThFQazVkCLTfPZ81hnenft7ilaE-qSwVGpQT6sEFcY",
-    "est_revenue": 9200000,
-    "est_revenue_fmt": "$9.2M",
-    "est_revenue_won": "67.6억",
-    "est_revenue_krw": 12591165779
-  },
-  {
-    "rank": 12,
     "title": "Royal Match",
     "developer": "Dream Games, Ltd.",
     "genre": "Game",
@@ -162,13 +148,13 @@
     "app_id": "com.dreamgames.royalmatch",
     "local_name": "Royal Match",
     "icon": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
-    "est_revenue": 7363725,
-    "est_revenue_fmt": "$7.4M",
+    "est_revenue": 6545454,
+    "est_revenue_fmt": "$6.5M",
     "est_revenue_won": "88.0억",
-    "est_revenue_krw": 10078030677
+    "est_revenue_krw": 8958140915
   },
   {
-    "rank": 13,
+    "rank": 12,
     "title": "eFootball™",
     "developer": "KONAMI",
     "genre": "Game",
@@ -182,7 +168,7 @@
     "est_revenue_krw": 8211629856
   },
   {
-    "rank": 14,
+    "rank": 13,
     "title": "Trickcal:Chibi Go",
     "developer": "BILIBILI",
     "genre": "Game",
@@ -196,7 +182,7 @@
     "est_revenue_krw": 8211629856
   },
   {
-    "rank": 15,
+    "rank": 14,
     "title": "幻想水滸伝 STAR LEAP",
     "developer": "KONAMI",
     "genre": "Game",
@@ -210,7 +196,7 @@
     "est_revenue_krw": 8211629856
   },
   {
-    "rank": 16,
+    "rank": 15,
     "title": "Pokémon GO",
     "developer": "Scopely Explore, Inc.",
     "genre": "Game",
@@ -221,6 +207,20 @@
     "est_revenue": 6000000,
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "51.2억",
+    "est_revenue_krw": 8211629856
+  },
+  {
+    "rank": 16,
+    "title": "GODDESS OF VICTORY: NIKKE",
+    "developer": "Level Infinite",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.proximabeta.nikke",
+    "local_name": "勝利の女神:NIKKE",
+    "icon": "https://play-lh.googleusercontent.com/JK5mejs0bVT_9613gCxNfCjRw_m3JiQ4wC8B8Kt471yu7ThFQazVkCLTfPZ81hnenft7ilaE-qSwVGpQT6sEFcY",
+    "est_revenue": 6000000,
+    "est_revenue_fmt": "$6.0M",
+    "est_revenue_won": "67.6억",
     "est_revenue_krw": 8211629856
   },
   {
@@ -295,20 +295,6 @@
   },
   {
     "rank": 22,
-    "title": "Township",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.playrix.township",
-    "local_name": "Township",
-    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
-    "est_revenue": 1119670,
-    "est_revenue_fmt": "$1.1M",
-    "est_revenue_won": "34.0억",
-    "est_revenue_krw": 1532385933
-  },
-  {
-    "rank": 23,
     "title": "Gardenscapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -316,13 +302,13 @@
     "app_id": "com.playrix.gardenscapes",
     "local_name": "Gardenscapes",
     "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
-    "est_revenue": 1042230,
-    "est_revenue_fmt": "$1.0M",
+    "est_revenue": 1119670,
+    "est_revenue_fmt": "$1.1M",
     "est_revenue_won": "42.3억",
-    "est_revenue_krw": 1426401164
+    "est_revenue_krw": 1532385933
   },
   {
-    "rank": 24,
+    "rank": 23,
     "title": "ドラゴンクエストウォーク",
     "developer": "SQUARE ENIX Co.,Ltd.",
     "genre": "Game",
@@ -330,13 +316,13 @@
     "app_id": "com.square_enix.android_googleplay.dqwalkj",
     "local_name": "ドラゴンクエストウォーク",
     "icon": "https://play-lh.googleusercontent.com/qEIVjnChpL1kW89KbEsn7-_JqbD18IEhQj_2xP7nrKXifO9gpAvXfI_12_69N65ySjS3SrgFBspBvNsJDHDIxQ",
-    "est_revenue": 1042230,
-    "est_revenue_fmt": "$1.0M",
+    "est_revenue": 1119670,
+    "est_revenue_fmt": "$1.1M",
     "est_revenue_won": "32.4억",
-    "est_revenue_krw": 1426401164
+    "est_revenue_krw": 1532385933
   },
   {
-    "rank": 25,
+    "rank": 24,
     "title": "Tasty Travels: Merge Game",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -344,9 +330,23 @@
     "app_id": "com.fatmerge.global",
     "local_name": "Tasty Travels: Merge Game",
     "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
+    "est_revenue": 972230,
+    "est_revenue_fmt": "$972K",
+    "est_revenue_won": "35.8억",
+    "est_revenue_krw": 1330598816
+  },
+  {
+    "rank": 25,
+    "title": "Township",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.playrix.township",
+    "local_name": "Township",
+    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
     "est_revenue": 908753,
     "est_revenue_fmt": "$909K",
-    "est_revenue_won": "35.8억",
+    "est_revenue_won": "34.0억",
     "est_revenue_krw": 1243723878
   },
   {
