@@ -113,20 +113,6 @@
   },
   {
     "rank": 9,
-    "title": "Kingshot",
-    "developer": "Century Games PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.6,
-    "app_id": "com.run.tower.defense",
-    "local_name": "Kingshot",
-    "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
-    "est_revenue": 10500000,
-    "est_revenue_fmt": "$10.5M",
-    "est_revenue_won": "80.0억",
-    "est_revenue_krw": 14370352248
-  },
-  {
-    "rank": 10,
     "title": "Trickcal:Chibi Go",
     "developer": "BILIBILI",
     "genre": "Game",
@@ -134,9 +120,23 @@
     "app_id": "com.bilibili.trickcal",
     "local_name": "Trickcal:Chibi Go",
     "icon": "https://play-lh.googleusercontent.com/2ih8DH-1lwOveG_OlB-3pxbDUkJjoY188kVB73NXFhEOZwApTiESOTv3JgaSVZ5oUqd-2SqB2f8Rjq5LRymNNQ",
+    "est_revenue": 10500000,
+    "est_revenue_fmt": "$10.5M",
+    "est_revenue_won": "58.6억",
+    "est_revenue_krw": 14370352248
+  },
+  {
+    "rank": 10,
+    "title": "Kingshot",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 3.6,
+    "app_id": "com.run.tower.defense",
+    "local_name": "Kingshot",
+    "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
     "est_revenue": 10223790,
     "est_revenue_fmt": "$10.2M",
-    "est_revenue_won": "58.6억",
+    "est_revenue_won": "80.0억",
     "est_revenue_krw": 13992329868
   },
   {
@@ -281,20 +281,6 @@
   },
   {
     "rank": 21,
-    "title": "Tasty Travels: Merge Game",
-    "developer": "Century Games PTE. LTD.",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.fatmerge.global",
-    "local_name": "Tasty Travels: Merge Game",
-    "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
-    "est_revenue": 1205635,
-    "est_revenue_fmt": "$1.2M",
-    "est_revenue_won": "35.8억",
-    "est_revenue_krw": 1650038060
-  },
-  {
-    "rank": 22,
     "title": "Honkai: Star Rail",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -302,10 +288,24 @@
     "app_id": "com.HoYoverse.hkrpgoversea",
     "local_name": "崩壊:スターレイル",
     "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
-    "est_revenue": 1205635,
-    "est_revenue_fmt": "$1.2M",
+    "est_revenue": 1301413,
+    "est_revenue_fmt": "$1.3M",
     "est_revenue_won": "37.8억",
-    "est_revenue_krw": 1650038060
+    "est_revenue_krw": 1781120308
+  },
+  {
+    "rank": 22,
+    "title": "Tasty Travels: Merge Game",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "com.fatmerge.global",
+    "local_name": "Tasty Travels: Merge Game",
+    "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
+    "est_revenue": 1119670,
+    "est_revenue_fmt": "$1.1M",
+    "est_revenue_won": "35.8억",
+    "est_revenue_krw": 1532385933
   },
   {
     "rank": 23,
@@ -491,20 +491,6 @@
   },
   {
     "rank": 36,
-    "title": "Paranoize",
-    "developer": "ZigZaGame Inc.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.zigzagame.paranoize",
-    "local_name": "Paranoize",
-    "icon": "https://play-lh.googleusercontent.com/7LQtnB1OywAs4z9kyDT5NiAQtoE_TNMU6OdiPAm0znOARQB6lOlxZ7Dq9SQ8kdCvBAsDjGQKzhV2JMHHN2iuQ5g",
-    "est_revenue": 561866,
-    "est_revenue_fmt": "$562K",
-    "est_revenue_won": "20.9억",
-    "est_revenue_krw": 768972603
-  },
-  {
-    "rank": 37,
     "title": "Last Asylum: Plague",
     "developer": "37GAMES GLOBAL",
     "genre": "Game",
@@ -515,6 +501,20 @@
     "est_revenue": 561866,
     "est_revenue_fmt": "$562K",
     "est_revenue_won": "17.8억",
+    "est_revenue_krw": 768972603
+  },
+  {
+    "rank": 37,
+    "title": "Paranoize",
+    "developer": "ZigZaGame Inc.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.zigzagame.paranoize",
+    "local_name": "Paranoize",
+    "icon": "https://play-lh.googleusercontent.com/7LQtnB1OywAs4z9kyDT5NiAQtoE_TNMU6OdiPAm0znOARQB6lOlxZ7Dq9SQ8kdCvBAsDjGQKzhV2JMHHN2iuQ5g",
+    "est_revenue": 561866,
+    "est_revenue_fmt": "$562K",
+    "est_revenue_won": "20.9억",
     "est_revenue_krw": 768972603
   },
   {
@@ -533,20 +533,6 @@
   },
   {
     "rank": 39,
-    "title": "Last Z: Survival Shooter",
-    "developer": "Omnilojo Pte Ltd",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.readygo.barrel.gp",
-    "local_name": "Last Z: Survival Shooter",
-    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
-    "est_revenue": 510311,
-    "est_revenue_fmt": "$510K",
-    "est_revenue_won": "18.5억",
-    "est_revenue_krw": 698414174
-  },
-  {
-    "rank": 40,
     "title": "ドラゴンボールZ ドッカンバトル",
     "developer": "Bandai Namco Entertainment Inc.",
     "genre": "Game",
@@ -558,6 +544,20 @@
     "est_revenue_fmt": "$510K",
     "est_revenue_won": "20.0억",
     "est_revenue_krw": 698414174
+  },
+  {
+    "rank": 40,
+    "title": "Last Z: Survival Shooter",
+    "developer": "Omnilojo Pte Ltd",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.readygo.barrel.gp",
+    "local_name": "Last Z: Survival Shooter",
+    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
+    "est_revenue": 509708,
+    "est_revenue_fmt": "$510K",
+    "est_revenue_won": "18.5억",
+    "est_revenue_krw": 697588905
   },
   {
     "rank": 41,
