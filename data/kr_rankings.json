@@ -550,7 +550,7 @@
     "title": "Mystery Town: Merge Games",
     "developer": "Cedar Games Studio",
     "genre": "Game",
-    "rating": 4.8,
+    "rating": 4.9,
     "app_id": "com.cedargames.mysterytown",
     "local_name": "미스터리 타운",
     "icon": "https://play-lh.googleusercontent.com/uVjVMEJrhT-xRoUtKIUj8tOVSbCWw4IsRHaTDYICRNjQycUj6SucVpeoAPiNZWeJ5JuzIt_ZZRo1X1pW6XJFAQE",
@@ -603,20 +603,6 @@
   },
   {
     "rank": 44,
-    "title": "뮤 모나크2",
-    "developer": "Webzen Inc.",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.webzen.mumonarch2.google",
-    "local_name": "뮤 모나크2",
-    "icon": "https://play-lh.googleusercontent.com/qnZL-Cen0ZiuBaJFSRkJsW1shxOLzMjGnZUDFRvnPit9WizZ3TiHrq2BFJwtDcnFO-Qk1M4wdxf4gVVZ0fta3g",
-    "est_revenue": 203992,
-    "est_revenue_fmt": "$204K",
-    "est_revenue_won": "3.5억",
-    "est_revenue_krw": 279184466
-  },
-  {
-    "rank": 45,
     "title": "Zombie High School",
     "developer": "AWESOMEPIECE",
     "genre": "Game",
@@ -627,6 +613,20 @@
     "est_revenue": 203992,
     "est_revenue_fmt": "$204K",
     "est_revenue_won": "4.8억",
+    "est_revenue_krw": 279184466
+  },
+  {
+    "rank": 45,
+    "title": "뮤 모나크2",
+    "developer": "Webzen Inc.",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.webzen.mumonarch2.google",
+    "local_name": "뮤 모나크2",
+    "icon": "https://play-lh.googleusercontent.com/qnZL-Cen0ZiuBaJFSRkJsW1shxOLzMjGnZUDFRvnPit9WizZ3TiHrq2BFJwtDcnFO-Qk1M4wdxf4gVVZ0fta3g",
+    "est_revenue": 203992,
+    "est_revenue_fmt": "$204K",
+    "est_revenue_won": "3.5억",
     "est_revenue_krw": 279184466
   },
   {
