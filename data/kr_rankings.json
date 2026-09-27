@@ -239,20 +239,6 @@
   },
   {
     "rank": 18,
-    "title": "FC 모바일",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 2.8,
-    "app_id": "com.nexon.fmk",
-    "local_name": "FC 모바일",
-    "icon": "https://play-lh.googleusercontent.com/VKo4cXzxFpu7d5ua0Exk9QB7B7wz8ePAON_Km1lkIowLCf4kpww9alW6HUy-kQ50Kimy86PG1ivGFhayc7hb",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "16.1억",
-    "est_revenue_krw": 2442685714
-  },
-  {
-    "rank": 19,
     "title": "GODDESS OF VICTORY: NIKKE",
     "developer": "Level Infinite",
     "genre": "Game",
@@ -264,6 +250,20 @@
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "17.3억",
     "est_revenue_krw": 2442685714
+  },
+  {
+    "rank": 19,
+    "title": "FC 모바일",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 2.8,
+    "app_id": "com.nexon.fmk",
+    "local_name": "FC 모바일",
+    "icon": "https://play-lh.googleusercontent.com/VKo4cXzxFpu7d5ua0Exk9QB7B7wz8ePAON_Km1lkIowLCf4kpww9alW6HUy-kQ50Kimy86PG1ivGFhayc7hb",
+    "est_revenue": 988787,
+    "est_revenue_fmt": "$989K",
+    "est_revenue_won": "16.1억",
+    "est_revenue_krw": 1341831044
   },
   {
     "rank": 20,
@@ -561,34 +561,6 @@
   },
   {
     "rank": 41,
-    "title": "Hollywood Merge",
-    "developer": "VoyagerOne IE",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.hollywood.merge",
-    "local_name": "할리우드 머지",
-    "icon": "https://play-lh.googleusercontent.com/5mzN7_uKeXNnloF-zlXGxiwKuepToEdRwbFUK_aQqk7ORLUGPsMwQK__J9IL9DBMWty-zuLvZ4FYHikK2xCttIw",
-    "est_revenue": 222881,
-    "est_revenue_fmt": "$223K",
-    "est_revenue_won": "4.2억",
-    "est_revenue_krw": 302460130
-  },
-  {
-    "rank": 42,
-    "title": "Pokémon GO",
-    "developer": "Scopely Explore, Inc.",
-    "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.nianticlabs.pokemongo",
-    "local_name": "포켓몬 GO",
-    "icon": "https://play-lh.googleusercontent.com/DUA40mf0fd6lUkU_Pvfw78BOoY37nPNM5tKw0tf4sCqzJfNwR84wqj-J00WN99QaZ89SpruNsU1xX7sDw6uBZg",
-    "est_revenue": 222881,
-    "est_revenue_fmt": "$223K",
-    "est_revenue_won": "4.0억",
-    "est_revenue_krw": 302460130
-  },
-  {
-    "rank": 43,
     "title": "뮤 모나크2",
     "developer": "Webzen Inc.",
     "genre": "Game",
@@ -596,10 +568,38 @@
     "app_id": "com.webzen.mumonarch2.google",
     "local_name": "뮤 모나크2",
     "icon": "https://play-lh.googleusercontent.com/qnZL-Cen0ZiuBaJFSRkJsW1shxOLzMjGnZUDFRvnPit9WizZ3TiHrq2BFJwtDcnFO-Qk1M4wdxf4gVVZ0fta3g",
-    "est_revenue": 222881,
-    "est_revenue_fmt": "$223K",
+    "est_revenue": 233251,
+    "est_revenue_fmt": "$233K",
     "est_revenue_won": "4.4억",
-    "est_revenue_krw": 302460130
+    "est_revenue_krw": 316532714
+  },
+  {
+    "rank": 42,
+    "title": "Hollywood Merge",
+    "developer": "VoyagerOne IE",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.hollywood.merge",
+    "local_name": "할리우드 머지",
+    "icon": "https://play-lh.googleusercontent.com/5mzN7_uKeXNnloF-zlXGxiwKuepToEdRwbFUK_aQqk7ORLUGPsMwQK__J9IL9DBMWty-zuLvZ4FYHikK2xCttIw",
+    "est_revenue": 213144,
+    "est_revenue_fmt": "$213K",
+    "est_revenue_won": "4.2억",
+    "est_revenue_krw": 289246558
+  },
+  {
+    "rank": 43,
+    "title": "Pokémon GO",
+    "developer": "Scopely Explore, Inc.",
+    "genre": "Game",
+    "rating": 3.8,
+    "app_id": "com.nianticlabs.pokemongo",
+    "local_name": "포켓몬 GO",
+    "icon": "https://play-lh.googleusercontent.com/DUA40mf0fd6lUkU_Pvfw78BOoY37nPNM5tKw0tf4sCqzJfNwR84wqj-J00WN99QaZ89SpruNsU1xX7sDw6uBZg",
+    "est_revenue": 213144,
+    "est_revenue_fmt": "$213K",
+    "est_revenue_won": "4.0억",
+    "est_revenue_krw": 289246558
   },
   {
     "rank": 44,
