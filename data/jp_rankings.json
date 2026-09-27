@@ -218,10 +218,10 @@
     "app_id": "game.qualiarts.hololive.dreams.jp",
     "local_name": "ホロライブドリームス",
     "icon": "https://play-lh.googleusercontent.com/j00IPpPSDv3cGqoKVIDf0qnCw6EbZQ4KpgMr10UWkf8Rm1qO9vCSoVhJwfCF1PbbKxV_Qt_eqZ_Sp4QMHuhwYBI",
-    "est_revenue": 8358765,
-    "est_revenue_fmt": "$8.4M",
+    "est_revenue": 8186638,
+    "est_revenue_fmt": "$8.2M",
     "est_revenue_won": "51.2억",
-    "est_revenue_krw": 11343242141
+    "est_revenue_krw": 11109657606
   },
   {
     "rank": 17,
@@ -232,10 +232,10 @@
     "app_id": "com.nianticlabs.pokemongo",
     "local_name": "Pokémon GO",
     "icon": "https://play-lh.googleusercontent.com/DUA40mf0fd6lUkU_Pvfw78BOoY37nPNM5tKw0tf4sCqzJfNwR84wqj-J00WN99QaZ89SpruNsU1xX7sDw6uBZg",
-    "est_revenue": 7638746,
-    "est_revenue_fmt": "$7.6M",
+    "est_revenue": 7336635,
+    "est_revenue_fmt": "$7.3M",
     "est_revenue_won": "47.9억",
-    "est_revenue_krw": 10366142071
+    "est_revenue_krw": 9956163058
   },
   {
     "rank": 18,
@@ -246,27 +246,13 @@
     "app_id": "com.HoYoverse.hkrpgoversea",
     "local_name": "崩壊:スターレイル",
     "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
-    "est_revenue": 7016793,
-    "est_revenue_fmt": "$7.0M",
+    "est_revenue": 6616226,
+    "est_revenue_fmt": "$6.6M",
     "est_revenue_won": "44.9억",
-    "est_revenue_krw": 9522122234
+    "est_revenue_krw": 8978533740
   },
   {
     "rank": 19,
-    "title": "Gardenscapes",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.playrix.gardenscapes",
-    "local_name": "Gardenscapes",
-    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
-    "est_revenue": 6475152,
-    "est_revenue_fmt": "$6.5M",
-    "est_revenue_won": "42.3억",
-    "est_revenue_krw": 8787089604
-  },
-  {
-    "rank": 20,
     "title": "eFootball™",
     "developer": "KONAMI",
     "genre": "Game",
@@ -280,7 +266,7 @@
     "est_revenue_krw": 8142285714
   },
   {
-    "rank": 21,
+    "rank": 20,
     "title": "Tasty Travels: Merge Game",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -288,27 +274,27 @@
     "app_id": "com.fatmerge.global",
     "local_name": "Tasty Travels: Merge Game",
     "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
+    "est_revenue": 1301413,
+    "est_revenue_fmt": "$1.3M",
+    "est_revenue_won": "37.8억",
+    "est_revenue_krw": 1766079413
+  },
+  {
+    "rank": 21,
+    "title": "Gardenscapes",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.playrix.gardenscapes",
+    "local_name": "Gardenscapes",
+    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
     "est_revenue": 1205635,
     "est_revenue_fmt": "$1.2M",
-    "est_revenue_won": "37.8억",
+    "est_revenue_won": "42.3억",
     "est_revenue_krw": 1636104106
   },
   {
     "rank": 22,
-    "title": "Township",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.playrix.township",
-    "local_name": "Township",
-    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
-    "est_revenue": 1119670,
-    "est_revenue_fmt": "$1.1M",
-    "est_revenue_won": "35.8억",
-    "est_revenue_krw": 1519445508
-  },
-  {
-    "rank": 23,
     "title": "LINE Pokopoko",
     "developer": "LINE (LY Corporation)",
     "genre": "Game",
@@ -316,13 +302,13 @@
     "app_id": "com.linecorp.LGPKPK",
     "local_name": "LINE Pokopoko",
     "icon": "https://play-lh.googleusercontent.com/tXW7sirumTEVg81135lskQjy5Z33oUIC0mWyFvtvKxROp82FdZCI0sf9VGLgjixwTM6vtWk9lh0gLQaGVZ5i2Eg",
-    "est_revenue": 1042230,
-    "est_revenue_fmt": "$1.0M",
+    "est_revenue": 1119670,
+    "est_revenue_fmt": "$1.1M",
     "est_revenue_won": "34.0억",
-    "est_revenue_krw": 1414355740
+    "est_revenue_krw": 1519445508
   },
   {
-    "rank": 24,
+    "rank": 23,
     "title": "プロ野球スピリッツA",
     "developer": "KONAMI",
     "genre": "Game",
@@ -330,13 +316,13 @@
     "app_id": "jp.konami.prospia",
     "local_name": "プロ野球スピリッツA",
     "icon": "https://play-lh.googleusercontent.com/F0IB7v9CufHt5hKPRfXC9WS7tOUunAuCD3_JtdMJTtlhkG93qwmNCg6Cbcbf10aipCZZ3rv82QA-6REtVaVLHD8",
-    "est_revenue": 1042230,
-    "est_revenue_fmt": "$1.0M",
+    "est_revenue": 1119670,
+    "est_revenue_fmt": "$1.1M",
     "est_revenue_won": "32.4억",
-    "est_revenue_krw": 1414355740
+    "est_revenue_krw": 1519445508
   },
   {
-    "rank": 25,
+    "rank": 24,
     "title": "にゃんこ大戦争",
     "developer": "PONOS Corporation",
     "genre": "Game",
@@ -344,10 +330,24 @@
     "app_id": "jp.co.ponos.battlecats",
     "local_name": "にゃんこ大戦争",
     "icon": "https://play-lh.googleusercontent.com/_zq2tHsoecoSDTyxqZr9VdehQ2If63W2YXKzM10feM192S9uLsY7RNWOyKN5UXAWQL3bSBnC2tIp5bvlBNmn8Q",
-    "est_revenue": 1042230,
-    "est_revenue_fmt": "$1.0M",
+    "est_revenue": 1119670,
+    "est_revenue_fmt": "$1.1M",
     "est_revenue_won": "30.9억",
-    "est_revenue_krw": 1414355740
+    "est_revenue_krw": 1519445508
+  },
+  {
+    "rank": 25,
+    "title": "Township",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.playrix.township",
+    "local_name": "Township",
+    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
+    "est_revenue": 908753,
+    "est_revenue_fmt": "$909K",
+    "est_revenue_won": "35.8억",
+    "est_revenue_krw": 1233221095
   },
   {
     "rank": 26,
