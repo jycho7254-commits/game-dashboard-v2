@@ -85,20 +85,6 @@
   },
   {
     "rank": 7,
-    "title": "MapleStory : Idle RPG",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.nexon.ma",
-    "local_name": "메이플스토리: 모바일",
-    "icon": "https://play-lh.googleusercontent.com/VKzgyaBMxhdjOfgfRuJobcjnMkoWVxB9KCQpoPOcb0S4lltYv55Zi2fClECBPWMaAzm74buXQW7X6CO344sD",
-    "est_revenue": 6954603,
-    "est_revenue_fmt": "$7.0M",
-    "est_revenue_won": "46.2억",
-    "est_revenue_krw": 9437727442
-  },
-  {
-    "rank": 8,
     "title": "SOL: enchant",
     "developer": "Netmarble",
     "genre": "Game",
@@ -109,6 +95,20 @@
     "est_revenue": 6954603,
     "est_revenue_fmt": "$7.0M",
     "est_revenue_won": "41.6억",
+    "est_revenue_krw": 9437727442
+  },
+  {
+    "rank": 8,
+    "title": "MapleStory : Idle RPG",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.nexon.ma",
+    "local_name": "메이플스토리: 모바일",
+    "icon": "https://play-lh.googleusercontent.com/VKzgyaBMxhdjOfgfRuJobcjnMkoWVxB9KCQpoPOcb0S4lltYv55Zi2fClECBPWMaAzm74buXQW7X6CO344sD",
+    "est_revenue": 6954603,
+    "est_revenue_fmt": "$7.0M",
+    "est_revenue_won": "46.2억",
     "est_revenue_krw": 9437727442
   },
   {
@@ -351,20 +351,6 @@
   },
   {
     "rank": 26,
-    "title": "Gardenscapes",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.playrix.gardenscapes",
-    "local_name": "가든스케이프",
-    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
-    "est_revenue": 491879,
-    "est_revenue_fmt": "$492K",
-    "est_revenue_won": "10.0억",
-    "est_revenue_krw": 667503226
-  },
-  {
-    "rank": 27,
     "title": "로그W : 리메인즈 오브 갓",
     "developer": "Efun Company",
     "genre": "Game",
@@ -372,13 +358,13 @@
     "app_id": "com.krd8.google",
     "local_name": "로그W : 리메인즈 오브 갓",
     "icon": "https://play-lh.googleusercontent.com/wPufQAobuu_bMHJyHAmyZLteiFXFFfGyr_II-agf6JMw518mjIbDzFdR3LXbuKvT12TQ2kPvjRvLN-nyJ8NAyA",
-    "est_revenue": 491879,
-    "est_revenue_fmt": "$492K",
+    "est_revenue": 524118,
+    "est_revenue_fmt": "$524K",
     "est_revenue_won": "8.9억",
-    "est_revenue_krw": 667503226
+    "est_revenue_krw": 711253084
   },
   {
-    "rank": 28,
+    "rank": 27,
     "title": "컴투스프로야구V26",
     "developer": "Com2uS",
     "genre": "Game",
@@ -386,13 +372,13 @@
     "app_id": "com.com2us.futurecpb.android.google.global.normal",
     "local_name": "컴투스프로야구V26",
     "icon": "https://play-lh.googleusercontent.com/lFrail_ogSgoETUZcsAgLG7gC4lvjcOdffEURRt5kTAaIbr3pdm7s7hrIQNMl-jTu_Hbw7NDuU9gpJZDRsqY",
-    "est_revenue": 491879,
-    "est_revenue_fmt": "$492K",
+    "est_revenue": 524118,
+    "est_revenue_fmt": "$524K",
     "est_revenue_won": "9.4억",
-    "est_revenue_krw": 667503226
+    "est_revenue_krw": 711253084
   },
   {
-    "rank": 29,
+    "rank": 28,
     "title": "Last Z: Survival Shooter",
     "developer": "Omnilojo Pte Ltd",
     "genre": "Game",
@@ -400,10 +386,24 @@
     "app_id": "com.readygo.barrel.gp",
     "local_name": "라스트 Z: 서바이벌 슈터",
     "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
-    "est_revenue": 491879,
-    "est_revenue_fmt": "$492K",
+    "est_revenue": 524118,
+    "est_revenue_fmt": "$524K",
     "est_revenue_won": "8.0억",
-    "est_revenue_krw": 667503226
+    "est_revenue_krw": 711253084
+  },
+  {
+    "rank": 29,
+    "title": "Gardenscapes",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.playrix.gardenscapes",
+    "local_name": "가든스케이프",
+    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
+    "est_revenue": 410579,
+    "est_revenue_fmt": "$411K",
+    "est_revenue_won": "10.0억",
+    "est_revenue_krw": 557175254
   },
   {
     "rank": 30,
@@ -414,10 +414,10 @@
     "app_id": "com.nhnent.pokerclassic",
     "local_name": "한게임 포커 클래식",
     "icon": "https://play-lh.googleusercontent.com/Hv-D0Heegr2EW_eyGcfNv-HzI_WRrjxMqnN575pY17XaRfXA4wjmAtTwWsO_ON6WqVtTP0ajH2bKKRDx6CNXhQ",
-    "est_revenue": 433346,
-    "est_revenue_fmt": "$433K",
+    "est_revenue": 410579,
+    "est_revenue_fmt": "$411K",
     "est_revenue_won": "8.4억",
-    "est_revenue_krw": 588071158
+    "est_revenue_krw": 557175254
   },
   {
     "rank": 31,
@@ -428,10 +428,10 @@
     "app_id": "com.gamespark.topking.gp",
     "local_name": "Top Lords",
     "icon": "https://play-lh.googleusercontent.com/F9Nk01jBia2OZFGndBuTP-rJ-ThbicTHpxJj3iZIk-M1-V8qFhVuVQWYAG_zCuggkiRXHrfqyU5XwZPhAJyAfA",
-    "est_revenue": 431351,
-    "est_revenue_fmt": "$431K",
+    "est_revenue": 410579,
+    "est_revenue_fmt": "$411K",
     "est_revenue_won": "7.5억",
-    "est_revenue_krw": 585363848
+    "est_revenue_krw": 557175254
   },
   {
     "rank": 32,
@@ -659,20 +659,6 @@
   },
   {
     "rank": 48,
-    "title": "Homescapes",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.playrix.homescapes",
-    "local_name": "홈스케이프",
-    "icon": "https://play-lh.googleusercontent.com/98F-rCvO3NbMvijqi_bRDAt4x9y3sBbTffMFxK0iOn8W0SlFqs7BkmKE9UsqgPH07yDNj2B2IrKeoYGjvGGYcHU",
-    "est_revenue": 165567,
-    "est_revenue_fmt": "$166K",
-    "est_revenue_won": "3.2억",
-    "est_revenue_krw": 224682303
-  },
-  {
-    "rank": 49,
     "title": "I9: 인페르노 나인",
     "developer": "Leniu Technology Co., Limited",
     "genre": "Game",
@@ -680,13 +666,13 @@
     "app_id": "com.kr.firegp",
     "local_name": "I9: 인페르노 나인",
     "icon": "https://play-lh.googleusercontent.com/jZ0P5ZxOE4VorYhs9QmbcxzXi7VYiNqh4I5YlO2JXUdh_5D80ymAagbYxjtP6pGnU_7f_W0gWUVWUm9mIkCI5A",
-    "est_revenue": 165567,
-    "est_revenue_fmt": "$166K",
+    "est_revenue": 195380,
+    "est_revenue_fmt": "$195K",
     "est_revenue_won": "3.0억",
-    "est_revenue_krw": 224682303
+    "est_revenue_krw": 265139964
   },
   {
-    "rank": 50,
+    "rank": 49,
     "title": "EA SPORTS FC Online M",
     "developer": "NEXON Company",
     "genre": "Game",
@@ -694,9 +680,23 @@
     "app_id": "com.nexon.fo4m",
     "local_name": "FC 온라인 M",
     "icon": "https://play-lh.googleusercontent.com/3kHUd_bPqo2Mz00jcm8gxIjgawGnkg1w7V1KZfQ-UalXUj8QrLwqmGxpUNniLQ4o3exMUCl_lKa5KOolaOqBFdo",
-    "est_revenue": 165567,
-    "est_revenue_fmt": "$166K",
+    "est_revenue": 195380,
+    "est_revenue_fmt": "$195K",
     "est_revenue_won": "3.1억",
-    "est_revenue_krw": 224682303
+    "est_revenue_krw": 265139964
+  },
+  {
+    "rank": 50,
+    "title": "CookieRun: Kingdom",
+    "developer": "Devsisters Corporation",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.devsisters.ck",
+    "local_name": "CookieRun: Kingdom",
+    "icon": "https://play-lh.googleusercontent.com/J1zzZf_Clyg51sikuBbfTMD_sGVK64Ki5vyVtn3MmkUUzQ-AxKWq2-WuVDnpkrpai6Icun3wXspttadNAxy4djI",
+    "est_revenue": 180000,
+    "est_revenue_fmt": "$180K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 244268571
   }
 ]
