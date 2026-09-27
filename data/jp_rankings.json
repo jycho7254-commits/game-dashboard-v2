@@ -365,20 +365,6 @@
   },
   {
     "rank": 27,
-    "title": "ブルーアーカイブ",
-    "developer": "Yostar, Inc.",
-    "genre": "Game",
-    "rating": 3.1,
-    "app_id": "com.YostarJP.BlueArchive",
-    "local_name": "ブルーアーカイブ",
-    "icon": "https://play-lh.googleusercontent.com/H975s6W1-boCSogzpF5_rIyawbjiXfG842ncgjIRiVGzhXHFTCVut0DkBhlDR4CgN1nn98OOC1fWN-LE7kUHnQ",
-    "est_revenue": 851020,
-    "est_revenue_fmt": "$851K",
-    "est_revenue_won": "25.0억",
-    "est_revenue_krw": 1154874665
-  },
-  {
-    "rank": 28,
     "title": "デュエル・マスターズ プレイス",
     "developer": "TOMY COMPANY,LTD.",
     "genre": "Game",
@@ -389,6 +375,20 @@
     "est_revenue": 851020,
     "est_revenue_fmt": "$851K",
     "est_revenue_won": "23.8억",
+    "est_revenue_krw": 1154874665
+  },
+  {
+    "rank": 28,
+    "title": "ブルーアーカイブ",
+    "developer": "Yostar, Inc.",
+    "genre": "Game",
+    "rating": 3.1,
+    "app_id": "com.YostarJP.BlueArchive",
+    "local_name": "ブルーアーカイブ",
+    "icon": "https://play-lh.googleusercontent.com/H975s6W1-boCSogzpF5_rIyawbjiXfG842ncgjIRiVGzhXHFTCVut0DkBhlDR4CgN1nn98OOC1fWN-LE7kUHnQ",
+    "est_revenue": 851020,
+    "est_revenue_fmt": "$851K",
+    "est_revenue_won": "25.0억",
     "est_revenue_krw": 1154874665
   },
   {
@@ -673,13 +673,13 @@
   },
   {
     "rank": 49,
-    "title": "Monster Hunter Now",
-    "developer": "Scopely Explore, Inc.",
+    "title": "ディズニー ツイステッドワンダーランド",
+    "developer": "Aniplex Inc.",
     "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.nianticlabs.monsterhunter",
-    "local_name": "Monster Hunter Now",
-    "icon": "https://play-lh.googleusercontent.com/qG_xXqTT3qV7UuRLBDY5HpR5Mx9NwMf98I1Kpp7fSKhMY8uu13I7ivwGoLZ0qQ9821U7mhDrM_7EhMHtAjJCGA",
+    "rating": 4.6,
+    "app_id": "com.aniplex.twst.jp",
+    "local_name": "ディズニー ツイステッドワンダーランド",
+    "icon": "https://play-lh.googleusercontent.com/MWl3p8AK5JePFPbozr-mbGUNYqBTupUJTUg5QBalXhkXUlNaaRxoFC9_3fthp0aPUTSQgaRFLTPYWJgLGRAk7Ro",
     "est_revenue": 312356,
     "est_revenue_fmt": "$312K",
     "est_revenue_won": "",
@@ -687,16 +687,16 @@
   },
   {
     "rank": 50,
-    "title": "ドラゴンクエストスマッシュグロウ ドラクエローグライトRPG",
-    "developer": "SQUARE ENIX Co.,Ltd.",
+    "title": "Monster Hunter Now",
+    "developer": "Scopely Explore, Inc.",
     "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.square_enix.android_googleplay.dqsgj",
-    "local_name": "ドラゴンクエストスマッシュグロウ ドラクエローグライトRPG",
-    "icon": "https://play-lh.googleusercontent.com/1sdqXY812mSKhGAdlb__4rqDj3PnFxhBgLuqWzPzu83sN0ap6wniQMlk0bVj-Nmjo1LDh_6rsfSCTHt1VlSyGg",
-    "est_revenue": 312356,
-    "est_revenue_fmt": "$312K",
+    "rating": 4.3,
+    "app_id": "com.nianticlabs.monsterhunter",
+    "local_name": "Monster Hunter Now",
+    "icon": "https://play-lh.googleusercontent.com/qG_xXqTT3qV7UuRLBDY5HpR5Mx9NwMf98I1Kpp7fSKhMY8uu13I7ivwGoLZ0qQ9821U7mhDrM_7EhMHtAjJCGA",
+    "est_revenue": 300000,
+    "est_revenue_fmt": "$300K",
     "est_revenue_won": "",
-    "est_revenue_krw": 423881966
+    "est_revenue_krw": 407114286
   }
 ]
