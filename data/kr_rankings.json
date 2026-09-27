@@ -449,20 +449,6 @@
   },
   {
     "rank": 33,
-    "title": "Limbus Company",
-    "developer": "Project Moon",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.ProjectMoon.LimbusCompany",
-    "local_name": "림버스 컴퍼니",
-    "icon": "https://play-lh.googleusercontent.com/mnqUeIK2w48bqiVf9w3h-6w0SuHrwx1Xh5DFhHHjgcu9x29qGIzs4EO9QeWtmZ42YzPOC29uU2Q73h25Nz9PCQ",
-    "est_revenue": 347157,
-    "est_revenue_fmt": "$347K",
-    "est_revenue_won": "6.7억",
-    "est_revenue_krw": 471108580
-  },
-  {
-    "rank": 34,
     "title": "Wild Water World",
     "developer": "Hong Kong Just Game Technology Limited",
     "genre": "Game",
@@ -473,6 +459,20 @@
     "est_revenue": 347157,
     "est_revenue_fmt": "$347K",
     "est_revenue_won": "6.3억",
+    "est_revenue_krw": 471108580
+  },
+  {
+    "rank": 34,
+    "title": "Limbus Company",
+    "developer": "Project Moon",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.ProjectMoon.LimbusCompany",
+    "local_name": "림버스 컴퍼니",
+    "icon": "https://play-lh.googleusercontent.com/mnqUeIK2w48bqiVf9w3h-6w0SuHrwx1Xh5DFhHHjgcu9x29qGIzs4EO9QeWtmZ42YzPOC29uU2Q73h25Nz9PCQ",
+    "est_revenue": 347157,
+    "est_revenue_fmt": "$347K",
+    "est_revenue_won": "6.7억",
     "est_revenue_krw": 471108580
   },
   {
@@ -690,7 +690,7 @@
     "title": "EA SPORTS FC Online M",
     "developer": "NEXON Company",
     "genre": "Game",
-    "rating": 2.3,
+    "rating": 2.2,
     "app_id": "com.nexon.fo4m",
     "local_name": "FC 온라인 M",
     "icon": "https://play-lh.googleusercontent.com/3kHUd_bPqo2Mz00jcm8gxIjgawGnkg1w7V1KZfQ-UalXUj8QrLwqmGxpUNniLQ4o3exMUCl_lKa5KOolaOqBFdo",
