@@ -57,20 +57,6 @@
   },
   {
     "rank": 5,
-    "title": "Kingshot",
-    "developer": "Century Games PTE. LTD.",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.run.tower.defense",
-    "local_name": "킹샷",
-    "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
-    "est_revenue": 6954603,
-    "est_revenue_fmt": "$7.0M",
-    "est_revenue_won": "60.0억",
-    "est_revenue_krw": 9437727442
-  },
-  {
-    "rank": 6,
     "title": "Roblox",
     "developer": "Roblox Corporation",
     "genre": "Game",
@@ -81,6 +67,20 @@
     "est_revenue": 6954603,
     "est_revenue_fmt": "$7.0M",
     "est_revenue_won": "46.2억",
+    "est_revenue_krw": 9437727442
+  },
+  {
+    "rank": 6,
+    "title": "Kingshot",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.run.tower.defense",
+    "local_name": "킹샷",
+    "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
+    "est_revenue": 6954603,
+    "est_revenue_fmt": "$7.0M",
+    "est_revenue_won": "60.0억",
     "est_revenue_krw": 9437727442
   },
   {
@@ -365,6 +365,20 @@
   },
   {
     "rank": 27,
+    "title": "컴투스프로야구V26",
+    "developer": "Com2uS",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.com2us.futurecpb.android.google.global.normal",
+    "local_name": "컴투스프로야구V26",
+    "icon": "https://play-lh.googleusercontent.com/lFrail_ogSgoETUZcsAgLG7gC4lvjcOdffEURRt5kTAaIbr3pdm7s7hrIQNMl-jTu_Hbw7NDuU9gpJZDRsqY",
+    "est_revenue": 491879,
+    "est_revenue_fmt": "$492K",
+    "est_revenue_won": "8.0억",
+    "est_revenue_krw": 667503226
+  },
+  {
+    "rank": 28,
     "title": "로그W : 리메인즈 오브 갓",
     "developer": "Efun Company",
     "genre": "Game",
@@ -378,7 +392,7 @@
     "est_revenue_krw": 667503226
   },
   {
-    "rank": 28,
+    "rank": 29,
     "title": "한게임포커 클래식 : 7포커 홀덤 섯다 훌라 슬롯",
     "developer": "NHN Corp.",
     "genre": "Game",
@@ -386,13 +400,13 @@
     "app_id": "com.nhnent.pokerclassic",
     "local_name": "한게임 포커 클래식",
     "icon": "https://play-lh.googleusercontent.com/Hv-D0Heegr2EW_eyGcfNv-HzI_WRrjxMqnN575pY17XaRfXA4wjmAtTwWsO_ON6WqVtTP0ajH2bKKRDx6CNXhQ",
-    "est_revenue": 486618,
-    "est_revenue_fmt": "$487K",
+    "est_revenue": 458883,
+    "est_revenue_fmt": "$459K",
     "est_revenue_won": "8.9억",
-    "est_revenue_krw": 660363798
+    "est_revenue_krw": 622726083
   },
   {
-    "rank": 29,
+    "rank": 30,
     "title": "Last Z: Survival Shooter",
     "developer": "Omnilojo Pte Ltd",
     "genre": "Game",
@@ -400,69 +414,13 @@
     "app_id": "com.readygo.barrel.gp",
     "local_name": "라스트 Z: 서바이벌 슈터",
     "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
-    "est_revenue": 486618,
-    "est_revenue_fmt": "$487K",
+    "est_revenue": 458883,
+    "est_revenue_fmt": "$459K",
     "est_revenue_won": "8.4억",
-    "est_revenue_krw": 660363798
-  },
-  {
-    "rank": 30,
-    "title": "컴투스프로야구V26",
-    "developer": "Com2uS",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.com2us.futurecpb.android.google.global.normal",
-    "local_name": "컴투스프로야구V26",
-    "icon": "https://play-lh.googleusercontent.com/lFrail_ogSgoETUZcsAgLG7gC4lvjcOdffEURRt5kTAaIbr3pdm7s7hrIQNMl-jTu_Hbw7NDuU9gpJZDRsqY",
-    "est_revenue": 478962,
-    "est_revenue_fmt": "$479K",
-    "est_revenue_won": "8.0억",
-    "est_revenue_krw": 649974242
+    "est_revenue_krw": 622726083
   },
   {
     "rank": 31,
-    "title": "Royal Kingdom",
-    "developer": "Dream Games, Ltd.",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.dreamgames.royalkingdom",
-    "local_name": "로얄 킹덤",
-    "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
-    "est_revenue": 366648,
-    "est_revenue_fmt": "$367K",
-    "est_revenue_won": "7.5억",
-    "est_revenue_krw": 497558795
-  },
-  {
-    "rank": 32,
-    "title": "Limbus Company",
-    "developer": "Project Moon",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.ProjectMoon.LimbusCompany",
-    "local_name": "림버스 컴퍼니",
-    "icon": "https://play-lh.googleusercontent.com/mnqUeIK2w48bqiVf9w3h-6w0SuHrwx1Xh5DFhHHjgcu9x29qGIzs4EO9QeWtmZ42YzPOC29uU2Q73h25Nz9PCQ",
-    "est_revenue": 366648,
-    "est_revenue_fmt": "$367K",
-    "est_revenue_won": "6.7억",
-    "est_revenue_krw": 497558795
-  },
-  {
-    "rank": 33,
-    "title": "Wild Water World",
-    "developer": "Hong Kong Just Game Technology Limited",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.iyagames.flotshelter",
-    "local_name": "Wild Water World",
-    "icon": "https://play-lh.googleusercontent.com/uCLV6eXFTGn7v6rZKKeuKCOG0eY9zrHoibkF_kvGioFHgjtLQnVAKTdLu17TxFRubVehAMWDiW02B7ObqNWhNQ",
-    "est_revenue": 366648,
-    "est_revenue_fmt": "$367K",
-    "est_revenue_won": "6.3억",
-    "est_revenue_krw": 497558795
-  },
-  {
-    "rank": 34,
     "title": "Top Lords",
     "developer": "GAME SPARK",
     "genre": "Game",
@@ -470,10 +428,52 @@
     "app_id": "com.gamespark.topking.gp",
     "local_name": "Top Lords",
     "icon": "https://play-lh.googleusercontent.com/F9Nk01jBia2OZFGndBuTP-rJ-ThbicTHpxJj3iZIk-M1-V8qFhVuVQWYAG_zCuggkiRXHrfqyU5XwZPhAJyAfA",
-    "est_revenue": 366648,
-    "est_revenue_fmt": "$367K",
+    "est_revenue": 431351,
+    "est_revenue_fmt": "$431K",
     "est_revenue_won": "7.1억",
-    "est_revenue_krw": 497558795
+    "est_revenue_krw": 585363848
+  },
+  {
+    "rank": 32,
+    "title": "Royal Kingdom",
+    "developer": "Dream Games, Ltd.",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.dreamgames.royalkingdom",
+    "local_name": "로얄 킹덤",
+    "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
+    "est_revenue": 347157,
+    "est_revenue_fmt": "$347K",
+    "est_revenue_won": "7.5억",
+    "est_revenue_krw": 471108580
+  },
+  {
+    "rank": 33,
+    "title": "Limbus Company",
+    "developer": "Project Moon",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.ProjectMoon.LimbusCompany",
+    "local_name": "림버스 컴퍼니",
+    "icon": "https://play-lh.googleusercontent.com/mnqUeIK2w48bqiVf9w3h-6w0SuHrwx1Xh5DFhHHjgcu9x29qGIzs4EO9QeWtmZ42YzPOC29uU2Q73h25Nz9PCQ",
+    "est_revenue": 347157,
+    "est_revenue_fmt": "$347K",
+    "est_revenue_won": "6.7억",
+    "est_revenue_krw": 471108580
+  },
+  {
+    "rank": 34,
+    "title": "Wild Water World",
+    "developer": "Hong Kong Just Game Technology Limited",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.iyagames.flotshelter",
+    "local_name": "Wild Water World",
+    "icon": "https://play-lh.googleusercontent.com/uCLV6eXFTGn7v6rZKKeuKCOG0eY9zrHoibkF_kvGioFHgjtLQnVAKTdLu17TxFRubVehAMWDiW02B7ObqNWhNQ",
+    "est_revenue": 347157,
+    "est_revenue_fmt": "$347K",
+    "est_revenue_won": "6.3억",
+    "est_revenue_krw": 471108580
   },
   {
     "rank": 35,
@@ -484,10 +484,10 @@
     "app_id": "com.ncsoft.aion2",
     "local_name": "아이온2",
     "icon": "https://play-lh.googleusercontent.com/aqqsbPuYk-dU9f0qnyEkHje_IIchFrOhDQfDXozQbD5_n_Hxi18ja4GyEbNYuFD9inoFBUYfZFWK4zSOjsy8Aw",
-    "est_revenue": 366648,
-    "est_revenue_fmt": "$367K",
+    "est_revenue": 347157,
+    "est_revenue_fmt": "$347K",
     "est_revenue_won": "6.0억",
-    "est_revenue_krw": 497558795
+    "est_revenue_krw": 471108580
   },
   {
     "rank": 36,
@@ -498,10 +498,10 @@
     "app_id": "com.nexon.devcat.mm",
     "local_name": "마비노기 모바일",
     "icon": "https://play-lh.googleusercontent.com/ljE3Q4kOQj0UEjbJoANQpgQ4rxdDvI1h1wARGv6jFgel-5oDIFjfTx2S0nINT8agCEOB_V3C9y61RZFoyLZ4",
-    "est_revenue": 366648,
-    "est_revenue_fmt": "$367K",
+    "est_revenue": 347157,
+    "est_revenue_fmt": "$347K",
     "est_revenue_won": "5.6억",
-    "est_revenue_krw": 497558795
+    "est_revenue_krw": 471108580
   },
   {
     "rank": 37,
@@ -512,10 +512,10 @@
     "app_id": "com.ncsoft.lineagew",
     "local_name": "리니지W",
     "icon": "https://play-lh.googleusercontent.com/VvwlyO5rMOgeedcbDmvBQv-vDoCeHqxBdSHqTrA3xUZAEuRcAwTBznrJBwkj3_xvhUTkLJ4D98RT1fZTtu8W",
-    "est_revenue": 366648,
-    "est_revenue_fmt": "$367K",
+    "est_revenue": 347157,
+    "est_revenue_fmt": "$347K",
     "est_revenue_won": "5.1억",
-    "est_revenue_krw": 497558795
+    "est_revenue_krw": 471108580
   },
   {
     "rank": 38,
