@@ -214,7 +214,7 @@
     "title": "CookieRun: Crumble - Idle RPG",
     "developer": "Devsisters Corporation",
     "genre": "Game",
-    "rating": 4.6,
+    "rating": 4.5,
     "app_id": "com.devsisters.cc",
     "local_name": "쿠키런: 크럼블",
     "icon": "https://play-lh.googleusercontent.com/R_hNz7ccD1tSejB2wpQFRSjTjltS1DMl9-wbuSiNiQqigKTExG6geVk53YFXt_iIvQO0wtY2RBak3_RdjKWv",
@@ -239,6 +239,20 @@
   },
   {
     "rank": 18,
+    "title": "열혈강호: 넥스트",
+    "developer": "Kingnet Technology Limited",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.rxjhglkr.gp",
+    "local_name": "열혈강호: 넥스트",
+    "icon": "https://play-lh.googleusercontent.com/ct9hCP6C7NRwwTT3p-eIRLAJHMYuK2k2kO0tC6nc8YUCwgRos5tOuzfKmflfPOwQdfJiuNHkmifu0lhVcEmY",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "18.6억",
+    "est_revenue_krw": 2440879839
+  },
+  {
+    "rank": 19,
     "title": "GODDESS OF VICTORY: NIKKE",
     "developer": "Level Infinite",
     "genre": "Game",
@@ -252,7 +266,7 @@
     "est_revenue_krw": 2440879839
   },
   {
-    "rank": 19,
+    "rank": 20,
     "title": "Honkai: Star Rail",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -260,24 +274,10 @@
     "app_id": "com.HoYoverse.hkrpgoversea",
     "local_name": "붕괴: 스타레일",
     "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
-    "est_revenue": 1054706,
-    "est_revenue_fmt": "$1.1M",
+    "est_revenue": 977143,
+    "est_revenue_fmt": "$977K",
     "est_revenue_won": "",
-    "est_revenue_krw": 1430228117
-  },
-  {
-    "rank": 20,
-    "title": "열혈강호: 넥스트",
-    "developer": "Kingnet Technology Limited",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.rxjhglkr.gp",
-    "local_name": "열혈강호: 넥스트",
-    "icon": "https://play-lh.googleusercontent.com/ct9hCP6C7NRwwTT3p-eIRLAJHMYuK2k2kO0tC6nc8YUCwgRos5tOuzfKmflfPOwQdfJiuNHkmifu0lhVcEmY",
-    "est_revenue": 1054706,
-    "est_revenue_fmt": "$1.1M",
-    "est_revenue_won": "18.6억",
-    "est_revenue_krw": 1430228117
+    "est_revenue_krw": 1325049249
   },
   {
     "rank": 21,
@@ -435,20 +435,6 @@
   },
   {
     "rank": 32,
-    "title": "한게임포커 클래식 : 7포커 홀덤 섯다 훌라 슬롯",
-    "developer": "NHN Corp.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.nhnent.pokerclassic",
-    "local_name": "한게임 포커 클래식",
-    "icon": "https://play-lh.googleusercontent.com/Hv-D0Heegr2EW_eyGcfNv-HzI_WRrjxMqnN575pY17XaRfXA4wjmAtTwWsO_ON6WqVtTP0ajH2bKKRDx6CNXhQ",
-    "est_revenue": 387731,
-    "est_revenue_fmt": "$388K",
-    "est_revenue_won": "8.0억",
-    "est_revenue_krw": 525780434
-  },
-  {
-    "rank": 33,
     "title": "Top Lords",
     "developer": "GAME SPARK",
     "genre": "Game",
@@ -456,10 +442,24 @@
     "app_id": "com.gamespark.topking.gp",
     "local_name": "Top Lords",
     "icon": "https://play-lh.googleusercontent.com/F9Nk01jBia2OZFGndBuTP-rJ-ThbicTHpxJj3iZIk-M1-V8qFhVuVQWYAG_zCuggkiRXHrfqyU5XwZPhAJyAfA",
-    "est_revenue": 387178,
-    "est_revenue_fmt": "$387K",
+    "est_revenue": 387731,
+    "est_revenue_fmt": "$388K",
     "est_revenue_won": "7.5억",
-    "est_revenue_krw": 525030541
+    "est_revenue_krw": 525780434
+  },
+  {
+    "rank": 33,
+    "title": "한게임포커 클래식 : 7포커 홀덤 섯다 훌라 슬롯",
+    "developer": "NHN Corp.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.nhnent.pokerclassic",
+    "local_name": "한게임 포커 클래식",
+    "icon": "https://play-lh.googleusercontent.com/Hv-D0Heegr2EW_eyGcfNv-HzI_WRrjxMqnN575pY17XaRfXA4wjmAtTwWsO_ON6WqVtTP0ajH2bKKRDx6CNXhQ",
+    "est_revenue": 367820,
+    "est_revenue_fmt": "$368K",
+    "est_revenue_won": "8.0억",
+    "est_revenue_krw": 498780235
   },
   {
     "rank": 34,
@@ -470,10 +470,10 @@
     "app_id": "com.kurogame.wutheringwaves.global",
     "local_name": "명조",
     "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_",
-    "est_revenue": 387178,
-    "est_revenue_fmt": "$387K",
+    "est_revenue": 367820,
+    "est_revenue_fmt": "$368K",
     "est_revenue_won": "5.6억",
-    "est_revenue_krw": 525030541
+    "est_revenue_krw": 498780235
   },
   {
     "rank": 35,
@@ -659,20 +659,6 @@
   },
   {
     "rank": 48,
-    "title": "메이플스토리M",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.nexon.nsc.maplem",
-    "local_name": "메이플스토리M",
-    "icon": "https://play-lh.googleusercontent.com/9o8e9UB2hxKmBZDNFai_vH3UAAoPvVWj6M00kQPccrouhIfFoHd-YrJ4Pbme3H96uMu8_dU3vjChrUxXmY0dxQ",
-    "est_revenue": 179615,
-    "est_revenue_fmt": "$180K",
-    "est_revenue_won": "3.5억",
-    "est_revenue_krw": 243565907
-  },
-  {
-    "rank": 49,
     "title": "CookieRun: Kingdom",
     "developer": "Devsisters Corporation",
     "genre": "Game",
@@ -683,6 +669,20 @@
     "est_revenue": 179615,
     "est_revenue_fmt": "$180K",
     "est_revenue_won": "3.4억",
+    "est_revenue_krw": 243565907
+  },
+  {
+    "rank": 49,
+    "title": "메이플스토리M",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.nexon.nsc.maplem",
+    "local_name": "메이플스토리M",
+    "icon": "https://play-lh.googleusercontent.com/9o8e9UB2hxKmBZDNFai_vH3UAAoPvVWj6M00kQPccrouhIfFoHd-YrJ4Pbme3H96uMu8_dU3vjChrUxXmY0dxQ",
+    "est_revenue": 179615,
+    "est_revenue_fmt": "$180K",
+    "est_revenue_won": "3.5억",
     "est_revenue_krw": 243565907
   },
   {
