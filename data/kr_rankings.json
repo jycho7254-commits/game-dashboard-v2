@@ -533,20 +533,6 @@
   },
   {
     "rank": 39,
-    "title": "마비노기 모바일",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 2.8,
-    "app_id": "com.nexon.devcat.mm",
-    "local_name": "마비노기 모바일",
-    "icon": "https://play-lh.googleusercontent.com/ljE3Q4kOQj0UEjbJoANQpgQ4rxdDvI1h1wARGv6jFgel-5oDIFjfTx2S0nINT8agCEOB_V3C9y61RZFoyLZ4",
-    "est_revenue": 321916,
-    "est_revenue_fmt": "$322K",
-    "est_revenue_won": "7.1억",
-    "est_revenue_krw": 436532375
-  },
-  {
-    "rank": 40,
     "title": "뮤 모나크2",
     "developer": "Webzen Inc.",
     "genre": "Game",
@@ -554,10 +540,24 @@
     "app_id": "com.webzen.mumonarch2.google",
     "local_name": "뮤 모나크2",
     "icon": "https://play-lh.googleusercontent.com/qnZL-Cen0ZiuBaJFSRkJsW1shxOLzMjGnZUDFRvnPit9WizZ3TiHrq2BFJwtDcnFO-Qk1M4wdxf4gVVZ0fta3g",
-    "est_revenue": 321916,
-    "est_revenue_fmt": "$322K",
+    "est_revenue": 331451,
+    "est_revenue_fmt": "$331K",
     "est_revenue_won": "4.4억",
-    "est_revenue_krw": 436532375
+    "est_revenue_krw": 449462258
+  },
+  {
+    "rank": 40,
+    "title": "마비노기 모바일",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 2.8,
+    "app_id": "com.nexon.devcat.mm",
+    "local_name": "마비노기 모바일",
+    "icon": "https://play-lh.googleusercontent.com/ljE3Q4kOQj0UEjbJoANQpgQ4rxdDvI1h1wARGv6jFgel-5oDIFjfTx2S0nINT8agCEOB_V3C9y61RZFoyLZ4",
+    "est_revenue": 307343,
+    "est_revenue_fmt": "$307K",
+    "est_revenue_won": "7.1억",
+    "est_revenue_krw": 416770740
   },
   {
     "rank": 41,
@@ -589,20 +589,6 @@
   },
   {
     "rank": 43,
-    "title": "Pokémon GO",
-    "developer": "Scopely Explore, Inc.",
-    "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.nianticlabs.pokemongo",
-    "local_name": "포켓몬 GO",
-    "icon": "https://play-lh.googleusercontent.com/DUA40mf0fd6lUkU_Pvfw78BOoY37nPNM5tKw0tf4sCqzJfNwR84wqj-J00WN99QaZ89SpruNsU1xX7sDw6uBZg",
-    "est_revenue": 213144,
-    "est_revenue_fmt": "$213K",
-    "est_revenue_won": "5.3억",
-    "est_revenue_krw": 289032718
-  },
-  {
-    "rank": 44,
     "title": "Brawl Stars",
     "developer": "Supercell",
     "genre": "Game",
@@ -613,6 +599,20 @@
     "est_revenue": 213144,
     "est_revenue_fmt": "$213K",
     "est_revenue_won": "",
+    "est_revenue_krw": 289032718
+  },
+  {
+    "rank": 44,
+    "title": "Pokémon GO",
+    "developer": "Scopely Explore, Inc.",
+    "genre": "Game",
+    "rating": 3.8,
+    "app_id": "com.nianticlabs.pokemongo",
+    "local_name": "포켓몬 GO",
+    "icon": "https://play-lh.googleusercontent.com/DUA40mf0fd6lUkU_Pvfw78BOoY37nPNM5tKw0tf4sCqzJfNwR84wqj-J00WN99QaZ89SpruNsU1xX7sDw6uBZg",
+    "est_revenue": 213144,
+    "est_revenue_fmt": "$213K",
+    "est_revenue_won": "5.3억",
     "est_revenue_krw": 289032718
   },
   {
