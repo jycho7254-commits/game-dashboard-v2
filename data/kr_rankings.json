@@ -214,7 +214,7 @@
     "title": "CookieRun: Crumble - Idle RPG",
     "developer": "Devsisters Corporation",
     "genre": "Game",
-    "rating": 4.6,
+    "rating": 4.5,
     "app_id": "com.devsisters.cc",
     "local_name": "쿠키런: 크럼블",
     "icon": "https://play-lh.googleusercontent.com/R_hNz7ccD1tSejB2wpQFRSjTjltS1DMl9-wbuSiNiQqigKTExG6geVk53YFXt_iIvQO0wtY2RBak3_RdjKWv",
@@ -337,20 +337,6 @@
   },
   {
     "rank": 25,
-    "title": "Gardenscapes",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.playrix.gardenscapes",
-    "local_name": "가든스케이프",
-    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
-    "est_revenue": 524118,
-    "est_revenue_fmt": "$524K",
-    "est_revenue_won": "10.6억",
-    "est_revenue_krw": 710727255
-  },
-  {
-    "rank": 26,
     "title": "Seaside Escape®: Merge & Story",
     "developer": "Microfun Limited",
     "genre": "Game",
@@ -358,13 +344,13 @@
     "app_id": "com.gamedots.seasideescape",
     "local_name": "시사이드 이스케이프",
     "icon": "https://play-lh.googleusercontent.com/8nrl-23VkfKxd9HoGpSBaxz0oK3c6hpsFGPwMIyOP94CIndFH8teUUi8ULDr0UHqtVRBJOpHDTdMHvEVE7XjbA",
-    "est_revenue": 491879,
-    "est_revenue_fmt": "$492K",
+    "est_revenue": 524118,
+    "est_revenue_fmt": "$524K",
     "est_revenue_won": "10.0억",
-    "est_revenue_krw": 667009741
+    "est_revenue_krw": 710727255
   },
   {
-    "rank": 27,
+    "rank": 26,
     "title": "컴투스프로야구V26",
     "developer": "Com2uS",
     "genre": "Game",
@@ -372,13 +358,13 @@
     "app_id": "com.com2us.futurecpb.android.google.global.normal",
     "local_name": "컴투스프로야구V26",
     "icon": "https://play-lh.googleusercontent.com/lFrail_ogSgoETUZcsAgLG7gC4lvjcOdffEURRt5kTAaIbr3pdm7s7hrIQNMl-jTu_Hbw7NDuU9gpJZDRsqY",
-    "est_revenue": 491879,
-    "est_revenue_fmt": "$492K",
+    "est_revenue": 524118,
+    "est_revenue_fmt": "$524K",
     "est_revenue_won": "9.4억",
-    "est_revenue_krw": 667009741
+    "est_revenue_krw": 710727255
   },
   {
-    "rank": 28,
+    "rank": 27,
     "title": "로그W : 리메인즈 오브 갓",
     "developer": "Efun Company",
     "genre": "Game",
@@ -386,10 +372,24 @@
     "app_id": "com.krd8.google",
     "local_name": "로그W : 리메인즈 오브 갓",
     "icon": "https://play-lh.googleusercontent.com/wPufQAobuu_bMHJyHAmyZLteiFXFFfGyr_II-agf6JMw518mjIbDzFdR3LXbuKvT12TQ2kPvjRvLN-nyJ8NAyA",
-    "est_revenue": 491879,
-    "est_revenue_fmt": "$492K",
+    "est_revenue": 524118,
+    "est_revenue_fmt": "$524K",
     "est_revenue_won": "8.9억",
-    "est_revenue_krw": 667009741
+    "est_revenue_krw": 710727255
+  },
+  {
+    "rank": 28,
+    "title": "Gardenscapes",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.playrix.gardenscapes",
+    "local_name": "가든스케이프",
+    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
+    "est_revenue": 435395,
+    "est_revenue_fmt": "$435K",
+    "est_revenue_won": "10.6억",
+    "est_revenue_krw": 590414932
   },
   {
     "rank": 29,
@@ -400,10 +400,10 @@
     "app_id": "com.readygo.barrel.gp",
     "local_name": "라스트 Z: 서바이벌 슈터",
     "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
-    "est_revenue": 491879,
-    "est_revenue_fmt": "$492K",
+    "est_revenue": 435395,
+    "est_revenue_fmt": "$435K",
     "est_revenue_won": "8.4억",
-    "est_revenue_krw": 667009741
+    "est_revenue_krw": 590414932
   },
   {
     "rank": 30,
@@ -687,16 +687,16 @@
   },
   {
     "rank": 50,
-    "title": "Homescapes",
-    "developer": "Playrix",
+    "title": "Heartopia",
+    "developer": "XD Entertainment Co., Ltd.",
     "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.playrix.homescapes",
-    "local_name": "홈스케이프",
-    "icon": "https://play-lh.googleusercontent.com/98F-rCvO3NbMvijqi_bRDAt4x9y3sBbTffMFxK0iOn8W0SlFqs7BkmKE9UsqgPH07yDNj2B2IrKeoYGjvGGYcHU",
-    "est_revenue": 153000,
-    "est_revenue_fmt": "$153K",
-    "est_revenue_won": "3.0억",
-    "est_revenue_krw": 207474786
+    "rating": 4.4,
+    "app_id": "com.xd.xdtglobal.gp",
+    "local_name": "Heartopia",
+    "icon": "https://play-lh.googleusercontent.com/FtZNAkKn4faEpRU4UjtRRUk-aQP5zwiN1Kg4FzAcQBN7S8-PfDo7ODxmjaPlMu3HOFJ6-1WhzXxwKA6q1bOw",
+    "est_revenue": 180000,
+    "est_revenue_fmt": "$180K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 244087984
   }
 ]
