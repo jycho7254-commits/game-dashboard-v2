@@ -309,20 +309,6 @@
   },
   {
     "rank": 23,
-    "title": "#コンパス【戦闘摂理解析システム】",
-    "developer": "NHN PlayArt Corp.",
-    "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.nhnpa.cps",
-    "local_name": "#コンパス【戦闘摂理解析システム】",
-    "icon": "https://play-lh.googleusercontent.com/yc-nbXBA70PPDIs_UY5RbH0Y70fWO4Fs5FKweU5bc0iOlmU3l2KOID0UVDEoKSTUEJJfbCib6hvKkTTsjGVb",
-    "est_revenue": 9000000,
-    "est_revenue_fmt": "$9.0M",
-    "est_revenue_won": "28.2억",
-    "est_revenue_krw": 12230715528
-  },
-  {
-    "rank": 24,
     "title": "Tasty Travels: Merge Game",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -330,10 +316,24 @@
     "app_id": "com.fatmerge.global",
     "local_name": "Tasty Travels: Merge Game",
     "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
-    "est_revenue": 8938858,
-    "est_revenue_fmt": "$8.9M",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
     "est_revenue_won": "40.0억",
-    "est_revenue_krw": 12147625483
+    "est_revenue_krw": 12230715528
+  },
+  {
+    "rank": 24,
+    "title": "#コンパス【戦闘摂理解析システム】",
+    "developer": "NHN PlayArt Corp.",
+    "genre": "Game",
+    "rating": 3.8,
+    "app_id": "com.nhnpa.cps",
+    "local_name": "#コンパス【戦闘摂理解析システム】",
+    "icon": "https://play-lh.googleusercontent.com/yc-nbXBA70PPDIs_UY5RbH0Y70fWO4Fs5FKweU5bc0iOlmU3l2KOID0UVDEoKSTUEJJfbCib6hvKkTTsjGVb",
+    "est_revenue": 8363489,
+    "est_revenue_fmt": "$8.4M",
+    "est_revenue_won": "28.2억",
+    "est_revenue_krw": 11365717198
   },
   {
     "rank": 25,
@@ -344,27 +344,13 @@
     "app_id": "com.playrix.township",
     "local_name": "Township",
     "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
-    "est_revenue": 7785334,
-    "est_revenue_fmt": "$7.8M",
+    "est_revenue": 7060356,
+    "est_revenue_fmt": "$7.1M",
     "est_revenue_won": "37.8억",
-    "est_revenue_krw": 10580022827
+    "est_revenue_krw": 9594800640
   },
   {
     "rank": 26,
-    "title": "LINE Pokopoko",
-    "developer": "LINE (LY Corporation)",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.linecorp.LGPKPK",
-    "local_name": "LINE Pokopoko",
-    "icon": "https://play-lh.googleusercontent.com/tXW7sirumTEVg81135lskQjy5Z33oUIC0mWyFvtvKxROp82FdZCI0sf9VGLgjixwTM6vtWk9lh0gLQaGVZ5i2Eg",
-    "est_revenue": 6817517,
-    "est_revenue_fmt": "$6.8M",
-    "est_revenue_won": "32.4억",
-    "est_revenue_krw": 9264790115
-  },
-  {
-    "rank": 27,
     "title": "eFootball™",
     "developer": "KONAMI",
     "genre": "Game",
@@ -378,6 +364,20 @@
     "est_revenue_krw": 8153810352
   },
   {
+    "rank": 27,
+    "title": "LINE Pokopoko",
+    "developer": "LINE (LY Corporation)",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.linecorp.LGPKPK",
+    "local_name": "LINE Pokopoko",
+    "icon": "https://play-lh.googleusercontent.com/tXW7sirumTEVg81135lskQjy5Z33oUIC0mWyFvtvKxROp82FdZCI0sf9VGLgjixwTM6vtWk9lh0gLQaGVZ5i2Eg",
+    "est_revenue": 798364,
+    "est_revenue_fmt": "$798K",
+    "est_revenue_won": "32.4억",
+    "est_revenue_krw": 1084951441
+  },
+  {
     "rank": 28,
     "title": "アズールレーン",
     "developer": "Yostar, Inc.",
@@ -386,10 +386,10 @@
     "app_id": "com.YoStarJP.AzurLane",
     "local_name": "アズールレーン",
     "icon": "https://play-lh.googleusercontent.com/xm_fZgRuFC6npGnzKgBbw1V2VuZo4Pc67LLcrecmihkaDK-LFa_yKi6x4zmg-Nb-tvqy1ppLgjEdmgZMV00vg9E",
-    "est_revenue": 882605,
-    "est_revenue_fmt": "$883K",
+    "est_revenue": 798364,
+    "est_revenue_fmt": "$798K",
     "est_revenue_won": "22.8억",
-    "est_revenue_krw": 1199432298
+    "est_revenue_krw": 1084951441
   },
   {
     "rank": 29,
@@ -659,34 +659,6 @@
   },
   {
     "rank": 48,
-    "title": "にゃんこ大戦争",
-    "developer": "PONOS Corporation",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "jp.co.ponos.battlecats",
-    "local_name": "にゃんこ大戦争",
-    "icon": "https://play-lh.googleusercontent.com/_zq2tHsoecoSDTyxqZr9VdehQ2If63W2YXKzM10feM192S9uLsY7RNWOyKN5UXAWQL3bSBnC2tIp5bvlBNmn8Q",
-    "est_revenue": 325426,
-    "est_revenue_fmt": "$325K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 442243648
-  },
-  {
-    "rank": 49,
-    "title": "Roblox",
-    "developer": "Roblox Corporation",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.roblox.client",
-    "local_name": "Roblox",
-    "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
-    "est_revenue": 312356,
-    "est_revenue_fmt": "$312K",
-    "est_revenue_won": "13.1억",
-    "est_revenue_krw": 424481931
-  },
-  {
-    "rank": 50,
     "title": "Monster Hunter Now",
     "developer": "Scopely Explore, Inc.",
     "genre": "Game",
@@ -694,9 +666,37 @@
     "app_id": "com.nianticlabs.monsterhunter",
     "local_name": "Monster Hunter Now",
     "icon": "https://play-lh.googleusercontent.com/qG_xXqTT3qV7UuRLBDY5HpR5Mx9NwMf98I1Kpp7fSKhMY8uu13I7ivwGoLZ0qQ9821U7mhDrM_7EhMHtAjJCGA",
+    "est_revenue": 325426,
+    "est_revenue_fmt": "$325K",
+    "est_revenue_won": "12.0억",
+    "est_revenue_krw": 442243648
+  },
+  {
+    "rank": 49,
+    "title": "にゃんこ大戦争",
+    "developer": "PONOS Corporation",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "jp.co.ponos.battlecats",
+    "local_name": "にゃんこ大戦争",
+    "icon": "https://play-lh.googleusercontent.com/_zq2tHsoecoSDTyxqZr9VdehQ2If63W2YXKzM10feM192S9uLsY7RNWOyKN5UXAWQL3bSBnC2tIp5bvlBNmn8Q",
+    "est_revenue": 312356,
+    "est_revenue_fmt": "$312K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 424481931
+  },
+  {
+    "rank": 50,
+    "title": "Roblox",
+    "developer": "Roblox Corporation",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.roblox.client",
+    "local_name": "Roblox",
+    "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
     "est_revenue": 300000,
     "est_revenue_fmt": "$300K",
-    "est_revenue_won": "12.0억",
+    "est_revenue_won": "13.1억",
     "est_revenue_krw": 407690518
   }
 ]
