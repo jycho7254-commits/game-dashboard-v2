@@ -547,48 +547,6 @@
   },
   {
     "rank": 40,
-    "title": "Homescapes",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.playrix.homescapes",
-    "local_name": "Homescapes",
-    "icon": "https://play-lh.googleusercontent.com/98F-rCvO3NbMvijqi_bRDAt4x9y3sBbTffMFxK0iOn8W0SlFqs7BkmKE9UsqgPH07yDNj2B2IrKeoYGjvGGYcHU",
-    "est_revenue": 393865,
-    "est_revenue_fmt": "$394K",
-    "est_revenue_won": "16.5억",
-    "est_revenue_krw": 535250086
-  },
-  {
-    "rank": 41,
-    "title": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
-    "developer": "SEGA CORPORATION",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.sega.pjsekai",
-    "local_name": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
-    "icon": "https://play-lh.googleusercontent.com/BWJxYwzJFPOgdrBX_4DIspL90JuxuScIw3S8DpdE95_8SFuXkbYIJ0macz5p-a_M4f33QbisdbfZJBFHL6arlQ",
-    "est_revenue": 393865,
-    "est_revenue_fmt": "$394K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 535250086
-  },
-  {
-    "rank": 42,
-    "title": "Last Asylum: Plague",
-    "developer": "37GAMES GLOBAL",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.phs.global",
-    "local_name": "Last Asylum: Plague",
-    "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
-    "est_revenue": 393865,
-    "est_revenue_fmt": "$394K",
-    "est_revenue_won": "19.2억",
-    "est_revenue_krw": 535250086
-  },
-  {
-    "rank": 43,
     "title": "EA SPORTS FC™ 27 Companion",
     "developer": "ELECTRONIC ARTS",
     "genre": "Game",
@@ -596,10 +554,52 @@
     "app_id": "com.ea.gp.fifaultimate",
     "local_name": "EA SPORTS FC™ 27 Companion",
     "icon": "https://play-lh.googleusercontent.com/xUtrF2Fij5yTQvbg-yvvjTc0XVX1MtV8To0nVfqIuMl-r39jtLUwBflnsUVm2rVEBtlt8E2TPawGnsUo5rMY",
-    "est_revenue": 393865,
-    "est_revenue_fmt": "$394K",
+    "est_revenue": 486539,
+    "est_revenue_fmt": "$487K",
     "est_revenue_won": "15.4억",
-    "est_revenue_krw": 535250086
+    "est_revenue_krw": 661191122
+  },
+  {
+    "rank": 41,
+    "title": "Homescapes",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.playrix.homescapes",
+    "local_name": "Homescapes",
+    "icon": "https://play-lh.googleusercontent.com/98F-rCvO3NbMvijqi_bRDAt4x9y3sBbTffMFxK0iOn8W0SlFqs7BkmKE9UsqgPH07yDNj2B2IrKeoYGjvGGYcHU",
+    "est_revenue": 375815,
+    "est_revenue_fmt": "$376K",
+    "est_revenue_won": "16.5억",
+    "est_revenue_krw": 510720706
+  },
+  {
+    "rank": 42,
+    "title": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
+    "developer": "SEGA CORPORATION",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.sega.pjsekai",
+    "local_name": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
+    "icon": "https://play-lh.googleusercontent.com/BWJxYwzJFPOgdrBX_4DIspL90JuxuScIw3S8DpdE95_8SFuXkbYIJ0macz5p-a_M4f33QbisdbfZJBFHL6arlQ",
+    "est_revenue": 375815,
+    "est_revenue_fmt": "$376K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 510720706
+  },
+  {
+    "rank": 43,
+    "title": "Last Asylum: Plague",
+    "developer": "37GAMES GLOBAL",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.phs.global",
+    "local_name": "Last Asylum: Plague",
+    "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
+    "est_revenue": 375815,
+    "est_revenue_fmt": "$376K",
+    "est_revenue_won": "19.2억",
+    "est_revenue_krw": 510720706
   },
   {
     "rank": 44,
@@ -610,10 +610,10 @@
     "app_id": "com.aniplex.magia.exedra.jp",
     "local_name": "魔法少女まどかマギカ Magia Exedra",
     "icon": "https://play-lh.googleusercontent.com/7V0cKFHLRopYXDoWRC1E4RsAkqlxb_KkiC-1fe9vEG68YOHIDDsNZjQq2mwK4Wt4ghZbZsUQ-zijyAM6-arpWQ",
-    "est_revenue": 385991,
-    "est_revenue_fmt": "$386K",
+    "est_revenue": 375815,
+    "est_revenue_fmt": "$376K",
     "est_revenue_won": "12.4억",
-    "est_revenue_krw": 524549569
+    "est_revenue_krw": 510720706
   },
   {
     "rank": 45,
@@ -624,10 +624,10 @@
     "app_id": "jp.boi.mementomori.android",
     "local_name": "MementoMori: AFKRPG",
     "icon": "https://play-lh.googleusercontent.com/HG9W8SRyTeeLPFrrS17a06d5ANgakJbHomr73o3l6I23YAiIFL399Y1_Q-2FDBO_zxqETTkphFhE-uTeuD2nH6w",
-    "est_revenue": 385991,
-    "est_revenue_fmt": "$386K",
+    "est_revenue": 375815,
+    "est_revenue_fmt": "$376K",
     "est_revenue_won": "14.9억",
-    "est_revenue_krw": 524549569
+    "est_revenue_krw": 510720706
   },
   {
     "rank": 46,
