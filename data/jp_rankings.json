@@ -309,20 +309,6 @@
   },
   {
     "rank": 23,
-    "title": "Tasty Travels: Merge Game",
-    "developer": "Century Games PTE. LTD.",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.fatmerge.global",
-    "local_name": "Tasty Travels: Merge Game",
-    "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
-    "est_revenue": 9000000,
-    "est_revenue_fmt": "$9.0M",
-    "est_revenue_won": "40.0억",
-    "est_revenue_krw": 12230715528
-  },
-  {
-    "rank": 24,
     "title": "#コンパス【戦闘摂理解析システム】",
     "developer": "NHN PlayArt Corp.",
     "genre": "Game",
@@ -330,9 +316,23 @@
     "app_id": "com.nhnpa.cps",
     "local_name": "#コンパス【戦闘摂理解析システム】",
     "icon": "https://play-lh.googleusercontent.com/yc-nbXBA70PPDIs_UY5RbH0Y70fWO4Fs5FKweU5bc0iOlmU3l2KOID0UVDEoKSTUEJJfbCib6hvKkTTsjGVb",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
+    "est_revenue_won": "28.2억",
+    "est_revenue_krw": 12230715528
+  },
+  {
+    "rank": 24,
+    "title": "Tasty Travels: Merge Game",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.fatmerge.global",
+    "local_name": "Tasty Travels: Merge Game",
+    "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
     "est_revenue": 8363489,
     "est_revenue_fmt": "$8.4M",
-    "est_revenue_won": "28.2억",
+    "est_revenue_won": "40.0억",
     "est_revenue_krw": 11365717198
   },
   {
@@ -379,6 +379,20 @@
   },
   {
     "rank": 28,
+    "title": "デュエル・マスターズ プレイス",
+    "developer": "TOMY COMPANY,LTD.",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "jp.co.takaratomy.duelmastersplays",
+    "local_name": "デュエル・マスターズ プレイス",
+    "icon": "https://play-lh.googleusercontent.com/4xWJOqnPgredgpKcDDtXtNKOlGKM-uF4TVN-HP0PE8BEzigDazupyWgfETHUeysxDSl-pXFffT_e015_gJWbQQ",
+    "est_revenue": 798364,
+    "est_revenue_fmt": "$798K",
+    "est_revenue_won": "29.5억",
+    "est_revenue_krw": 1084951441
+  },
+  {
+    "rank": 29,
     "title": "刀剣乱舞ぱずぎり",
     "developer": "DMMGAMES",
     "genre": "Game",
@@ -392,7 +406,7 @@
     "est_revenue_krw": 1084951441
   },
   {
-    "rank": 29,
+    "rank": 30,
     "title": "アズールレーン",
     "developer": "Yostar, Inc.",
     "genre": "Game",
@@ -400,13 +414,13 @@
     "app_id": "com.YoStarJP.AzurLane",
     "local_name": "アズールレーン",
     "icon": "https://play-lh.googleusercontent.com/xm_fZgRuFC6npGnzKgBbw1V2VuZo4Pc67LLcrecmihkaDK-LFa_yKi6x4zmg-Nb-tvqy1ppLgjEdmgZMV00vg9E",
-    "est_revenue": 798364,
-    "est_revenue_fmt": "$798K",
+    "est_revenue": 782967,
+    "est_revenue_fmt": "$783K",
     "est_revenue_won": "22.8억",
-    "est_revenue_krw": 1084951441
+    "est_revenue_krw": 1064027405
   },
   {
-    "rank": 30,
+    "rank": 31,
     "title": "Royal Kingdom",
     "developer": "Dream Games, Ltd.",
     "genre": "Game",
@@ -414,24 +428,10 @@
     "app_id": "com.dreamgames.royalkingdom",
     "local_name": "Royal Kingdom",
     "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
-    "est_revenue": 665522,
-    "est_revenue_fmt": "$666K",
+    "est_revenue": 628179,
+    "est_revenue_fmt": "$628K",
     "est_revenue_won": "30.9억",
-    "est_revenue_krw": 904423362
-  },
-  {
-    "rank": 31,
-    "title": "デュエル・マスターズ プレイス",
-    "developer": "TOMY COMPANY,LTD.",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "jp.co.takaratomy.duelmastersplays",
-    "local_name": "デュエル・マスターズ プレイス",
-    "icon": "https://play-lh.googleusercontent.com/4xWJOqnPgredgpKcDDtXtNKOlGKM-uF4TVN-HP0PE8BEzigDazupyWgfETHUeysxDSl-pXFffT_e015_gJWbQQ",
-    "est_revenue": 665522,
-    "est_revenue_fmt": "$666K",
-    "est_revenue_won": "29.5억",
-    "est_revenue_krw": 904423362
+    "est_revenue_krw": 853675406
   },
   {
     "rank": 32,
@@ -631,20 +631,6 @@
   },
   {
     "rank": 46,
-    "title": "Mafia City",
-    "developer": "Phantix Games",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.yottagames.mafiawar",
-    "local_name": "Mafia City",
-    "icon": "https://play-lh.googleusercontent.com/MdwhvgDhMoGlp9MjvzPYDSKidt55EPXZLeCSBQ6ffijck4n6pD-yPOfQVOMwfXd4GQCu9I2ewQGOyCAM_E0",
-    "est_revenue": 353924,
-    "est_revenue_fmt": "$354K",
-    "est_revenue_won": "12.7억",
-    "est_revenue_krw": 480971529
-  },
-  {
-    "rank": 47,
     "title": "信長の野望 真戦",
     "developer": "Qookka Games",
     "genre": "Game",
@@ -652,10 +638,24 @@
     "app_id": "com.qookkagames.xczyw.gp.jp",
     "local_name": "信長の野望 真戦",
     "icon": "https://play-lh.googleusercontent.com/3XmTeAwhy-k2u_bN2kvYHXzzTRcDsBIRR0EZOBzf-csvFVR7M7cKo_GNToLfTgeSsdYEUcnmWtrQhBigLSddxNg",
-    "est_revenue": 353924,
-    "est_revenue_fmt": "$354K",
+    "est_revenue": 375815,
+    "est_revenue_fmt": "$376K",
     "est_revenue_won": "",
-    "est_revenue_krw": 480971529
+    "est_revenue_krw": 510720706
+  },
+  {
+    "rank": 47,
+    "title": "Mafia City",
+    "developer": "Phantix Games",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.yottagames.mafiawar",
+    "local_name": "Mafia City",
+    "icon": "https://play-lh.googleusercontent.com/MdwhvgDhMoGlp9MjvzPYDSKidt55EPXZLeCSBQ6ffijck4n6pD-yPOfQVOMwfXd4GQCu9I2ewQGOyCAM_E0",
+    "est_revenue": 339262,
+    "est_revenue_fmt": "$339K",
+    "est_revenue_won": "12.7억",
+    "est_revenue_krw": 461046335
   },
   {
     "rank": 48,
