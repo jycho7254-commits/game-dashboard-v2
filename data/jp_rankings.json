@@ -379,20 +379,6 @@
   },
   {
     "rank": 28,
-    "title": "#コンパス【戦闘摂理解析システム】",
-    "developer": "NHN PlayArt Corp.",
-    "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.nhnpa.cps",
-    "local_name": "#コンパス【戦闘摂理解析システム】",
-    "icon": "https://play-lh.googleusercontent.com/yc-nbXBA70PPDIs_UY5RbH0Y70fWO4Fs5FKweU5bc0iOlmU3l2KOID0UVDEoKSTUEJJfbCib6hvKkTTsjGVb",
-    "est_revenue": 798364,
-    "est_revenue_fmt": "$798K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 1082616995
-  },
-  {
-    "rank": 29,
     "title": "ブルーアーカイブ",
     "developer": "Yostar, Inc.",
     "genre": "Game",
@@ -403,6 +389,20 @@
     "est_revenue": 798364,
     "est_revenue_fmt": "$798K",
     "est_revenue_won": "26.0억",
+    "est_revenue_krw": 1082616995
+  },
+  {
+    "rank": 29,
+    "title": "#コンパス【戦闘摂理解析システム】",
+    "developer": "NHN PlayArt Corp.",
+    "genre": "Game",
+    "rating": 3.8,
+    "app_id": "com.nhnpa.cps",
+    "local_name": "#コンパス【戦闘摂理解析システム】",
+    "icon": "https://play-lh.googleusercontent.com/yc-nbXBA70PPDIs_UY5RbH0Y70fWO4Fs5FKweU5bc0iOlmU3l2KOID0UVDEoKSTUEJJfbCib6hvKkTTsjGVb",
+    "est_revenue": 798364,
+    "est_revenue_fmt": "$798K",
+    "est_revenue_won": "",
     "est_revenue_krw": 1082616995
   },
   {
@@ -449,6 +449,20 @@
   },
   {
     "rank": 33,
+    "title": "Wuthering Waves",
+    "developer": "HK KURO GAMES LIMITED",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.kurogame.wutheringwaves.global",
+    "local_name": "鸣潮",
+    "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_",
+    "est_revenue": 698497,
+    "est_revenue_fmt": "$698K",
+    "est_revenue_won": "17.1억",
+    "est_revenue_krw": 947192914
+  },
+  {
+    "rank": 34,
     "title": "ドラゴンクエストウォーク",
     "developer": "SQUARE ENIX Co.,Ltd.",
     "genre": "Game",
@@ -462,7 +476,7 @@
     "est_revenue_krw": 947192914
   },
   {
-    "rank": 34,
+    "rank": 35,
     "title": "刀剣乱舞ぱずぎり",
     "developer": "DMMGAMES",
     "genre": "Game",
@@ -470,41 +484,13 @@
     "app_id": "com.dmm.games.touken.puzzle",
     "local_name": "刀剣乱舞ぱずぎり",
     "icon": "https://play-lh.googleusercontent.com/XafLOHcjCYAsqXIVq1SWG-fr_TOLhP11J0lLI4zp63HOADXCLkTjE4RmypEm3JiYDReGyytF9vzC3-U623DEiQ",
-    "est_revenue": 626306,
-    "est_revenue_fmt": "$626K",
+    "est_revenue": 594096,
+    "est_revenue_fmt": "$594K",
     "est_revenue_won": "19.2억",
-    "est_revenue_krw": 849298716
-  },
-  {
-    "rank": 35,
-    "title": "Wuthering Waves",
-    "developer": "HK KURO GAMES LIMITED",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.kurogame.wutheringwaves.global",
-    "local_name": "鸣潮",
-    "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_",
-    "est_revenue": 626306,
-    "est_revenue_fmt": "$626K",
-    "est_revenue_won": "17.1억",
-    "est_revenue_krw": 849298716
+    "est_revenue_krw": 805620527
   },
   {
     "rank": 36,
-    "title": "Last Asylum: Plague",
-    "developer": "37GAMES GLOBAL",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.phs.global",
-    "local_name": "Last Asylum: Plague",
-    "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
-    "est_revenue": 620576,
-    "est_revenue_fmt": "$621K",
-    "est_revenue_won": "20.9억",
-    "est_revenue_krw": 841528582
-  },
-  {
-    "rank": 37,
     "title": "Paranoize",
     "developer": "ZigZaGame Inc.",
     "genre": "Game",
@@ -512,10 +498,24 @@
     "app_id": "com.zigzagame.paranoize",
     "local_name": "Paranoize",
     "icon": "https://play-lh.googleusercontent.com/7LQtnB1OywAs4z9kyDT5NiAQtoE_TNMU6OdiPAm0znOARQB6lOlxZ7Dq9SQ8kdCvBAsDjGQKzhV2JMHHN2iuQ5g",
-    "est_revenue": 600648,
-    "est_revenue_fmt": "$601K",
+    "est_revenue": 594096,
+    "est_revenue_fmt": "$594K",
     "est_revenue_won": "20.0억",
-    "est_revenue_krw": 814505330
+    "est_revenue_krw": 805620527
+  },
+  {
+    "rank": 37,
+    "title": "Last Asylum: Plague",
+    "developer": "37GAMES GLOBAL",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.phs.global",
+    "local_name": "Last Asylum: Plague",
+    "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
+    "est_revenue": 589922,
+    "est_revenue_fmt": "$590K",
+    "est_revenue_won": "20.9억",
+    "est_revenue_krw": 799960398
   },
   {
     "rank": 38,
