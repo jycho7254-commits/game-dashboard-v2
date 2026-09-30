@@ -379,6 +379,20 @@
   },
   {
     "rank": 28,
+    "title": "アズールレーン",
+    "developer": "Yostar, Inc.",
+    "genre": "Game",
+    "rating": 3.9,
+    "app_id": "com.YoStarJP.AzurLane",
+    "local_name": "アズールレーン",
+    "icon": "https://play-lh.googleusercontent.com/xm_fZgRuFC6npGnzKgBbw1V2VuZo4Pc67LLcrecmihkaDK-LFa_yKi6x4zmg-Nb-tvqy1ppLgjEdmgZMV00vg9E",
+    "est_revenue": 798364,
+    "est_revenue_fmt": "$798K",
+    "est_revenue_won": "22.8억",
+    "est_revenue_krw": 1080730852
+  },
+  {
+    "rank": 29,
     "title": "デュエル・マスターズ プレイス",
     "developer": "TOMY COMPANY,LTD.",
     "genre": "Game",
@@ -392,7 +406,7 @@
     "est_revenue_krw": 1080730852
   },
   {
-    "rank": 29,
+    "rank": 30,
     "title": "Royal Kingdom",
     "developer": "Dream Games, Ltd.",
     "genre": "Game",
@@ -400,13 +414,13 @@
     "app_id": "com.dreamgames.royalkingdom",
     "local_name": "Royal Kingdom",
     "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
-    "est_revenue": 706076,
-    "est_revenue_fmt": "$706K",
+    "est_revenue": 665522,
+    "est_revenue_fmt": "$666K",
     "est_revenue_won": "26.0억",
-    "est_revenue_krw": 955802262
+    "est_revenue_krw": 900905048
   },
   {
-    "rank": 30,
+    "rank": 31,
     "title": "刀剣乱舞ぱずぎり",
     "developer": "DMMGAMES",
     "genre": "Game",
@@ -414,13 +428,13 @@
     "app_id": "com.dmm.games.touken.puzzle",
     "local_name": "刀剣乱舞ぱずぎり",
     "icon": "https://play-lh.googleusercontent.com/XafLOHcjCYAsqXIVq1SWG-fr_TOLhP11J0lLI4zp63HOADXCLkTjE4RmypEm3JiYDReGyytF9vzC3-U623DEiQ",
-    "est_revenue": 706076,
-    "est_revenue_fmt": "$706K",
+    "est_revenue": 665522,
+    "est_revenue_fmt": "$666K",
     "est_revenue_won": "25.0억",
-    "est_revenue_krw": 955802262
+    "est_revenue_krw": 900905048
   },
   {
-    "rank": 31,
+    "rank": 32,
     "title": "放置少女 - 百花繚乱の萌姫たち",
     "developer": "C4 Connect Inc.",
     "genre": "Game",
@@ -428,24 +442,10 @@
     "app_id": "jp.glee.girl",
     "local_name": "放置少女 - 百花繚乱の萌姫たち",
     "icon": "https://play-lh.googleusercontent.com/fkp_VLPLnTcgHIdZutQCvIJhEy5BkpetWeKonidaYW8HrnM-ASjALh2tK5xkku3jJFc6gMY1LF7caAthHTBBFg",
-    "est_revenue": 628179,
-    "est_revenue_fmt": "$628K",
+    "est_revenue": 593722,
+    "est_revenue_fmt": "$594K",
     "est_revenue_won": "23.8억",
-    "est_revenue_krw": 850354507
-  },
-  {
-    "rank": 32,
-    "title": "アズールレーン",
-    "developer": "Yostar, Inc.",
-    "genre": "Game",
-    "rating": 3.9,
-    "app_id": "com.YoStarJP.AzurLane",
-    "local_name": "アズールレーン",
-    "icon": "https://play-lh.googleusercontent.com/xm_fZgRuFC6npGnzKgBbw1V2VuZo4Pc67LLcrecmihkaDK-LFa_yKi6x4zmg-Nb-tvqy1ppLgjEdmgZMV00vg9E",
-    "est_revenue": 628179,
-    "est_revenue_fmt": "$628K",
-    "est_revenue_won": "22.8억",
-    "est_revenue_krw": 850354507
+    "est_revenue_krw": 803710692
   },
   {
     "rank": 33,
@@ -456,10 +456,10 @@
     "app_id": "com.kurogame.wutheringwaves.global",
     "local_name": "鸣潮",
     "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_",
-    "est_revenue": 628179,
-    "est_revenue_fmt": "$628K",
+    "est_revenue": 593722,
+    "est_revenue_fmt": "$594K",
     "est_revenue_won": "21.8억",
-    "est_revenue_krw": 850354507
+    "est_revenue_krw": 803710692
   },
   {
     "rank": 34,
@@ -470,10 +470,10 @@
     "app_id": "com.sega.persona5.the.phantomx.jp",
     "local_name": "P5X ペルソナ５: The Phantom X",
     "icon": "https://play-lh.googleusercontent.com/lHkOEzom-zVV_tlaeaksdnYjjxcfshZ1n9tajY0dXNbV4CqDpbqrGW8Q7ZHsJdeoTq2DT47felclWx1jUvDRzA",
-    "est_revenue": 626306,
-    "est_revenue_fmt": "$626K",
+    "est_revenue": 593722,
+    "est_revenue_fmt": "$594K",
     "est_revenue_won": "20.9억",
-    "est_revenue_krw": 847819061
+    "est_revenue_krw": 803710692
   },
   {
     "rank": 35,
@@ -484,10 +484,10 @@
     "app_id": "jp.pokemon.pokemonsleep",
     "local_name": "Pokémon Sleep",
     "icon": "https://play-lh.googleusercontent.com/tg-BeEJO7UDjvfxWXWJ1u-PMLa-45twu0YhJkZfQu-PEjRJU_2l9Sb9xMR3YBha3mtLzdzU-016ZpWN5IUwrFwU",
-    "est_revenue": 594096,
+    "est_revenue": 593722,
     "est_revenue_fmt": "$594K",
     "est_revenue_won": "20.0억",
-    "est_revenue_krw": 804216969
+    "est_revenue_krw": 803710692
   },
   {
     "rank": 36,
@@ -498,10 +498,10 @@
     "app_id": "com.YostarJP.BlueArchive",
     "local_name": "ブルーアーカイブ",
     "icon": "https://play-lh.googleusercontent.com/H975s6W1-boCSogzpF5_rIyawbjiXfG842ncgjIRiVGzhXHFTCVut0DkBhlDR4CgN1nn98OOC1fWN-LE7kUHnQ",
-    "est_revenue": 594096,
+    "est_revenue": 593722,
     "est_revenue_fmt": "$594K",
     "est_revenue_won": "19.2억",
-    "est_revenue_krw": 804216969
+    "est_revenue_krw": 803710692
   },
   {
     "rank": 37,
@@ -512,10 +512,10 @@
     "app_id": "com.zigzagame.paranoize",
     "local_name": "Paranoize",
     "icon": "https://play-lh.googleusercontent.com/7LQtnB1OywAs4z9kyDT5NiAQtoE_TNMU6OdiPAm0znOARQB6lOlxZ7Dq9SQ8kdCvBAsDjGQKzhV2JMHHN2iuQ5g",
-    "est_revenue": 594096,
+    "est_revenue": 593722,
     "est_revenue_fmt": "$594K",
     "est_revenue_won": "18.5억",
-    "est_revenue_krw": 804216969
+    "est_revenue_krw": 803710692
   },
   {
     "rank": 38,
