@@ -15,6 +15,20 @@
   },
   {
     "rank": 2,
+    "title": "이클립스: 더 어웨이크닝",
+    "developer": "Smilegate, Inc.",
+    "genre": "Game",
+    "rating": 3.7,
+    "app_id": "com.smilegate.eclipse.stove.google",
+    "local_name": "이클립스: 더 어웨이크닝",
+    "icon": "https://play-lh.googleusercontent.com/JhepoyYDmabwj5ffSFC3cyfAdllyeIdHzSW5a3i_nlzsahXojL7S57JR1_RlYYkRh02OXzZM6K1s9KWnd-1Mpw",
+    "est_revenue": 7707619,
+    "est_revenue_fmt": "$7.7M",
+    "est_revenue_won": "74.8억",
+    "est_revenue_krw": 10433663901
+  },
+  {
+    "rank": 3,
     "title": "Roblox",
     "developer": "Roblox Corporation",
     "genre": "Game",
@@ -22,23 +36,9 @@
     "app_id": "com.roblox.client",
     "local_name": "로블록스",
     "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
-    "est_revenue": 7707619,
-    "est_revenue_fmt": "$7.7M",
-    "est_revenue_won": "89.0억",
-    "est_revenue_krw": 10433663901
-  },
-  {
-    "rank": 3,
-    "title": "이클립스: 더 어웨이크닝",
-    "developer": "Smilegate, Inc.",
-    "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.smilegate.eclipse.stove.google",
-    "local_name": "이클립스: 더 어웨이크닝",
-    "icon": "https://play-lh.googleusercontent.com/JhepoyYDmabwj5ffSFC3cyfAdllyeIdHzSW5a3i_nlzsahXojL7S57JR1_RlYYkRh02OXzZM6K1s9KWnd-1Mpw",
     "est_revenue": 6322366,
     "est_revenue_fmt": "$6.3M",
-    "est_revenue_won": "74.8억",
+    "est_revenue_won": "89.0억",
     "est_revenue_krw": 8558472065
   },
   {
@@ -116,7 +116,7 @@
     "title": "SOL: enchant",
     "developer": "Netmarble",
     "genre": "Game",
-    "rating": 2.4,
+    "rating": 2.3,
     "app_id": "com.netmarble.sol",
     "local_name": "SOL: 인챈트",
     "icon": "https://play-lh.googleusercontent.com/eRGPrWXzheZvTiTRBDBuaysX8ptDH5xasKV8rzWmuEKA9WsXfftcybnz9zQB89Iiqx7WKa_naS_WK5DdT1KB",
@@ -617,34 +617,6 @@
   },
   {
     "rank": 45,
-    "title": "Pokémon GO",
-    "developer": "Scopely Explore, Inc.",
-    "genre": "Game",
-    "rating": 3.8,
-    "app_id": "com.nianticlabs.pokemongo",
-    "local_name": "포켓몬 GO",
-    "icon": "https://play-lh.googleusercontent.com/DUA40mf0fd6lUkU_Pvfw78BOoY37nPNM5tKw0tf4sCqzJfNwR84wqj-J00WN99QaZ89SpruNsU1xX7sDw6uBZg",
-    "est_revenue": 213144,
-    "est_revenue_fmt": "$213K",
-    "est_revenue_won": "3.7억",
-    "est_revenue_krw": 288529163
-  },
-  {
-    "rank": 46,
-    "title": "메이플스토리M",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.nexon.nsc.maplem",
-    "local_name": "메이플스토리M",
-    "icon": "https://play-lh.googleusercontent.com/9o8e9UB2hxKmBZDNFai_vH3UAAoPvVWj6M00kQPccrouhIfFoHd-YrJ4Pbme3H96uMu8_dU3vjChrUxXmY0dxQ",
-    "est_revenue": 213144,
-    "est_revenue_fmt": "$213K",
-    "est_revenue_won": "3.2억",
-    "est_revenue_krw": 288529163
-  },
-  {
-    "rank": 47,
     "title": "뮤 모나크2",
     "developer": "Webzen Inc.",
     "genre": "Game",
@@ -658,6 +630,34 @@
     "est_revenue_krw": 288529163
   },
   {
+    "rank": 46,
+    "title": "Pokémon GO",
+    "developer": "Scopely Explore, Inc.",
+    "genre": "Game",
+    "rating": 3.8,
+    "app_id": "com.nianticlabs.pokemongo",
+    "local_name": "포켓몬 GO",
+    "icon": "https://play-lh.googleusercontent.com/DUA40mf0fd6lUkU_Pvfw78BOoY37nPNM5tKw0tf4sCqzJfNwR84wqj-J00WN99QaZ89SpruNsU1xX7sDw6uBZg",
+    "est_revenue": 211312,
+    "est_revenue_fmt": "$211K",
+    "est_revenue_won": "3.7억",
+    "est_revenue_krw": 286049218
+  },
+  {
+    "rank": 47,
+    "title": "메이플스토리M",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.nexon.nsc.maplem",
+    "local_name": "메이플스토리M",
+    "icon": "https://play-lh.googleusercontent.com/9o8e9UB2hxKmBZDNFai_vH3UAAoPvVWj6M00kQPccrouhIfFoHd-YrJ4Pbme3H96uMu8_dU3vjChrUxXmY0dxQ",
+    "est_revenue": 211312,
+    "est_revenue_fmt": "$211K",
+    "est_revenue_won": "3.2억",
+    "est_revenue_krw": 286049218
+  },
+  {
     "rank": 48,
     "title": "Lineage W",
     "developer": "NC Corporation",
@@ -666,10 +666,10 @@
     "app_id": "com.ncsoft.lineagew",
     "local_name": "리니지W",
     "icon": "https://play-lh.googleusercontent.com/VvwlyO5rMOgeedcbDmvBQv-vDoCeHqxBdSHqTrA3xUZAEuRcAwTBznrJBwkj3_xvhUTkLJ4D98RT1fZTtu8W",
-    "est_revenue": 213144,
-    "est_revenue_fmt": "$213K",
+    "est_revenue": 211312,
+    "est_revenue_fmt": "$211K",
     "est_revenue_won": "3.4억",
-    "est_revenue_krw": 288529163
+    "est_revenue_krw": 286049218
   },
   {
     "rank": 49,
