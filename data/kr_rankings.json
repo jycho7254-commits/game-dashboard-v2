@@ -631,20 +631,6 @@
   },
   {
     "rank": 46,
-    "title": "메이플스토리M",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.nexon.nsc.maplem",
-    "local_name": "메이플스토리M",
-    "icon": "https://play-lh.googleusercontent.com/9o8e9UB2hxKmBZDNFai_vH3UAAoPvVWj6M00kQPccrouhIfFoHd-YrJ4Pbme3H96uMu8_dU3vjChrUxXmY0dxQ",
-    "est_revenue": 213144,
-    "est_revenue_fmt": "$213K",
-    "est_revenue_won": "3.1억",
-    "est_revenue_krw": 288529163
-  },
-  {
-    "rank": 47,
     "title": "뮤 모나크2",
     "developer": "Webzen Inc.",
     "genre": "Game",
@@ -658,21 +644,21 @@
     "est_revenue_krw": 288529163
   },
   {
-    "rank": 48,
-    "title": "Heartopia",
-    "developer": "XD Entertainment Co., Ltd.",
+    "rank": 47,
+    "title": "메이플스토리M",
+    "developer": "NEXON Company",
     "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.xd.xdtglobal.gp",
-    "local_name": "Heartopia",
-    "icon": "https://play-lh.googleusercontent.com/FtZNAkKn4faEpRU4UjtRRUk-aQP5zwiN1Kg4FzAcQBN7S8-PfDo7ODxmjaPlMu3HOFJ6-1WhzXxwKA6q1bOw",
-    "est_revenue": 194785,
-    "est_revenue_fmt": "$195K",
-    "est_revenue_won": "3.0억",
-    "est_revenue_krw": 263676918
+    "rating": 4.6,
+    "app_id": "com.nexon.nsc.maplem",
+    "local_name": "메이플스토리M",
+    "icon": "https://play-lh.googleusercontent.com/9o8e9UB2hxKmBZDNFai_vH3UAAoPvVWj6M00kQPccrouhIfFoHd-YrJ4Pbme3H96uMu8_dU3vjChrUxXmY0dxQ",
+    "est_revenue": 213144,
+    "est_revenue_fmt": "$213K",
+    "est_revenue_won": "3.1억",
+    "est_revenue_krw": 288529163
   },
   {
-    "rank": 49,
+    "rank": 48,
     "title": "Lineage W",
     "developer": "NC Corporation",
     "genre": "Game",
@@ -680,10 +666,24 @@
     "app_id": "com.ncsoft.lineagew",
     "local_name": "리니지W",
     "icon": "https://play-lh.googleusercontent.com/VvwlyO5rMOgeedcbDmvBQv-vDoCeHqxBdSHqTrA3xUZAEuRcAwTBznrJBwkj3_xvhUTkLJ4D98RT1fZTtu8W",
-    "est_revenue": 194785,
-    "est_revenue_fmt": "$195K",
+    "est_revenue": 213144,
+    "est_revenue_fmt": "$213K",
     "est_revenue_won": "4.8억",
-    "est_revenue_krw": 263676918
+    "est_revenue_krw": 288529163
+  },
+  {
+    "rank": 49,
+    "title": "Heartopia",
+    "developer": "XD Entertainment Co., Ltd.",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "com.xd.xdtglobal.gp",
+    "local_name": "Heartopia",
+    "icon": "https://play-lh.googleusercontent.com/FtZNAkKn4faEpRU4UjtRRUk-aQP5zwiN1Kg4FzAcQBN7S8-PfDo7ODxmjaPlMu3HOFJ6-1WhzXxwKA6q1bOw",
+    "est_revenue": 187190,
+    "est_revenue_fmt": "$187K",
+    "est_revenue_won": "3.0억",
+    "est_revenue_krw": 253395704
   },
   {
     "rank": 50,
