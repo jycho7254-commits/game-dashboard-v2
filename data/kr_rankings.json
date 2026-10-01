@@ -29,20 +29,6 @@
   },
   {
     "rank": 3,
-    "title": "이클립스: 더 어웨이크닝",
-    "developer": "Smilegate, Inc.",
-    "genre": "Game",
-    "rating": 3.6,
-    "app_id": "com.smilegate.eclipse.stove.google",
-    "local_name": "이클립스: 더 어웨이크닝",
-    "icon": "https://play-lh.googleusercontent.com/JhepoyYDmabwj5ffSFC3cyfAdllyeIdHzSW5a3i_nlzsahXojL7S57JR1_RlYYkRh02OXzZM6K1s9KWnd-1Mpw",
-    "est_revenue": 8500000,
-    "est_revenue_fmt": "$8.5M",
-    "est_revenue_won": "89.0억",
-    "est_revenue_krw": 11524623094
-  },
-  {
-    "rank": 4,
     "title": "Wuthering Waves",
     "developer": "HK KURO GAMES LIMITED",
     "genre": "Game",
@@ -56,7 +42,7 @@
     "est_revenue_krw": 11524623094
   },
   {
-    "rank": 5,
+    "rank": 4,
     "title": "트릭컬 리바이브 - 3주년 600뽑기 증정",
     "developer": "EPIDGames",
     "genre": "Game",
@@ -67,6 +53,20 @@
     "est_revenue": 8500000,
     "est_revenue_fmt": "$8.5M",
     "est_revenue_won": "52.1억",
+    "est_revenue_krw": 11524623094
+  },
+  {
+    "rank": 5,
+    "title": "이클립스: 더 어웨이크닝",
+    "developer": "Smilegate, Inc.",
+    "genre": "Game",
+    "rating": 3.6,
+    "app_id": "com.smilegate.eclipse.stove.google",
+    "local_name": "이클립스: 더 어웨이크닝",
+    "icon": "https://play-lh.googleusercontent.com/JhepoyYDmabwj5ffSFC3cyfAdllyeIdHzSW5a3i_nlzsahXojL7S57JR1_RlYYkRh02OXzZM6K1s9KWnd-1Mpw",
+    "est_revenue": 8500000,
+    "est_revenue_fmt": "$8.5M",
+    "est_revenue_won": "89.0억",
     "est_revenue_krw": 11524623094
   },
   {
@@ -225,20 +225,6 @@
   },
   {
     "rank": 17,
-    "title": "GODDESS OF VICTORY: NIKKE",
-    "developer": "Level Infinite",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.proximabeta.nikke",
-    "local_name": "승리의 여신: 니케",
-    "icon": "https://play-lh.googleusercontent.com/JK5mejs0bVT_9613gCxNfCjRw_m3JiQ4wC8B8Kt471yu7ThFQazVkCLTfPZ81hnenft7ilaE-qSwVGpQT6sEFcY",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "18.6억",
-    "est_revenue_krw": 2440508420
-  },
-  {
-    "rank": 18,
     "title": "열혈강호: 넥스트",
     "developer": "Kingnet Technology Limited",
     "genre": "Game",
@@ -252,7 +238,7 @@
     "est_revenue_krw": 2440508420
   },
   {
-    "rank": 19,
+    "rank": 18,
     "title": "CookieRun: Crumble - Idle RPG",
     "developer": "Devsisters Corporation",
     "genre": "Game",
@@ -263,6 +249,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "15.0억",
+    "est_revenue_krw": 2440508420
+  },
+  {
+    "rank": 19,
+    "title": "GODDESS OF VICTORY: NIKKE",
+    "developer": "Level Infinite",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.proximabeta.nikke",
+    "local_name": "승리의 여신: 니케",
+    "icon": "https://play-lh.googleusercontent.com/JK5mejs0bVT_9613gCxNfCjRw_m3JiQ4wC8B8Kt471yu7ThFQazVkCLTfPZ81hnenft7ilaE-qSwVGpQT6sEFcY",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "18.6억",
     "est_revenue_krw": 2440508420
   },
   {
@@ -673,20 +673,6 @@
   },
   {
     "rank": 49,
-    "title": "뮤 모나크2",
-    "developer": "Webzen Inc.",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.webzen.mumonarch2.google",
-    "local_name": "뮤 모나크2",
-    "icon": "https://play-lh.googleusercontent.com/qnZL-Cen0ZiuBaJFSRkJsW1shxOLzMjGnZUDFRvnPit9WizZ3TiHrq2BFJwtDcnFO-Qk1M4wdxf4gVVZ0fta3g",
-    "est_revenue": 172392,
-    "est_revenue_fmt": "$172K",
-    "est_revenue_won": "3.4억",
-    "est_revenue_krw": 233735626
-  },
-  {
-    "rank": 50,
     "title": "Brawl Stars",
     "developer": "Supercell",
     "genre": "Game",
@@ -697,6 +683,20 @@
     "est_revenue": 172392,
     "est_revenue_fmt": "$172K",
     "est_revenue_won": "4.0억",
+    "est_revenue_krw": 233735626
+  },
+  {
+    "rank": 50,
+    "title": "프로젝트 세카이 컬러풀 스테이지! feat.하츠네 미쿠",
+    "developer": "Nuverse",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.pjsekai.kr",
+    "local_name": "프로젝트 세카이 컬러풀 스테이지! feat.하츠네 미쿠",
+    "icon": "https://play-lh.googleusercontent.com/nM_bMwQmt0epELSrXmA57q5NHesrR_Nj_bt5-IV34cwNk3DFtWLQM7WCxZ6tyIrbXu_3gDyPxK1-h87s78aq",
+    "est_revenue": 172392,
+    "est_revenue_fmt": "$172K",
+    "est_revenue_won": "",
     "est_revenue_krw": 233735626
   }
 ]
