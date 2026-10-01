@@ -29,34 +29,6 @@
   },
   {
     "rank": 3,
-    "title": "트릭컬 리바이브 - 3주년 600뽑기 증정",
-    "developer": "EPIDGames",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.epidgames.trickcalrevive",
-    "local_name": "트릭컬 리바이브 - 3주년 600뽑기 증정",
-    "icon": "https://play-lh.googleusercontent.com/7WntpQt6D18uzI3amQ_SrHYl74se-bQl1PXORC1xUpkc5KtkPPdYcX8WZXOH-NS5BMwlLICJ-CUifGkvsD_C98s",
-    "est_revenue": 8305334,
-    "est_revenue_fmt": "$8.3M",
-    "est_revenue_won": "74.8억",
-    "est_revenue_krw": 11260687531
-  },
-  {
-    "rank": 4,
-    "title": "이클립스: 더 어웨이크닝",
-    "developer": "Smilegate, Inc.",
-    "genre": "Game",
-    "rating": 3.7,
-    "app_id": "com.smilegate.eclipse.stove.google",
-    "local_name": "이클립스: 더 어웨이크닝",
-    "icon": "https://play-lh.googleusercontent.com/JhepoyYDmabwj5ffSFC3cyfAdllyeIdHzSW5a3i_nlzsahXojL7S57JR1_RlYYkRh02OXzZM6K1s9KWnd-1Mpw",
-    "est_revenue": 8169927,
-    "est_revenue_fmt": "$8.2M",
-    "est_revenue_won": "66.1억",
-    "est_revenue_krw": 11077097574
-  },
-  {
-    "rank": 5,
     "title": "Wuthering Waves",
     "developer": "HK KURO GAMES LIMITED",
     "genre": "Game",
@@ -64,9 +36,37 @@
     "app_id": "com.kurogame.wutheringwaves.global",
     "local_name": "명조",
     "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_",
+    "est_revenue": 8305334,
+    "est_revenue_fmt": "$8.3M",
+    "est_revenue_won": "60.0억",
+    "est_revenue_krw": 11260687531
+  },
+  {
+    "rank": 4,
+    "title": "트릭컬 리바이브 - 3주년 600뽑기 증정",
+    "developer": "EPIDGames",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.epidgames.trickcalrevive",
+    "local_name": "트릭컬 리바이브 - 3주년 600뽑기 증정",
+    "icon": "https://play-lh.googleusercontent.com/7WntpQt6D18uzI3amQ_SrHYl74se-bQl1PXORC1xUpkc5KtkPPdYcX8WZXOH-NS5BMwlLICJ-CUifGkvsD_C98s",
+    "est_revenue": 8169927,
+    "est_revenue_fmt": "$8.2M",
+    "est_revenue_won": "74.8억",
+    "est_revenue_krw": 11077097574
+  },
+  {
+    "rank": 5,
+    "title": "이클립스: 더 어웨이크닝",
+    "developer": "Smilegate, Inc.",
+    "genre": "Game",
+    "rating": 3.7,
+    "app_id": "com.smilegate.eclipse.stove.google",
+    "local_name": "이클립스: 더 어웨이크닝",
+    "icon": "https://play-lh.googleusercontent.com/JhepoyYDmabwj5ffSFC3cyfAdllyeIdHzSW5a3i_nlzsahXojL7S57JR1_RlYYkRh02OXzZM6K1s9KWnd-1Mpw",
     "est_revenue": 8066419,
     "est_revenue_fmt": "$8.1M",
-    "est_revenue_won": "60.0억",
+    "est_revenue_won": "66.1억",
     "est_revenue_krw": 10936757493
   },
   {
@@ -127,20 +127,6 @@
   },
   {
     "rank": 10,
-    "title": "Kingshot",
-    "developer": "Century Games PTE. LTD.",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.run.tower.defense",
-    "local_name": "킹샷",
-    "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
-    "est_revenue": 7800000,
-    "est_revenue_fmt": "$7.8M",
-    "est_revenue_won": "35.0억",
-    "est_revenue_krw": 10575536486
-  },
-  {
-    "rank": 11,
     "title": "SOL: enchant",
     "developer": "Netmarble",
     "genre": "Game",
@@ -154,6 +140,20 @@
     "est_revenue_krw": 10575536486
   },
   {
+    "rank": 11,
+    "title": "Kingshot",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.run.tower.defense",
+    "local_name": "킹샷",
+    "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
+    "est_revenue": 5930343,
+    "est_revenue_fmt": "$5.9M",
+    "est_revenue_won": "35.0억",
+    "est_revenue_krw": 8040584458
+  },
+  {
     "rank": 12,
     "title": "Gossip Harbor®: Merge & Story",
     "developer": "Microfun Limited",
@@ -162,10 +162,10 @@
     "app_id": "com.mergegames.gossipharbor",
     "local_name": "가십 하버",
     "icon": "https://play-lh.googleusercontent.com/VEmJnv1zUKIcst7pnOOqEFBXItThIbTzS29wxDEhJ9vPnXxNEHJAOkclrUMYFBR9essYJKDhkm-lPR95161D",
-    "est_revenue": 5212702,
-    "est_revenue_fmt": "$5.2M",
+    "est_revenue": 3857045,
+    "est_revenue_fmt": "$3.9M",
     "est_revenue_won": "28.4억",
-    "est_revenue_krw": 7067579512
+    "est_revenue_krw": 5229528221
   },
   {
     "rank": 13,
@@ -176,10 +176,10 @@
     "app_id": "com.percent.aos.luckydefense",
     "local_name": "러키 디펜스",
     "icon": "https://play-lh.googleusercontent.com/1NktNgA6C5ghp39v_vlHz_P1niuK3MTA0W5fVX0LoqsdUavVre6LkwligdFlcMd1OsN6qX-zWciBexAvY3myLaI",
-    "est_revenue": 3001085,
-    "est_revenue_fmt": "$3.0M",
+    "est_revenue": 2596523,
+    "est_revenue_fmt": "$2.6M",
     "est_revenue_won": "23.8억",
-    "est_revenue_krw": 4068985117
+    "est_revenue_krw": 3520464580
   },
   {
     "rank": 14,
@@ -477,6 +477,20 @@
   },
   {
     "rank": 35,
+    "title": "Coop TD: Together",
+    "developer": "Supermagic",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.percent.aos.cooptd",
+    "local_name": "쿱 TD: 투게더",
+    "icon": "https://play-lh.googleusercontent.com/vTxEJvWJq3cIbideJTNd9ZAYolS4ll7hUlMT3piDAsP6y84EPI-k1tPpoALoCwvmbJMn3LBW-sjzhHpERqfY",
+    "est_revenue": 329102,
+    "est_revenue_fmt": "$329K",
+    "est_revenue_won": "5.1억",
+    "est_revenue_krw": 446209001
+  },
+  {
+    "rank": 36,
     "title": "NTE: Neverness to Everness",
     "developer": "N2E",
     "genre": "Game",
@@ -490,7 +504,7 @@
     "est_revenue_krw": 446209001
   },
   {
-    "rank": 36,
+    "rank": 37,
     "title": "냥코 대전쟁",
     "developer": "PONOS Corporation",
     "genre": "Game",
@@ -504,7 +518,7 @@
     "est_revenue_krw": 446209001
   },
   {
-    "rank": 37,
+    "rank": 38,
     "title": "Wild Water World",
     "developer": "Hong Kong Just Game Technology Limited",
     "genre": "Game",
@@ -512,23 +526,9 @@
     "app_id": "com.iyagames.flotshelter",
     "local_name": "Wild Water World",
     "icon": "https://play-lh.googleusercontent.com/uCLV6eXFTGn7v6rZKKeuKCOG0eY9zrHoibkF_kvGioFHgjtLQnVAKTdLu17TxFRubVehAMWDiW02B7ObqNWhNQ",
-    "est_revenue": 316176,
-    "est_revenue_fmt": "$316K",
-    "est_revenue_won": "5.3억",
-    "est_revenue_krw": 428683439
-  },
-  {
-    "rank": 38,
-    "title": "Coop TD: Together",
-    "developer": "Supermagic",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.percent.aos.cooptd",
-    "local_name": "쿱 TD: 투게더",
-    "icon": "https://play-lh.googleusercontent.com/vTxEJvWJq3cIbideJTNd9ZAYolS4ll7hUlMT3piDAsP6y84EPI-k1tPpoALoCwvmbJMn3LBW-sjzhHpERqfY",
     "est_revenue": 301319,
     "est_revenue_fmt": "$301K",
-    "est_revenue_won": "5.1억",
+    "est_revenue_won": "5.3억",
     "est_revenue_krw": 408539754
   },
   {
