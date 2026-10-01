@@ -344,10 +344,10 @@
     "app_id": "com.kurogame.wutheringwaves.global",
     "local_name": "鸣潮",
     "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_",
-    "est_revenue": 9000000,
-    "est_revenue_fmt": "$9.0M",
+    "est_revenue": 8945004,
+    "est_revenue_fmt": "$8.9M",
     "est_revenue_won": "20.9억",
-    "est_revenue_krw": 12202542099
+    "est_revenue_krw": 12127976432
   },
   {
     "rank": 26,
@@ -358,10 +358,10 @@
     "app_id": "com.fatmerge.global",
     "local_name": "Tasty Travels: Merge Game",
     "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
-    "est_revenue": 8316934,
-    "est_revenue_fmt": "$8.3M",
+    "est_revenue": 7790409,
+    "est_revenue_fmt": "$7.8M",
     "est_revenue_won": "32.4억",
-    "est_revenue_krw": 11276415252
+    "est_revenue_krw": 10562532643
   },
   {
     "rank": 27,
@@ -372,27 +372,13 @@
     "app_id": "com.playrix.township",
     "local_name": "Township",
     "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
-    "est_revenue": 7429364,
-    "est_revenue_fmt": "$7.4M",
+    "est_revenue": 6820330,
+    "est_revenue_fmt": "$6.8M",
     "est_revenue_won": "30.9억",
-    "est_revenue_krw": 10073014109
+    "est_revenue_krw": 9247262662
   },
   {
     "rank": 28,
-    "title": "LINE Pokopoko",
-    "developer": "LINE (LY Corporation)",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.linecorp.LGPKPK",
-    "local_name": "LINE Pokopoko",
-    "icon": "https://play-lh.googleusercontent.com/tXW7sirumTEVg81135lskQjy5Z33oUIC0mWyFvtvKxROp82FdZCI0sf9VGLgjixwTM6vtWk9lh0gLQaGVZ5i2Eg",
-    "est_revenue": 6663811,
-    "est_revenue_fmt": "$6.7M",
-    "est_revenue_won": "28.2억",
-    "est_revenue_krw": 9035048252
-  },
-  {
-    "rank": 29,
     "title": "eFootball™",
     "developer": "KONAMI",
     "genre": "Game",
@@ -406,6 +392,20 @@
     "est_revenue_krw": 8135028066
   },
   {
+    "rank": 29,
+    "title": "LINE Pokopoko",
+    "developer": "LINE (LY Corporation)",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.linecorp.LGPKPK",
+    "local_name": "LINE Pokopoko",
+    "icon": "https://play-lh.googleusercontent.com/tXW7sirumTEVg81135lskQjy5Z33oUIC0mWyFvtvKxROp82FdZCI0sf9VGLgjixwTM6vtWk9lh0gLQaGVZ5i2Eg",
+    "est_revenue": 706076,
+    "est_revenue_fmt": "$706K",
+    "est_revenue_won": "28.2억",
+    "est_revenue_krw": 957324679
+  },
+  {
     "rank": 30,
     "title": "アズールレーン",
     "developer": "Yostar, Inc.",
@@ -414,10 +414,10 @@
     "app_id": "com.YoStarJP.AzurLane",
     "local_name": "アズールレーン",
     "icon": "https://play-lh.googleusercontent.com/xm_fZgRuFC6npGnzKgBbw1V2VuZo4Pc67LLcrecmihkaDK-LFa_yKi6x4zmg-Nb-tvqy1ppLgjEdmgZMV00vg9E",
-    "est_revenue": 782967,
-    "est_revenue_fmt": "$783K",
+    "est_revenue": 706076,
+    "est_revenue_fmt": "$706K",
     "est_revenue_won": "26.0억",
-    "est_revenue_krw": 1061576420
+    "est_revenue_krw": 957324679
   },
   {
     "rank": 31,
@@ -533,6 +533,20 @@
   },
   {
     "rank": 39,
+    "title": "ロマンシング サガ リ･ユニバース",
+    "developer": "SQUARE ENIX Co.,Ltd.",
+    "genre": "Game",
+    "rating": 3.4,
+    "app_id": "com.square_enix.android_googleplay.RSRS",
+    "local_name": "ロマンシング サガ リ･ユニバース",
+    "icon": "https://play-lh.googleusercontent.com/0HFAoMERMeV-YZo5Q4Ahyb9Hijq8UFsgNDDL1miUHky3IRQUnaZ7BwBXTQjZav_-OMAX6gRXkA6nOdXbcHdQEg",
+    "est_revenue": 544378,
+    "est_revenue_fmt": "$544K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 738088385
+  },
+  {
+    "rank": 40,
     "title": "バンドリ！アワーノーツ",
     "developer": "株式会社ブシロード",
     "genre": "Game",
@@ -540,13 +554,13 @@
     "app_id": "com.bushiroad.sirius",
     "local_name": "バンドリ！アワーノーツ",
     "icon": "https://play-lh.googleusercontent.com/2C3RAi3RD4mf4u2SC9Hl-E1XFm2wduLxQ8Q7qnWQ6yzaHekzjN4Ujxu3Rfd1QjglCRjIty94_kqYITS1S3Br",
-    "est_revenue": 486052,
-    "est_revenue_fmt": "$486K",
+    "est_revenue": 463371,
+    "est_revenue_fmt": "$463K",
     "est_revenue_won": "17.8억",
-    "est_revenue_krw": 659007777
+    "est_revenue_krw": 628256015
   },
   {
-    "rank": 40,
+    "rank": 41,
     "title": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
     "developer": "SEGA CORPORATION",
     "genre": "Game",
@@ -554,13 +568,13 @@
     "app_id": "com.sega.pjsekai",
     "local_name": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
     "icon": "https://play-lh.googleusercontent.com/BWJxYwzJFPOgdrBX_4DIspL90JuxuScIw3S8DpdE95_8SFuXkbYIJ0macz5p-a_M4f33QbisdbfZJBFHL6arlQ",
-    "est_revenue": 486052,
-    "est_revenue_fmt": "$486K",
+    "est_revenue": 463371,
+    "est_revenue_fmt": "$463K",
     "est_revenue_won": "17.1억",
-    "est_revenue_krw": 659007777
+    "est_revenue_krw": 628256015
   },
   {
-    "rank": 41,
+    "rank": 42,
     "title": "Last Z: Survival Shooter",
     "developer": "Omnilojo Pte Ltd",
     "genre": "Game",
@@ -568,13 +582,13 @@
     "app_id": "com.readygo.barrel.gp",
     "local_name": "Last Z: Survival Shooter",
     "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
-    "est_revenue": 486052,
-    "est_revenue_fmt": "$486K",
+    "est_revenue": 463371,
+    "est_revenue_fmt": "$463K",
     "est_revenue_won": "16.5억",
-    "est_revenue_krw": 659007777
+    "est_revenue_krw": 628256015
   },
   {
-    "rank": 42,
+    "rank": 43,
     "title": "NTE: Neverness to Everness",
     "developer": "N2E",
     "genre": "Game",
@@ -582,13 +596,13 @@
     "app_id": "com.hottagames.nte",
     "local_name": "NTE: Neverness to Everness",
     "icon": "https://play-lh.googleusercontent.com/TGl3DdDbi4hty6ooOhEvv_2s5tkpGLbL6derP8y5hK-_Bw--Ve375b08ba9HHQ9ueRpoQ9oye1T_T24BJriLUmw",
-    "est_revenue": 472897,
-    "est_revenue_fmt": "$473K",
+    "est_revenue": 451973,
+    "est_revenue_fmt": "$452K",
     "est_revenue_won": "",
-    "est_revenue_krw": 641171728
+    "est_revenue_krw": 612802173
   },
   {
-    "rank": 43,
+    "rank": 44,
     "title": "EA SPORTS FC™ 27 Companion",
     "developer": "ELECTRONIC ARTS",
     "genre": "Game",
@@ -596,13 +610,13 @@
     "app_id": "com.ea.gp.fifaultimate",
     "local_name": "EA SPORTS FC™ 27 Companion",
     "icon": "https://play-lh.googleusercontent.com/xUtrF2Fij5yTQvbg-yvvjTc0XVX1MtV8To0nVfqIuMl-r39jtLUwBflnsUVm2rVEBtlt8E2TPawGnsUo5rMY",
-    "est_revenue": 423724,
-    "est_revenue_fmt": "$424K",
+    "est_revenue": 405291,
+    "est_revenue_fmt": "$405K",
     "est_revenue_won": "15.4억",
-    "est_revenue_krw": 574501105
+    "est_revenue_krw": 549508943
   },
   {
-    "rank": 44,
+    "rank": 45,
     "title": "Homescapes",
     "developer": "Playrix",
     "genre": "Game",
@@ -610,13 +624,13 @@
     "app_id": "com.playrix.homescapes",
     "local_name": "Homescapes",
     "icon": "https://play-lh.googleusercontent.com/98F-rCvO3NbMvijqi_bRDAt4x9y3sBbTffMFxK0iOn8W0SlFqs7BkmKE9UsqgPH07yDNj2B2IrKeoYGjvGGYcHU",
-    "est_revenue": 328093,
-    "est_revenue_fmt": "$328K",
+    "est_revenue": 314055,
+    "est_revenue_fmt": "$314K",
     "est_revenue_won": "16.0억",
-    "est_revenue_krw": 444840961
+    "est_revenue_krw": 425807707
   },
   {
-    "rank": 45,
+    "rank": 46,
     "title": "Last Asylum: Plague",
     "developer": "37GAMES GLOBAL",
     "genre": "Game",
@@ -624,13 +638,13 @@
     "app_id": "com.phs.global",
     "local_name": "Last Asylum: Plague",
     "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
-    "est_revenue": 328093,
-    "est_revenue_fmt": "$328K",
+    "est_revenue": 314055,
+    "est_revenue_fmt": "$314K",
     "est_revenue_won": "14.9억",
-    "est_revenue_krw": 444840961
+    "est_revenue_krw": 425807707
   },
   {
-    "rank": 46,
+    "rank": 47,
     "title": "魔法少女まどかマギカ Magia Exedra",
     "developer": "Aniplex Inc.",
     "genre": "Game",
@@ -638,13 +652,13 @@
     "app_id": "com.aniplex.magia.exedra.jp",
     "local_name": "魔法少女まどかマギカ Magia Exedra",
     "icon": "https://play-lh.googleusercontent.com/7V0cKFHLRopYXDoWRC1E4RsAkqlxb_KkiC-1fe9vEG68YOHIDDsNZjQq2mwK4Wt4ghZbZsUQ-zijyAM6-arpWQ",
-    "est_revenue": 328093,
-    "est_revenue_fmt": "$328K",
+    "est_revenue": 314055,
+    "est_revenue_fmt": "$314K",
     "est_revenue_won": "14.4억",
-    "est_revenue_krw": 444840961
+    "est_revenue_krw": 425807707
   },
   {
-    "rank": 47,
+    "rank": 48,
     "title": "MementoMori: AFKRPG",
     "developer": "Bank of Innovation, Inc.",
     "genre": "Game",
@@ -652,13 +666,13 @@
     "app_id": "jp.boi.mementomori.android",
     "local_name": "MementoMori: AFKRPG",
     "icon": "https://play-lh.googleusercontent.com/HG9W8SRyTeeLPFrrS17a06d5ANgakJbHomr73o3l6I23YAiIFL399Y1_Q-2FDBO_zxqETTkphFhE-uTeuD2nH6w",
-    "est_revenue": 328093,
-    "est_revenue_fmt": "$328K",
+    "est_revenue": 314055,
+    "est_revenue_fmt": "$314K",
     "est_revenue_won": "14.0억",
-    "est_revenue_krw": 444840961
+    "est_revenue_krw": 425807707
   },
   {
-    "rank": 48,
+    "rank": 49,
     "title": "Mafia City",
     "developer": "Phantix Games",
     "genre": "Game",
@@ -666,13 +680,13 @@
     "app_id": "com.yottagames.mafiawar",
     "local_name": "Mafia City",
     "icon": "https://play-lh.googleusercontent.com/MdwhvgDhMoGlp9MjvzPYDSKidt55EPXZLeCSBQ6ffijck4n6pD-yPOfQVOMwfXd4GQCu9I2ewQGOyCAM_E0",
-    "est_revenue": 325426,
-    "est_revenue_fmt": "$325K",
+    "est_revenue": 312356,
+    "est_revenue_fmt": "$312K",
     "est_revenue_won": "13.5억",
-    "est_revenue_krw": 441224941
+    "est_revenue_krw": 423504138
   },
   {
-    "rank": 49,
+    "rank": 50,
     "title": "信長の野望 真戦",
     "developer": "Qookka Games",
     "genre": "Game",
@@ -680,23 +694,9 @@
     "app_id": "com.qookkagames.xczyw.gp.jp",
     "local_name": "信長の野望 真戦",
     "icon": "https://play-lh.googleusercontent.com/3XmTeAwhy-k2u_bN2kvYHXzzTRcDsBIRR0EZOBzf-csvFVR7M7cKo_GNToLfTgeSsdYEUcnmWtrQhBigLSddxNg",
-    "est_revenue": 325426,
-    "est_revenue_fmt": "$325K",
+    "est_revenue": 312356,
+    "est_revenue_fmt": "$312K",
     "est_revenue_won": "13.1억",
-    "est_revenue_krw": 441224941
-  },
-  {
-    "rank": 50,
-    "title": "Pokémon TCG Pocket",
-    "developer": "The Pokémon Company",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "jp.pokemon.pokemontcgp",
-    "local_name": "Pokémon TCG Pocket",
-    "icon": "https://play-lh.googleusercontent.com/qdEdyVc19jfittS0bnDUnXLRM7jOPZzfHXEYoChPWOtzMrtwU6t3ZVm_FQ7wbeDYFlqLBuWCDK0Q6c1nEwYKTA",
-    "est_revenue": 300000,
-    "est_revenue_fmt": "$300K",
-    "est_revenue_won": "12.7억",
-    "est_revenue_krw": 406751403
+    "est_revenue_krw": 423504138
   }
 ]
