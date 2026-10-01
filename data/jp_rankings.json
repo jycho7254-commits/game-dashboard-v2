@@ -71,20 +71,6 @@
   },
   {
     "rank": 6,
-    "title": "ウマ娘 プリティーダービー",
-    "developer": "Cygames, Inc.",
-    "genre": "Game",
-    "rating": 3.6,
-    "app_id": "jp.co.cygames.umamusume",
-    "local_name": "ウマ娘 プリティーダービー",
-    "icon": "https://play-lh.googleusercontent.com/kpMAHoFE7T_ccji5-P1I6njm7tufDzFHFPTPUDstve1L1_3hKHU29_bu8kZASVSiGOnIpqyG4CmAcib7Kzh8Vg",
-    "est_revenue": 9000000,
-    "est_revenue_fmt": "$9.0M",
-    "est_revenue_won": "150.0억",
-    "est_revenue_krw": 12202542099
-  },
-  {
-    "rank": 7,
     "title": "Genshin Impact 6th Anniversary",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -95,6 +81,20 @@
     "est_revenue": 9000000,
     "est_revenue_fmt": "$9.0M",
     "est_revenue_won": "186.9억",
+    "est_revenue_krw": 12202542099
+  },
+  {
+    "rank": 7,
+    "title": "ウマ娘 プリティーダービー",
+    "developer": "Cygames, Inc.",
+    "genre": "Game",
+    "rating": 3.6,
+    "app_id": "jp.co.cygames.umamusume",
+    "local_name": "ウマ娘 プリティーダービー",
+    "icon": "https://play-lh.googleusercontent.com/kpMAHoFE7T_ccji5-P1I6njm7tufDzFHFPTPUDstve1L1_3hKHU29_bu8kZASVSiGOnIpqyG4CmAcib7Kzh8Vg",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
+    "est_revenue_won": "150.0억",
     "est_revenue_krw": 12202542099
   },
   {
@@ -522,7 +522,7 @@
     "title": "バンドリ！アワーノーツ",
     "developer": "株式会社ブシロード",
     "genre": "Game",
-    "rating": 4.1,
+    "rating": 4.4,
     "app_id": "com.bushiroad.sirius",
     "local_name": "バンドリ！アワーノーツ",
     "icon": "https://play-lh.googleusercontent.com/2C3RAi3RD4mf4u2SC9Hl-E1XFm2wduLxQ8Q7qnWQ6yzaHekzjN4Ujxu3Rfd1QjglCRjIty94_kqYITS1S3Br",
@@ -659,6 +659,20 @@
   },
   {
     "rank": 48,
+    "title": "信長の野望 覇道",
+    "developer": "KOEI TECMO GAMES CO., LTD.",
+    "genre": "Game",
+    "rating": 4.1,
+    "app_id": "jp.co.koeitecmo.Power",
+    "local_name": "信長の野望 覇道",
+    "icon": "https://play-lh.googleusercontent.com/zT82LJTdzp4bcJBvkH5_wKW8yzLirUxslhuUa7jM8UF4RYF0dM30D3ohbY1Xu1uBdjHJpo_cdKVp68l2sxXr",
+    "est_revenue": 336227,
+    "est_revenue_fmt": "$336K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 455869347
+  },
+  {
+    "rank": 49,
     "title": "ブルーアーカイブ",
     "developer": "Yostar, Inc.",
     "genre": "Game",
@@ -672,7 +686,7 @@
     "est_revenue_krw": 455869347
   },
   {
-    "rank": 49,
+    "rank": 50,
     "title": "MementoMori: AFKRPG",
     "developer": "Bank of Innovation, Inc.",
     "genre": "Game",
@@ -680,23 +694,9 @@
     "app_id": "jp.boi.mementomori.android",
     "local_name": "MementoMori: AFKRPG",
     "icon": "https://play-lh.googleusercontent.com/HG9W8SRyTeeLPFrrS17a06d5ANgakJbHomr73o3l6I23YAiIFL399Y1_Q-2FDBO_zxqETTkphFhE-uTeuD2nH6w",
-    "est_revenue": 336227,
+    "est_revenue": 336000,
     "est_revenue_fmt": "$336K",
     "est_revenue_won": "12.7억",
-    "est_revenue_krw": 455869347
-  },
-  {
-    "rank": 50,
-    "title": "EA SPORTS FC™ 27 Companion",
-    "developer": "ELECTRONIC ARTS",
-    "genre": "Game",
-    "rating": 3,
-    "app_id": "com.ea.gp.fifaultimate",
-    "local_name": "EA SPORTS FC™ 27 Companion",
-    "icon": "https://play-lh.googleusercontent.com/xUtrF2Fij5yTQvbg-yvvjTc0XVX1MtV8To0nVfqIuMl-r39jtLUwBflnsUVm2rVEBtlt8E2TPawGnsUo5rMY",
-    "est_revenue": 315000,
-    "est_revenue_fmt": "$315K",
-    "est_revenue_won": "14.4억",
-    "est_revenue_krw": 427088973
+    "est_revenue_krw": 455561572
   }
 ]
