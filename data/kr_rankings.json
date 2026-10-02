@@ -183,20 +183,6 @@
   },
   {
     "rank": 14,
-    "title": "Lucky Defense",
-    "developer": "111%",
-    "genre": "Game",
-    "rating": 4.3,
-    "app_id": "com.percent.aos.luckydefense",
-    "local_name": "러키 디펜스",
-    "icon": "https://play-lh.googleusercontent.com/1NktNgA6C5ghp39v_vlHz_P1niuK3MTA0W5fVX0LoqsdUavVre6LkwligdFlcMd1OsN6qX-zWciBexAvY3myLaI",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "23.8억",
-    "est_revenue_krw": 2448363895
-  },
-  {
-    "rank": 15,
     "title": "한게임포커 클래식 : 7포커 홀덤 섯다 훌라 슬롯",
     "developer": "NHN Corp.",
     "genre": "Game",
@@ -210,7 +196,7 @@
     "est_revenue_krw": 2448363895
   },
   {
-    "rank": 16,
+    "rank": 15,
     "title": "Honkai: Star Rail",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -221,6 +207,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "22.0억",
+    "est_revenue_krw": 2448363895
+  },
+  {
+    "rank": 16,
+    "title": "Lucky Defense",
+    "developer": "111%",
+    "genre": "Game",
+    "rating": 4.3,
+    "app_id": "com.percent.aos.luckydefense",
+    "local_name": "러키 디펜스",
+    "icon": "https://play-lh.googleusercontent.com/1NktNgA6C5ghp39v_vlHz_P1niuK3MTA0W5fVX0LoqsdUavVre6LkwligdFlcMd1OsN6qX-zWciBexAvY3myLaI",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "23.8억",
     "est_revenue_krw": 2448363895
   },
   {
@@ -435,20 +435,6 @@
   },
   {
     "rank": 32,
-    "title": "Last Z: Survival Shooter",
-    "developer": "Omnilojo Pte Ltd",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.readygo.barrel.gp",
-    "local_name": "라스트 Z: 서바이벌 슈터",
-    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
-    "est_revenue": 387731,
-    "est_revenue_fmt": "$388K",
-    "est_revenue_won": "6.0억",
-    "est_revenue_krw": 527392545
-  },
-  {
-    "rank": 33,
     "title": "로그W : 리메인즈 오브 갓",
     "developer": "Efun Company",
     "genre": "Game",
@@ -456,13 +442,13 @@
     "app_id": "com.krd8.google",
     "local_name": "로그W : 리메인즈 오브 갓",
     "icon": "https://play-lh.googleusercontent.com/wPufQAobuu_bMHJyHAmyZLteiFXFFfGyr_II-agf6JMw518mjIbDzFdR3LXbuKvT12TQ2kPvjRvLN-nyJ8NAyA",
-    "est_revenue": 387178,
-    "est_revenue_fmt": "$387K",
+    "est_revenue": 387731,
+    "est_revenue_fmt": "$388K",
     "est_revenue_won": "7.1억",
-    "est_revenue_krw": 526640353
+    "est_revenue_krw": 527392545
   },
   {
-    "rank": 34,
+    "rank": 33,
     "title": "마비노기 모바일",
     "developer": "NEXON Company",
     "genre": "Game",
@@ -470,10 +456,24 @@
     "app_id": "com.nexon.devcat.mm",
     "local_name": "마비노기 모바일",
     "icon": "https://play-lh.googleusercontent.com/ljE3Q4kOQj0UEjbJoANQpgQ4rxdDvI1h1wARGv6jFgel-5oDIFjfTx2S0nINT8agCEOB_V3C9y61RZFoyLZ4",
-    "est_revenue": 387178,
-    "est_revenue_fmt": "$387K",
+    "est_revenue": 387731,
+    "est_revenue_fmt": "$388K",
     "est_revenue_won": "6.3억",
-    "est_revenue_krw": 526640353
+    "est_revenue_krw": 527392545
+  },
+  {
+    "rank": 34,
+    "title": "Pmang Poker : Casino Royal",
+    "developer": "NEOWIZ corp",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.neowiz.games.poker",
+    "local_name": "피망 포커",
+    "icon": "https://play-lh.googleusercontent.com/MkI60z70bUF0YIi9loQzKm08WLinhruANPb6D7j1Gh1iPiLrfL1W-2ZQ0Q8ICCMdkFY0jDlTjx9_iZFVGOourg",
+    "est_revenue": 349094,
+    "est_revenue_fmt": "$349K",
+    "est_revenue_won": "5.1억",
+    "est_revenue_krw": 474838414
   },
   {
     "rank": 35,
@@ -484,10 +484,10 @@
     "app_id": "com.hottagames.nte",
     "local_name": "NTE: Neverness to Everness",
     "icon": "https://play-lh.googleusercontent.com/TGl3DdDbi4hty6ooOhEvv_2s5tkpGLbL6derP8y5hK-_Bw--Ve375b08ba9HHQ9ueRpoQ9oye1T_T24BJriLUmw",
-    "est_revenue": 387178,
-    "est_revenue_fmt": "$387K",
+    "est_revenue": 349094,
+    "est_revenue_fmt": "$349K",
     "est_revenue_won": "6.7억",
-    "est_revenue_krw": 526640353
+    "est_revenue_krw": 474838414
   },
   {
     "rank": 36,
@@ -505,6 +505,20 @@
   },
   {
     "rank": 37,
+    "title": "Last Z: Survival Shooter",
+    "developer": "Omnilojo Pte Ltd",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.readygo.barrel.gp",
+    "local_name": "라스트 Z: 서바이벌 슈터",
+    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
+    "est_revenue": 282272,
+    "est_revenue_fmt": "$282K",
+    "est_revenue_won": "6.0억",
+    "est_revenue_krw": 383946985
+  },
+  {
+    "rank": 38,
     "title": "한게임 섯다&맞고",
     "developer": "NHN Corp.",
     "genre": "Game",
@@ -518,35 +532,7 @@
     "est_revenue_krw": 383946985
   },
   {
-    "rank": 38,
-    "title": "Pmang Poker : Casino Royal",
-    "developer": "NEOWIZ corp",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.neowiz.games.poker",
-    "local_name": "피망 포커",
-    "icon": "https://play-lh.googleusercontent.com/MkI60z70bUF0YIi9loQzKm08WLinhruANPb6D7j1Gh1iPiLrfL1W-2ZQ0Q8ICCMdkFY0jDlTjx9_iZFVGOourg",
-    "est_revenue": 282272,
-    "est_revenue_fmt": "$282K",
-    "est_revenue_won": "5.1억",
-    "est_revenue_krw": 383946985
-  },
-  {
     "rank": 39,
-    "title": "Coop TD: Together",
-    "developer": "Supermagic",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.percent.aos.cooptd",
-    "local_name": "쿱 TD: 투게더",
-    "icon": "https://play-lh.googleusercontent.com/vTxEJvWJq3cIbideJTNd9ZAYolS4ll7hUlMT3piDAsP6y84EPI-k1tPpoALoCwvmbJMn3LBW-sjzhHpERqfY",
-    "est_revenue": 282272,
-    "est_revenue_fmt": "$282K",
-    "est_revenue_won": "4.8억",
-    "est_revenue_krw": 383946985
-  },
-  {
-    "rank": 40,
     "title": "냥코 대전쟁",
     "developer": "PONOS Corporation",
     "genre": "Game",
@@ -560,7 +546,7 @@
     "est_revenue_krw": 383946985
   },
   {
-    "rank": 41,
+    "rank": 40,
     "title": "Wild Water World",
     "developer": "Hong Kong Just Game Technology Limited",
     "genre": "Game",
@@ -568,9 +554,23 @@
     "app_id": "com.iyagames.flotshelter",
     "local_name": "Wild Water World",
     "icon": "https://play-lh.googleusercontent.com/uCLV6eXFTGn7v6rZKKeuKCOG0eY9zrHoibkF_kvGioFHgjtLQnVAKTdLu17TxFRubVehAMWDiW02B7ObqNWhNQ",
+    "est_revenue": 274413,
+    "est_revenue_fmt": "$274K",
+    "est_revenue_won": "4.4억",
+    "est_revenue_krw": 373257156
+  },
+  {
+    "rank": 41,
+    "title": "Coop TD: Together",
+    "developer": "Supermagic",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.percent.aos.cooptd",
+    "local_name": "쿱 TD: 투게더",
+    "icon": "https://play-lh.googleusercontent.com/vTxEJvWJq3cIbideJTNd9ZAYolS4ll7hUlMT3piDAsP6y84EPI-k1tPpoALoCwvmbJMn3LBW-sjzhHpERqfY",
     "est_revenue": 262213,
     "est_revenue_fmt": "$262K",
-    "est_revenue_won": "4.4억",
+    "est_revenue_won": "4.8억",
     "est_revenue_krw": 356662690
   },
   {
