@@ -36,10 +36,10 @@
     "app_id": "com.kurogame.wutheringwaves.global",
     "local_name": "명조",
     "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_",
-    "est_revenue": 8266823,
-    "est_revenue_fmt": "$8.3M",
+    "est_revenue": 8234621,
+    "est_revenue_fmt": "$8.2M",
     "est_revenue_won": "74.8억",
-    "est_revenue_krw": 11244550534
+    "est_revenue_krw": 11200749304
   },
   {
     "rank": 4,
@@ -50,10 +50,10 @@
     "app_id": "com.smilegate.eclipse.stove.google",
     "local_name": "이클립스: 더 어웨이크닝",
     "icon": "https://play-lh.googleusercontent.com/JhepoyYDmabwj5ffSFC3cyfAdllyeIdHzSW5a3i_nlzsahXojL7S57JR1_RlYYkRh02OXzZM6K1s9KWnd-1Mpw",
-    "est_revenue": 8105271,
+    "est_revenue": 8051372,
     "est_revenue_fmt": "$8.1M",
     "est_revenue_won": "66.1억",
-    "est_revenue_krw": 11024807154
+    "est_revenue_krw": 10951493618
   },
   {
     "rank": 5,
@@ -64,27 +64,13 @@
     "app_id": "com.epidgames.trickcalrevive",
     "local_name": "트릭컬 리바이브 - 3주년 600뽑기 증정",
     "icon": "https://play-lh.googleusercontent.com/7WntpQt6D18uzI3amQ_SrHYl74se-bQl1PXORC1xUpkc5KtkPPdYcX8WZXOH-NS5BMwlLICJ-CUifGkvsD_C98s",
-    "est_revenue": 7982139,
-    "est_revenue_fmt": "$8.0M",
+    "est_revenue": 7912046,
+    "est_revenue_fmt": "$7.9M",
     "est_revenue_won": "60.0억",
-    "est_revenue_krw": 10857322741
+    "est_revenue_krw": 10761982091
   },
   {
     "rank": 6,
-    "title": "Whiteout Survival",
-    "developer": "Century Games PTE. LTD.",
-    "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.gof.global",
-    "local_name": "화이트아웃 서바이벌",
-    "icon": "https://play-lh.googleusercontent.com/tNMaMiJ4wTQy_TeZSWHdSlP5qH0PGig9g9sDJu2QFvCHdnrbo2u17pX55W4i6KITo56v_ZyICkqLgA2svH9ycQ",
-    "est_revenue": 7882923,
-    "est_revenue_fmt": "$7.9M",
-    "est_revenue_won": "52.1억",
-    "est_revenue_krw": 10722368923
-  },
-  {
-    "rank": 7,
     "title": "오딘: 발할라 라이징",
     "developer": "Kakao Games Corp.",
     "genre": "Game",
@@ -95,6 +81,20 @@
     "est_revenue": 7800000,
     "est_revenue_fmt": "$7.8M",
     "est_revenue_won": "46.2억",
+    "est_revenue_krw": 10609576879
+  },
+  {
+    "rank": 7,
+    "title": "Whiteout Survival",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.gof.global",
+    "local_name": "화이트아웃 서바이벌",
+    "icon": "https://play-lh.googleusercontent.com/tNMaMiJ4wTQy_TeZSWHdSlP5qH0PGig9g9sDJu2QFvCHdnrbo2u17pX55W4i6KITo56v_ZyICkqLgA2svH9ycQ",
+    "est_revenue": 7800000,
+    "est_revenue_fmt": "$7.8M",
+    "est_revenue_won": "52.1억",
     "est_revenue_krw": 10609576879
   },
   {
@@ -323,6 +323,20 @@
   },
   {
     "rank": 24,
+    "title": "Tasty Travels: Merge Game",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.fatmerge.global",
+    "local_name": "테이스티 트래블스",
+    "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "10.0억",
+    "est_revenue_krw": 2448363895
+  },
+  {
+    "rank": 25,
     "title": "Genshin Impact 6th Anniversary",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -336,7 +350,7 @@
     "est_revenue_krw": 2448363895
   },
   {
-    "rank": 25,
+    "rank": 26,
     "title": "컴투스프로야구V26",
     "developer": "Com2uS",
     "genre": "Game",
@@ -344,24 +358,10 @@
     "app_id": "com.com2us.futurecpb.android.google.global.normal",
     "local_name": "컴투스프로야구V26",
     "icon": "https://play-lh.googleusercontent.com/lFrail_ogSgoETUZcsAgLG7gC4lvjcOdffEURRt5kTAaIbr3pdm7s7hrIQNMl-jTu_Hbw7NDuU9gpJZDRsqY",
-    "est_revenue": 647440,
-    "est_revenue_fmt": "$647K",
+    "est_revenue": 607615,
+    "est_revenue_fmt": "$608K",
     "est_revenue_won": "10.6억",
-    "est_revenue_krw": 880649289
-  },
-  {
-    "rank": 26,
-    "title": "Tasty Travels: Merge Game",
-    "developer": "Century Games PTE. LTD.",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.fatmerge.global",
-    "local_name": "테이스티 트래블스",
-    "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
-    "est_revenue": 491879,
-    "est_revenue_fmt": "$492K",
-    "est_revenue_won": "10.0억",
-    "est_revenue_krw": 669054880
+    "est_revenue_krw": 826479238
   },
   {
     "rank": 27,
@@ -372,10 +372,10 @@
     "app_id": "com.phs.global",
     "local_name": "라스트 어사일럼",
     "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
-    "est_revenue": 491879,
-    "est_revenue_fmt": "$492K",
+    "est_revenue": 598408,
+    "est_revenue_fmt": "$598K",
     "est_revenue_won": "9.4억",
-    "est_revenue_krw": 669054880
+    "est_revenue_krw": 813955857
   },
   {
     "rank": 28,
@@ -519,34 +519,6 @@
   },
   {
     "rank": 38,
-    "title": "Pmang Poker : Casino Royal",
-    "developer": "NEOWIZ corp",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.neowiz.games.poker",
-    "local_name": "피망 포커",
-    "icon": "https://play-lh.googleusercontent.com/MkI60z70bUF0YIi9loQzKm08WLinhruANPb6D7j1Gh1iPiLrfL1W-2ZQ0Q8ICCMdkFY0jDlTjx9_iZFVGOourg",
-    "est_revenue": 282272,
-    "est_revenue_fmt": "$282K",
-    "est_revenue_won": "5.1억",
-    "est_revenue_krw": 383946985
-  },
-  {
-    "rank": 39,
-    "title": "Coop TD: Together",
-    "developer": "Supermagic",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.percent.aos.cooptd",
-    "local_name": "쿱 TD: 투게더",
-    "icon": "https://play-lh.googleusercontent.com/vTxEJvWJq3cIbideJTNd9ZAYolS4ll7hUlMT3piDAsP6y84EPI-k1tPpoALoCwvmbJMn3LBW-sjzhHpERqfY",
-    "est_revenue": 282272,
-    "est_revenue_fmt": "$282K",
-    "est_revenue_won": "4.8억",
-    "est_revenue_krw": 383946985
-  },
-  {
-    "rank": 40,
     "title": "냥코 대전쟁",
     "developer": "PONOS Corporation",
     "genre": "Game",
@@ -558,6 +530,34 @@
     "est_revenue_fmt": "$282K",
     "est_revenue_won": "4.6억",
     "est_revenue_krw": 383946985
+  },
+  {
+    "rank": 39,
+    "title": "Pmang Poker : Casino Royal",
+    "developer": "NEOWIZ corp",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.neowiz.games.poker",
+    "local_name": "피망 포커",
+    "icon": "https://play-lh.googleusercontent.com/MkI60z70bUF0YIi9loQzKm08WLinhruANPb6D7j1Gh1iPiLrfL1W-2ZQ0Q8ICCMdkFY0jDlTjx9_iZFVGOourg",
+    "est_revenue": 273054,
+    "est_revenue_fmt": "$273K",
+    "est_revenue_won": "5.1억",
+    "est_revenue_krw": 371408642
+  },
+  {
+    "rank": 40,
+    "title": "Coop TD: Together",
+    "developer": "Supermagic",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.percent.aos.cooptd",
+    "local_name": "쿱 TD: 투게더",
+    "icon": "https://play-lh.googleusercontent.com/vTxEJvWJq3cIbideJTNd9ZAYolS4ll7hUlMT3piDAsP6y84EPI-k1tPpoALoCwvmbJMn3LBW-sjzhHpERqfY",
+    "est_revenue": 273054,
+    "est_revenue_fmt": "$273K",
+    "est_revenue_won": "4.8억",
+    "est_revenue_krw": 371408642
   },
   {
     "rank": 41,
