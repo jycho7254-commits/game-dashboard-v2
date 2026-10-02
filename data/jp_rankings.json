@@ -225,6 +225,20 @@
   },
   {
     "rank": 17,
+    "title": "LINE：ディズニー ツムツム",
+    "developer": "LINE (LY Corporation)",
+    "genre": "Game",
+    "rating": 3.9,
+    "app_id": "com.linecorp.LGTMTM",
+    "local_name": "LINE：ディズニー ツムツム",
+    "icon": "https://play-lh.googleusercontent.com/6cn7tLHK9DqomMHdDYDUfGqaVuNbIpg0yHJxpugoA6EytfvCbh5aNULV6z8mPEKADw5GIThZs0ZelgdblH50XSc",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
+    "est_revenue_won": "35.8억",
+    "est_revenue_krw": 12241819476
+  },
+  {
+    "rank": 18,
     "title": "ドラゴンクエストウォーク",
     "developer": "SQUARE ENIX Co.,Ltd.",
     "genre": "Game",
@@ -238,7 +252,7 @@
     "est_revenue_krw": 12241819476
   },
   {
-    "rank": 18,
+    "rank": 19,
     "title": "GODDESS OF VICTORY: NIKKE",
     "developer": "Level Infinite",
     "genre": "Game",
@@ -249,20 +263,6 @@
     "est_revenue": 9000000,
     "est_revenue_fmt": "$9.0M",
     "est_revenue_won": "44.9억",
-    "est_revenue_krw": 12241819476
-  },
-  {
-    "rank": 19,
-    "title": "LINE：ディズニー ツムツム",
-    "developer": "LINE (LY Corporation)",
-    "genre": "Game",
-    "rating": 3.9,
-    "app_id": "com.linecorp.LGTMTM",
-    "local_name": "LINE：ディズニー ツムツム",
-    "icon": "https://play-lh.googleusercontent.com/6cn7tLHK9DqomMHdDYDUfGqaVuNbIpg0yHJxpugoA6EytfvCbh5aNULV6z8mPEKADw5GIThZs0ZelgdblH50XSc",
-    "est_revenue": 9000000,
-    "est_revenue_fmt": "$9.0M",
-    "est_revenue_won": "35.8억",
     "est_revenue_krw": 12241819476
   },
   {
@@ -372,27 +372,13 @@
     "app_id": "jp.konami.prospia",
     "local_name": "プロ野球スピリッツA",
     "icon": "https://play-lh.googleusercontent.com/F0IB7v9CufHt5hKPRfXC9WS7tOUunAuCD3_JtdMJTtlhkG93qwmNCg6Cbcbf10aipCZZ3rv82QA-6REtVaVLHD8",
-    "est_revenue": 8376961,
-    "est_revenue_fmt": "$8.4M",
+    "est_revenue": 7494678,
+    "est_revenue_fmt": "$7.5M",
     "est_revenue_won": "32.4억",
-    "est_revenue_krw": 11394360480
+    "est_revenue_krw": 10194277234
   },
   {
     "rank": 28,
-    "title": "Kingshot",
-    "developer": "Century Games PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.6,
-    "app_id": "com.run.tower.defense",
-    "local_name": "Kingshot",
-    "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
-    "est_revenue": 7068455,
-    "est_revenue_fmt": "$7.1M",
-    "est_revenue_won": "29.5억",
-    "est_revenue_krw": 9614527787
-  },
-  {
-    "rank": 29,
     "title": "eFootball™",
     "developer": "KONAMI",
     "genre": "Game",
@@ -404,6 +390,20 @@
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "20.0억",
     "est_revenue_krw": 8161212984
+  },
+  {
+    "rank": 29,
+    "title": "Kingshot",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 3.6,
+    "app_id": "com.run.tower.defense",
+    "local_name": "Kingshot",
+    "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
+    "est_revenue": 913746,
+    "est_revenue_fmt": "$914K",
+    "est_revenue_won": "29.5억",
+    "est_revenue_krw": 1242879287
   },
   {
     "rank": 30,
@@ -603,20 +603,6 @@
   },
   {
     "rank": 44,
-    "title": "バンドリ！アワーノーツ",
-    "developer": "株式会社ブシロード",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.bushiroad.sirius",
-    "local_name": "バンドリ！アワーノーツ",
-    "icon": "https://play-lh.googleusercontent.com/2C3RAi3RD4mf4u2SC9Hl-E1XFm2wduLxQ8Q7qnWQ6yzaHekzjN4Ujxu3Rfd1QjglCRjIty94_kqYITS1S3Br",
-    "est_revenue": 385991,
-    "est_revenue_fmt": "$386K",
-    "est_revenue_won": "18.5억",
-    "est_revenue_krw": 525025793
-  },
-  {
-    "rank": 45,
     "title": "信長の野望 覇道",
     "developer": "KOEI TECMO GAMES CO., LTD.",
     "genre": "Game",
@@ -624,10 +610,24 @@
     "app_id": "jp.co.koeitecmo.Power",
     "local_name": "信長の野望 覇道",
     "icon": "https://play-lh.googleusercontent.com/zT82LJTdzp4bcJBvkH5_wKW8yzLirUxslhuUa7jM8UF4RYF0dM30D3ohbY1Xu1uBdjHJpo_cdKVp68l2sxXr",
-    "est_revenue": 385991,
-    "est_revenue_fmt": "$386K",
+    "est_revenue": 393865,
+    "est_revenue_fmt": "$394K",
     "est_revenue_won": "",
-    "est_revenue_krw": 525025793
+    "est_revenue_krw": 535736025
+  },
+  {
+    "rank": 45,
+    "title": "バンドリ！アワーノーツ",
+    "developer": "株式会社ブシロード",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.bushiroad.sirius",
+    "local_name": "バンドリ！アワーノーツ",
+    "icon": "https://play-lh.googleusercontent.com/2C3RAi3RD4mf4u2SC9Hl-E1XFm2wduLxQ8Q7qnWQ6yzaHekzjN4Ujxu3Rfd1QjglCRjIty94_kqYITS1S3Br",
+    "est_revenue": 369476,
+    "est_revenue_fmt": "$369K",
+    "est_revenue_won": "18.5억",
+    "est_revenue_krw": 502562055
   },
   {
     "rank": 46,
@@ -638,10 +638,10 @@
     "app_id": "com.square_enix.android_googleplay.RSRS",
     "local_name": "ロマンシング サガ リ･ユニバース",
     "icon": "https://play-lh.googleusercontent.com/0HFAoMERMeV-YZo5Q4Ahyb9Hijq8UFsgNDDL1miUHky3IRQUnaZ7BwBXTQjZav_-OMAX6gRXkA6nOdXbcHdQEg",
-    "est_revenue": 385991,
-    "est_revenue_fmt": "$386K",
+    "est_revenue": 369476,
+    "est_revenue_fmt": "$369K",
     "est_revenue_won": "14.4억",
-    "est_revenue_krw": 525025793
+    "est_revenue_krw": 502562055
   },
   {
     "rank": 47,
