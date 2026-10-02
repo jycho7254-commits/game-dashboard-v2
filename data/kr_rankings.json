@@ -36,10 +36,10 @@
     "app_id": "com.kurogame.wutheringwaves.global",
     "local_name": "명조",
     "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_",
-    "est_revenue": 8289002,
+    "est_revenue": 8266823,
     "est_revenue_fmt": "$8.3M",
     "est_revenue_won": "60.0억",
-    "est_revenue_krw": 11274718458
+    "est_revenue_krw": 11244550534
   },
   {
     "rank": 4,
@@ -50,10 +50,10 @@
     "app_id": "com.smilegate.eclipse.stove.google",
     "local_name": "이클립스: 더 어웨이크닝",
     "icon": "https://play-lh.googleusercontent.com/JhepoyYDmabwj5ffSFC3cyfAdllyeIdHzSW5a3i_nlzsahXojL7S57JR1_RlYYkRh02OXzZM6K1s9KWnd-1Mpw",
-    "est_revenue": 8142481,
+    "est_revenue": 8105271,
     "est_revenue_fmt": "$8.1M",
     "est_revenue_won": "66.1억",
-    "est_revenue_krw": 11075420277
+    "est_revenue_krw": 11024807154
   },
   {
     "rank": 5,
@@ -64,10 +64,10 @@
     "app_id": "com.epidgames.trickcalrevive",
     "local_name": "트릭컬 리바이브 - 3주년 600뽑기 증정",
     "icon": "https://play-lh.googleusercontent.com/7WntpQt6D18uzI3amQ_SrHYl74se-bQl1PXORC1xUpkc5KtkPPdYcX8WZXOH-NS5BMwlLICJ-CUifGkvsD_C98s",
-    "est_revenue": 8030616,
+    "est_revenue": 7982139,
     "est_revenue_fmt": "$8.0M",
     "est_revenue_won": "74.8억",
-    "est_revenue_krw": 10923261261
+    "est_revenue_krw": 10857322741
   },
   {
     "rank": 6,
@@ -78,27 +78,13 @@
     "app_id": "com.gof.global",
     "local_name": "화이트아웃 서바이벌",
     "icon": "https://play-lh.googleusercontent.com/tNMaMiJ4wTQy_TeZSWHdSlP5qH0PGig9g9sDJu2QFvCHdnrbo2u17pX55W4i6KITo56v_ZyICkqLgA2svH9ycQ",
-    "est_revenue": 7940358,
+    "est_revenue": 7882923,
     "est_revenue_fmt": "$7.9M",
     "est_revenue_won": "46.2억",
-    "est_revenue_krw": 10800492135
+    "est_revenue_krw": 10722368923
   },
   {
     "rank": 7,
-    "title": "Roblox",
-    "developer": "Roblox Corporation",
-    "genre": "Game",
-    "rating": 4,
-    "app_id": "com.roblox.client",
-    "local_name": "로블록스",
-    "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
-    "est_revenue": 7864837,
-    "est_revenue_fmt": "$7.9M",
-    "est_revenue_won": "52.1억",
-    "est_revenue_krw": 10697768307
-  },
-  {
-    "rank": 8,
     "title": "오딘: 발할라 라이징",
     "developer": "Kakao Games Corp.",
     "genre": "Game",
@@ -109,6 +95,20 @@
     "est_revenue": 7800000,
     "est_revenue_fmt": "$7.8M",
     "est_revenue_won": "38.0억",
+    "est_revenue_krw": 10609576879
+  },
+  {
+    "rank": 8,
+    "title": "Roblox",
+    "developer": "Roblox Corporation",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "com.roblox.client",
+    "local_name": "로블록스",
+    "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
+    "est_revenue": 7800000,
+    "est_revenue_fmt": "$7.8M",
+    "est_revenue_won": "52.1억",
     "est_revenue_krw": 10609576879
   },
   {
@@ -323,6 +323,20 @@
   },
   {
     "rank": 24,
+    "title": "컴투스프로야구V26",
+    "developer": "Com2uS",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "com.com2us.futurecpb.android.google.global.normal",
+    "local_name": "컴투스프로야구V26",
+    "icon": "https://play-lh.googleusercontent.com/lFrail_ogSgoETUZcsAgLG7gC4lvjcOdffEURRt5kTAaIbr3pdm7s7hrIQNMl-jTu_Hbw7NDuU9gpJZDRsqY",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "9.4억",
+    "est_revenue_krw": 2448363895
+  },
+  {
+    "rank": 25,
     "title": "Genshin Impact 6th Anniversary",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -334,20 +348,6 @@
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "12.1억",
     "est_revenue_krw": 2448363895
-  },
-  {
-    "rank": 25,
-    "title": "컴투스프로야구V26",
-    "developer": "Com2uS",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.com2us.futurecpb.android.google.global.normal",
-    "local_name": "컴투스프로야구V26",
-    "icon": "https://play-lh.googleusercontent.com/lFrail_ogSgoETUZcsAgLG7gC4lvjcOdffEURRt5kTAaIbr3pdm7s7hrIQNMl-jTu_Hbw7NDuU9gpJZDRsqY",
-    "est_revenue": 647440,
-    "est_revenue_fmt": "$647K",
-    "est_revenue_won": "9.4억",
-    "est_revenue_krw": 880649289
   },
   {
     "rank": 26,
@@ -589,20 +589,6 @@
   },
   {
     "rank": 43,
-    "title": "CookieRun: Crumble - Idle RPG",
-    "developer": "Devsisters Corporation",
-    "genre": "Game",
-    "rating": 4.6,
-    "app_id": "com.devsisters.cc",
-    "local_name": "쿠키런: 크럼블",
-    "icon": "https://play-lh.googleusercontent.com/R_hNz7ccD1tSejB2wpQFRSjTjltS1DMl9-wbuSiNiQqigKTExG6geVk53YFXt_iIvQO0wtY2RBak3_RdjKWv",
-    "est_revenue": 239991,
-    "est_revenue_fmt": "$240K",
-    "est_revenue_won": "6.3억",
-    "est_revenue_krw": 326436278
-  },
-  {
-    "rank": 44,
     "title": "Brawl Stars",
     "developer": "Supercell",
     "genre": "Game",
@@ -610,9 +596,23 @@
     "app_id": "com.supercell.brawlstars",
     "local_name": "브롤스타즈",
     "icon": "https://play-lh.googleusercontent.com/wEOIM7cYyXkMExNztvFYKHJLPegXp6h81-P_JQQ_9KQvDCWK49m2zpt1mTRXO5bA2qU_Bp4em_nfMsHXmq8Z",
+    "est_revenue": 239991,
+    "est_revenue_fmt": "$240K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 326436278
+  },
+  {
+    "rank": 44,
+    "title": "CookieRun: Crumble - Idle RPG",
+    "developer": "Devsisters Corporation",
+    "genre": "Game",
+    "rating": 4.6,
+    "app_id": "com.devsisters.cc",
+    "local_name": "쿠키런: 크럼블",
+    "icon": "https://play-lh.googleusercontent.com/R_hNz7ccD1tSejB2wpQFRSjTjltS1DMl9-wbuSiNiQqigKTExG6geVk53YFXt_iIvQO0wtY2RBak3_RdjKWv",
     "est_revenue": 229859,
     "est_revenue_fmt": "$230K",
-    "est_revenue_won": "",
+    "est_revenue_won": "6.3억",
     "est_revenue_krw": 312654709
   },
   {
