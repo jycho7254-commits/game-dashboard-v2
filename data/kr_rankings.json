@@ -36,10 +36,10 @@
     "app_id": "com.kurogame.wutheringwaves.global",
     "local_name": "명조",
     "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_",
-    "est_revenue": 8234621,
-    "est_revenue_fmt": "$8.2M",
+    "est_revenue": 8266823,
+    "est_revenue_fmt": "$8.3M",
     "est_revenue_won": "74.8억",
-    "est_revenue_krw": 11200749304
+    "est_revenue_krw": 11244550534
   },
   {
     "rank": 4,
@@ -50,13 +50,27 @@
     "app_id": "com.smilegate.eclipse.stove.google",
     "local_name": "이클립스: 더 어웨이크닝",
     "icon": "https://play-lh.googleusercontent.com/JhepoyYDmabwj5ffSFC3cyfAdllyeIdHzSW5a3i_nlzsahXojL7S57JR1_RlYYkRh02OXzZM6K1s9KWnd-1Mpw",
-    "est_revenue": 8051372,
+    "est_revenue": 8105271,
     "est_revenue_fmt": "$8.1M",
     "est_revenue_won": "66.1억",
-    "est_revenue_krw": 10951493618
+    "est_revenue_krw": 11024807154
   },
   {
     "rank": 5,
+    "title": "Whiteout Survival",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 4.4,
+    "app_id": "com.gof.global",
+    "local_name": "화이트아웃 서바이벌",
+    "icon": "https://play-lh.googleusercontent.com/tNMaMiJ4wTQy_TeZSWHdSlP5qH0PGig9g9sDJu2QFvCHdnrbo2u17pX55W4i6KITo56v_ZyICkqLgA2svH9ycQ",
+    "est_revenue": 7982139,
+    "est_revenue_fmt": "$8.0M",
+    "est_revenue_won": "52.1억",
+    "est_revenue_krw": 10857322741
+  },
+  {
+    "rank": 6,
     "title": "트릭컬 리바이브 - 3주년 600뽑기 증정",
     "developer": "EPIDGames",
     "genre": "Game",
@@ -64,13 +78,13 @@
     "app_id": "com.epidgames.trickcalrevive",
     "local_name": "트릭컬 리바이브 - 3주년 600뽑기 증정",
     "icon": "https://play-lh.googleusercontent.com/7WntpQt6D18uzI3amQ_SrHYl74se-bQl1PXORC1xUpkc5KtkPPdYcX8WZXOH-NS5BMwlLICJ-CUifGkvsD_C98s",
-    "est_revenue": 7912046,
+    "est_revenue": 7882923,
     "est_revenue_fmt": "$7.9M",
     "est_revenue_won": "60.0억",
-    "est_revenue_krw": 10761982091
+    "est_revenue_krw": 10722368923
   },
   {
-    "rank": 6,
+    "rank": 7,
     "title": "오딘: 발할라 라이징",
     "developer": "Kakao Games Corp.",
     "genre": "Game",
@@ -81,20 +95,6 @@
     "est_revenue": 7800000,
     "est_revenue_fmt": "$7.8M",
     "est_revenue_won": "46.2억",
-    "est_revenue_krw": 10609576879
-  },
-  {
-    "rank": 7,
-    "title": "Whiteout Survival",
-    "developer": "Century Games PTE. LTD.",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.gof.global",
-    "local_name": "화이트아웃 서바이벌",
-    "icon": "https://play-lh.googleusercontent.com/tNMaMiJ4wTQy_TeZSWHdSlP5qH0PGig9g9sDJu2QFvCHdnrbo2u17pX55W4i6KITo56v_ZyICkqLgA2svH9ycQ",
-    "est_revenue": 7800000,
-    "est_revenue_fmt": "$7.8M",
-    "est_revenue_won": "52.1억",
     "est_revenue_krw": 10609576879
   },
   {
@@ -225,20 +225,6 @@
   },
   {
     "rank": 17,
-    "title": "Last War:Survival Game",
-    "developer": "FUNFLY PTE. LTD.",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.fun.lastwar.gp",
-    "local_name": "라스트 워: 서바이벌",
-    "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "18.6억",
-    "est_revenue_krw": 2448363895
-  },
-  {
-    "rank": 18,
     "title": "한게임 포커",
     "developer": "NHN Corp.",
     "genre": "Game",
@@ -249,6 +235,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "17.3억",
+    "est_revenue_krw": 2448363895
+  },
+  {
+    "rank": 18,
+    "title": "Last War:Survival Game",
+    "developer": "FUNFLY PTE. LTD.",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.fun.lastwar.gp",
+    "local_name": "라스트 워: 서바이벌",
+    "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "18.6억",
     "est_revenue_krw": 2448363895
   },
   {
@@ -491,20 +491,6 @@
   },
   {
     "rank": 36,
-    "title": "Royal Kingdom",
-    "developer": "Dream Games, Ltd.",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.dreamgames.royalkingdom",
-    "local_name": "로얄 킹덤",
-    "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
-    "est_revenue": 282272,
-    "est_revenue_fmt": "$282K",
-    "est_revenue_won": "5.6억",
-    "est_revenue_krw": 383946985
-  },
-  {
-    "rank": 37,
     "title": "한게임 섯다&맞고",
     "developer": "NHN Corp.",
     "genre": "Game",
@@ -512,10 +498,24 @@
     "app_id": "com.NHNEnt.MSudda",
     "local_name": "한게임 섯다&맞고",
     "icon": "https://play-lh.googleusercontent.com/CqdDCCaoUKuuANbhIfbCWehb2UTPN6YPbucx6KUzurF6WebH10KPaG46AG-fBCl9w1hAnOqbr2psIJtQFoUOaHw",
-    "est_revenue": 282272,
-    "est_revenue_fmt": "$282K",
+    "est_revenue": 315480,
+    "est_revenue_fmt": "$315K",
     "est_revenue_won": "5.3억",
-    "est_revenue_krw": 383946985
+    "est_revenue_krw": 429116579
+  },
+  {
+    "rank": 37,
+    "title": "Royal Kingdom",
+    "developer": "Dream Games, Ltd.",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.dreamgames.royalkingdom",
+    "local_name": "로얄 킹덤",
+    "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
+    "est_revenue": 268750,
+    "est_revenue_fmt": "$269K",
+    "est_revenue_won": "5.6억",
+    "est_revenue_krw": 365554332
   },
   {
     "rank": 38,
@@ -526,10 +526,10 @@
     "app_id": "jp.co.ponos.battlecatskr",
     "local_name": "냥코 대전쟁",
     "icon": "https://play-lh.googleusercontent.com/zDguVsEup4tga5cr-ln03BFC0FaFnVa6tiyUxQrDOI2sQWVAM1hv0YtEnYJffTVkP5Nfc7FlbQUeITMlLJCwKA",
-    "est_revenue": 282272,
-    "est_revenue_fmt": "$282K",
+    "est_revenue": 268750,
+    "est_revenue_fmt": "$269K",
     "est_revenue_won": "4.6억",
-    "est_revenue_krw": 383946985
+    "est_revenue_krw": 365554332
   },
   {
     "rank": 39,
@@ -540,10 +540,10 @@
     "app_id": "com.neowiz.games.poker",
     "local_name": "피망 포커",
     "icon": "https://play-lh.googleusercontent.com/MkI60z70bUF0YIi9loQzKm08WLinhruANPb6D7j1Gh1iPiLrfL1W-2ZQ0Q8ICCMdkFY0jDlTjx9_iZFVGOourg",
-    "est_revenue": 273054,
-    "est_revenue_fmt": "$273K",
+    "est_revenue": 268750,
+    "est_revenue_fmt": "$269K",
     "est_revenue_won": "5.1억",
-    "est_revenue_krw": 371408642
+    "est_revenue_krw": 365554332
   },
   {
     "rank": 40,
@@ -554,10 +554,10 @@
     "app_id": "com.percent.aos.cooptd",
     "local_name": "쿱 TD: 투게더",
     "icon": "https://play-lh.googleusercontent.com/vTxEJvWJq3cIbideJTNd9ZAYolS4ll7hUlMT3piDAsP6y84EPI-k1tPpoALoCwvmbJMn3LBW-sjzhHpERqfY",
-    "est_revenue": 273054,
-    "est_revenue_fmt": "$273K",
+    "est_revenue": 268750,
+    "est_revenue_fmt": "$269K",
     "est_revenue_won": "4.8억",
-    "est_revenue_krw": 371408642
+    "est_revenue_krw": 365554332
   },
   {
     "rank": 41,
