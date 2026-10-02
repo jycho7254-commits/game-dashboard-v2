@@ -225,20 +225,6 @@
   },
   {
     "rank": 17,
-    "title": "LINE：ディズニー ツムツム",
-    "developer": "LINE (LY Corporation)",
-    "genre": "Game",
-    "rating": 3.9,
-    "app_id": "com.linecorp.LGTMTM",
-    "local_name": "LINE：ディズニー ツムツム",
-    "icon": "https://play-lh.googleusercontent.com/6cn7tLHK9DqomMHdDYDUfGqaVuNbIpg0yHJxpugoA6EytfvCbh5aNULV6z8mPEKADw5GIThZs0ZelgdblH50XSc",
-    "est_revenue": 9000000,
-    "est_revenue_fmt": "$9.0M",
-    "est_revenue_won": "47.9억",
-    "est_revenue_krw": 12241819476
-  },
-  {
-    "rank": 18,
     "title": "ドラゴンクエストウォーク",
     "developer": "SQUARE ENIX Co.,Ltd.",
     "genre": "Game",
@@ -249,6 +235,20 @@
     "est_revenue": 9000000,
     "est_revenue_fmt": "$9.0M",
     "est_revenue_won": "44.9억",
+    "est_revenue_krw": 12241819476
+  },
+  {
+    "rank": 18,
+    "title": "LINE：ディズニー ツムツム",
+    "developer": "LINE (LY Corporation)",
+    "genre": "Game",
+    "rating": 3.9,
+    "app_id": "com.linecorp.LGTMTM",
+    "local_name": "LINE：ディズニー ツムツム",
+    "icon": "https://play-lh.googleusercontent.com/6cn7tLHK9DqomMHdDYDUfGqaVuNbIpg0yHJxpugoA6EytfvCbh5aNULV6z8mPEKADw5GIThZs0ZelgdblH50XSc",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
+    "est_revenue_won": "47.9억",
     "est_revenue_krw": 12241819476
   },
   {
@@ -589,6 +589,20 @@
   },
   {
     "rank": 43,
+    "title": "バンドリ！アワーノーツ",
+    "developer": "株式会社ブシロード",
+    "genre": "Game",
+    "rating": 4.2,
+    "app_id": "com.bushiroad.sirius",
+    "local_name": "バンドリ！アワーノーツ",
+    "icon": "https://play-lh.googleusercontent.com/2C3RAi3RD4mf4u2SC9Hl-E1XFm2wduLxQ8Q7qnWQ6yzaHekzjN4Ujxu3Rfd1QjglCRjIty94_kqYITS1S3Br",
+    "est_revenue": 393865,
+    "est_revenue_fmt": "$394K",
+    "est_revenue_won": "14.4억",
+    "est_revenue_krw": 535736025
+  },
+  {
+    "rank": 44,
     "title": "ブルーアーカイブ",
     "developer": "Yostar, Inc.",
     "genre": "Game",
@@ -602,20 +616,6 @@
     "est_revenue_krw": 535736025
   },
   {
-    "rank": 44,
-    "title": "バンドリ！アワーノーツ",
-    "developer": "株式会社ブシロード",
-    "genre": "Game",
-    "rating": 4.2,
-    "app_id": "com.bushiroad.sirius",
-    "local_name": "バンドリ！アワーノーツ",
-    "icon": "https://play-lh.googleusercontent.com/2C3RAi3RD4mf4u2SC9Hl-E1XFm2wduLxQ8Q7qnWQ6yzaHekzjN4Ujxu3Rfd1QjglCRjIty94_kqYITS1S3Br",
-    "est_revenue": 385991,
-    "est_revenue_fmt": "$386K",
-    "est_revenue_won": "14.4억",
-    "est_revenue_krw": 525025793
-  },
-  {
     "rank": 45,
     "title": "信長の野望 覇道",
     "developer": "KOEI TECMO GAMES CO., LTD.",
@@ -624,10 +624,10 @@
     "app_id": "jp.co.koeitecmo.Power",
     "local_name": "信長の野望 覇道",
     "icon": "https://play-lh.googleusercontent.com/zT82LJTdzp4bcJBvkH5_wKW8yzLirUxslhuUa7jM8UF4RYF0dM30D3ohbY1Xu1uBdjHJpo_cdKVp68l2sxXr",
-    "est_revenue": 385991,
-    "est_revenue_fmt": "$386K",
+    "est_revenue": 393865,
+    "est_revenue_fmt": "$394K",
     "est_revenue_won": "14.0억",
-    "est_revenue_krw": 525025793
+    "est_revenue_krw": 535736025
   },
   {
     "rank": 46,
@@ -638,10 +638,10 @@
     "app_id": "com.square_enix.android_googleplay.RSRS",
     "local_name": "ロマンシング サガ リ･ユニバース",
     "icon": "https://play-lh.googleusercontent.com/0HFAoMERMeV-YZo5Q4Ahyb9Hijq8UFsgNDDL1miUHky3IRQUnaZ7BwBXTQjZav_-OMAX6gRXkA6nOdXbcHdQEg",
-    "est_revenue": 385991,
-    "est_revenue_fmt": "$386K",
+    "est_revenue": 393865,
+    "est_revenue_fmt": "$394K",
     "est_revenue_won": "13.5억",
-    "est_revenue_krw": 525025793
+    "est_revenue_krw": 535736025
   },
   {
     "rank": 47,
@@ -687,16 +687,16 @@
   },
   {
     "rank": 50,
-    "title": "刀剣乱舞ぱずぎり",
-    "developer": "DMMGAMES",
+    "title": "Last Z: Survival Shooter",
+    "developer": "Omnilojo Pte Ltd",
     "genre": "Game",
-    "rating": 4.5,
-    "app_id": "com.dmm.games.touken.puzzle",
-    "local_name": "刀剣乱舞ぱずぎり",
-    "icon": "https://play-lh.googleusercontent.com/XafLOHcjCYAsqXIVq1SWG-fr_TOLhP11J0lLI4zp63HOADXCLkTjE4RmypEm3JiYDReGyytF9vzC3-U623DEiQ",
-    "est_revenue": 300000,
-    "est_revenue_fmt": "$300K",
-    "est_revenue_won": "12.0억",
-    "est_revenue_krw": 408060649
+    "rating": 4.6,
+    "app_id": "com.readygo.barrel.gp",
+    "local_name": "Last Z: Survival Shooter",
+    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
+    "est_revenue": 322299,
+    "est_revenue_fmt": "$322K",
+    "est_revenue_won": "",
+    "est_revenue_krw": 438391797
   }
 ]
