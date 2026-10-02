@@ -99,20 +99,6 @@
   },
   {
     "rank": 8,
-    "title": "Roblox",
-    "developer": "Roblox Corporation",
-    "genre": "Game",
-    "rating": 4,
-    "app_id": "com.roblox.client",
-    "local_name": "로블록스",
-    "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
-    "est_revenue": 7800000,
-    "est_revenue_fmt": "$7.8M",
-    "est_revenue_won": "41.6억",
-    "est_revenue_krw": 10609576879
-  },
-  {
-    "rank": 9,
     "title": "MapleStory : Idle RPG",
     "developer": "NEXON Company",
     "genre": "Game",
@@ -126,7 +112,7 @@
     "est_revenue_krw": 10609576879
   },
   {
-    "rank": 10,
+    "rank": 9,
     "title": "SOL: enchant",
     "developer": "Netmarble",
     "genre": "Game",
@@ -140,6 +126,20 @@
     "est_revenue_krw": 10609576879
   },
   {
+    "rank": 10,
+    "title": "Roblox",
+    "developer": "Roblox Corporation",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "com.roblox.client",
+    "local_name": "로블록스",
+    "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
+    "est_revenue": 5898300,
+    "est_revenue_fmt": "$5.9M",
+    "est_revenue_won": "41.6억",
+    "est_revenue_krw": 8022880424
+  },
+  {
     "rank": 11,
     "title": "Kingshot",
     "developer": "Century Games PTE. LTD.",
@@ -148,10 +148,10 @@
     "app_id": "com.run.tower.defense",
     "local_name": "킹샷",
     "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
-    "est_revenue": 5191295,
-    "est_revenue_fmt": "$5.2M",
+    "est_revenue": 3832441,
+    "est_revenue_fmt": "$3.8M",
     "est_revenue_won": "31.4억",
-    "est_revenue_krw": 7061210693
+    "est_revenue_krw": 5212894542
   },
   {
     "rank": 12,
@@ -162,10 +162,10 @@
     "app_id": "com.mergegames.gossipharbor",
     "local_name": "가십 하버",
     "icon": "https://play-lh.googleusercontent.com/VEmJnv1zUKIcst7pnOOqEFBXItThIbTzS29wxDEhJ9vPnXxNEHJAOkclrUMYFBR9essYJKDhkm-lPR95161D",
-    "est_revenue": 2990057,
-    "est_revenue_fmt": "$3.0M",
+    "est_revenue": 2585404,
+    "est_revenue_fmt": "$2.6M",
     "est_revenue_won": "28.4억",
-    "est_revenue_krw": 4067082002
+    "est_revenue_krw": 3516672116
   },
   {
     "rank": 13,
@@ -379,20 +379,6 @@
   },
   {
     "rank": 28,
-    "title": "Gardenscapes",
-    "developer": "Playrix",
-    "genre": "Game",
-    "rating": 4.7,
-    "app_id": "com.playrix.gardenscapes",
-    "local_name": "가든스케이프",
-    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
-    "est_revenue": 435395,
-    "est_revenue_fmt": "$435K",
-    "est_revenue_won": "8.9억",
-    "est_revenue_krw": 592225221
-  },
-  {
-    "rank": 29,
     "title": "Limbus Company",
     "developer": "Project Moon",
     "genre": "Game",
@@ -400,13 +386,13 @@
     "app_id": "com.ProjectMoon.LimbusCompany",
     "local_name": "림버스 컴퍼니",
     "icon": "https://play-lh.googleusercontent.com/mnqUeIK2w48bqiVf9w3h-6w0SuHrwx1Xh5DFhHHjgcu9x29qGIzs4EO9QeWtmZ42YzPOC29uU2Q73h25Nz9PCQ",
-    "est_revenue": 435395,
-    "est_revenue_fmt": "$435K",
+    "est_revenue": 462406,
+    "est_revenue_fmt": "$462K",
     "est_revenue_won": "8.4억",
-    "est_revenue_krw": 592225221
+    "est_revenue_krw": 628965642
   },
   {
-    "rank": 30,
+    "rank": 29,
     "title": "Seaside Escape®: Merge & Story",
     "developer": "Microfun Limited",
     "genre": "Game",
@@ -414,9 +400,23 @@
     "app_id": "com.gamedots.seasideescape",
     "local_name": "시사이드 이스케이프",
     "icon": "https://play-lh.googleusercontent.com/8nrl-23VkfKxd9HoGpSBaxz0oK3c6hpsFGPwMIyOP94CIndFH8teUUi8ULDr0UHqtVRBJOpHDTdMHvEVE7XjbA",
+    "est_revenue": 410579,
+    "est_revenue_fmt": "$411K",
+    "est_revenue_won": "8.0억",
+    "est_revenue_krw": 558470444
+  },
+  {
+    "rank": 30,
+    "title": "Gardenscapes",
+    "developer": "Playrix",
+    "genre": "Game",
+    "rating": 4.7,
+    "app_id": "com.playrix.gardenscapes",
+    "local_name": "가든스케이프",
+    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
     "est_revenue": 387731,
     "est_revenue_fmt": "$388K",
-    "est_revenue_won": "8.0억",
+    "est_revenue_won": "8.9억",
     "est_revenue_krw": 527392545
   },
   {
