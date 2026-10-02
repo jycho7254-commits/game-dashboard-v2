@@ -281,6 +281,20 @@
   },
   {
     "rank": 21,
+    "title": "Royal Match",
+    "developer": "Dream Games, Ltd.",
+    "genre": "Game",
+    "rating": 4.1,
+    "app_id": "com.dreamgames.royalmatch",
+    "local_name": "Royal Match",
+    "icon": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
+    "est_revenue_won": "32.4억",
+    "est_revenue_krw": 12241819476
+  },
+  {
+    "rank": 22,
     "title": "学園アイドルマスター",
     "developer": "Bandai Namco Entertainment Inc.",
     "genre": "Game",
@@ -294,7 +308,7 @@
     "est_revenue_krw": 12241819476
   },
   {
-    "rank": 22,
+    "rank": 23,
     "title": "Pokémon TCG Pocket",
     "developer": "The Pokémon Company",
     "genre": "Game",
@@ -308,7 +322,7 @@
     "est_revenue_krw": 12241819476
   },
   {
-    "rank": 23,
+    "rank": 24,
     "title": "トゥーンブラスト (Toon Blast)",
     "developer": "Peak",
     "genre": "Game",
@@ -319,20 +333,6 @@
     "est_revenue": 9000000,
     "est_revenue_fmt": "$9.0M",
     "est_revenue_won": "34.0억",
-    "est_revenue_krw": 12241819476
-  },
-  {
-    "rank": 24,
-    "title": "Royal Match",
-    "developer": "Dream Games, Ltd.",
-    "genre": "Game",
-    "rating": 4.1,
-    "app_id": "com.dreamgames.royalmatch",
-    "local_name": "Royal Match",
-    "icon": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
-    "est_revenue": 9000000,
-    "est_revenue_fmt": "$9.0M",
-    "est_revenue_won": "32.4억",
     "est_revenue_krw": 12241819476
   },
   {
@@ -372,13 +372,27 @@
     "app_id": "jp.konami.prospia",
     "local_name": "プロ野球スピリッツA",
     "icon": "https://play-lh.googleusercontent.com/F0IB7v9CufHt5hKPRfXC9WS7tOUunAuCD3_JtdMJTtlhkG93qwmNCg6Cbcbf10aipCZZ3rv82QA-6REtVaVLHD8",
-    "est_revenue": 7494678,
-    "est_revenue_fmt": "$7.5M",
+    "est_revenue": 8376961,
+    "est_revenue_fmt": "$8.4M",
     "est_revenue_won": "28.2억",
-    "est_revenue_krw": 10194277234
+    "est_revenue_krw": 11394360480
   },
   {
     "rank": 28,
+    "title": "Kingshot",
+    "developer": "Century Games PTE. LTD.",
+    "genre": "Game",
+    "rating": 3.7,
+    "app_id": "com.run.tower.defense",
+    "local_name": "Kingshot",
+    "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
+    "est_revenue": 7068455,
+    "est_revenue_fmt": "$7.1M",
+    "est_revenue_won": "26.0억",
+    "est_revenue_krw": 9614527787
+  },
+  {
+    "rank": 29,
     "title": "eFootball™",
     "developer": "KONAMI",
     "genre": "Game",
@@ -390,20 +404,6 @@
     "est_revenue_fmt": "$6.0M",
     "est_revenue_won": "27.1억",
     "est_revenue_krw": 8161212984
-  },
-  {
-    "rank": 29,
-    "title": "Kingshot",
-    "developer": "Century Games PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.7,
-    "app_id": "com.run.tower.defense",
-    "local_name": "Kingshot",
-    "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
-    "est_revenue": 913746,
-    "est_revenue_fmt": "$914K",
-    "est_revenue_won": "26.0억",
-    "est_revenue_krw": 1242879287
   },
   {
     "rank": 30,
@@ -463,20 +463,6 @@
   },
   {
     "rank": 34,
-    "title": "放置少女 - 百花繚乱の萌姫たち",
-    "developer": "C4 Connect Inc.",
-    "genre": "Game",
-    "rating": 4,
-    "app_id": "jp.glee.girl",
-    "local_name": "放置少女 - 百花繚乱の萌姫たち",
-    "icon": "https://play-lh.googleusercontent.com/fkp_VLPLnTcgHIdZutQCvIJhEy5BkpetWeKonidaYW8HrnM-ASjALh2tK5xkku3jJFc6gMY1LF7caAthHTBBFg",
-    "est_revenue": 532360,
-    "est_revenue_fmt": "$532K",
-    "est_revenue_won": "20.9억",
-    "est_revenue_krw": 724117224
-  },
-  {
-    "rank": 35,
     "title": "Tasty Travels: Merge Game",
     "developer": "Century Games PTE. LTD.",
     "genre": "Game",
@@ -484,9 +470,23 @@
     "app_id": "com.fatmerge.global",
     "local_name": "Tasty Travels: Merge Game",
     "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
+    "est_revenue": 532360,
+    "est_revenue_fmt": "$532K",
+    "est_revenue_won": "20.0억",
+    "est_revenue_krw": 724117224
+  },
+  {
+    "rank": 35,
+    "title": "放置少女 - 百花繚乱の萌姫たち",
+    "developer": "C4 Connect Inc.",
+    "genre": "Game",
+    "rating": 4,
+    "app_id": "jp.glee.girl",
+    "local_name": "放置少女 - 百花繚乱の萌姫たち",
+    "icon": "https://play-lh.googleusercontent.com/fkp_VLPLnTcgHIdZutQCvIJhEy5BkpetWeKonidaYW8HrnM-ASjALh2tK5xkku3jJFc6gMY1LF7caAthHTBBFg",
     "est_revenue": 504982,
     "est_revenue_fmt": "$505K",
-    "est_revenue_won": "20.0억",
+    "est_revenue_won": "20.9억",
     "est_revenue_krw": 686877609
   },
   {
