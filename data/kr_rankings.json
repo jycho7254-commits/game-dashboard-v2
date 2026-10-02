@@ -379,20 +379,6 @@
   },
   {
     "rank": 28,
-    "title": "Top Lords",
-    "developer": "GAME SPARK",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.gamespark.topking.gp",
-    "local_name": "Top Lords",
-    "icon": "https://play-lh.googleusercontent.com/F9Nk01jBia2OZFGndBuTP-rJ-ThbicTHpxJj3iZIk-M1-V8qFhVuVQWYAG_zCuggkiRXHrfqyU5XwZPhAJyAfA",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "7.5억",
-    "est_revenue_krw": 2448363895
-  },
-  {
-    "rank": 29,
     "title": "Limbus Company",
     "developer": "Project Moon",
     "genre": "Game",
@@ -406,7 +392,7 @@
     "est_revenue_krw": 2448363895
   },
   {
-    "rank": 30,
+    "rank": 29,
     "title": "Genshin Impact 6th Anniversary",
     "developer": "COGNOSPHERE PTE. LTD.",
     "genre": "Game",
@@ -420,7 +406,7 @@
     "est_revenue_krw": 2448363895
   },
   {
-    "rank": 31,
+    "rank": 30,
     "title": "Seaside Escape®: Merge & Story",
     "developer": "Microfun Limited",
     "genre": "Game",
@@ -428,13 +414,13 @@
     "app_id": "com.gamedots.seasideescape",
     "local_name": "시사이드 이스케이프",
     "icon": "https://play-lh.googleusercontent.com/8nrl-23VkfKxd9HoGpSBaxz0oK3c6hpsFGPwMIyOP94CIndFH8teUUi8ULDr0UHqtVRBJOpHDTdMHvEVE7XjbA",
-    "est_revenue": 366648,
-    "est_revenue_fmt": "$367K",
+    "est_revenue": 387731,
+    "est_revenue_fmt": "$388K",
     "est_revenue_won": "8.0억",
-    "est_revenue_krw": 498715403
+    "est_revenue_krw": 527392545
   },
   {
-    "rank": 32,
+    "rank": 31,
     "title": "NTE: Neverness to Everness",
     "developer": "N2E",
     "genre": "Game",
@@ -442,13 +428,13 @@
     "app_id": "com.hottagames.nte",
     "local_name": "NTE: Neverness to Everness",
     "icon": "https://play-lh.googleusercontent.com/TGl3DdDbi4hty6ooOhEvv_2s5tkpGLbL6derP8y5hK-_Bw--Ve375b08ba9HHQ9ueRpoQ9oye1T_T24BJriLUmw",
-    "est_revenue": 366648,
-    "est_revenue_fmt": "$367K",
+    "est_revenue": 387731,
+    "est_revenue_fmt": "$388K",
     "est_revenue_won": "6.7억",
-    "est_revenue_krw": 498715403
+    "est_revenue_krw": 527392545
   },
   {
-    "rank": 33,
+    "rank": 32,
     "title": "한게임 섯다&맞고",
     "developer": "NHN Corp.",
     "genre": "Game",
@@ -456,27 +442,27 @@
     "app_id": "com.NHNEnt.MSudda",
     "local_name": "한게임 섯다&맞고",
     "icon": "https://play-lh.googleusercontent.com/CqdDCCaoUKuuANbhIfbCWehb2UTPN6YPbucx6KUzurF6WebH10KPaG46AG-fBCl9w1hAnOqbr2psIJtQFoUOaHw",
-    "est_revenue": 366648,
-    "est_revenue_fmt": "$367K",
+    "est_revenue": 387731,
+    "est_revenue_fmt": "$388K",
     "est_revenue_won": "5.3억",
-    "est_revenue_krw": 498715403
+    "est_revenue_krw": 527392545
+  },
+  {
+    "rank": 33,
+    "title": "Top Lords",
+    "developer": "GAME SPARK",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.gamespark.topking.gp",
+    "local_name": "Top Lords",
+    "icon": "https://play-lh.googleusercontent.com/F9Nk01jBia2OZFGndBuTP-rJ-ThbicTHpxJj3iZIk-M1-V8qFhVuVQWYAG_zCuggkiRXHrfqyU5XwZPhAJyAfA",
+    "est_revenue": 387178,
+    "est_revenue_fmt": "$387K",
+    "est_revenue_won": "7.5억",
+    "est_revenue_krw": 526640353
   },
   {
     "rank": 34,
-    "title": "마비노기 모바일",
-    "developer": "NEXON Company",
-    "genre": "Game",
-    "rating": 2.8,
-    "app_id": "com.nexon.devcat.mm",
-    "local_name": "마비노기 모바일",
-    "icon": "https://play-lh.googleusercontent.com/ljE3Q4kOQj0UEjbJoANQpgQ4rxdDvI1h1wARGv6jFgel-5oDIFjfTx2S0nINT8agCEOB_V3C9y61RZFoyLZ4",
-    "est_revenue": 366648,
-    "est_revenue_fmt": "$367K",
-    "est_revenue_won": "6.3억",
-    "est_revenue_krw": 498715403
-  },
-  {
-    "rank": 35,
     "title": "Pmang Poker : Casino Royal",
     "developer": "NEOWIZ corp",
     "genre": "Game",
@@ -484,10 +470,24 @@
     "app_id": "com.neowiz.games.poker",
     "local_name": "피망 포커",
     "icon": "https://play-lh.googleusercontent.com/MkI60z70bUF0YIi9loQzKm08WLinhruANPb6D7j1Gh1iPiLrfL1W-2ZQ0Q8ICCMdkFY0jDlTjx9_iZFVGOourg",
-    "est_revenue": 331687,
-    "est_revenue_fmt": "$332K",
+    "est_revenue": 349094,
+    "est_revenue_fmt": "$349K",
     "est_revenue_won": "5.1억",
-    "est_revenue_krw": 451161375
+    "est_revenue_krw": 474838414
+  },
+  {
+    "rank": 35,
+    "title": "마비노기 모바일",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 2.8,
+    "app_id": "com.nexon.devcat.mm",
+    "local_name": "마비노기 모바일",
+    "icon": "https://play-lh.googleusercontent.com/ljE3Q4kOQj0UEjbJoANQpgQ4rxdDvI1h1wARGv6jFgel-5oDIFjfTx2S0nINT8agCEOB_V3C9y61RZFoyLZ4",
+    "est_revenue": 349094,
+    "est_revenue_fmt": "$349K",
+    "est_revenue_won": "6.3억",
+    "est_revenue_krw": 474838414
   },
   {
     "rank": 36,
@@ -498,10 +498,10 @@
     "app_id": "com.krd8.google",
     "local_name": "로그W : 리메인즈 오브 갓",
     "icon": "https://play-lh.googleusercontent.com/wPufQAobuu_bMHJyHAmyZLteiFXFFfGyr_II-agf6JMw518mjIbDzFdR3LXbuKvT12TQ2kPvjRvLN-nyJ8NAyA",
-    "est_revenue": 331687,
+    "est_revenue": 332085,
     "est_revenue_fmt": "$332K",
     "est_revenue_won": "7.1억",
-    "est_revenue_krw": 451161375
+    "est_revenue_krw": 451702736
   },
   {
     "rank": 37,
@@ -512,10 +512,10 @@
     "app_id": "com.readygo.barrel.gp",
     "local_name": "라스트 Z: 서바이벌 슈터",
     "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
-    "est_revenue": 331687,
+    "est_revenue": 332085,
     "est_revenue_fmt": "$332K",
     "est_revenue_won": "6.0억",
-    "est_revenue_krw": 451161375
+    "est_revenue_krw": 451702736
   },
   {
     "rank": 38,
