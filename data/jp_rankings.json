@@ -323,20 +323,6 @@
   },
   {
     "rank": 24,
-    "title": "Pokémon GO",
-    "developer": "Scopely Explore, Inc.",
-    "genre": "Game",
-    "rating": 3.5,
-    "app_id": "com.nianticlabs.pokemongo",
-    "local_name": "Pokémon GO",
-    "icon": "https://play-lh.googleusercontent.com/DUA40mf0fd6lUkU_Pvfw78BOoY37nPNM5tKw0tf4sCqzJfNwR84wqj-J00WN99QaZ89SpruNsU1xX7sDw6uBZg",
-    "est_revenue": 9000000,
-    "est_revenue_fmt": "$9.0M",
-    "est_revenue_won": "32.4억",
-    "est_revenue_krw": 12137455179
-  },
-  {
-    "rank": 25,
     "title": "パズル＆ドラゴンズ(Puzzle & Dragons)",
     "developer": "GungHo Online Entertainment, Inc.",
     "genre": "Game",
@@ -347,6 +333,20 @@
     "est_revenue": 9000000,
     "est_revenue_fmt": "$9.0M",
     "est_revenue_won": "30.9억",
+    "est_revenue_krw": 12137455179
+  },
+  {
+    "rank": 25,
+    "title": "Pokémon GO",
+    "developer": "Scopely Explore, Inc.",
+    "genre": "Game",
+    "rating": 3.5,
+    "app_id": "com.nianticlabs.pokemongo",
+    "local_name": "Pokémon GO",
+    "icon": "https://play-lh.googleusercontent.com/DUA40mf0fd6lUkU_Pvfw78BOoY37nPNM5tKw0tf4sCqzJfNwR84wqj-J00WN99QaZ89SpruNsU1xX7sDw6uBZg",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
+    "est_revenue_won": "32.4억",
     "est_revenue_krw": 12137455179
   },
   {
@@ -477,20 +477,6 @@
   },
   {
     "rank": 35,
-    "title": "Zenless Zone Zero",
-    "developer": "COGNOSPHERE PTE. LTD.",
-    "genre": "Game",
-    "rating": 3.3,
-    "app_id": "com.HoYoverse.Nap",
-    "local_name": "Zenless Zone Zero",
-    "icon": "https://play-lh.googleusercontent.com/N8j-t_IXvDvqFzN3U_19OJPIyAHHgljwVa7TMyCYpdRXRykalU3HKq9u9oPnzDXEkUOX1yyuX16yuWNDrUC_Uw",
-    "est_revenue": 532360,
-    "est_revenue_fmt": "$532K",
-    "est_revenue_won": "20.0억",
-    "est_revenue_krw": 717943960
-  },
-  {
-    "rank": 36,
     "title": "キングダム 覇道",
     "developer": "Bandai Namco Entertainment Inc.",
     "genre": "Game",
@@ -501,6 +487,20 @@
     "est_revenue": 532360,
     "est_revenue_fmt": "$532K",
     "est_revenue_won": "19.2억",
+    "est_revenue_krw": 717943960
+  },
+  {
+    "rank": 36,
+    "title": "Zenless Zone Zero",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "genre": "Game",
+    "rating": 3.3,
+    "app_id": "com.HoYoverse.Nap",
+    "local_name": "Zenless Zone Zero",
+    "icon": "https://play-lh.googleusercontent.com/N8j-t_IXvDvqFzN3U_19OJPIyAHHgljwVa7TMyCYpdRXRykalU3HKq9u9oPnzDXEkUOX1yyuX16yuWNDrUC_Uw",
+    "est_revenue": 532360,
+    "est_revenue_fmt": "$532K",
+    "est_revenue_won": "20.0억",
     "est_revenue_krw": 717943960
   },
   {
@@ -631,20 +631,6 @@
   },
   {
     "rank": 46,
-    "title": "にゃんこ大戦争",
-    "developer": "PONOS Corporation",
-    "genre": "Game",
-    "rating": 4.5,
-    "app_id": "jp.co.ponos.battlecats",
-    "local_name": "にゃんこ大戦争",
-    "icon": "https://play-lh.googleusercontent.com/_zq2tHsoecoSDTyxqZr9VdehQ2If63W2YXKzM10feM192S9uLsY7RNWOyKN5UXAWQL3bSBnC2tIp5bvlBNmn8Q",
-    "est_revenue": 353924,
-    "est_revenue_fmt": "$354K",
-    "est_revenue_won": "13.5억",
-    "est_revenue_krw": 477304076
-  },
-  {
-    "rank": 47,
     "title": "Wizardry Variants Daphne",
     "developer": "株式会社ドリコム",
     "genre": "Game",
@@ -652,9 +638,23 @@
     "app_id": "jp.co.drecom.wizardry.daphne",
     "local_name": "Wizardry Variants Daphne",
     "icon": "https://play-lh.googleusercontent.com/zHq6ZKQhVsI5DTjy05zsWTggWgQfNZ7Qg5PJk5Kv3Rhctyt2HgfYYXHjEhS6k_6Y5NzwKvf2ZpQiXCWfc9htnw",
+    "est_revenue": 353924,
+    "est_revenue_fmt": "$354K",
+    "est_revenue_won": "13.1억",
+    "est_revenue_krw": 477304076
+  },
+  {
+    "rank": 47,
+    "title": "にゃんこ大戦争",
+    "developer": "PONOS Corporation",
+    "genre": "Game",
+    "rating": 4.5,
+    "app_id": "jp.co.ponos.battlecats",
+    "local_name": "にゃんこ大戦争",
+    "icon": "https://play-lh.googleusercontent.com/_zq2tHsoecoSDTyxqZr9VdehQ2If63W2YXKzM10feM192S9uLsY7RNWOyKN5UXAWQL3bSBnC2tIp5bvlBNmn8Q",
     "est_revenue": 339262,
     "est_revenue_fmt": "$339K",
-    "est_revenue_won": "13.1억",
+    "est_revenue_won": "13.5억",
     "est_revenue_krw": 457530813
   },
   {
