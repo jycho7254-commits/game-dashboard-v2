@@ -211,20 +211,6 @@
   },
   {
     "rank": 16,
-    "title": "Gossip Harbor®: Merge & Story",
-    "developer": "Microfun Limited",
-    "genre": "Game",
-    "rating": 3.6,
-    "app_id": "com.mergegames.gossipharbor",
-    "local_name": "Gossip Harbor",
-    "icon": "https://play-lh.googleusercontent.com/VEmJnv1zUKIcst7pnOOqEFBXItThIbTzS29wxDEhJ9vPnXxNEHJAOkclrUMYFBR9essYJKDhkm-lPR95161D",
-    "est_revenue": 9000000,
-    "est_revenue_fmt": "$9.0M",
-    "est_revenue_won": "51.2억",
-    "est_revenue_krw": 12137455179
-  },
-  {
-    "rank": 17,
     "title": "Trickcal:Chibi Go",
     "developer": "BILIBILI",
     "genre": "Game",
@@ -235,6 +221,20 @@
     "est_revenue": 9000000,
     "est_revenue_fmt": "$9.0M",
     "est_revenue_won": "58.6억",
+    "est_revenue_krw": 12137455179
+  },
+  {
+    "rank": 17,
+    "title": "Gossip Harbor®: Merge & Story",
+    "developer": "Microfun Limited",
+    "genre": "Game",
+    "rating": 3.6,
+    "app_id": "com.mergegames.gossipharbor",
+    "local_name": "Gossip Harbor",
+    "icon": "https://play-lh.googleusercontent.com/VEmJnv1zUKIcst7pnOOqEFBXItThIbTzS29wxDEhJ9vPnXxNEHJAOkclrUMYFBR9essYJKDhkm-lPR95161D",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
+    "est_revenue_won": "51.2억",
     "est_revenue_krw": 12137455179
   },
   {
@@ -323,20 +323,6 @@
   },
   {
     "rank": 24,
-    "title": "パズル＆ドラゴンズ(Puzzle & Dragons)",
-    "developer": "GungHo Online Entertainment, Inc.",
-    "genre": "Game",
-    "rating": 3.2,
-    "app_id": "jp.gungho.pad",
-    "local_name": "パズル＆ドラゴンズ(Puzzle & Dragons)",
-    "icon": "https://play-lh.googleusercontent.com/ra7eGhpGZqaK3zVeyaat5kJZ3qRiJVQ8Yel-fOB4o5lWh6WgeivGdzRTJl14tAKKqBkcDYmw_DSziNL_Dq9F",
-    "est_revenue": 9000000,
-    "est_revenue_fmt": "$9.0M",
-    "est_revenue_won": "35.8억",
-    "est_revenue_krw": 12137455179
-  },
-  {
-    "rank": 25,
     "title": "Pokémon GO",
     "developer": "Scopely Explore, Inc.",
     "genre": "Game",
@@ -347,6 +333,20 @@
     "est_revenue": 9000000,
     "est_revenue_fmt": "$9.0M",
     "est_revenue_won": "27.1억",
+    "est_revenue_krw": 12137455179
+  },
+  {
+    "rank": 25,
+    "title": "パズル＆ドラゴンズ(Puzzle & Dragons)",
+    "developer": "GungHo Online Entertainment, Inc.",
+    "genre": "Game",
+    "rating": 3.2,
+    "app_id": "jp.gungho.pad",
+    "local_name": "パズル＆ドラゴンズ(Puzzle & Dragons)",
+    "icon": "https://play-lh.googleusercontent.com/ra7eGhpGZqaK3zVeyaat5kJZ3qRiJVQ8Yel-fOB4o5lWh6WgeivGdzRTJl14tAKKqBkcDYmw_DSziNL_Dq9F",
+    "est_revenue": 9000000,
+    "est_revenue_fmt": "$9.0M",
+    "est_revenue_won": "35.8억",
     "est_revenue_krw": 12137455179
   },
   {
@@ -631,20 +631,6 @@
   },
   {
     "rank": 46,
-    "title": "Wizardry Variants Daphne",
-    "developer": "株式会社ドリコム",
-    "genre": "Game",
-    "rating": 4.1,
-    "app_id": "jp.co.drecom.wizardry.daphne",
-    "local_name": "Wizardry Variants Daphne",
-    "icon": "https://play-lh.googleusercontent.com/zHq6ZKQhVsI5DTjy05zsWTggWgQfNZ7Qg5PJk5Kv3Rhctyt2HgfYYXHjEhS6k_6Y5NzwKvf2ZpQiXCWfc9htnw",
-    "est_revenue": 353924,
-    "est_revenue_fmt": "$354K",
-    "est_revenue_won": "",
-    "est_revenue_krw": 477304076
-  },
-  {
-    "rank": 47,
     "title": "にゃんこ大戦争",
     "developer": "PONOS Corporation",
     "genre": "Game",
@@ -652,9 +638,23 @@
     "app_id": "jp.co.ponos.battlecats",
     "local_name": "にゃんこ大戦争",
     "icon": "https://play-lh.googleusercontent.com/_zq2tHsoecoSDTyxqZr9VdehQ2If63W2YXKzM10feM192S9uLsY7RNWOyKN5UXAWQL3bSBnC2tIp5bvlBNmn8Q",
+    "est_revenue": 353924,
+    "est_revenue_fmt": "$354K",
+    "est_revenue_won": "14.0억",
+    "est_revenue_krw": 477304076
+  },
+  {
+    "rank": 47,
+    "title": "Wizardry Variants Daphne",
+    "developer": "株式会社ドリコム",
+    "genre": "Game",
+    "rating": 4.1,
+    "app_id": "jp.co.drecom.wizardry.daphne",
+    "local_name": "Wizardry Variants Daphne",
+    "icon": "https://play-lh.googleusercontent.com/zHq6ZKQhVsI5DTjy05zsWTggWgQfNZ7Qg5PJk5Kv3Rhctyt2HgfYYXHjEhS6k_6Y5NzwKvf2ZpQiXCWfc9htnw",
     "est_revenue": 339262,
     "est_revenue_fmt": "$339K",
-    "est_revenue_won": "14.0억",
+    "est_revenue_won": "",
     "est_revenue_krw": 457530813
   },
   {
@@ -687,16 +687,16 @@
   },
   {
     "rank": 50,
-    "title": "あんさんぶるスターズ！！Music",
-    "developer": "Happy Elements K.K",
+    "title": "MementoMori: AFKRPG",
+    "developer": "Bank of Innovation, Inc.",
     "genre": "Game",
-    "rating": 4.6,
-    "app_id": "jp.co.happyelements.boysm",
-    "local_name": "あんさんぶるスターズ！！Music",
-    "icon": "https://play-lh.googleusercontent.com/McMZLXR9hYWUG883v6EVIh5k9P5iME0wPSbgd_bhVNU9hkUV-NlpXsfR4Je8o9TrlF52jzhMUkRQcefF5ZVkFw",
-    "est_revenue": 285000,
-    "est_revenue_fmt": "$285K",
+    "rating": 4.5,
+    "app_id": "jp.boi.mementomori.android",
+    "local_name": "MementoMori: AFKRPG",
+    "icon": "https://play-lh.googleusercontent.com/HG9W8SRyTeeLPFrrS17a06d5ANgakJbHomr73o3l6I23YAiIFL399Y1_Q-2FDBO_zxqETTkphFhE-uTeuD2nH6w",
+    "est_revenue": 336000,
+    "est_revenue_fmt": "$336K",
     "est_revenue_won": "",
-    "est_revenue_krw": 384352747
+    "est_revenue_krw": 453131660
   }
 ]
