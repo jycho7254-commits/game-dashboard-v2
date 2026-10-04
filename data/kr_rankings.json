@@ -407,34 +407,6 @@
   },
   {
     "rank": 30,
-    "title": "Last Asylum: Plague",
-    "developer": "37GAMES GLOBAL",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.phs.global",
-    "local_name": "라스트 어사일럼",
-    "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "10.0억",
-    "est_revenue_krw": 2425300321
-  },
-  {
-    "rank": 31,
-    "title": "Top Lords",
-    "developer": "GAME SPARK",
-    "genre": "Game",
-    "rating": 4.8,
-    "app_id": "com.gamespark.topking.gp",
-    "local_name": "Top Lords",
-    "icon": "https://play-lh.googleusercontent.com/F9Nk01jBia2OZFGndBuTP-rJ-ThbicTHpxJj3iZIk-M1-V8qFhVuVQWYAG_zCuggkiRXHrfqyU5XwZPhAJyAfA",
-    "est_revenue": 1800000,
-    "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "7.1억",
-    "est_revenue_krw": 2425300321
-  },
-  {
-    "rank": 32,
     "title": "Seaside Escape®: Merge & Story",
     "developer": "Microfun Limited",
     "genre": "Game",
@@ -448,21 +420,35 @@
     "est_revenue_krw": 2425300321
   },
   {
-    "rank": 33,
-    "title": "마비노기 모바일",
-    "developer": "NEXON Company",
+    "rank": 31,
+    "title": "Last Asylum: Plague",
+    "developer": "37GAMES GLOBAL",
     "genre": "Game",
-    "rating": 2.8,
-    "app_id": "com.nexon.devcat.mm",
-    "local_name": "마비노기 모바일",
-    "icon": "https://play-lh.googleusercontent.com/ljE3Q4kOQj0UEjbJoANQpgQ4rxdDvI1h1wARGv6jFgel-5oDIFjfTx2S0nINT8agCEOB_V3C9y61RZFoyLZ4",
+    "rating": 4.8,
+    "app_id": "com.phs.global",
+    "local_name": "라스트 어사일럼",
+    "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
-    "est_revenue_won": "6.3억",
+    "est_revenue_won": "10.0억",
     "est_revenue_krw": 2425300321
   },
   {
-    "rank": 34,
+    "rank": 32,
+    "title": "Top Lords",
+    "developer": "GAME SPARK",
+    "genre": "Game",
+    "rating": 4.8,
+    "app_id": "com.gamespark.topking.gp",
+    "local_name": "Top Lords",
+    "icon": "https://play-lh.googleusercontent.com/F9Nk01jBia2OZFGndBuTP-rJ-ThbicTHpxJj3iZIk-M1-V8qFhVuVQWYAG_zCuggkiRXHrfqyU5XwZPhAJyAfA",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "7.1억",
+    "est_revenue_krw": 2425300321
+  },
+  {
+    "rank": 33,
     "title": "Limbus Company",
     "developer": "Project Moon",
     "genre": "Game",
@@ -473,6 +459,20 @@
     "est_revenue": 1800000,
     "est_revenue_fmt": "$1.8M",
     "est_revenue_won": "8.4억",
+    "est_revenue_krw": 2425300321
+  },
+  {
+    "rank": 34,
+    "title": "마비노기 모바일",
+    "developer": "NEXON Company",
+    "genre": "Game",
+    "rating": 2.8,
+    "app_id": "com.nexon.devcat.mm",
+    "local_name": "마비노기 모바일",
+    "icon": "https://play-lh.googleusercontent.com/ljE3Q4kOQj0UEjbJoANQpgQ4rxdDvI1h1wARGv6jFgel-5oDIFjfTx2S0nINT8agCEOB_V3C9y61RZFoyLZ4",
+    "est_revenue": 1800000,
+    "est_revenue_fmt": "$1.8M",
+    "est_revenue_won": "6.3억",
     "est_revenue_krw": 2425300321
   },
   {
@@ -575,20 +575,6 @@
   },
   {
     "rank": 42,
-    "title": "Brawl Stars",
-    "developer": "Supercell",
-    "genre": "Game",
-    "rating": 3.7,
-    "app_id": "com.supercell.brawlstars",
-    "local_name": "브롤스타즈",
-    "icon": "https://play-lh.googleusercontent.com/wEOIM7cYyXkMExNztvFYKHJLPegXp6h81-P_JQQ_9KQvDCWK49m2zpt1mTRXO5bA2qU_Bp4em_nfMsHXmq8Z",
-    "est_revenue": 244311,
-    "est_revenue_fmt": "$244K",
-    "est_revenue_won": "4.0억",
-    "est_revenue_krw": 329181970
-  },
-  {
-    "rank": 43,
     "title": "삼국지: 천하결전",
     "developer": "BILIBILI",
     "genre": "Game",
@@ -600,6 +586,20 @@
     "est_revenue_fmt": "$244K",
     "est_revenue_won": "",
     "est_revenue_krw": 329181970
+  },
+  {
+    "rank": 43,
+    "title": "Brawl Stars",
+    "developer": "Supercell",
+    "genre": "Game",
+    "rating": 3.7,
+    "app_id": "com.supercell.brawlstars",
+    "local_name": "브롤스타즈",
+    "icon": "https://play-lh.googleusercontent.com/wEOIM7cYyXkMExNztvFYKHJLPegXp6h81-P_JQQ_9KQvDCWK49m2zpt1mTRXO5bA2qU_Bp4em_nfMsHXmq8Z",
+    "est_revenue": 239991,
+    "est_revenue_fmt": "$240K",
+    "est_revenue_won": "4.0억",
+    "est_revenue_krw": 323361250
   },
   {
     "rank": 44,
@@ -687,16 +687,16 @@
   },
   {
     "rank": 50,
-    "title": "Vampir",
-    "developer": "Netmarble",
+    "title": "Hollywood Merge",
+    "developer": "VoyagerOne IE",
     "genre": "Game",
-    "rating": 4.4,
-    "app_id": "com.netmarble.thered",
-    "local_name": "Vampir",
-    "icon": "https://play-lh.googleusercontent.com/O3AtBJqCPmOHow-d2tskDjwXGWpYpgz2bPEJC5s-FQ1BzmtxnFTQ4h6OTTJ74pyih8KBs78UsTk7w6PAHkbt",
-    "est_revenue": 180000,
-    "est_revenue_fmt": "$180K",
+    "rating": 4.7,
+    "app_id": "com.hollywood.merge",
+    "local_name": "할리우드 머지",
+    "icon": "https://play-lh.googleusercontent.com/5mzN7_uKeXNnloF-zlXGxiwKuepToEdRwbFUK_aQqk7ORLUGPsMwQK__J9IL9DBMWty-zuLvZ4FYHikK2xCttIw",
+    "est_revenue": 153000,
+    "est_revenue_fmt": "$153K",
     "est_revenue_won": "",
-    "est_revenue_krw": 242530032
+    "est_revenue_krw": 206150527
   }
 ]
